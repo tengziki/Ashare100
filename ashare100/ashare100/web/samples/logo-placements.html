@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Logo 摆放样例</title>
+<style>
+:root{--paper:#F5F5F4;--ink:#1F2328;--muted:#6B7078;--faint:#8A9099;--border:#E2E2E0;--amber:#D99A1E;--up:#D93A3A;--down:#13A06F}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font:14px/1.6 "PingFang SC","Microsoft YaHei",system-ui,sans-serif}
+.wrap{max-width:1180px;margin:0 auto;padding:24px 24px 60px}
+h1{margin:0;font-size:22px}.lead{margin:4px 0 14px;color:var(--muted)}
+.bar{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:18px;font-size:13px;color:var(--muted)}
+.seg{display:inline-flex;background:#EAEAE7;border-radius:8px;padding:3px}
+.seg button{border:0;background:none;padding:4px 12px;border-radius:6px;font:inherit;font-size:12px;color:var(--muted);cursor:pointer}
+.seg button.on{background:#fff;color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.1)}
+.sec{background:#fff;border:1px solid var(--border);border-radius:14px;padding:18px 20px;margin-bottom:16px}
+.sec>header{display:flex;align-items:baseline;gap:10px;margin-bottom:12px}
+.sec h2{margin:0;font-size:16px}.stars{color:var(--amber);font-size:13px;letter-spacing:2px}
+.sec>header p{margin:0 0 0 auto;font-size:12px;color:var(--muted);max-width:560px;text-align:right}
+/* Logo 统一容器：白底圆角方块 + 细边，图标尺寸不一也能整齐 */
+.lg{flex:none;display:inline-flex;align-items:center;justify-content:center;background:#fff;border:1px solid var(--border);border-radius:22%;overflow:hidden;vertical-align:middle}
+.lg img{width:72%;height:72%;object-fit:contain}
+.lg.mono{background:#2B3036;border-color:#2B3036;color:#fff;font-weight:800}
+.gray .lg img{filter:grayscale(1) contrast(1.1);opacity:.85}
+.gray .lg:hover img{filter:none;opacity:1}
+/* A 公司页头部 */
+.hero{display:flex;align-items:center;gap:18px}
+.hero h3{margin:0;font-size:34px;line-height:1.1}.hero .sub{color:var(--muted);font-size:13px}
+.hero .tags{display:flex;gap:6px;margin-top:6px}.tag{font-size:12px;border:1px solid var(--border);border-radius:99px;padding:1px 10px}
+/* B 顶栏搜索 / 吸顶条 */
+.top{background:#1F2328;border-radius:10px;padding:10px 14px;display:flex;gap:14px;align-items:flex-start}
+.search{width:330px;background:#2B3036;border:1px solid #3A4048;border-radius:8px;padding:6px 10px;color:#A3A7AD;font-size:13px}
+.drop{margin-top:6px;background:#fff;border-radius:8px;box-shadow:0 10px 24px rgba(0,0,0,.25);overflow:hidden;color:var(--ink)}
+.drop div{display:flex;align-items:center;gap:10px;padding:7px 10px;font-size:13px}.drop div:hover{background:#F4F4F2}
+.drop small{margin-left:auto;color:var(--faint);font-family:ui-monospace,monospace}
+.sum{flex:1;display:flex;align-items:center;gap:10px;color:#fff;font-size:13px;padding-top:4px}
+.sum b{font-size:15px}.sum .up{color:#FF7A7A}
+/* C 榜单 */
+table{width:100%;border-collapse:collapse;font-size:13px}
+th{color:var(--muted);font-weight:500;text-align:right;padding:6px 10px;border-bottom:1px solid var(--border);background:#F7F7F6}
+td{padding:7px 10px;border-bottom:1px solid var(--border);text-align:right}
+th:nth-child(-n+2),td:nth-child(-n+2){text-align:left}
+td.nm{display:flex;align-items:center;gap:10px}td.nm small{display:block;color:var(--faint);font-size:11px;font-family:ui-monospace,monospace}
+.up{color:var(--up)}.dn{color:var(--down)}
+/* D 对比页 chip */
+.chips{display:flex;gap:8px;flex-wrap:wrap}
+.chip{display:inline-flex;align-items:center;gap:8px;height:38px;padding:0 10px 0 5px;border:1px solid var(--border);border-radius:99px;font-size:13px}
+.chip small{color:var(--faint);font-family:ui-monospace,monospace}
+/* E 排行卡 / 同行 */
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.rk{border:1px solid var(--border);border-radius:12px;padding:12px 14px}.rk h4{margin:0 0 6px;font-size:14px}
+.rk .r{display:grid;grid-template-columns:18px 22px 1fr auto;gap:8px;align-items:center;padding:5px 0;border-bottom:1px dashed var(--border);font-size:13px}
+.rk .r i{font-style:normal;color:var(--faint);font-size:11px}
+/* F 首页树图下钻 / 行业页 */
+.tiles{display:grid;grid-template-columns:2fr 1.4fr 1fr 1fr;grid-template-rows:90px 70px;gap:4px}
+.tile{position:relative;border-radius:8px;padding:8px 10px;color:#fff;overflow:hidden}
+.tile .lg{position:absolute;right:8px;bottom:8px}
+.tile b{display:block;font-size:13px}.tile span{font-size:18px;font-weight:700}
+/* G 时间轴气泡 */
+.bubs{display:flex;align-items:center;gap:22px;padding:6px 0}
+.bub{display:flex;align-items:center;gap:6px;font-size:12px}
+.bub .lg{border-radius:50%;box-shadow:0 0 0 2px #fff,0 0 0 3.5px #E86A54}
+.no{opacity:.55}
+.verdict{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:6px}
+.verdict div{border-radius:10px;padding:10px 12px;font-size:13px}
+.v1{background:#FBF3E2}.v2{background:#F1F2F3}.v3{background:#FBEDEA}
+.verdict b{display:block;margin-bottom:2px}
+</style></head><body>
+<div class="wrap">
+<h1>公司 Logo · 摆放样例</h1>
+<p class="lead">用已下载的 logo（<code>web/logos/</code>）。缺失的公司用“首字字标”占位，补全后自动替换。星级 = 推荐程度。</p>
+<div class="bar">Logo 风格：<span class="seg" id="style"><button data-v="color" class="on">彩色</button><button data-v="gray">灰度（悬停恢复彩色，更统一）</button></span><span id="stat"></span></div>
+<div id="root"></div>
+</div>
+<script src="../data.js"></script>
+<script>
+const C=window.__DATA__.companies;
+const money=v=>v>=1e12?(v/1e12).toFixed(2)+'万亿':(v/1e8).toFixed(0)+'亿';
+const sp=v=>v==null?'—':(v>0?'+':'')+v.toFixed(2)+'%';
+const R=Object.keys(C).map(k=>({k,name:C[k].identity.name_abbr,ind:C[k].identity.industry_sw1,mv:C[k].market.total_mv,chg:C[k].market.change_pct,pe:C[k].market.pe_ttm,dy:C[k].market.dividend_yield,ytd:C[k].market.ytd_return})).sort((a,b)=>b.mv-a.mv);
+const by=k=>R.find(r=>r.k===k);
+let LOGO={};
+// 统一 logo 组件：有图用图，加载失败或缺失时退回首字字标
+const lg=(k,s)=>{const f=LOGO[k]?.file,n=by(k).name;return f?`<span class="lg" style="width:${s}px;height:${s}px"><img src="../logos/${f}" alt="" onerror="this.parentNode.outerHTML='<span class=\\'lg mono\\' style=\\'width:${s}px;height:${s}px;font-size:${Math.round(s*.45)}px\\'>${n[0]}</span>'"></span>`:`<span class="lg mono" style="width:${s}px;height:${s}px;font-size:${Math.round(s*.45)}px">${n[0]}</span>`};
+function render(){
+ const top=R.slice(0,8), m=by('600519.SH');
+ document.getElementById('root').innerHTML=`
+ <section class="sec"><header><h2>A · 公司档案页头部</h2><span class="stars">★★★</span><p>最推荐：公司页是“档案”的核心，logo 放在公司名左侧，一眼确认“是这家”；尺寸 64px。</p></header>
+  <div class="hero">${lg(m.k,64)}<div><h3>${m.name}</h3><div class="sub">贵州茅台酒股份有限公司 · ${m.k}</div><div class="tags"><span class="tag">主板</span><span class="tag">食品饮料 · 白酒Ⅱ</span><span class="tag">上证50</span></div></div></div></section>
+
+ <section class="sec"><header><h2>B · 顶栏搜索下拉 + 吸顶摘要条</h2><span class="stars">★★★</span><p>搜索结果里 logo 能明显提高辨识速度（同名、相近名公司）；吸顶条 20px 小 logo 提示当前所在公司。</p></header>
+  <div class="top"><div><div class="search">银行</div><div class="drop">${['601398.SH','601939.SH','600036.SH','601988.SH'].map(k=>`<div>${lg(k,22)}${by(k).name}<small>${k}</small></div>`).join('')}</div></div>
+  <div class="sum">${lg(m.k,22)}<b>${m.name}</b> 1,318.49 <span class="up">▲ +0.67%</span> · 总市值 ${money(m.mv)} · PE ${m.pe.toFixed(2)}</div></div></section>
+
+ <section class="sec"><header><h2>C · 百强榜单 / 首页榜单预览</h2><span class="stars">★★☆</span><p>表格公司列加 24px logo，长表格扫读更快；不增加行高。</p></header>
+  <table><thead><tr><th>排名</th><th>公司</th><th>行业</th><th>总市值</th><th>涨跌幅</th><th>年初至今</th><th>股息率</th></tr></thead><tbody>
+  ${top.map((r,i)=>`<tr><td>${i+1}</td><td class="nm">${lg(r.k,24)}<span>${r.name}<small>${r.k}</small></span></td><td>${r.ind}</td><td>${money(r.mv)}</td><td class="${r.chg>0?'up':'dn'}">${sp(r.chg)}</td><td class="${r.ytd>0?'up':'dn'}">${sp(r.ytd)}</td><td>${r.dy?.toFixed(2)??'—'}%</td></tr>`).join('')}</tbody></table></section>
+
+ <section class="sec"><header><h2>D · 公司对比页的已选公司</h2><span class="stars">★★☆</span><p>logo 替代原来的颜色小圆点，对比图表的图例也同步用 logo，减少“哪个颜色是谁”的来回对照。</p></header>
+  <div class="chips">${['601318.SH','601628.SH','601601.SH','601319.SH'].map(k=>`<span class="chip">${lg(k,28)}<b>${by(k).name}</b><small>${k.slice(0,6)}</small> ×</span>`).join('')}</div></section>
+
+ <section class="sec"><header><h2>E · 排行卡 / 同行对比表</h2><span class="stars">★☆☆</span><p>可选：小尺寸（18–20px）放在名称前。卡片较密，建议用灰度风格避免花哨。</p></header>
+  <div class="grid2">${['股息率','年初至今涨幅'].map((t,j)=>`<div class="rk"><h4>${t}</h4>${R.slice(j*5,j*5+5).map((r,i)=>`<div class="r"><i>${i+1}</i>${lg(r.k,20)}<span>${r.name}</span><b>${j?sp(r.ytd):(r.dy?.toFixed(2)+'%')}</b></div>`).join('')}</div>`).join('')}</div></section>
+
+ <section class="sec"><header><h2>F · 树图下钻到公司 / 行业页公司构成</h2><span class="stars">★☆☆</span><p>只在大格子右下角放 logo 作点缀；小格子不放，避免拥挤。</p></header>
+  <div class="tiles">${R.filter(r=>r.ind==='银行').slice(0,6).map((r,i)=>`<div class="tile" style="background:${['#1F2328','#3A4048','#5A6068','#8A9099','#A3A7AD','#C9CCD1'][i]};${i===0?'grid-row:span 2;':''}${i===1?'grid-row:span 2;':''}"><b>${r.name}</b><span>${money(r.mv)}</span>${i<2?lg(r.k,30):''}</div>`).join('')}</div></section>
+
+ <section class="sec"><header><h2>G · 时间轴公司气泡</h2><span class="stars no">不推荐</span><p>用 logo 替换气泡颜色会丢失“行业 / 板块”着色和市值大小的读法，且 100 个图标同时出现很杂。仅建议在悬停卡片里显示 logo。</p></header>
+  <div class="bubs no">${R.slice(0,6).map((r,i)=>`<span class="bub">${lg(r.k,[44,40,36,32,30,28][i])}${r.name}</span>`).join('')}</div></section>
+
+ <section class="sec"><header><h2>结论</h2></header>
+  <div class="verdict"><div class="v1"><b>建议采用</b>A 公司页头部 · B 搜索下拉与吸顶条 · C 榜单表格 · D 对比页已选公司</div>
+  <div class="v2"><b>可选（灰度）</b>E 排行卡 / 同行表 · F 树图与行业页大格子</div>
+  <div class="v3"><b>不建议</b>G 时间轴气泡、热力图、散点图（元素太密，logo 会喧宾夺主）</div></div></section>`;
+}
+document.getElementById('style').onclick=e=>{const b=e.target.closest('button');if(!b)return;document.querySelectorAll('#style button').forEach(x=>x.classList.toggle('on',x===b));document.body.classList.toggle('gray',b.dataset.v==='gray')};
+fetch('../logos/logos.json').then(r=>r.json()).then(j=>{LOGO=j;const ok=Object.values(j).filter(v=>v.file).length;document.getElementById('stat').textContent=`· 已有 logo ${ok} / 100，其余显示字标`;render()}).catch(()=>{document.getElementById('stat').textContent='· 未读到 logos.json，全部显示字标';render()});
+</script></body></html>

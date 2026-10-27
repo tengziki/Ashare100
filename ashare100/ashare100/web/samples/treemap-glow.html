@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>行业版图样例</title>
+<style>
+:root{--paper:#F5F5F4;--surface:#fff;--ink:#1F2328;--muted:#6B7078;--border:#E2E2E0;--amber:#D99A1E;--up:#D93A3A;--down:#13A06F}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font:14px/1.6 "PingFang SC","Microsoft YaHei",system-ui,sans-serif}
+.wrap{max-width:1280px;margin:0 auto;padding:28px 24px 60px}
+h1{margin:0 0 4px;font-size:22px}.lead{margin:0 0 20px;color:var(--muted)}
+.layout{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:16px}
+@media(max-width:960px){.layout{grid-template-columns:1fr}}
+.panel{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:16px;min-width:0}
+.panel header{display:flex;align-items:center;gap:12px;margin-bottom:12px}
+.panel h2{margin:0;font-size:15px}
+.seg{margin-left:auto;display:flex;background:#EFEFEC;border-radius:8px;padding:3px}
+.seg button{border:0;background:none;padding:5px 12px;border-radius:6px;font:inherit;font-size:13px;color:var(--muted);cursor:pointer}
+.seg button.on{background:#fff;color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.08)}
+/* 树图：容器宽度自适应，所有格子都在框内 */
+.tm{position:relative;width:100%;aspect-ratio:16/9;min-height:320px}
+.tile{position:absolute;overflow:hidden;border-radius:8px;padding:10px 12px;cursor:pointer;color:#fff;
+  background:var(--bg);isolation:isolate;transition:transform .25s cubic-bezier(.2,.7,.2,1),box-shadow .25s}
+/* 光标光斑：径向渐变跟随鼠标，颜色随所在位置变化 */
+.tile::before{content:'';position:absolute;inset:0;z-index:-1;opacity:0;transition:opacity .3s;
+  background:radial-gradient(220px circle at var(--mx,50%) var(--my,50%),var(--glow,rgba(217,154,30,.75)),transparent 65%)}
+.tile::after{content:'';position:absolute;inset:0;z-index:-1;border-radius:inherit;opacity:0;transition:opacity .3s;
+  background:radial-gradient(120px circle at var(--mx,50%) var(--my,50%),rgba(255,255,255,.35),transparent 70%);mix-blend-mode:overlay}
+.tile:hover{transform:translateY(-2px);box-shadow:0 10px 24px rgba(31,35,40,.25);z-index:2}
+.tile:hover::before,.tile:hover::after{opacity:1}
+.tile .n{font-weight:600;font-size:13px;white-space:nowrap}
+.tile .v{font-weight:700;font-size:20px;line-height:1.2;white-space:nowrap}
+.tile .s{font-size:12px;opacity:.8;white-space:nowrap}
+.tile.light{color:var(--ink)}
+.foot{margin-top:10px;font-size:12px;color:var(--muted)}
+/* 同一光斑也用在其他卡片上 */
+.cards{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:16px}
+.card{position:relative;overflow:hidden;isolation:isolate;background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:14px 16px;cursor:default}
+.card::before{content:'';position:absolute;inset:0;z-index:-1;opacity:0;transition:opacity .3s;
+  background:radial-gradient(260px circle at var(--mx) var(--my),var(--glow,rgba(217,154,30,.22)),transparent 60%)}
+.card:hover::before{opacity:1}
+.card small{color:var(--muted);font-size:12px}.card b{display:block;font-size:24px}
+.list{max-height:460px;overflow:auto}
+.row{position:relative;isolation:isolate;display:grid;grid-template-columns:1fr auto auto;gap:10px;padding:7px 8px;border-radius:6px;font-size:13px;cursor:pointer;overflow:hidden}
+.row::before{content:'';position:absolute;inset:0;z-index:-1;opacity:0;transition:opacity .25s;background:radial-gradient(160px circle at var(--mx) var(--my),var(--glow,rgba(217,154,30,.25)),transparent 70%)}
+.row:hover::before,.row.hl::before{opacity:1}
+.row small{color:var(--muted)}.up{color:var(--up)}.dn{color:var(--down)}
+.tipbox{position:fixed;pointer-events:none;z-index:9;background:#1F2328;color:#fff;border-radius:10px;padding:10px 12px;font-size:12px;min-width:200px;opacity:0;transition:opacity .15s;box-shadow:0 12px 30px rgba(0,0,0,.3)}
+.tipbox b{font-size:14px}.tipbox .r{display:flex;justify-content:space-between;gap:16px}
+.note{margin-top:24px;padding:14px 16px;border-left:3px solid var(--amber);background:#fff;border-radius:0 8px 8px 0;color:var(--muted);font-size:13px}
+</style></head><body>
+<div class="wrap">
+<h1>样例 1 · 行业版图（完整显示 + 光标光斑）</h1>
+<p class="lead">树图按容器宽度实时计算，任何缩放下所有格子都在框内；鼠标在格子 / 卡片 / 列表行上移动时，会出现跟随光标的柔光圆斑，颜色随位置在琥珀 → 珊瑚 → 青之间渐变。</p>
+<div class="cards" id="cards"></div>
+<div class="layout">
+  <section class="panel"><header><h2>行业版图</h2><div class="seg" id="seg"><button data-m="mv" class="on">按市值</button><button data-m="ytd">按年初至今涨跌</button></div></header>
+    <div class="tm" id="tm"></div><div class="foot">面积 = 该行业在 100 家中的市值占比；点击格子下钻到公司，再点一次返回。</div></section>
+  <section class="panel"><header><h2>行业列表</h2></header><div class="list" id="list"></div></section>
+</div>
+<div class="note">确认后会套用到正式网页：首页行业版图、指标卡、行业列表、排行卡等“块”状元素统一使用这个光斑效果；树图改为本样例的自适应算法（修复 100% 缩放下右侧被裁掉的问题）。</div>
+</div>
+<div class="tipbox" id="tip"></div>
+<script src="../data.js"></script>
+<script>
+const C=window.__DATA__.companies, codes=Object.keys(C);
+const money=v=>v>=1e12?(v/1e12).toFixed(2)+'万亿':(v/1e8).toFixed(0)+'亿';
+const sp=v=>v==null?'—':(v>0?'+':'')+v.toFixed(1)+'%';
+const rows=codes.map(k=>({k,name:C[k].identity.name_abbr,ind:C[k].identity.industry_sw1,mv:C[k].market.total_mv||0,ytd:C[k].market.ytd_return}));
+const tot=rows.reduce((s,r)=>s+r.mv,0);
+const byInd={};rows.forEach(r=>(byInd[r.ind]||=[]).push(r));
+const inds=Object.entries(byInd).map(([n,rs])=>{const mv=rs.reduce((s,r)=>s+r.mv,0);const w=rs.filter(r=>r.ytd!=null);return{n,rs:rs.sort((a,b)=>b.mv-a.mv),mv,share:mv/tot*100,ytd:w.length?w.reduce((s,r)=>s+r.ytd*r.mv,0)/w.reduce((s,r)=>s+r.mv,0):null}}).sort((a,b)=>b.mv-a.mv);
+// 光斑颜色：按光标在页面中的横向位置在三色之间插值
+const STOPS=[[217,154,30],[232,106,84],[38,166,154]];
+function glowAt(x,a){const t=Math.max(0,Math.min(1,x/innerWidth))*2,i=Math.min(1,Math.floor(t)),f=t-i,c=STOPS[i].map((v,j)=>Math.round(v+(STOPS[i+1][j]-v)*f));return`rgba(${c},${a})`}
+document.addEventListener('pointermove',e=>{const el=e.target.closest('.tile,.card,.row');if(!el)return;const r=el.getBoundingClientRect();el.style.setProperty('--mx',e.clientX-r.left+'px');el.style.setProperty('--my',e.clientY-r.top+'px');el.style.setProperty('--glow',glowAt(e.clientX,el.classList.contains('tile')?.7:.25))});
+// 指标卡
+document.getElementById('cards').innerHTML=[['百强合计总市值',money(tot)],['行业数',inds.length+' 个'],['最大行业',inds[0].n],['当日上涨家数',rows.filter(r=>C[r.k].market.change_pct>0).length+' 家']].map(([a,b])=>`<div class="card"><small>${a}</small><b>${b}</b></div>`).join('');
+// squarify
+function squarify(vals,x,y,w,h){const out=[];let items=vals.map((v,i)=>({v,i}));const total=vals.reduce((a,b)=>a+b,0);items.forEach(it=>it.a=it.v/total*w*h);
+ function worst(row,s){const sum=row.reduce((a,b)=>a+b.a,0),mx=Math.max(...row.map(r=>r.a)),mn=Math.min(...row.map(r=>r.a));return Math.max(s*s*mx/(sum*sum),sum*sum/(s*s*mn))}
+ while(items.length){const s=Math.min(w,h);let row=[items[0]],k=1;while(k<items.length&&worst([...row,items[k]],s)<=worst(row,s)){row.push(items[k]);k++}
+  const sum=row.reduce((a,b)=>a+b.a,0);if(w>=h){const rw=sum/h;let yy=y;row.forEach(r=>{const rh=r.a/rw;out[r.i]={x,y:yy,w:rw,h:rh};yy+=rh});x+=rw;w-=rw}else{const rh=sum/w;let xx=x;row.forEach(r=>{const rw=r.a/rh;out[r.i]={x:xx,y,w:rw,h:rh};xx+=rw});y+=rh;h-=rh}items=items.slice(k)}return out}
+const host=document.getElementById('tm');let mode='mv',drill=null;
+const grey=t=>{const a=[214,216,219],b=[31,35,40];t=Math.sqrt(t);return`rgb(${a.map((c,i)=>Math.round(c+(b[i]-c)*(.1+.9*t)))})`};
+const mkt=v=>{if(v==null)return'#D6D8DB';const k=Math.min(1,Math.abs(v)/40),c=v>=0?[217,58,58]:[19,160,111];return`rgb(${c.map(x=>Math.round(244-(244-x)*(.25+.75*k)))})`};
+const lum=c=>{const[r,g,b]=c.match(/\d+/g).map(Number);return(r*299+g*587+b*114)/1000};
+function draw(){const W=host.clientWidth,H=host.clientHeight,G=3;
+ const items=drill?drill.rs.map(r=>({n:r.name,mv:r.mv,share:r.mv/drill.mv*100,ytd:r.ytd})):inds;
+ const max=Math.max(...items.map(i=>i.mv)),rects=squarify(items.map(i=>i.mv),0,0,W,H);
+ host.innerHTML=items.map((it,i)=>{const r=rects[i],w=r.w-G,h=r.h-G,bg=mode==='mv'?grey(it.mv/max):mkt(it.ytd);
+  // 名称放不下时先用前两个字，再放不下就不显示（悬停可看）；不截断
+  const fit=s=>s.length*13+24<=w, label=h>24?(fit(it.n)?it.n:fit(it.n.slice(0,2))?it.n.slice(0,2):''):'';
+  const big=w>90&&h>64&&fit('00.00万亿'),sub=w>110&&h>88;
+  return`<div class="tile${lum(bg)>150?' light':''}" data-i="${i}" style="left:${r.x}px;top:${r.y}px;width:${w}px;height:${h}px;--bg:${bg}">${label?`<div class="n">${label}</div>`:''}${big?`<div class="v">${money(it.mv)}</div>`:''}${sub?`<div class="s">${mode==='mv'?'占比 '+it.share.toFixed(1)+'%':'年初至今 '+sp(it.ytd)}${it.rs?' · '+it.rs.length+' 家':''}</div>`:''}</div>`}).join('');
+ host._items=items}
+new ResizeObserver(draw).observe(host);
+document.getElementById('seg').onclick=e=>{const b=e.target.closest('button');if(!b)return;mode=b.dataset.m;document.querySelectorAll('#seg button').forEach(x=>x.classList.toggle('on',x===b));draw()};
+host.onclick=e=>{const t=e.target.closest('.tile');if(!t)return;drill=drill?null:inds[+t.dataset.i];draw()};
+const tip=document.getElementById('tip');
+host.onmousemove=e=>{const t=e.target.closest('.tile');if(!t){tip.style.opacity=0;return}const it=host._items[+t.dataset.i];tip.innerHTML=`<b>${it.n}</b><div class="r"><span>总市值</span><span>${money(it.mv)}</span></div><div class="r"><span>占比</span><span>${it.share.toFixed(1)}%</span></div><div class="r"><span>年初至今</span><span>${sp(it.ytd)}</span></div>${it.rs?`<div style="margin-top:6px;opacity:.7">${it.rs.slice(0,5).map(r=>r.name).join('、')}${it.rs.length>5?' 等':''}</div>`:''}`;tip.style.left=Math.min(e.clientX+16,innerWidth-230)+'px';tip.style.top=e.clientY+16+'px';tip.style.opacity=1};
+host.onmouseleave=()=>tip.style.opacity=0;
+document.getElementById('list').innerHTML=inds.map((d,i)=>`<div class="row" data-i="${i}"><span>${d.n} <small>${d.rs.length} 家</small></span><span>${money(d.mv)}</span><span class="${d.ytd>0?'up':'dn'}">${sp(d.ytd)}</span></div>`).join('');
+</script></body></html>

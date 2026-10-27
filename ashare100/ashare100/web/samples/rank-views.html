@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>百强榜单视图样例</title>
+<style>
+:root{--paper:#F5F5F4;--surface:#fff;--ink:#1F2328;--muted:#6B7078;--border:#E2E2E0;--amber:#D99A1E;--up:#D93A3A;--down:#13A06F}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font:14px/1.6 "PingFang SC","Microsoft YaHei",system-ui,sans-serif}
+.wrap{max-width:1320px;margin:0 auto;padding:24px 24px 60px}
+h1{margin:0;font-size:22px}.lead{margin:2px 0 16px;color:var(--muted)}
+.tabs{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:14px}
+.tabs button{border:1px solid var(--border);background:#fff;border-radius:99px;padding:7px 16px;font:inherit;font-size:13px;cursor:pointer;color:var(--muted)}
+.tabs button.on{background:var(--ink);border-color:var(--ink);color:#fff}
+.tabs button b{color:var(--amber);margin-right:4px}
+.desc{margin:0 0 12px;font-size:13px;color:var(--muted)}
+.ctl{display:flex;gap:8px;margin-bottom:12px;flex-wrap:wrap}
+.ctl button{border:0;background:#EAEAE7;border-radius:6px;padding:5px 12px;font:inherit;font-size:12px;cursor:pointer;color:var(--muted)}
+.ctl button.on{background:#fff;color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.1)}
+.stage{position:relative;background:var(--surface);border:1px solid var(--border);border-radius:14px;height:min(72vh,720px);overflow:hidden}
+.tip{position:fixed;pointer-events:none;z-index:9;background:#1F2328;color:#fff;border-radius:10px;padding:10px 12px;font-size:12px;min-width:190px;opacity:0;transition:opacity .12s;box-shadow:0 12px 30px rgba(0,0,0,.3)}
+.tip b{font-size:15px}.tip .rk{color:var(--amber);font-weight:700;margin-right:6px}.tip .r{display:flex;justify-content:space-between;gap:14px}
+.up{color:#FF7A7A}.dn{color:#4FD6A0}
+svg text{font-family:inherit}
+/* 通用：悬停元素 */
+.it{cursor:pointer;transition:opacity .2s, transform .25s}
+.stage.hov .it:not(.on){opacity:.35}
+/* A 气泡 */
+.bub{fill:var(--c);stroke:#fff;stroke-width:1.5}
+.it.on .bub{stroke:var(--amber);stroke-width:3}
+/* B 方阵 */
+.grid{position:absolute;inset:14px;display:grid;grid-template-columns:repeat(10,1fr);grid-template-rows:repeat(10,1fr);gap:6px}
+.cell{position:relative;border-radius:8px;background:var(--c);color:var(--tc);padding:6px 8px;overflow:hidden;display:flex;flex-direction:column;justify-content:space-between;transition:transform .25s cubic-bezier(.2,.8,.2,1),box-shadow .25s,opacity .2s}
+.cell .n{font-size:12px;font-weight:600;white-space:nowrap}.cell .k{font-size:10px;opacity:.75}
+.cell .no{position:absolute;right:6px;top:4px;font-size:10px;opacity:.6}
+.cell.on{transform:scale(1.18);z-index:3;box-shadow:0 12px 26px rgba(0,0,0,.28)}
+/* C 天际线 */
+.bar{fill:var(--c)}.it.on .bar{fill:var(--amber)}
+/* E 环形 */
+.spoke{stroke:var(--c);stroke-width:5;stroke-linecap:round}.it.on .spoke{stroke:var(--amber);stroke-width:8}
+.center b{font-size:22px}
+.legend{display:flex;gap:14px;flex-wrap:wrap;margin-top:10px;font-size:12px;color:var(--muted)}
+.legend i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:4px;vertical-align:-1px}
+.note{margin-top:16px;padding:12px 16px;border-left:3px solid var(--amber);background:#fff;border-radius:0 8px 8px 0;color:var(--muted);font-size:13px}
+</style></head><body>
+<div class="wrap">
+<h1>百强榜单 · 5 种一屏视图</h1>
+<p class="lead">100 家公司都在一屏内，直观看出排名和大小；悬停看详情，点击进入公司档案。选一个（或说混搭哪几个）。</p>
+<div class="tabs" id="tabs"></div>
+<p class="desc" id="desc"></p>
+<div class="ctl" id="ctl"></div>
+<div class="stage" id="stage"></div>
+<div class="legend" id="legend"></div>
+<div class="note">颜色：前 10 名石墨黑、11–30 名深灰、31–60 名中灰、61–100 名浅灰；琥珀色为当前悬停。可在任一视图上切换“按市值 / 按年初至今涨跌着色”。</div>
+</div>
+<div class="tip" id="tip"></div>
+<script src="../data.js"></script>
+<script>
+const C=window.__DATA__.companies;
+const money=v=>v>=1e12?(v/1e12).toFixed(2)+'万亿':(v/1e8).toFixed(0)+'亿';
+const sp=v=>v==null?'—':(v>0?'+':'')+v.toFixed(2)+'%';
+const R=Object.keys(C).map(k=>{const c=C[k];return{k,name:c.identity.name_abbr,ind:c.identity.industry_sw1,mv:c.market.total_mv||0,ytd:c.market.ytd_return,chg:c.market.change_pct}}).sort((a,b)=>b.mv-a.mv);
+R.forEach((r,i)=>r.rank=i+1);
+const MAX=R[0].mv, TOT=R.reduce((s,r)=>s+r.mv,0);
+const TIERS=[[10,'#1F2328','#fff','前 10'],[30,'#4B5058','#fff','11–30'],[60,'#8A9099','#fff','31–60'],[100,'#C9CCD1','#1F2328','61–100']];
+let colorBy='tier';
+const mktCol=v=>{if(v==null)return'#D6D8DB';const k=Math.min(1,Math.abs(v)/50),c=v>=0?[217,58,58]:[19,160,111];return`rgb(${c.map(x=>Math.round(238-(238-x)*(.2+.8*k)))})`};
+const col=r=>colorBy==='ytd'?mktCol(r.ytd):TIERS.find(t=>r.rank<=t[0])[1];
+const tcol=r=>{if(colorBy==='ytd')return'#1F2328';return TIERS.find(t=>r.rank<=t[0])[2]};
+const stage=document.getElementById('stage'),tip=document.getElementById('tip');
+// 通用悬停 / 点击
+stage.addEventListener('mousemove',e=>{const el=e.target.closest('[data-k]');stage.querySelectorAll('.on').forEach(x=>x!==el&&x.classList.remove('on'));
+  if(!el){stage.classList.remove('hov');tip.style.opacity=0;if(view.leave)view.leave();return}
+  el.classList.add('on');stage.classList.add('hov');const r=R.find(x=>x.k===el.dataset.k);
+  tip.innerHTML=`<div><span class="rk">No.${r.rank}</span><b>${r.name}</b></div><div class="r"><span>${r.ind}</span><span>${r.k}</span></div><div class="r"><span>总市值</span><span>${money(r.mv)}</span></div><div class="r"><span>占百强</span><span>${(r.mv/TOT*100).toFixed(2)}%</span></div><div class="r"><span>年初至今</span><span class="${r.ytd>0?'up':'dn'}">${sp(r.ytd)}</span></div>`;
+  tip.style.left=Math.min(e.clientX+16,innerWidth-220)+'px';tip.style.top=Math.min(e.clientY+16,innerHeight-140)+'px';tip.style.opacity=1;if(view.hover)view.hover(r)});
+stage.addEventListener('mouseleave',()=>{tip.style.opacity=0;stage.classList.remove('hov');stage.querySelectorAll('.on').forEach(x=>x.classList.remove('on'));if(view.leave)view.leave()});
+stage.addEventListener('click',e=>{const el=e.target.closest('[data-k]');if(el)location.href='../index.html#/'+el.dataset.k});
+
+const VIEWS={
+ bubble:{t:'气泡星团',d:'圆面积 = 总市值。第 1 名在中心，按排名螺旋向外排布，越往外越小；中心大、外圈碎，大小差距一眼可见。',
+  draw(W,H){const cx=W/2,cy=H/2,k=Math.sqrt(W*H*0.3/R.reduce((s,r)=>s+Math.PI*r.mv,0));const placed=[];
+   const out=R.map(r=>{const rad=Math.max(5,Math.sqrt(r.mv)*k);let a=0,d=0,x=cx,y=cy;
+    if(placed.length){for(;;){x=cx+d*Math.cos(a);y=cy+d*Math.sin(a)*0.8;if(!placed.some(p=>Math.hypot(p.x-x,p.y-y)<p.r+rad+2))break;a+=0.35;d+=0.6}}
+    placed.push({x,y,r:rad});return`<g class="it" data-k="${r.k}"><circle class="bub" cx="${x}" cy="${y}" r="${rad}" style="--c:${col(r)}"/>${rad>22?`<text x="${x}" y="${y-2}" text-anchor="middle" font-size="${Math.min(15,rad/3)}" fill="${tcol(r)}" font-weight="600">${r.name}</text><text x="${x}" y="${y+12}" text-anchor="middle" font-size="10" fill="${tcol(r)}" opacity=".7">No.${r.rank}</text>`:''}</g>`});
+   return`<svg width="${W}" height="${H}">${out.join('')}</svg>`}},
+ grid:{t:'10×10 名次方阵',d:'像座位表：从左到右、从上到下就是第 1 到 100 名，位置即排名；颜色深浅分档，悬停的格子放大。最适合“一眼找到第几名是谁”。',
+  draw(){return`<div class="grid">${R.map(r=>`<div class="cell it" data-k="${r.k}" style="--c:${col(r)};--tc:${tcol(r)}"><span class="no">${r.rank}</span><span class="n">${r.name}</span><span class="k">${money(r.mv)}</span></div>`).join('')}</div>`}},
+ sky:{t:'市值天际线',d:'100 根柱子从高到低排成城市天际线，柱高 = 总市值；前几名像摩天楼，长尾像矮房。下方刻度为名次，前 10 名标注名称。',
+  draw(W,H){const pad=36,bw=(W-pad*2)/100,base=H-40,top=40,h=v=>(v/MAX)*(base-top);
+   return`<svg width="${W}" height="${H}">${[0.25,0.5,0.75,1].map(t=>`<line x1="${pad}" x2="${W-pad}" y1="${base-t*(base-top)}" y2="${base-t*(base-top)}" stroke="#EEE"/><text x="${pad-6}" y="${base-t*(base-top)+4}" text-anchor="end" font-size="10" fill="#999">${money(MAX*t)}</text>`).join('')}
+   ${R.map((r,i)=>`<g class="it" data-k="${r.k}"><rect class="bar" x="${pad+i*bw+1}" y="${base-h(r.mv)}" width="${bw-2}" height="${Math.max(2,h(r.mv))}" rx="2" style="--c:${col(r)}"/>${i<10?`<text x="${pad+i*bw+bw/2}" y="${base-h(r.mv)-6}" text-anchor="middle" font-size="10" fill="#1F2328" transform="rotate(-40 ${pad+i*bw+bw/2} ${base-h(r.mv)-6})">${r.name}</text>`:''}</g>`).join('')}
+   ${[1,10,20,30,40,50,60,70,80,90,100].map(n=>`<text x="${pad+(n-.5)*bw}" y="${base+16}" text-anchor="middle" font-size="10" fill="#999">${n}</text>`).join('')}<text x="${W/2}" y="${base+32}" text-anchor="middle" font-size="11" fill="#999">名次</text></svg>`}},
+ tiers:{t:'分档拼图',d:'整块面积 = 百强总市值，按 前10 / 11–30 / 31–60 / 61–100 四档从左到右分栏，每家面积 = 市值。能同时看到“前 10 名占了多少”和档内排名。',
+  draw(W,H){const G=TIERS.map(([n],i)=>R.filter(r=>r.rank<=n&&r.rank>(i?TIERS[i-1][0]:0)));const sums=G.map(g=>g.reduce((s,r)=>s+r.mv,0));let x=0,html='';
+   G.forEach((g,gi)=>{const w=W*sums[gi]/TOT;let y=0;html+=`<text x="${x+6}" y="16" font-size="11" fill="#6B7078">${TIERS[gi][3]} · ${(sums[gi]/TOT*100).toFixed(0)}%</text>`;
+    const cols=gi===0?1:gi===1?2:gi===2?3:4,colW=w/cols,per=Math.ceil(g.length/cols);
+    for(let c=0;c<cols;c++){const sub=g.slice(c*per,(c+1)*per),ss=sub.reduce((s,r)=>s+r.mv,0);y=24;
+     sub.forEach(r=>{const h=(H-28)*r.mv/ss;html+=`<g class="it" data-k="${r.k}"><rect x="${x+c*colW+1}" y="${y+1}" width="${colW-2}" height="${Math.max(1,h-2)}" rx="4" fill="${col(r)}"/>${h>22&&colW>50?`<text x="${x+c*colW+8}" y="${y+16}" font-size="${Math.min(13,h/2)}" fill="${tcol(r)}" font-weight="600">${r.rank}. ${r.name}</text>`:''}${h>40&&colW>80?`<text x="${x+c*colW+8}" y="${y+31}" font-size="10" fill="${tcol(r)}" opacity=".75">${money(r.mv)}</text>`:''}</g>`;y+=h})}
+    x+=w});return`<svg width="${W}" height="${H}">${html}</svg>`}},
+ radial:{t:'环形榜单',d:'100 条辐条按名次顺时针排成一圈，长度 = 总市值；圆心显示悬停公司。整体像一张抽象的排名“日晷”，第 1 名在 12 点方向。',
+  draw(W,H){const cx=W/2,cy=H/2,r0=Math.min(W,H)*0.16,r1=Math.min(W,H)*0.47;
+   return`<svg width="${W}" height="${H}"><circle cx="${cx}" cy="${cy}" r="${r0-8}" fill="#F7F7F6"/>${R.map((r,i)=>{const a=-Math.PI/2+i/100*Math.PI*2,L=r0+(r1-r0)*Math.sqrt(r.mv/MAX);
+    return`<g class="it" data-k="${r.k}"><line class="spoke" x1="${cx+r0*Math.cos(a)}" y1="${cy+r0*Math.sin(a)}" x2="${cx+L*Math.cos(a)}" y2="${cy+L*Math.sin(a)}" style="--c:${col(r)}"/>${i<8?`<text x="${cx+(L+14)*Math.cos(a)}" y="${cy+(L+14)*Math.sin(a)+4}" text-anchor="${Math.cos(a)>0.1?'start':Math.cos(a)<-0.1?'end':'middle'}" font-size="11" fill="#1F2328">${r.name}</text>`:''}</g>`}).join('')}
+    <g class="center" id="ctr"><text x="${cx}" y="${cy-6}" text-anchor="middle" font-size="13" fill="#6B7078">A 股市值前 100</text><text x="${cx}" y="${cy+16}" text-anchor="middle" font-size="18" font-weight="700" fill="#1F2328">${money(TOT)}</text></g></svg>`},
+  hover(r){const g=document.getElementById('ctr'),[a,b]=g.querySelectorAll('text');a.textContent='No.'+r.rank+' · '+r.ind;b.textContent=r.name+' '+money(r.mv)},
+  leave(){const g=document.getElementById('ctr');if(!g)return;const[a,b]=g.querySelectorAll('text');a.textContent='A 股市值前 100';b.textContent=money(TOT)}}
+};
+let key='bubble',view=VIEWS[key];
+document.getElementById('tabs').innerHTML=Object.entries(VIEWS).map(([k,v],i)=>`<button data-v="${k}" class="${i?'':'on'}"><b>${'ABCDE'[i]}</b>${v.t}</button>`).join('');
+document.getElementById('ctl').innerHTML='<button data-c="tier" class="on">按名次分档着色</button><button data-c="ytd">按年初至今涨跌着色</button>';
+function render(){view=VIEWS[key];document.getElementById('desc').textContent=view.d;stage.innerHTML=view.draw(stage.clientWidth,stage.clientHeight);
+ document.getElementById('legend').innerHTML=colorBy==='ytd'?'<span><i style="background:'+mktCol(40)+'"></i>上涨（越深涨越多）</span><span><i style="background:'+mktCol(-40)+'"></i>下跌</span><span><i style="background:#D6D8DB"></i>新股无基准</span>':TIERS.map(t=>`<span><i style="background:${t[1]}"></i>${t[3]} 名</span>`).join('')}
+document.getElementById('tabs').onclick=e=>{const b=e.target.closest('button');if(!b)return;key=b.dataset.v;document.querySelectorAll('#tabs button').forEach(x=>x.classList.toggle('on',x===b));render()};
+document.getElementById('ctl').onclick=e=>{const b=e.target.closest('button');if(!b)return;colorBy=b.dataset.c;document.querySelectorAll('#ctl button').forEach(x=>x.classList.toggle('on',x===b));render()};
+new ResizeObserver(render).observe(stage);
+</script></body></html>

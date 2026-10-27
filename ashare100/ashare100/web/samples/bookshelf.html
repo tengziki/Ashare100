@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>百强书架样例</title>
+<style>
+:root{--paper:#F5F5F4;--ink:#1F2328;--muted:#6B7078;--border:#E2E2E0;--amber:#D99A1E;--up:#D93A3A;--down:#13A06F}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font:14px/1.6 "PingFang SC","Microsoft YaHei",system-ui,sans-serif}
+.wrap{max-width:1320px;margin:0 auto;padding:28px 24px 80px}
+h1{margin:0 0 4px;font-size:22px}.lead{margin:0 0 18px;color:var(--muted)}
+.ctl{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-bottom:22px}
+.seg{display:flex;background:#EAEAE7;border-radius:8px;padding:3px}
+.seg button{border:0;background:none;padding:6px 14px;border-radius:6px;font:inherit;font-size:13px;color:var(--muted);cursor:pointer}
+.seg button.on{background:#fff;color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.08)}
+.ctl input{height:34px;border:1px solid var(--border);border-radius:8px;padding:0 12px;font:inherit;font-size:13px;width:220px;background:#fff}
+.legend{margin-left:auto;font-size:12px;color:var(--muted)}
+/* 书架 */
+.shelf{position:relative;margin-bottom:34px}
+.shelf-label{display:flex;align-items:baseline;gap:8px;margin:0 0 6px 2px;font-size:13px}
+.shelf-label b{font-size:14px}.shelf-label span{color:var(--muted);font-size:12px}
+.books{display:flex;align-items:flex-end;gap:3px;min-height:60px;padding:0 10px;perspective:900px}
+.plank{height:10px;border-radius:2px;background:linear-gradient(#2B3036,#1F2328);box-shadow:0 8px 14px -6px rgba(0,0,0,.35)}
+.book{position:relative;flex:none;border-radius:3px 3px 1px 1px;cursor:pointer;transform-origin:bottom center;
+  transition:transform .35s cubic-bezier(.2,.8,.2,1),box-shadow .35s,filter .3s;
+  background:linear-gradient(90deg,rgba(0,0,0,.18),rgba(255,255,255,.08) 18%,transparent 40%,rgba(0,0,0,.12)),var(--c);
+  box-shadow:inset -2px 0 0 rgba(0,0,0,.15),0 1px 0 rgba(0,0,0,.2)}
+.book::before,.book::after{content:'';position:absolute;left:3px;right:3px;height:2px;background:var(--band);opacity:.9}
+.book::before{top:10px}.book::after{bottom:12px}
+.book .t{position:absolute;left:50%;top:20px;transform:translateX(-50%);writing-mode:vertical-rl;letter-spacing:2px;
+  font-size:12px;font-weight:600;color:var(--tc);white-space:nowrap;overflow:hidden;max-height:calc(100% - 44px)}
+.book .r{position:absolute;bottom:18px;left:0;right:0;text-align:center;font-size:9px;color:var(--tc);opacity:.7}
+.book:hover{transform:translateY(-14px) rotateZ(-2deg);box-shadow:0 14px 22px -8px rgba(0,0,0,.4);z-index:3}
+.book.dim{filter:grayscale(1) opacity(.25)}
+.book.out{transform:translateY(-26px) rotateY(-28deg);z-index:4;box-shadow:12px 18px 26px -10px rgba(0,0,0,.45)}
+/* 抽出后的封面卡 */
+.cover{position:fixed;inset:0;z-index:20;display:flex;align-items:center;justify-content:center;background:rgba(31,35,40,.35);opacity:0;pointer-events:none;transition:opacity .3s}
+.cover.on{opacity:1;pointer-events:auto}
+.card{width:min(560px,92vw);display:grid;grid-template-columns:150px 1fr;background:#fff;border-radius:14px;overflow:hidden;box-shadow:0 30px 60px rgba(0,0,0,.3);
+  transform:perspective(1000px) rotateY(-70deg) translateX(-80px);transform-origin:left center;transition:transform .55s cubic-bezier(.2,.8,.2,1)}
+.cover.on .card{transform:none}
+.card .spine{position:relative;background:linear-gradient(90deg,rgba(0,0,0,.2),transparent 30%),var(--c);color:var(--tc);padding:18px 14px;display:flex;flex-direction:column;justify-content:space-between}
+.card .spine b{font-size:22px;writing-mode:vertical-rl;letter-spacing:4px}
+.card .spine small{opacity:.75;font-size:12px}
+.card .body{padding:20px 22px}
+.card h2{margin:0;font-size:20px}.card .sub{color:var(--muted);font-size:13px;margin-bottom:12px}
+.kv{display:grid;grid-template-columns:repeat(2,1fr);gap:10px 18px;margin-bottom:14px}
+.kv small{display:block;color:var(--muted);font-size:12px}.kv b{font-size:17px}
+.up{color:var(--up)}.dn{color:var(--down)}
+.card p{font-size:13px;color:#4B5058;margin:0 0 14px;max-height:4.8em;overflow:hidden}
+.card .go{display:inline-block;padding:7px 16px;border-radius:99px;background:var(--ink);color:#fff;text-decoration:none;font-size:13px}
+.card .close{float:right;border:0;background:none;font-size:20px;color:var(--muted);cursor:pointer}
+.note{margin-top:10px;padding:14px 16px;border-left:3px solid var(--amber);background:#fff;border-radius:0 8px 8px 0;color:var(--muted);font-size:13px}
+</style></head><body>
+<div class="wrap">
+<h1>样例 2 · 百强书架</h1>
+<p class="lead">每本书是一家公司：书的高度 = 总市值，书脊颜色 = 行业，书脊下方小字为市值排名。悬停时书会被“抽起”；点击后书转过来，展开成一张封面卡片。</p>
+<div class="ctl">
+  <div class="seg" id="seg"><button data-m="ind" class="on">按行业分层</button><button data-m="mv">按市值排一排</button><button data-m="ytd">按年初至今涨跌</button></div>
+  <input id="q" placeholder="找书：名称 / 代码 / 拼音">
+  <span class="legend">书高 ∝ 总市值 · 颜色 = 行业</span>
+</div>
+<div id="lib"></div>
+<div class="note">确认后会作为榜单页的一种新视图（“书架 / 表格”切换），表格视图保留，用于排序和筛选。</div>
+</div>
+<div class="cover" id="cover"><div class="card" id="card"></div></div>
+<script src="../data.js"></script>
+<script>
+const C=window.__DATA__.companies;
+const money=v=>v==null?'—':v>=1e12?(v/1e12).toFixed(2)+'万亿':(v/1e8).toFixed(0)+'亿';
+const sp=v=>v==null?'—':(v>0?'+':'')+v.toFixed(2)+'%';
+const rows=Object.keys(C).map(k=>{const c=C[k],i=c.identity,m=c.market,a=(c.financials.annual||[])[4]||{};return{k,name:i.name_abbr,ind:i.industry_sw1,ind2:i.industry_sw2,hay:(i.name_abbr+k+(i.pinyin_abbr||'')+(i.aliases||[]).join('')).toLowerCase(),mv:m.total_mv||0,ytd:m.ytd_return,pe:m.pe_ttm,dy:m.dividend_yield,roe:a.roe,list:i.list_date,biz:i.business_summary,prof:i.profile}}).sort((a,b)=>b.mv-a.mv);
+rows.forEach((r,i)=>r.rank=i+1);
+// 书脊配色：石墨 / 琥珀 / 灰阶 / 若干低饱和色，按行业循环
+const PAL=[['#1F2328','#D99A1E','#fff'],['#3A4048','#E9C27A','#fff'],['#D99A1E','#1F2328','#1F2328'],['#5A6068','#F1D49B','#fff'],['#C9CCD1','#1F2328','#1F2328'],['#7A5C2E','#F3DDB0','#fff'],['#2F4F4F','#D99A1E','#fff'],['#8A9099','#fff','#fff'],['#E6D3AE','#7A5C2E','#1F2328'],['#4B3F35','#D99A1E','#fff']];
+const inds=[...new Set(rows.map(r=>r.ind))];
+// 同一行业内按二级行业换色，书架上更有层次
+const subs={};rows.forEach(r=>{(subs[r.ind]||=[]);if(!subs[r.ind].includes(r.ind2))subs[r.ind].push(r.ind2)});
+const pal=(ind,ind2)=>PAL[(inds.indexOf(ind)*3+(ind2?subs[ind].indexOf(ind2):0))%PAL.length];
+const maxMv=rows[0].mv;
+const H=v=>Math.round(96+150*Math.sqrt(v/maxMv)), Wd=v=>Math.round(26+16*Math.sqrt(v/maxMv));
+const book=r=>{const[c,band,tc]=pal(r.ind,r.ind2);return`<div class="book" data-k="${r.k}" title="${r.name} · ${money(r.mv)}" style="height:${H(r.mv)}px;width:${Wd(r.mv)}px;--c:${c};--band:${band};--tc:${tc}"><span class="t">${r.name}</span><span class="r">${r.rank}</span></div>`};
+const lib=document.getElementById('lib');let mode='ind';
+function render(){
+  if(mode==='ind'){const g={};rows.forEach(r=>(g[r.ind]||=[]).push(r));
+    lib.innerHTML=Object.entries(g).sort((a,b)=>b[1].reduce((s,r)=>s+r.mv,0)-a[1].reduce((s,r)=>s+r.mv,0)).map(([n,rs])=>`<div class="shelf"><div class="shelf-label"><b>${n}</b><span>${rs.length} 家 · ${money(rs.reduce((s,r)=>s+r.mv,0))}</span></div><div class="books">${rs.map(book).join('')}</div><div class="plank"></div></div>`).join('')}
+  else{const list=mode==='mv'?rows:[...rows].sort((a,b)=>(b.ytd??-1e9)-(a.ytd??-1e9));const per=25,sh=[];for(let i=0;i<list.length;i+=per)sh.push(list.slice(i,i+per));
+    lib.innerHTML=sh.map((rs,i)=>`<div class="shelf"><div class="shelf-label"><b>第 ${i*per+1}–${i*per+rs.length} 名</b><span>${mode==='mv'?'按总市值':'按年初至今涨跌'}</span></div><div class="books">${rs.map(book).join('')}</div><div class="plank"></div></div>`).join('')}
+  filter()}
+function filter(){const q=document.getElementById('q').value.trim().toLowerCase();lib.querySelectorAll('.book').forEach(b=>{const r=rows.find(x=>x.k===b.dataset.k);b.classList.toggle('dim',!!q&&!r.hay.includes(q))})}
+document.getElementById('q').oninput=filter;
+document.getElementById('seg').onclick=e=>{const b=e.target.closest('button');if(!b)return;mode=b.dataset.m;document.querySelectorAll('#seg button').forEach(x=>x.classList.toggle('on',x===b));render()};
+const cover=document.getElementById('cover'),card=document.getElementById('card');let cur=null;
+lib.onclick=e=>{const b=e.target.closest('.book');if(!b)return;cur=b;b.classList.add('out');const r=rows.find(x=>x.k===b.dataset.k),[c,,tc]=pal(r.ind,r.ind2);
+  setTimeout(()=>{card.style.setProperty('--c',c);card.style.setProperty('--tc',tc);
+  card.innerHTML=`<div class="spine"><b>${r.name}</b><small>No.${r.rank}<br>${r.ind}</small></div><div class="body"><button class="close" id="x">×</button><h2>${r.name}</h2><div class="sub">${r.k} · ${r.ind} / ${r.ind2} · ${r.list} 上市</div>
+  <div class="kv"><div><small>总市值</small><b>${money(r.mv)}</b></div><div><small>年初至今</small><b class="${r.ytd>0?'up':'dn'}">${sp(r.ytd)}</b></div><div><small>市盈率 TTM</small><b>${r.pe?.toFixed(2)??'—'}</b></div><div><small>ROE 2025</small><b>${r.roe!=null?r.roe.toFixed(2)+'%':'—'}</b></div></div>
+  <p>${r.biz||''}</p><a class="go" href="../index.html#/${r.k}">打开公司档案 →</a></div>`;cover.classList.add('on')},220)};
+const close=()=>{cover.classList.remove('on');if(cur)cur.classList.remove('out')};
+cover.onclick=e=>{if(e.target===cover||e.target.id==='x')close()};
+addEventListener('keydown',e=>{if(e.key==='Escape')close()});
+render();
+</script></body></html>
