@@ -1,0 +1,620 @@
+{
+ "identity": {
+  "code": "600930",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "华电新能源集团股份有限公司",
+  "name_abbr": "华电新能",
+  "aliases": [
+   "hdxn"
+  ],
+  "name_en": "Huadian New Energy Group Corporation Limited",
+  "pinyin_abbr": "HDXN",
+  "former_names": [],
+  "industry_sw1": "公用事业",
+  "industry_sw2": "电力",
+  "list_date": "2025-07-16",
+  "province": "福建",
+  "city": "福州",
+  "website": "www.chdne.com.cn",
+  "chairman": "侯军虎",
+  "employees": 10267,
+  "business_summary": "风力发电、太阳能发电为主的新能源项目的开发、投资和运营",
+  "profile": "华电新能源集团股份有限公司是中国华电集团有限公司(以下简称“中国华电”,国务院国资委监管的特大型电力央企)重要控股子公司,是中国华电为助力实现“双碳”目标着力打造的以风力发电、太阳能发电为主的新能源业务最终整合的唯一平台。自2020年以来,公司通过资产重组和专业化整合全面承继中国华电新能源资产,并通过增资引战、优化资本结构而不断发展壮大。自此,公司进入了快速高质量发展新阶段,千亿级新能源航母扬帆起航。截至2024年12月31日,公司风光电总装机容量6861.71万千瓦,其中:风力发电3202.45万千瓦,太阳能发电3659.26万千瓦,是国内最大的新能源公司之一。资产遍布全国31个省(自治区、直辖市)及欧洲地区,呈现出“绿色低碳、资源集中、布局合理、资产优良”的鲜明特点。随着在建项目的投产和新项目资源的获取。未来,公司将进一步提升装机规模,运用更先进的设备与技术,在国内新能源行业的领先地位将得以进一步巩固。同时,公司参股核电权益装机容量近300万千瓦,给公司带来持续稳定收益。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 3.9,
+  "change_pct": -0.51,
+  "total_mv": 162685714284.6,
+  "float_mv": 41898462200.4,
+  "total_shares": 41714285714,
+  "float_shares": 10743195436,
+  "pe_ttm": 33.46,
+  "pe_static": 22.4,
+  "pb": 1.47,
+  "ps_ttm": 4.0,
+  "turnover_rate": 0.76,
+  "amount": 317814631.0,
+  "high_52w": 7.85,
+  "low_52w": 3.8,
+  "ytd_return": -37.4,
+  "return_1y": -38.29,
+  "return_3y": null,
+  "dividend_yield": 0.77,
+  "index_members": [
+   "上证50",
+   "沪深300"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 21740739368.0,
+    "revenue_yoy": 31.71,
+    "net_profit": 7253774239.0,
+    "net_profit_yoy": 77.82,
+    "net_profit_deducted": 5818803200.0,
+    "gross_margin": 55.38,
+    "net_margin": 36.18,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": 3.53,
+    "finance_expense_ratio": 18.48,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 0.2,
+    "bvps": 1.64,
+    "roe": 17.03,
+    "roa": 4.1,
+    "total_assets": 217357879202.0,
+    "total_liab": 155042077851.0,
+    "debt_ratio": 71.33,
+    "cash": 9287613609.0,
+    "receivables": 30934930327.0,
+    "inventory": 64515632.0,
+    "goodwill": 348990691.0,
+    "interest_debt": 108342425444.0,
+    "equity_parent": 59138624925.0,
+    "ocf": 9951728372.0,
+    "capex": 28418119148.0,
+    "fcf": -18466390776.0,
+    "ocf_to_np": 1.37
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 24673344143.0,
+    "revenue_yoy": 13.49,
+    "net_profit": 8522326035.0,
+    "net_profit_yoy": 17.49,
+    "net_profit_deducted": 8314356300.0,
+    "gross_margin": 54.35,
+    "net_margin": 36.6,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": 3.96,
+    "finance_expense_ratio": 16.64,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 0.23,
+    "bvps": 2.03,
+    "roe": 13.24,
+    "roa": 3.69,
+    "total_assets": 271927281958.0,
+    "total_liab": 193408394035.0,
+    "debt_ratio": 71.13,
+    "cash": 9700660929.0,
+    "receivables": 26823630553.0,
+    "inventory": 74532299.0,
+    "goodwill": 450339412.0,
+    "interest_debt": 161708459149.0,
+    "equity_parent": 73171701970.0,
+    "ocf": 29804705561.0,
+    "capex": 58395311376.0,
+    "fcf": -28590605815.0,
+    "ocf_to_np": 3.5
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 29580128992.0,
+    "revenue_yoy": 19.89,
+    "net_profit": 9619770057.0,
+    "net_profit_yoy": 12.88,
+    "net_profit_deducted": 9542640671.0,
+    "gross_margin": 52.01,
+    "net_margin": 34.27,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": 3.8,
+    "finance_expense_ratio": 15.3,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 0.26,
+    "bvps": 2.34,
+    "roe": 12.98,
+    "roa": 3.33,
+    "total_assets": 336672867584.0,
+    "total_liab": 246370567173.0,
+    "debt_ratio": 73.18,
+    "cash": 6416441871.0,
+    "receivables": 35518976360.0,
+    "inventory": 73575161.0,
+    "goodwill": 496376193.0,
+    "interest_debt": 212761248309.0,
+    "equity_parent": 84265836636.0,
+    "ocf": 18475989422.0,
+    "capex": 60272383808.0,
+    "fcf": -41796394386.0,
+    "ocf_to_np": 1.92
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 33967750888.0,
+    "revenue_yoy": 14.83,
+    "net_profit": 8831054314.0,
+    "net_profit_yoy": -8.2,
+    "net_profit_deducted": 8524067484.0,
+    "gross_margin": 46.1,
+    "net_margin": 27.91,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": 4.03,
+    "finance_expense_ratio": 16.09,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 0.24,
+    "bvps": 2.93,
+    "roe": 10.49,
+    "roa": 2.43,
+    "total_assets": 444090216404.0,
+    "total_liab": 324469451496.0,
+    "debt_ratio": 73.06,
+    "cash": 13280694817.0,
+    "receivables": 45019978621.0,
+    "inventory": 81095999.0,
+    "goodwill": 723920138.0,
+    "interest_debt": 276188555694.0,
+    "equity_parent": 105581585145.0,
+    "ocf": 24164290265.0,
+    "capex": 71587181756.0,
+    "fcf": -47422891491.0,
+    "ocf_to_np": 2.74
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 38980388748.0,
+    "revenue_yoy": 14.76,
+    "net_profit": 7262870120.0,
+    "net_profit_yoy": -17.76,
+    "net_profit_deducted": 7243266391.0,
+    "gross_margin": 39.61,
+    "net_margin": 20.83,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": 4.04,
+    "finance_expense_ratio": 15.54,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 0.18,
+    "bvps": 2.63,
+    "roe": 7.18,
+    "roa": 1.69,
+    "total_assets": 518120395445.0,
+    "total_liab": 364507716988.0,
+    "debt_ratio": 70.35,
+    "cash": 6656108598.0,
+    "receivables": 45788035844.0,
+    "inventory": 105831772.0,
+    "goodwill": 723920138.0,
+    "interest_debt": 315189810896.0,
+    "equity_parent": 136944162827.0,
+    "ocf": 31830794795.0,
+    "capex": 75343508035.0,
+    "fcf": -43512713240.0,
+    "ocf_to_np": 4.38
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 21667605095.0,
+   "revenue_yoy": 8.36,
+   "net_profit": 3839215526.0,
+   "net_profit_yoy": -38.47,
+   "net_profit_deducted": 3798515380.0,
+   "gross_margin": 39.44,
+   "net_margin": 20.75,
+   "roe": 3.19,
+   "eps": 0.08,
+   "debt_ratio": 71.27,
+   "ocf": 13254318288.0
+  },
+  "derived": {
+   "revenue_cagr_3y": 16.47,
+   "net_profit_cagr_3y": -5.19,
+   "receivables_to_revenue": 117.46,
+   "goodwill_to_equity": 0.53
+  }
+ },
+ "shareholders": {
+  "controller": "中国华电集团有限公司",
+  "controlling_shareholder": "福建华电福瑞能源发展有限公司",
+  "controlling_ratio": 45.22,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "福建华电福瑞能源发展有限公司",
+    "hold_num": 18863671173,
+    "hold_ratio": 45.22,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "华电国际电力股份有限公司",
+    "hold_num": 11169477998,
+    "hold_ratio": 26.78,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+    "hold_num": 899488574,
+    "hold_ratio": 2.16,
+    "hold_num_change": 1322600
+   },
+   {
+    "rank": 4,
+    "name": "中银资产基金管理有限公司-国新中鑫私募股权投资基金(青岛)合伙企业(有限合伙)",
+    "hold_num": 636464089,
+    "hold_ratio": 1.53,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "山东发展投资控股集团有限公司",
+    "hold_num": 636464089,
+    "hold_ratio": 1.53,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "国新建源股权投资基金(成都)合伙企业(有限合伙)",
+    "hold_num": 636464089,
+    "hold_ratio": 1.53,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "国投创益产业基金管理有限公司-影响力新能源产业基金(北京)合伙企业(有限合伙)",
+    "hold_num": 596486188,
+    "hold_ratio": 1.43,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "南网建鑫基金管理有限公司-南网双碳绿电(广州)股权投资基金合伙企业(有限合伙)",
+    "hold_num": 417878453,
+    "hold_ratio": 1.0,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "特变电工科技投资有限公司",
+    "hold_num": 397790056,
+    "hold_ratio": 0.95,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "国家绿色发展基金股份有限公司",
+    "hold_num": 397790056,
+    "hold_ratio": 0.95,
+    "hold_num_change": 0
+   }
+  ],
+  "holder_num": 402292,
+  "holder_num_change_pct": -7.7,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 13.21,
+  "northbound_ratio": null,
+  "executives": [
+   {
+    "name": "侯军虎",
+    "title": "董事长",
+    "pay": 821600.0
+   },
+   {
+    "name": "吴豪",
+    "title": "总经理",
+    "pay": 736400.0
+   },
+   {
+    "name": "杨帅",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.0,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": 0.0,
+    "dividend_yield": 0.0,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": 0.0,
+    "dividend_yield": 0.0,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": 0.0,
+    "dividend_yield": 0.0,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": 0.0,
+    "dividend_yield": 0.0,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.03,
+    "total_amount": 1251428571.42,
+    "payout_ratio": 17.23,
+    "dividend_yield": 0.62,
+    "ex_date": "2026-07-03"
+   }
+  ],
+  "consecutive_years": 1,
+  "cum_dividend_5y": 1251428571.42,
+  "cum_netprofit_5y": 41489794765.0,
+  "payout_5y": 3.02,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "600900.SH",
+   "003816.SZ",
+   "601985.SH",
+   "600025.SH"
+  ],
+  "segments": [
+   {
+    "name": "电力产品",
+    "revenue": 38462679281.0,
+    "ratio": 98.67,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 517709467.0,
+    "ratio": 1.33,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "西北",
+    "revenue": 9772860699.0,
+    "ratio": 25.07,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "华北",
+    "revenue": 9756310291.0,
+    "ratio": 25.03,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "华东",
+    "revenue": 7723445090.0,
+    "ratio": 19.81,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "西南",
+    "revenue": 4315320174.0,
+    "ratio": 11.07,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "华中",
+    "revenue": 2891038936.0,
+    "ratio": 7.42,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "华南",
+    "revenue": 2387112605.0,
+    "ratio": 6.12,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "东北及其他",
+    "revenue": 1616591486.0,
+    "ratio": 4.15,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "华电新能源集团股份有限公司第二届董事会第十八次会议决议公告",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225608316.PDF",
+    "type": null
+   },
+   {
+    "title": "华电新能源集团股份有限公司2026年第三季度发电量情况公告",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225608293.PDF",
+    "type": null
+   },
+   {
+    "title": "华电新能源集团股份有限公司关于聘任副总经理的公告",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225608269.PDF",
+    "type": null
+   },
+   {
+    "title": "华电新能源集团股份有限公司第二届董事会第十七次会议决议公告",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225573851.PDF",
+    "type": null
+   },
+   {
+    "title": "华泰联合证券有限责任公司关于华电新能源集团股份有限公司子企业华电新能源集团国际投资有限公司发行人民币境外优先股权益融资暨关联交易的核查意见",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225573848.PDF",
+    "type": null
+   },
+   {
+    "title": "中国国际金融股份有限公司关于华电新能源集团股份有限公司子企业华电新能源集团国际投资有限公司发行人民币境外优先股权益融资暨关联交易的核查意见",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225573845.PDF",
+    "type": null
+   },
+   {
+    "title": "华电新能源集团股份有限公司关于子企业华电新能源集团国际投资有限公司发行人民币境外优先股权益融资暨关联交易的公告",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225573825.PDF",
+    "type": null
+   },
+   {
+    "title": "华电新能源集团股份有限公司关于2026年度第二期中期票据发行结果的公告",
+    "date": "2026-09-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-18/1225569308.PDF",
+    "type": null
+   },
+   {
+    "title": "华电新能源集团股份有限公司关于2026年度第一期中期票据发行结果的公告",
+    "date": "2026-09-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-15/1225563007.PDF",
+    "type": null
+   },
+   {
+    "title": "华电新能源集团股份有限公司关于2026年半年度募集资金存放、管理与实际使用情况的专项报告",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225513000.PDF",
+    "type": null
+   },
+   {
+    "title": "华电新能源集团股份有限公司第二届董事会第十六次会议决议公告",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225512990.PDF",
+    "type": null
+   },
+   {
+    "title": "华电新能源集团股份有限公司关于对中国华电集团财务有限公司的风险评估报告",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225512988.PDF",
+    "type": null
+   },
+   {
+    "title": "华电新能源集团股份有限公司2026年半年度报告",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225512986.PDF",
+    "type": null
+   },
+   {
+    "title": "华电新能源集团股份有限公司关于召开2026年半年度业绩说明会的公告",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225512985.PDF",
+    "type": null
+   },
+   {
+    "title": "华电新能源集团股份有限公司2026年半年度报告摘要",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225512984.PDF",
+    "type": null
+   },
+   {
+    "title": "华电新能源集团股份有限公司关于2026年度第一期、第二期超短期融资券发行结果的公告",
+    "date": "2026-08-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225480095.PDF",
+    "type": null
+   },
+   {
+    "title": "华电新能源集团股份有限公司关于控股股东国有股份无偿划转进展暨股东权益变动的提示性公告",
+    "date": "2026-08-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-08/1225464052.PDF",
+    "type": null
+   },
+   {
+    "title": "华电新能源集团股份有限公司详式权益变动报告书",
+    "date": "2026-08-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-08/1225464040.PDF",
+    "type": null
+   },
+   {
+    "title": "华电新能源集团股份有限公司简式权益变动报告书",
+    "date": "2026-08-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-08/1225464027.PDF",
+    "type": null
+   },
+   {
+    "title": "华电新能源集团股份有限公司关于控股股东国有股份无偿划转的提示性公告",
+    "date": "2026-07-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-24/1225438756.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 113
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "您好，请问公司在投资者问答中所提的四个大基地，是哪四个？甘肃腾格里第二外送基地是否在内？另外，大基地中配套的火电项目，是否也是公司控股。",
+    "answer": "尊敬的投资者您好，感谢您对公司的关注！四个大基地项目包括新疆天山北麓清洁能源基地项目、甘肃腾格里清洁能源基地项目、内蒙古腾格里清洁能源基地项目、青海柴达木格尔木东清洁能源基地项目，甘肃腾格里第二外送基地不在其中。公司牵头控股开发的四个沙戈荒大基地项目均配套调节电源及电化学储能设备，匹配特高压外送通道，实行风光火储一体化建设与运营。",
+    "ask_date": "2026-07-06",
+    "answer_date": "2026-09-22",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=313093"
+   },
+   {
+    "question": "董秘您好。公司装机近亿千瓦、在建超2,400万千瓦、储备1.3亿千瓦，算电协同全国首个示范项目已投产，集团尚有超千万千瓦资产待注入。请问：面对短期电价压力，公司如何确保2026年盈利改善？算电协同、资产注入等催化剂的具体推进节奏？感谢！",
+    "answer": "尊敬的投资者您好，感谢您对公司的关注！①目前受供求关系变化、新能源全面入市、利用率波动及风光资源变化等因素影响，绿电企业盈利承压。公司将聚焦精益运营，强化预算牵引和过程管控。坚持价值引领，以项目全投资内部收益率为标尺，严控合规风险与投资回报门槛，科学统筹投资节奏与结构优化，形成梯次衔接的优质项目储备。以项目经济性为牵引，动态优化投资评价参数及模型，统筹经济、社会与环境效益，推动增量开发与存量效益协同增长。主动把握上游装备技术迭代窗口，推动高效设备选型与集约化采购联动，依托专业化基建、智慧化运维及市场化运营，持续释放全周期成本管控效能。发挥央企绿色信用优势，着力构建多层次融资体系，进一步巩固低成本资金优势。②算电协同方面，公司首个算电协同项目和林格尔数据中心集群绿色能源供给示范项目已建成投产，目前正在四川、内蒙古、黑龙江、云南等区域开展其他算电协同项目前期工作。③公司上市过程中，实际控制人华电集团体内未上市风光电资产占比较小，公司按照上市时承诺，持续开展资产跟踪梳理，待实际控制人华电集团体内未上市风光电资产消除注入障碍且满足上市公司合规及收益率要求后，根据实际情况择机注入。",
+    "ask_date": "2026-07-03",
+    "answer_date": "2026-09-22",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=313093"
+   },
+   {
+    "question": "您好，请问公司“十五五”期间规划投产的大基地项目有哪些？",
+    "answer": "尊敬的投资者您好，感谢您对公司的关注！新疆天山北麓清洁能源基地除光热部分外已建成投产，甘肃腾格里清洁能源基地项目、内蒙古腾格里清洁能源基地项目、青海柴达木格尔木东清洁能源基地项目将在“十五五”期间根据配套特高压外送通道建设进度相继投产。具体项目情况参见公司2026年半年度报告。",
+    "ask_date": "2026-06-26",
+    "answer_date": "2026-09-22",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=313093"
+   }
+  ],
+  "count_12m": null
+ }
+}

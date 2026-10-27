@@ -1,0 +1,661 @@
+{
+ "identity": {
+  "code": "603986",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "兆易创新科技集团股份有限公司",
+  "name_abbr": "兆易创新",
+  "aliases": [
+   "zycx"
+  ],
+  "name_en": "GigaDevice Semiconductor Inc.",
+  "pinyin_abbr": "ZYCX",
+  "former_names": [],
+  "industry_sw1": "电子",
+  "industry_sw2": "半导体",
+  "list_date": "2016-08-18",
+  "province": "北京",
+  "city": "北京",
+  "website": "www.gigadevice.com",
+  "chairman": "朱一明",
+  "employees": 2333,
+  "business_summary": "存储器、微控制器、传感器和模拟芯片的研发、技术支持和销售",
+  "profile": "兆易创新科技集团股份有限公司(GigaDevice)成立于2005年,集团总部设于中国北京,并分别在上海证券交易所(603986.SH)、香港联交所(3986.HK)上市,是一家致力于开发存储器技术、MCU、传感器和模拟产品及解决方案的领先的无晶圆厂半导体公司,在中国上海、深圳、合肥、西安、成都、苏州、香港和新竹,新加坡、韩国、日本、德国、英国、土耳其、意大利、美国、加拿大、巴西、墨西哥等多个国家和地区均设有分支机构和办事处,营销网络遍布全球,为客户提供优质便捷的本地化支持服务。公司的核心产品线为存储器(Flash、利基型DRAM)、32位通用型MCU、智能人机交互传感器、模拟产品及整体解决方案。公司产品以“高性能、低功耗”著称,技术实力备受行业认可。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 276.75,
+  "change_pct": -3.91,
+  "total_mv": 194824092422.25,
+  "float_mv": 185621296997.25,
+  "total_shares": 703971427,
+  "float_shares": 670718327,
+  "pe_ttm": 24.57,
+  "pe_static": 118.22,
+  "pb": 5.23,
+  "ps_ttm": 11.72,
+  "turnover_rate": 4.73,
+  "amount": 8831697123.0,
+  "high_52w": 846.66,
+  "low_52w": 175.25,
+  "ytd_return": 29.63,
+  "return_1y": 31.67,
+  "return_3y": 187.38,
+  "dividend_yield": 0.27,
+  "index_members": [
+   "上证50",
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 8510223468.73,
+    "revenue_yoy": 89.25,
+    "net_profit": 2336793535.26,
+    "net_profit_yoy": 165.33,
+    "net_profit_deducted": 2224461333.8,
+    "gross_margin": 46.54,
+    "net_margin": 27.46,
+    "selling_expense_ratio": 2.6,
+    "admin_expense_ratio": 4.59,
+    "finance_expense_ratio": -1.42,
+    "rd_expense": 842036677.84,
+    "rd_ratio": 9.89,
+    "eps": 3.54,
+    "bvps": 20.2,
+    "roe": 19.44,
+    "roa": 17.23,
+    "total_assets": 15418370840.09,
+    "total_liab": 1935322526.27,
+    "debt_ratio": 12.55,
+    "cash": 6598035093.75,
+    "receivables": 281756663.38,
+    "inventory": 1448918541.25,
+    "goodwill": 1024964399.56,
+    "interest_debt": 140400837.71,
+    "equity_parent": 13483048313.82,
+    "ocf": 2262070086.82,
+    "capex": 621843759.82,
+    "fcf": 1640226327.0,
+    "ocf_to_np": 0.97
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 8129992424.99,
+    "revenue_yoy": -4.47,
+    "net_profit": 2052884263.32,
+    "net_profit_yoy": -12.15,
+    "net_profit_deducted": 1909530384.49,
+    "gross_margin": 47.66,
+    "net_margin": 25.25,
+    "selling_expense_ratio": 3.27,
+    "admin_expense_ratio": 5.23,
+    "finance_expense_ratio": -4.22,
+    "rd_expense": 935583622.53,
+    "rd_ratio": 11.51,
+    "eps": 3.1,
+    "bvps": 22.77,
+    "roe": 14.38,
+    "roa": 12.8,
+    "total_assets": 16646690453.31,
+    "total_liab": 1459547734.69,
+    "debt_ratio": 8.77,
+    "cash": 6874849524.02,
+    "receivables": 142120499.46,
+    "inventory": 2153875670.89,
+    "goodwill": 783473147.96,
+    "interest_debt": 124334215.71,
+    "equity_parent": 15187142718.62,
+    "ocf": 949691135.59,
+    "capex": 550843222.25,
+    "fcf": 398847913.34,
+    "ocf_to_np": 0.46
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 5760823414.65,
+    "revenue_yoy": -29.14,
+    "net_profit": 161141224.88,
+    "net_profit_yoy": -92.15,
+    "net_profit_deducted": 27400630.3,
+    "gross_margin": 34.42,
+    "net_margin": 2.8,
+    "selling_expense_ratio": 4.7,
+    "admin_expense_ratio": 6.42,
+    "finance_expense_ratio": -4.48,
+    "rd_expense": 989953149.99,
+    "rd_ratio": 17.18,
+    "eps": 0.24,
+    "bvps": 22.79,
+    "roe": 1.06,
+    "roa": 0.97,
+    "total_assets": 16455783581.8,
+    "total_liab": 1256206998.01,
+    "debt_ratio": 7.63,
+    "cash": 7265862312.09,
+    "receivables": 114147449.12,
+    "inventory": 1990866219.55,
+    "goodwill": 410101520.15,
+    "interest_debt": 116265669.89,
+    "equity_parent": 15199576583.79,
+    "ocf": 1186749309.93,
+    "capex": 348363732.56,
+    "fcf": 838385577.37,
+    "ocf_to_np": 7.36
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 7355977677.11,
+    "revenue_yoy": 27.69,
+    "net_profit": 1102542801.68,
+    "net_profit_yoy": 584.21,
+    "net_profit_deducted": 1030479348.71,
+    "gross_margin": 38.0,
+    "net_margin": 14.97,
+    "selling_expense_ratio": 5.04,
+    "admin_expense_ratio": 6.68,
+    "finance_expense_ratio": -6.02,
+    "rd_expense": 1122388914.03,
+    "rd_ratio": 15.26,
+    "eps": 1.66,
+    "bvps": 24.84,
+    "roe": 6.94,
+    "roa": 6.17,
+    "total_assets": 19228833821.39,
+    "total_liab": 2550053927.35,
+    "debt_ratio": 13.26,
+    "cash": 9128009982.71,
+    "receivables": 212015844.83,
+    "inventory": 2346367580.17,
+    "goodwill": 617184549.46,
+    "interest_debt": 999357087.01,
+    "equity_parent": 16498507838.97,
+    "ocf": 2032230237.01,
+    "capex": 499017219.78,
+    "fcf": 1533213017.23,
+    "ocf_to_np": 1.84
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 9203463124.58,
+    "revenue_yoy": 25.12,
+    "net_profit": 1648022651.7,
+    "net_profit_yoy": 49.47,
+    "net_profit_deducted": 1469196552.72,
+    "gross_margin": 40.22,
+    "net_margin": 18.23,
+    "selling_expense_ratio": 4.85,
+    "admin_expense_ratio": 6.65,
+    "finance_expense_ratio": -1.54,
+    "rd_expense": 1116991959.01,
+    "rd_ratio": 12.14,
+    "eps": 2.48,
+    "bvps": 28.46,
+    "roe": 9.3,
+    "roa": 8.26,
+    "total_assets": 21396579783.85,
+    "total_liab": 2173743141.7,
+    "debt_ratio": 10.16,
+    "cash": 9186269982.61,
+    "receivables": 192618022.79,
+    "inventory": 3065974388.37,
+    "goodwill": 617184549.46,
+    "interest_debt": 297154336.93,
+    "equity_parent": 19007782130.79,
+    "ocf": 2128504212.49,
+    "capex": 1048563639.29,
+    "fcf": 1079940573.2,
+    "ocf_to_np": 1.29
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 11565760432.15,
+   "revenue_yoy": 178.67,
+   "net_profit": 6856786413.68,
+   "net_profit_yoy": 1091.5,
+   "net_profit_deducted": 4883033478.93,
+   "gross_margin": 63.13,
+   "net_margin": 59.53,
+   "roe": 23.13,
+   "eps": 9.83,
+   "debt_ratio": 11.47,
+   "ocf": 6048341057.06
+  },
+  "derived": {
+   "revenue_cagr_3y": 4.22,
+   "net_profit_cagr_3y": -7.06,
+   "receivables_to_revenue": 2.09,
+   "goodwill_to_equity": 3.25
+  }
+ },
+ "shareholders": {
+  "controller": "朱一明",
+  "controlling_shareholder": "朱一明",
+  "controlling_ratio": 4.94,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "香港中央结算有限公司",
+    "hold_num": 38161725,
+    "hold_ratio": 5.44,
+    "hold_num_change": -3206793
+   },
+   {
+    "rank": 2,
+    "name": "朱一明",
+    "hold_num": 34647376,
+    "hold_ratio": 4.94,
+    "hold_num_change": -470700
+   },
+   {
+    "rank": 3,
+    "name": "HKSCC NOMINEES LIMITED",
+    "hold_num": 33253060,
+    "hold_ratio": 4.74,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "葛卫东",
+    "hold_num": 16446669,
+    "hold_ratio": 2.34,
+    "hold_num_change": 185100
+   },
+   {
+    "rank": 5,
+    "name": "InfoGrid Limited",
+    "hold_num": 13053500,
+    "hold_ratio": 1.86,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "王萍",
+    "hold_num": 8605882,
+    "hold_ratio": 1.23,
+    "hold_num_change": 1032700
+   },
+   {
+    "rank": 7,
+    "name": "中国建设银行股份有限公司-华夏国证半导体芯片交易型开放式指数证券投资基金",
+    "hold_num": 5042465,
+    "hold_ratio": 0.72,
+    "hold_num_change": -2652492
+   },
+   {
+    "rank": 8,
+    "name": "陈雯鸶",
+    "hold_num": 4505777,
+    "hold_ratio": 0.64,
+    "hold_num_change": -203171
+   },
+   {
+    "rank": 9,
+    "name": "上海珏朔资产管理中心(有限合伙)-珏朔惊帆多策略一号私募证券投资基金",
+    "hold_num": 4289700,
+    "hold_ratio": 0.61,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "冯文渊",
+    "hold_num": 3700726,
+    "hold_ratio": 0.53,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 360261,
+  "holder_num_change_pct": 47.81,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 16.64,
+  "northbound_ratio": 5.44,
+  "executives": [
+   {
+    "name": "朱一明",
+    "title": "董事长",
+    "pay": 7532600.0
+   },
+   {
+    "name": "何卫",
+    "title": "总经理",
+    "pay": 1592500.0
+   },
+   {
+    "name": "谢飞旺",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.07,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 1.06,
+    "total_amount": 707515128.12,
+    "payout_ratio": 30.28,
+    "dividend_yield": 0.74,
+    "ex_date": "2022-06-02"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.62,
+    "total_amount": 413555591.76,
+    "payout_ratio": 20.15,
+    "dividend_yield": 0.54,
+    "ex_date": "2023-06-20"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": 0.0,
+    "dividend_yield": 0.0,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.34,
+    "total_amount": 225780124.6,
+    "payout_ratio": 20.48,
+    "dividend_yield": 0.28,
+    "ex_date": "2025-07-03"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.75,
+    "total_amount": 525826838.25,
+    "payout_ratio": 31.91,
+    "dividend_yield": 0.15,
+    "ex_date": "2026-05-26"
+   }
+  ],
+  "consecutive_years": 2,
+  "cum_dividend_5y": 1872677682.73,
+  "cum_netprofit_5y": 7301384476.84,
+  "payout_5y": 25.65,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [
+   "688825.SH",
+   "688981.SH",
+   "688256.SH",
+   "688041.SH"
+  ],
+  "segments": [
+   {
+    "name": "存储芯片",
+    "revenue": 6565939969.5,
+    "ratio": 71.34,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "微控制器",
+    "revenue": 1909897922.87,
+    "ratio": 20.75,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "传感器",
+    "revenue": 389354949.48,
+    "ratio": 4.23,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "模拟产品",
+    "revenue": 332843600.57,
+    "ratio": 3.62,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "技术服务及其他收入",
+    "revenue": 4221536.5,
+    "ratio": 0.05,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "中国香港",
+    "revenue": 4319595765.91,
+    "ratio": 46.93,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "中国大陆",
+    "revenue": 2787347162.94,
+    "ratio": 30.29,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他国家及地区",
+    "revenue": 2095315050.07,
+    "ratio": 22.77,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 1205145.66,
+    "ratio": 0.01,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "兆易创新2026年第四次临时股东会决议公告",
+    "date": "2026-10-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612916.PDF",
+    "type": null
+   },
+   {
+    "title": "关于回购注销限制性股票减资通知债权人的公告",
+    "date": "2026-10-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612914.PDF",
+    "type": null
+   },
+   {
+    "title": "北京中银律师事务所关于兆易创新科技集团股份有限公司2026年第四次临时股东会的法律意见书",
+    "date": "2026-10-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612909.PDF",
+    "type": null
+   },
+   {
+    "title": "兆易创新公司章程（2026年10月）",
+    "date": "2026-10-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612908.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-10-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225606671.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-10-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225601334.PDF",
+    "type": null
+   },
+   {
+    "title": "兆易创新关于以集中竞价交易方式回购A股股份的进展公告",
+    "date": "2026-10-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225601328.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597503.PDF",
+    "type": null
+   },
+   {
+    "title": "兆易创新关于以集中竞价交易方式回购A股股份的进展公告",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597072.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225587170.PDF",
+    "type": null
+   },
+   {
+    "title": "根据2026年H股股份奖励计划授予奖励股份",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225585699.PDF",
+    "type": null
+   },
+   {
+    "title": "兆易创新第五届董事会第十六次会议决议公告",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225584787.PDF",
+    "type": null
+   },
+   {
+    "title": "兆易创新关于变更公司注册资本暨修改《公司章程》的公告",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225584784.PDF",
+    "type": null
+   },
+   {
+    "title": "兆易创新关于召开2026年第四次临时股东会的通知",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225584783.PDF",
+    "type": null
+   },
+   {
+    "title": "兆易创新关于增加2026年度日常关联交易预计额度及预计2027年1-4月日常关联交易额度的公告",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225584778.PDF",
+    "type": null
+   },
+   {
+    "title": "兆易创新关于购买董事及高级管理人员责任险的公告",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225584777.PDF",
+    "type": null
+   },
+   {
+    "title": "兆易创新2026年第四次临时股东会会议资料",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225584774.PDF",
+    "type": null
+   },
+   {
+    "title": "兆易创新公司章程（2026年10月）",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225584773.PDF",
+    "type": null
+   },
+   {
+    "title": "北京中银律师事务所关于兆易创新科技集团股份有限公司2026年第三次临时股东会的法律意见书",
+    "date": "2026-09-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-10/1225555804.PDF",
+    "type": null
+   },
+   {
+    "title": "兆易创新2026年第三次临时股东会决议公告",
+    "date": "2026-09-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-10/1225555799.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 187
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "董事长，麻烦发个业绩预告，或发一个业绩展望也可以啊，跌了70%了，还没看到止跌的迹象，股东都要到乞讨的份了，公司高管积极一点可以吗？谢谢了。谢谢了。",
+    "answer": null,
+    "ask_date": "2026-10-19",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=76578"
+   },
+   {
+    "question": "董秘，麻烦勤快点，负责任点，积极回复投资者问题，不能想起来了就看看，挑选几个问题回答。公司6000亿时发下跌风险提示，现在1900亿市值了，可否发一下低估了，应当存在上涨的提示了？谢谢.万分感谢",
+    "answer": null,
+    "ask_date": "2026-10-19",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=76578"
+   },
+   {
+    "question": "尊敬的管理层：当前公司股价从高点下来已经膝斩，公司也开展了回购，新技术也在推出，但股价依旧跌跌不休，做为投资者建议公司高管个人可以增持公司股票增加市场信心，一个小小建议希望管理层能够回应。",
+    "answer": null,
+    "ask_date": "2026-10-15",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=76578"
+   },
+   {
+    "question": "股价不符合公司价值。希望贵公司抓紧出台年度利润回购注销公司股份办法。最好跟白酒一样，承诺把年度百分七十以上利润拿来回购注销股份。这样就能提振股价。做A股里科技股票的茅台。",
+    "answer": null,
+    "ask_date": "2026-10-15",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=76578"
+   },
+   {
+    "question": "有没有分红计划",
+    "answer": null,
+    "ask_date": "2026-10-14",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=76578"
+   },
+   {
+    "question": "尊敬的管理层，公司近期价格出现持续的单边下跌，请问公司生产经营出现什么变化吗？如果没有为什么会出现这种情况，请管理层拿出切实有效的手段遏制股价单边下跌的情况。",
+    "answer": null,
+    "ask_date": "2026-10-14",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=76578"
+   },
+   {
+    "question": "请问现在股东人数，该股票已经持续跌了68%，请问还能振奋股东人心吗？公司效益不行还是",
+    "answer": null,
+    "ask_date": "2026-10-14",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=76578"
+   },
+   {
+    "question": "领导，您好。7月到10月3个月，股价跌了将近70%，是公司的利润马上下降了，要暴亏了，还是存储行业已经不行了的原因？公司现金金200亿，还有钱回购，回报股东吗？谢谢",
+    "answer": null,
+    "ask_date": "2026-10-14",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=76578"
+   }
+  ],
+  "count_12m": null
+ }
+}

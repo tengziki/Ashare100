@@ -1,0 +1,653 @@
+{
+ "identity": {
+  "code": "603993",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "洛阳栾川钼业集团股份有限公司",
+  "name_abbr": "洛阳钼业",
+  "aliases": [
+   "lymy"
+  ],
+  "name_en": "CMOC Group Limited",
+  "pinyin_abbr": "LYMY",
+  "former_names": [
+   "N洛钼"
+  ],
+  "industry_sw1": "有色金属",
+  "industry_sw2": "工业金属",
+  "list_date": "2012-10-09",
+  "province": "河南",
+  "city": "洛阳",
+  "website": "www.cmoc.com",
+  "chairman": "刘建锋",
+  "employees": 12354,
+  "business_summary": "有色金属的采、选、冶等矿山采掘及加工业务和金属贸易业务",
+  "profile": "洛阳栾川钼业集团股份有限公司(以下简称「洛阳钼业」、「公司」或「本公司」)的前身创立于1969年,2004年和2014年进行两次混合所有制改革,目前是民营控股的股份制公司。2007年于香港联合交易所(股票代码:03993)上市。2012年于上海证券交易所(「上交所」)(股票代码:603993)上市。本公司属于有色金属矿采选业,主要从事有色金属的采、选、冶等矿山采掘及加工业务和金属贸易业务。公司主要业务分布于亚洲、非洲、南美洲和欧洲,是全球领先的铜、钴、钼、钨、铌生产商,巴西领先的磷肥生产商,同时金属贸易业务位居全球前列。2025年,公司积极布局黄金资源,先后完成对厄瓜多尔奥丁矿业及巴西4座金矿的收购,完善多元化产品矩阵。公司的目标是成为全球领先、独树一帜的世界级矿业公司。随着公司发展,目前已跨越单纯依赖资源获取与规模扩张的阶段,迈入规模与能力并重、平台化运营与精细化管理协同推进的高质量发展新时期,致力于构建增长稳健、能力突出、跨周期、抗风险的现代化矿业平台。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 13.85,
+  "change_pct": -2.12,
+  "total_mv": 296311195937.6,
+  "float_mv": 241832664137.6,
+  "total_shares": 21394310176,
+  "float_shares": 17460842176,
+  "pe_ttm": 10.65,
+  "pe_static": 14.57,
+  "pb": 3.14,
+  "ps_ttm": 1.2,
+  "turnover_rate": 1.08,
+  "amount": 2622702746.0,
+  "high_52w": 28.4,
+  "low_52w": 13.67,
+  "ytd_return": -29.41,
+  "return_1y": -8.64,
+  "return_3y": 201.55,
+  "dividend_yield": 2.06,
+  "index_members": [
+   "上证50",
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 173862586154.82,
+    "revenue_yoy": 53.89,
+    "net_profit": 5106017249.81,
+    "net_profit_yoy": 119.26,
+    "net_profit_deducted": 4103233118.22,
+    "gross_margin": 9.39,
+    "net_margin": 3.12,
+    "selling_expense_ratio": 0.05,
+    "admin_expense_ratio": 0.89,
+    "finance_expense_ratio": 0.63,
+    "rd_expense": 272384715.46,
+    "rd_ratio": 0.16,
+    "eps": 0.24,
+    "bvps": 1.84,
+    "roe": 12.93,
+    "roa": 4.18,
+    "total_assets": 137449772623.15,
+    "total_liab": 89185560286.08,
+    "debt_ratio": 64.89,
+    "cash": 24318024989.56,
+    "receivables": 745903478.74,
+    "inventory": 26959964452.91,
+    "goodwill": 387204155.33,
+    "interest_debt": 46860798816.82,
+    "equity_parent": 39845286626.3,
+    "ocf": 6190648051.98,
+    "capex": 4281675570.51,
+    "fcf": 1908972481.47,
+    "ocf_to_np": 1.21
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 172990857221.36,
+    "revenue_yoy": -0.5,
+    "net_profit": 6066946564.19,
+    "net_profit_yoy": 18.82,
+    "net_profit_deducted": 6066908349.5,
+    "gross_margin": 9.29,
+    "net_margin": 4.16,
+    "selling_expense_ratio": 0.06,
+    "admin_expense_ratio": 1.04,
+    "finance_expense_ratio": 1.05,
+    "rd_expense": 388609726.55,
+    "rd_ratio": 0.22,
+    "eps": 0.28,
+    "bvps": 2.35,
+    "roe": 13.41,
+    "roa": 4.76,
+    "total_assets": 165019219538.77,
+    "total_liab": 102981802839.63,
+    "debt_ratio": 62.41,
+    "cash": 32647565268.28,
+    "receivables": 800256289.83,
+    "inventory": 32254722426.64,
+    "goodwill": 422968781.5,
+    "interest_debt": 48347067797.6,
+    "equity_parent": 51698562059.68,
+    "ocf": 15453761072.68,
+    "capex": 10517759270.88,
+    "fcf": 4936001801.8,
+    "ocf_to_np": 2.55
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 186268971920.54,
+    "revenue_yoy": 7.68,
+    "net_profit": 8249711872.51,
+    "net_profit_yoy": 35.98,
+    "net_profit_deducted": 6232811345.95,
+    "gross_margin": 9.72,
+    "net_margin": 4.58,
+    "selling_expense_ratio": 0.08,
+    "admin_expense_ratio": 1.28,
+    "finance_expense_ratio": 1.61,
+    "rd_expense": 327085170.7,
+    "rd_ratio": 0.18,
+    "eps": 0.38,
+    "bvps": 2.71,
+    "roe": 15.0,
+    "roa": 5.05,
+    "total_assets": 172974530702.61,
+    "total_liab": 101012356495.3,
+    "debt_ratio": 58.4,
+    "cash": 30716077208.96,
+    "receivables": 1132003814.45,
+    "inventory": 31430496020.23,
+    "goodwill": 430141140.73,
+    "interest_debt": 49722905769.51,
+    "equity_parent": 59540269707.03,
+    "ocf": 15542003495.74,
+    "capex": 12924398131.61,
+    "fcf": 2617605364.13,
+    "ocf_to_np": 1.88
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 213028664834.79,
+    "revenue_yoy": 14.37,
+    "net_profit": 13532035002.94,
+    "net_profit_yoy": 64.03,
+    "net_profit_deducted": 13118825942.69,
+    "gross_margin": 16.55,
+    "net_margin": 7.26,
+    "selling_expense_ratio": 0.04,
+    "admin_expense_ratio": 1.0,
+    "finance_expense_ratio": 1.35,
+    "rd_expense": 353973998.59,
+    "rd_ratio": 0.17,
+    "eps": 0.63,
+    "bvps": 3.24,
+    "roe": 20.96,
+    "roa": 9.01,
+    "total_assets": 170236431691.82,
+    "total_liab": 84294195547.05,
+    "debt_ratio": 49.52,
+    "cash": 30427258389.26,
+    "receivables": 647879043.3,
+    "inventory": 29878326307.04,
+    "goodwill": 436560432.61,
+    "interest_debt": 29641906813.7,
+    "equity_parent": 71022993716.51,
+    "ocf": 32386655541.72,
+    "capex": 4901319114.82,
+    "fcf": 27485336426.9,
+    "ocf_to_np": 2.39
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 206683649050.43,
+    "revenue_yoy": -2.98,
+    "net_profit": 20338750797.53,
+    "net_profit_yoy": 50.3,
+    "net_profit_deducted": 20407254770.72,
+    "gross_margin": 23.93,
+    "net_margin": 11.63,
+    "selling_expense_ratio": 0.05,
+    "admin_expense_ratio": 1.36,
+    "finance_expense_ratio": 0.25,
+    "rd_expense": 431679424.54,
+    "rd_ratio": 0.21,
+    "eps": 0.95,
+    "bvps": 3.85,
+    "roe": 26.61,
+    "roa": 12.95,
+    "total_assets": 200932364610.99,
+    "total_liab": 101145637570.27,
+    "debt_ratio": 50.34,
+    "cash": 33563955852.45,
+    "receivables": 1210025340.21,
+    "inventory": 40600637422.42,
+    "goodwill": 426867726.99,
+    "interest_debt": 31874537424.45,
+    "equity_parent": 82435342286.07,
+    "ocf": 20843060708.78,
+    "capex": 7583479880.58,
+    "fcf": 13259580828.2,
+    "ocf_to_np": 1.02
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 135319885598.22,
+   "revenue_yoy": 42.78,
+   "net_profit": 16152187485.37,
+   "net_profit_yoy": 86.27,
+   "net_profit_deducted": 15605833000.0,
+   "gross_margin": 23.01,
+   "net_margin": 13.63,
+   "roe": 18.29,
+   "eps": 0.76,
+   "debt_ratio": 52.16,
+   "ocf": 16333690735.41
+  },
+  "derived": {
+   "revenue_cagr_3y": 6.11,
+   "net_profit_cagr_3y": 49.66,
+   "receivables_to_revenue": 0.59,
+   "goodwill_to_equity": 0.52
+  }
+ },
+ "shareholders": {
+  "controller": "于泳",
+  "controlling_shareholder": "鸿商产业控股集团有限公司",
+  "controlling_ratio": 24.93,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "鸿商产业控股集团有限公司",
+    "hold_num": 5333220000,
+    "hold_ratio": 24.93,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "洛阳时代资源控股有限公司",
+    "hold_num": 5329780400,
+    "hold_ratio": 24.91,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "HKSCC NOMINEES LIMITED",
+    "hold_num": 3603448200,
+    "hold_ratio": 16.84,
+    "hold_num_change": 404000
+   },
+   {
+    "rank": 4,
+    "name": "香港中央结算有限公司",
+    "hold_num": 470397200,
+    "hold_ratio": 2.2,
+    "hold_num_change": -159062700
+   },
+   {
+    "rank": 5,
+    "name": "中国工商银行股份有限公司-南方中证申万有色金属交易型开放式指数证券投资基金",
+    "hold_num": 91719800,
+    "hold_ratio": 0.43,
+    "hold_num_change": -17528200
+   },
+   {
+    "rank": 6,
+    "name": "中国建设银行股份有限公司-万家中证工业有色金属主题交易型开放式指数证券投资基金",
+    "hold_num": 56887000,
+    "hold_ratio": 0.27,
+    "hold_num_change": -7879100
+   },
+   {
+    "rank": 7,
+    "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+    "hold_num": 48244700,
+    "hold_ratio": 0.23,
+    "hold_num_change": null
+   },
+   {
+    "rank": 8,
+    "name": "中信证券股份有限公司-天弘中证工业有色金属主题交易型开放式指数证券投资基金",
+    "hold_num": 45137600,
+    "hold_ratio": 0.21,
+    "hold_num_change": null
+   },
+   {
+    "rank": 9,
+    "name": "中信银行股份有限公司-华夏中证细分有色金属产业主题交易型开放式指数证券投资基金",
+    "hold_num": 38267400,
+    "hold_ratio": 0.18,
+    "hold_num_change": -11548600
+   },
+   {
+    "rank": 10,
+    "name": "中国银河证券股份有限公司-嘉实中证稀有金属主题交易型开放式指数证券投资基金",
+    "hold_num": 36658000,
+    "hold_ratio": 0.17,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 851791,
+  "holder_num_change_pct": 0.04,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 11.79,
+  "northbound_ratio": 2.2,
+  "executives": [
+   {
+    "name": "刘建锋",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "彭旭辉",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "徐辉",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 1.7,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.0713,
+    "total_amount": 1538945891.54,
+    "payout_ratio": 30.14,
+    "dividend_yield": 1.35,
+    "ex_date": "2022-07-07"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.0851,
+    "total_amount": 1837663388.8,
+    "payout_ratio": 30.29,
+    "dividend_yield": 1.54,
+    "ex_date": "2023-07-07"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.1542,
+    "total_amount": 3331682859.93,
+    "payout_ratio": 40.39,
+    "dividend_yield": 1.7,
+    "ex_date": "2024-07-08"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.255,
+    "total_amount": 5482306357.85,
+    "payout_ratio": 40.51,
+    "dividend_yield": 3.13,
+    "ex_date": "2025-06-27"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.286,
+    "total_amount": 6118772710.34,
+    "payout_ratio": 30.08,
+    "dividend_yield": 1.4,
+    "ex_date": "2026-05-27"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 18309371208.46,
+  "cum_netprofit_5y": 53293461486.98,
+  "payout_5y": 34.36,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [
+   "601899.SH",
+   "002379.SZ",
+   "601600.SH",
+   "600362.SH"
+  ],
+  "segments": [
+   {
+    "name": "精炼金属贸易",
+    "revenue": 103244438301.29,
+    "ratio": 49.95,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "矿物金属贸易",
+    "revenue": 76834796944.87,
+    "ratio": 37.18,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "铜",
+    "revenue": 55096475889.78,
+    "ratio": 26.66,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "钼",
+    "revenue": 6329854262.03,
+    "ratio": 3.06,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "钴",
+    "revenue": 6171142514.42,
+    "ratio": 2.99,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "内部交易抵销",
+    "revenue": -51349947808.6,
+    "ratio": -24.84,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "矿产贸易-中国境外",
+    "revenue": 122213651896.78,
+    "ratio": 59.13,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "矿山采掘及加工-刚果(金)",
+    "revenue": 61267618404.2,
+    "ratio": 29.64,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "矿产贸易-中国",
+    "revenue": 57865583349.38,
+    "ratio": 28.0,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "矿山采掘及加工-中国",
+    "revenue": 8752603232.69,
+    "ratio": 4.23,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "内部交易抵销",
+    "revenue": -51349947808.6,
+    "ratio": -24.84,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "洛阳钼业关于召开2026年第三季度业绩说明会的公告",
+    "date": "2026-10-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-20/1225610341.PDF",
+    "type": null
+   },
+   {
+    "title": "洛阳钼业关于对下属子公司提供担保的进展公告",
+    "date": "2026-10-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225606847.PDF",
+    "type": null
+   },
+   {
+    "title": "洛阳钼业关于全资子公司认购基金份额的公告",
+    "date": "2026-10-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225603573.PDF",
+    "type": null
+   },
+   {
+    "title": "洛阳钼业H股市场公告",
+    "date": "2026-10-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225601757.PDF",
+    "type": null
+   },
+   {
+    "title": "洛阳钼业H股市场公告",
+    "date": "2026-09-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-19/1225572597.PDF",
+    "type": null
+   },
+   {
+    "title": "洛阳钼业第七届董事会第十四次临时会议决议公告",
+    "date": "2026-09-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-19/1225571296.PDF",
+    "type": null
+   },
+   {
+    "title": "洛阳钼业关于为参股公司提供担保的公告",
+    "date": "2026-09-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-19/1225571290.PDF",
+    "type": null
+   },
+   {
+    "title": "洛阳钼业关于对下属子公司提供担保的进展公告",
+    "date": "2026-09-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-11/1225558128.PDF",
+    "type": null
+   },
+   {
+    "title": "洛阳钼业2026年半年度权益分派实施公告",
+    "date": "2026-09-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225544528.PDF",
+    "type": null
+   },
+   {
+    "title": "洛阳钼业H股市场公告",
+    "date": "2026-09-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225543443.PDF",
+    "type": null
+   },
+   {
+    "title": "上海市通力律师事务所关于洛阳栾川钼业集团股份有限公司2026年第一次临时股东会的法律意见书",
+    "date": "2026-08-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-21/1225486970.PDF",
+    "type": null
+   },
+   {
+    "title": "洛阳钼业募集资金管理制度",
+    "date": "2026-08-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-21/1225486968.PDF",
+    "type": null
+   },
+   {
+    "title": "洛阳钼业公司章程",
+    "date": "2026-08-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-21/1225486967.PDF",
+    "type": null
+   },
+   {
+    "title": "洛阳钼业2026年第一次临时股东会决议公告",
+    "date": "2026-08-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-21/1225486964.PDF",
+    "type": null
+   },
+   {
+    "title": "洛阳钼业第七届董事会第十次会议决议公告",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482756.PDF",
+    "type": null
+   },
+   {
+    "title": "洛阳钼业2026年半年度报告",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482748.PDF",
+    "type": null
+   },
+   {
+    "title": "洛阳钼业2026年半年度报告摘要",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482739.PDF",
+    "type": null
+   },
+   {
+    "title": "洛阳钼业关于本公司2026年中期利润分配预案的公告",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482733.PDF",
+    "type": null
+   },
+   {
+    "title": "洛阳钼业关于对外担保的进展公告",
+    "date": "2026-08-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225474296.PDF",
+    "type": null
+   },
+   {
+    "title": "洛阳钼业关于召开2026年半年度业绩说明会的公告",
+    "date": "2026-08-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-14/1225471788.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 132
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "尊敬的董秘，您好！ “2026中国民营企业500强”最新发布，公司是否位列排行之中？谢谢回复！",
+    "answer": "尊敬的投资者你好，洛阳钼业在“2026中国民营企业500强”中排名第36位。在《财富》中国500强中排名第135位。感谢您的关注。",
+    "ask_date": "2026-09-23",
+    "answer_date": "2026-10-19",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=3993"
+   },
+   {
+    "question": "董秘您好，对于跨区域、多工厂、多产品线的数据治理以及智能体在研发/制造/供应链/售后场景的规模化落地，公司是否考虑与亚信科技之类的具备FDE大模型部署、大型复杂企业5G专网建设和数据运营、工业机器人高精度视觉定位落地生产线的厂商进行合作，从而进一步降低生产、运维、检修等成本，提高运营效率？",
+    "answer": "尊敬的投资者您好！公司高度重视数字化、智能化建设，数字化是公司平台化能力建设的底座。公司在矿山生产、运营管理等领域持续推进5G、电动化、智能化技术应用。感谢您的关注。",
+    "ask_date": "2026-09-18",
+    "answer_date": "2026-10-19",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=3993"
+   },
+   {
+    "question": "请问公司刚果金铜矿，增储潜力如何？公司目前有何进展？刚果金铜矿储量剩余可开采年限是多少",
+    "answer": "尊敬的投资者您好！公司在刚果（金）运营的TFM、KFM铜钴矿资源禀赋优异，资源量、储量及剩余可开采年限等情况已在定期报告中披露。公司持续开展矿山地质研究和勘探增储工作，KFM二期项目正在按计划推进，预计2027年投产。感谢您的关注。",
+    "ask_date": "2026-09-15",
+    "answer_date": "2026-10-19",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=3993"
+   },
+   {
+    "question": "公司26年上半年钴出口5700吨，同比大幅下降，是什么原因造成的？本年能否如期完成配额出口",
+    "answer": "尊敬的投资者您好！公司2026年上半年钴销售量为5,727吨。公司钴产品出口量变动主要受刚果（金）政府钴出口配额政策影响，公司严格按照获得的配额安排出口。感谢您的关注。",
+    "ask_date": "2026-09-15",
+    "answer_date": "2026-10-19",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=3993"
+   },
+   {
+    "question": "虽然贵公司在刚果（金）已建成并运营的是能够生产阴极铜和氢氧化钴的冶炼设施，但是刚果金设置的对洛阳钼业氢氧化钴的出口配额远远不能适配其产量 ，远期公司是否有筹建电解钴产品的打算，或者还是等刚果金调整出口配额？",
+    "answer": "尊敬的投资者您好！公司目前钴产品以粗制氢氧化钴为主。公司严格按照获得的配额安排出口。感谢您的关注。",
+    "ask_date": "2026-09-11",
+    "answer_date": "2026-10-19",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=3993"
+   }
+  ],
+  "count_12m": null
+ }
+}

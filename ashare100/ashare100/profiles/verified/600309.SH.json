@@ -1,0 +1,616 @@
+{
+ "identity": {
+  "code": "600309",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "万华化学集团股份有限公司",
+  "name_abbr": "万华化学",
+  "aliases": [
+   "whhx"
+  ],
+  "name_en": "Wanhua Chemical Group Co.,Ltd.",
+  "pinyin_abbr": "WHHX",
+  "former_names": [
+   "烟台万华→G万华→烟台万华"
+  ],
+  "industry_sw1": "基础化工",
+  "industry_sw2": "化学制品",
+  "list_date": "2001-01-05",
+  "province": "山东",
+  "city": "烟台",
+  "website": "www.whchem.com",
+  "chairman": "廖增太",
+  "employees": 30772,
+  "business_summary": "化工和精细化学品及新材料产品的生产和销售",
+  "profile": "万华化学集团股份有限公司是一家全球化运营的化工新材料公司,依托不断创新的核心技术、产业化装置及高效的运营模式,为客户提供更具竞争力的产品及解决方案。万华化学始终坚持以技术创新为第一核心竞争力,持续优化产业结构,业务涵盖聚氨酯、石化、精细化学品、新兴材料、未来产业五大产业集群。所服务的行业主要包括:生活家居、运动休闲、汽车交通、建筑工业、电子电气、个人护理和绿色能源等。作为一家全球化运营的化工新材料公司,万华化学拥有烟台、蓬莱、宁波、四川、福建、珠海、宁夏、匈牙利、捷克、瑞典、意大利、法国十二大生产基地及工厂,形成了强大的生产运营网络;此外,烟台、宁波、上海、北京、深圳、匈牙利、西班牙七大研发中心已完成布局,并在欧洲、美国、日本等二十余个国家和地区设立子公司及办事处,致力于为全球客户提供更具竞争力的产品及综合解决方案。万华化学秉承“化学,让生活更美好!”的使命,将一如既往地在化工新材料领域持续创新,引领行业发展方向,为人类创造美好生活!",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 65.86,
+  "change_pct": -0.93,
+  "total_mv": 206172861288.36,
+  "float_mv": 206172861288.36,
+  "total_shares": 3130471626,
+  "float_shares": 3130471626,
+  "pe_ttm": 12.52,
+  "pe_static": 16.46,
+  "pb": 1.81,
+  "ps_ttm": 0.89,
+  "turnover_rate": 0.54,
+  "amount": 1112846668.0,
+  "high_52w": 94.94,
+  "low_52w": 58.63,
+  "ytd_return": -11.74,
+  "return_1y": 11.1,
+  "return_3y": -17.74,
+  "dividend_yield": 1.9,
+  "index_members": [
+   "上证50",
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 145537817628.55,
+    "revenue_yoy": 98.19,
+    "net_profit": 24648748123.08,
+    "net_profit_yoy": 145.47,
+    "net_profit_deducted": 24356144091.02,
+    "gross_margin": 26.26,
+    "net_margin": 17.2,
+    "selling_expense_ratio": 0.72,
+    "admin_expense_ratio": 1.3,
+    "finance_expense_ratio": 1.02,
+    "rd_expense": 3168070387.24,
+    "rd_ratio": 2.18,
+    "eps": 7.85,
+    "bvps": 21.82,
+    "roe": 42.53,
+    "roa": 15.45,
+    "total_assets": 190309582268.84,
+    "total_liab": 118613915236.74,
+    "debt_ratio": 62.33,
+    "cash": 34216298291.79,
+    "receivables": 8646177732.29,
+    "inventory": 18282043845.12,
+    "goodwill": 1264474127.17,
+    "interest_debt": 76444939869.07,
+    "equity_parent": 68498529410.78,
+    "ocf": 27922292184.74,
+    "capex": 26999582886.59,
+    "fcf": 922709298.15,
+    "ocf_to_np": 1.13
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 165565484373.69,
+    "revenue_yoy": 13.76,
+    "net_profit": 16233626024.32,
+    "net_profit_yoy": -34.14,
+    "net_profit_deducted": 15797326614.07,
+    "gross_margin": 16.57,
+    "net_margin": 10.29,
+    "selling_expense_ratio": 0.7,
+    "admin_expense_ratio": 1.19,
+    "finance_expense_ratio": 0.75,
+    "rd_expense": 3420092050.62,
+    "rd_ratio": 2.07,
+    "eps": 5.17,
+    "bvps": 24.47,
+    "roe": 22.75,
+    "roa": 8.71,
+    "total_assets": 200843198875.15,
+    "total_liab": 119506211213.71,
+    "debt_ratio": 59.5,
+    "cash": 18988842959.88,
+    "receivables": 9060251936.64,
+    "inventory": 18185319479.0,
+    "goodwill": 1292252201.89,
+    "interest_debt": 69228795110.87,
+    "equity_parent": 76844533840.41,
+    "ocf": 36336824920.33,
+    "capex": 32656552625.92,
+    "fcf": 3680272294.41,
+    "ocf_to_np": 2.24
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 175360935668.36,
+    "revenue_yoy": 5.92,
+    "net_profit": 16815755534.31,
+    "net_profit_yoy": 3.59,
+    "net_profit_deducted": 16438841961.03,
+    "gross_margin": 16.79,
+    "net_margin": 10.44,
+    "selling_expense_ratio": 0.77,
+    "admin_expense_ratio": 1.4,
+    "finance_expense_ratio": 0.96,
+    "rd_expense": 4080709256.26,
+    "rd_ratio": 2.33,
+    "eps": 5.36,
+    "bvps": 28.24,
+    "roe": 20.42,
+    "roa": 8.06,
+    "total_assets": 253040390845.31,
+    "total_liab": 158586175111.51,
+    "debt_ratio": 62.67,
+    "cash": 23709958225.37,
+    "receivables": 9144253100.42,
+    "inventory": 20650136909.64,
+    "goodwill": 2157538296.26,
+    "interest_debt": 98868632592.98,
+    "equity_parent": 88656204854.29,
+    "ocf": 26796752552.51,
+    "capex": 43098415319.53,
+    "fcf": -16301662767.02,
+    "ocf_to_np": 1.59
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 182069119160.94,
+    "revenue_yoy": 3.83,
+    "net_profit": 13033066612.84,
+    "net_profit_yoy": -22.49,
+    "net_profit_deducted": 13358861995.56,
+    "gross_margin": 16.16,
+    "net_margin": 8.12,
+    "selling_expense_ratio": 0.89,
+    "admin_expense_ratio": 1.66,
+    "finance_expense_ratio": 1.15,
+    "rd_expense": 4550357851.17,
+    "rd_ratio": 2.5,
+    "eps": 4.15,
+    "bvps": 30.14,
+    "roe": 14.29,
+    "roa": 5.41,
+    "total_assets": 293333349744.25,
+    "total_liab": 189833199877.59,
+    "debt_ratio": 64.72,
+    "cash": 24533221345.8,
+    "receivables": 12318995367.05,
+    "inventory": 24107312714.47,
+    "goodwill": 2196124305.24,
+    "interest_debt": 104824578073.8,
+    "equity_parent": 94625896066.69,
+    "ocf": 30053435178.33,
+    "capex": 35830124773.82,
+    "fcf": -5776689595.49,
+    "ocf_to_np": 2.31
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 203234573814.42,
+    "revenue_yoy": 11.62,
+    "net_profit": 12527201094.15,
+    "net_profit_yoy": -3.88,
+    "net_profit_deducted": 12143675765.0,
+    "gross_margin": 13.61,
+    "net_margin": 6.91,
+    "selling_expense_ratio": 0.8,
+    "admin_expense_ratio": 1.38,
+    "finance_expense_ratio": 1.02,
+    "rd_expense": 4865228956.11,
+    "rd_ratio": 2.39,
+    "eps": 3.99,
+    "bvps": 34.6,
+    "roe": 12.44,
+    "roa": 4.56,
+    "total_assets": 323009018441.98,
+    "total_liab": 202880274334.07,
+    "debt_ratio": 62.81,
+    "cash": 27662042570.54,
+    "receivables": 15872973091.27,
+    "inventory": 26014205386.5,
+    "goodwill": 2293156182.4,
+    "interest_debt": 109012823351.93,
+    "equity_parent": 108305459478.31,
+    "ocf": 33105189455.82,
+    "capex": 30711201211.89,
+    "fcf": 2393988243.93,
+    "ocf_to_np": 2.64
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 119315863794.85,
+   "revenue_yoy": 31.26,
+   "net_profit": 10062963544.81,
+   "net_profit_yoy": 64.35,
+   "net_profit_deducted": 9676293596.48,
+   "gross_margin": 17.08,
+   "net_margin": 9.69,
+   "roe": 8.96,
+   "eps": 3.21,
+   "debt_ratio": 64.27,
+   "ocf": 11784141040.7
+  },
+  "derived": {
+   "revenue_cagr_3y": 7.07,
+   "net_profit_cagr_3y": -8.28,
+   "receivables_to_revenue": 7.81,
+   "goodwill_to_equity": 2.12
+  }
+ },
+ "shareholders": {
+  "controller": "烟台市人民政府国有资产监督管理委员会",
+  "controlling_shareholder": "烟台国丰投资控股集团有限公司",
+  "controlling_ratio": 21.65,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "烟台国丰投资控股集团有限公司",
+    "hold_num": 677764654,
+    "hold_ratio": 21.65,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "烟台中诚投资股份有限公司",
+    "hold_num": 330379594,
+    "hold_ratio": 10.55,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "宁波市中凯信创业投资股份有限公司",
+    "hold_num": 301808357,
+    "hold_ratio": 9.64,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "香港中央结算有限公司",
+    "hold_num": 179775053,
+    "hold_ratio": 5.74,
+    "hold_num_change": 45768484
+   },
+   {
+    "rank": 5,
+    "name": "Prime Partner International Limited",
+    "hold_num": 96622341,
+    "hold_ratio": 3.09,
+    "hold_num_change": -21882105
+   },
+   {
+    "rank": 6,
+    "name": "全国社保基金一零三组合",
+    "hold_num": 32500000,
+    "hold_ratio": 1.04,
+    "hold_num_change": 2400163
+   },
+   {
+    "rank": 7,
+    "name": "上海高毅资产管理合伙企业(有限合伙)-高毅晓峰2号致信基金",
+    "hold_num": 24959527,
+    "hold_ratio": 0.8,
+    "hold_num_change": null
+   },
+   {
+    "rank": 8,
+    "name": "阿布达比投资局-自有资金",
+    "hold_num": 24944842,
+    "hold_ratio": 0.8,
+    "hold_num_change": 6101891
+   },
+   {
+    "rank": 9,
+    "name": "全国社保基金一一四组合",
+    "hold_num": 22000000,
+    "hold_ratio": 0.7,
+    "hold_num_change": -2000000
+   },
+   {
+    "rank": 10,
+    "name": "华泰证券股份有限公司-鹏华中证细分化工产业主题交易型开放式指数证券投资基金",
+    "hold_num": 19257646,
+    "hold_ratio": 0.62,
+    "hold_num_change": -14509748
+   }
+  ],
+  "holder_num": 238852,
+  "holder_num_change_pct": 5.55,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 10.6,
+  "northbound_ratio": 5.74,
+  "executives": [
+   {
+    "name": "廖增太",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "寇光武",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "李立民",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 4.14,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 2.5,
+    "total_amount": 7849366565.0,
+    "payout_ratio": 31.84,
+    "dividend_yield": 3.13,
+    "ex_date": "2022-04-29"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 1.6,
+    "total_amount": 5023594601.6,
+    "payout_ratio": 30.95,
+    "dividend_yield": 1.85,
+    "ex_date": "2023-05-26"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 1.625,
+    "total_amount": 5102088267.25,
+    "payout_ratio": 30.34,
+    "dividend_yield": 1.88,
+    "ex_date": "2024-04-22"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 1.25,
+    "total_amount": 3924683282.5,
+    "payout_ratio": 30.11,
+    "dividend_yield": 1.07,
+    "ex_date": "2024-09-05"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 1.25,
+    "total_amount": 3913089532.5,
+    "payout_ratio": 31.24,
+    "dividend_yield": 1.61,
+    "ex_date": "2026-05-27"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 25812822248.85,
+  "cum_netprofit_5y": 83258397388.7,
+  "payout_5y": 31.0,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [
+   "600160.SH",
+   "002001.SZ",
+   "600378.SH",
+   "600352.SH"
+  ],
+  "segments": [
+   {
+    "name": "石化系列",
+    "revenue": 84203810499.1,
+    "ratio": 41.43,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "聚氨酯系列",
+    "revenue": 75058224395.81,
+    "ratio": 36.93,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "精细化学品及新材料系列",
+    "revenue": 33189129642.7,
+    "ratio": 16.33,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他",
+    "revenue": 26217908965.2,
+    "ratio": 12.9,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "抵销",
+    "revenue": -16286561500.9,
+    "ratio": -8.01,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "境内",
+    "revenue": 106061328245.5,
+    "ratio": 52.19,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "境外",
+    "revenue": 96321183756.41,
+    "ratio": 47.39,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 852061812.51,
+    "ratio": 0.42,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "万华化学烟台产业园乙烯二期装置停产检修公告",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597087.PDF",
+    "type": null
+   },
+   {
+    "title": "万华化学烟台产业园MDI装置复产公告",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225586697.PDF",
+    "type": null
+   },
+   {
+    "title": "万华化学关于持股5%以上股东部分股份解除质押公告",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225574156.PDF",
+    "type": null
+   },
+   {
+    "title": "万华化学2026年半年度业绩说明会公告",
+    "date": "2026-09-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-19/1225571262.PDF",
+    "type": null
+   },
+   {
+    "title": "万华化学2026年半年度权益分派实施公告",
+    "date": "2026-09-07",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-07/1225550253.PDF",
+    "type": null
+   },
+   {
+    "title": "万华化学关于使用闲置资金购买结构性存款的进展公告",
+    "date": "2026-09-04",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-04/1225545935.PDF",
+    "type": null
+   },
+   {
+    "title": "万华化学关于子公司匈牙利宝思德化学公司装置复产公告",
+    "date": "2026-08-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225502705.PDF",
+    "type": null
+   },
+   {
+    "title": "万华化学2026年半年度报告摘要",
+    "date": "2026-08-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225497598.PDF",
+    "type": null
+   },
+   {
+    "title": "万华化学2026年半年度报告",
+    "date": "2026-08-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225497561.PDF",
+    "type": null
+   },
+   {
+    "title": "万华化学2026年半年度利润分配方案公告",
+    "date": "2026-08-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225497419.PDF",
+    "type": null
+   },
+   {
+    "title": "万华化学2026年半年度主要经营数据公告",
+    "date": "2026-08-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225497206.PDF",
+    "type": null
+   },
+   {
+    "title": "万华化学2026年度提质增效重回报方案的半年度评估报告",
+    "date": "2026-08-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225497059.PDF",
+    "type": null
+   },
+   {
+    "title": "万华化学第十届董事会2026年第二次会议决议公告",
+    "date": "2026-08-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225496856.PDF",
+    "type": null
+   },
+   {
+    "title": "万华化学烟台产业园MDI装置停产检修公告",
+    "date": "2026-08-05",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-05/1225456806.PDF",
+    "type": null
+   },
+   {
+    "title": "万华化学福建工业园MDI装置复产公告",
+    "date": "2026-08-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-01/1225450235.PDF",
+    "type": null
+   },
+   {
+    "title": "万华化学关于董事长提议实施2026年中期利润分配方案的提示性公告",
+    "date": "2026-07-23",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-23/1225437373.PDF",
+    "type": null
+   },
+   {
+    "title": "万华化学关于子公司匈牙利宝思德化学公司装置停产检修的公告",
+    "date": "2026-07-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-15/1225423057.PDF",
+    "type": null
+   },
+   {
+    "title": "万华化学2026年半年度业绩预增公告",
+    "date": "2026-07-07",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-07/1225411166.PDF",
+    "type": null
+   },
+   {
+    "title": "万华化学关于持股5%以上股东部分股份解除质押公告",
+    "date": "2026-06-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-24/1225382851.PDF",
+    "type": null
+   },
+   {
+    "title": "万华化学福建工业园MDI装置停产检修公告",
+    "date": "2026-06-23",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-23/1225381604.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 112
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "公司积极拥抱工业AI，顺应时代发展，请问，公司如何评价已经上线的TPT大模型经济效益？AI技术在哪些方面表现突出？后续是继续推进数智化转型还是要检验AI大模型的降本增效效果？",
+    "answer": null,
+    "ask_date": "2026-10-08",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=309"
+   },
+   {
+    "question": "从性能和性价比综合考虑，PIR是最优的汽车和建筑保温材料吗？公司是否主动向汽车厂商（尤其是房车市场，自动驾驶后会有爆发）或建筑公司推销产品？市场认可度如何？同时也是为碳达峰做出贡献。",
+    "answer": null,
+    "ask_date": "2026-10-08",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=309"
+   },
+   {
+    "question": "万华与中控技术合作紧密，目前TPT大模型在万华有多少套装备已经上线运行？提质增效多久才能反馈到财务报表上？后面是加大合作力度还是效果不及预期？",
+    "answer": null,
+    "ask_date": "2026-09-29",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=309"
+   }
+  ],
+  "count_12m": null
+ }
+}

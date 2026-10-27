@@ -1,0 +1,639 @@
+{
+ "identity": {
+  "code": "002475",
+  "exchange": "SZ",
+  "board": "主板",
+  "name_full": "立讯精密工业股份有限公司",
+  "name_abbr": "立讯精密",
+  "aliases": [
+   "lxjm"
+  ],
+  "name_en": "Luxshare Precision Industry Co., Ltd.",
+  "pinyin_abbr": "LXJM",
+  "former_names": [],
+  "industry_sw1": "电子",
+  "industry_sw2": "消费电子",
+  "list_date": "2010-09-15",
+  "province": "广东",
+  "city": "深圳",
+  "website": "www.luxshare-ict.com",
+  "chairman": "王来春",
+  "employees": 416197,
+  "business_summary": "主要从事消费电子、通信及数据中心、汽车、医疗等领域相关零组件、模组及系统集成业务",
+  "profile": "立讯精密工业股份有限公司(以下简称“立讯精密”)成立于2004年5月24日,于2010年9月15日在深圳证券交易所中小企业板成功挂牌上市(股票代码:002475)。公司致力于为消费电子产品(智能手机、智能可穿戴设备、混合虚拟现实设备、声学模组、无线充电模组、LCP天线、震动马达、VCM等)、汽车领域产品(汽车线束、汽车连接器、智能座舱、智能驾驶等)以及企业通讯产品(高速互联、光模块、散热模块、电源、基站天线、基站滤波器等)提供从核心零部件、模组到系统组装的一体化智能制造解决方案。历经多年的积累和沉淀,公司逐渐形成自己的文化体系,长期践行“成就客户、使命必达、持续创新、同心同行、自驱成长”的核心价值观,是公司所有人在追求目标时所奉行的基本信念和基本原则。我们在全球多个国家与地区搭建了开发、销售、FAE(现场技术支持)与智能制造相配合的产品供应体系,包含产品的前端设计、开发、制造、测试及销售,为全球领先客户提供全方位的产品落地服务。立讯拥有20余年的行业经验,在不断变化的未来里,我们继续保持创新和奋斗精神,和各界合作伙伴一起共同成长与发展,开创美好的未来。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 47.01,
+  "change_pct": -2.02,
+  "total_mv": 364008813709.83,
+  "float_mv": 344603402839.29,
+  "total_shares": 7743220883,
+  "float_shares": 7330427629,
+  "pe_ttm": 20.45,
+  "pe_static": 21.93,
+  "pb": 3.91,
+  "ps_ttm": 0.95,
+  "turnover_rate": 1.08,
+  "amount": 3734203288.93,
+  "high_52w": 81.53,
+  "low_52w": 43.45,
+  "ytd_return": -16.5,
+  "return_1y": -21.26,
+  "return_3y": 57.74,
+  "dividend_yield": 0.64,
+  "index_members": [
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 153946097790.4,
+    "revenue_yoy": 66.43,
+    "net_profit": 7070520386.57,
+    "net_profit_yoy": -2.14,
+    "net_profit_deducted": 6015597220.13,
+    "gross_margin": 12.28,
+    "net_margin": 5.08,
+    "selling_expense_ratio": 0.51,
+    "admin_expense_ratio": 2.43,
+    "finance_expense_ratio": 0.36,
+    "rd_expense": 6642300402.74,
+    "rd_ratio": 4.31,
+    "eps": 1.01,
+    "bvps": 4.93,
+    "roe": 22.35,
+    "roa": 8.21,
+    "total_assets": 120572098167.88,
+    "total_liab": 74789454618.31,
+    "debt_ratio": 62.03,
+    "cash": 14204618186.43,
+    "receivables": 31623185946.25,
+    "inventory": 20900755733.15,
+    "goodwill": 1397364508.87,
+    "interest_debt": 20335689604.83,
+    "equity_parent": 35288554748.72,
+    "ocf": 7284766917.0,
+    "capex": 12567222230.86,
+    "fcf": -5282455313.86,
+    "ocf_to_np": 1.03
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 214028394291.44,
+    "revenue_yoy": 39.03,
+    "net_profit": 9163104849.54,
+    "net_profit_yoy": 29.6,
+    "net_profit_deducted": 8442052945.85,
+    "gross_margin": 12.19,
+    "net_margin": 4.9,
+    "selling_expense_ratio": 0.39,
+    "admin_expense_ratio": 2.37,
+    "finance_expense_ratio": 0.41,
+    "rd_expense": 8447038946.21,
+    "rd_ratio": 3.95,
+    "eps": 1.29,
+    "bvps": 6.31,
+    "roe": 23.0,
+    "roa": 7.8,
+    "total_assets": 148384319074.71,
+    "total_liab": 89600449377.52,
+    "debt_ratio": 60.38,
+    "cash": 19367209441.41,
+    "receivables": 26043354859.19,
+    "inventory": 37363329476.66,
+    "goodwill": 1730047190.39,
+    "interest_debt": 28839827749.5,
+    "equity_parent": 45342897318.53,
+    "ocf": 12727610319.34,
+    "capex": 13584140261.73,
+    "fcf": -856529942.39,
+    "ocf_to_np": 1.39
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 231905459829.83,
+    "revenue_yoy": 8.35,
+    "net_profit": 10952656702.16,
+    "net_profit_yoy": 19.53,
+    "net_profit_deducted": 10185553553.99,
+    "gross_margin": 11.58,
+    "net_margin": 5.28,
+    "selling_expense_ratio": 0.38,
+    "admin_expense_ratio": 2.39,
+    "finance_expense_ratio": 0.21,
+    "rd_expense": 8188767532.85,
+    "rd_ratio": 3.53,
+    "eps": 1.54,
+    "bvps": 7.8,
+    "roe": 21.61,
+    "roa": 7.89,
+    "total_assets": 161992099595.65,
+    "total_liab": 91707234769.43,
+    "debt_ratio": 56.61,
+    "cash": 33619539457.51,
+    "receivables": 23504481889.07,
+    "inventory": 29757930319.35,
+    "goodwill": 1729242734.88,
+    "interest_debt": 38772238140.23,
+    "equity_parent": 56310184510.6,
+    "ocf": 27605060411.16,
+    "capex": 11387449010.98,
+    "fcf": 16217611400.18,
+    "ocf_to_np": 2.52
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 268794737612.58,
+    "revenue_yoy": 15.91,
+    "net_profit": 13365651026.16,
+    "net_profit_yoy": 22.03,
+    "net_profit_deducted": 11694305563.27,
+    "gross_margin": 10.41,
+    "net_margin": 5.42,
+    "selling_expense_ratio": 0.39,
+    "admin_expense_ratio": 2.36,
+    "finance_expense_ratio": -0.19,
+    "rd_expense": 8555957431.46,
+    "rd_ratio": 3.18,
+    "eps": 1.86,
+    "bvps": 9.51,
+    "roe": 21.34,
+    "roa": 7.56,
+    "total_assets": 223827584433.26,
+    "total_liab": 139140458018.25,
+    "debt_ratio": 62.16,
+    "cash": 48359655992.93,
+    "receivables": 32561098916.58,
+    "inventory": 31702675549.03,
+    "goodwill": 1885826820.02,
+    "interest_debt": 61222761324.37,
+    "equity_parent": 69327010925.99,
+    "ocf": 27116908208.53,
+    "capex": 12110699704.87,
+    "fcf": 15006208503.66,
+    "ocf_to_np": 2.03
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 332344443143.39,
+    "revenue_yoy": 23.64,
+    "net_profit": 16599769785.64,
+    "net_profit_yoy": 24.2,
+    "net_profit_deducted": 14168855968.15,
+    "gross_margin": 11.91,
+    "net_margin": 5.47,
+    "selling_expense_ratio": 0.7,
+    "admin_expense_ratio": 3.07,
+    "finance_expense_ratio": 0.33,
+    "rd_expense": 11428041090.59,
+    "rd_ratio": 3.44,
+    "eps": 2.29,
+    "bvps": 11.59,
+    "roe": 21.1,
+    "roa": 6.85,
+    "total_assets": 306537675786.42,
+    "total_liab": 202517443006.8,
+    "debt_ratio": 66.07,
+    "cash": 61159176580.35,
+    "receivables": 48438796114.12,
+    "inventory": 42332782449.47,
+    "goodwill": 2239173155.52,
+    "interest_debt": 96125182545.86,
+    "equity_parent": 84921103420.87,
+    "ocf": 17325329533.97,
+    "capex": 17904337668.17,
+    "fcf": -579008134.2,
+    "ocf_to_np": 1.04
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 174504335921.25,
+   "revenue_yoy": 40.16,
+   "net_profit": 7842698288.86,
+   "net_profit_yoy": 18.04,
+   "net_profit_deducted": 5961877867.17,
+   "gross_margin": 11.78,
+   "net_margin": 4.89,
+   "roe": 8.76,
+   "eps": 1.08,
+   "debt_ratio": 67.44,
+   "ocf": -2445863006.32
+  },
+  "derived": {
+   "revenue_cagr_3y": 15.8,
+   "net_profit_cagr_3y": 21.9,
+   "receivables_to_revenue": 14.57,
+   "goodwill_to_equity": 2.64
+  }
+ },
+ "shareholders": {
+  "controller": "王来胜,王来春",
+  "controlling_shareholder": "立讯有限公司",
+  "controlling_ratio": 37.32,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "立讯有限公司",
+    "hold_num": 2731537636,
+    "hold_ratio": 37.32,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "香港中央结算有限公司",
+    "hold_num": 578377455,
+    "hold_ratio": 7.9,
+    "hold_num_change": 162976568
+   },
+   {
+    "rank": 3,
+    "name": "阿布达比投资局-自有资金",
+    "hold_num": 46742361,
+    "hold_ratio": 0.64,
+    "hold_num_change": 10959128
+   },
+   {
+    "rank": 4,
+    "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+    "hold_num": 43723492,
+    "hold_ratio": 0.6,
+    "hold_num_change": 17234850
+   },
+   {
+    "rank": 5,
+    "name": "太白投资有限公司-自有资金(R)",
+    "hold_num": 30405073,
+    "hold_ratio": 0.42,
+    "hold_num_change": null
+   },
+   {
+    "rank": 6,
+    "name": "招商银行股份有限公司-兴全合润混合型证券投资基金",
+    "hold_num": 27716919,
+    "hold_ratio": 0.38,
+    "hold_num_change": null
+   },
+   {
+    "rank": 7,
+    "name": "招商银行股份有限公司-睿远成长价值混合型证券投资基金",
+    "hold_num": 27022126,
+    "hold_ratio": 0.37,
+    "hold_num_change": 506526
+   },
+   {
+    "rank": 8,
+    "name": "中国光大银行股份有限公司-兴全商业模式优选混合型证券投资基金(LOF)",
+    "hold_num": 26549938,
+    "hold_ratio": 0.36,
+    "hold_num_change": null
+   },
+   {
+    "rank": 9,
+    "name": "中国人寿保险股份有限公司-分红-个人分红-005L-FH002沪",
+    "hold_num": 23672686,
+    "hold_ratio": 0.32,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "中国银行股份有限公司-华夏中证5G通信主题交易型开放式指数证券投资基金",
+    "hold_num": 23240114,
+    "hold_ratio": 0.32,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 513997,
+  "holder_num_change_pct": 29.22,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 13.11,
+  "northbound_ratio": 7.9,
+  "executives": [
+   {
+    "name": "王来春",
+    "title": "董事长",
+    "pay": 8000000
+   },
+   {
+    "name": "王来春",
+    "title": "总经理",
+    "pay": 8000000
+   },
+   {
+    "name": "肖云兮",
+    "title": "董事会秘书",
+    "pay": 330700
+   }
+  ],
+  "pledge_ratio_total": 14.06,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.11,
+    "total_amount": 779272465.18,
+    "payout_ratio": 11.02,
+    "dividend_yield": 0.33,
+    "ex_date": "2022-07-13"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.13,
+    "total_amount": 926950892.31,
+    "payout_ratio": 10.12,
+    "dividend_yield": 0.45,
+    "ex_date": "2023-06-15"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.2989,
+    "total_amount": 2153403118.84,
+    "payout_ratio": 19.66,
+    "dividend_yield": 0.73,
+    "ex_date": "2024-07-11"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.1999,
+    "total_amount": 1449478521.39,
+    "payout_ratio": 10.84,
+    "dividend_yield": 0.56,
+    "ex_date": "2025-07-14"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.299,
+    "total_amount": 2239578479.34,
+    "payout_ratio": 13.49,
+    "dividend_yield": 0.28,
+    "ex_date": "2026-02-12"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 7548683477.06,
+  "cum_netprofit_5y": 57151702750.07,
+  "payout_5y": 13.21,
+  "buyback_3y": 999915944.13
+ },
+ "peers": {
+  "peer_codes": [
+   "601138.SH",
+   "300433.SZ",
+   "603296.SH",
+   "300857.SZ"
+  ],
+  "segments": [
+   {
+    "name": "消费电子",
+    "revenue": 264265914303.66,
+    "ratio": 79.52,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "汽车电子",
+    "revenue": 39255371878.9,
+    "ratio": 11.81,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "通讯及数据中心",
+    "revenue": 24567610128.22,
+    "ratio": 7.39,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他",
+    "revenue": 4255546832.61,
+    "ratio": 1.28,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "外销",
+    "revenue": 283208773277.67,
+    "ratio": 85.22,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "内销",
+    "revenue": 49135669865.72,
+    "ratio": 14.78,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "关于“立讯转债”恢复转股的公告",
+    "date": "2026-10-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225613008.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-董事会会议召开日期",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225609015.PDF",
+    "type": null
+   },
+   {
+    "title": "关于股份回购进展情况的公告",
+    "date": "2026-10-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225606883.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度权益分派实施公告",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225605405.PDF",
+    "type": null
+   },
+   {
+    "title": "关于“立讯转债”转股价格调整的公告",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225605404.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-截至2026年9月30日止月份之股份发行人的证券变动月报表（经修订）",
+    "date": "2026-10-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225604229.PDF",
+    "type": null
+   },
+   {
+    "title": "关于公司及控股子公司涉及美国国际贸易委员会337调查的公告",
+    "date": "2026-10-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-10/1225600359.pdf",
+    "type": null
+   },
+   {
+    "title": "2026年第三季度可转换公司债券转股情况公告",
+    "date": "2026-10-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-10/1225599010.PDF",
+    "type": null
+   },
+   {
+    "title": "关于“立讯转债”转股价格调整的公告",
+    "date": "2026-10-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-10/1225599009.PDF",
+    "type": null
+   },
+   {
+    "title": "关于股份回购进展情况的公告",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597926.PDF",
+    "type": null
+   },
+   {
+    "title": "关于实施权益分派期间“立讯转债”暂停转股的公告",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597925.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-截至2026年9月30日止月份之股份发行人的证券变动月报表",
+    "date": "2026-10-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225595408.PDF",
+    "type": null
+   },
+   {
+    "title": "关于“立讯转债”即将到期及停止交易的第三次提示性公告",
+    "date": "2026-09-23",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-23/1225576263.PDF",
+    "type": null
+   },
+   {
+    "title": "关于“立讯转债”即将到期及停止交易的第二次提示性公告",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575502.PDF",
+    "type": null
+   },
+   {
+    "title": "关于“立讯转债”即将到期及停止交易的第一次提示性公告",
+    "date": "2026-09-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-21/1225571215.PDF",
+    "type": null
+   },
+   {
+    "title": "关于“立讯转债”停止交易的公告",
+    "date": "2026-09-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-18/1225570837.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市汉坤（深圳）律师事务所关于立讯精密工业股份有限公司2026年第一次临时股东会的法律意见书",
+    "date": "2026-09-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-17/1225568991.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年第一次临时股东会决议公告",
+    "date": "2026-09-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-17/1225568990.PDF",
+    "type": null
+   },
+   {
+    "title": "关于召开2026年第一次临时股东会的提示性公告",
+    "date": "2026-09-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-10/1225555193.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-截至2026年7月31日止月份之股份发行人的证券变动月报表（经修订）",
+    "date": "2026-09-05",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-05/1225549214.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 212
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "董秘您好！港股近期爆出IPO造假事件。公司7月H股募资242.66亿港元，8月又拟发债250亿元，发债金额与H股募资金额几乎相当。请问：1.H股募资实际使用进度如何？2.募资未用完即发债250亿，必要性和具体用途？3.如何确保H股发行合规，无虚假认购？谢谢！",
+    "answer": null,
+    "ask_date": "2026-10-19",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2384936105067020288"
+   },
+   {
+    "question": "10月9日新浪网报道了立讯拿到了戴尔 XPS13笔记本和惠普游戏笔记本的代工订单。请问预计什么时候可以出货？预计量有多少？公司目前还在争取其他品牌笔记本的代工吗？",
+    "answer": null,
+    "ask_date": "2026-10-18",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2384476397603438592"
+   },
+   {
+    "question": "请问截止2026年10月10日公司的股东人数是多少？谢谢",
+    "answer": "您好，截止10月20日，公司A股股东户数为522,215户，谢谢！",
+    "ask_date": "2026-10-16",
+    "answer_date": "2026-10-21",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2382675569355833344"
+   },
+   {
+    "question": "董秘，您好！请问公司大股东的质押股票到平仓预警线了吗？东方财富显示到平仓预警线了，截止2026年10月15号",
+    "answer": null,
+    "ask_date": "2026-10-15",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2381958515942600704"
+   },
+   {
+    "question": "董秘，你好！近期市场对AI硬件的发展前景有很强的顾虑，公司据说有一个专职的AI架构研判团队，公司对未来三年的AI发展研判有变化吗？比如光模块竞争格局，热管理竞争格局，电源竞争格局。盼早日回复，谢谢！",
+    "answer": null,
+    "ask_date": "2026-10-14",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2381454046078902272"
+   },
+   {
+    "question": "董秘，你好！请问京西什么的时候会并表！公司对京西未来的规划是？扭亏为盈有预期吗？",
+    "answer": null,
+    "ask_date": "2026-10-14",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2381451434738786304"
+   },
+   {
+    "question": "董秘、你好。公司现在有算例租赁业务吗？有相关的营收吗？我看英特尔相关的活动上，贵公司的人有提及相关的业务！盼早日回复。",
+    "answer": null,
+    "ask_date": "2026-10-14",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2381449965859971072"
+   },
+   {
+    "question": "自10月10日的美国337调查以来，10月12日以及之后是否回购股票？",
+    "answer": null,
+    "ask_date": "2026-10-12",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2379947964409184256"
+   }
+  ],
+  "count_12m": null
+ }
+}

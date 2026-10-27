@@ -1,0 +1,621 @@
+{
+ "identity": {
+  "code": "002916",
+  "exchange": "SZ",
+  "board": "主板",
+  "name_full": "深南电路股份有限公司",
+  "name_abbr": "深南电路",
+  "aliases": [
+   "sndl"
+  ],
+  "name_en": "Shennan Circuits Co., Ltd.",
+  "pinyin_abbr": "SNDL",
+  "former_names": [],
+  "industry_sw1": "电子",
+  "industry_sw2": "元件",
+  "list_date": "2017-12-13",
+  "province": "广东",
+  "city": "深圳",
+  "website": "www.scc.com.cn",
+  "chairman": "杨智勤",
+  "employees": 21211,
+  "business_summary": "专注于电子互联领域,致力于“打造世界级电子电路技术与解决方案的集成商”,拥有印制电路板、电子装联",
+  "profile": "深南电路股份有限公司(简称“深南电路”),成立于1984年,总部坐落于中国广东省深圳市,主要生产基地位于中国深圳、江苏无锡及南通,业务遍及全球,在北美设有子公司,欧洲设有研发站点。经过多年发展,深南电路已与全球领先的通信设备制造商及医疗设备厂商建立了长期稳定的战略合作关系,成为了国家火炬计划重点高新技术企业、印制电路板行业首家国家技术创新示范企业及国家企业技术中心,中国印制电路板行业的领先企业,中国封装基板领域的先行者,电子装联制造的特色企业,中国电子电路行业协会(CPCA)的理事长单位及标准委员会会长单位,主导或参与制定了多项行业标准。紧抓电子产业高速发展的历史机遇,深南电路专注电子互联领域,坚持客户导向、技术驱动,以互联为核心,在强化印制电路板领先地位的同时,大力发展“技术同根”的封装基板及“客户同源”的电子装联,通过开展方案设计、制造、电子装联、微组装和测试等全价值链服务,凭借一站式的解决方案、高中端的产品结构、专业的产品开发及制造技术、稳定的质量表现与完善的管理体系,逐步成长为世界级电子电路技术与解决方案集成商。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 284.3,
+  "change_pct": -6.97,
+  "total_mv": 193646394778.5,
+  "float_mv": 189014056066.5,
+  "total_shares": 681133995,
+  "float_shares": 664840155,
+  "pe_ttm": 46.47,
+  "pe_static": 59.12,
+  "pb": 9.66,
+  "ps_ttm": 6.8,
+  "turnover_rate": 1.32,
+  "amount": 2551421161.2,
+  "high_52w": 484.57,
+  "low_52w": 179.96,
+  "ytd_return": 23.67,
+  "return_1y": 42.44,
+  "return_3y": 526.53,
+  "dividend_yield": 0.84,
+  "index_members": [
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 13942521948.74,
+    "revenue_yoy": 20.19,
+    "net_profit": 1480637000.32,
+    "net_profit_yoy": 3.53,
+    "net_profit_deducted": 1272385476.2,
+    "gross_margin": 23.71,
+    "net_margin": 10.62,
+    "selling_expense_ratio": 1.67,
+    "admin_expense_ratio": 3.9,
+    "finance_expense_ratio": 0.77,
+    "rd_expense": 782424442.99,
+    "rd_ratio": 5.61,
+    "eps": 3.02,
+    "bvps": 17.41,
+    "roe": 18.71,
+    "roa": 9.62,
+    "total_assets": 16792291128.17,
+    "total_liab": 8272223056.81,
+    "debt_ratio": 49.26,
+    "cash": 619595093.18,
+    "receivables": 2731577854.11,
+    "inventory": 2526556570.04,
+    "goodwill": 0.0,
+    "interest_debt": 2326124638.76,
+    "equity_parent": 8516936681.69,
+    "ocf": 2341812030.05,
+    "capex": 2658325651.83,
+    "fcf": -316513621.78,
+    "ocf_to_np": 1.58
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 13992454035.04,
+    "revenue_yoy": 0.36,
+    "net_profit": 1641239155.16,
+    "net_profit_yoy": 10.85,
+    "net_profit_deducted": 1499871047.38,
+    "gross_margin": 25.52,
+    "net_margin": 11.73,
+    "selling_expense_ratio": 1.81,
+    "admin_expense_ratio": 4.81,
+    "finance_expense_ratio": -0.04,
+    "rd_expense": 819582685.95,
+    "rd_ratio": 5.86,
+    "eps": 3.22,
+    "bvps": 23.88,
+    "roe": 14.71,
+    "roa": 8.75,
+    "total_assets": 20732418282.96,
+    "total_liab": 8477290575.29,
+    "debt_ratio": 40.89,
+    "cash": 1913469009.39,
+    "receivables": 2770152416.64,
+    "inventory": 2340891041.46,
+    "goodwill": 0.0,
+    "interest_debt": 2677475362.66,
+    "equity_parent": 12251659553.96,
+    "ocf": 3179833339.56,
+    "capex": 3377742320.18,
+    "fcf": -197908980.62,
+    "ocf_to_np": 1.94
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 13526425962.45,
+    "revenue_yoy": -3.33,
+    "net_profit": 1398114737.36,
+    "net_profit_yoy": -14.81,
+    "net_profit_deducted": 997953922.58,
+    "gross_margin": 23.43,
+    "net_margin": 10.33,
+    "selling_expense_ratio": 1.99,
+    "admin_expense_ratio": 4.44,
+    "finance_expense_ratio": 0.23,
+    "rd_expense": 1073151863.41,
+    "rd_ratio": 7.93,
+    "eps": 2.73,
+    "bvps": 25.71,
+    "roe": 11.07,
+    "roa": 6.45,
+    "total_assets": 22606867760.88,
+    "total_liab": 9419958394.54,
+    "debt_ratio": 41.67,
+    "cash": 852684905.52,
+    "receivables": 3090655652.3,
+    "inventory": 2686348293.78,
+    "goodwill": null,
+    "interest_debt": 3183630358.82,
+    "equity_parent": 13183740540.64,
+    "ocf": 2589283004.69,
+    "capex": 3249692922.43,
+    "fcf": -660409917.74,
+    "ocf_to_np": 1.85
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 17907445251.3,
+    "revenue_yoy": 32.39,
+    "net_profit": 1877565481.01,
+    "net_profit_yoy": 34.29,
+    "net_profit_deducted": 1739872642.1,
+    "gross_margin": 24.83,
+    "net_margin": 10.49,
+    "selling_expense_ratio": 1.7,
+    "admin_expense_ratio": 4.05,
+    "finance_expense_ratio": 0.26,
+    "rd_expense": 1272224103.81,
+    "rd_ratio": 7.1,
+    "eps": 3.66,
+    "bvps": 28.5,
+    "roe": 13.58,
+    "roa": 7.84,
+    "total_assets": 25302247864.46,
+    "total_liab": 10656346384.27,
+    "debt_ratio": 42.12,
+    "cash": 1553318757.56,
+    "receivables": 3805722762.79,
+    "inventory": 3394998926.68,
+    "goodwill": null,
+    "interest_debt": 3297299833.22,
+    "equity_parent": 14617020314.27,
+    "ocf": 2982221520.41,
+    "capex": 2526460850.35,
+    "fcf": 455760670.06,
+    "ocf_to_np": 1.59
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 23646977088.98,
+    "revenue_yoy": 32.05,
+    "net_profit": 3275738151.27,
+    "net_profit_yoy": 74.47,
+    "net_profit_deducted": 3113627500.81,
+    "gross_margin": 28.32,
+    "net_margin": 13.86,
+    "selling_expense_ratio": 1.61,
+    "admin_expense_ratio": 4.5,
+    "finance_expense_ratio": 0.21,
+    "rd_expense": 1591409462.06,
+    "rd_ratio": 6.73,
+    "eps": 4.91,
+    "bvps": 25.72,
+    "roe": 20.79,
+    "roa": 11.73,
+    "total_assets": 30582928717.03,
+    "total_liab": 13402402061.71,
+    "debt_ratio": 43.82,
+    "cash": 998448516.58,
+    "receivables": 5249862279.15,
+    "inventory": 5139701550.07,
+    "goodwill": null,
+    "interest_debt": 3557910474.95,
+    "equity_parent": 17149430529.85,
+    "ocf": 3838343369.18,
+    "capex": 3765432523.87,
+    "fcf": 72910845.31,
+    "ocf_to_np": 1.17
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 15296361440.43,
+   "revenue_yoy": 46.33,
+   "net_profit": 2251458836.99,
+   "net_profit_yoy": 65.55,
+   "net_profit_deducted": 2239172474.35,
+   "gross_margin": 31.01,
+   "net_margin": 14.74,
+   "roe": 12.43,
+   "eps": 3.32,
+   "debt_ratio": 55.67,
+   "ocf": 1501855888.16
+  },
+  "derived": {
+   "revenue_cagr_3y": 19.11,
+   "net_profit_cagr_3y": 25.91,
+   "receivables_to_revenue": 22.2,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "中国航空工业集团有限公司",
+  "controlling_shareholder": "深天科技控股(深圳)有限公司",
+  "controlling_ratio": 62.61,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "深天科技控股(深圳)有限公司",
+    "hold_num": 426489271,
+    "hold_ratio": 62.61,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "香港中央结算有限公司",
+    "hold_num": 18434175,
+    "hold_ratio": 2.71,
+    "hold_num_change": -7143245
+   },
+   {
+    "rank": 3,
+    "name": "平安银行股份有限公司-永赢科技智选混合型发起式证券投资基金",
+    "hold_num": 7034753,
+    "hold_ratio": 1.03,
+    "hold_num_change": 1160363
+   },
+   {
+    "rank": 4,
+    "name": "中国银行股份有限公司-摩根士丹利数字经济混合型证券投资基金",
+    "hold_num": 3583950,
+    "hold_ratio": 0.53,
+    "hold_num_change": 1348239
+   },
+   {
+    "rank": 5,
+    "name": "富国基金管理有限公司-社保基金2101组合",
+    "hold_num": 3186919,
+    "hold_ratio": 0.47,
+    "hold_num_change": 364430
+   },
+   {
+    "rank": 6,
+    "name": "太平人寿保险有限公司-传统-普通保险产品-022L-CT001深",
+    "hold_num": 2967866,
+    "hold_ratio": 0.44,
+    "hold_num_change": 1137283
+   },
+   {
+    "rank": 7,
+    "name": "中国建设银行股份有限公司-华泰柏瑞质量成长混合型证券投资基金",
+    "hold_num": 2240264,
+    "hold_ratio": 0.33,
+    "hold_num_change": null
+   },
+   {
+    "rank": 8,
+    "name": "银华基金-中国人寿保险股份有限公司-分红险-银华基金国寿股份成长股票型组合单一资产管理计划(可供出售)",
+    "hold_num": 2037325,
+    "hold_ratio": 0.3,
+    "hold_num_change": null
+   },
+   {
+    "rank": 9,
+    "name": "中航产业投资有限公司",
+    "hold_num": 1811929,
+    "hold_ratio": 0.27,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "中国人寿保险股份有限公司-分红-个人分红-005L-FH002沪",
+    "hold_num": 1668957,
+    "hold_ratio": 0.25,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 71529,
+  "holder_num_change_pct": 5.34,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 14.59,
+  "northbound_ratio": 2.71,
+  "executives": [
+   {
+    "name": "杨智勤",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "杨智勤",
+    "title": "总经理",
+    "pay": 3030400
+   },
+   {
+    "name": "张丽君",
+    "title": "董事会秘书",
+    "pay": 2606000
+   }
+  ],
+  "pledge_ratio_total": 0.0,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.95,
+    "total_amount": 487236323.95,
+    "payout_ratio": 32.91,
+    "dividend_yield": 1.06,
+    "ex_date": "2022-05-30"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 1.0,
+    "total_amount": 512877535.0,
+    "payout_ratio": 31.25,
+    "dividend_yield": 1.28,
+    "ex_date": "2023-05-30"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.9,
+    "total_amount": 461589781.5,
+    "payout_ratio": 33.02,
+    "dividend_yield": 1.0,
+    "ex_date": "2024-05-30"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 1.5,
+    "total_amount": 769316302.5,
+    "payout_ratio": 40.97,
+    "dividend_yield": 1.4,
+    "ex_date": "2025-05-29"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 2.4,
+    "total_amount": 1634799828.0,
+    "payout_ratio": 49.91,
+    "dividend_yield": 0.6,
+    "ex_date": "2026-05-29"
+   }
+  ],
+  "consecutive_years": 5,
+  "cum_dividend_5y": 3865819770.95,
+  "cum_netprofit_5y": 9673294525.12,
+  "payout_5y": 39.96,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "600183.SH",
+   "002384.SZ",
+   "002463.SZ",
+   "300408.SZ"
+  ],
+  "segments": [
+   {
+    "name": "印制电路板",
+    "revenue": 14359273726.79,
+    "ratio": 60.72,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "封装基板",
+    "revenue": 4147788891.37,
+    "ratio": 17.54,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "电子装联",
+    "revenue": 3074964492.08,
+    "ratio": 13.0,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 1319125581.28,
+    "ratio": 5.58,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他产品",
+    "revenue": 745824397.46,
+    "ratio": 3.15,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "境内销售",
+    "revenue": 13815066043.21,
+    "ratio": 58.42,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "境外销售",
+    "revenue": 8512785464.49,
+    "ratio": 36.0,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 1319125581.28,
+    "ratio": 5.58,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "2026年前三季度业绩预告",
+    "date": "2026-10-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607636.PDF",
+    "type": null
+   },
+   {
+    "title": "国泰海通、中航证券关于深南电路2026年度向特定对象发行股票之发行保荐书",
+    "date": "2026-10-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607635.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年度向特定对象发行股票募集说明书(注册稿)",
+    "date": "2026-10-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607634.PDF",
+    "type": null
+   },
+   {
+    "title": "关于2026年度向特定对象发行股票提交募集说明书（注册稿）等申请文件的提示性公告",
+    "date": "2026-10-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607633.PDF",
+    "type": null
+   },
+   {
+    "title": "国泰海通、中航证券关于深南电路2026年度向特定对象发行股票之上市保荐书",
+    "date": "2026-10-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607632.PDF",
+    "type": null
+   },
+   {
+    "title": "关于2026年度向特定对象发行股票申请获得深圳证券交易所上市审核中心审核通过的公告",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225605506.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年度向特定对象发行股票募集说明书（申报稿）",
+    "date": "2026-10-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225602150.PDF",
+    "type": null
+   },
+   {
+    "title": "公司最近一年的财务报告及其审计报告以及最近一期的财务报告",
+    "date": "2026-10-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225602149.PDF",
+    "type": null
+   },
+   {
+    "title": "国泰海通、中航证券关于深南电路2026年度向特定对象发行股票之发行保荐书",
+    "date": "2026-10-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225602148.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市嘉源律师事务所关于公司2026年度向特定对象发行股票并上市之补充法律意见书（一）",
+    "date": "2026-10-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225602147.PDF",
+    "type": null
+   },
+   {
+    "title": "国泰海通、中航证券关于深南电路2026年度向特定对象发行股票之上市保荐书",
+    "date": "2026-10-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225602146.PDF",
+    "type": null
+   },
+   {
+    "title": "关于2026年度向特定对象发行股票的募集说明书等申请文件更新的提示性公告",
+    "date": "2026-10-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225602145.PDF",
+    "type": null
+   },
+   {
+    "title": "关于公司董事长辞职暨选举董事长、调整第四届董事会专门委员会委员及召集人的公告",
+    "date": "2026-10-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225590927.PDF",
+    "type": null
+   },
+   {
+    "title": "第四届董事会第二十一次会议决议公告",
+    "date": "2026-10-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225590926.PDF",
+    "type": null
+   },
+   {
+    "title": "关于回购注销部分限制性股票减少注册资本暨通知债权人的公告",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225561007.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市嘉源律师事务所关于深南电路股份有限公司2026年第三次临时股东会的法律意见书",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225561006.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年第三次临时股东会决议公告",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225561005.PDF",
+    "type": null
+   },
+   {
+    "title": "深南电路股份有限公司2026年度向特定对象发行股票预案（修订稿）",
+    "date": "2026-09-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-09/1225554575.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年度向特定对象发行股票方案的论证分析报告（修订稿）",
+    "date": "2026-09-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-09/1225554574.PDF",
+    "type": null
+   },
+   {
+    "title": "董事会审计委员会关于调整公司2026年度向特定对象发行股票相关事项的书面审核意见",
+    "date": "2026-09-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-09/1225554573.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 142
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "您好请问：公司FC-BGA产品目前的线宽/线距规格是多少？最大封装基板尺寸是多少？ FCBGA产品良率是否已达到商业化量产基准？高层的良率是多少？ 公司是否考虑在定期报告中单独披露FC-BGA业务收入？",
+    "answer": "尊敬的投资者，您好。公司FC-BGA封装基板目前已具备22层及以下产品的批量生产能力，线宽线距最小达9/12μm。公司始终将产品质量和技术创新作为核心竞争力，并通过持续优化工艺、强化生产管控，不断提升产品良率水平。封装基板业务收入包含FC-BGA封装基板相关收入，公司将严格依据监管披露要求编制定期报告。谢谢您的关注。",
+    "ask_date": "2026-10-08",
+    "answer_date": "2026-10-14",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2376897498279686144"
+   },
+   {
+    "question": "目前公司PCB和封装基板的产能是多少",
+    "answer": "尊敬的投资者，您好。公司现有深圳、无锡、南通、广州、泰国五个生产基地，其中深圳、无锡基地拥有PCB、封装基板、PCBA三项业务，南通、泰国基地主要为PCB业务，广州基地主要为封装基板业务。不同工厂面向的产品类型不同，具体产能情况与产品结构、技术改造等因素相关。谢谢您的关注。",
+    "ask_date": "2026-09-22",
+    "answer_date": "2026-09-24",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2364848027482415104"
+   },
+   {
+    "question": "深南电路已经英伟达的供应链了吗",
+    "answer": "尊敬的投资者，您好。基于商业保密原则，凡涉及与具体企业合作的问题公司均不便于回复，敬请谅解。谢谢您的关注。",
+    "ask_date": "2026-08-18",
+    "answer_date": "2026-08-20",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2338773882301263872"
+   },
+   {
+    "question": "近期，美国各大企业AI算力基础设施硬件投资费用的短期天花板即将出现，未来，资本越来越看重AI终端产品的应用及销售、变现能力。请问，公司具身智能相关产品今年是否有销售计划？是否全球布局？国内需求进展怎样？",
+    "answer": "尊敬的投资者，您好。公司拥有印制电路板、电子装联和封装基板三项主营业务，下游应用领域广泛，覆盖通信、数据中心、工控医疗、汽车电子等领域。产品在终端的具体应用场景取决于下游客户需求。谢谢您的关注。",
+    "ask_date": "2026-07-24",
+    "answer_date": "2026-07-27",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2320339066824441856"
+   }
+  ],
+  "count_12m": null
+ }
+}

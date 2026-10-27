@@ -1,0 +1,311 @@
+{
+ "identity": {
+  "code": "601872",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "招商局能源运输股份有限公司",
+  "name_abbr": "招商轮船",
+  "aliases": [],
+  "name_en": "China Merchants Energy Shipping Co., Ltd.",
+  "former_names": [],
+  "industry_sw1": null,
+  "industry_sw2": null,
+  "list_date": "2006-12-01",
+  "province": "上海",
+  "city": null,
+  "website": "www.cmenergyshipping.com",
+  "chairman": "冯波鸣",
+  "employees": 5513,
+  "business_summary": "许可经营项目:国际船舶危险品运输。一般经营项目:能源领域投资;航海技术服务;各类船用设备、船舶零部件、电子通讯设备、其他机器设备、办公设备及材料的销售;船舶租赁…",
+  "profile": "招商局能源运输股份有限公司(简称“招商轮船”)于2006年12月在上海证券交易所上市,甫上市即跻身主要成份股指数,是中国资本市场的蓝筹股之一。公司主营业务涵盖油品运输、气体运输、干散货运输、滚装运输和集装箱运输,致力于构建“油气散车集新管网”全业态航运业务新格局。公司目前运营管理船舶逾360艘,总运力超5000万载重吨,运力规模位居全球前列,其中VLCC和VLOC船队规模全球领先,LNG船队全球迅速建立重要影响力,滚装运输船队国内领先,年汽车运输能力超百万辆,集装箱运输船队服务网络覆盖中国沿海及亚太地区主要港口。招商轮船以绿色低碳、数智化创新、卓越的船员管理和全球化服务网络为特色,为客户提供安全、高效、环保的航运服务,持续推动行业高质量发展。招商轮船积极布局智能化和绿色低碳技术,推进船岸一体化的数智化研发,挖掘船舶运行大数据价值,开发船舶营运可视化平台,助力船队实现更安全、高效、环保的运营管理。2018年,全球首艘智能VLOC明远轮(PACIFIC VISION)获得DNVGL和CCS双重智能认证,标志着招商轮船迈入智能航运新时代。2019年,全球首艘智能VLCC凯征轮(NEW JOURNEY)扬帆远航,开启超大型油轮智能航运新篇章。2022年,全球首艘四翼动力风帆VLCC新伊敦轮下水,综合节能7.4%以上,年均碳排放减少2,200吨以上,综合性能指标达到世界一流水平。2025年,全球首艘甲醇双燃料动力滚装船港荣轮和全球首艘甲醇双燃料动力VLCC凯拓轮相继启航,均支持传统燃油与甲醇灵活切换,满足国际海事组织TierⅢ最高排放标准,使用绿色甲醇时可减少70%以上的温室气体排放,再次引领全球绿色低碳航运潮流。2026年,港荣轮在香港完成全国首次绿色甲醇锚地加注,标志着绿色燃料全链条应用取得新突破。2023年,招商轮船推出“船奇碳智”平台,是国内外首个综合性数智化碳排放管理平台,实现船舶碳资产数据的采集、监察、智能应用和可视化呈现,助力绿色航运产业链创新。2024年,“丝路云链”电子提单平台(BRITC eBL Platform)获国际保赔协会集团(IGP&I)认证,电子海运提单纳入承保范围,平台进入商业化应用新阶段。招商轮船以建设具有核心竞争力的世界一流航运企业为目标,通过严格的安全管理、特色的船队建设、资本市场的高效运作以及智能航运的创新实践,持续为客户提供卓越的航运服务。招商轮船将秉承“为每一次信赖远航”的承诺,以招商智慧塑造航运信赖,为全球航运事业贡献力量。",
+  "st_status": null,
+  "audit_opinion": null
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 24412230326.0,
+    "revenue_yoy": 12.97,
+    "net_profit": 3609069039.0,
+    "net_profit_yoy": 19.52,
+    "net_profit_deducted": 1871301294.0,
+    "gross_margin": 18.75,
+    "net_margin": 14.99,
+    "eps": 0.48,
+    "bvps": 3.26,
+    "roe": 12.54,
+    "roa": 5.98,
+    "debt_ratio": 55.3,
+    "total_liab": 33252182864.0,
+    "total_assets": 60130529591,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 29708405329.0,
+    "revenue_yoy": 21.69,
+    "net_profit": 5087408654.0,
+    "net_profit_yoy": 40.96,
+    "net_profit_deducted": 4809243664.0,
+    "gross_margin": 21.92,
+    "net_margin": 17.06,
+    "eps": 0.61,
+    "bvps": 4.07,
+    "roe": 17.11,
+    "roa": 8.07,
+    "debt_ratio": 48.83,
+    "total_liab": 31969998274.0,
+    "total_assets": 65472042339,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 25881013078.0,
+    "revenue_yoy": -12.88,
+    "net_profit": 4836966618.0,
+    "net_profit_yoy": -4.92,
+    "net_profit_deducted": 4640441615.0,
+    "gross_margin": 25.9,
+    "net_margin": 19.02,
+    "eps": 0.6,
+    "bvps": 4.53,
+    "roe": 13.25,
+    "roa": 7.7,
+    "debt_ratio": 40.16,
+    "total_liab": 25055580328.0,
+    "total_assets": 62389393247,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 25799279395.0,
+    "revenue_yoy": -0.32,
+    "net_profit": 5107447941.0,
+    "net_profit_yoy": 5.59,
+    "net_profit_deducted": 5015004675.0,
+    "gross_margin": 28.42,
+    "net_margin": 20.19,
+    "eps": 0.63,
+    "bvps": 4.92,
+    "roe": 13.21,
+    "roa": 7.83,
+    "debt_ratio": 42.16,
+    "total_liab": 29770122377.0,
+    "total_assets": 70612244727,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 28177211132.0,
+    "revenue_yoy": 9.22,
+    "net_profit": 6012096268.0,
+    "net_profit_yoy": 17.71,
+    "net_profit_deducted": 5024011137.0,
+    "gross_margin": 26.47,
+    "net_margin": 21.54,
+    "eps": 0.74,
+    "bvps": 5.33,
+    "roe": 14.55,
+    "roa": 7.95,
+    "debt_ratio": 46.68,
+    "total_liab": 38300086643.0,
+    "total_assets": 82048171900,
+    "ocf_to_np": null
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 19651214045.0,
+   "revenue_yoy": 56.15,
+   "net_profit": 6959500459.0,
+   "net_profit_yoy": 227.57,
+   "net_profit_deducted": 6907325736.0,
+   "gross_margin": 44.98,
+   "net_margin": 35.71,
+   "eps": 0.86,
+   "roe": 15.61,
+   "debt_ratio": 47.53
+  },
+  "derived": {
+   "revenue_cagr_3y": -1.75,
+   "net_profit_cagr_3y": 5.72,
+   "receivables_to_revenue": null,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "招商局集团有限公司",
+  "controlling_shareholder": null,
+  "controlling_ratio": null,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "招商局轮船有限公司",
+    "hold_num": 4399208563.0,
+    "hold_ratio": 54.48,
+    "hold_num_change": null
+   },
+   {
+    "rank": 2,
+    "name": "中国石油化工集团有限公司",
+    "hold_num": 1014719400.0,
+    "hold_ratio": 12.57,
+    "hold_num_change": null
+   },
+   {
+    "rank": 3,
+    "name": "香港中央结算有限公司",
+    "hold_num": 159778651.0,
+    "hold_ratio": 1.98,
+    "hold_num_change": -28984514.0
+   },
+   {
+    "rank": 4,
+    "name": "北京银行股份有限公司-鹏华双债加利债券型证券投资基金",
+    "hold_num": 40096934.0,
+    "hold_ratio": 0.5,
+    "hold_num_change": 12689888.0
+   },
+   {
+    "rank": 5,
+    "name": "全国社保基金四一四组合",
+    "hold_num": 38821292.0,
+    "hold_ratio": 0.48,
+    "hold_num_change": 5438500.0
+   },
+   {
+    "rank": 6,
+    "name": "中国石化集团资产经营管理有限公司",
+    "hold_num": 38757523.0,
+    "hold_ratio": 0.48,
+    "hold_num_change": null
+   },
+   {
+    "rank": 7,
+    "name": "全国社保基金四零一组合",
+    "hold_num": 25699345.0,
+    "hold_ratio": 0.32,
+    "hold_num_change": null
+   },
+   {
+    "rank": 8,
+    "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+    "hold_num": 24595791.0,
+    "hold_ratio": 0.3,
+    "hold_num_change": 1203600.0
+   },
+   {
+    "rank": 9,
+    "name": "阿布达比投资局-自有资金",
+    "hold_num": 20924100.0,
+    "hold_ratio": 0.26,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "博时基金管理有限公司-社保基金16012组合",
+    "hold_num": 19434600.0,
+    "hold_ratio": 0.24,
+    "hold_num_change": null
+   }
+  ],
+  "top10_date": "2026-06-30",
+  "holder_num": 117663.0,
+  "holder_num_change_pct": -2.82,
+  "holder_num_date": "2026-10-10",
+  "inst_hold_ratio": null,
+  "northbound_ratio": 1.98,
+  "executives": [
+   {
+    "name": "冯波鸣",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "王永新",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "孔康",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": null,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.11,
+    "total_amount": 891862598.11,
+    "payout_ratio": 24.71,
+    "dividend_yield": null,
+    "ex_date": "2022-07-07"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.19,
+    "total_amount": 1543987503.23,
+    "payout_ratio": 30.35,
+    "dividend_yield": null,
+    "ex_date": "2023-06-20"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.238,
+    "total_amount": 1938225912.01,
+    "payout_ratio": 40.07,
+    "dividend_yield": null,
+    "ex_date": "2024-07-23"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.256,
+    "total_amount": 2074008641.61,
+    "payout_ratio": 40.61,
+    "dividend_yield": null,
+    "ex_date": "2025-06-19"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.32,
+    "total_amount": 2583852320.64,
+    "payout_ratio": 42.98,
+    "dividend_yield": null,
+    "ex_date": "2026-07-10"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 9031936975.6,
+  "cum_netprofit_5y": 24652988520.0,
+  "payout_5y": 36.64,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [],
+  "segments": []
+ },
+ "announcements": {
+  "items": [],
+  "count_12m": null
+ },
+ "qa": {
+  "items": []
+ },
+ "_meta": {
+  "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
+  "fetched_at": "2026-10-27T16:29:36+08:00",
+  "errors": {}
+ }
+}

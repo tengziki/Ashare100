@@ -1,0 +1,584 @@
+{
+ "identity": {
+  "code": "601319",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "中国人民保险集团股份有限公司",
+  "name_abbr": "中国人保",
+  "aliases": [
+   "zgrb"
+  ],
+  "name_en": "The People's Insurance Company (Group) of China Limited",
+  "pinyin_abbr": "ZGRB",
+  "former_names": [],
+  "industry_sw1": "非银金融",
+  "industry_sw2": "保险Ⅱ",
+  "list_date": "2018-11-16",
+  "province": "北京",
+  "city": "北京",
+  "website": "www.picc.com.cn",
+  "chairman": "谭炯",
+  "employees": 179898,
+  "business_summary": "财产险板块业务,人身险板块业务,投资板块业务,科技板块业务等",
+  "profile": "中国人民保险集团股份有限公司(简称“中国人保”)由成立于1949年10月20日的中国人民保险公司发展变革而来,是新中国保险事业的开拓者和奠基人,见证了新中国保险业从小到大、由弱变强的发展历程。中国人保始终坚持“人民保险服务人民”的企业使命,心系“国之大者”,充分发挥金融央企的行业带头作用,服务实体经济、社会稳定、民生福祉,助力繁荣和发展我国保险事业,实现国有资产保值增值,促进国民经济发展和社会进步。历经70多年发展,中国人保现已成为综合性保险金融集团,连续15年入选《财富》世界500强,旗下拥有人保财险、人保寿险、人保资产、人保健康、中诚信托、人保养老、人保投控、人保资本、人保再保、人保科技、人保香港等子公司及成员公司,业务范围覆盖财产险、人身险、再保险、资产管理、保险科技等领域。2012年12月7日,中国人保在香港联合交易所完成H股上市;2018年11月16日,中国人保在上海证券交易所登陆A股市场。继成功保障北京2008年奥运会之后,2019年12月,中国人保正式成为北京2022年冬奥会和冬残奥会官方合作伙伴,是国内唯一一家“双奥保险”企业。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 7.17,
+  "change_pct": -2.58,
+  "total_mv": 317086012480.11,
+  "float_mv": 254518914700.11,
+  "total_shares": 44223990583,
+  "float_shares": 35497756583,
+  "pe_ttm": 5.58,
+  "pe_static": 6.8,
+  "pb": 0.93,
+  "ps_ttm": 0.45,
+  "turnover_rate": 0.18,
+  "amount": 470277238.0,
+  "high_52w": 10.04,
+  "low_52w": 6.33,
+  "ytd_return": -18.57,
+  "return_1y": -15.15,
+  "return_3y": 43.29,
+  "dividend_yield": 3.07,
+  "index_members": [
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 597691000000.0,
+    "revenue_yoy": 2.4,
+    "net_profit": 21638000000.0,
+    "net_profit_yoy": 7.82,
+    "net_profit_deducted": 21475000000.0,
+    "gross_margin": null,
+    "net_margin": 5.12,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 0.49,
+    "bvps": 4.96,
+    "roe": 10.3,
+    "roa": 2.33,
+    "total_assets": 1376402000000.0,
+    "total_liab": 1079697000000.0,
+    "debt_ratio": 78.44,
+    "cash": 22398000000.0,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 198000000.0,
+    "interest_debt": null,
+    "equity_parent": 219132000000.0,
+    "ocf": 72731000000.0,
+    "capex": 3655000000.0,
+    "fcf": 69076000000.0,
+    "ocf_to_np": 3.36
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 529633000000.0,
+    "revenue_yoy": -11.39,
+    "net_profit": 25369000000.0,
+    "net_profit_yoy": 17.24,
+    "net_profit_deducted": 25102000000.0,
+    "gross_margin": null,
+    "net_margin": 6.69,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 0.57,
+    "bvps": 5.01,
+    "roe": 11.6,
+    "roa": 2.54,
+    "total_assets": 1416975000000.0,
+    "total_liab": 1113971000000.0,
+    "debt_ratio": 78.62,
+    "cash": 22227000000.0,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 198000000.0,
+    "interest_debt": null,
+    "equity_parent": 222851000000.0,
+    "ocf": 71121000000.0,
+    "capex": 6576000000.0,
+    "fcf": 64545000000.0,
+    "ocf_to_np": 2.8
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 553097000000.0,
+    "revenue_yoy": 4.43,
+    "net_profit": 22773000000.0,
+    "net_profit_yoy": -10.23,
+    "net_profit_deducted": 22752000000.0,
+    "gross_margin": null,
+    "net_margin": 5.69,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 0.51,
+    "bvps": 5.5,
+    "roe": 9.6,
+    "roa": 2.12,
+    "total_assets": 1557159000000.0,
+    "total_liab": 1225490000000.0,
+    "debt_ratio": 78.7,
+    "cash": 21870000000.0,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 198000000.0,
+    "interest_debt": null,
+    "equity_parent": 242355000000.0,
+    "ocf": 70549000000.0,
+    "capex": 3573000000.0,
+    "fcf": 66976000000.0,
+    "ocf_to_np": 3.1
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 621972000000.0,
+    "revenue_yoy": 12.45,
+    "net_profit": 42869000000.0,
+    "net_profit_yoy": 88.24,
+    "net_profit_deducted": 42928000000.0,
+    "gross_margin": null,
+    "net_margin": 9.3,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 0.97,
+    "bvps": 6.1,
+    "roe": 16.7,
+    "roa": 3.48,
+    "total_assets": 1766384000000.0,
+    "total_liab": 1399158000000.0,
+    "debt_ratio": 79.21,
+    "cash": 26222000000.0,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": 268733000000.0,
+    "ocf": 87990000000.0,
+    "capex": 4397000000.0,
+    "fcf": 83593000000.0,
+    "ocf_to_np": 2.05
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 669044000000.0,
+    "revenue_yoy": 7.57,
+    "net_profit": 46646000000.0,
+    "net_profit_yoy": 8.81,
+    "net_profit_deducted": 47221000000.0,
+    "gross_margin": null,
+    "net_margin": 9.42,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.05,
+    "bvps": 7.0,
+    "roe": 16.1,
+    "roa": 3.32,
+    "total_assets": 2027683000000.0,
+    "total_liab": 1607494000000.0,
+    "debt_ratio": 79.28,
+    "cash": 25984000000.0,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": 308991000000.0,
+    "ocf": 118689000000.0,
+    "capex": 4784000000.0,
+    "fcf": 113905000000.0,
+    "ocf_to_np": 2.54
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 355115000000.0,
+   "revenue_yoy": 9.6,
+   "net_profit": 36745000000.0,
+   "net_profit_yoy": 38.5,
+   "net_profit_deducted": 37190000000.0,
+   "gross_margin": null,
+   "net_margin": 14.03,
+   "roe": 11.2,
+   "eps": 0.83,
+   "debt_ratio": 78.29,
+   "ocf": 63936000000.0
+  },
+  "derived": {
+   "revenue_cagr_3y": 8.1,
+   "net_profit_cagr_3y": 22.51,
+   "receivables_to_revenue": null,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "中华人民共和国财政部",
+  "controlling_shareholder": "中华人民共和国财政部",
+  "controlling_ratio": 60.84,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "中华人民共和国财政部",
+    "hold_num": 26906570608,
+    "hold_ratio": 60.84,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "香港中央结算(代理人)有限公司",
+    "hold_num": 8707410103,
+    "hold_ratio": 19.69,
+    "hold_num_change": 376000
+   },
+   {
+    "rank": 3,
+    "name": "全国社会保障基金理事会",
+    "hold_num": 5605582779,
+    "hold_ratio": 12.68,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "香港中央结算有限公司",
+    "hold_num": 225642767,
+    "hold_ratio": 0.51,
+    "hold_num_change": 41177663
+   },
+   {
+    "rank": 5,
+    "name": "新华人寿保险股份有限公司-分红-个人分红-018L-FH002沪",
+    "hold_num": 91452841,
+    "hold_ratio": 0.21,
+    "hold_num_change": 787945
+   },
+   {
+    "rank": 6,
+    "name": "新华人寿保险股份有限公司-传统-普通保险产品-018L-CT001沪",
+    "hold_num": 63687689,
+    "hold_ratio": 0.14,
+    "hold_num_change": -23658700
+   },
+   {
+    "rank": 7,
+    "name": "孔凤全",
+    "hold_num": 53856885,
+    "hold_ratio": 0.12,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "基本养老保险基金一九零八组合",
+    "hold_num": 44472200,
+    "hold_ratio": 0.1,
+    "hold_num_change": 16171900
+   },
+   {
+    "rank": 9,
+    "name": "王林明",
+    "hold_num": 30869225,
+    "hold_ratio": 0.07,
+    "hold_num_change": 6000
+   },
+   {
+    "rank": 10,
+    "name": "全国社保基金一零一组合",
+    "hold_num": 30131274,
+    "hold_ratio": 0.07,
+    "hold_num_change": -17884000
+   }
+  ],
+  "holder_num": 161746,
+  "holder_num_change_pct": 5.99,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 1.97,
+  "northbound_ratio": 0.51,
+  "executives": [
+   {
+    "name": "谭炯",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "赵鹏",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "曾上游",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.0,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.164,
+    "total_amount": 7252734455.61,
+    "payout_ratio": 33.52,
+    "dividend_yield": 2.76,
+    "ex_date": "2021-12-09"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.166,
+    "total_amount": 7341182436.78,
+    "payout_ratio": 28.94,
+    "dividend_yield": 2.62,
+    "ex_date": "2023-07-28"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.156,
+    "total_amount": 6898942530.95,
+    "payout_ratio": 30.29,
+    "dividend_yield": 2.78,
+    "ex_date": "2024-08-09"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.18,
+    "total_amount": 7960318304.94,
+    "payout_ratio": 18.57,
+    "dividend_yield": 1.23,
+    "ex_date": "2025-01-10"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.22,
+    "total_amount": 9729277928.26,
+    "payout_ratio": 20.86,
+    "dividend_yield": 1.56,
+    "ex_date": "2025-12-12"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 39182455656.54,
+  "cum_netprofit_5y": 159295000000.0,
+  "payout_5y": 24.6,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "601628.SH",
+   "601318.SH",
+   "601601.SH",
+   "601336.SH"
+  ],
+  "segments": [
+   {
+    "name": "财产保险",
+    "revenue": 558112000000.0,
+    "ratio": 83.42,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "人寿保险",
+    "revenue": 67456000000.0,
+    "ratio": 10.08,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "健康保险",
+    "revenue": 37882000000.0,
+    "ratio": 5.66,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "总部及其他",
+    "revenue": 26277000000.0,
+    "ratio": 3.93,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "抵销金额",
+    "revenue": -23755000000.0,
+    "ratio": -3.55,
+    "type": "product",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "H股公告",
+    "date": "2026-10-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612003.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市金杜律师事务所补充法律意见书",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225605577.PDF",
+    "type": null
+   },
+   {
+    "title": "中国人保关于回复发行股票申请文件审核问询函的提示性公告",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225605576.PDF",
+    "type": null
+   },
+   {
+    "title": "安永华明会计师事务所（特殊普通合伙）专项说明",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225605575.PDF",
+    "type": null
+   },
+   {
+    "title": "关于中国人民保险集团股份有限公司向特定对象发行股票申请文件的审核问询函的回复报告",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225605574.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告",
+    "date": "2026-10-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225603527.PDF",
+    "type": null
+   },
+   {
+    "title": "中国人保关于董事长任职的公告",
+    "date": "2026-10-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225603437.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市金杜律师事务所关于中国人民保险集团股份有限公司向特定对象发行A股股票之法律意见书",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597699.PDF",
+    "type": null
+   },
+   {
+    "title": "安永华明会计师事务所（特殊普通合伙）关于中国人民保险集团股份有限公司向特定对象发行A股股票的财务报告及审计报告",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597694.PDF",
+    "type": null
+   },
+   {
+    "title": "中国人保关于向特定对象发行A股股票申请获得上海证券交易所受理的公告",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597689.PDF",
+    "type": null
+   },
+   {
+    "title": "中信证券股份有限公司关于中国人民保险集团股份有限公司向特定对象发行A股股票之上市保荐书",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597687.PDF",
+    "type": null
+   },
+   {
+    "title": "中国人保向特定对象发行A股股票募集说明书（申报稿）",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597680.PDF",
+    "type": null
+   },
+   {
+    "title": "中信证券股份有限公司关于中国人民保险集团股份有限公司向特定对象发行A股股票之发行保荐书",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597660.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告",
+    "date": "2026-10-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225590609.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225588722.PDF",
+    "type": null
+   },
+   {
+    "title": "中国人保2026年第二次临时股东会决议公告",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225588368.PDF",
+    "type": null
+   },
+   {
+    "title": "中国人保2026年第二次临时股东会法律意见书",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225588362.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告",
+    "date": "2026-09-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-11/1225557958.PDF",
+    "type": null
+   },
+   {
+    "title": "中国人保关于召开2026年第二次临时股东会的通知",
+    "date": "2026-09-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-11/1225557357.PDF",
+    "type": null
+   },
+   {
+    "title": "中国人保2026年第二次临时股东会会议资料",
+    "date": "2026-09-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-11/1225557349.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 117
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "董秘您好，公司目前对于AI大模型应用是否有大幅提升经营效率？对于智能体部署运营、AI营销以及Token成本管理，是否考虑与亚信科技这类在金融行业AI数智运营经验丰富的企业合作，以进一步提质增效？",
+    "answer": "尊敬的投资者，您好，感谢您对公司的关注！ 人保集团积极把握AI浪潮带来技术机遇，着力探索保险领域AI大模型应用建设。财产险领域在营销、理赔、研发等核心环节推进大模型应用，打造了智能陪练、智能医审和AI代码助手等智能应用，实现业务提质与运营提效。寿险领域着力提升核保理赔和办公环节的智能化水平，通过大模型实现医疗影像解读，研发自动化报销审核，极大提升运营和办公效率。健康险领域大模型应用已经基本覆盖客服、理赔、营销等环节，开发了智能核保模型、多维联防风控体系、智能理算引擎，在提升运营专业能力方面起到了重要的作用。 人保集团将结合业务实际需求、技术适配能力、安全合规标准及监管要求审慎评估，在严守安全合规底线的前提下积极开展产业协同与技术合作，稳步推进金融保险领域AI新技术试点与规模化创新应用。",
+    "ask_date": "2026-09-22",
+    "answer_date": "2026-10-19",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=129048"
+   },
+   {
+    "question": "尊敬的董秘，您好。近期极端天气及自然灾害发生频率有所上升，市场普遍关注财险公司的赔付压力。想请问公司：一是当前巨灾风险敞口及再保险覆盖情况如何，是否足以应对极端气候带来的集中赔付？二是此类事件对公司综合成本率及承保利润的影响趋势如何评估？三是公司是否会类比海外保险行业，出台巨灾债券等保险连接证券的发行或投资，以进一步优化风险分散机制？感谢回复。",
+    "answer": "尊敬的投资者，您好，感谢您对公司的关注！ 2026年上半年，公司大灾净损失12.9亿元，考虑到今年强厄尔尼诺气象预期，预计2026年大灾损失大于2025年。 面对气候变化，公司持续完善应对气候变化的适应性调整机制，不断提升气候应对韧性，全力推动全年利润目标达成： 一是年初做好针对性预算安排。公司在年度预算中考虑了大灾成本影响，截至目前大灾影响在预期范围内。 二是定价环节充分考虑大灾成本。针对车险、企财险等大灾损失较多险种，结合对大灾趋势研判，将大灾成本内嵌定价模型，提升大灾保障费率充足度。 三是建立厄尔尼诺周期下的承保政策优化方案。根据历史承保理赔数据和巨灾模型，建立厄尔尼诺新周期下“产业+地区+险种+灾因”的风险地图，匹配差异化承保方案，做好限额、免赔等管理和高风险业务改造。 四是强化风险减量和大灾理赔管理。完善大灾响应机制，加强承保前风勘和保中巡检及结果应用，运用巨灾模型精准临灾巡检和风险管控，强化承保理赔“灾前-灾中-灾后”联动，做到大灾理赔第一时间响应。 五是做好累积风险管理和再保安排。加强大灾风险敞口监测，优化大灾再保保障；完善大灾成本内部分担机制，实施内平衡方案，提升各级机构管理大灾成本的主动性。 公司将密切关注保险风险证券化市场动态，积极探索保险风险证券化分散机制，不断完善“再保险+风险证券化”双支柱风险分散体系，全力支持国家巨灾保险保障体系建设。",
+    "ask_date": "2026-09-01",
+    "answer_date": "2026-10-19",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=129048"
+   }
+  ],
+  "count_12m": null
+ }
+}

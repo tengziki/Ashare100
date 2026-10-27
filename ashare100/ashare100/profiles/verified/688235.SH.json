@@ -1,0 +1,619 @@
+{
+ "identity": {
+  "code": "688235",
+  "exchange": "SH",
+  "board": "科创板",
+  "name_full": "百济神州有限公司",
+  "name_abbr": "百济神州",
+  "aliases": [
+   "bjsz"
+  ],
+  "name_en": "BeOne Medicines Ltd.",
+  "pinyin_abbr": "BJSZ",
+  "former_names": [],
+  "industry_sw1": "医药生物",
+  "industry_sw2": "化学制药",
+  "list_date": "2021-12-15",
+  "province": "境外",
+  "city": "巴塞尔",
+  "website": "www.beonemedicines.com",
+  "chairman": "欧雷强",
+  "employees": 11825,
+  "business_summary": "我们是一家覆盖早期药物发现、临床前研究、全球临床试验",
+  "profile": "百济神州有限公司是一家商业化阶段的生物技术公司,专注于开发及商业化用于治疗癌症的创新型分子靶向及肿瘤免疫治疗药物。百济神州拥有广泛全面的产品组合。其产品包括六种内部开发、临床阶段的候选药物,其中包括三种后期临床候选药物,zanubrutinib(BTK抑制剂),tislelizumab(PD-1抗体)与pamiparib(PARP抑制剂)。百济神州亦获得五种药物及在研药物的授权许可,包括三种已于中国销售的由新基独家授权的药物ABRAXANE、REVLIMID 及VIDAZA,及两种临床阶段的在研药物,该种药物已获得于中国及亚太地区的其他指定国家开发及商业化的权利。百济神州于2010年于北京成立并在2016年2月在美国纳斯达克全球精选市场上市。截至2018年7月,公司拥有一支超过1300名员工的全球团队,成为一家拥有涵盖研究、临床开发、生产及商业化的全面实力的全球生物技术公司。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 264.7,
+  "change_pct": -3.61,
+  "total_mv": 408242887410.7,
+  "float_mv": 30455127322.0,
+  "total_shares": 1542285181,
+  "float_shares": 115055260,
+  "pe_ttm": 95.35,
+  "pe_static": 279.48,
+  "pb": 11.52,
+  "ps_ttm": 9.51,
+  "turnover_rate": 2.71,
+  "amount": 841835252.0,
+  "high_52w": 319.24,
+  "low_52w": 205.51,
+  "ytd_return": -1.45,
+  "return_1y": -6.12,
+  "return_3y": 105.05,
+  "dividend_yield": 0.0,
+  "index_members": [
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 7588957000.0,
+    "revenue_yoy": 257.94,
+    "net_profit": -9747673000.0,
+    "net_profit_yoy": 14.37,
+    "net_profit_deducted": -9968458000.0,
+    "gross_margin": 86.02,
+    "net_margin": -128.45,
+    "selling_expense_ratio": 58.66,
+    "admin_expense_ratio": 27.42,
+    "finance_expense_ratio": 2.69,
+    "rd_expense": 9538418000.0,
+    "rd_ratio": 125.69,
+    "eps": -8.08,
+    "bvps": 29.99,
+    "roe": -44.83,
+    "roa": -21.25,
+    "total_assets": 55184711000.0,
+    "total_liab": 15258939000.0,
+    "debt_ratio": 27.65,
+    "cash": 25189667000.0,
+    "receivables": 3079850000.0,
+    "inventory": 1546532000.0,
+    "goodwill": 709000.0,
+    "interest_debt": 5214979000.0,
+    "equity_parent": 39925772000.0,
+    "ocf": -8284748000.0,
+    "capex": 2256315000.0,
+    "fcf": -10541063000.0,
+    "ocf_to_np": 0.85
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 9566409000.0,
+    "revenue_yoy": 26.06,
+    "net_profit": -13642041000.0,
+    "net_profit_yoy": -39.95,
+    "net_profit_deducted": -13824367000.0,
+    "gross_margin": 80.18,
+    "net_margin": -142.6,
+    "selling_expense_ratio": 62.69,
+    "admin_expense_ratio": 28.18,
+    "finance_expense_ratio": 13.68,
+    "rd_expense": 11152086000.0,
+    "rd_ratio": 116.58,
+    "eps": -10.18,
+    "bvps": 22.44,
+    "roe": -38.83,
+    "roa": -27.45,
+    "total_assets": 44224173000.0,
+    "total_liab": 13893114000.0,
+    "debt_ratio": 31.42,
+    "cash": 20132630000.0,
+    "receivables": 1201946000.0,
+    "inventory": 1954202000.0,
+    "goodwill": 709000.0,
+    "interest_debt": 4945914000.0,
+    "equity_parent": 30331059000.0,
+    "ocf": -7799707000.0,
+    "capex": 2334652000.0,
+    "fcf": -10134359000.0,
+    "ocf_to_np": 0.57
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 17423344000.0,
+    "revenue_yoy": 82.13,
+    "net_profit": -6715859000.0,
+    "net_profit_yoy": 50.77,
+    "net_profit_deducted": -9681878000.0,
+    "gross_margin": 84.57,
+    "net_margin": -38.55,
+    "selling_expense_ratio": 41.92,
+    "admin_expense_ratio": 19.93,
+    "finance_expense_ratio": 1.13,
+    "rd_expense": 12813453000.0,
+    "rd_ratio": 73.54,
+    "eps": -4.95,
+    "bvps": 18.53,
+    "roe": -23.86,
+    "roa": -15.74,
+    "total_assets": 41121675000.0,
+    "total_liab": 16018333000.0,
+    "debt_ratio": 38.95,
+    "cash": 15124881000.0,
+    "receivables": 2538268000.0,
+    "inventory": 2951159000.0,
+    "goodwill": null,
+    "interest_debt": 7085878000.0,
+    "equity_parent": 25103342000.0,
+    "ocf": -7793254000.0,
+    "capex": 4106020000.0,
+    "fcf": -11899274000.0,
+    "ocf_to_np": 1.16
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 27213955000.0,
+    "revenue_yoy": 56.19,
+    "net_profit": -4978287000.0,
+    "net_profit_yoy": 25.87,
+    "net_profit_deducted": -5379293000.0,
+    "gross_margin": 84.44,
+    "net_margin": -18.29,
+    "selling_expense_ratio": 32.54,
+    "admin_expense_ratio": 15.72,
+    "finance_expense_ratio": 0.53,
+    "rd_expense": 14139839000.0,
+    "rd_ratio": 51.96,
+    "eps": -3.64,
+    "bvps": 17.46,
+    "roe": -20.2,
+    "roa": -11.86,
+    "total_assets": 42834708000.0,
+    "total_liab": 18659486000.0,
+    "debt_ratio": 43.56,
+    "cash": 12279419000.0,
+    "receivables": 4883633000.0,
+    "inventory": 3580352000.0,
+    "goodwill": null,
+    "interest_debt": 8609300000.0,
+    "equity_parent": 24175222000.0,
+    "ocf": -1259052000.0,
+    "capex": 3418496000.0,
+    "fcf": -4677548000.0,
+    "ocf_to_np": 0.25
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 38224999000.0,
+    "revenue_yoy": 40.46,
+    "net_profit": 1460710000.0,
+    "net_profit_yoy": 129.34,
+    "net_profit_deducted": 1419808000.0,
+    "gross_margin": 87.61,
+    "net_margin": 3.82,
+    "selling_expense_ratio": 27.73,
+    "admin_expense_ratio": 11.38,
+    "finance_expense_ratio": 0.72,
+    "rd_expense": 15507524000.0,
+    "rd_ratio": 40.57,
+    "eps": 1.03,
+    "bvps": 19.89,
+    "roe": 5.33,
+    "roa": 2.92,
+    "total_assets": 57305412000.0,
+    "total_liab": 26665973000.0,
+    "debt_ratio": 46.53,
+    "cash": 15362175000.0,
+    "receivables": 5954523000.0,
+    "inventory": 4268717000.0,
+    "goodwill": null,
+    "interest_debt": 8146304000.0,
+    "equity_parent": 30639439000.0,
+    "ocf": 13713064000.0,
+    "capex": 1436647000.0,
+    "fcf": 12276417000.0,
+    "ocf_to_np": 9.39
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 22219533000.0,
+   "revenue_yoy": 26.84,
+   "net_profit": 3270593000.0,
+   "net_profit_yoy": 627.15,
+   "net_profit_deducted": 2918072000.0,
+   "gross_margin": 89.45,
+   "net_margin": 14.72,
+   "roe": 9.9,
+   "eps": 2.26,
+   "debt_ratio": 43.32,
+   "ocf": 4438577000.0
+  },
+  "derived": {
+   "revenue_cagr_3y": 58.68,
+   "net_profit_cagr_3y": null,
+   "receivables_to_revenue": 15.58,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "无实际控制人",
+  "controlling_shareholder": "Amgen Inc.",
+  "controlling_ratio": 16.76,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "Amgen Inc.",
+    "hold_num": 246269426,
+    "hold_ratio": 16.76,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "Baker Brothers Life Sciences,L.P.及其联属实体",
+    "hold_num": 114801150,
+    "hold_ratio": 7.81,
+    "hold_num_change": -864905
+   },
+   {
+    "rank": 3,
+    "name": "Capital Research and Management Company及其联属实体",
+    "hold_num": 93092453,
+    "hold_ratio": 6.34,
+    "hold_num_change": 15713185
+   },
+   {
+    "rank": 4,
+    "name": "香港中央结算有限公司",
+    "hold_num": 2975639,
+    "hold_ratio": 0.2,
+    "hold_num_change": 5675
+   },
+   {
+    "rank": 5,
+    "name": "广州高新区科技控股集团有限公司",
+    "hold_num": 2966049,
+    "hold_ratio": 0.2,
+    "hold_num_change": 665338
+   },
+   {
+    "rank": 6,
+    "name": "兴业银行股份有限公司-永赢医药创新智选混合型发起式证券投资基金",
+    "hold_num": 2094594,
+    "hold_ratio": 0.14,
+    "hold_num_change": 124165
+   },
+   {
+    "rank": 7,
+    "name": "交通银行股份有限公司-万家行业优选混合型证券投资基金(LOF)",
+    "hold_num": 2000000,
+    "hold_ratio": 0.14,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "上海银行股份有限公司-银华中证创新药产业交易型开放式指数证券投资基金",
+    "hold_num": 1892369,
+    "hold_ratio": 0.13,
+    "hold_num_change": null
+   },
+   {
+    "rank": 9,
+    "name": "中国建设银行股份有限公司-工银瑞信前沿医疗股票型证券投资基金",
+    "hold_num": 1700000,
+    "hold_ratio": 0.12,
+    "hold_num_change": -100000
+   },
+   {
+    "rank": 10,
+    "name": "中国工商银行股份有限公司-中欧医疗健康混合型证券投资基金",
+    "hold_num": 1668612,
+    "hold_ratio": 0.11,
+    "hold_num_change": -144048
+   }
+  ],
+  "holder_num": 39678,
+  "holder_num_change_pct": 12.11,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 35.99,
+  "northbound_ratio": 0.2,
+  "executives": [
+   {
+    "name": "欧雷强",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "吴晓滨,汪来",
+    "title": "总经理",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.0,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": 0.0,
+    "dividend_yield": 0.0,
+    "ex_date": null
+   }
+  ],
+  "consecutive_years": 0,
+  "cum_dividend_5y": 0.0,
+  "cum_netprofit_5y": -33623150000.0,
+  "payout_5y": null,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "600276.SH",
+   "688506.SH",
+   "002653.SZ",
+   "002422.SZ"
+  ],
+  "segments": [
+   {
+    "name": "抗肿瘤类药物",
+    "revenue": 37769870000.0,
+    "ratio": 98.81,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "药物合作安排收入",
+    "revenue": 455129000.0,
+    "ratio": 1.19,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "境外",
+    "revenue": 26184810000.0,
+    "ratio": 68.5,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "境内",
+    "revenue": 12040189000.0,
+    "ratio": 31.5,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "港股公告：证券变动月报表",
+    "date": "2026-10-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225595427.PDF",
+    "type": null
+   },
+   {
+    "title": "港股公告：授出受限制股份单位",
+    "date": "2026-10-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225595426.PDF",
+    "type": null
+   },
+   {
+    "title": "港股公告：员工购股计划项下的股份购买",
+    "date": "2026-09-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-15/1225563446.PDF",
+    "type": null
+   },
+   {
+    "title": "港股公告：2026中期报告",
+    "date": "2026-09-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-11/1225557738.PDF",
+    "type": null
+   },
+   {
+    "title": "港股公告：员工购股计划",
+    "date": "2026-09-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-10/1225555852.PDF",
+    "type": null
+   },
+   {
+    "title": "港股公告：证券变动月报表",
+    "date": "2026-09-05",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-05/1225549156.PDF",
+    "type": null
+   },
+   {
+    "title": "港股公告：授出受限制股份单位",
+    "date": "2026-09-05",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-05/1225549154.PDF",
+    "type": null
+   },
+   {
+    "title": "百济神州有限公司2026年半年度报告",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225512422.PDF",
+    "type": null
+   },
+   {
+    "title": "百济神州有限公司2026年度“提质增效重回报”行动方案",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225512421.PDF",
+    "type": null
+   },
+   {
+    "title": "港股公告：百济神州有限公司截至2026年6月30日止六个月中期业绩公告",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225512414.PDF",
+    "type": null
+   },
+   {
+    "title": "百济神州有限公司2026年半年度报告摘要",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225512411.PDF",
+    "type": null
+   },
+   {
+    "title": "百济神州有限公司2026年半年度募集资金存放与实际使用情况的专项报告",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225512397.PDF",
+    "type": null
+   },
+   {
+    "title": "百济神州有限公司关于召开2026年半年度业绩说明会的公告",
+    "date": "2026-08-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-21/1225485139.PDF",
+    "type": null
+   },
+   {
+    "title": "港股公告：审计委员会行动通告",
+    "date": "2026-08-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225474453.PDF",
+    "type": null
+   },
+   {
+    "title": "港股公告：授出受限制股份单位",
+    "date": "2026-08-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-14/1225471901.PDF",
+    "type": null
+   },
+   {
+    "title": "港股公告：证券变动月报表",
+    "date": "2026-08-07",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-07/1225461912.PDF",
+    "type": null
+   },
+   {
+    "title": "港股公告：百济神州有限公司截至2026年6月30日止三个月及六个月未经审核业绩以及业务进展最新情况",
+    "date": "2026-08-06",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-06/1225460337.PDF",
+    "type": null
+   },
+   {
+    "title": "港股公告：翌日披露报表",
+    "date": "2026-08-06",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-06/1225460335.PDF",
+    "type": null
+   },
+   {
+    "title": "美股公告：季度报告10-Q表格",
+    "date": "2026-08-06",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-06/1225460334.PDF",
+    "type": null
+   },
+   {
+    "title": "百济神州有限公司2026年半年度主要财务数据公告",
+    "date": "2026-08-06",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-06/1225460301.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 118
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "董秘，您好！请问截止6月18日，公司A股的股东人数是多少，谢谢！",
+    "answer": "尊敬的投资者，您好！公司在已披露的2026年第一季度报告中公布，截至2026年3月31日，公司普通股的登记股东有35,385户（其中包括人民币股份登记股东35,235户，37户登记在港股股东名册及113户登记在瑞士股东名册的股东）和8户美国存托股份的记录持有人，合计35,393户。该数字不包括境外发行的普通股或美国存托股份由代理持有人以经纪人名义持有的受益所有人。由于许多普通股和美国存托股份由经纪人代理持有，公司无法确认这些记录持有人所代表的受益持有人的总数。公司会在定期报告中面向所有投资者统一披露截至相应报告期末的股东户数，敬请关注公司定期报告。感谢您的关注！",
+    "ask_date": "2026-06-22",
+    "answer_date": "2026-07-07",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=235008"
+   },
+   {
+    "question": "安泰适在中国是否已获得上市许可？该产品解决了什么问题？对公司有何积极影响？",
+    "answer": "尊敬的投资者，您好！安泰适®（IMDELLTRA®，注射用塔拉妥单抗，tarlatamab）是一款靶向 DLL3 和 CD3 的双特异性T 细胞衔接器抗体。该产品于2026年4月在中国获附条件批准用于治疗既往接受过至少 2 种系统性（包括含铂化疗）失败的广泛期小细胞肺癌（ES-SCLC）成人患者。感谢您的关注！",
+    "ask_date": "2026-04-21",
+    "answer_date": "2026-05-11",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=235008"
+   },
+   {
+    "question": "百悦达是否已经在中国商业化上市？该产品优势是什么？对公司有何积极影响？",
+    "answer": "尊敬的投资者，您好！百悦达®（索托克拉）在中国获批用于治疗既往接受过至少包含 BTK 抑制剂在内的一种系统治疗的 R/R MCL 和 CLL/SLL 成人患者。此次获批基于同步递交的两项试验数据，索托克拉在这两项试验中展现出深度且持久的缓解以及可控的耐受性。在 R/R MCL 患者接受 320 mg 索托克拉治疗的 1/2 期单臂试验（n = 103）中，独立审查委员会（IRC）评估的总缓解率（ORR）为 52.4%（95% CI，42.4 ~ 62.4）。在 R/R CLL/SLL 患者接受索托克拉治疗的 2 期开放性试验（n = 100）中，IRC 评估的 ORR 为 77%。目前百悦达®已实现在中国商业化上市。感谢您的关注！",
+    "ask_date": "2026-04-21",
+    "answer_date": "2026-05-11",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=235008"
+   },
+   {
+    "question": "百济神州自研管线药物BGB-B2033，是否可以用于治疗肝细胞癌？是否已经获美国FDA快速通道认定？对公司有何积极意义？",
+    "answer": "尊敬的投资者，您好！BGB-B2033 是一款在研抗 GPC3×4-1BB 双特异性抗体，正作为单药治疗或联合替雷利珠单抗和贝伐珠单抗针对选定晚期或转移性实体瘤患者在一项 1 期临床试验（NCT06427941）中进行评估。2025年 12 月，FDA 授予 BGB-B2033 快速通道认定，用于治疗既往全身治疗期间或之后出现疾病进展的HCC 成人患者。感谢您的关注！",
+    "ask_date": "2026-04-21",
+    "answer_date": "2026-05-11",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=235008"
+   },
+   {
+    "question": "公司在肺癌领域有何布局和积极成果？",
+    "answer": "尊敬的投资者，您好！公司拥有深厚、创新的实体肿瘤产品管线。在2025年，我们将5款差异化新分子实体（NME）推进至临床，且每款产品均具有成为同类首创或同类最佳的潜力。我们目标是在乳腺癌/妇科癌症、肺癌和胃肠道癌等最常见癌症领域建立纵深，开发潜在疗法。2025年有5个实体瘤项目实现概念验证，其中包括在肺癌领域的具有协同效应的潜在同类最佳蛋白精氨酸甲基转移酶5（PRMT5）（BGB-58067）。在肺癌领域的其他早期临床分子还包括：BG-T187，一款抗EGFR × MET × MET三特异性抗体；BG-C0902，一款EGFR × MET × MET三特异性ADC；BGB-60366，一款靶向EGFR的CDAC；BG-89894（SYH2039），一款MAT2A 抑制剂。感谢您的关注！",
+    "ask_date": "2026-04-21",
+    "answer_date": "2026-05-11",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=235008"
+   },
+   {
+    "question": "公司2025年首次实现年度盈利，归母净利润14.61亿元，请问这一财务拐点对公司长期战略规划意味着什么？管理层如何看待“盈利元年”后的可持续发展路径？",
+    "answer": "尊敬的投资者，您好！请参见公司2025年A股年报第三节‘管理层分析与讨论’之‘三、报告期内核心竞争力分析’之‘ (一) 核心竞争力分析’部分。感谢您的关注！",
+    "ask_date": "2026-04-21",
+    "answer_date": "2026-05-11",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=235008"
+   },
+   {
+    "question": "公司已构建包含超过80个临床前项目的多元管线，覆盖小分子、单抗、双抗/多抗、蛋白降解、ADC、细胞与基因治疗等多种药物模式，能否介绍一下当前最具代表性的几个技术平台及其差异化优势？",
+    "answer": "尊敬的投资者，您好！基于已掌握的可应用于肿瘤学及其他领域的多种药物技术平台，我们已搭建起一套完整的从抗肿瘤药物早期发现到商业化的全流程技术体系。在小分子、抗体、细胞治疗类药物研发及新药物的生产等方面，我们分别建立了15个核心技术平台。平台技术先进性的具体内容详见公司《2025年年度报告》“第三节 管理层讨论与分析”之“三、报告期内核心竞争力分析” 之“(三) 核心技术与研发进展”部分内容。感谢您的关注！",
+    "ask_date": "2026-04-21",
+    "answer_date": "2026-05-11",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=235008"
+   },
+   {
+    "question": "公司从\"烧钱研发\"转向\"盈利 高增长\"阶段后，未来的发展战略有哪些调整？",
+    "answer": "尊敬的投资者，您好！请参见公司2025年A股年报第三节‘管理层分析与讨论’之‘三、报告期内核心竞争力分析’之‘ (一) 核心竞争力分析’部分。感谢您的关注！",
+    "ask_date": "2026-04-21",
+    "answer_date": "2026-04-29",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=235008"
+   }
+  ],
+  "count_12m": null
+ }
+}

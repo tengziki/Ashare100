@@ -1,0 +1,631 @@
+{
+ "identity": {
+  "code": "000333",
+  "exchange": "SZ",
+  "board": "主板",
+  "name_full": "美的集团股份有限公司",
+  "name_abbr": "美的集团",
+  "aliases": [
+   "mdjt"
+  ],
+  "name_en": "Midea Group Co., Ltd.",
+  "pinyin_abbr": "MDJT",
+  "former_names": [],
+  "industry_sw1": "家用电器",
+  "industry_sw2": "白色家电",
+  "list_date": "2013-09-18",
+  "province": "广东",
+  "city": "佛山",
+  "website": "www.midea.com",
+  "chairman": "方洪波",
+  "employees": 198570,
+  "business_summary": "智能家居、工业技术、楼宇科技、机器人与自动化、新能源、健康医疗、智慧物流等业务",
+  "profile": "美的集团股份有限公司是一家覆盖智能家居、工业技术、智能建筑科技、机器人与自动化、能源、健康医疗、智慧物流等业务的全球化科技集团,过去五年研发资金超600亿元,形成美的、小天鹅,华凌、COLMO,库卡,威灵、合康、科陆、万东和菱王等多个品牌组合,每年为全球超过5亿用户,各领域的重要客户与战略合作伙伴提供满意的产品和服务。 主营业务：智能家居、工业技术、楼宇科技、机器人与自动化、新能源、健康医疗、智慧物流等业务。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 85.29,
+  "change_pct": 1.71,
+  "total_mv": 650787657730.38,
+  "float_mv": 587336717724.15,
+  "total_shares": 7630292622,
+  "float_shares": 6886349135,
+  "pe_ttm": 14.66,
+  "pe_static": 14.81,
+  "pb": 3.07,
+  "ps_ttm": 1.39,
+  "turnover_rate": 0.57,
+  "amount": 3335884106.95,
+  "high_52w": 89.5,
+  "low_52w": 68.05,
+  "ytd_return": 14.59,
+  "return_1y": 22.42,
+  "return_3y": 100.64,
+  "dividend_yield": 5.04,
+  "index_members": [
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 343360825000.0,
+    "revenue_yoy": 20.18,
+    "net_profit": 28573650000.0,
+    "net_profit_yoy": 4.96,
+    "net_profit_deducted": 25929086000.0,
+    "gross_margin": 22.48,
+    "net_margin": 8.5,
+    "selling_expense_ratio": 8.34,
+    "admin_expense_ratio": 2.99,
+    "finance_expense_ratio": -1.28,
+    "rd_expense": 12014907000.0,
+    "rd_ratio": 3.5,
+    "eps": 4.17,
+    "bvps": 17.87,
+    "roe": 24.09,
+    "roa": 7.75,
+    "total_assets": 387946104000.0,
+    "total_liab": 253121028000.0,
+    "debt_ratio": 65.25,
+    "cash": 71875556000.0,
+    "receivables": 24636440000.0,
+    "inventory": 45924439000.0,
+    "goodwill": 27874752000.0,
+    "interest_debt": 55596735000.0,
+    "equity_parent": 124868124000.0,
+    "ocf": 35091704000.0,
+    "capex": 6825357000.0,
+    "fcf": 28266347000.0,
+    "ocf_to_np": 1.23
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 345708706000.0,
+    "revenue_yoy": 0.68,
+    "net_profit": 29553507000.0,
+    "net_profit_yoy": 3.43,
+    "net_profit_deducted": 28607973000.0,
+    "gross_margin": 24.24,
+    "net_margin": 8.67,
+    "selling_expense_ratio": 8.31,
+    "admin_expense_ratio": 3.35,
+    "finance_expense_ratio": -0.98,
+    "rd_expense": 12618506000.0,
+    "rd_ratio": 3.65,
+    "eps": 4.34,
+    "bvps": 20.43,
+    "roe": 22.21,
+    "roa": 7.36,
+    "total_assets": 422555267000.0,
+    "total_liab": 270631465000.0,
+    "debt_ratio": 64.05,
+    "cash": 55270099000.0,
+    "receivables": 28237973000.0,
+    "inventory": 46044897000.0,
+    "goodwill": 28548653000.0,
+    "interest_debt": 67767150000.0,
+    "equity_parent": 142935236000.0,
+    "ocf": 34657828000.0,
+    "capex": 7352115000.0,
+    "fcf": 27305713000.0,
+    "ocf_to_np": 1.17
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 373709804000.0,
+    "revenue_yoy": 8.1,
+    "net_profit": 33719935000.0,
+    "net_profit_yoy": 14.1,
+    "net_profit_deducted": 32974908000.0,
+    "gross_margin": 25.7,
+    "net_margin": 9.07,
+    "selling_expense_ratio": 8.55,
+    "admin_expense_ratio": 3.61,
+    "finance_expense_ratio": -0.87,
+    "rd_expense": 14583311000.0,
+    "rd_ratio": 3.9,
+    "eps": 4.93,
+    "bvps": 23.18,
+    "roe": 22.23,
+    "roa": 7.43,
+    "total_assets": 486038184000.0,
+    "total_liab": 311738535000.0,
+    "debt_ratio": 64.14,
+    "cash": 81673846000.0,
+    "receivables": 32884739000.0,
+    "inventory": 47339255000.0,
+    "goodwill": 30858237000.0,
+    "interest_debt": 74680910000.0,
+    "equity_parent": 162878825000.0,
+    "ocf": 57902611000.0,
+    "capex": 6314051000.0,
+    "fcf": 51588560000.0,
+    "ocf_to_np": 1.72
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 409084266000.0,
+    "revenue_yoy": 9.47,
+    "net_profit": 38537237000.0,
+    "net_profit_yoy": 14.29,
+    "net_profit_deducted": 35741418000.0,
+    "gross_margin": 26.42,
+    "net_margin": 9.52,
+    "selling_expense_ratio": 9.47,
+    "admin_expense_ratio": 3.55,
+    "finance_expense_ratio": -0.81,
+    "rd_expense": 16232771000.0,
+    "rd_ratio": 3.97,
+    "eps": 5.44,
+    "bvps": 28.31,
+    "roe": 21.29,
+    "roa": 7.11,
+    "total_assets": 604351853000.0,
+    "total_liab": 376684462000.0,
+    "debt_ratio": 62.33,
+    "cash": 140410308000.0,
+    "receivables": 35798974000.0,
+    "inventory": 63339188000.0,
+    "goodwill": 29581014000.0,
+    "interest_debt": 86255072000.0,
+    "equity_parent": 216750057000.0,
+    "ocf": 60511572000.0,
+    "capex": 7839636000.0,
+    "fcf": 52671936000.0,
+    "ocf_to_np": 1.57
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 458502407000.0,
+    "revenue_yoy": 12.08,
+    "net_profit": 43945411000.0,
+    "net_profit_yoy": 14.03,
+    "net_profit_deducted": 41267233000.0,
+    "gross_margin": 26.39,
+    "net_margin": 9.75,
+    "selling_expense_ratio": 9.35,
+    "admin_expense_ratio": 3.51,
+    "finance_expense_ratio": -1.29,
+    "rd_expense": 17787624000.0,
+    "rd_ratio": 3.88,
+    "eps": 5.8,
+    "bvps": 29.38,
+    "roe": 19.7,
+    "roa": 7.34,
+    "total_assets": 608791766000.0,
+    "total_liab": 372367543000.0,
+    "debt_ratio": 61.17,
+    "cash": 85247150000.0,
+    "receivables": 40450097000.0,
+    "inventory": 64628834000.0,
+    "goodwill": 34256859000.0,
+    "interest_debt": 67480997000.0,
+    "equity_parent": 223221305000.0,
+    "ocf": 53345930000.0,
+    "capex": 11141889000.0,
+    "fcf": 42204041000.0,
+    "ocf_to_np": 1.21
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 261052379000.0,
+   "revenue_yoy": 3.46,
+   "net_profit": 26446037000.0,
+   "net_profit_yoy": 1.66,
+   "net_profit_deducted": 19595179000.0,
+   "gross_margin": 25.26,
+   "net_margin": 10.22,
+   "roe": 11.33,
+   "eps": 3.52,
+   "debt_ratio": 64.89,
+   "ocf": 37552090000.0
+  },
+  "derived": {
+   "revenue_cagr_3y": 9.87,
+   "net_profit_cagr_3y": 14.14,
+   "receivables_to_revenue": 8.82,
+   "goodwill_to_equity": 15.35
+  }
+ },
+ "shareholders": {
+  "controller": "何享健",
+  "controlling_shareholder": "美的控股有限公司",
+  "controlling_ratio": 28.49,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "美的控股有限公司",
+    "hold_num": 2169178713,
+    "hold_ratio": 28.49,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "香港中央结算有限公司",
+    "hold_num": 893478198,
+    "hold_ratio": 11.74,
+    "hold_num_change": -30681643
+   },
+   {
+    "rank": 3,
+    "name": "HKSCC NOMINEES LIMITED",
+    "hold_num": 650791422,
+    "hold_ratio": 8.55,
+    "hold_num_change": 10
+   },
+   {
+    "rank": 4,
+    "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+    "hold_num": 206856697,
+    "hold_ratio": 2.72,
+    "hold_num_change": -1736010
+   },
+   {
+    "rank": 5,
+    "name": "中国证券金融股份有限公司",
+    "hold_num": 141687696,
+    "hold_ratio": 1.86,
+    "hold_num_change": -7942555
+   },
+   {
+    "rank": 6,
+    "name": "方洪波",
+    "hold_num": 116990492,
+    "hold_ratio": 1.54,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "中国平安人寿保险股份有限公司-自有资金",
+    "hold_num": 113675545,
+    "hold_ratio": 1.49,
+    "hold_num_change": -185095
+   },
+   {
+    "rank": 8,
+    "name": "中央汇金资产管理有限责任公司",
+    "hold_num": 88260460,
+    "hold_ratio": 1.16,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "黄健",
+    "hold_num": 86140000,
+    "hold_ratio": 1.13,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 10,
+    "name": "太平人寿保险有限公司-传统-普通保险产品-022L-CT001深",
+    "hold_num": 61204834,
+    "hold_ratio": 0.8,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 270985,
+  "holder_num_change_pct": -0.25,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 10.85,
+  "northbound_ratio": 11.74,
+  "executives": [
+   {
+    "name": "方洪波",
+    "title": "董事长",
+    "pay": 12670000
+   },
+   {
+    "name": "方洪波",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "高书",
+    "title": "董事会秘书",
+    "pay": 3310000
+   }
+  ],
+  "pledge_ratio_total": 0.47,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 1.7009,
+    "total_amount": 11901248314.59,
+    "payout_ratio": 41.65,
+    "dividend_yield": 3.13,
+    "ex_date": "2022-06-02"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 2.5,
+    "total_amount": 17555453227.5,
+    "payout_ratio": 59.4,
+    "dividend_yield": 4.87,
+    "ex_date": "2023-06-01"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 3.0,
+    "total_amount": 20925954387.0,
+    "payout_ratio": 62.06,
+    "dividend_yield": 4.23,
+    "ex_date": "2024-05-15"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 3.5,
+    "total_amount": 26870356884.0,
+    "payout_ratio": 69.73,
+    "dividend_yield": 4.64,
+    "ex_date": "2025-06-12"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 4.3,
+    "total_amount": 32773601967.6,
+    "payout_ratio": 74.58,
+    "dividend_yield": 4.35,
+    "ex_date": "2025-11-18"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 110026614780.69,
+  "cum_netprofit_5y": 174329740000.0,
+  "payout_5y": 63.11,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [
+   "000651.SZ",
+   "600690.SH",
+   "002050.SZ"
+  ],
+  "segments": [
+   {
+    "name": "智能家居业务",
+    "revenue": 299927239000.0,
+    "ratio": 65.71,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "商业及工业解决方案",
+    "revenue": 122752958000.0,
+    "ratio": 26.89,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 33771534000.0,
+    "ratio": 7.4,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "国内",
+    "revenue": 260504038000.0,
+    "ratio": 57.07,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "海外",
+    "revenue": 195947693000.0,
+    "ratio": 42.93,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "关于以集中竞价交易方式回购A股股份进展情况的公告",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225608903.PDF",
+    "type": null
+   },
+   {
+    "title": "关于回购注销部分限制性股票减资暨通知债权人的公告",
+    "date": "2026-10-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225603534.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市嘉源律师事务所关于美的集团2026年第一次临时股东会的法律意见书",
+    "date": "2026-10-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225603533.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年第一次临时股东会决议公告",
+    "date": "2026-10-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225603532.PDF",
+    "type": null
+   },
+   {
+    "title": "关于以集中竞价交易方式回购A股股份进展情况的公告",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225596587.PDF",
+    "type": null
+   },
+   {
+    "title": "关于全资子公司受让合伙企业份额暨与专业投资机构共同投资的公告",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225588595.PDF",
+    "type": null
+   },
+   {
+    "title": "关于在广东威灵汽车部件有限公司实施多元化员工持股计划方案的公告",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225588522.PDF",
+    "type": null
+   },
+   {
+    "title": "关于在广东极亚精机科技有限公司实施多元化员工持股计划方案的公告",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225588521.PDF",
+    "type": null
+   },
+   {
+    "title": "第五届董事会第十九次会议决议公告",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225588520.PDF",
+    "type": null
+   },
+   {
+    "title": "关于召开2026年第一次临时股东会的通知",
+    "date": "2026-09-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-28/1225582141.PDF",
+    "type": null
+   },
+   {
+    "title": "关于参加2026年广东辖区投资者集体接待日暨辖区上市公司半年度报告业绩说明会活动的公告",
+    "date": "2026-09-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-11/1225557650.PDF",
+    "type": null
+   },
+   {
+    "title": "关于2026年A股持股计划非交易过户完成的公告",
+    "date": "2026-09-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225544482.PDF",
+    "type": null
+   },
+   {
+    "title": "关于以集中竞价交易方式回购A股股份进展情况的公告",
+    "date": "2026-09-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225544342.PDF",
+    "type": null
+   },
+   {
+    "title": "第五届董事会第十八次会议决议公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531407.PDF",
+    "type": null
+   },
+   {
+    "title": "关于2026年中期利润分配方案的公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531406.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度非经营性资金占用及其他关联资金往来情况汇总表",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531405.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度报告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531404.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度报告摘要",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531403.PDF",
+    "type": null
+   },
+   {
+    "title": "关于以集中竞价交易方式回购A股股份进展情况的公告",
+    "date": "2026-08-06",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-06/1225460252.PDF",
+    "type": null
+   },
+   {
+    "title": "关于以集中竞价交易方式回购A股股份进展情况的公告",
+    "date": "2026-07-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-20/1225431508.pdf",
+    "type": null
+   }
+  ],
+  "count_12m": 133
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "男士电动剃须刀存在一定市场，可否研究迎合消费者需求、具有美的特色和优势的电动剃须刀，助力实现一定业绩和利润增长，也有助于提高美的品牌在男士客户群体的影响力、美誉度和知名度，妥否，请美的集团及旗下相关公司、部门的的优秀管理层考虑此事，谢谢。",
+    "answer": "尊敬的投资者，您好，感谢您的建议！祝节日快乐！",
+    "ask_date": "2026-09-29",
+    "answer_date": "2026-09-30",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2370028179389792256"
+   },
+   {
+    "question": "董秘您好，欧美市场时常对国内大型企业发起各类监管调查。近期美的家电在海外市场影响力持续提升，请问公司若遭遇海外监管刁难，是否有相应的应对预案？",
+    "answer": "尊敬的投资者，您好，公司高度重视全球化合规经营。公司聚焦贸易合规、关务合规、数据隐私合规、竞争合规等领域等领域，常态化监测、识别各业务运营领域的风险，积极引入数字化筛查工具，并组织各经营单位参与全球合规管理体系建设，形成监管合力。感谢对公司的关注，祝节日快乐！",
+    "ask_date": "2026-09-16",
+    "answer_date": "2026-09-30",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2360542022500372480"
+   },
+   {
+    "question": "请问东芝品牌是否有授权时间？授权到期后是否可以展期？品牌使用费的定价基础是什么？",
+    "answer": null,
+    "ask_date": "2026-09-16",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2360379277626257408"
+   },
+   {
+    "question": "为什么美的高端品牌colmo没有中文名字，消费者记都记不住，更别说发音，怎么能推广呢",
+    "answer": "尊敬的投资者，您好，COLMO寓意“攀登”，诞生于欧洲之巅勃朗峰。中文名字科慕。品牌秉持“生而非凡”的精髓，践行“科技服务生活本源，设计释放理性空间”的理念，汇聚全球前沿科技与高端智造能力，为消费者带来兼具至臻品质与自主学习能力的AI科技家电品牌。 目前COLMO已覆盖洗衣机、冰箱、空调、厨热等全品类高端产品，在国内高端家电市场积累了良好的品牌认知与用户口碑。公司将持续打磨产品力、优化服务体验上，持续夯实品牌美誉度与市场声量。 感谢对公司的关注，祝节日快乐！",
+    "ask_date": "2026-09-16",
+    "answer_date": "2026-09-30",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2360354993854500864"
+   },
+   {
+    "question": "董秘你好，近期市场传闻美的集团要将库卡机器人业务单独剥离借壳上市，请问是否董事会有此打算。如果确实有这个打算，作为贵公司股票持有者表示不认可这种举措。工业机器人业务刚开始为美的投资者创造价值就要剥离，虽然仍在美的旗下但对美的集团个股投资人明显属于利空，会削弱了美的集团上市公司股票的成长性预期，美的集团个股会沦为普通白电股而不是具有成长预期的个股，和投资贵公司股票的小投资人初衷完全背离。",
+    "answer": null,
+    "ask_date": "2026-09-08",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2354528578553303040"
+   },
+   {
+    "question": "关于半年报有如下问题，望能解答：1、10.96亿元的商誉减值对象是什么？2、工业技术中的业务拆分以及每个业务板块上半年的营收？或者告知哪个业务板块造成了工业技术业绩两位数下滑？3、Kuka上半年订单或者ebit能否透露？4、海外毛利下降的原因是什么？",
+    "answer": "尊敬的投资者，您好 ！ 1、关于商誉减值，公司严格按照《企业会计准则》及相关规定，对存在减值迹象的资产进行减值测试。 2、关于工业技术，该板块聚焦暖通家电、数据中心/储能热管理、新能源汽车、机器人核心部件领域。2026年上半年，工业技术业务板块收入131.38亿元，同比下降12.72%，主要受家电市场需求偏弱影响。奥维云网（AVC）推总数据显示，2026 年上半年国内家电零售市场规模为 4,250 亿元，同比下滑 9.9%。 3、关于库卡，2026年上半年，库卡集团收入同比增长超过10%，其中库卡中国的收入贡献占比超过30%。2026年上半年，根据MIR 睿工业统计，库卡工业机器人在国内市场出货量超过18,000 台，国内市场销量份额达到 9.7%，升至行业第二位；并在重载机器人领域具有显著优势，库卡 300kg 以上负载机器人国内市场销量份额突破 50%。 4、关于海外毛利率，2026年上半年，公司海外收入达1,131.27亿元，同比增长5.54%，占总营收比例升至43.5%。海外毛利率的变动主要受人民币汇率波动带来的汇兑扰动。公司正通过推进海外本地化运营、产品结构优化及外汇套保工具等方式积极应对。 感谢对公司的关注，祝节日快乐！",
+    "ask_date": "2026-08-31",
+    "answer_date": "2026-09-30",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2348650237201457152"
+   },
+   {
+    "question": "美的旗下高端品牌colom应该改个名字，colom这个名字（我不确定有没有拼错），又难记又难推广，还没有中文名，连卡萨帝都比这个好宣传，瓜子二手车都还朗朗上口呢， colom这些年打不开高端市场可见一斑， 连外国品牌进中国都要有中文名比如西门子siemens， colmo有几个人看到会读呢，听说colom在广东那边还是骂人的话 作为美的小股东，希望董秘能把这个意见往上传达",
+    "answer": "尊敬的投资者，您好，COLMO寓意“攀登”，诞生于欧洲之巅勃朗峰。中文名字科慕。品牌秉持“生而非凡”的精髓，践行“科技服务生活本源，设计释放理性空间”的理念，汇聚全球前沿科技与高端智造能力，为消费者带来兼具至臻品质与自主学习能力的AI科技家电品牌。 目前COLMO已覆盖洗衣机、冰箱、空调、厨热等全品类高端产品，在国内高端家电市场积累了良好的品牌认知与用户口碑。公司将持续打磨产品力、优化服务体验上，持续夯实品牌美誉度与市场声量。 感谢对公司的关注，祝节日快乐！",
+    "ask_date": "2026-08-19",
+    "answer_date": "2026-09-30",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2339553994659540992"
+   },
+   {
+    "question": "尊敬的董秘，您好！2026年《财富》世界500强企业最新发布，公司是否位列排行之中？谢谢回复！",
+    "answer": "尊敬的投资者，您好，2026年7月28日，2026年《财富》世界500强榜单揭晓，美的集团位列第231位，较去年上升15位，连续十一年入选。",
+    "ask_date": "2026-07-28",
+    "answer_date": "2026-07-29",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2323645753770217472"
+   }
+  ],
+  "count_12m": null
+ }
+}

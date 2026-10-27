@@ -1,0 +1,610 @@
+{
+ "identity": {
+  "code": "601818",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "中国光大银行股份有限公司",
+  "name_abbr": "光大银行",
+  "aliases": [
+   "gdyh"
+  ],
+  "name_en": "CHINA EVERBRIGHT BANK COMPANY LIMITED",
+  "pinyin_abbr": "GDYH",
+  "former_names": [],
+  "industry_sw1": "银行",
+  "industry_sw2": "股份制银行Ⅱ",
+  "list_date": "2010-08-18",
+  "province": "北京",
+  "city": "北京",
+  "website": "www.cebbank.com",
+  "chairman": "吴利军",
+  "employees": 48483,
+  "business_summary": "经银保监会批准的包括对公及对私存款、贷款、支付结算、资金业务及其他金融业务",
+  "profile": "中国光大银行股份有限公司成立于1992年8月,是经国务院批复并经人民银行批准设立的全国性股份制商业银行,总部设在北京。中国光大银行于2010年8月在上交所挂牌上市、2013年12月在香港联交所挂牌上市。中国光大银行积极践行金融工作的政治性、人民性,以服务实体经济和国家战略,满足经济社会发展和人民群众日益增长的金融需求为主责,依托光大集团综合金融、产融协同、跨境经营优势,以客户为中心,通过综合化、特色化、轻型化、数字化发展,加快产品、渠道和服务模式的创新,从经营自身资产负债表向帮助客户改善财务报表转变,在财富管理、金融科技和综合金融等领域培育较强的市场竞争优势,形成各项业务均衡发展、风险管理日趋完善、创新和服务能力持续增强的经营格局,沿着高质量发展的轨道稳步前行。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 3.01,
+  "change_pct": -1.31,
+  "total_mv": 177847508693.61,
+  "float_mv": 139684514838.61,
+  "total_shares": 59085551061,
+  "float_shares": 46406815561,
+  "pe_ttm": 5.4,
+  "pe_static": 4.58,
+  "pb": 0.35,
+  "ps_ttm": 1.44,
+  "turnover_rate": 0.54,
+  "amount": 751402771.0,
+  "high_52w": 3.54,
+  "low_52w": 2.8,
+  "ytd_return": -9.2,
+  "return_1y": -9.47,
+  "return_3y": 21.22,
+  "dividend_yield": 5.81,
+  "index_members": [
+   "沪深300"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 152751000000.0,
+    "revenue_yoy": 7.14,
+    "net_profit": 43407000000.0,
+    "net_profit_yoy": 14.73,
+    "net_profit_deducted": 43076000000.0,
+    "gross_margin": null,
+    "net_margin": 28.57,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 0.71,
+    "bvps": 6.99,
+    "roe": 10.64,
+    "roa": 0.77,
+    "total_assets": 5902069000000.0,
+    "total_liab": 5417703000000.0,
+    "debt_ratio": 91.79,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 1281000000.0,
+    "interest_debt": null,
+    "equity_parent": 482489000000.0,
+    "ocf": -112242000000.0,
+    "capex": 5352000000.0,
+    "fcf": -117594000000.0,
+    "ocf_to_np": -2.59
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 151632000000.0,
+    "revenue_yoy": -0.73,
+    "net_profit": 44807000000.0,
+    "net_profit_yoy": 3.23,
+    "net_profit_deducted": 44772000000.0,
+    "gross_margin": null,
+    "net_margin": 29.7,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 0.74,
+    "bvps": 7.46,
+    "roe": 10.27,
+    "roa": 0.74,
+    "total_assets": 6300510000000.0,
+    "total_liab": 5790497000000.0,
+    "debt_ratio": 91.91,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 1281000000.0,
+    "interest_debt": null,
+    "equity_parent": 507883000000.0,
+    "ocf": -56398000000.0,
+    "capex": 4667000000.0,
+    "fcf": -61065000000.0,
+    "ocf_to_np": -1.26
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 145685000000.0,
+    "revenue_yoy": -3.92,
+    "net_profit": 40792000000.0,
+    "net_profit_yoy": -8.96,
+    "net_profit_deducted": 40652000000.0,
+    "gross_margin": null,
+    "net_margin": 28.2,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 0.62,
+    "bvps": 7.57,
+    "roe": 8.38,
+    "roa": 0.63,
+    "total_assets": 6772796000000.0,
+    "total_liab": 6218011000000.0,
+    "debt_ratio": 91.81,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 1281000000.0,
+    "interest_debt": null,
+    "equity_parent": 552391000000.0,
+    "ocf": -3614000000.0,
+    "capex": 5154000000.0,
+    "fcf": -8768000000.0,
+    "ocf_to_np": -0.09
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 135415000000.0,
+    "revenue_yoy": -7.05,
+    "net_profit": 41696000000.0,
+    "net_profit_yoy": 2.22,
+    "net_profit_deducted": 41886000000.0,
+    "gross_margin": null,
+    "net_margin": 30.95,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 0.62,
+    "bvps": 8.17,
+    "roe": 7.93,
+    "roa": 0.61,
+    "total_assets": 6959021000000.0,
+    "total_liab": 6368790000000.0,
+    "debt_ratio": 91.52,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 1281000000.0,
+    "interest_debt": null,
+    "equity_parent": 587700000000.0,
+    "ocf": -204802000000.0,
+    "capex": 9400000000.0,
+    "fcf": -214202000000.0,
+    "ocf_to_np": -4.91
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 126311000000.0,
+    "revenue_yoy": -6.72,
+    "net_profit": 38826000000.0,
+    "net_profit_yoy": -6.88,
+    "net_profit_deducted": 39181000000.0,
+    "gross_margin": null,
+    "net_margin": 30.99,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 0.58,
+    "bvps": 8.46,
+    "roe": 7.0,
+    "roa": 0.55,
+    "total_assets": 7165319000000.0,
+    "total_liab": 6557877000000.0,
+    "debt_ratio": 91.52,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 1281000000.0,
+    "interest_debt": null,
+    "equity_parent": 604800000000.0,
+    "ocf": 162907000000.0,
+    "capex": 7512000000.0,
+    "fcf": 155395000000.0,
+    "ocf_to_np": 4.2
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 63068000000.0,
+   "revenue_yoy": -4.32,
+   "net_profit": 18711000000.0,
+   "net_profit_yoy": -24.01,
+   "net_profit_deducted": 18746000000.0,
+   "gross_margin": null,
+   "net_margin": 29.87,
+   "roe": 3.28,
+   "eps": 0.28,
+   "debt_ratio": 91.52,
+   "ocf": 60884000000.0
+  },
+  "derived": {
+   "revenue_cagr_3y": -5.91,
+   "net_profit_cagr_3y": -4.66,
+   "receivables_to_revenue": null,
+   "goodwill_to_equity": 0.21
+  }
+ },
+ "shareholders": {
+  "controller": "中国投资有限责任公司",
+  "controlling_shareholder": "中国光大集团股份公司",
+  "controlling_ratio": 44.25,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "中国光大集团股份公司",
+    "hold_num": 26146691541,
+    "hold_ratio": 44.25,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "中国中信金融资产管理股份有限公司",
+    "hold_num": 5327699688,
+    "hold_ratio": 9.01,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "香港中央结算(代理人)有限公司",
+    "hold_num": 5238866858,
+    "hold_ratio": 8.87,
+    "hold_num_change": 165000
+   },
+   {
+    "rank": 4,
+    "name": "华侨城集团有限公司",
+    "hold_num": 4200000000,
+    "hold_ratio": 7.11,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "中国光大控股有限公司",
+    "hold_num": 1572735868,
+    "hold_ratio": 2.66,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "中国人寿再保险有限责任公司",
+    "hold_num": 1530397000,
+    "hold_ratio": 2.59,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "中国再保险(集团)股份有限公司",
+    "hold_num": 789487619,
+    "hold_ratio": 1.34,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "申能(集团)有限公司",
+    "hold_num": 766002403,
+    "hold_ratio": 1.3,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "中远海运(上海)投资管理有限公司",
+    "hold_num": 723999875,
+    "hold_ratio": 1.23,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 10,
+    "name": "云南合和(集团)股份有限公司",
+    "hold_num": 626063556,
+    "hold_ratio": 1.06,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 237255,
+  "holder_num_change_pct": 3.87,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 4.27,
+  "northbound_ratio": 1.05,
+  "executives": [
+   {
+    "name": "吴利军",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "郝成",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "张旭阳",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.13,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.201,
+    "total_amount": 10860416179.29,
+    "payout_ratio": 25.02,
+    "dividend_yield": 6.3,
+    "ex_date": "2022-06-29"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.19,
+    "total_amount": 11226254701.59,
+    "payout_ratio": 25.05,
+    "dividend_yield": 6.11,
+    "ex_date": "2023-07-19"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.173,
+    "total_amount": 10221800333.55,
+    "payout_ratio": 25.06,
+    "dividend_yield": 5.2,
+    "ex_date": "2024-07-24"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.189,
+    "total_amount": 11167169150.53,
+    "payout_ratio": 26.78,
+    "dividend_yield": 2.42,
+    "ex_date": "2025-01-22"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.175,
+    "total_amount": 10339971435.67,
+    "payout_ratio": 26.63,
+    "dividend_yield": 2.75,
+    "ex_date": "2026-02-05"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 53815611800.63,
+  "cum_netprofit_5y": 209528000000.0,
+  "payout_5y": 25.68,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "600036.SH",
+   "601998.SH",
+   "601166.SH",
+   "600000.SH"
+  ],
+  "segments": [
+   {
+    "name": "零售银行业务",
+    "revenue": 50442000000.0,
+    "ratio": 39.93,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "公司银行业务",
+    "revenue": 49729000000.0,
+    "ratio": 39.37,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "金融市场业务",
+    "revenue": 26072000000.0,
+    "ratio": 20.64,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他业务",
+    "revenue": 68000000.0,
+    "ratio": 0.05,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "环渤海地区",
+    "revenue": 26116000000.0,
+    "ratio": 20.68,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "长江三角洲",
+    "revenue": 23522000000.0,
+    "ratio": 18.62,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "总行",
+    "revenue": 20088000000.0,
+    "ratio": 15.9,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "中部地区",
+    "revenue": 19740000000.0,
+    "ratio": 15.63,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "珠江三角洲",
+    "revenue": 16822000000.0,
+    "ratio": 13.32,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "西部地区",
+    "revenue": 14014000000.0,
+    "ratio": 11.09,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "中国光大银行股份有限公司H股公告",
+    "date": "2026-10-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612004.PDF",
+    "type": null
+   },
+   {
+    "title": "中国光大银行股份有限公司H股公告",
+    "date": "2026-09-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-25/1225582509.PDF",
+    "type": null
+   },
+   {
+    "title": "中国光大银行股份有限公司非执行董事离任公告",
+    "date": "2026-09-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-25/1225581359.PDF",
+    "type": null
+   },
+   {
+    "title": "中国光大银行股份有限公司董事会会议决议公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225528548.PDF",
+    "type": null
+   },
+   {
+    "title": "中国光大银行股份有限公司2026年度中期利润分配方案公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225528531.PDF",
+    "type": null
+   },
+   {
+    "title": "中国光大银行股份有限公司2026年半年度报告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225528526.PDF",
+    "type": null
+   },
+   {
+    "title": "中国光大银行股份有限公司2026年半年度报告摘要",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225528523.PDF",
+    "type": null
+   },
+   {
+    "title": "中国光大银行股份有限公司关联交易公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225528515.PDF",
+    "type": null
+   },
+   {
+    "title": "中国光大银行股份有限公司关于召开2026年半年度业绩说明会的公告",
+    "date": "2026-08-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-21/1225484601.PDF",
+    "type": null
+   },
+   {
+    "title": "中国光大银行股份有限公司H股公告",
+    "date": "2026-08-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225479710.PDF",
+    "type": null
+   },
+   {
+    "title": "中国光大银行股份有限公司H股公告",
+    "date": "2026-08-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-12/1225469268.PDF",
+    "type": null
+   },
+   {
+    "title": "中国光大银行股份有限公司执行董事、副行长离任公告",
+    "date": "2026-08-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-12/1225468819.PDF",
+    "type": null
+   },
+   {
+    "title": "中国光大银行股份有限公司关于调整第二期优先股票面股息率的公告",
+    "date": "2026-08-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-11/1225466294.PDF",
+    "type": null
+   },
+   {
+    "title": "中国光大银行股份有限公司第二期优先股2026年股息发放实施公告",
+    "date": "2026-07-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-31/1225448611.PDF",
+    "type": null
+   },
+   {
+    "title": "中国光大银行股份有限公司2025年年度A股普通股分红派息实施公告",
+    "date": "2026-07-23",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-23/1225437556.PDF",
+    "type": null
+   },
+   {
+    "title": "中国光大银行股份有限公司第十届董事会第八次会议决议公告",
+    "date": "2026-06-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-30/1225396367.PDF",
+    "type": null
+   },
+   {
+    "title": "关于中国光大银行股份有限公司2025年度股东会的法律意见书",
+    "date": "2026-06-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-30/1225396356.PDF",
+    "type": null
+   },
+   {
+    "title": "中国光大银行股份有限公司H股公告",
+    "date": "2026-06-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-30/1225396347.PDF",
+    "type": null
+   },
+   {
+    "title": "中国光大银行股份有限公司2025年度股东会决议公告",
+    "date": "2026-06-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-30/1225396346.PDF",
+    "type": null
+   },
+   {
+    "title": "中国光大银行股份有限公司关于无固定期限资本债券发行完毕的公告",
+    "date": "2026-06-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-18/1225375080.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 107
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "请问公司管理层对股价的持续低迷有什么看法，是否认可当前股价符合实际价值？如不认可，为何提高分红，回购，注销，高管增持，一样都没有实施？公司管理水平在行业中处于什么地位，未来业绩是否有持续承压的危险？",
+    "answer": null,
+    "ask_date": "2026-10-08",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1818"
+   }
+  ],
+  "count_12m": null
+ }
+}

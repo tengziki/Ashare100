@@ -1,0 +1,654 @@
+{
+ "identity": {
+  "code": "600188",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "兖矿能源集团股份有限公司",
+  "name_abbr": "兖矿能源",
+  "aliases": [
+   "ykny"
+  ],
+  "name_en": "Yankuang Energy Group Company Limited",
+  "pinyin_abbr": "YKNY",
+  "former_names": [
+   "兖州煤业→G兖煤→兖州煤业"
+  ],
+  "industry_sw1": "煤炭",
+  "industry_sw2": "煤炭开采",
+  "list_date": "1998-07-01",
+  "province": "山东",
+  "city": "邹城",
+  "website": "www.ykenergy.com",
+  "chairman": "李伟",
+  "employees": 90921,
+  "business_summary": "煤炭开采及销售、煤化工产品的生产及销售、物流运输业务以及设备制造和电力业务等",
+  "profile": "兖矿能源集团股份有限公司(“兖矿能源”“公司”)成立于1997年,以矿业、高端化工新材料、新能源、高端装备制造、智慧物流为主导产业,资产和业务分布在山东、陕蒙、新疆以及境外的澳大利亚、北美、欧洲等国家和地区,是中国唯一一家拥有上海、香港、纽约、澳大利亚、法兰克福、慕尼黑等境内外六地上市平台的特大型能源企业。公司秉持“创造绿色动能、引领能源变革”的企业使命,主动融入国家“双碳”战略,聚力守正创新,加快变革转型,加快向世界一流、可持续发展的清洁能源引领示范企业迈进。凭借优良业绩、稳健经营、强劲国际竞争力和模范履行社会责任,公司获得了世界能源行业以及国内外资本市场的普遍认可。入选国务院国资委国企改革“双百企业”,三次获得“全国质量奖”,是中国唯一一家荣获“亚洲质量卓越奖”和“全球卓越绩效奖”的能源企业。连续多年荣获中国上市公司董事会金圆桌奖“最佳董事会”等荣誉,成为中国首家通过ESG管理体系认证的企业,位列“中国上市公司百强”第45位,全球矿业市值50强第38位。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 18.1,
+  "change_pct": -3.26,
+  "total_mv": 181667021562.0,
+  "float_mv": 107900471562.0,
+  "total_shares": 10036852020,
+  "float_shares": 5961352020,
+  "pe_ttm": 16.99,
+  "pe_static": 21.68,
+  "pb": 2.36,
+  "ps_ttm": 1.18,
+  "turnover_rate": 0.42,
+  "amount": 453030030.0,
+  "high_52w": 27.28,
+  "low_52w": 12.5,
+  "ytd_return": 43.31,
+  "return_1y": 27.11,
+  "return_3y": 43.14,
+  "dividend_yield": 2.76,
+  "index_members": [
+   "沪深300"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 151990797000.0,
+    "revenue_yoy": -29.3,
+    "net_profit": 16258908000.0,
+    "net_profit_yoy": 128.3,
+    "net_profit_deducted": 16168348000.0,
+    "gross_margin": 29.38,
+    "net_margin": 12.22,
+    "selling_expense_ratio": 1.97,
+    "admin_expense_ratio": 4.5,
+    "finance_expense_ratio": 3.23,
+    "rd_expense": 1139629000.0,
+    "rd_ratio": 0.75,
+    "eps": 3.34,
+    "bvps": 12.32,
+    "roe": 27.83,
+    "roa": 6.78,
+    "total_assets": 288695542000.0,
+    "total_liab": 192208450000.0,
+    "debt_ratio": 66.58,
+    "cash": 45572466000.0,
+    "receivables": 6179328000.0,
+    "inventory": 8454507000.0,
+    "goodwill": 304495000.0,
+    "interest_debt": 98417009000.0,
+    "equity_parent": 68186190000.0,
+    "ocf": 36181686000.0,
+    "capex": 10440317000.0,
+    "fcf": 25741369000.0,
+    "ocf_to_np": 2.23
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 224973103000.0,
+    "revenue_yoy": 48.02,
+    "net_profit": 33356920000.0,
+    "net_profit_yoy": 105.16,
+    "net_profit_deducted": 30282809000.0,
+    "gross_margin": 42.44,
+    "net_margin": 20.46,
+    "selling_expense_ratio": 3.04,
+    "admin_expense_ratio": 3.83,
+    "finance_expense_ratio": 2.72,
+    "rd_expense": 2926256000.0,
+    "rd_ratio": 1.3,
+    "eps": 4.55,
+    "bvps": 16.47,
+    "roe": 39.43,
+    "roa": 13.82,
+    "total_assets": 377475427000.0,
+    "total_liab": 233564674000.0,
+    "debt_ratio": 61.88,
+    "cash": 66593273000.0,
+    "receivables": 8054473000.0,
+    "inventory": 9675602000.0,
+    "goodwill": 310343000.0,
+    "interest_debt": 87411850000.0,
+    "equity_parent": 99850638000.0,
+    "ocf": 58919830000.0,
+    "capex": 20591129000.0,
+    "fcf": 38328701000.0,
+    "ocf_to_np": 1.77
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 150067937000.0,
+    "revenue_yoy": -33.3,
+    "net_profit": 20143947000.0,
+    "net_profit_yoy": -39.61,
+    "net_profit_deducted": 18590947000.0,
+    "gross_margin": 40.64,
+    "net_margin": 18.1,
+    "selling_expense_ratio": 3.33,
+    "admin_expense_ratio": 5.66,
+    "finance_expense_ratio": 2.6,
+    "rd_expense": 2912240000.0,
+    "rd_ratio": 1.94,
+    "eps": 2.11,
+    "bvps": 7.55,
+    "roe": 21.75,
+    "roa": 7.42,
+    "total_assets": 354464336000.0,
+    "total_liab": 235981726000.0,
+    "debt_ratio": 66.57,
+    "cash": 37691295000.0,
+    "receivables": 6973075000.0,
+    "inventory": 7742151000.0,
+    "goodwill": 318918000.0,
+    "interest_debt": 98745109000.0,
+    "equity_parent": 72827965000.0,
+    "ocf": 16158634000.0,
+    "capex": 18191087000.0,
+    "fcf": -2032453000.0,
+    "ocf_to_np": 0.8
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 156672148000.0,
+    "revenue_yoy": 4.4,
+    "net_profit": 14862943000.0,
+    "net_profit_yoy": -26.22,
+    "net_profit_deducted": 13890617000.0,
+    "gross_margin": 35.94,
+    "net_margin": 14.08,
+    "selling_expense_ratio": 3.14,
+    "admin_expense_ratio": 6.7,
+    "finance_expense_ratio": 2.0,
+    "rd_expense": 3498999000.0,
+    "rd_ratio": 2.23,
+    "eps": 1.5,
+    "bvps": 5.91,
+    "roe": 17.72,
+    "roa": 5.76,
+    "total_assets": 411903306000.0,
+    "total_liab": 262282454000.0,
+    "debt_ratio": 63.68,
+    "cash": 41078591000.0,
+    "receivables": 9575687000.0,
+    "inventory": 7868535000.0,
+    "goodwill": 829867000.0,
+    "interest_debt": 122462720000.0,
+    "equity_parent": 87872209000.0,
+    "ocf": 25852012000.0,
+    "capex": 18550909000.0,
+    "fcf": 7301103000.0,
+    "ocf_to_np": 1.74
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 144932859000.0,
+    "revenue_yoy": -7.49,
+    "net_profit": 8380948000.0,
+    "net_profit_yoy": -43.61,
+    "net_profit_deducted": 7398989000.0,
+    "gross_margin": 29.34,
+    "net_margin": 9.82,
+    "selling_expense_ratio": 1.99,
+    "admin_expense_ratio": 6.78,
+    "finance_expense_ratio": 2.86,
+    "rd_expense": 3397880000.0,
+    "rd_ratio": 2.34,
+    "eps": 0.84,
+    "bvps": 7.14,
+    "roe": 9.95,
+    "roa": 3.29,
+    "total_assets": 452944273000.0,
+    "total_liab": 281847440000.0,
+    "debt_ratio": 62.23,
+    "cash": 37428025000.0,
+    "receivables": 8612468000.0,
+    "inventory": 7564618000.0,
+    "goodwill": 894716000.0,
+    "interest_debt": 133521728000.0,
+    "equity_parent": 100480292000.0,
+    "ocf": 19484794000.0,
+    "capex": 18520825000.0,
+    "fcf": 963969000.0,
+    "ocf_to_np": 2.32
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 75647064000.0,
+   "revenue_yoy": 13.01,
+   "net_profit": 7149644000.0,
+   "net_profit_yoy": 47.75,
+   "net_profit_deducted": 4607236000.0,
+   "gross_margin": 30.6,
+   "net_margin": 13.09,
+   "roe": 6.87,
+   "eps": 0.71,
+   "debt_ratio": 60.93,
+   "ocf": 13835582000.0
+  },
+  "derived": {
+   "revenue_cagr_3y": -13.63,
+   "net_profit_cagr_3y": -36.9,
+   "receivables_to_revenue": 5.94,
+   "goodwill_to_equity": 0.89
+  }
+ },
+ "shareholders": {
+  "controller": "山东省人民政府国有资产监督管理委员会",
+  "controlling_shareholder": "山东能源集团有限公司",
+  "controlling_ratio": 52.84,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "山东能源集团有限公司",
+    "hold_num": 5303899421,
+    "hold_ratio": 52.84,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "香港中央结算(代理人)有限公司",
+    "hold_num": 3162277957,
+    "hold_ratio": 31.51,
+    "hold_num_change": 17398
+   },
+   {
+    "rank": 3,
+    "name": "香港中央结算有限公司",
+    "hold_num": 82149997,
+    "hold_ratio": 0.82,
+    "hold_num_change": 7360524
+   },
+   {
+    "rank": 4,
+    "name": "中国工商银行股份有限公司-国泰中证煤炭交易型开放式指数证券投资基金",
+    "hold_num": 58458151,
+    "hold_ratio": 0.58,
+    "hold_num_change": 5984843
+   },
+   {
+    "rank": 5,
+    "name": "招商银行股份有限公司-上证红利交易型开放式指数证券投资基金",
+    "hold_num": 41211738,
+    "hold_ratio": 0.41,
+    "hold_num_change": 13199050
+   },
+   {
+    "rank": 6,
+    "name": "全国社保基金一一五组合",
+    "hold_num": 30252335,
+    "hold_ratio": 0.3,
+    "hold_num_change": 6792225
+   },
+   {
+    "rank": 7,
+    "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+    "hold_num": 28505170,
+    "hold_ratio": 0.28,
+    "hold_num_change": -1822915
+   },
+   {
+    "rank": 8,
+    "name": "中国银行股份有限公司-易方达中证红利交易型开放式指数证券投资基金",
+    "hold_num": 16961981,
+    "hold_ratio": 0.17,
+    "hold_num_change": null
+   },
+   {
+    "rank": 9,
+    "name": "广发基金管理有限公司-社保基金四二零组合",
+    "hold_num": 13441437,
+    "hold_ratio": 0.13,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "中国人寿保险股份有限公司-分红-个人分红-005L-FH002沪",
+    "hold_num": 13349886,
+    "hold_ratio": 0.13,
+    "hold_num_change": -3980659
+   }
+  ],
+  "holder_num": 86765,
+  "holder_num_change_pct": -3.87,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 7.62,
+  "northbound_ratio": 0.82,
+  "executives": [
+   {
+    "name": "李伟",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "王九红",
+    "title": "总经理",
+    "pay": 1286100.0
+   },
+   {
+    "name": "黄霄龙",
+    "title": "董事会秘书",
+    "pay": 974900.0
+   }
+  ],
+  "pledge_ratio_total": 0.11,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 1.6,
+    "total_amount": 7917925824.0,
+    "payout_ratio": 48.7,
+    "dividend_yield": 4.45,
+    "ex_date": "2022-07-14"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 3.07,
+    "total_amount": 15231376673.6,
+    "payout_ratio": 45.66,
+    "dividend_yield": 9.06,
+    "ex_date": "2023-07-17"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 1.49,
+    "total_amount": 11507224614.6,
+    "payout_ratio": 57.12,
+    "dividend_yield": 6.39,
+    "ex_date": "2024-07-08"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.77,
+    "total_amount": 7729407386.22,
+    "payout_ratio": 52.0,
+    "dividend_yield": 3.34,
+    "ex_date": "2024-11-11"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.5,
+    "total_amount": 5018539144.32,
+    "payout_ratio": 59.88,
+    "dividend_yield": 1.41,
+    "ex_date": "2025-09-16"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 47404473642.74,
+  "cum_netprofit_5y": 93003666000.0,
+  "payout_5y": 50.97,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [
+   "601088.SH",
+   "601225.SH",
+   "601898.SH",
+   "002128.SZ"
+  ],
+  "segments": [
+   {
+    "name": "煤炭业务",
+    "revenue": 88666141000.0,
+    "ratio": 61.18,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "煤化工、电力及热力",
+    "revenue": 27513006000.0,
+    "ratio": 18.98,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "物流贸易",
+    "revenue": 18352128000.0,
+    "ratio": 12.66,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "未分配项目",
+    "revenue": 7451272000.0,
+    "ratio": 5.14,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "矿用设备制造",
+    "revenue": 2078431000.0,
+    "ratio": 1.43,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "中国",
+    "revenue": 113616394000.0,
+    "ratio": 78.39,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "澳洲",
+    "revenue": 30221599000.0,
+    "ratio": 20.85,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他",
+    "revenue": 1094866000.0,
+    "ratio": 0.76,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "兖矿能源集团股份有限公司境外控股子公司发布2026年第三季度产量销量",
+    "date": "2026-10-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612269.PDF",
+    "type": null
+   },
+   {
+    "title": "兖矿能源集团股份有限公司2026年第三季度主要运营数据公告",
+    "date": "2026-10-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612267.PDF",
+    "type": null
+   },
+   {
+    "title": "兖矿能源集团股份有限公司2026年前三季度业绩预增公告",
+    "date": "2026-10-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612264.PDF",
+    "type": null
+   },
+   {
+    "title": "董事会会议通知",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225608898.PDF",
+    "type": null
+   },
+   {
+    "title": "月报表",
+    "date": "2026-10-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225595336.PDF",
+    "type": null
+   },
+   {
+    "title": "兖矿能源集团股份有限公司关于购买资产事项完成交割的公告",
+    "date": "2026-10-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225595310.PDF",
+    "type": null
+   },
+   {
+    "title": "兖矿能源集团股份有限公司关于年度预计担保的进展公告",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225588326.PDF",
+    "type": null
+   },
+   {
+    "title": "兖矿能源集团股份有限公司关于控股股东增持计划期间过半的进展公告",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225585144.PDF",
+    "type": null
+   },
+   {
+    "title": "兖矿能源集团股份有限公司2026年半年度权益分派实施公告",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225574679.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市金杜律师事务所关于兖矿能源集团股份有限公司2026 年半年度差异化分红的专项法律意见书",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225574675.PDF",
+    "type": null
+   },
+   {
+    "title": "月报表",
+    "date": "2026-09-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225543608.PDF",
+    "type": null
+   },
+   {
+    "title": "H股市场公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225533421.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年H股中期报告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225533418.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年中期业绩公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225533416.PDF",
+    "type": null
+   },
+   {
+    "title": "兖矿能源集团股份有限公司2026年半年度利润分配方案公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225532274.PDF",
+    "type": null
+   },
+   {
+    "title": "兖矿能源集团股份有限公司第十届董事会第二次会议决议公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225532272.PDF",
+    "type": null
+   },
+   {
+    "title": "兖矿能源集团股份有限公司2026年半年度报告摘要",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225532264.PDF",
+    "type": null
+   },
+   {
+    "title": "兖矿能源集团股份有限公司关于股份回购实施结果暨股份变动的公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225532259.PDF",
+    "type": null
+   },
+   {
+    "title": "兖矿能源集团股份有限公司2026年半年度报告全文",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225532257.PDF",
+    "type": null
+   },
+   {
+    "title": "兖矿能源集团股份有限公司关于山东能源集团财务有限公司2026年上半年风险评估报告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225532254.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 192
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "董秘您好，公司三季报预增公告可以发下吗谢谢您了",
+    "answer": "根据公司上市地监管规则，三季度业绩预告不属于强制披露事项。目前三季度数据仍在测算，后续将结合实际情况评估是否自愿披露，相关信息请以公司正式公告为准。",
+    "ask_date": "2026-10-14",
+    "answer_date": "2026-10-15",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=188"
+   },
+   {
+    "question": "请问未来是否有提高分红的意愿，如有，计划如何？",
+    "answer": "经公司2026年6月26日召开的2025年度股东会审议批准，公司2026-2028年度股东回报规划确定为：公司在各会计年度分配的现金股利总额，以中国会计准则和国际财务报告准则财务报表税后利润数较少者为准，应占公司该年度扣除法定储备后净利润的约百分之五十。 上述分红规划是公司最低确保的利润分配计划，具体派现分红金额将综合考虑实际经营情况、发展战略、股东意愿、社会资金成本、外部融资环境等多重因素统筹研判。",
+    "ask_date": "2026-10-08",
+    "answer_date": "2026-10-12",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=188"
+   },
+   {
+    "question": "公司煤制油项目，年产多少吨柴油的？有哪些化工产品的？成本如何",
+    "answer": "公司煤制油项目目前不生产柴油，化工产品主要包括全馏分液体石蜡（占比约47%）、石脑油（占比约24%）等。根据日期为2026年8月28日的公司2026年半年度报告，2026年上半年，全馏分液体石蜡的单位销售成本为2231元/吨，石脑油的单位销售成本为2229元/吨。",
+    "ask_date": "2026-09-18",
+    "answer_date": "2026-09-22",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=188"
+   },
+   {
+    "question": "公司收购红隼（Kestrel）最新进展是到哪一步了？国内审批是否完成了？日本三井集团是否同意放弃优先权了",
+    "answer": "兖煤澳洲收购红隼集团100%权益正常按法定流程推进，已获得境内外的部分批复，交易进度达到披露标准时，公司将按监管规定履行披露程序。",
+    "ask_date": "2026-09-18",
+    "answer_date": "2026-09-22",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=188"
+   },
+   {
+    "question": "公司收购大股东电力公司股权，为什么迟迟没有交割过户的？是有什么变化吗",
+    "answer": "公司收购控股股东电力资产的交割程序正常按法定流程推进，没有障碍，2026年可完成交割。 交割完成后，公司将取得该电力资产控制权并纳入合并财务报表范围，根据中国企业会计准则，本次收购构成同一控制下企业合并，公司将对以前期间相关财务数据进行追溯调整，其中：2026年度本集团将合并自2026年1月1日起的全年业绩。",
+    "ask_date": "2026-09-18",
+    "answer_date": "2026-09-22",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=188"
+   },
+   {
+    "question": "请问近期公司国内外动力煤的坑口价大概是多少？澳大利亚到了110美元了没",
+    "answer": "公司定期报告披露的各煤种售价为对应会计期间煤炭产品的平均销售价格，主要反映报告期内对应煤炭产品平均热值条件下的期间均价，后附列示的国内煤炭销售挂牌价反映的是固定热值基准下的时点报价，两者口径存在差异。 公司不同区域、煤种、发热量的产品价格差异较大。 截至2026年9月17日，公司陕西地区6000千卡动力煤挂牌价在850-870元/吨，山西地区5000-5500千卡动力煤挂牌价在700-720元/吨，蒙西地区4800-5000千卡动力煤挂牌价在640-660元/吨。 公司境外附属公司兖煤澳洲大部分动力煤以离岸价销售，销售价格与纽卡斯尔港6000千卡动力煤价格指数及API 5 5500千卡动力煤价格指数挂钩。每份合约均按照热值及其他煤炭特性进行价格调整。由于销售合约结构多样和时间安排各异，通常情况下，兖煤澳洲实际履约在合同签订后2-3个月，因此结算价格相较于公开煤炭价格指数通常会滞后约一个季度。 2026年9月18日的纽卡斯尔指数价格为142.42美元/吨，API5指数价格为107.30美元/吨。兖煤澳洲计划于2026年10月20日发布的第三季度生产报告中披露第三季度的动力煤平均售价。",
+    "ask_date": "2026-09-07",
+    "answer_date": "2026-09-22",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=188"
+   },
+   {
+    "question": "请问收购澳大利亚焦煤集团的最新进展是怎么样？国内的审批是否同步开始了",
+    "answer": "兖煤澳洲收购红隼集团100%权益正常按法定流程推进，已获得境内外的部分批复，交易进度达到披露标准时，公司将按监管规定履行披露程序。",
+    "ask_date": "2026-09-07",
+    "answer_date": "2026-09-22",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=188"
+   },
+   {
+    "question": "兖矿能源项目众多、采购规模较大，评标质量直接影响投资效益。请问公司如何评价现有评标体系对供应商技术能力、履约能力和成本优势的真实识别能力？是否存在重价格、轻质量，或评标结果与项目实际执行效果偏离的情况？对于中标后出现交付延期、质量不达标、成本超预期等问题，公司如何追溯评标责任并完善供应商准入和退出机制？",
+    "answer": "公司采用百分制综合评标，从商务、技术、价格多维度打分，按项目类型差异化设置权重。评标时核查供应商资质、业绩、生产能力、供货能力与信用记录，核心物资核验原厂质保、生产授权，全面识别供应商真实实力。 制度上杜绝唯低价中标，关键设备提高技术质量分值。落实“一标一评价”，根据项目履约情况持续优化评标规则。 发生履约问题后开展专项核查，厘清界定评标履职责任与供应商责任，不良供应商视情节限制投标或列入黑名单。供应商入库严格审核，入库后动态管理，实施供应商后评价。",
+    "ask_date": "2026-08-07",
+    "answer_date": "2026-09-22",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=188"
+   }
+  ],
+  "count_12m": null
+ }
+}

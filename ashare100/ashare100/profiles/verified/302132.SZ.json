@@ -1,0 +1,628 @@
+{
+ "identity": {
+  "code": "302132",
+  "exchange": "SZ",
+  "board": "主板",
+  "name_full": "中航成飞股份有限公司",
+  "name_abbr": "中航成飞",
+  "aliases": [
+   "zhcf"
+  ],
+  "name_en": "AVIC CHENGDU AIRCRAFT COMPANY LIMITED",
+  "pinyin_abbr": "ZHCF",
+  "former_names": [
+   "中航电测"
+  ],
+  "industry_sw1": "国防军工",
+  "industry_sw2": "航空装备Ⅱ",
+  "list_date": "2010-08-27",
+  "province": "陕西",
+  "city": "汉中",
+  "website": "cac.avic.com",
+  "chairman": "隋少春",
+  "employees": 26595,
+  "business_summary": "航空产品研发、制造、销售、维修与服务保障",
+  "profile": "中航成飞股份有限公司是中国航空工业集团下属成员单位,聚焦“智能测控”领域,秉承“技术同源、产业同根、价值同向”原则,确立了航空防务、传感控制、数智产业、智能交通等业务板块,是国内提供军民两用智能测控产品及系统解决方案的骨干企业。2010年8月27日,在深圳证券交易所创业板成功上市。中航电测秉承中国航空工业集团“建设航空强国,做国家安全守护者、高质量发展引领者、可持续发展价值创造者”的企业使命,坚持“以客户为中心,以贡献者为本,创造价值,向上向善”的价值文化理念,以“成为世界电测先锋,做世界一流的智能测控产品解决方案供应商”为愿景,在“一业领跑、两翼齐飞、四维拓展、多方共赢”的发展策略指引下,全面推进深化改革、科技创新和数智转型,形成了围绕“智能测控”领域的多元产业布局,具备科研、试验、生产和自主研发信息化、自动化设备能力的高科技工业体系,多项技术达国际领先水平,多项产品获国家级或省部级奖项,先后荣获国家级制造业单项冠军示范企业,国家级高新技术企业,国家级专精特新企业,国家级知识产权优势企业,省级企业技术中心,省级传感器、物联网双“链主”企业。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 64.68,
+  "change_pct": -0.9,
+  "total_mv": 172830870199.68,
+  "float_mv": 37906975195.32,
+  "total_shares": 2672091376,
+  "float_shares": 586069499,
+  "pe_ttm": 53.53,
+  "pe_static": 50.35,
+  "pb": 8.27,
+  "ps_ttm": 2.48,
+  "turnover_rate": 1.48,
+  "amount": 563442196.0,
+  "high_52w": 91.49,
+  "low_52w": 51.76,
+  "ytd_return": -17.72,
+  "return_1y": -23.17,
+  "return_3y": 49.8,
+  "dividend_yield": 1.56,
+  "index_members": [
+   "沪深300",
+   "中证A500",
+   "创业板指"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 1942801971.79,
+    "revenue_yoy": 10.39,
+    "net_profit": 307007852.69,
+    "net_profit_yoy": 16.95,
+    "net_profit_deducted": 289047528.96,
+    "gross_margin": 37.33,
+    "net_margin": 16.28,
+    "selling_expense_ratio": 5.4,
+    "admin_expense_ratio": 9.32,
+    "finance_expense_ratio": -0.34,
+    "rd_expense": 115571447.36,
+    "rd_ratio": 5.95,
+    "eps": 0.52,
+    "bvps": 3.6,
+    "roe": 15.31,
+    "roa": 10.15,
+    "total_assets": 3299177131.22,
+    "total_liab": 1098793641.28,
+    "debt_ratio": 33.31,
+    "cash": 433499544.2,
+    "receivables": 756728557.23,
+    "inventory": 691756439.03,
+    "goodwill": 30239649.76,
+    "interest_debt": 64123325.39,
+    "equity_parent": 2127121596.69,
+    "ocf": -15435097.76,
+    "capex": 263471864.51,
+    "fcf": -278906962.27,
+    "ocf_to_np": -0.05
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 1905000855.86,
+    "revenue_yoy": -1.95,
+    "net_profit": 192657757.19,
+    "net_profit_yoy": -37.25,
+    "net_profit_deducted": 177782746.94,
+    "gross_margin": 36.24,
+    "net_margin": 10.29,
+    "selling_expense_ratio": 6.57,
+    "admin_expense_ratio": 10.3,
+    "finance_expense_ratio": -0.05,
+    "rd_expense": 160531972.32,
+    "rd_ratio": 8.43,
+    "eps": 0.33,
+    "bvps": 3.89,
+    "roe": 8.72,
+    "roa": 5.64,
+    "total_assets": 3654570575.66,
+    "total_liab": 1313693828.91,
+    "debt_ratio": 35.95,
+    "cash": 330507783.75,
+    "receivables": 983310626.37,
+    "inventory": 661130153.7,
+    "goodwill": 30239649.76,
+    "interest_debt": 196151092.4,
+    "equity_parent": 2299280062.14,
+    "ocf": 49502849.16,
+    "capex": 220574546.81,
+    "fcf": -171071697.65,
+    "ocf_to_np": 0.26
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 1677304847.89,
+    "revenue_yoy": -11.95,
+    "net_profit": 98167133.37,
+    "net_profit_yoy": -49.05,
+    "net_profit_deducted": 88952560.66,
+    "gross_margin": 32.1,
+    "net_margin": 5.89,
+    "selling_expense_ratio": 5.52,
+    "admin_expense_ratio": 11.78,
+    "finance_expense_ratio": -0.18,
+    "rd_expense": 168703288.17,
+    "rd_ratio": 10.06,
+    "eps": 0.17,
+    "bvps": 4.04,
+    "roe": 30.33,
+    "roa": 2.59,
+    "total_assets": 3974910728.94,
+    "total_liab": 1549057991.57,
+    "debt_ratio": 38.97,
+    "cash": 461271218.79,
+    "receivables": 968877659.0,
+    "inventory": 664684067.15,
+    "goodwill": 30239649.76,
+    "interest_debt": 481284141.95,
+    "equity_parent": 2385722411.09,
+    "ocf": 130140846.3,
+    "capex": 239164243.18,
+    "fcf": -109023396.88,
+    "ocf_to_np": 1.33
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 65054925106.17,
+    "revenue_yoy": 3778.54,
+    "net_profit": 3223753233.81,
+    "net_profit_yoy": 3183.94,
+    "net_profit_deducted": 94665860.31,
+    "gross_margin": 10.8,
+    "net_margin": 5.04,
+    "selling_expense_ratio": 0.16,
+    "admin_expense_ratio": 2.44,
+    "finance_expense_ratio": -0.48,
+    "rd_expense": 1409438747.57,
+    "rd_ratio": 2.17,
+    "eps": 1.21,
+    "bvps": 4.23,
+    "roe": 30.34,
+    "roa": 5.86,
+    "total_assets": 107905965442.13,
+    "total_liab": 86235224999.81,
+    "debt_ratio": 79.92,
+    "cash": 27031224876.5,
+    "receivables": 17248202961.45,
+    "inventory": 24062472566.42,
+    "goodwill": 30239649.76,
+    "interest_debt": 6977119930.22,
+    "equity_parent": 19430635961.57,
+    "ocf": -12248782722.8,
+    "capex": 1616442544.07,
+    "fcf": -13865225266.87,
+    "ocf_to_np": -3.8
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 75358958001.86,
+    "revenue_yoy": 15.84,
+    "net_profit": 3432289851.96,
+    "net_profit_yoy": 6.47,
+    "net_profit_deducted": 3305093771.39,
+    "gross_margin": 8.46,
+    "net_margin": 4.62,
+    "selling_expense_ratio": 0.15,
+    "admin_expense_ratio": 1.6,
+    "finance_expense_ratio": 0.01,
+    "rd_expense": 1158232945.82,
+    "rd_ratio": 1.54,
+    "eps": 1.28,
+    "bvps": 7.94,
+    "roe": 26.76,
+    "roa": 3.13,
+    "total_assets": 114547703019.42,
+    "total_liab": 91020344072.31,
+    "debt_ratio": 79.46,
+    "cash": 21790865166.8,
+    "receivables": 22245908764.72,
+    "inventory": 24358820169.15,
+    "goodwill": 30239649.76,
+    "interest_debt": 7680811412.46,
+    "equity_parent": 21208525338.75,
+    "ocf": -2542177536.87,
+    "capex": 1825659532.35,
+    "fcf": -4367837069.22,
+    "ocf_to_np": -0.74
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 15167213559.04,
+   "revenue_yoy": -26.74,
+   "net_profit": 709070704.88,
+   "net_profit_yoy": -22.32,
+   "net_profit_deducted": 650744987.13,
+   "gross_margin": 11.04,
+   "net_margin": 4.63,
+   "roe": 4.93,
+   "eps": 0.27,
+   "debt_ratio": 78.43,
+   "ocf": -7244379978.43
+  },
+  "derived": {
+   "revenue_cagr_3y": 240.73,
+   "net_profit_cagr_3y": 161.18,
+   "receivables_to_revenue": 29.52,
+   "goodwill_to_equity": 0.14
+  }
+ },
+ "shareholders": {
+  "controller": "中国航空工业集团有限公司",
+  "controlling_shareholder": "中国航空工业集团有限公司",
+  "controlling_ratio": 78.66,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "中国航空工业集团有限公司",
+    "hold_num": 2101738612,
+    "hold_ratio": 78.66,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "汉中汉航机电有限公司",
+    "hold_num": 153597730,
+    "hold_ratio": 5.75,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "汉中航空工业(集团)有限公司",
+    "hold_num": 141442953,
+    "hold_ratio": 5.29,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "中国工商银行股份有限公司-华夏军工安全灵活配置混合型证券投资基金",
+    "hold_num": 7300415,
+    "hold_ratio": 0.27,
+    "hold_num_change": null
+   },
+   {
+    "rank": 5,
+    "name": "中国航空科技工业股份有限公司",
+    "hold_num": 7043584,
+    "hold_ratio": 0.26,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "中国建设银行股份有限公司-富国中证军工龙头交易型开放式指数证券投资基金",
+    "hold_num": 3658200,
+    "hold_ratio": 0.14,
+    "hold_num_change": -495500
+   },
+   {
+    "rank": 7,
+    "name": "方威",
+    "hold_num": 2766667,
+    "hold_ratio": 0.1,
+    "hold_num_change": -8198381
+   },
+   {
+    "rank": 8,
+    "name": "中国农业银行股份有限公司-华夏国证航天航空行业交易型开放式指数证券投资基金",
+    "hold_num": 1872078,
+    "hold_ratio": 0.07,
+    "hold_num_change": null
+   },
+   {
+    "rank": 9,
+    "name": "中国工商银行股份有限公司-易方达中证人工智能主题交易型开放式指数证券投资基金",
+    "hold_num": 1849700,
+    "hold_ratio": 0.07,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "中国工商银行股份有限公司-易方达创业板交易型开放式指数证券投资基金",
+    "hold_num": 1695258,
+    "hold_ratio": 0.06,
+    "hold_num_change": -1012712
+   }
+  ],
+  "holder_num": 68284,
+  "holder_num_change_pct": -5.1,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 9.22,
+  "northbound_ratio": 0.05,
+  "executives": [
+   {
+    "name": "隋少春",
+    "title": "董事长",
+    "pay": 969900
+   },
+   {
+    "name": "蒋敏",
+    "title": "总经理",
+    "pay": 969900
+   },
+   {
+    "name": "肖峰",
+    "title": "董事会秘书",
+    "pay": 861300
+   }
+  ],
+  "pledge_ratio_total": 0.0,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.05,
+    "total_amount": 29538024.95,
+    "payout_ratio": 9.62,
+    "dividend_yield": 0.45,
+    "ex_date": "2022-06-14"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.03,
+    "total_amount": 17722814.97,
+    "payout_ratio": 9.2,
+    "dividend_yield": 0.06,
+    "ex_date": "2023-06-06"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": 0.0,
+    "dividend_yield": 0.0,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.014,
+    "total_amount": 37474953.26,
+    "payout_ratio": 1.16,
+    "dividend_yield": 0.02,
+    "ex_date": "2025-06-17"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 1.009,
+    "total_amount": 2699062691.38,
+    "payout_ratio": 78.64,
+    "dividend_yield": 0.69,
+    "ex_date": "2025-06-24"
+   }
+  ],
+  "consecutive_years": 2,
+  "cum_dividend_5y": 2783798484.56,
+  "cum_netprofit_5y": 7253875829.02,
+  "payout_5y": 38.38,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [
+   "600760.SH",
+   "600893.SH",
+   "000768.SZ",
+   "600372.SH"
+  ],
+  "segments": [
+   {
+    "name": "航空产品",
+    "revenue": 73551376777.21,
+    "ratio": 97.6,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他",
+    "revenue": 1807581224.65,
+    "ratio": 2.4,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "国内",
+    "revenue": 74034112060.93,
+    "ratio": 98.24,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "国外",
+    "revenue": 1324845940.93,
+    "ratio": 1.76,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "关于公司董事离任的公告",
+    "date": "2026-09-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225582299.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市嘉源律师事务所关于中航成飞股份有限公司2026年第四次临时股东会的法律意见书",
+    "date": "2026-09-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-11/1225561702.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年第四次临时股东会决议公告",
+    "date": "2026-09-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-11/1225561701.PDF",
+    "type": null
+   },
+   {
+    "title": "关于续聘2026年度会计师事务所的公告",
+    "date": "2026-08-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-24/1225492497.PDF",
+    "type": null
+   },
+   {
+    "title": "董事会秘书工作规则",
+    "date": "2026-08-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-24/1225492496.PDF",
+    "type": null
+   },
+   {
+    "title": "关于修订并签署日常关联交易框架协议的公告",
+    "date": "2026-08-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-24/1225492495.PDF",
+    "type": null
+   },
+   {
+    "title": "关于签订金融服务框架协议及调整2026年度日常关联交易预计额度的公告",
+    "date": "2026-08-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-24/1225492494.PDF",
+    "type": null
+   },
+   {
+    "title": "关于召开2026年第四次临时股东会的通知",
+    "date": "2026-08-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-24/1225492493.PDF",
+    "type": null
+   },
+   {
+    "title": "第八届董事会第十二次会议决议公告",
+    "date": "2026-08-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-24/1225492492.PDF",
+    "type": null
+   },
+   {
+    "title": "关于与中航工业集团财务有限责任公司关联存贷款的风险持续评估报告",
+    "date": "2026-08-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-24/1225492491.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度非经营性资金占用及其他关联资金往来情况汇总表",
+    "date": "2026-08-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-24/1225492490.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度报告",
+    "date": "2026-08-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-24/1225492489.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度报告摘要",
+    "date": "2026-08-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-24/1225492488.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市嘉源律师事务所关于中航成飞股份有限公司2026年第三次临时股东会的法律意见书",
+    "date": "2026-06-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-10/1225363244.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年第三次临时股东会决议公告",
+    "date": "2026-06-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-10/1225363243.PDF",
+    "type": null
+   },
+   {
+    "title": "2025年年度权益分派实施公告",
+    "date": "2026-06-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-09/1225361366.PDF",
+    "type": null
+   },
+   {
+    "title": "关于将前次股东会未通过议案再次提交股东会审议的说明公告",
+    "date": "2026-05-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-05-26/1225329593.PDF",
+    "type": null
+   },
+   {
+    "title": "关于召开2026年第三次临时股东会的通知",
+    "date": "2026-05-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-05-26/1225329592.PDF",
+    "type": null
+   },
+   {
+    "title": "第八届董事会第十一次会议决议公告",
+    "date": "2026-05-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-05-26/1225329591.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市嘉源律师事务所关于中航成飞股份有限公司2025年度股东会的法律意见书",
+    "date": "2026-05-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-05-22/1225327867.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 81
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "请问贵司会参加今年的珠海航展吗？会携带哪些主力产品参展？",
+    "answer": null,
+    "ask_date": "2026-10-20",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2385748876893487104"
+   },
+   {
+    "question": "您好！12月份珠海航展马上就要到了，贵司的昊龙航天飞机今年会参展吗？谢谢！",
+    "answer": null,
+    "ask_date": "2026-10-20",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2385651123404386304"
+   },
+   {
+    "question": "印尼的90亿美元的歼十CE采购订单马上要交付是真的吗？",
+    "answer": "您好，感谢您的关注，公司严格按照信息披露有关法律法规要求履行信息披露义务，企业重大经营信息以公告为准。",
+    "ask_date": "2026-10-08",
+    "answer_date": "2026-10-10",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2376618437847154688"
+   },
+   {
+    "question": "9月24日国防部记者会，发言人蒋斌就“乌兹别克斯坦引进歼-10CE已交付”回应：中乌正常开展军贸合作，符合国际法和国际惯例，不针对任何第三方。 请董秘说明：订单收入按交付批次还是合同节点确认？是否经中航技结算，利润归上市公司还是集团？24架预计分几年交付，收入落在哪些年度报表？首批已交付架份是否已体现在2026年半年报/三季报，还是未来报告期体现？",
+    "answer": "您好，感谢您的关注。",
+    "ask_date": "2026-09-28",
+    "answer_date": "2026-10-04",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2369426325986304000"
+   },
+   {
+    "question": "贵公司上次基金调研之后跌跌不休，是否有基金公司发现公司存在大众所不知道的信息，公司能完成2026年全年的任务目标吗？",
+    "answer": "您好，感谢您对公司的关注。公司严格按照监管要求开展投资者关系管理活动，交流内容均以公司已公开披露的信息为基础，不存在向特定对象选择性披露未公开重大信息的情形。具体可查阅公司在指定媒体披露的《投资者关系活动记录表》。经营业绩情况敬请关注公司定期报告，谢谢。",
+    "ask_date": "2026-09-24",
+    "answer_date": "2026-10-04",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2366459122171531264"
+   },
+   {
+    "question": "根据证监会《上市公司监管指引第10号——市值管理》第八条，公司作为主要指数成份股，市值管理制度必须明确：负责市值管理的部门/人员；董、高管职责；市值、PE/PB监测预警指标与行业对标机制；股价大幅下跌的应对措施。请逐项披露上述四项内容。如部分条款无法披露，请分项说明每一项不予披露对应的法律/保密依据，而不是笼统以涉密为由整体拒绝。",
+    "answer": "您好，感谢您对公司的关注。根据《上市公司监管指引第10号——市值管理》第八条的相关规定，主要指数成份股公司应当制定上市公司市值管理制度，主要指数成份股公司应当经董事会审议后披露市值管理制度的制定情况。公司作为主要指数成份股公司，已按前述要求制定市值管理制度，于2025年4月27日经董事会审议通过，并于2025年4月29日披露制定情况。该制度有关内容的制定符合《上市公司监管指引第10号——市值管理》的相关规定。",
+    "ask_date": "2026-09-23",
+    "answer_date": "2026-10-04",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2365607292717780992"
+   },
+   {
+    "question": "贵司基本面是否有问题不披露，对于市值管理管理层是否有相应工作，去年的市值管理办法现在也没公布且没看到任何成果！",
+    "answer": "您好，感谢您对公司的关注。公司严格按照监管规定及时履行信息披露义务。公司已按相关法规要求制定《市值管理制度》，并于2025年4月29日披露制度制定情况，公司董事、高管人员及有关管理部门按照本办法履行相应管理职责。",
+    "ask_date": "2026-09-15",
+    "answer_date": "2026-10-04",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2359814567246450688"
+   },
+   {
+    "question": "公司下半年有扩产计划吗",
+    "answer": "您好，感谢您对公司的关注。公司采取以销定产模式，根据合同订单及经营实际合理安排生产计划。",
+    "ask_date": "2026-09-03",
+    "answer_date": "2026-09-22",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2350737961380245504"
+   }
+  ],
+  "count_12m": null
+ }
+}

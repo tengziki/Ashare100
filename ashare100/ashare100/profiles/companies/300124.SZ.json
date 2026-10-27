@@ -1,0 +1,311 @@
+{
+ "identity": {
+  "code": "300124",
+  "exchange": "SZ",
+  "board": "创业板",
+  "name_full": "深圳市汇川技术股份有限公司",
+  "name_abbr": "汇川技术",
+  "aliases": [],
+  "name_en": "Shenzhen Inovance Technology Co., Ltd",
+  "former_names": [],
+  "industry_sw1": "机械设备",
+  "industry_sw2": null,
+  "list_date": "2010-09-28",
+  "province": "广东",
+  "city": null,
+  "website": "www.inovance.com",
+  "chairman": "朱兴明",
+  "employees": 27292,
+  "business_summary": "一般项目:工业自动控制系统装置制造;工业自动控制系统装置销售;工业控制计算机及系统制造;工业控制计算机及系统销售;智能机器人研发;智能机器人销售;工业机器人制造…",
+  "profile": "深圳市汇川技术股份有限公司(股票代码:SZ.300124)(以下简称“汇川技术”)成立于2003年,是一家全球领先、创新驱动的工业科技集团。汇川技术依托在自动化、数字化、智能化领域的深厚技术积淀,构建起工业自动化与数字化、新能源汽车动力系统、智能机器人、数字能源四大技术同源、协同发展的业务生态,致力于为全球客户提供智能、高效、绿色、安全的综合产品和解决方案。公司总部位于深圳,生产基地位于苏州、岳阳、南京、上海、济南、嘉兴、长春、匈牙利等地,并在全球30多个国家和地区设有常驻机构和服务中心。汇川技术聚焦工业领域的自动化、数字化、智能化,在\"数字层、边缘层、控制层、驱动层、执行层、传感层\"形成贯通式布局,持续为工业客户提供\"用得起、用得好、易部署、易升级\"的数自融合解决方案。",
+  "st_status": null,
+  "audit_opinion": null
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 17943256595.0,
+    "revenue_yoy": 55.87,
+    "net_profit": 3573404586.0,
+    "net_profit_yoy": 70.15,
+    "net_profit_deducted": 2918331534.0,
+    "gross_margin": 35.82,
+    "net_margin": 20.51,
+    "eps": 1.37,
+    "bvps": 6.03,
+    "roe": 27.35,
+    "roa": 16.02,
+    "debt_ratio": 40.19,
+    "total_liab": 10973608555.0,
+    "total_assets": 27304325840,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 23008312443.0,
+    "revenue_yoy": 28.23,
+    "net_profit": 4319762362.0,
+    "net_profit_yoy": 20.89,
+    "net_profit_deducted": 3389133196.0,
+    "gross_margin": 35.01,
+    "net_margin": 18.8,
+    "eps": 1.64,
+    "bvps": 7.45,
+    "roe": 24.31,
+    "roa": 13.0,
+    "debt_ratio": 48.71,
+    "total_liab": 19100064464.0,
+    "total_assets": 39211793192,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 30419925398.0,
+    "revenue_yoy": 32.21,
+    "net_profit": 4741863347.0,
+    "net_profit_yoy": 9.77,
+    "net_profit_deducted": 4071177195.0,
+    "gross_margin": 32.34,
+    "net_margin": 15.7,
+    "eps": 1.78,
+    "bvps": 9.15,
+    "roe": 21.66,
+    "roa": 10.83,
+    "debt_ratio": 48.93,
+    "total_liab": 23956572496.0,
+    "total_assets": 48960908432,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 37040952139.0,
+    "revenue_yoy": 21.77,
+    "net_profit": 4285493341.0,
+    "net_profit_yoy": -9.62,
+    "net_profit_deducted": 4035832166.0,
+    "gross_margin": 28.7,
+    "net_margin": 11.73,
+    "eps": 1.6,
+    "bvps": 10.4,
+    "roe": 16.52,
+    "roa": 8.19,
+    "debt_ratio": 50.28,
+    "total_liab": 28749693436.0,
+    "total_assets": 57179183445,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 45104844200.0,
+    "revenue_yoy": 21.77,
+    "net_profit": 5050002090.0,
+    "net_profit_yoy": 17.84,
+    "net_profit_deducted": 4950505397.0,
+    "gross_margin": 28.95,
+    "net_margin": 11.47,
+    "eps": 1.87,
+    "bvps": 13.06,
+    "roe": 16.34,
+    "roa": 8.05,
+    "debt_ratio": 47.93,
+    "total_liab": 34179582787.0,
+    "total_assets": 71311460019,
+    "ocf_to_np": null
+   }
+  ],
+  "latest": {
+   "report_period": "2026-09-30",
+   "report_type": "2026年三季报",
+   "revenue": 37956228271.0,
+   "revenue_yoy": 19.88,
+   "net_profit": 4398491948.0,
+   "net_profit_yoy": 3.38,
+   "net_profit_deducted": 3907423188.0,
+   "gross_margin": 28.24,
+   "net_margin": 11.59,
+   "eps": 1.63,
+   "roe": 11.89,
+   "debt_ratio": 47.6
+  },
+  "derived": {
+   "revenue_cagr_3y": 25.15,
+   "net_profit_cagr_3y": 5.34,
+   "receivables_to_revenue": null,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "朱兴明",
+  "controlling_shareholder": null,
+  "controlling_ratio": null,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "深圳市汇川投资有限公司",
+    "hold_num": 466043804.0,
+    "hold_ratio": 17.2,
+    "hold_num_change": null
+   },
+   {
+    "rank": 2,
+    "name": "香港中央结算有限公司",
+    "hold_num": 399873984.0,
+    "hold_ratio": 14.76,
+    "hold_num_change": -130209935.0
+   },
+   {
+    "rank": 3,
+    "name": "刘国伟",
+    "hold_num": 77725170.0,
+    "hold_ratio": 2.87,
+    "hold_num_change": 600.0
+   },
+   {
+    "rank": 4,
+    "name": "李俊田",
+    "hold_num": 75919995.0,
+    "hold_ratio": 2.8,
+    "hold_num_change": null
+   },
+   {
+    "rank": 5,
+    "name": "赵锦荣",
+    "hold_num": 64864948.0,
+    "hold_ratio": 2.39,
+    "hold_num_change": 5683915.0
+   },
+   {
+    "rank": 6,
+    "name": "唐柱学",
+    "hold_num": 59591990.0,
+    "hold_ratio": 2.2,
+    "hold_num_change": -15000.0
+   },
+   {
+    "rank": 7,
+    "name": "刘迎新",
+    "hold_num": 52627869.0,
+    "hold_ratio": 1.94,
+    "hold_num_change": null
+   },
+   {
+    "rank": 8,
+    "name": "李芬",
+    "hold_num": 41385074.0,
+    "hold_ratio": 1.53,
+    "hold_num_change": null
+   },
+   {
+    "rank": 9,
+    "name": "杨春禄",
+    "hold_num": 41322386.0,
+    "hold_ratio": 1.52,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "刘宇川",
+    "hold_num": 38579234.0,
+    "hold_ratio": 1.42,
+    "hold_num_change": null
+   }
+  ],
+  "top10_date": "2026-09-30",
+  "holder_num": 192018.0,
+  "holder_num_change_pct": 1.12,
+  "holder_num_date": "2026-10-20",
+  "inst_hold_ratio": null,
+  "northbound_ratio": 14.76,
+  "executives": [
+   {
+    "name": "朱兴明",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "朱兴明",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "宋君恩",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": null,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.3,
+    "total_amount": 790886092.8,
+    "payout_ratio": 22.13,
+    "dividend_yield": null,
+    "ex_date": "2022-06-29"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.36,
+    "total_amount": 958012803.36,
+    "payout_ratio": 22.18,
+    "dividend_yield": null,
+    "ex_date": "2023-06-12"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.45,
+    "total_amount": 1205163936.45,
+    "payout_ratio": 25.42,
+    "dividend_yield": null,
+    "ex_date": "2024-05-30"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.41,
+    "total_amount": 1105071754.83,
+    "payout_ratio": 25.79,
+    "dividend_yield": null,
+    "ex_date": "2025-06-06"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.5,
+    "total_amount": 1353801972.0,
+    "payout_ratio": 26.81,
+    "dividend_yield": null,
+    "ex_date": "2026-06-04"
+   }
+  ],
+  "consecutive_years": 5,
+  "cum_dividend_5y": 5412936559.44,
+  "cum_netprofit_5y": 21970525726.0,
+  "payout_5y": 24.64,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [],
+  "segments": []
+ },
+ "announcements": {
+  "items": [],
+  "count_12m": null
+ },
+ "qa": {
+  "items": []
+ },
+ "_meta": {
+  "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
+  "fetched_at": "2026-10-27T16:27:37+08:00",
+  "errors": {}
+ }
+}

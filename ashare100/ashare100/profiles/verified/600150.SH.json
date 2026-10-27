@@ -1,0 +1,602 @@
+{
+ "identity": {
+  "code": "600150",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "中国船舶工业股份有限公司",
+  "name_abbr": "中国船舶",
+  "aliases": [
+   "zgcb"
+  ],
+  "name_en": "China CSSC Holdings Limited",
+  "pinyin_abbr": "ZGCB",
+  "former_names": [
+   "沪东重机→ST重机→沪东重机→G重机→沪东重机→中国船舶→*ST船舶"
+  ],
+  "industry_sw1": "国防军工",
+  "industry_sw2": "航海装备Ⅱ",
+  "list_date": "1998-05-20",
+  "province": "上海",
+  "city": "上海",
+  "website": "csscholdings.cssc.net.cn",
+  "chairman": "胡贤甫",
+  "employees": 41839,
+  "business_summary": "造船业务(军、民)、修船业务、海洋工程及机电设备等",
+  "profile": "中国船舶工业股份有限公司是中国船舶集团有限公司核心军民品主业上市公司,整合了中国船舶集团旗下大型造修船、机电设备、海洋工程等业务,具有完整的船舶行业产业链。作为世界航运业的伙伴,公司秉承“高质量发展”战略,推进中国船舶集团“海洋防务装备产业、船舶海工装备产业、海洋科技创新应用产业、船舶海工服务业”四大产业布局,以强大的科研创新实力、先进的管理水平和精湛的制造工艺,不断推出一系列大型绿色环保船型和船机新产品,持续引领船舶工业高精尖技术的发展。公司下属有江南造船(集团)有限责任公司、上海外高桥造船有限公司、中船澄西船舶修造有限公司和广船国际有限公司四家子公司。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 34.53,
+  "change_pct": -0.95,
+  "total_mv": 259859703074.64,
+  "float_mv": 259859703074.64,
+  "total_shares": 7525621288,
+  "float_shares": 7525621288,
+  "pe_ttm": 18.53,
+  "pe_static": 33.11,
+  "pb": 1.71,
+  "ps_ttm": 1.52,
+  "turnover_rate": 0.84,
+  "amount": 2181605315.0,
+  "high_52w": 43.17,
+  "low_52w": 29.57,
+  "ytd_return": 4.97,
+  "return_1y": -2.14,
+  "return_3y": 38.54,
+  "dividend_yield": 1.06,
+  "index_members": [
+   "上证50",
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 59740426346.26,
+    "revenue_yoy": 8.14,
+    "net_profit": 213814622.44,
+    "net_profit_yoy": -30.08,
+    "net_profit_deducted": -873903553.38,
+    "gross_margin": 10.6,
+    "net_margin": 0.39,
+    "selling_expense_ratio": 1.03,
+    "admin_expense_ratio": 4.63,
+    "finance_expense_ratio": -1.27,
+    "rd_expense": 3121263136.75,
+    "rd_ratio": 5.22,
+    "eps": 0.05,
+    "bvps": 10.29,
+    "roe": 0.47,
+    "roa": 0.15,
+    "total_assets": 160402245008.46,
+    "total_liab": 107298071386.48,
+    "debt_ratio": 66.89,
+    "cash": 52864333615.25,
+    "receivables": 3828329077.78,
+    "inventory": 32686983385.42,
+    "goodwill": 144231195.67,
+    "interest_debt": 18644014351.96,
+    "equity_parent": 46040729539.58,
+    "ocf": 2024425691.18,
+    "capex": 1179964715.08,
+    "fcf": 844460976.1,
+    "ocf_to_np": 9.47
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 59485232361.36,
+    "revenue_yoy": -0.43,
+    "net_profit": 172470350.07,
+    "net_profit_yoy": -19.34,
+    "net_profit_deducted": -2748220108.89,
+    "gross_margin": 7.68,
+    "net_margin": 1.47,
+    "selling_expense_ratio": 0.43,
+    "admin_expense_ratio": 6.19,
+    "finance_expense_ratio": -2.18,
+    "rd_expense": 3072247079.93,
+    "rd_ratio": 5.16,
+    "eps": 0.04,
+    "bvps": 10.28,
+    "roe": 0.38,
+    "roa": 0.54,
+    "total_assets": 162622107836.71,
+    "total_liab": 112334385215.2,
+    "debt_ratio": 69.08,
+    "cash": 57397401413.43,
+    "receivables": 3709681478.29,
+    "inventory": 32390581639.21,
+    "goodwill": 144231195.67,
+    "interest_debt": 26307463599.81,
+    "equity_parent": 45854793789.8,
+    "ocf": -37020988.59,
+    "capex": 1435606939.37,
+    "fcf": -1472627927.96,
+    "ocf_to_np": -0.21
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 74838504400.63,
+    "revenue_yoy": 25.81,
+    "net_profit": 2957396962.72,
+    "net_profit_yoy": 1614.73,
+    "net_profit_deducted": -290647000.0,
+    "gross_margin": 9.75,
+    "net_margin": 3.95,
+    "selling_expense_ratio": 0.08,
+    "admin_expense_ratio": 4.14,
+    "finance_expense_ratio": -1.75,
+    "rd_expense": 3139141017.83,
+    "rd_ratio": 4.19,
+    "eps": 0.66,
+    "bvps": 10.81,
+    "roe": 0.03,
+    "roa": 1.74,
+    "total_assets": 177832168643.44,
+    "total_liab": 125359639601.21,
+    "debt_ratio": 70.49,
+    "cash": 67964961318.7,
+    "receivables": 3127498170.37,
+    "inventory": 36290920968.66,
+    "goodwill": 144231195.67,
+    "interest_debt": 25427757457.96,
+    "equity_parent": 48348591695.12,
+    "ocf": 18212879253.0,
+    "capex": 2421807067.13,
+    "fcf": 15791072185.87,
+    "ocf_to_np": 6.16
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 133350837306.78,
+    "revenue_yoy": 78.18,
+    "net_profit": 4219566113.99,
+    "net_profit_yoy": 42.68,
+    "net_profit_deducted": 3071902500.0,
+    "gross_margin": 10.48,
+    "net_margin": 3.86,
+    "selling_expense_ratio": 0.25,
+    "admin_expense_ratio": 5.29,
+    "finance_expense_ratio": -1.9,
+    "rd_expense": 5612315209.27,
+    "rd_ratio": 4.21,
+    "eps": 0.71,
+    "bvps": 11.38,
+    "roe": 4.65,
+    "roa": 1.77,
+    "total_assets": 403639151728.16,
+    "total_liab": 264104400109.53,
+    "debt_ratio": 65.43,
+    "cash": 149203641941.91,
+    "receivables": 10763099821.51,
+    "inventory": 66201035615.1,
+    "goodwill": 144231195.67,
+    "interest_debt": 45410131511.1,
+    "equity_parent": 92104183250.95,
+    "ocf": 14726529131.64,
+    "capex": 6978969006.36,
+    "fcf": 7747560125.28,
+    "ocf_to_np": 3.49
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 151977991216.09,
+    "revenue_yoy": 13.97,
+    "net_profit": 7848378198.33,
+    "net_profit_yoy": 86.0,
+    "net_profit_deducted": 6126096600.0,
+    "gross_margin": 12.58,
+    "net_margin": 6.92,
+    "selling_expense_ratio": 0.2,
+    "admin_expense_ratio": 4.2,
+    "finance_expense_ratio": -1.54,
+    "rd_expense": 5906886066.52,
+    "rd_ratio": 3.89,
+    "eps": 1.24,
+    "bvps": 19.06,
+    "roe": 7.36,
+    "roa": 2.55,
+    "total_assets": 420489480242.16,
+    "total_liab": 270899324063.36,
+    "debt_ratio": 64.42,
+    "cash": 146835313407.03,
+    "receivables": 8598956540.5,
+    "inventory": 74920604464.82,
+    "goodwill": 144231195.67,
+    "interest_debt": 36566195591.57,
+    "equity_parent": 143418742614.69,
+    "ocf": 7766831729.43,
+    "capex": 3445076324.08,
+    "fcf": 4321755405.35,
+    "ocf_to_np": 0.99
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 91529841604.6,
+   "revenue_yoy": 26.01,
+   "net_profit": 9953567756.53,
+   "net_profit_yoy": 163.51,
+   "net_profit_deducted": 9742390200.0,
+   "gross_margin": 17.37,
+   "net_margin": 11.66,
+   "roe": 6.71,
+   "eps": 1.32,
+   "debt_ratio": 62.41,
+   "ocf": 10918336717.41
+  },
+  "derived": {
+   "revenue_cagr_3y": 36.71,
+   "net_profit_cagr_3y": 257.02,
+   "receivables_to_revenue": 5.66,
+   "goodwill_to_equity": 0.1
+  }
+ },
+ "shareholders": {
+  "controller": "中国船舶集团有限公司",
+  "controlling_shareholder": "中国船舶工业集团有限公司",
+  "controlling_ratio": 26.68,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "中国船舶工业集团有限公司",
+    "hold_num": 2007491824,
+    "hold_ratio": 26.68,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "中国船舶重工集团有限公司",
+    "hold_num": 1054124188,
+    "hold_ratio": 14.01,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "大连船舶投资控股有限公司",
+    "hold_num": 261784080,
+    "hold_ratio": 3.48,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "香港中央结算有限公司",
+    "hold_num": 240931363,
+    "hold_ratio": 3.2,
+    "hold_num_change": 69848335
+   },
+   {
+    "rank": 5,
+    "name": "中船海洋与防务装备股份有限公司",
+    "hold_num": 217494916,
+    "hold_ratio": 2.89,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "中国国有资本风险投资基金股份有限公司",
+    "hold_num": 171779380,
+    "hold_ratio": 2.28,
+    "hold_num_change": -10814653
+   },
+   {
+    "rank": 7,
+    "name": "中国信达资产管理股份有限公司",
+    "hold_num": 116952285,
+    "hold_ratio": 1.55,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "武汉武船投资控股有限公司",
+    "hold_num": 65152448,
+    "hold_ratio": 0.87,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "中国国有企业结构调整基金股份有限公司",
+    "hold_num": 48885457,
+    "hold_ratio": 0.65,
+    "hold_num_change": -2680645
+   },
+   {
+    "rank": 10,
+    "name": "中船投资发展有限公司",
+    "hold_num": 48558755,
+    "hold_ratio": 0.65,
+    "hold_num_change": 0
+   }
+  ],
+  "holder_num": 613881,
+  "holder_num_change_pct": -15.09,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 5.63,
+  "northbound_ratio": 3.2,
+  "executives": [
+   {
+    "name": "胡贤甫",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "施卫东",
+    "title": "总经理",
+    "pay": 1279300.0
+   },
+   {
+    "name": "管红",
+    "title": "董事会秘书",
+    "pay": 526600.0
+   }
+  ],
+  "pledge_ratio_total": 0.0,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.03,
+    "total_amount": 134172862.74,
+    "payout_ratio": 62.75,
+    "dividend_yield": 0.12,
+    "ex_date": "2022-08-16"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.02,
+    "total_amount": 89448575.16,
+    "payout_ratio": 51.86,
+    "dividend_yield": 0.06,
+    "ex_date": "2023-07-12"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.2,
+    "total_amount": 894485751.6,
+    "payout_ratio": 30.25,
+    "dividend_yield": 0.52,
+    "ex_date": "2024-08-09"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.25,
+    "total_amount": 1118107189.5,
+    "payout_ratio": 26.5,
+    "dividend_yield": 0.81,
+    "ex_date": "2025-06-23"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.365,
+    "total_amount": 2746851770.12,
+    "payout_ratio": 35.0,
+    "dividend_yield": 1.13,
+    "ex_date": "2026-07-20"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 4983066149.12,
+  "cum_netprofit_5y": 15411626247.55,
+  "payout_5y": 32.33,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "603268.SH",
+   "600685.SH",
+   "302132.SZ",
+   "600760.SH"
+  ],
+  "segments": [
+   {
+    "name": "船舶造修及海洋工程",
+    "revenue": 131278725500.0,
+    "ratio": 86.38,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "船舶配套、机电设备及其他",
+    "revenue": 18617219700.0,
+    "ratio": 12.25,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 2082046053.01,
+    "ratio": 1.37,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "国内",
+    "revenue": 81003159400.0,
+    "ratio": 53.3,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "国外",
+    "revenue": 68892785700.0,
+    "ratio": 45.33,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 2082046053.01,
+    "ratio": 1.37,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "中国船舶工业股份有限公司2026年半年度权益分派实施公告",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225608254.PDF",
+    "type": null
+   },
+   {
+    "title": "中国船舶工业股份有限公司2026年半年度业绩说明会召开情况的公告",
+    "date": "2026-09-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-25/1225583101.PDF",
+    "type": null
+   },
+   {
+    "title": "中国船舶工业股份有限公司2026年半年度业绩说明会预告公告",
+    "date": "2026-09-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-19/1225571248.PDF",
+    "type": null
+   },
+   {
+    "title": "关于北海造船厂一货轮火灾事故有关情况的公告",
+    "date": "2026-09-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-11/1225558999.PDF",
+    "type": null
+   },
+   {
+    "title": "中国船舶工业股份有限公司关于控股子公司涉及仲裁结果的公告",
+    "date": "2026-09-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225544786.PDF",
+    "type": null
+   },
+   {
+    "title": "中国船舶工业股份有限公司关于公司下属子公司签订重大合同的公告",
+    "date": "2026-09-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225544785.PDF",
+    "type": null
+   },
+   {
+    "title": "中国船舶工业股份有限公司关于中船财务有限责任公司2026年上半年风险持续评估报告",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225535190.PDF",
+    "type": null
+   },
+   {
+    "title": "中国船舶工业股份有限公司信息披露事务管理制度",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225535030.PDF",
+    "type": null
+   },
+   {
+    "title": "中国船舶工业股份有限公司2026年半年度报告",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534994.PDF",
+    "type": null
+   },
+   {
+    "title": "中国船舶工业股份有限公司关联交易规则",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534892.PDF",
+    "type": null
+   },
+   {
+    "title": "中国船舶工业股份有限公司总经理工作细则",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534868.PDF",
+    "type": null
+   },
+   {
+    "title": "中国船舶工业股份有限公司第九届董事会第九次会议决议公告",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534794.PDF",
+    "type": null
+   },
+   {
+    "title": "中国船舶工业股份有限公司关于公司2026年1-6月募集资金存放、管理与实际使用情况的专项报告",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534729.PDF",
+    "type": null
+   },
+   {
+    "title": "中国船舶工业股份有限公司2026年半年度报告摘要",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534667.PDF",
+    "type": null
+   },
+   {
+    "title": "中国船舶工业股份有限公司第九届董事会独立董事第四次专门会议决议",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534511.PDF",
+    "type": null
+   },
+   {
+    "title": "中国船舶工业股份有限公司2026年中期利润分配方案公告",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534448.PDF",
+    "type": null
+   },
+   {
+    "title": "中国船舶工业股份有限公司董事会秘书工作制度",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534299.PDF",
+    "type": null
+   },
+   {
+    "title": "中国船舶工业股份有限公司关于公司下属子公司签订重大合同的公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225526659.PDF",
+    "type": null
+   },
+   {
+    "title": "中国船舶工业股份有限公司关于公司董事辞职的公告",
+    "date": "2026-08-07",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-07/1225461231.PDF",
+    "type": null
+   },
+   {
+    "title": "中国船舶工业股份有限公司第九届董事会第八次会议决议公告",
+    "date": "2026-08-07",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-07/1225461221.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 107
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "尊敬的董秘，您好。贵公司号称海上三颗掌上明珠！但是单单招商轮船，中海远能，st松发的市值也都快接近贵司了。更别提银行，保险和芯片等了。今日贵司股价又濒临跌停，请问你们作为央企的核心执掌者，只关心自己公司，一点也不在乎和关心和重视支持你们的广大中小投资者吗？",
+    "answer": null,
+    "ask_date": "2026-10-21",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=150"
+   },
+   {
+    "question": "九月份回购了多少？增持了多少？",
+    "answer": null,
+    "ask_date": "2026-10-08",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=150"
+   },
+   {
+    "question": "贵司提到会后欢迎各位投资者通过电话、电子邮件、上交所E互动平台等方式与公司做更多的交流！我看这里有一个月没有回复投资者了，还是试着问一下：请问公司内部有没有设定估值 / ROE / 分红收益率阈值，当满足该条件时，会启动评估回购注销？",
+    "answer": null,
+    "ask_date": "2026-09-28",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=150"
+   }
+  ],
+  "count_12m": null
+ }
+}

@@ -22,7 +22,6 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 LIVE_DIR = ROOT / "ashare100" / "ashare100" / "web" / "live"
 BASELINE_FILE = ROOT / "ashare100" / "ashare100" / "codes_top100.json"
-PROFILE_FILE = ROOT / "ashare100" / "ashare100" / "data.json"
 LIST_URL = "https://assets.linkdiary.cn/shares/zh_a_list.json"
 QUOTE_URL = "https://qt.gtimg.cn/q="
 HEADERS = {"User-Agent": "Mozilla/5.0", "Referer": "https://gu.qq.com/"}
@@ -132,12 +131,93 @@ def fetch_all_quotes(codes, workers=3):
     return quotes
 
 
-def previous_members(output_dir):
+def snapshot_base(output_dir, relative, doc):
+    """把一份已发布快照转成对比基准：成员 + 临界名单（用于查新进公司原名次）。"""
+    meta = doc["meta"]
+    slot = "收盘" if meta.get("ranking_status") == "close_confirmed" else meta.get("quote_max_at", "")[11:16]
+    rows = doc["members"] + doc.get("watchlist", [])
+    return {"snapshot": relative, "label": f"{meta['quote_date']} {slot}",
+            "ranked": [{"code": r["code"], "name": r.get("name"), "rank": r["rank"]} for r in rows]}
+
+
+def static_base():
+    doc = json.loads(BASELINE_FILE.read_text(encoding="utf-8"))
+    return {"snapshot": None, "label": f"{doc.get('as_of', '静态')} 收盘（静态基准）",
+            "ranked": [{"code": r["code"], "name": r.get("name_abbr"), "rank": i}
+                       for i, r in enumerate(doc["companies"], 1)]}
+
+
+EM_VALUATION = "https://datacenter-web.eastmoney.com/api/data/v1/get?"
+
+
+def em_prev_close_base(today, top_n=150):
+    """还没有自存的上一交易日收盘快照时（首次运行）：用东方财富日估值表取上一交易日收盘总市值前 150。
+
+    2026-10-27 实测：该表 10-26 的中金公司已按换股吸收合并后的股本计市值（2,498 亿，第 50 名），
+    比用「昨收 × 今日股本」推算更可靠。之后每天以自存的收盘快照为准，此函数只在冷启动时用一次。
+    """
+    import urllib.parse
+    from enrich_company import get_json
+
+    def query(**params):
+        doc = get_json(EM_VALUATION + urllib.parse.urlencode({
+            "reportName": "RPT_VALUEANALYSIS_DET", "columns": "SECUCODE,SECURITY_NAME_ABBR,TRADE_DATE,TOTAL_MARKET_CAP",
+            **params}))
+        return (doc.get("result") or {}).get("data") or []
+
+    last = query(filter=f"(TRADE_DATE<'{today.isoformat()}')", sortColumns="TRADE_DATE", sortTypes=-1, pageSize=1)
+    if not last:
+        raise ValueError("东财日估值查不到上一交易日")
+    day = last[0]["TRADE_DATE"][:10]
+    rows = query(filter=f"(TRADE_DATE='{day}')", sortColumns="TOTAL_MARKET_CAP", sortTypes=-1, pageSize=top_n)
+    if len(rows) < 100 or any(not r.get("TOTAL_MARKET_CAP") for r in rows[:100]):
+        raise ValueError(f"东财日估值 {day} 数据不完整：{len(rows)} 条")
+    return {"snapshot": None, "label": f"{day} 收盘（东方财富日估值）",
+            "ranked": [{"code": r["SECUCODE"], "name": r["SECURITY_NAME_ABBR"], "rank": i}
+                       for i, r in enumerate(rows, 1)]}
+
+
+def load_bases(output_dir, today, prev_close_fallback=None):
+    """上一次运行（vs_prev_run）与上一交易日收盘（vs_prev_close，首页默认）两个基准。"""
+    prev_run = prev_close = None
     manifest = output_dir / "manifest.json"
     if manifest.exists():
-        doc = json.loads((output_dir / json.loads(manifest.read_text(encoding="utf-8"))["snapshot"]).read_text(encoding="utf-8"))
-        return [item["code"] for item in doc["members"]]
-    return [item["code"] for item in json.loads(BASELINE_FILE.read_text(encoding="utf-8"))["companies"]]
+        relative = json.loads(manifest.read_text(encoding="utf-8"))["snapshot"]
+        prev_run = snapshot_base(output_dir, relative, json.loads((output_dir / relative).read_text(encoding="utf-8")))
+    best = None
+    for path in sorted((output_dir / "snapshots").glob("*.json")):
+        doc = json.loads(path.read_text(encoding="utf-8"))
+        meta = doc.get("meta", {})
+        if meta.get("ranking_status") == "close_confirmed" and meta.get("quote_date", "") < today.isoformat():
+            if best is None or meta["quote_date"] >= best[1]["meta"]["quote_date"]:
+                best = (f"snapshots/{path.name}", doc)
+    if best:
+        prev_close = snapshot_base(output_dir, *best)
+    if prev_close is None:
+        try:
+            prev_close = (prev_close_fallback or em_prev_close_base)(today)
+        except (OSError, ValueError, KeyError) as exc:
+            print(f"上一交易日收盘基准取不到，退回静态百强：{exc}", file=sys.stderr)
+    return {"prev_run": prev_run or static_base(), "prev_close": prev_close or static_base()}
+
+
+def diff_members(base, ranked_all, top_n=100):
+    """相对基准的新进、退出与名次变化；退出公司带名称与当前全市场名次。"""
+    old_top = {r["code"]: r for r in base["ranked"] if r["rank"] <= top_n}
+    old_any = {r["code"]: r for r in base["ranked"]}
+    now = {r["code"]: (i, r) for i, r in enumerate(ranked_all, 1)}
+    new_top = {r["code"] for r in ranked_all[:top_n]}
+    entered = [{"code": c, "name": now[c][1]["name"], "rank": now[c][0],
+                "prev_rank": old_any.get(c, {}).get("rank")}
+               for c in sorted(new_top - set(old_top), key=lambda c: now[c][0])]
+    exited = [{"code": c, "name": now[c][1]["name"] if c in now else old_top[c]["name"],
+               "prev_rank": old_top[c]["rank"], "now_rank": now[c][0] if c in now else None,
+               "total_mv": now[c][1]["total_mv"] if c in now else None}
+              for c in sorted(set(old_top) - new_top, key=lambda c: old_top[c]["rank"])]
+    return {"base_snapshot": base["snapshot"], "base_label": base["label"],
+            "entered": entered, "exited": exited,
+            "rank_change": {c: old_top[c]["rank"] - now[c][0] for c in new_top
+                            if c in old_top and old_top[c]["rank"] != now[c][0]}}
 
 
 def board_of(code):
@@ -151,7 +231,7 @@ def board_of(code):
     return "主板"
 
 
-def build_snapshot(codes, quotes, old_members, known_profiles, slot, now):
+def build_snapshot(codes, quotes, old_members, known_profiles, slot, now, bases=None):
     if len(codes) != len(set(codes)) or set(quotes) != set(codes):
         raise ValueError(f"行情不完整：{len(quotes)}/{len(codes)}")
     timestamps = [datetime.strptime(row["quote_at"], "%Y%m%d%H%M%S").replace(tzinfo=CN_TZ)
@@ -172,7 +252,13 @@ def build_snapshot(codes, quotes, old_members, known_profiles, slot, now):
         fresh = sum(stamp.time() >= datetime.strptime("14:55", "%H:%M").time() for stamp in timestamps)
         if latest.time() < close_time or fresh < len(timestamps) * 0.95:
             raise ValueError(f"收盘行情尚未到齐：最近 {latest.time()}，14:55 后 {fresh}/{len(timestamps)}")
-    members = sorted(quotes.values(), key=lambda row: (-row["total_mv"], row["code"]))[:100]
+    ranked_all = sorted(quotes.values(), key=lambda row: (-row["total_mv"], row["code"]))
+    members = ranked_all[:100]
+    watchlist = [{"code": r["code"], "name": r["name"], "rank": i, "total_mv": r["total_mv"]}
+                 for i, r in enumerate(ranked_all[100:150], 101)]
+    if bases is None:
+        legacy = {"snapshot": None, "label": "上一版", "ranked": [{"code": c, "name": None, "rank": i} for i, c in enumerate(old_members, 1)]}
+        bases = {"prev_run": legacy, "prev_close": legacy}
     old_ranks = {code: index + 1 for index, code in enumerate(old_members)}
     new_ranks = {row["code"]: index + 1 for index, row in enumerate(members)}
     pending = {}
@@ -193,7 +279,7 @@ def build_snapshot(codes, quotes, old_members, known_profiles, slot, now):
             "quote_date": today.isoformat(), "quote_min_at": min(timestamps).isoformat(timespec="seconds"),
             "quote_max_at": latest.isoformat(timespec="seconds"),
             "ranking_metric": "total_mv_CNY", "ranking_status": "close_confirmed" if slot == "close" else "intraday_provisional",
-            "listed_count": len(codes), "quoted_count": len(quotes), "member_count": len(members),
+            "slot": slot, "listed_count": len(codes), "quoted_count": len(quotes), "member_count": len(members),
             "sources": {"codes": LIST_URL, "quotes": QUOTE_URL},
         },
         "members": members,
@@ -202,7 +288,10 @@ def build_snapshot(codes, quotes, old_members, known_profiles, slot, now):
             "exited": sorted(set(old_ranks) - set(new_ranks)),
             "rank_change": {code: old_ranks[code] - rank for code, rank in new_ranks.items()
                             if code in old_ranks and old_ranks[code] != rank},
+            "vs_prev_close": diff_members(bases["prev_close"], ranked_all),
+            "vs_prev_run": diff_members(bases["prev_run"], ranked_all),
         },
+        "watchlist": watchlist,
         "pending_profiles": pending,
     }
 
@@ -219,6 +308,14 @@ def publish(snapshot, output_dir, list_last_modified):
     filename = f"snapshots/{stamp}.json"
     snapshot["meta"]["list_last_modified"] = list_last_modified
     atomic_json(output_dir / filename, snapshot)
+    # 进出榜记录：每版追加一条，前端可直接读取历次变化
+    history_path = output_dir / "history.json"
+    history = json.loads(history_path.read_text(encoding="utf-8")) if history_path.exists() else []
+    vs = snapshot["changes"]["vs_prev_run"]
+    history.append({"snapshot": filename, "quote_date": snapshot["meta"]["quote_date"],
+                    "slot": snapshot["meta"]["slot"], "base_label": vs["base_label"],
+                    "entered": [r["code"] for r in vs["entered"]], "exited": [r["code"] for r in vs["exited"]]})
+    atomic_json(history_path, history)
     manifest = {
         "snapshot": filename, "generated_at": snapshot["meta"]["generated_at"],
         "quote_date": snapshot["meta"]["quote_date"],
@@ -236,15 +333,72 @@ def main():
     args = parser.parse_args()
     codes, list_last_modified = fetch_codes()
     quotes = fetch_all_quotes(codes)
-    old = previous_members(args.output_dir)
-    known = set(json.loads(PROFILE_FILE.read_text(encoding="utf-8"))["companies"])
-    snapshot = build_snapshot(codes, quotes, old, known, args.slot, datetime.now(CN_TZ))
+    now = datetime.now(CN_TZ)
+    bases = load_bases(args.output_dir, now.date())
+    old = [r["code"] for r in bases["prev_run"]["ranked"] if r["rank"] <= 100]
+    import profiles_store
+    known = set(profiles_store.load_verified())
+    snapshot = build_snapshot(codes, quotes, old, known, args.slot, now, bases)
     if snapshot is None:
         print("非交易日或行情仍为上一交易日：保留现有快照")
         return
+    # 行业补档失败不阻塞发布：缺的公司保持 null，下次运行重试
+    profile_problems = []
+    try:
+        import enrich_profiles
+        industry_map = enrich_profiles.load_map()
+        if not industry_map["codes"]:
+            enrich_profiles.seed(industry_map)
+        missing = enrich_profiles.apply_to_snapshot(snapshot, industry_map)
+        enrich_profiles.save_map(industry_map)
+        if missing:
+            profile_problems += missing
+            print("行业待补：" + "；".join(missing), file=sys.stderr)
+        import enrich_company
+        problems = enrich_company.apply_profiles(snapshot)
+        if problems:
+            profile_problems += problems
+            print("档案待补：" + "；".join(problems), file=sys.stderr)
+    except Exception as exc:  # 补档是附属任务，任何异常都不能阻止榜单发布
+        profile_problems.append(f"补档跳过：{type(exc).__name__} {exc}")
+        print(f"补档跳过：{type(exc).__name__} {exc}", file=sys.stderr)
     filename = publish(snapshot, args.output_dir, list_last_modified)
+    # 发布后的附属任务：失败只记日志，不影响已发布的榜单
+    try:
+        import archive_exited
+        base = bases["prev_close"]
+        base_doc = json.loads((args.output_dir / base["snapshot"]).read_text(encoding="utf-8")) if base["snapshot"] else None
+        ranked = sorted(quotes.values(), key=lambda r: (-r["total_mv"], r["code"]))
+        now_ranks = {r["code"]: (i, r["total_mv"]) for i, r in enumerate(ranked, 1)}
+        archived = archive_exited.archive(snapshot, base_doc, base["label"], args.output_dir, now_ranks=now_ranks)
+        n, problems = enrich_company.prefetch_watchlist(snapshot, known, industry_map)
+        enrich_profiles.save_map(industry_map)
+        profile_problems += problems
+        print(f"历史档 {len(archived)} 家；临界区预补档 {n} 家" + (f"，问题：{'；'.join(problems)}" if problems else ""))
+    except Exception as exc:  # 榜单已发布：附属任务失败只记日志，退出码保持 0
+        profile_problems.append(f"历史档/预补档跳过：{type(exc).__name__} {exc}")
+        print(f"历史档/预补档跳过：{type(exc).__name__} {exc}", file=sys.stderr)
+    try:
+        import build_profile_bundle
+        meta = build_profile_bundle.run(args.output_dir)["meta"]
+        if meta["missing"]:
+            profile_problems.append(f"无档案：{'、'.join(meta['missing'])}")
+    except Exception as exc:
+        profile_problems.append(f"档案包跳过：{type(exc).__name__} {exc}")
+        print(f"档案包跳过：{type(exc).__name__} {exc}", file=sys.stderr)
+    try:
+        import task_status
+        vs = snapshot["changes"]["vs_prev_close"]
+        task_status.record("live_universe", snapshot["meta"]["quote_date"],
+                           detail=f"{'收盘确认' if snapshot['meta']['ranking_status'] == 'close_confirmed' else '盘中暂定'} · 较{vs['base_label']}新进 {len(vs['entered'])}、退出 {len(vs['exited'])}",
+                           live_dir=args.output_dir)
+        task_status.record("profiles", snapshot["meta"]["quote_date"], profile_problems,
+                           detail=f"待补档 {len(snapshot['pending_profiles'])} 家", live_dir=args.output_dir)
+    except Exception as exc:
+        print(f"状态记录跳过：{type(exc).__name__} {exc}", file=sys.stderr)
     print(f"已发布 {filename}：{len(codes)} 支全市场，前 100，"
-          f"新进 {len(snapshot['changes']['entered'])}，退出 {len(snapshot['changes']['exited'])}，"
+          f"较{snapshot['changes']['vs_prev_close']['base_label']}新进 {len(snapshot['changes']['vs_prev_close']['entered'])}、"
+          f"退出 {len(snapshot['changes']['vs_prev_close']['exited'])}，"
           f"待补档 {len(snapshot['pending_profiles'])}")
 
 

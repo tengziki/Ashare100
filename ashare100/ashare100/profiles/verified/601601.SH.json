@@ -1,0 +1,663 @@
+{
+ "identity": {
+  "code": "601601",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "中国太平洋保险(集团)股份有限公司",
+  "name_abbr": "中国太保",
+  "aliases": [
+   "zgtb"
+  ],
+  "name_en": "China Pacific Insurance (Group) Co., Ltd.",
+  "pinyin_abbr": "ZGTB",
+  "former_names": [],
+  "industry_sw1": "非银金融",
+  "industry_sw2": "保险Ⅱ",
+  "list_date": "2007-12-25",
+  "province": "上海",
+  "city": "上海",
+  "website": "www.cpic.com.cn",
+  "chairman": "傅帆",
+  "employees": 91639,
+  "business_summary": "公司通过旗下子公司提供各类风险保障、财富规划以及资产管理等产品和服务",
+  "profile": "中国太平洋保险(集团)股份有限公司(以下称“太平洋保险”)成立于1991年5月13日,是国内领先的综合性保险集团,拥有人寿保险、财产保险、养老保险、健康保险、农业保险和资产管理等在内的保险全牌照,并在上海、香港、伦敦(A+H+G)三地上市。太平洋保险以“建设具有市场引领力与国际竞争力的一流保险金融服务集团”为目标愿景,为超1.8亿客户提供全方位风险保障解决方案、财富规划和资产管理服务。以“稳”筑基,主业保持稳步增长。MSCIESG评级跃升至AA级,可持续发展绩效正迈入全球综合性保险集团先进行列。太保产险、寿险在消保监管评价中保持行业领先,太平洋健康险服务质量指数在专业健康险公司排名中名列前茅。以“精”促进,价值基础进一步夯实。寿险纵深推进“长航”转型,内含价值稳步提升,业务品质持续向好,保单继续率持续优化。产险聚焦国家重大战略和重点领域,提升服务实体经济质效,通过深化客户经营,加强精细化管控,完善风险减量管理服务,综合费用率得到有效压降。公司资产管理持续打磨跨越周期的资产配置框架体系和专业化投资能力。以“新”攀高,强化高质量发展内核。公司锚定“金融五篇大文章”,助力发展新质生产力。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 28.6,
+  "change_pct": -0.8,
+  "total_mv": 275141765613.0,
+  "float_mv": 195768185613.0,
+  "total_shares": 9620341455,
+  "float_shares": 6845041455,
+  "pe_ttm": 4.88,
+  "pe_static": 5.14,
+  "pb": 0.86,
+  "ps_ttm": 0.62,
+  "turnover_rate": 0.59,
+  "amount": 1140262279.0,
+  "high_52w": 47.52,
+  "low_52w": 27.04,
+  "ytd_return": -29.83,
+  "return_1y": -20.67,
+  "return_3y": 13.18,
+  "dividend_yield": 4.02,
+  "index_members": [
+   "上证50",
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 440643000000.0,
+    "revenue_yoy": 4.37,
+    "net_profit": 26834000000.0,
+    "net_profit_yoy": 9.15,
+    "net_profit_deducted": 26699000000.0,
+    "gross_margin": null,
+    "net_margin": 6.27,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 2.79,
+    "bvps": 23.57,
+    "roe": 12.2,
+    "roa": 1.49,
+    "total_assets": 1946164000000.0,
+    "total_liab": 1713759000000.0,
+    "debt_ratio": 88.06,
+    "cash": 32545000000.0,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 1372000000.0,
+    "interest_debt": null,
+    "equity_parent": 226741000000.0,
+    "ocf": 108407000000.0,
+    "capex": 3688000000.0,
+    "fcf": 104719000000.0,
+    "ocf_to_np": 4.04
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 332140000000.0,
+    "revenue_yoy": -24.62,
+    "net_profit": 37381000000.0,
+    "net_profit_yoy": 39.3,
+    "net_profit_deducted": 37277000000.0,
+    "gross_margin": null,
+    "net_margin": 11.51,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 3.89,
+    "bvps": 23.75,
+    "roe": 19.2,
+    "roa": 1.9,
+    "total_assets": 2071336000000.0,
+    "total_liab": 1869664000000.0,
+    "debt_ratio": 90.26,
+    "cash": 33134000000.0,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 1372000000.0,
+    "interest_debt": null,
+    "equity_parent": 196477000000.0,
+    "ocf": 148664000000.0,
+    "capex": 9097000000.0,
+    "fcf": 139567000000.0,
+    "ocf_to_np": 3.98
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 323945000000.0,
+    "revenue_yoy": -2.47,
+    "net_profit": 27257000000.0,
+    "net_profit_yoy": -27.08,
+    "net_profit_deducted": 27135000000.0,
+    "gross_margin": null,
+    "net_margin": 8.62,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 2.83,
+    "bvps": 25.94,
+    "roe": 11.4,
+    "roa": 1.26,
+    "total_assets": 2343962000000.0,
+    "total_liab": 2076258000000.0,
+    "debt_ratio": 88.58,
+    "cash": 31455000000.0,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 1357000000.0,
+    "interest_debt": null,
+    "equity_parent": 249586000000.0,
+    "ocf": 137863000000.0,
+    "capex": 3988000000.0,
+    "fcf": 133875000000.0,
+    "ocf_to_np": 5.06
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 404089000000.0,
+    "revenue_yoy": 24.74,
+    "net_profit": 44960000000.0,
+    "net_profit_yoy": 64.95,
+    "net_profit_deducted": 44926000000.0,
+    "gross_margin": null,
+    "net_margin": 11.49,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 4.67,
+    "bvps": 30.29,
+    "roe": 16.6,
+    "roa": 1.79,
+    "total_assets": 2834907000000.0,
+    "total_liab": 2516426000000.0,
+    "debt_ratio": 88.77,
+    "cash": 29357000000.0,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 1357000000.0,
+    "interest_debt": null,
+    "equity_parent": 291417000000.0,
+    "ocf": 154404000000.0,
+    "capex": 3878000000.0,
+    "fcf": 150526000000.0,
+    "ocf_to_np": 3.43
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 435156000000.0,
+    "revenue_yoy": 7.69,
+    "net_profit": 53505000000.0,
+    "net_profit_yoy": 19.01,
+    "net_profit_deducted": 52330000000.0,
+    "gross_margin": null,
+    "net_margin": 12.73,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 5.56,
+    "bvps": 31.41,
+    "roe": 18.0,
+    "roa": 1.85,
+    "total_assets": 3144767000000.0,
+    "total_liab": 2810543000000.0,
+    "debt_ratio": 89.37,
+    "cash": 62789000000.0,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 1357000000.0,
+    "interest_debt": null,
+    "equity_parent": 302143000000.0,
+    "ocf": 195523000000.0,
+    "capex": 4284000000.0,
+    "fcf": 191239000000.0,
+    "ocf_to_np": 3.65
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 212136000000.0,
+   "revenue_yoy": 5.81,
+   "net_profit": 30775000000.0,
+   "net_profit_yoy": 10.36,
+   "net_profit_deducted": 29784000000.0,
+   "gross_margin": null,
+   "net_margin": 14.92,
+   "roe": 9.7,
+   "eps": 3.2,
+   "debt_ratio": 89.3,
+   "ocf": 115080000000.0
+  },
+  "derived": {
+   "revenue_cagr_3y": 9.42,
+   "net_profit_cagr_3y": 12.7,
+   "receivables_to_revenue": null,
+   "goodwill_to_equity": 0.45
+  }
+ },
+ "shareholders": {
+  "controller": "无实际控制人",
+  "controlling_shareholder": "申能(集团)有限公司",
+  "controlling_ratio": 14.05,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "香港中央结算(代理人)有限公司",
+    "hold_num": 2772801017,
+    "hold_ratio": 28.82,
+    "hold_num_change": 7400
+   },
+   {
+    "rank": 2,
+    "name": "申能(集团)有限公司",
+    "hold_num": 1352129014,
+    "hold_ratio": 14.05,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "华宝投资有限公司",
+    "hold_num": 1284277846,
+    "hold_ratio": 13.35,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "上海国有资产经营有限公司",
+    "hold_num": 609929956,
+    "hold_ratio": 6.34,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "上海海烟投资管理有限公司",
+    "hold_num": 468828104,
+    "hold_ratio": 4.87,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "香港中央结算有限公司",
+    "hold_num": 238020463,
+    "hold_ratio": 2.47,
+    "hold_num_change": 72429230
+   },
+   {
+    "rank": 7,
+    "name": "上海久事(集团)有限公司",
+    "hold_num": 146539460,
+    "hold_ratio": 1.52,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "中国证券金融股份有限公司",
+    "hold_num": 141090934,
+    "hold_ratio": 1.47,
+    "hold_num_change": -124234133
+   },
+   {
+    "rank": 9,
+    "name": "上海国际集团有限公司",
+    "hold_num": 97128700,
+    "hold_ratio": 1.01,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 10,
+    "name": "云南合和(集团)股份有限公司",
+    "hold_num": 91868387,
+    "hold_ratio": 0.95,
+    "hold_num_change": 0
+   }
+  ],
+  "holder_num": 128438,
+  "holder_num_change_pct": 35.79,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 9.61,
+  "northbound_ratio": 2.47,
+  "executives": [
+   {
+    "name": "傅帆",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "赵永刚",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "苏少军",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.13,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 1.0,
+    "total_amount": 9620341455.0,
+    "payout_ratio": 35.85,
+    "dividend_yield": 4.37,
+    "ex_date": "2022-07-11"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 1.02,
+    "total_amount": 9812748284.1,
+    "payout_ratio": 26.25,
+    "dividend_yield": 3.77,
+    "ex_date": "2023-06-29"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 1.02,
+    "total_amount": 9812748284.1,
+    "payout_ratio": 36.0,
+    "dividend_yield": 3.61,
+    "ex_date": "2024-07-12"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 1.08,
+    "total_amount": 10389968771.4,
+    "payout_ratio": 23.11,
+    "dividend_yield": 2.86,
+    "ex_date": "2025-07-18"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 1.15,
+    "total_amount": 11063392673.25,
+    "payout_ratio": 20.68,
+    "dividend_yield": 3.71,
+    "ex_date": "2026-07-17"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 50699199467.85,
+  "cum_netprofit_5y": 189937000000.0,
+  "payout_5y": 26.69,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [
+   "601628.SH",
+   "601318.SH",
+   "601319.SH",
+   "601336.SH"
+  ],
+  "segments": [
+   {
+    "name": "人寿及健康保险",
+    "revenue": 215598000000.0,
+    "ratio": 49.55,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "财产保险",
+    "revenue": 210117000000.0,
+    "ratio": 48.29,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "资产管理",
+    "revenue": 4846000000.0,
+    "ratio": 1.11,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他及抵销",
+    "revenue": 4595000000.0,
+    "ratio": 1.06,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他地区",
+    "revenue": 168197000000.0,
+    "ratio": 33.82,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "江苏",
+    "revenue": 57511000000.0,
+    "ratio": 11.56,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "浙江",
+    "revenue": 51391000000.0,
+    "ratio": 10.33,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "广东",
+    "revenue": 47049000000.0,
+    "ratio": 9.46,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "上海",
+    "revenue": 35410000000.0,
+    "ratio": 7.12,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "山东",
+    "revenue": 31763000000.0,
+    "ratio": 6.39,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "河南",
+    "revenue": 28565000000.0,
+    "ratio": 5.74,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "河北",
+    "revenue": 20905000000.0,
+    "ratio": 4.2,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "北京",
+    "revenue": 19521000000.0,
+    "ratio": 3.92,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "山西",
+    "revenue": 10690000000.0,
+    "ratio": 2.15,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "湖北",
+    "revenue": 10630000000.0,
+    "ratio": 2.14,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "中国太保关于召开2026年第三季度业绩说明会的公告",
+    "date": "2026-10-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612707.PDF",
+    "type": null
+   },
+   {
+    "title": "中国太保H股公告",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225605265.PDF",
+    "type": null
+   },
+   {
+    "title": "中国太保2026年半年度分红派息实施公告",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225604929.PDF",
+    "type": null
+   },
+   {
+    "title": "中国太保H股公告",
+    "date": "2026-10-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225590595.PDF",
+    "type": null
+   },
+   {
+    "title": "中国太保关于参加2026年上海辖区上市公司集体接待日暨中报业绩说明会活动的公告",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225559613.PDF",
+    "type": null
+   },
+   {
+    "title": "中国太保H股公告",
+    "date": "2026-09-02",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-02/1225540951.PDF",
+    "type": null
+   },
+   {
+    "title": "中国太保2026年半年度报告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225518250.PDF",
+    "type": null
+   },
+   {
+    "title": "中国太保：太平洋安信农业保险股份有限公司偿付能力季度报告摘要节录",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225518243.PDF",
+    "type": null
+   },
+   {
+    "title": "中国太保：偿付能力报告摘要节录（2026年半年度）",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225518241.PDF",
+    "type": null
+   },
+   {
+    "title": "中国太保：太平洋健康保险股份有限公司偿付能力季度报告摘要节录",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225518235.PDF",
+    "type": null
+   },
+   {
+    "title": "中国太保：中期业绩推介材料",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225518233.PDF",
+    "type": null
+   },
+   {
+    "title": "中国太保2026年半年度报告摘要",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225518228.PDF",
+    "type": null
+   },
+   {
+    "title": "中国太保2026年中期利润分配方案公告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225518227.PDF",
+    "type": null
+   },
+   {
+    "title": "中国太保第十届董事会第二十五次会议决议公告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225518226.PDF",
+    "type": null
+   },
+   {
+    "title": "中国太保：中国太平洋人寿保险股份有限公司偿付能力季度报告摘要节录",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225518216.PDF",
+    "type": null
+   },
+   {
+    "title": "中国太保：中国太平洋财产保险股份有限公司偿付能力季度报告摘要节录",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225518206.PDF",
+    "type": null
+   },
+   {
+    "title": "中国太保关于召开2026年中期业绩说明会的公告",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482909.PDF",
+    "type": null
+   },
+   {
+    "title": "中国太保H股公告",
+    "date": "2026-08-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-14/1225472002.PDF",
+    "type": null
+   },
+   {
+    "title": "中国太保关于董事离任的公告",
+    "date": "2026-08-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-12/1225468268.PDF",
+    "type": null
+   },
+   {
+    "title": "中国太保H股公告",
+    "date": "2026-08-04",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-04/1225454514.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 110
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "请问贵司对产险湖南分公司2023年度财务数据不真实是如何处理的，是否进行了问责？集团年度财报是否剔除了该因素",
+    "answer": "感谢您的关注。公司始终坚持依法合规经营，持续完善内部控制和风险管理体系，严格按照相关法律法规及监管要求开展经营管理和财务信息披露工作。作为上市公司，公司严格遵循企业会计准则及相关信息披露规定，年度财务报表均经外部审计机构审计。公司将持续加强财务管理和内部控制建设，不断提升规范运作水平。",
+    "ask_date": "2026-10-09",
+    "answer_date": "2026-10-16",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1601"
+   },
+   {
+    "question": "公司中期分红要准备拖到猴年马月才能实施？去年公司通过的回购公司股票，还会不会继续实施？是不是存在欺骗股东的行为？",
+    "answer": "感谢您的关注。根据股东会授权，公司董事会于2026年8月27日审议通过2026年中期分红方案，方案为每股派发现金红利人民币0.42元（含税）。根据公司于2026年10月15日发布的公告，A股股权登记日为2026年10月22日，除权（息）日及现金红利发放日均为2026年10月23日。 公司始终高度重视股东回报，努力为投资者创造稳健、可持续的回报。关于股份回购事项，目前暂无可披露信息。",
+    "ask_date": "2026-10-08",
+    "answer_date": "2026-10-16",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1601"
+   },
+   {
+    "question": "股价长期低迷，为啥不增持自己股票而去买别人家的股票？",
+    "answer": "感谢您的关注。公司始终高度重视股东回报工作，努力为投资者创造稳健、可持续的回报。2026年公司已实施中期分红0.42元/股，与股东共享公司发展红利。关于股份回购事项，目前暂无可披露信息。",
+    "ask_date": "2026-09-29",
+    "answer_date": "2026-10-16",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1601"
+   }
+  ],
+  "count_12m": null
+ }
+}

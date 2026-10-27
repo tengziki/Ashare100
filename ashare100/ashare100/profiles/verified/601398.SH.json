@@ -1,0 +1,675 @@
+{
+ "identity": {
+  "code": "601398",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "中国工商银行股份有限公司",
+  "name_abbr": "工商银行",
+  "aliases": [
+   "工行",
+   "gsyh"
+  ],
+  "name_en": "Industrial And Commercial Bank Of China Limited",
+  "pinyin_abbr": "GSYH",
+  "former_names": [],
+  "industry_sw1": "银行",
+  "industry_sw2": "国有大型银行Ⅱ",
+  "list_date": "2006-10-27",
+  "province": "北京",
+  "city": "北京",
+  "website": "www.icbc.com.cn",
+  "chairman": "廖林",
+  "employees": 409758,
+  "business_summary": "提供公司金融、普惠金融、机构金融、个人金融、投资银行、资产管理等综合金融服务",
+  "profile": "中国工商银行股份有限公司成立于1984年1月1日。2005年10月28日,本行整体改制为股份有限公司。2006年10月27日,本行成功在上交所和香港联交所同日挂牌上市。本行致力于建设中国特色世界一流现代金融机构,拥有优质的客户基础、多元的业务结构、强劲的创新能力和市场竞争力。本行将服务作为立行之本,坚持以服务创造价值,向全球对公客户和个人客户提供丰富的金融产品和优质的金融服务,以自身高质量发展服务经济社会高质量发展。本行自觉将社会责任融入发展战略和经营管理活动,在服务制造业、发展普惠金融、支持乡村振兴、发展绿色金融、支持公益事业等方面受到广泛赞誉。本行始终聚焦主业,坚持服务实体经济的本源,与实体经济共荣共存、共担风雨、共同成长;始终坚持风险为本,牢牢守住底线,不断提高控制和化解风险的能力;始终坚持对商业银行经营规律的把握与遵循,致力于成为基业长青的银行;始终坚持稳中求进、创新求进,持续深化重点发展战略,积极发展金融科技,加快数智化转型;始终坚持专业专注,开拓专业化经营模式,锻造“大行工匠”。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 8.59,
+  "change_pct": 1.66,
+  "total_mv": 3061529748394.51,
+  "float_mv": 2315968905710.01,
+  "total_shares": 356406257089,
+  "float_shares": 269612212539,
+  "pe_ttm": 8.18,
+  "pe_static": 8.31,
+  "pb": 0.77,
+  "ps_ttm": 3.49,
+  "turnover_rate": 0.16,
+  "amount": 3762285619.0,
+  "high_52w": 8.65,
+  "low_52w": 6.53,
+  "ytd_return": 12.88,
+  "return_1y": 17.69,
+  "return_3y": 131.29,
+  "dividend_yield": 3.61,
+  "index_members": [
+   "上证50",
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 942762000000.0,
+    "revenue_yoy": 6.81,
+    "net_profit": 348338000000.0,
+    "net_profit_yoy": 10.27,
+    "net_profit_deducted": 345899000000.0,
+    "gross_margin": null,
+    "net_margin": 37.15,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 0.95,
+    "bvps": 8.15,
+    "roe": 12.15,
+    "roa": 1.02,
+    "total_assets": 35171383000000.0,
+    "total_liab": 31896125000000.0,
+    "debt_ratio": 90.69,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": 3257755000000.0,
+    "ocf": 360882000000.0,
+    "capex": 21862000000.0,
+    "fcf": 339020000000.0,
+    "ocf_to_np": 1.04
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 875734000000.0,
+    "revenue_yoy": -7.11,
+    "net_profit": 361132000000.0,
+    "net_profit_yoy": 3.67,
+    "net_profit_deducted": 358558000000.0,
+    "gross_margin": null,
+    "net_margin": 41.35,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 0.97,
+    "bvps": 8.81,
+    "roe": 11.45,
+    "roa": 0.97,
+    "total_assets": 39610146000000.0,
+    "total_liab": 36094727000000.0,
+    "debt_ratio": 91.12,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": 3496109000000.0,
+    "ocf": 1404657000000.0,
+    "capex": 13713000000.0,
+    "fcf": 1390944000000.0,
+    "ocf_to_np": 3.89
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 843070000000.0,
+    "revenue_yoy": -3.73,
+    "net_profit": 363993000000.0,
+    "net_profit_yoy": 0.79,
+    "net_profit_deducted": 361411000000.0,
+    "gross_margin": null,
+    "net_margin": 43.31,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 0.98,
+    "bvps": 9.55,
+    "roe": 10.66,
+    "roa": 0.87,
+    "total_assets": 44697079000000.0,
+    "total_liab": 40920491000000.0,
+    "debt_ratio": 91.55,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": 3756887000000.0,
+    "ocf": 1417002000000.0,
+    "capex": 14494000000.0,
+    "fcf": 1402508000000.0,
+    "ocf_to_np": 3.89
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 821803000000.0,
+    "revenue_yoy": -2.52,
+    "net_profit": 365863000000.0,
+    "net_profit_yoy": 0.51,
+    "net_profit_deducted": 364277000000.0,
+    "gross_margin": null,
+    "net_margin": 44.65,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 0.98,
+    "bvps": 10.23,
+    "roe": 9.88,
+    "roa": 0.78,
+    "total_assets": 48821746000000.0,
+    "total_liab": 44834480000000.0,
+    "debt_ratio": 91.83,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": 3969841000000.0,
+    "ocf": 579194000000.0,
+    "capex": 35585000000.0,
+    "fcf": 543609000000.0,
+    "ocf_to_np": 1.58
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 838270000000.0,
+    "revenue_yoy": 2.0,
+    "net_profit": 368562000000.0,
+    "net_profit_yoy": 0.74,
+    "net_profit_deducted": 368126000000.0,
+    "gross_margin": null,
+    "net_margin": 44.23,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.0,
+    "bvps": 10.83,
+    "roe": 9.45,
+    "roa": 0.72,
+    "total_assets": 53477773000000.0,
+    "total_liab": 49205749000000.0,
+    "debt_ratio": 92.01,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": 4244259000000.0,
+    "ocf": 1890530000000.0,
+    "capex": 38239000000.0,
+    "fcf": 1852291000000.0,
+    "ocf_to_np": 5.13
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 465859000000.0,
+   "revenue_yoy": 9.08,
+   "net_profit": 173682000000.0,
+   "net_profit_yoy": 3.32,
+   "net_profit_deducted": 173082000000.0,
+   "gross_margin": null,
+   "net_margin": 37.88,
+   "roe": 4.32,
+   "eps": 0.47,
+   "debt_ratio": 92.37,
+   "ocf": 1369013000000.0
+  },
+  "derived": {
+   "revenue_cagr_3y": -1.45,
+   "net_profit_cagr_3y": 0.68,
+   "receivables_to_revenue": null,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "无实际控制人",
+  "controlling_shareholder": "中央汇金投资有限责任公司",
+  "controlling_ratio": 34.79,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "中央汇金投资有限责任公司",
+    "hold_num": 124004660940,
+    "hold_ratio": 34.79,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "中华人民共和国财政部",
+    "hold_num": 110984806678,
+    "hold_ratio": 31.14,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "香港中央结算(代理人)有限公司",
+    "hold_num": 86207551427,
+    "hold_ratio": 24.19,
+    "hold_num_change": 10383996
+   },
+   {
+    "rank": 4,
+    "name": "全国社会保障基金理事会",
+    "hold_num": 12331645186,
+    "hold_ratio": 3.46,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "中国证券金融股份有限公司",
+    "hold_num": 2416131540,
+    "hold_ratio": 0.68,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "香港中央结算有限公司",
+    "hold_num": 1500902770,
+    "hold_ratio": 0.42,
+    "hold_num_change": -12174264
+   },
+   {
+    "rank": 7,
+    "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+    "hold_num": 1498342062,
+    "hold_ratio": 0.42,
+    "hold_num_change": 23558581
+   },
+   {
+    "rank": 8,
+    "name": "中央汇金资产管理有限责任公司",
+    "hold_num": 1013921700,
+    "hold_ratio": 0.28,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "太平人寿保险有限公司",
+    "hold_num": 379933713,
+    "hold_ratio": 0.11,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 10,
+    "name": "国丰兴华(北京)私募基金管理有限公司-国丰兴华鸿鹄志远三期私募证券投资基金1号",
+    "hold_num": 289539799,
+    "hold_ratio": 0.08,
+    "hold_num_change": 0
+   }
+  ],
+  "holder_num": 807660,
+  "holder_num_change_pct": 2.46,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 1.38,
+  "northbound_ratio": 0.42,
+  "executives": [
+   {
+    "name": "廖林",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "刘珺",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "田枫林",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.12,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.2933,
+    "total_amount": 104533955204.2,
+    "payout_ratio": 30.01,
+    "dividend_yield": 6.12,
+    "ex_date": "2022-07-12"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.3035,
+    "total_amount": 108169299026.51,
+    "payout_ratio": 29.95,
+    "dividend_yield": 6.23,
+    "ex_date": "2023-07-17"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.3064,
+    "total_amount": 109202877172.07,
+    "payout_ratio": 30.0,
+    "dividend_yield": 4.94,
+    "ex_date": "2024-07-16"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.308,
+    "total_amount": 109773127183.41,
+    "payout_ratio": 30.0,
+    "dividend_yield": 2.09,
+    "ex_date": "2025-01-07"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.3103,
+    "total_amount": 110592861574.72,
+    "payout_ratio": 30.01,
+    "dividend_yield": 2.04,
+    "ex_date": "2025-12-15"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 542272120160.91,
+  "cum_netprofit_5y": 1807888000000.0,
+  "payout_5y": 29.99,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "601939.SH",
+   "601288.SH",
+   "601988.SH",
+   "601328.SH"
+  ],
+  "segments": [
+   {
+    "name": "公司金融业务",
+    "revenue": 410676000000.0,
+    "ratio": 48.99,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "个人金融业务",
+    "revenue": 327739000000.0,
+    "ratio": 39.1,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "资金业务",
+    "revenue": 93990000000.0,
+    "ratio": 11.21,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他",
+    "revenue": 5865000000.0,
+    "ratio": 0.7,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "环渤海地区",
+    "revenue": 168835000000.0,
+    "ratio": 20.14,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "长江三角洲",
+    "revenue": 151689000000.0,
+    "ratio": 18.1,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "西部地区",
+    "revenue": 120748000000.0,
+    "ratio": 14.4,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "境外及其他",
+    "revenue": 114415000000.0,
+    "ratio": 13.65,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "中部地区",
+    "revenue": 107712000000.0,
+    "ratio": 12.85,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "珠江三角洲",
+    "revenue": 98902000000.0,
+    "ratio": 11.8,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "总行",
+    "revenue": 49431000000.0,
+    "ratio": 5.9,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "抵销",
+    "revenue": -1322000000.0,
+    "ratio": -0.16,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "工商银行H股公告",
+    "date": "2026-10-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-22/1225613849.PDF",
+    "type": null
+   },
+   {
+    "title": "工商银行H股公告",
+    "date": "2026-10-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225611980.PDF",
+    "type": null
+   },
+   {
+    "title": "工商银行关于2026年二级资本债券（第六期）（债券通）发行完毕的公告",
+    "date": "2026-10-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225606723.PDF",
+    "type": null
+   },
+   {
+    "title": "关于中国工商银行股份有限公司向特定对象发行股票申请文件的审核问询函的回复",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225605178.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市金杜律师事务所关于中国工商银行股份有限公司向特定对象发行A股股票之补充法律意见书（一）",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225605175.PDF",
+    "type": null
+   },
+   {
+    "title": "安永华明会计师事务所（特殊普通合伙）关于中国工商银行股份有限公司向特定对象发行股票申请文件审核问询函回复的专项说明",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225605171.PDF",
+    "type": null
+   },
+   {
+    "title": "工商银行关于向特定对象发行股票申请文件的审核问询函回复的提示性公告",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225605157.PDF",
+    "type": null
+   },
+   {
+    "title": "工商银行A股2026年半年度分红派息实施公告",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225604972.PDF",
+    "type": null
+   },
+   {
+    "title": "中信证券股份有限公司、中国国际金融股份有限公司关于中国工商银行股份有限公司向特定对象发行A股股票之上市保荐书",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597782.PDF",
+    "type": null
+   },
+   {
+    "title": "中国工商银行股份有限公司向特定对象发行A股股票募集说明书（申报稿）",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597781.PDF",
+    "type": null
+   },
+   {
+    "title": "工商银行关于向特定对象发行A股股票申请获得上海证券交易所受理的公告",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597778.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市金杜律师事务所关于中国工商银行股份有限公司向特定对象发行A股股票之法律意见书",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597777.PDF",
+    "type": null
+   },
+   {
+    "title": "安永华明会计师事务所（特殊普通合伙）关于中国工商银行股份有限公司向特定对象发行A股股票的财务报告及审计报告",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597776.PDF",
+    "type": null
+   },
+   {
+    "title": "中信证券股份有限公司、中国国际金融股份有限公司关于中国工商银行股份有限公司向特定对象发行A股股票之发行保荐书",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597775.PDF",
+    "type": null
+   },
+   {
+    "title": "工商银行H股公告",
+    "date": "2026-10-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225590303.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市金杜律师事务所关于中国工商银行股份有限公司2026年第二次临时股东会之法律意见书",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225588830.PDF",
+    "type": null
+   },
+   {
+    "title": "工商银行2026年第二次临时股东会决议公告",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225588828.PDF",
+    "type": null
+   },
+   {
+    "title": "工商银行关于境外无固定期限资本债券赎回完成的公告",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225584819.PDF",
+    "type": null
+   },
+   {
+    "title": "工商银行H股公告-2026中期报告",
+    "date": "2026-09-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-25/1225581982.PDF",
+    "type": null
+   },
+   {
+    "title": "工商银行关于境内优先股“工行优2”股息派发实施的公告",
+    "date": "2026-09-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-16/1225565912.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 144
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "董秘：作为投资者，关注到分支机构执行案件长期零履行，案号（2026）陕0302执1122、1123、1124、1125号。请问：1.对分支机构履行生效法律文书是否建立统一督导考核机制？2.因权限无法履行时，总行是否有协调支持流程？3.拒不履行被罚款、失信是否纳入合规评价？",
+    "answer": null,
+    "ask_date": "2026-10-22",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1398"
+   },
+   {
+    "question": "从2022年底到现在，四大行的涨幅是这样的：农业银行涨了267%，工商银行172%，中国银行211%，建设银行182%。农业银行2025年10月市净率一度站上1倍，是2018年3月以来第一次打破国有大行长达七年的“破净”局面。工商银行表现最差，管理层分析一下什么原因有何改善措施！",
+    "answer": null,
+    "ask_date": "2026-10-19",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1398"
+   },
+   {
+    "question": "我长期持有工商银行股票。工行常年盈利扎实、现金流稳定，希望能提高现金分红比例到50%。我们普通投资者看重稳定股息回报，更高的分红能让我们长期持股更有底气。",
+    "answer": null,
+    "ask_date": "2026-10-14",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1398"
+   },
+   {
+    "question": "您好，我是从2019年就持有咱们工行股票的坚定拥护者，这么多年只加仓从未减仓，我呼吁工行将分红比例提高到50%，非常非常期望可以实现这一愿望。",
+    "answer": null,
+    "ask_date": "2026-10-13",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1398"
+   },
+   {
+    "question": "多年的投资经历让我深知，稳健的分红是衡量一家银行健康程度与回报能力的关键指标。目前合理的分配比例难以满足日益增长的资本回报预期，我恳请管理层重新审视现有的利润分配方案。若能果断提高至五成水平，不仅能增强投资者信心，更能激发市场活力。期待这一提议能尽快得到积极回应并落实执行。",
+    "answer": null,
+    "ask_date": "2026-10-12",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1398"
+   },
+   {
+    "question": "建议工商银行管理层将这次定增价格不低于1倍PB，既保护原有股东权益不被稀释，又向资本市场传递积极的估值修复信息，同时也鞭策管理层做大做强做优工商银行回报投资者。努力将ROE提升到15%做为奋斗目标。",
+    "answer": null,
+    "ask_date": "2026-10-12",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1398"
+   },
+   {
+    "question": "董秘：作为投资者，关注到分支机构执行案件长期零履行，案号（2026）陕0302执1122、1123、1124、1125号。均为银行卡纠纷，经调解书确认应提供对账单及交易明细，但执行中未提交任何材料。请问：1.对分支机构履行生效法律文书是否建立统一督导考核机制？2.因权限无法履行时，总行是否有协调支持流程？3.拒不履行被罚款、失信是否纳入合规评价？",
+    "answer": null,
+    "ask_date": "2026-10-08",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1398"
+   }
+  ],
+  "count_12m": null
+ }
+}

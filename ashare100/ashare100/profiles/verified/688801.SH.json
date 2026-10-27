@@ -1,0 +1,577 @@
+{
+ "identity": {
+  "code": "688801",
+  "exchange": "SH",
+  "board": "科创板",
+  "name_full": "上海燧原科技股份有限公司",
+  "name_abbr": "燧原科技-U",
+  "aliases": [
+   "sykj",
+   "燧原科技"
+  ],
+  "name_en": "Shanghai Enflame Technology Co., Ltd.",
+  "pinyin_abbr": "SYKJ",
+  "former_names": [],
+  "industry_sw1": "电子",
+  "industry_sw2": "半导体",
+  "list_date": "2026-09-11",
+  "province": "上海",
+  "city": "上海",
+  "website": "www.enflame-tech.com",
+  "chairman": "ZHAO LIDONG",
+  "employees": 838,
+  "business_summary": "从事云端AI芯片及相关产品的研发、设计和销售",
+  "profile": "上海燧原科技股份有限公司是我国云端AI芯片领域的领军企业之一,致力于成为“通用人工智能基础设施领军企业”。公司坚持原始创新、自主研发的技术路线,构筑长期可持续发展的核心竞争力和护城河。成立8年来,公司自研迭代了四代架构5款云端AI芯片,构建了覆盖AI芯片、AI加速卡及模组、智算系统及集群和AI计算及编程软件平台的产品体系。 主营业务：从事云端AI芯片及相关产品的研发、设计和销售。 经营范围包括：一般项目:集成电路、计算机硬件研发、批发、零售,自有研发成果转让,并提供相关技。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 412.05,
+  "change_pct": -7.43,
+  "total_mv": 177326429522.4,
+  "float_mv": 7375828916.25,
+  "total_shares": 430351728,
+  "float_shares": 17900325,
+  "pe_ttm": -149.55,
+  "pe_static": -152.36,
+  "pb": 67.07,
+  "ps_ttm": 97.7,
+  "turnover_rate": 9.82,
+  "amount": 751172801.0,
+  "high_52w": 564.46,
+  "low_52w": 369.9,
+  "ytd_return": null,
+  "return_1y": null,
+  "return_3y": null,
+  "dividend_yield": 0.0,
+  "index_members": []
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": null,
+    "revenue_yoy": null,
+    "net_profit": null,
+    "net_profit_yoy": null,
+    "net_profit_deducted": null,
+    "gross_margin": null,
+    "net_margin": null,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": null,
+    "bvps": null,
+    "roe": null,
+    "roa": null,
+    "total_assets": null,
+    "total_liab": null,
+    "debt_ratio": null,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": null,
+    "ocf": null,
+    "capex": null,
+    "fcf": null,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 90103757.37,
+    "revenue_yoy": null,
+    "net_profit": -1116003599.44,
+    "net_profit_yoy": null,
+    "net_profit_deducted": -1149687600.0,
+    "gross_margin": 77.88,
+    "net_margin": -1238.58,
+    "selling_expense_ratio": 115.72,
+    "admin_expense_ratio": 118.3,
+    "finance_expense_ratio": -11.44,
+    "rd_expense": 987644172.54,
+    "rd_ratio": 1096.12,
+    "eps": null,
+    "bvps": 288.51,
+    "roe": -84.09,
+    "roa": -138.22,
+    "total_assets": 1614828980.89,
+    "total_liab": 479361534.07,
+    "debt_ratio": 29.68,
+    "cash": 345231276.98,
+    "receivables": 81822730.48,
+    "inventory": 274737778.37,
+    "goodwill": null,
+    "interest_debt": 92735053.73,
+    "equity_parent": 1135467446.82,
+    "ocf": -987252549.43,
+    "capex": 182619523.85,
+    "fcf": -1169872073.28,
+    "ocf_to_np": 0.88
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 301187416.13,
+    "revenue_yoy": 234.27,
+    "net_profit": -1664590847.31,
+    "net_profit_yoy": -49.16,
+    "net_profit_deducted": -1566685400.0,
+    "gross_margin": 22.97,
+    "net_margin": -552.68,
+    "selling_expense_ratio": 42.24,
+    "admin_expense_ratio": 46.95,
+    "finance_expense_ratio": -1.51,
+    "rd_expense": 1228875806.0,
+    "rd_ratio": 408.01,
+    "eps": -5.41,
+    "bvps": 19.45,
+    "roe": -211.52,
+    "roa": -80.12,
+    "total_assets": 2540551945.2,
+    "total_liab": 512671097.81,
+    "debt_ratio": 20.18,
+    "cash": 1510867132.69,
+    "receivables": 231479141.02,
+    "inventory": 102143023.36,
+    "goodwill": null,
+    "interest_debt": 75685550.55,
+    "equity_parent": 2027880847.39,
+    "ocf": -1209004085.78,
+    "capex": 234962715.25,
+    "fcf": -1443966801.03,
+    "ocf_to_np": 0.73
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 722387355.57,
+    "revenue_yoy": 139.85,
+    "net_profit": -1510315827.73,
+    "net_profit_yoy": 9.27,
+    "net_profit_deducted": -1502693800.0,
+    "gross_margin": 30.75,
+    "net_margin": -209.07,
+    "selling_expense_ratio": 20.35,
+    "admin_expense_ratio": 28.57,
+    "finance_expense_ratio": 0.8,
+    "rd_expense": 1312293833.27,
+    "rd_ratio": 181.66,
+    "eps": -4.61,
+    "bvps": 10.74,
+    "roe": -87.98,
+    "roa": -36.1,
+    "total_assets": 5827287448.18,
+    "total_liab": 1666306438.34,
+    "debt_ratio": 28.59,
+    "cash": 3521568990.7,
+    "receivables": 472745976.51,
+    "inventory": 796900962.19,
+    "goodwill": null,
+    "interest_debt": 651888553.76,
+    "equity_parent": 4160981009.84,
+    "ocf": -1797737846.24,
+    "capex": 214609547.07,
+    "fcf": -2012347393.31,
+    "ocf_to_np": 1.19
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 990160002.57,
+    "revenue_yoy": 37.07,
+    "net_profit": -1163880953.47,
+    "net_profit_yoy": 22.94,
+    "net_profit_deducted": -1197261100.0,
+    "gross_margin": 31.9,
+    "net_margin": -117.54,
+    "selling_expense_ratio": 13.9,
+    "admin_expense_ratio": 17.71,
+    "finance_expense_ratio": 0.86,
+    "rd_expense": 1134990225.68,
+    "rd_ratio": 114.63,
+    "eps": -3.0,
+    "bvps": 8.13,
+    "roe": -31.85,
+    "roa": -22.49,
+    "total_assets": 4522305157.04,
+    "total_liab": 1374943010.78,
+    "debt_ratio": 30.4,
+    "cash": 2155456244.92,
+    "receivables": 218547322.55,
+    "inventory": 863489681.23,
+    "goodwill": null,
+    "interest_debt": 655683168.6,
+    "equity_parent": 3147362146.26,
+    "ocf": -965087130.79,
+    "capex": 407594231.56,
+    "fcf": -1372681362.35,
+    "ocf_to_np": 0.83
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 1120307584.61,
+   "revenue_yoy": 279.08,
+   "net_profit": -632371070.34,
+   "net_profit_yoy": -3.57,
+   "net_profit_deducted": -634150300.0,
+   "gross_margin": 30.37,
+   "net_margin": -56.45,
+   "roe": null,
+   "eps": -1.63,
+   "debt_ratio": 78.7,
+   "ocf": -877809171.96
+  },
+  "derived": {
+   "revenue_cagr_3y": 122.32,
+   "net_profit_cagr_3y": null,
+   "receivables_to_revenue": 22.07,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "张亚林,ZHAO LIDONG",
+  "controlling_shareholder": "腾讯科技(上海)有限公司",
+  "controlling_ratio": 17.95,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "腾讯科技(上海)有限公司",
+    "hold_num": 77266962,
+    "hold_ratio": 17.95,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "张亚林",
+    "hold_num": 34720394,
+    "hold_ratio": 8.07,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "ZHAO LIDONG",
+    "hold_num": 34720394,
+    "hold_ratio": 8.07,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "上海燧原汇智信息科技咨询合伙企业(有限合伙)",
+    "hold_num": 33540180,
+    "hold_ratio": 7.79,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "国家集成电路产业投资基金二期股份有限公司",
+    "hold_num": 16739467,
+    "hold_ratio": 3.89,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "上海国方金浦智算企业管理合伙企业(有限合伙)",
+    "hold_num": 13715458,
+    "hold_ratio": 3.19,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "上海武岳峰二期集成电路股权投资合伙企业(有限合伙)",
+    "hold_num": 11854585,
+    "hold_ratio": 2.75,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "大连允泰一号高科技股权投资基金合伙企业(有限合伙)",
+    "hold_num": 7830838,
+    "hold_ratio": 1.82,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "北京燧清科技发展合伙企业(有限合伙)",
+    "hold_num": 6868957,
+    "hold_ratio": 1.6,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 10,
+    "name": "上海武岳峰三期私募投资基金合伙企业(有限合伙)",
+    "hold_num": 6865058,
+    "hold_ratio": 1.6,
+    "hold_num_change": 0
+   }
+  ],
+  "holder_num": 28885,
+  "holder_num_change_pct": 28218.63,
+  "holder_num_date": "2026-09-11",
+  "inst_hold_ratio": null,
+  "northbound_ratio": null,
+  "executives": [
+   {
+    "name": "ZHAO LIDONG",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "张亚林",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "ZHAO LIDONG",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.0,
+  "unlock_12m": [
+   {
+    "date": "2027-03-11",
+    "shares": 229497,
+    "ratio": 0.05
+   },
+   {
+    "date": "2027-06-11",
+    "shares": 16298317,
+    "ratio": 3.79
+   },
+   {
+    "date": "2027-09-13",
+    "shares": 186884812,
+    "ratio": 43.43
+   }
+  ]
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   }
+  ],
+  "consecutive_years": 0,
+  "cum_dividend_5y": 0.0,
+  "cum_netprofit_5y": -5454791227.95,
+  "payout_5y": null,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "688825.SH",
+   "688981.SH",
+   "688256.SH",
+   "688041.SH"
+  ],
+  "segments": [
+   {
+    "name": "AI加速卡及模组产品收入",
+    "revenue": 856424007.39,
+    "ratio": 86.49,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "智算系统产品及集群项目收入",
+    "revenue": 128235108.22,
+    "ratio": 12.95,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 3858931.02,
+    "ratio": 0.39,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "IP授权收入及其他",
+    "revenue": 1641955.94,
+    "ratio": 0.17,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "中国内地",
+    "revenue": 986175200.0,
+    "ratio": 99.6,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 3858900.0,
+    "ratio": 0.39,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "中国香港",
+    "revenue": 125900.0,
+    "ratio": 0.01,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "燧原科技公司章程",
+    "date": "2026-09-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-10/1225556298.PDF",
+    "type": null
+   },
+   {
+    "title": "燧原科技首次公开发行股票科创板上市公告书提示性公告",
+    "date": "2026-09-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-10/1225556296.PDF",
+    "type": null
+   },
+   {
+    "title": "燧原科技首次公开发行股票科创板上市公告书",
+    "date": "2026-09-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-10/1225556294.PDF",
+    "type": null
+   },
+   {
+    "title": "燧原科技首次公开发行股票并在科创板上市发行结果公告",
+    "date": "2026-09-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-08/1225552240.PDF",
+    "type": null
+   },
+   {
+    "title": "燧原科技首次公开发行股票并在科创板上市招股说明书提示性公告",
+    "date": "2026-09-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-08/1225552229.PDF",
+    "type": null
+   },
+   {
+    "title": "燧原科技首次公开发行股票并在科创板上市招股说明书",
+    "date": "2026-09-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-08/1225552227.PDF",
+    "type": null
+   },
+   {
+    "title": "燧原科技首次公开发行股票并在科创板上市网下初步配售结果及网上中签结果公告",
+    "date": "2026-09-04",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-04/1225547185.PDF",
+    "type": null
+   },
+   {
+    "title": "燧原科技首次公开发行股票并在科创板上市网上发行申购情况及中签率公告",
+    "date": "2026-09-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225544784.PDF",
+    "type": null
+   },
+   {
+    "title": "燧原科技首次公开发行股票并在科创板上市投资风险特别公告",
+    "date": "2026-09-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-01/1225538500.PDF",
+    "type": null
+   },
+   {
+    "title": "中信证券股份有限公司、国泰海通证券股份有限公司、广发证券股份有限公司关于上海燧原科技股份有限公司首次公开发行股票并在科创板上市之参与战略配售的投资者的专项核查报告",
+    "date": "2026-09-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-01/1225538499.PDF",
+    "type": null
+   },
+   {
+    "title": "燧原科技首次公开发行股票并在科创板上市发行公告",
+    "date": "2026-09-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-01/1225538497.PDF",
+    "type": null
+   },
+   {
+    "title": "北京德恒律师事务所关于燧原科技首次公开发行股票并在科创板上市参与战略配售的投资者核查事项的法律意见",
+    "date": "2026-09-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-01/1225538484.PDF",
+    "type": null
+   },
+   {
+    "title": "燧原科技首次公开发行股票并在科创板上市网上路演公告",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225535080.PDF",
+    "type": null
+   },
+   {
+    "title": "燧原科技首次公开发行股票并在科创板上市招股意向书提示性公告",
+    "date": "2026-08-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225500108.PDF",
+    "type": null
+   },
+   {
+    "title": "燧原科技首次公开发行股票并在科创板上市招股意向书附录",
+    "date": "2026-08-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225500107.PDF",
+    "type": null
+   },
+   {
+    "title": "燧原科技首次公开发行股票并在科创板上市发行安排及初步询价公告",
+    "date": "2026-08-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225500103.PDF",
+    "type": null
+   },
+   {
+    "title": "燧原科技首次公开发行股票并在科创板上市招股意向书",
+    "date": "2026-08-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225500101.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 17
+ },
+ "qa": {
+  "items": [],
+  "count_12m": null
+ }
+}

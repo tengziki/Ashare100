@@ -1,0 +1,668 @@
+{
+ "identity": {
+  "code": "601658",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "中国邮政储蓄银行股份有限公司",
+  "name_abbr": "邮储银行",
+  "aliases": [
+   "ycyh"
+  ],
+  "name_en": "POSTAL SAVINGS BANK OF CHINA CO., LTD.",
+  "pinyin_abbr": "YCYH",
+  "former_names": [],
+  "industry_sw1": "银行",
+  "industry_sw2": "国有大型银行Ⅱ",
+  "list_date": "2019-12-10",
+  "province": "北京",
+  "city": "北京",
+  "website": "www.psbc.cn",
+  "chairman": "郑国雨",
+  "employees": 182347,
+  "business_summary": "零售金融业务、公司金融业务、资金资管业务",
+  "profile": "中国邮政储蓄银行股份有限公司可追溯至1919年开办的邮政储金业务,至今已有百年历史。2007年3月,在改革原邮政储蓄管理体制基础上,中国邮政储蓄银行有限责任公司挂牌成立。2012年1月,本行整体改制为股份有限公司。2016年9月本行在香港联交所挂牌上市,2019年12月在上交所挂牌上市。本行是中国领先的大型零售银行,坚守服务“三农”、城乡居民和中小企业的定位,依托“自营+代理”的独特模式和资源禀赋,致力于为中国经济转型中最具活力的客户群体提供服务。本行深入贯彻落实国家战略,持续提升服务实体经济质效,努力打造服务乡村振兴主力军、普惠金融标杆行和科技金融生力军,积极担当绿色金融先行者。坚持以客户为中心,注重为客户创造价值,不断完善线上和线下互联互通、融合并进的金融服务体系,为广大客户提供优质、便捷、高效的综合化金融服务。坚持风险为本,秉承审慎稳健的风险偏好,完善“全面、全程、全时、全域”的风险管理体系,全面提升风险引领能力。坚持“洞悉市场,先行一步”的经营理念,勇于创新变革,深化能力建设,坚持精细化管理,实现自身高质量发展。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 5.56,
+  "change_pct": -0.71,
+  "total_mv": 667728497415.52,
+  "float_mv": 403254571363.8,
+  "total_shares": 120095053492,
+  "float_shares": 72527800605,
+  "pe_ttm": 7.45,
+  "pe_static": 7.64,
+  "pb": 0.64,
+  "ps_ttm": 1.81,
+  "turnover_rate": 0.21,
+  "amount": 867345647.0,
+  "high_52w": 5.91,
+  "low_52w": 4.67,
+  "ytd_return": 6.27,
+  "return_1y": 0.87,
+  "return_3y": 33.05,
+  "dividend_yield": 3.93,
+  "index_members": [
+   "上证50",
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 318762000000.0,
+    "revenue_yoy": 11.38,
+    "net_profit": 76170000000.0,
+    "net_profit_yoy": 18.65,
+    "net_profit_deducted": 75528000000.0,
+    "gross_margin": null,
+    "net_margin": 24.01,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 0.78,
+    "bvps": 6.89,
+    "roe": 11.86,
+    "roa": 0.64,
+    "total_assets": 12587873000000.0,
+    "total_liab": 11792324000000.0,
+    "debt_ratio": 93.68,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": 794091000000.0,
+    "ocf": 109557000000.0,
+    "capex": 13853000000.0,
+    "fcf": 95704000000.0,
+    "ocf_to_np": 1.44
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 334956000000.0,
+    "revenue_yoy": 5.08,
+    "net_profit": 85224000000.0,
+    "net_profit_yoy": 11.89,
+    "net_profit_deducted": 84940000000.0,
+    "gross_margin": null,
+    "net_margin": 25.48,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 0.85,
+    "bvps": 7.41,
+    "roe": 11.89,
+    "roa": 0.64,
+    "total_assets": 14067282000000.0,
+    "total_liab": 13241468000000.0,
+    "debt_ratio": 94.13,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": 824225000000.0,
+    "ocf": 474914000000.0,
+    "capex": 12402000000.0,
+    "fcf": 462512000000.0,
+    "ocf_to_np": 5.57
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 342507000000.0,
+    "revenue_yoy": 2.25,
+    "net_profit": 86270000000.0,
+    "net_profit_yoy": 1.23,
+    "net_profit_deducted": 86163000000.0,
+    "gross_margin": null,
+    "net_margin": 25.23,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 0.83,
+    "bvps": 7.92,
+    "roe": 10.85,
+    "roa": 0.58,
+    "total_assets": 15726631000000.0,
+    "total_liab": 14770015000000.0,
+    "debt_ratio": 93.92,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": 954873000000.0,
+    "ocf": 263337000000.0,
+    "capex": 12963000000.0,
+    "fcf": 250374000000.0,
+    "ocf_to_np": 3.05
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 348775000000.0,
+    "revenue_yoy": 1.83,
+    "net_profit": 86479000000.0,
+    "net_profit_yoy": 0.24,
+    "net_profit_deducted": 85576000000.0,
+    "gross_margin": null,
+    "net_margin": 24.86,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 0.81,
+    "bvps": 8.37,
+    "roe": 9.84,
+    "roa": 0.53,
+    "total_assets": 17084910000000.0,
+    "total_liab": 16053261000000.0,
+    "debt_ratio": 93.96,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": 1029669000000.0,
+    "ocf": 397276000000.0,
+    "capex": 20350000000.0,
+    "fcf": 376926000000.0,
+    "ocf_to_np": 4.59
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 355728000000.0,
+    "revenue_yoy": 1.99,
+    "net_profit": 87404000000.0,
+    "net_profit_yoy": 1.07,
+    "net_profit_deducted": 87971000000.0,
+    "gross_margin": null,
+    "net_margin": 24.63,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 0.73,
+    "bvps": 8.41,
+    "roe": 8.67,
+    "roa": 0.49,
+    "total_assets": 18682067000000.0,
+    "total_liab": 17519722000000.0,
+    "debt_ratio": 93.78,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": 1160146000000.0,
+    "ocf": 412059000000.0,
+    "capex": 13759000000.0,
+    "fcf": 398300000000.0,
+    "ocf_to_np": 4.71
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 192482000000.0,
+   "revenue_yoy": 7.26,
+   "net_profit": 51503000000.0,
+   "net_profit_yoy": 4.62,
+   "net_profit_deducted": 49370000000.0,
+   "gross_margin": null,
+   "net_margin": 26.84,
+   "roe": 4.8,
+   "eps": 0.4,
+   "debt_ratio": 93.95,
+   "ocf": 352514000000.0
+  },
+  "derived": {
+   "revenue_cagr_3y": 2.03,
+   "net_profit_cagr_3y": 0.85,
+   "receivables_to_revenue": null,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "中国邮政集团有限公司",
+  "controlling_shareholder": "中国邮政集团有限公司",
+  "controlling_ratio": 51.92,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "中国邮政集团有限公司",
+    "hold_num": 62358597580,
+    "hold_ratio": 51.92,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "香港中央结算(代理人)有限公司",
+    "hold_num": 19843539636,
+    "hold_ratio": 16.52,
+    "hold_num_change": 116999
+   },
+   {
+    "rank": 3,
+    "name": "中华人民共和国财政部",
+    "hold_num": 18933967793,
+    "hold_ratio": 15.77,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "中国移动通信集团有限公司",
+    "hold_num": 8041852507,
+    "hold_ratio": 6.7,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "中国平安人寿保险股份有限公司-自有资金",
+    "hold_num": 2372750395,
+    "hold_ratio": 1.98,
+    "hold_num_change": -3086900
+   },
+   {
+    "rank": 6,
+    "name": "中国电信集团有限公司",
+    "hold_num": 1117223218,
+    "hold_ratio": 0.93,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "中国船舶集团有限公司",
+    "hold_num": 735265587,
+    "hold_ratio": 0.61,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "香港中央结算有限公司",
+    "hold_num": 373091715,
+    "hold_ratio": 0.31,
+    "hold_num_change": -62025852
+   },
+   {
+    "rank": 9,
+    "name": "中国人民人寿保险股份有限公司-传统-普通保险产品",
+    "hold_num": 217939268,
+    "hold_ratio": 0.18,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "中国人民财产保险股份有限公司-自有资金",
+    "hold_num": 176163400,
+    "hold_ratio": 0.15,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 201442,
+  "holder_num_change_pct": -0.58,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 5.83,
+  "northbound_ratio": 0.31,
+  "executives": [
+   {
+    "name": "郑国雨",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "芦苇",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "杜春野",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.13,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.2474,
+    "total_amount": 22855793585.48,
+    "payout_ratio": 30.01,
+    "dividend_yield": 4.68,
+    "ex_date": "2022-07-12"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.2579,
+    "total_amount": 25573641510.2,
+    "payout_ratio": 30.01,
+    "dividend_yield": 5.2,
+    "ex_date": "2023-07-13"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.261,
+    "total_amount": 25881040845.92,
+    "payout_ratio": 30.0,
+    "dividend_yield": 5.09,
+    "ex_date": "2024-07-11"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.2616,
+    "total_amount": 25940537491.54,
+    "payout_ratio": 30.0,
+    "dividend_yield": 2.42,
+    "ex_date": "2025-01-08"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.2183,
+    "total_amount": 26216750177.3,
+    "payout_ratio": 29.99,
+    "dividend_yield": 2.1,
+    "ex_date": "2026-01-12"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 126467763610.44,
+  "cum_netprofit_5y": 421547000000.0,
+  "payout_5y": 30.0,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "601398.SH",
+   "601939.SH",
+   "601288.SH",
+   "601988.SH"
+  ],
+  "segments": [
+   {
+    "name": "个人银行业务",
+    "revenue": 232854000000.0,
+    "ratio": 65.46,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "公司银行业务",
+    "revenue": 80090000000.0,
+    "ratio": 22.51,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "资金业务",
+    "revenue": 42520000000.0,
+    "ratio": 11.95,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他业务",
+    "revenue": 264000000.0,
+    "ratio": 0.07,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "中部地区",
+    "revenue": 93791000000.0,
+    "ratio": 26.37,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "西部地区",
+    "revenue": 70258000000.0,
+    "ratio": 19.75,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "长江三角洲",
+    "revenue": 59931000000.0,
+    "ratio": 16.85,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "环渤海地区",
+    "revenue": 53574000000.0,
+    "ratio": 15.06,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "珠江三角洲",
+    "revenue": 46763000000.0,
+    "ratio": 13.15,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "东北地区",
+    "revenue": 20925000000.0,
+    "ratio": 5.88,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "中国邮政储蓄银行股份有限公司关于变更官方网址的公告",
+    "date": "2026-10-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-22/1225613702.PDF",
+    "type": null
+   },
+   {
+    "title": "中国邮政储蓄银行股份有限公司董事会决议公告",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225574812.PDF",
+    "type": null
+   },
+   {
+    "title": "中国国际金融股份有限公司、中信证券股份有限公司关于中国邮政储蓄银行股份有限公司关联交易的专项核查意见",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225574650.PDF",
+    "type": null
+   },
+   {
+    "title": "中国邮政储蓄银行股份有限公司关于董事任职及董事离任的公告",
+    "date": "2026-09-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-17/1225567339.PDF",
+    "type": null
+   },
+   {
+    "title": "中国邮政储蓄银行股份有限公司董事会决议公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225525158.PDF",
+    "type": null
+   },
+   {
+    "title": "中国邮政储蓄银行股份有限公司2026年半年度报告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225525154.PDF",
+    "type": null
+   },
+   {
+    "title": "中国邮政储蓄银行股份有限公司内幕信息及知情人管理办法（2026年修订版）",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225525151.PDF",
+    "type": null
+   },
+   {
+    "title": "中国邮政储蓄银行股份有限公司2026年度中期利润分配方案公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225525143.PDF",
+    "type": null
+   },
+   {
+    "title": "中国邮政储蓄银行股份有限公司信息披露管理办法（2026年修订版）",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225525138.PDF",
+    "type": null
+   },
+   {
+    "title": "中国邮政储蓄银行股份有限公司2026年半年度报告摘要",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225525131.PDF",
+    "type": null
+   },
+   {
+    "title": "中国邮政储蓄银行股份有限公司关于变更持续督导保荐代表人的公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225525127.PDF",
+    "type": null
+   },
+   {
+    "title": "中国邮政储蓄银行股份有限公司信息披露暂缓与豁免管理办法（2026年修订版）",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225525118.PDF",
+    "type": null
+   },
+   {
+    "title": "中国邮政储蓄银行股份有限公司关于2021年二级资本债券（第一期）（品种一）赎回完成的公告",
+    "date": "2026-08-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225497549.PDF",
+    "type": null
+   },
+   {
+    "title": "中国邮政储蓄银行股份有限公司关于召开2026年半年度业绩发布会的公告",
+    "date": "2026-08-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-21/1225484795.PDF",
+    "type": null
+   },
+   {
+    "title": "中国邮政储蓄银行股份有限公司2025年年度权益分派实施公告",
+    "date": "2026-07-07",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-07/1225411333.PDF",
+    "type": null
+   },
+   {
+    "title": "中国邮政储蓄银行股份有限公司董事会决议公告",
+    "date": "2026-06-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-27/1225392373.PDF",
+    "type": null
+   },
+   {
+    "title": "中国邮政储蓄银行股份有限公司关于董事离任的公告",
+    "date": "2026-06-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-27/1225392371.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市君合律师事务所关于中国邮政储蓄银行股份有限公司2025年年度股东会的法律意见书",
+    "date": "2026-06-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-27/1225392365.PDF",
+    "type": null
+   },
+   {
+    "title": "中国邮政储蓄银行股份有限公司2025年年度股东会决议公告",
+    "date": "2026-06-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-27/1225392355.PDF",
+    "type": null
+   },
+   {
+    "title": "中国邮政储蓄银行股份有限公司关于2026年二级资本债券（第一期）（债券通）发行完毕的公告",
+    "date": "2026-06-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-12/1225365667.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 96
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "公司深受投资者的青睐，请问何时开始加大股票市值价值提前管理，谢谢。",
+    "answer": "您好，非常感谢您的持续关注与真诚建议。我行始终坚持以投资者为本，在董事会及高级管理层的重视与指导下，已制定市值管理办法及估值提升计划，更新落实“提质增效重回报”行动方案，夯实长期价值提升。如您有其他问题或意见建议，欢迎您致电邮储银行投资者关系热线：010-68858158。再次感谢您对邮储银行的支持与关注！",
+    "ask_date": "2026-07-31",
+    "answer_date": "2026-08-10",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=152148"
+   },
+   {
+    "question": "希望能拿出价值投资的保障举措，不要随风飘摇，走自己的稳稳增长道路。",
+    "answer": "感谢您的关注与建议。邮储银行坚持高质量发展和价值创造理念，聚焦稳经营、调结构、降成本、控风险，巩固息差“第一增长曲线”，大力拓展非息“第二增长曲线”，加快构建资本节约、风险可控、回报高效的轻型发展路径，经营效益保持稳健。未来，我行将不断通过提升经营质效、完善现金分红、加强投资者关系管理、优化信息披露等方面的举措，认真吸纳投资者建议，着力推动投资价值提升，增强投资者回报。如您有其他问题或意见建议，欢迎您致电邮储银行投资者关系热线：010-68858158。再次感谢您对邮储银行的支持与关注！",
+    "ask_date": "2026-07-21",
+    "answer_date": "2026-08-04",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=152148"
+   },
+   {
+    "question": "请公布一下6月30日最新股东人数，请精确到个位数，谢谢",
+    "answer": "您好，感谢您的关注！根据上市公司信息披露相关规定，公司应通过定期报告等法定渠道披露股东信息，确保所有投资者能够公平、及时获取公开披露信息。截至2026年3月31日，本行普通股股东总数202,616名，相关信息已在2026年一季报中披露。关于截至6月30日的股东人数信息，请以公司后续披露的2026年半年度报告为准，感谢您的理解与支持！",
+    "ask_date": "2026-07-13",
+    "answer_date": "2026-07-15",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=152148"
+   },
+   {
+    "question": "公司股票持续阴跌，在6大国有银行中垫地。涨的时候，落后其他5家国有银行，跌的时候，比其他银行还多。公司基本面也不错，什么原因？请解释！",
+    "answer": "感谢您的关注与宝贵意见，也充分理解您的关切。股价走势受宏观形势、市场环境、板块估值等多方面因素影响，阶段性存在一定波动。我行始终坚持以投资者为本，牢固树立股东回报意识，已制定市值管理办法及估值提升计划，持续更新落实《“提质增效重回报”行动方案》。未来，将不断通过提升经营质效、完善现金分红、加强投资者关系管理、优化信息披露等方面的举措，认真吸纳投资者建议，着力推动投资价值提升，增强投资者回报。",
+    "ask_date": "2026-06-05",
+    "answer_date": "2026-07-07",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=152148"
+   },
+   {
+    "question": "什么时候分红啊？",
+    "answer": "您好，感谢您的关注！本行2025年度利润分配方案已于2026年6月26日召开的2025年年度股东会审议通过。2025年度末期现金股利的A股及H股股权登记日为2026年7月10日，A股派息日为2026年7月13日，H股派息日为2026年8月19日。具体请以公告为准，谢谢！",
+    "ask_date": "2026-06-15",
+    "answer_date": "2026-06-29",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=152148"
+   },
+   {
+    "question": "您好，请问贵公司最新的股东人数",
+    "answer": "您好，感谢您的关注！根据相关监管规定，公司在定期报告中披露截至报告期末的股东情况。截至2026年3月31日，本行普通股股东总数202,616名，相关数据已在2026年一季报中披露，后续股东人数信息请以公司定期报告信息为准，谢谢！",
+    "ask_date": "2026-06-18",
+    "answer_date": "2026-06-25",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=152148"
+   },
+   {
+    "question": "农业银行连续两年增加网点数量，服务城乡，填补区域空白，请问贵行2026年网点增减计划及网点规划",
+    "answer": "您好，感谢您的关注！本行高度重视网点布局优化和形象提升工作，积极开展网点效能跃升行动，推动网点向综合化、生态化、智能化转型。截至2025年末，本行营业网点共计39,015个，网点总量位居行业前列。近年来，本行通过专项部署网点布局优化和形象提升工作，积极把握城镇化与产业发展趋势，在全国经济百强县、千强镇、省级以上乡村振兴重点帮扶县，以及各类新城、新区、新园等重点区域新设网点。未来，本行将在保持网点总量稳定的基础上，持续主动优化网点布局。",
+    "ask_date": "2026-05-12",
+    "answer_date": "2026-05-28",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=152148"
+   },
+   {
+    "question": "尊敬的董秘，您好！ 麻烦告知公司截至2026年3月20日的股东总户数，感谢您的回复与解答！",
+    "answer": "您好，感谢您的关注！根据相关监管规定，公司在定期报告中披露截至报告期末的股东情况。截至2026年3月31日，本行普通股股东总数202,616名，相关数据已在2026年一季报中披露，后续股东人数信息请以公司定期报告信息为准，谢谢！",
+    "ask_date": "2026-03-25",
+    "answer_date": "2026-05-11",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=152148"
+   }
+  ],
+  "count_12m": null
+ }
+}

@@ -1,0 +1,653 @@
+{
+ "identity": {
+  "code": "002415",
+  "exchange": "SZ",
+  "board": "主板",
+  "name_full": "杭州海康威视数字技术股份有限公司",
+  "name_abbr": "海康威视",
+  "aliases": [
+   "hkws"
+  ],
+  "name_en": "HANGZHOU HIKVISION DIGITAL TECHNOLOGY CO., LTD.",
+  "pinyin_abbr": "HKWS",
+  "former_names": [],
+  "industry_sw1": "计算机",
+  "industry_sw2": "计算机设备",
+  "list_date": "2010-05-28",
+  "province": "浙江",
+  "city": "杭州",
+  "website": "www.hikvision.com",
+  "chairman": "胡扬忠",
+  "employees": 57202,
+  "business_summary": "安防视频监控产品研发、生产和销售,产品包括硬盘录像机(DVR)、视音频编解码卡等数据存储及处理设备",
+  "profile": "杭州海康威视数字技术股份有限公司成立于2001年,是一家专注技术创新的科技公司。秉承“专业、厚实、诚信”的经营理念,践行“成就客户、价值为本、诚信务实、追求卓越”的核心价值观,二十余年来,海康威视以视频技术为起点,逐步构建和完善以物联感知、人工智能、大数据为核心的智能物联(AIoT)技术体系,为千行百业提供安防和场景数字化产品与服务。公司的产品和技术,已在杭州亚运会、G20杭州峰会、北京奥运会、上海世博会、APEC会议、北京大兴机场、港珠澳大桥等重大项目中发挥了重要作用。海康威视致力于将物联感知、人工智能、大数据技术服务于千行百业,引领智能物联新未来:以全面的感知技术,帮助人、物更好地链接,构筑智能世界的基础;以丰富的智能产品,洞察和满足多样化需求,让智能触手可及;以创新的智能物联应用,建设便捷、高效、安心的智能世界,助力人人享有美好未来。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 32.42,
+  "change_pct": 0.25,
+  "total_mv": 297125135651.0,
+  "float_mv": 293274358078.2,
+  "total_shares": 9164871550,
+  "float_shares": 9046093710,
+  "pe_ttm": 16.7,
+  "pe_static": 20.93,
+  "pb": 3.53,
+  "ps_ttm": 2.95,
+  "turnover_rate": 0.52,
+  "amount": 1513672653.9,
+  "high_52w": 38.63,
+  "low_52w": 27.31,
+  "ytd_return": 13.59,
+  "return_1y": 0.78,
+  "return_3y": 10.29,
+  "dividend_yield": 3.55,
+  "index_members": [
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 81420053539.27,
+    "revenue_yoy": 28.21,
+    "net_profit": 16800411032.05,
+    "net_profit_yoy": 25.51,
+    "net_profit_deducted": 16444723630.97,
+    "gross_margin": 44.33,
+    "net_margin": 21.51,
+    "selling_expense_ratio": 10.55,
+    "admin_expense_ratio": 2.62,
+    "finance_expense_ratio": -0.16,
+    "rd_expense": 8251645101.39,
+    "rd_ratio": 10.13,
+    "eps": 1.81,
+    "bvps": 6.8,
+    "roe": 28.99,
+    "roa": 18.19,
+    "total_assets": 103864543195.18,
+    "total_liab": 38469900919.3,
+    "debt_ratio": 37.04,
+    "cash": 34721870931.36,
+    "receivables": 26174773100.42,
+    "inventory": 17974112407.6,
+    "goodwill": 202381895.37,
+    "interest_debt": 8274201352.28,
+    "equity_parent": 63460886665.26,
+    "ocf": 12708524686.99,
+    "capex": 3098310855.39,
+    "fcf": 9610213831.6,
+    "ocf_to_np": 0.76
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 83166321681.14,
+    "revenue_yoy": 2.14,
+    "net_profit": 12837704462.49,
+    "net_profit_yoy": -23.59,
+    "net_profit_deducted": 12331058280.04,
+    "gross_margin": 42.29,
+    "net_margin": 16.3,
+    "selling_expense_ratio": 11.75,
+    "admin_expense_ratio": 3.18,
+    "finance_expense_ratio": -1.19,
+    "rd_expense": 9814444260.55,
+    "rd_ratio": 11.8,
+    "eps": 1.37,
+    "bvps": 7.25,
+    "roe": 19.62,
+    "roa": 12.15,
+    "total_assets": 119234833850.69,
+    "total_liab": 46263105499.03,
+    "debt_ratio": 38.8,
+    "cash": 40011863999.94,
+    "receivables": 29906294410.4,
+    "inventory": 18998222978.81,
+    "goodwill": 217386531.28,
+    "interest_debt": 12010840511.78,
+    "equity_parent": 68389337524.32,
+    "ocf": 10164135382.38,
+    "capex": 3755680900.22,
+    "fcf": 6408454482.16,
+    "ocf_to_np": 0.79
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 89341177610.4,
+    "revenue_yoy": 7.42,
+    "net_profit": 14107726276.26,
+    "net_profit_yoy": 9.89,
+    "net_profit_deducted": 13665962325.65,
+    "gross_margin": 44.33,
+    "net_margin": 16.96,
+    "selling_expense_ratio": 12.03,
+    "admin_expense_ratio": 3.1,
+    "finance_expense_ratio": -0.84,
+    "rd_expense": 11392948404.47,
+    "rd_ratio": 12.75,
+    "eps": 1.52,
+    "bvps": 8.18,
+    "roe": 19.64,
+    "roa": 11.74,
+    "total_assets": 138858122879.55,
+    "total_liab": 56694511001.64,
+    "debt_ratio": 40.83,
+    "cash": 49638158662.54,
+    "receivables": 35816573511.44,
+    "inventory": 19211444296.82,
+    "goodwill": 311353640.88,
+    "interest_debt": 17217741068.16,
+    "equity_parent": 76354265540.14,
+    "ocf": 16622209721.05,
+    "capex": 4047816024.05,
+    "fcf": 12574393697.0,
+    "ocf_to_np": 1.18
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 92495525118.3,
+    "revenue_yoy": 3.53,
+    "net_profit": 11977327023.54,
+    "net_profit_yoy": -15.1,
+    "net_profit_deducted": 11814861641.16,
+    "gross_margin": 43.83,
+    "net_margin": 14.21,
+    "selling_expense_ratio": 13.03,
+    "admin_expense_ratio": 3.35,
+    "finance_expense_ratio": -0.12,
+    "rd_expense": 11864013392.27,
+    "rd_ratio": 12.83,
+    "eps": 1.3,
+    "bvps": 8.74,
+    "roe": 15.34,
+    "roa": 9.7,
+    "total_assets": 132016200156.14,
+    "total_liab": 44515905407.99,
+    "debt_ratio": 33.72,
+    "cash": 36271488337.03,
+    "receivables": 37910128735.42,
+    "inventory": 19110711958.11,
+    "goodwill": 312165129.29,
+    "interest_debt": 7293544251.21,
+    "equity_parent": 80668661062.88,
+    "ocf": 13264092022.73,
+    "capex": 4665742203.72,
+    "fcf": 8598349819.01,
+    "ocf_to_np": 1.11
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 92507796069.94,
+    "revenue_yoy": 0.01,
+    "net_profit": 14195371894.42,
+    "net_profit_yoy": 18.52,
+    "net_profit_deducted": 13703158053.2,
+    "gross_margin": 45.88,
+    "net_margin": 16.68,
+    "selling_expense_ratio": 13.35,
+    "admin_expense_ratio": 3.24,
+    "finance_expense_ratio": -0.57,
+    "rd_expense": 11752624736.8,
+    "rd_ratio": 12.7,
+    "eps": 1.55,
+    "bvps": 9.09,
+    "roe": 17.3,
+    "roa": 11.43,
+    "total_assets": 138049655334.62,
+    "total_liab": 46832791980.03,
+    "debt_ratio": 33.92,
+    "cash": 46508328658.44,
+    "receivables": 29812378945.77,
+    "inventory": 20472193858.8,
+    "goodwill": 311187727.01,
+    "interest_debt": 8135093147.1,
+    "equity_parent": 83348185885.62,
+    "ocf": 25339411083.1,
+    "capex": 3622046664.67,
+    "fcf": 21717364418.43,
+    "ocf_to_np": 1.79
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 46822537847.07,
+   "revenue_yoy": 11.97,
+   "net_profit": 7895705450.11,
+   "net_profit_yoy": 39.57,
+   "net_profit_deducted": 7711948685.9,
+   "gross_margin": 49.97,
+   "net_margin": 19.48,
+   "roe": 9.17,
+   "eps": 0.86,
+   "debt_ratio": 32.36,
+   "ocf": 3231411324.58
+  },
+  "derived": {
+   "revenue_cagr_3y": 3.61,
+   "net_profit_cagr_3y": 3.41,
+   "receivables_to_revenue": 32.23,
+   "goodwill_to_equity": 0.37
+  }
+ },
+ "shareholders": {
+  "controller": "中国电子科技集团有限公司",
+  "controlling_shareholder": "中电海康集团有限公司",
+  "controlling_ratio": 37.28,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "中电海康集团有限公司",
+    "hold_num": 3416996509,
+    "hold_ratio": 37.28,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "龚虹嘉",
+    "hold_num": 962504814,
+    "hold_ratio": 10.5,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "杭州威讯股权投资合伙企业(有限合伙)",
+    "hold_num": 450795176,
+    "hold_ratio": 4.92,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "中电科投资控股有限公司",
+    "hold_num": 248366268,
+    "hold_ratio": 2.71,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "杭州璞康股权投资合伙企业(有限合伙)",
+    "hold_num": 182510174,
+    "hold_ratio": 1.99,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "中国电子科技集团公司第五十二研究所",
+    "hold_num": 180775044,
+    "hold_ratio": 1.97,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "胡扬忠",
+    "hold_num": 155996477,
+    "hold_ratio": 1.7,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+    "hold_num": 127584360,
+    "hold_ratio": 1.39,
+    "hold_num_change": -42039408
+   },
+   {
+    "rank": 9,
+    "name": "上海高毅资产管理合伙企业(有限合伙)-高毅邻山1号远望基金",
+    "hold_num": 77000000,
+    "hold_ratio": 0.84,
+    "hold_num_change": -36000000
+   },
+   {
+    "rank": 10,
+    "name": "香港中央结算有限公司",
+    "hold_num": 76362573,
+    "hold_ratio": 0.83,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 345842,
+  "holder_num_change_pct": -0.01,
+  "holder_num_date": "2026-09-30",
+  "inst_hold_ratio": 6.58,
+  "northbound_ratio": 0.83,
+  "executives": [
+   {
+    "name": "胡扬忠",
+    "title": "董事长",
+    "pay": 2990000
+   },
+   {
+    "name": "徐鹏",
+    "title": "总经理",
+    "pay": 3450000
+   },
+   {
+    "name": "奉玮",
+    "title": "董事会秘书",
+    "pay": 2890000
+   }
+  ],
+  "pledge_ratio_total": 4.75,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.9,
+    "total_amount": 8489887847.1,
+    "payout_ratio": 50.53,
+    "dividend_yield": 2.78,
+    "ex_date": "2022-05-26"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.7,
+    "total_amount": 6554752952.3,
+    "payout_ratio": 51.06,
+    "dividend_yield": 1.97,
+    "ex_date": "2023-05-19"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.9,
+    "total_amount": 8397540837.9,
+    "payout_ratio": 59.52,
+    "dividend_yield": 2.66,
+    "ex_date": "2024-05-21"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.7,
+    "total_amount": 6463238828.2,
+    "payout_ratio": 53.96,
+    "dividend_yield": 2.43,
+    "ex_date": "2025-05-20"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 1.15,
+    "total_amount": 10539602282.5,
+    "payout_ratio": 74.25,
+    "dividend_yield": 1.87,
+    "ex_date": "2025-10-10"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 40445022748.0,
+  "cum_netprofit_5y": 69918540688.76,
+  "payout_5y": 57.85,
+  "buyback_3y": 2028349444.12
+ },
+ "peers": {
+  "peer_codes": [
+   "603019.SH",
+   "000977.SZ",
+   "002236.SZ",
+   "688188.SH"
+  ],
+  "segments": [
+   {
+    "name": "主业1产品及服务",
+    "revenue": 65012347191.96,
+    "ratio": 70.28,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "机器人业务",
+    "revenue": 6451513663.26,
+    "ratio": 6.97,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "智能家居业务",
+    "revenue": 5683867278.78,
+    "ratio": 6.14,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "汽车电子业务",
+    "revenue": 5289209200.8,
+    "ratio": 5.72,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "热成像业务",
+    "revenue": 4442928348.49,
+    "ratio": 4.8,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "存储业务",
+    "revenue": 2380400859.63,
+    "ratio": 2.57,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "境内",
+    "revenue": 58221682972.42,
+    "ratio": 62.94,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "境外",
+    "revenue": 34286113097.52,
+    "ratio": 37.06,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "2026年第三季度报告（英文版）",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225607881.PDF",
+    "type": null
+   },
+   {
+    "title": "闲置资金管理制度（2026年10月）",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225607880.PDF",
+    "type": null
+   },
+   {
+    "title": "公司章程（2026年10月）",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225607879.PDF",
+    "type": null
+   },
+   {
+    "title": "董事会议事规则（2026年10月）",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225607878.PDF",
+    "type": null
+   },
+   {
+    "title": "董事会审计委员会工作细则（2026年10月）",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225607877.PDF",
+    "type": null
+   },
+   {
+    "title": "董事会秘书工作细则（2026年10月）",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225607876.PDF",
+    "type": null
+   },
+   {
+    "title": "总经理工作细则（2026年10月）",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225607875.PDF",
+    "type": null
+   },
+   {
+    "title": "内部审计制度（2026年10月）",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225607874.PDF",
+    "type": null
+   },
+   {
+    "title": "信息披露管理制度（2026年10月）",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225607873.PDF",
+    "type": null
+   },
+   {
+    "title": "控股股东、实际控制人行为规范（2026年10月）",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225607872.PDF",
+    "type": null
+   },
+   {
+    "title": "董事、高级管理人员离职管理制度（2026年10月）",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225607871.PDF",
+    "type": null
+   },
+   {
+    "title": "股东会议事规则（2026年10月）",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225607870.PDF",
+    "type": null
+   },
+   {
+    "title": "对外投资管理制度（2026年10月）",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225607869.PDF",
+    "type": null
+   },
+   {
+    "title": "董事会提名委员会工作细则（2026年10月）",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225607868.PDF",
+    "type": null
+   },
+   {
+    "title": "董事、高级管理人员所持本公司股份及其变动管理制度（2026年10月）",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225607867.PDF",
+    "type": null
+   },
+   {
+    "title": "关于修订《公司章程》及部分治理制度的公告",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225607866.PDF",
+    "type": null
+   },
+   {
+    "title": "关于聘任证券事务代表的公告",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225607865.PDF",
+    "type": null
+   },
+   {
+    "title": "关于召开2026年第一次临时股东会的通知",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225607864.PDF",
+    "type": null
+   },
+   {
+    "title": "第六届董事会第十一次会议决议公告",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225607863.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年三季度报告",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225607861.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 80
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "存货由去年末200亿元增加到如今的330亿，请说明为何增加如此之多，以及是否计入当期利润，并说明后续存货减值风险！",
+    "answer": null,
+    "ask_date": "2026-10-21",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2386788857825177600"
+   },
+   {
+    "question": "公司路演中，高管对公司的发展充满信心。但除了胡董事长，目前大部分高管持有公司股票数量均非常少，希望公司高管加大增持公司股票，增强市场信心。",
+    "answer": null,
+    "ask_date": "2026-10-21",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2386370794298519552"
+   },
+   {
+    "question": "建议公司加大回购注销力度，把提升公司内在价值作为一项长期的制度性措施。",
+    "answer": null,
+    "ask_date": "2026-10-21",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2386360666765635584"
+   },
+   {
+    "question": "你好，截止10月10日，公司最新股东人数是多少？谢谢！",
+    "answer": null,
+    "ask_date": "2026-10-10",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2378266036425588736"
+   },
+   {
+    "question": "董秘您好，公司存储芯片原材料库存通常可以使用多久？",
+    "answer": null,
+    "ask_date": "2026-10-03",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2373392193470181376"
+   },
+   {
+    "question": "请问创新业务子公司通过母公司及全资子公司对外销售的营收，归属于主业产品及服务还是创新业务？这部分营收占创新业务营收比重如何？",
+    "answer": null,
+    "ask_date": "2026-09-28",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2369671574966091776"
+   },
+   {
+    "question": "海康机器人与凤凰光学之间有无同业竞争关系？海康机器人IPO进度如何？谢谢。",
+    "answer": null,
+    "ask_date": "2026-09-26",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2367811192640262144"
+   },
+   {
+    "question": "您好，今天有自称海康威视苏州销售团队负责人，姓叶的联系我，要租门面房，交流下来感觉疑点甚多，特来提示贵公司一下。祝业绩长虹！",
+    "answer": null,
+    "ask_date": "2026-09-25",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2367217937286127616"
+   }
+  ],
+  "count_12m": null
+ }
+}

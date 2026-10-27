@@ -1,0 +1,621 @@
+{
+ "identity": {
+  "code": "601138",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "富士康工业互联网股份有限公司",
+  "name_abbr": "工业富联",
+  "aliases": [
+   "gyfl"
+  ],
+  "name_en": "Foxconn Industrial Internet Co., Ltd.",
+  "pinyin_abbr": "GYFL",
+  "former_names": [],
+  "industry_sw1": "电子",
+  "industry_sw2": "消费电子",
+  "list_date": "2018-06-08",
+  "province": "广东",
+  "city": "深圳",
+  "website": "www.fii-foxconn.com",
+  "chairman": "郑弘孟",
+  "employees": 217084,
+  "business_summary": "公司是全球领先的高端智能制造及工业互联网解决方案服务商,主要业务包含云计算、通信网络及移动网络设备",
+  "profile": "富士康工业互联网股份有限公司作为全球领先的高端智能制造及工业互联网服务商,工业富联(全称:富士康工业互联网股份有限公司,股票代码:601138)坚持“数据驱动、绿色发展”的战略方向,业务已实现对数字经济产业五大类——云及边缘计算、工业互联网、智能家居、5G及网络通讯设备、智能手机及智能穿戴设备的全覆盖,在产品、技术以及全球市占率方面极具优势。自2018年上市以来,公司依托于数字经济新基建的发展机遇,推动“高端智能制造+工业互联网”的四大核心业务高质量发展,实现产品技术的持续创新,公司业绩稳步增长。根据“深耕中国、布局全球”的经营策略,工业富联发挥国内国外双循环的桥梁和纽带作用,基于超过30年的高端智能制造的行业数据经验,大力推动ICT全产业链的数字化转型,已发展成为全球数字经济领军企业,居电子制造服务产业全球第二,持续为数字经济高质量发展贡献力量。目前,新型工业化已定调为国家现代化及实现经济高质量发展的重要战略。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 47.91,
+  "change_pct": -3.6,
+  "total_mv": 950730461326.44,
+  "float_mv": 950730461326.44,
+  "total_shares": 19844092284,
+  "float_shares": 19844092284,
+  "pe_ttm": 20.27,
+  "pe_static": 26.94,
+  "pb": 5.41,
+  "ps_ttm": 0.86,
+  "turnover_rate": 0.41,
+  "amount": 3936337868.0,
+  "high_52w": 84.3,
+  "low_52w": 46.1,
+  "ytd_return": -21.55,
+  "return_1y": -25.7,
+  "return_3y": 242.95,
+  "dividend_yield": 2.05,
+  "index_members": [
+   "沪深300"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 439557195000.0,
+    "revenue_yoy": 1.8,
+    "net_profit": 20009751000.0,
+    "net_profit_yoy": 14.8,
+    "net_profit_deducted": 18581026000.0,
+    "gross_margin": 8.31,
+    "net_margin": 4.56,
+    "selling_expense_ratio": 0.2,
+    "admin_expense_ratio": 0.95,
+    "finance_expense_ratio": -0.19,
+    "rd_expense": 10835032000.0,
+    "rd_ratio": 2.46,
+    "eps": 1.01,
+    "bvps": 6.0,
+    "roe": 18.02,
+    "roa": 8.14,
+    "total_assets": 266608775000.0,
+    "total_liab": 147121085000.0,
+    "debt_ratio": 55.18,
+    "cash": 82877051000.0,
+    "receivables": 87029697000.0,
+    "inventory": 71927837000.0,
+    "goodwill": null,
+    "interest_debt": 58190219000.0,
+    "equity_parent": 119180602000.0,
+    "ocf": 8724585000.0,
+    "capex": 6035315000.0,
+    "fcf": 2689270000.0,
+    "ocf_to_np": 0.44
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 511849579000.0,
+    "revenue_yoy": 16.45,
+    "net_profit": 20073072000.0,
+    "net_profit_yoy": 0.32,
+    "net_profit_deducted": 18410394000.0,
+    "gross_margin": 7.26,
+    "net_margin": 3.92,
+    "selling_expense_ratio": 0.21,
+    "admin_expense_ratio": 0.75,
+    "finance_expense_ratio": -0.14,
+    "rd_expense": 11588014000.0,
+    "rd_ratio": 2.26,
+    "eps": 1.02,
+    "bvps": 6.49,
+    "roe": 16.17,
+    "roa": 7.29,
+    "total_assets": 284187662000.0,
+    "total_liab": 154854156000.0,
+    "debt_ratio": 54.49,
+    "cash": 69429837000.0,
+    "receivables": 97672920000.0,
+    "inventory": 77321754000.0,
+    "goodwill": 310153000.0,
+    "interest_debt": 60318367000.0,
+    "equity_parent": 128975192000.0,
+    "ocf": 15365627000.0,
+    "capex": 8093290000.0,
+    "fcf": 7272337000.0,
+    "ocf_to_np": 0.77
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 476340107000.0,
+    "revenue_yoy": -6.94,
+    "net_profit": 21040193000.0,
+    "net_profit_yoy": 4.82,
+    "net_profit_deducted": 20208906000.0,
+    "gross_margin": 8.06,
+    "net_margin": 4.41,
+    "selling_expense_ratio": 0.22,
+    "admin_expense_ratio": 0.89,
+    "finance_expense_ratio": -0.12,
+    "rd_expense": 10811207000.0,
+    "rd_ratio": 2.27,
+    "eps": 1.06,
+    "bvps": 7.06,
+    "roe": 15.63,
+    "roa": 7.35,
+    "total_assets": 287705301000.0,
+    "total_liab": 147109966000.0,
+    "debt_ratio": 51.13,
+    "cash": 83462320000.0,
+    "receivables": 88466866000.0,
+    "inventory": 76683349000.0,
+    "goodwill": 310153000.0,
+    "interest_debt": 49866867000.0,
+    "equity_parent": 140187453000.0,
+    "ocf": 43083729000.0,
+    "capex": 9189698000.0,
+    "fcf": 33894031000.0,
+    "ocf_to_np": 2.05
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 609135428000.0,
+    "revenue_yoy": 27.88,
+    "net_profit": 23216469000.0,
+    "net_profit_yoy": 10.34,
+    "net_profit_deducted": 23413856000.0,
+    "gross_margin": 7.28,
+    "net_margin": 3.82,
+    "selling_expense_ratio": 0.17,
+    "admin_expense_ratio": 0.85,
+    "finance_expense_ratio": -0.11,
+    "rd_expense": 10630778000.0,
+    "rd_ratio": 1.75,
+    "eps": 1.17,
+    "bvps": 7.69,
+    "roe": 15.85,
+    "roa": 7.68,
+    "total_assets": 317523519000.0,
+    "total_liab": 164387028000.0,
+    "debt_ratio": 51.77,
+    "cash": 72433675000.0,
+    "receivables": 94507748000.0,
+    "inventory": 85265717000.0,
+    "goodwill": 310153000.0,
+    "interest_debt": 44921803000.0,
+    "equity_parent": 152691270000.0,
+    "ocf": 23819867000.0,
+    "capex": 11280883000.0,
+    "fcf": 12538984000.0,
+    "ocf_to_np": 1.03
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 902887188000.0,
+    "revenue_yoy": 48.22,
+    "net_profit": 35285561000.0,
+    "net_profit_yoy": 51.99,
+    "net_profit_deducted": 34188196000.0,
+    "gross_margin": 6.98,
+    "net_margin": 3.91,
+    "selling_expense_ratio": 0.13,
+    "admin_expense_ratio": 0.66,
+    "finance_expense_ratio": 0.19,
+    "rd_expense": 11151076000.0,
+    "rd_ratio": 1.24,
+    "eps": 1.78,
+    "bvps": 8.4,
+    "roe": 21.65,
+    "roa": 9.13,
+    "total_assets": 456223822000.0,
+    "total_liab": 289109592000.0,
+    "debt_ratio": 63.37,
+    "cash": 110024524000.0,
+    "receivables": 110741559000.0,
+    "inventory": 150912711000.0,
+    "goodwill": 328383000.0,
+    "interest_debt": 110184402000.0,
+    "equity_parent": 166778112000.0,
+    "ocf": 5237909000.0,
+    "capex": 17229962000.0,
+    "fcf": -11992053000.0,
+    "ocf_to_np": 0.15
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 557860645000.0,
+   "revenue_yoy": 54.63,
+   "net_profit": 23740458000.0,
+   "net_profit_yoy": 95.99,
+   "net_profit_deducted": 22984123000.0,
+   "gross_margin": 7.15,
+   "net_margin": 4.26,
+   "roe": 13.36,
+   "eps": 1.2,
+   "debt_ratio": 65.66,
+   "ocf": 7391463000.0
+  },
+  "derived": {
+   "revenue_cagr_3y": 20.83,
+   "net_profit_cagr_3y": 20.69,
+   "receivables_to_revenue": 12.27,
+   "goodwill_to_equity": 0.2
+  }
+ },
+ "shareholders": {
+  "controller": "无实际控制人",
+  "controlling_shareholder": "China Galaxy Enterprise Limited",
+  "controlling_ratio": 36.75,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "China Galaxy Enterprise Limited",
+    "hold_num": 7293115611,
+    "hold_ratio": 36.75,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "富泰华工业(深圳)有限公司",
+    "hold_num": 4364680127,
+    "hold_ratio": 21.99,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "Ambit Microsystems (Cayman) Ltd.",
+    "hold_num": 1902255034,
+    "hold_ratio": 9.59,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "富士康科技集团有限公司",
+    "hold_num": 1635887159,
+    "hold_ratio": 8.24,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "鸿富锦精密电子(郑州)有限公司",
+    "hold_num": 597861110,
+    "hold_ratio": 3.01,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "Argyle Holdings Limited",
+    "hold_num": 327104697,
+    "hold_ratio": 1.65,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "香港中央结算有限公司",
+    "hold_num": 314107355,
+    "hold_ratio": 1.58,
+    "hold_num_change": -44281585
+   },
+   {
+    "rank": 8,
+    "name": "Joy Even Holdings Limited",
+    "hold_num": 247590604,
+    "hold_ratio": 1.25,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "Rich Pacific Holdings Limited",
+    "hold_num": 155355705,
+    "hold_ratio": 0.78,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 10,
+    "name": "Robot Holding Co., Ltd.",
+    "hold_num": 103333500,
+    "hold_ratio": 0.52,
+    "hold_num_change": 0
+   }
+  ],
+  "holder_num": 821520,
+  "holder_num_change_pct": 13.69,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 3.52,
+  "northbound_ratio": 1.58,
+  "executives": [
+   {
+    "name": "郑弘孟",
+    "title": "董事长",
+    "pay": 7584200.0
+   },
+   {
+    "name": "郑弘孟",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "刘宗长",
+    "title": "董事会秘书",
+    "pay": 3580700.0
+   }
+  ],
+  "pledge_ratio_total": 0.29,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.5,
+    "total_amount": 9932552005.5,
+    "payout_ratio": 49.64,
+    "dividend_yield": 5.06,
+    "ex_date": "2022-08-05"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.55,
+    "total_amount": 10926550158.7,
+    "payout_ratio": 54.43,
+    "dividend_yield": 2.43,
+    "ex_date": "2023-07-28"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.58,
+    "total_amount": 11523369532.32,
+    "payout_ratio": 54.77,
+    "dividend_yield": 2.71,
+    "ex_date": "2024-08-15"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.64,
+    "total_amount": 12710059242.24,
+    "payout_ratio": 54.75,
+    "dividend_yield": 1.92,
+    "ex_date": "2025-07-31"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.98,
+    "total_amount": 19451864592.33,
+    "payout_ratio": 55.13,
+    "dividend_yield": 0.94,
+    "ex_date": "2026-01-16"
+   }
+  ],
+  "consecutive_years": 5,
+  "cum_dividend_5y": 64544395531.09,
+  "cum_netprofit_5y": 119625046000.0,
+  "payout_5y": 53.96,
+  "buyback_3y": 1703014025.92
+ },
+ "peers": {
+  "peer_codes": [
+   "002475.SZ",
+   "300433.SZ",
+   "603296.SH",
+   "300857.SZ"
+  ],
+  "segments": [
+   {
+    "name": "3C电子产品",
+    "revenue": 901224002000.0,
+    "ratio": 99.82,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 1663186000.0,
+    "ratio": 0.18,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "中国大陆及其他",
+    "revenue": 504808399000.0,
+    "ratio": 55.91,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "墨西哥",
+    "revenue": 307044507000.0,
+    "ratio": 34.01,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "越南",
+    "revenue": 83055225000.0,
+    "ratio": 9.2,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "新加坡",
+    "revenue": 6315870000.0,
+    "ratio": 0.7,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 1663186000.0,
+    "ratio": 0.18,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "富士康工业互联网股份有限公司关于美国国际贸易委员会对公司及控股子公司开展337调查的公告",
+    "date": "2026-10-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-12/1225600466.PDF",
+    "type": null
+   },
+   {
+    "title": "富士康工业互联网股份有限公司关于股份回购实施结果暨股份变动的公告",
+    "date": "2026-09-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-19/1225571407.PDF",
+    "type": null
+   },
+   {
+    "title": "富士康工业互联网股份有限公司关于股份回购进展公告",
+    "date": "2026-09-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225543319.PDF",
+    "type": null
+   },
+   {
+    "title": "富士康工业互联网股份有限公司关于以集中竞价交易方式首次回购股份的公告",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482317.PDF",
+    "type": null
+   },
+   {
+    "title": "富士康工业互联网股份有限公司关于召开2026年半年度业绩说明会的公告",
+    "date": "2026-08-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225479094.PDF",
+    "type": null
+   },
+   {
+    "title": "富士康工业互联网股份有限公司2026年半年度募集资金存放、管理与实际使用情况的专项报告",
+    "date": "2026-08-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-12/1225468096.PDF",
+    "type": null
+   },
+   {
+    "title": "富士康工业互联网股份有限公司2026年半年度报告摘要",
+    "date": "2026-08-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-12/1225468088.PDF",
+    "type": null
+   },
+   {
+    "title": "富士康工业互联网股份有限公司2026年半年度报告",
+    "date": "2026-08-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-12/1225468066.PDF",
+    "type": null
+   },
+   {
+    "title": "富士康工业互联网股份有限公司第四届董事会第三次会议决议公告",
+    "date": "2026-08-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-12/1225468049.PDF",
+    "type": null
+   },
+   {
+    "title": "富士康工业互联网股份有限公司关于股份回购进展公告",
+    "date": "2026-08-05",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-05/1225457504.PDF",
+    "type": null
+   },
+   {
+    "title": "富士康工业互联网股份有限公司关于回购股份事项前十名股东和前十名无限售条件股东持股情况的公告",
+    "date": "2026-07-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-31/1225447828.PDF",
+    "type": null
+   },
+   {
+    "title": "富士康工业互联网股份有限公司关于以集中竞价交易方式回购股份的回购报告书",
+    "date": "2026-07-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-28/1225442540.PDF",
+    "type": null
+   },
+   {
+    "title": "富士康工业互联网股份有限公司第四届董事会第二次会议决议公告",
+    "date": "2026-07-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-28/1225442521.PDF",
+    "type": null
+   },
+   {
+    "title": "富士康工业互联网股份有限公司2025年年度权益分派实施公告",
+    "date": "2026-07-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-24/1225438954.PDF",
+    "type": null
+   },
+   {
+    "title": "富士康工业互联网股份有限公司2026年半年度业绩预增公告",
+    "date": "2026-07-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-10/1225417297.PDF",
+    "type": null
+   },
+   {
+    "title": "富士康工业互联网股份有限公司第四届董事会第一次会议决议公告",
+    "date": "2026-07-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-08/1225414046.PDF",
+    "type": null
+   },
+   {
+    "title": "富士康工业互联网股份有限公司关于董事会完成换届选举及聘任高级管理人员、证券事务代表的公告",
+    "date": "2026-07-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-08/1225414042.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市金杜律师事务所关于富士康工业互联网股份有限公司2026年第一次临时股东会之法律意见书",
+    "date": "2026-07-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-08/1225414040.PDF",
+    "type": null
+   },
+   {
+    "title": "富士康工业互联网股份有限公司2026年第一次临时股东会决议公告",
+    "date": "2026-07-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-08/1225414037.PDF",
+    "type": null
+   },
+   {
+    "title": "富士康工业互联网股份有限公司2026年第一次临时股东会会议资料",
+    "date": "2026-07-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-01/1225398422.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 104
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "公司作为万亿市值上市公司，自 8 月起股价持续调整，多次出现单日 4% 至 7% 的大幅回撤，波动明显超出大型权重股合理区间，中小投资者损失较大。公司推出 10 亿至 20 亿元回购计划，回购到期日为 10 月 26 日，但公司仅完成最低限额 10 亿元，在尚有充足回购时间的情况下结束回购，没有动用方案预留的资金，回购落地后股价继续下行25%，公司回购维稳为何这种水平，效果差到不能再差。",
+    "answer": null,
+    "ask_date": "2026-10-14",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=119303"
+   },
+   {
+    "question": "公司自8月份至今股价持续震荡下行，期间多次出现单日暴跌，同时公司此前实施的股份回购计划早早结束，实际回购金额仅到下限，未能起到稳定股价的作用。8 月至今公司核心经营指标是否发生未披露的负面变化？近期美国 337 专利调查事件，市场担忧会对下一代产品业务形成长期约束，公司评估该事件对中长期业务、客户合作的潜在影响有多大？股价持续走弱，机构资金持续流出，公司认为市场持续抛售的核心原因是什么,怎么稳定？",
+    "answer": null,
+    "ask_date": "2026-10-14",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=119303"
+   },
+   {
+    "question": "请回答我之前提的问题",
+    "answer": null,
+    "ask_date": "2026-10-12",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=119303"
+   },
+   {
+    "question": "美国国际贸易委员会（ITC）于当地时间2026年10月9日宣布，就美国Vicor Corporation提出的相关专利侵权主张，正式启动337调查（调查编号：337-TA-1526）。本次调查涉及美国专利US10,903,734，主要针对垂直供电系统（VPD）、相关组件及包含上述产品的计算系统，公司及下属控股子公司，请问公司是否侵权或违反？请给出回应！",
+    "answer": null,
+    "ask_date": "2026-10-12",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=119303"
+   },
+   {
+    "question": "关注媒体报道美国ITC启动垂直电力传输系统337调查，公司位列被调查名单，市场较为关切。请问目前公司是否已组织法务、技术团队开展评估，并制定相关应诉预案？若后续出具有限排除令，墨西哥等海外厂区产能，能否承接对美出货，对冲大陆厂区潜在出口限制？涉案供电模组对应的AI服务器业务占公司营收大致区间，是否会对现有AI服务器主营业务及客户订单产生重大不利影响？若事项达到信息披露标准，公司是否将发布正式公告。",
+    "answer": null,
+    "ask_date": "2026-10-12",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=119303"
+   }
+  ],
+  "count_12m": null
+ }
+}

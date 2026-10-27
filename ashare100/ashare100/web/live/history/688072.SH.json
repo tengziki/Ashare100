@@ -1,0 +1,588 @@
+{
+ "code": "688072.SH",
+ "name": "拓荆科技",
+ "exited_on": "2026-10-26",
+ "exited_vs": "2026-10-21 收盘（静态基准）",
+ "last_rank": 95,
+ "now_rank": 120,
+ "now_total_mv": 132676000000.0,
+ "profile_status": "verified_snapshot",
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 509.93,
+  "change_pct": -4.33,
+  "total_mv": 148987915571.1,
+  "float_mv": 144915628869.14,
+  "total_shares": 292173270,
+  "float_shares": 284187298,
+  "pe_ttm": 68.49,
+  "pe_static": 160.77,
+  "pb": 11.72,
+  "ps_ttm": 19.92,
+  "turnover_rate": 2.03,
+  "amount": 2995991525.0,
+  "high_52w": 944.65,
+  "low_52w": 242.67,
+  "ytd_return": 54.84,
+  "return_1y": 105.34,
+  "return_3y": 207.06,
+  "dividend_yield": 0.06,
+  "index_members": [
+   "沪深300",
+   "中证A500",
+   "科创50"
+  ]
+ },
+ "profile": {
+  "identity": {
+   "code": "688072",
+   "exchange": "SH",
+   "board": "科创板",
+   "name_full": "拓荆科技股份有限公司",
+   "name_abbr": "拓荆科技",
+   "aliases": [
+    "tjkj"
+   ],
+   "name_en": "Piotech Inc.",
+   "pinyin_abbr": "TJKJ",
+   "former_names": [],
+   "industry_sw1": "电子",
+   "industry_sw2": "半导体",
+   "list_date": "2022-04-20",
+   "province": "辽宁",
+   "city": "沈阳",
+   "website": "www.piotech.cn",
+   "chairman": "吕光泉",
+   "employees": 1695,
+   "business_summary": "主要从事高端半导体专用设备的研发、生产、销售和技术服务",
+   "profile": "拓荆科技股份有限公司成立于2010年4月,是国家高新技术企业,主要从事半导体专用设备的研发、生产、销售与技术服务。公司多次获评中国半导体行业协会授予的“中国半导体设备五强企业”称号。拓荆在北京、上海、海宁、青岛、沈阳和美国、BVI、新加坡及日本成立子公司。拓荆主要产品包括等离子体增强化学气相沉积(PECVD)设备、原子层沉积(ALD)设备、次常压化学气相沉积(SACVD)设备、高密度等离子体化学气相沉积(HDPCVD)设备、超高深宽比沟槽填充(FlowableCVD)设备和三维集成(W2W/D2WHybridBonding)设备以及相关量测设备等系列,拥有自主知识产权,技术指标达到国际同类产品的先进水平。产品主要应用于集成电路晶圆制造、先进存储和先进封装、HBM、MEMS、Micro-LED和Micro-OLED显示等高端技术领域。拓荆产品已进入北京、上海、武汉、合肥、天津及中国台湾地区等30多个省市地区的100多条生产线,并设有技术服务中心,为客户提供每周7天,每天24小时的技术支持。公司已形成一支国际化的专业团队,具备高科技研发实力及管理经验。",
+   "st_status": "正常",
+   "audit_opinion": "标准无保留意见"
+  },
+  "financials": {
+   "unit": "CNY",
+   "annual": [
+    {
+     "fiscal_year": 2021,
+     "report_date": "2021-12-31",
+     "revenue": 757960880.13,
+     "revenue_yoy": 73.99,
+     "net_profit": 68486475.03,
+     "net_profit_yoy": 696.1,
+     "net_profit_deducted": -82000592.91,
+     "gross_margin": 44.01,
+     "net_margin": 8.83,
+     "selling_expense_ratio": 12.79,
+     "admin_expense_ratio": 5.87,
+     "finance_expense_ratio": -2.55,
+     "rd_expense": 288308464.81,
+     "rd_ratio": 38.04,
+     "eps": 0.72,
+     "bvps": 12.57,
+     "roe": 5.92,
+     "roa": 3.09,
+     "total_assets": 2517728208.91,
+     "total_liab": 1324390602.63,
+     "debt_ratio": 52.6,
+     "cash": 964792160.03,
+     "receivables": 102604593.92,
+     "inventory": 953158229.28,
+     "goodwill": null,
+     "interest_debt": 1511107.13,
+     "equity_parent": 1192607665.6,
+     "ocf": 137480579.51,
+     "capex": 149651050.63,
+     "fcf": -12170471.12,
+     "ocf_to_np": 2.01
+    },
+    {
+     "fiscal_year": 2022,
+     "report_date": "2022-12-31",
+     "revenue": 1705562723.82,
+     "revenue_yoy": 125.02,
+     "net_profit": 368470797.91,
+     "net_profit_yoy": 438.02,
+     "net_profit_deducted": 178057348.3,
+     "gross_margin": 49.27,
+     "net_margin": 21.35,
+     "selling_expense_ratio": 11.27,
+     "admin_expense_ratio": 4.75,
+     "finance_expense_ratio": -1.07,
+     "rd_expense": 378740474.41,
+     "rd_ratio": 22.21,
+     "eps": 2.15,
+     "bvps": 29.35,
+     "roe": 13.13,
+     "roa": 7.41,
+     "total_assets": 7313735941.18,
+     "total_liab": 3605885679.39,
+     "debt_ratio": 49.3,
+     "cash": 3827365225.77,
+     "receivables": 261926525.24,
+     "inventory": 2296586858.14,
+     "goodwill": null,
+     "interest_debt": 672863391.9,
+     "equity_parent": 3711485492.51,
+     "ocf": 247625867.82,
+     "capex": 111071802.51,
+     "fcf": 136554065.31,
+     "ocf_to_np": 0.67
+    },
+    {
+     "fiscal_year": 2023,
+     "report_date": "2023-12-31",
+     "revenue": 2704974035.48,
+     "revenue_yoy": 58.6,
+     "net_profit": 662583836.09,
+     "net_profit_yoy": 79.82,
+     "net_profit_deducted": 312119681.34,
+     "gross_margin": 47.11,
+     "net_margin": 24.54,
+     "selling_expense_ratio": 6.51,
+     "admin_expense_ratio": 6.98,
+     "finance_expense_ratio": -0.44,
+     "rd_expense": 575948854.58,
+     "rd_ratio": 21.29,
+     "eps": 2.39,
+     "bvps": 24.41,
+     "roe": 16.09,
+     "roa": 7.68,
+     "total_assets": 9969345254.15,
+     "total_liab": 5377702351.65,
+     "debt_ratio": 53.94,
+     "cash": 2675647284.83,
+     "receivables": 529709337.36,
+     "inventory": 4556138102.99,
+     "goodwill": null,
+     "interest_debt": 2010233005.99,
+     "equity_parent": 4593860407.52,
+     "ocf": -1657342652.77,
+     "capex": 480826066.54,
+     "fcf": -2138168719.31,
+     "ocf_to_np": -2.5
+    },
+    {
+     "fiscal_year": 2024,
+     "report_date": "2024-12-31",
+     "revenue": 4103453853.41,
+     "revenue_yoy": 51.7,
+     "net_profit": 688154723.26,
+     "net_profit_yoy": 3.86,
+     "net_profit_deducted": 356137942.78,
+     "gross_margin": 41.69,
+     "net_margin": 16.75,
+     "selling_expense_ratio": 7.06,
+     "admin_expense_ratio": 5.12,
+     "finance_expense_ratio": 1.59,
+     "rd_expense": 755976317.58,
+     "rd_ratio": 18.42,
+     "eps": 2.48,
+     "bvps": 18.88,
+     "roe": 14.1,
+     "roa": 5.44,
+     "total_assets": 15314166086.88,
+     "total_liab": 10015095835.31,
+     "debt_ratio": 65.4,
+     "cash": 3002799350.8,
+     "receivables": 1473185667.99,
+     "inventory": 7215724005.26,
+     "goodwill": null,
+     "interest_debt": 3656321994.67,
+     "equity_parent": 5280154359.39,
+     "ocf": -282525331.06,
+     "capex": 686227996.73,
+     "fcf": -968753327.79,
+     "ocf_to_np": -0.41
+    },
+    {
+     "fiscal_year": 2025,
+     "report_date": "2025-12-31",
+     "revenue": 6519094874.63,
+     "revenue_yoy": 58.87,
+     "net_profit": 926703966.52,
+     "net_profit_yoy": 34.67,
+     "net_profit_deducted": 723146885.28,
+     "gross_margin": 34.95,
+     "net_margin": 14.03,
+     "selling_expense_ratio": 6.24,
+     "admin_expense_ratio": 4.81,
+     "finance_expense_ratio": 1.31,
+     "rd_expense": 769577151.18,
+     "rd_ratio": 11.8,
+     "eps": 3.32,
+     "bvps": 23.41,
+     "roe": 15.77,
+     "roa": 5.21,
+     "total_assets": 19823566917.19,
+     "total_liab": 12708096577.24,
+     "debt_ratio": 64.11,
+     "cash": 5299891144.07,
+     "receivables": 1406946866.91,
+     "inventory": 7825778934.48,
+     "goodwill": null,
+     "interest_debt": 3045808958.31,
+     "equity_parent": 6609957217.37,
+     "ocf": 3633207138.2,
+     "capex": 575433365.9,
+     "fcf": 3057773772.3,
+     "ocf_to_np": 3.92
+    }
+   ],
+   "latest": {
+    "report_period": "2026-06-30",
+    "report_type": "2026年中报",
+    "revenue": 2912864261.46,
+    "revenue_yoy": 49.06,
+    "net_profit": 1342753980.93,
+    "net_profit_yoy": 1324.1,
+    "net_profit_deducted": 367334974.63,
+    "gross_margin": 41.0,
+    "net_margin": 45.35,
+    "roe": 18.11,
+    "eps": 4.77,
+    "debt_ratio": 47.85,
+    "ocf": 115460241.35
+   },
+   "derived": {
+    "revenue_cagr_3y": 56.35,
+    "net_profit_cagr_3y": 35.99,
+    "receivables_to_revenue": 21.58,
+    "goodwill_to_equity": null
+   }
+  },
+  "shareholders": {
+   "controller": "无实际控制人",
+   "controlling_shareholder": "国家集成电路产业投资基金股份有限公司",
+   "controlling_ratio": 16.48,
+   "top10": [
+    {
+     "rank": 1,
+     "name": "国家集成电路产业投资基金股份有限公司",
+     "hold_num": 46591776,
+     "hold_ratio": 16.48,
+     "hold_num_change": 0
+    },
+    {
+     "rank": 2,
+     "name": "国投(上海)创业投资管理有限公司-国投(上海)科技成果转化创业投资基金企业(有限合伙)",
+     "hold_num": 37888000,
+     "hold_ratio": 13.4,
+     "hold_num_change": 0
+    },
+    {
+     "rank": 3,
+     "name": "中微半导体设备(上海)股份有限公司",
+     "hold_num": 17778698,
+     "hold_ratio": 6.29,
+     "hold_num_change": 0
+    },
+    {
+     "rank": 4,
+     "name": "香港中央结算有限公司",
+     "hold_num": 13709378,
+     "hold_ratio": 4.85,
+     "hold_num_change": 0
+    },
+    {
+     "rank": 5,
+     "name": "中国科学院沈阳科学仪器股份有限公司",
+     "hold_num": 3935362,
+     "hold_ratio": 1.39,
+     "hold_num_change": 0
+    },
+    {
+     "rank": 6,
+     "name": "广发证券股份有限公司-国泰中证半导体材料设备主题交易型开放式指数证券投资基金",
+     "hold_num": 3412858,
+     "hold_ratio": 1.21,
+     "hold_num_change": 0
+    },
+    {
+     "rank": 7,
+     "name": "招商银行股份有限公司-华夏上证科创板50成份交易型开放式指数证券投资基金",
+     "hold_num": 3365896,
+     "hold_ratio": 1.19,
+     "hold_num_change": -349434
+    },
+    {
+     "rank": 8,
+     "name": "中国农业银行股份有限公司-东方人工智能主题混合型证券投资基金",
+     "hold_num": 2971164,
+     "hold_ratio": 1.05,
+     "hold_num_change": 0
+    },
+    {
+     "rank": 9,
+     "name": "中信证券股份有限公司-嘉实上证科创板芯片交易型开放式指数证券投资基金",
+     "hold_num": 2792823,
+     "hold_ratio": 0.99,
+     "hold_num_change": -132537
+    },
+    {
+     "rank": 10,
+     "name": "中国建设银行股份有限公司-银华集成电路混合型证券投资基金",
+     "hold_num": 2359714,
+     "hold_ratio": 0.83,
+     "hold_num_change": 0
+    }
+   ],
+   "holder_num": 34078,
+   "holder_num_change_pct": 99.24,
+   "holder_num_date": "2026-06-30",
+   "inst_hold_ratio": 25.71,
+   "northbound_ratio": 4.85,
+   "executives": [
+    {
+     "name": "吕光泉",
+     "title": "董事长",
+     "pay": 7882000.0
+    },
+    {
+     "name": "刘静",
+     "title": "总经理",
+     "pay": 2039800.0
+    },
+    {
+     "name": "赵曦",
+     "title": "董事会秘书",
+     "pay": null
+    }
+   ],
+   "pledge_ratio_total": 0.0,
+   "unlock_12m": [
+    {
+     "date": "2027-01-04",
+     "shares": 7985972,
+     "ratio": 2.73
+    }
+   ]
+  },
+  "dividends": {
+   "annual": [
+    {
+     "fiscal_year": 2021,
+     "dps_pretax": 0,
+     "total_amount": 0,
+     "payout_ratio": 0.0,
+     "dividend_yield": 0.0,
+     "ex_date": null
+    },
+    {
+     "fiscal_year": 2022,
+     "dps_pretax": 0.26,
+     "total_amount": 32884487.22,
+     "payout_ratio": 8.92,
+     "dividend_yield": 0.08,
+     "ex_date": "2023-07-24"
+    },
+    {
+     "fiscal_year": 2023,
+     "dps_pretax": 0.35,
+     "total_amount": 65865889.25,
+     "payout_ratio": 9.94,
+     "dividend_yield": 0.17,
+     "ex_date": "2024-06-11"
+    },
+    {
+     "fiscal_year": 2024,
+     "dps_pretax": 0.27,
+     "total_amount": 75526861.86,
+     "payout_ratio": 10.98,
+     "dividend_yield": 0.19,
+     "ex_date": "2025-06-19"
+    },
+    {
+     "fiscal_year": 2025,
+     "dps_pretax": 0.33,
+     "total_amount": 93288693.96,
+     "payout_ratio": 10.07,
+     "dividend_yield": 0.05,
+     "ex_date": "2026-06-04"
+    }
+   ],
+   "consecutive_years": 5,
+   "cum_dividend_5y": 267565932.29,
+   "cum_netprofit_5y": 2714399798.81,
+   "payout_5y": 9.86,
+   "buyback_3y": null
+  },
+  "peers": {
+   "peer_codes": [
+    "688825.SH",
+    "688981.SH",
+    "688256.SH",
+    "688041.SH"
+   ],
+   "segments": [
+    {
+     "name": "半导体专用设备",
+     "revenue": 6295533874.95,
+     "ratio": 96.57,
+     "type": "product",
+     "period": "2025年报"
+    },
+    {
+     "name": "其他(补充)",
+     "revenue": 222653464.27,
+     "ratio": 3.42,
+     "type": "product",
+     "period": "2025年报"
+    },
+    {
+     "name": "中国大陆",
+     "revenue": 6296441410.36,
+     "ratio": 96.58,
+     "type": "region",
+     "period": "2025年报"
+    },
+    {
+     "name": "其他(补充)",
+     "revenue": 222653464.27,
+     "ratio": 3.42,
+     "type": "region",
+     "period": "2025年报"
+    }
+   ]
+  },
+  "announcements": {
+   "items": [
+    {
+     "title": "董事会关于评估机构的独立性、评估假设前提的合理性、评估方法与评估目的的相关性以及评估定价的公允性的说明",
+     "date": "2026-10-16",
+     "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607705.PDF",
+     "type": null
+    },
+    {
+     "title": "独立董事关于评估机构的独立性、评估假设前提的合理性、评估方法与评估目的的相关性及评估定价的公允性的独立意见",
+     "date": "2026-10-16",
+     "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607703.PDF",
+     "type": null
+    },
+    {
+     "title": "拓荆科技股份有限公司拟发行股份及支付现金购买资产涉及上海泰纳微企业管理有限公司股东全部权益价值评估项目资产评估报告",
+     "date": "2026-10-16",
+     "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607702.PDF",
+     "type": null
+    },
+    {
+     "title": "董事会关于本次交易符合《上市公司监管指引第9号——上市公司筹划和实施重大资产重组的监管要求》第四条规定的说明",
+     "date": "2026-10-16",
+     "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607701.PDF",
+     "type": null
+    },
+    {
+     "title": "拓荆科技股份有限公司发行股份及支付现金购买资产并募集配套资金报告书（草案）",
+     "date": "2026-10-16",
+     "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607700.PDF",
+     "type": null
+    },
+    {
+     "title": "拓荆科技股份有限公司拟发行股份及支付现金购买资产涉及无锡尚积半导体科技股份有限公司股东全部权益价值评估项目资产评估报告",
+     "date": "2026-10-16",
+     "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607699.PDF",
+     "type": null
+    },
+    {
+     "title": "上海泰纳微企业管理有限公司审计报告天职业字[2026]35752号",
+     "date": "2026-10-16",
+     "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607698.PDF",
+     "type": null
+    },
+    {
+     "title": "华泰联合证券有限责任公司关于拓荆科技股份有限公司发行股份及支付现金购买资产并募集配套资金之独立财务顾问报告",
+     "date": "2026-10-16",
+     "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607697.PDF",
+     "type": null
+    },
+    {
+     "title": "第二届董事会独立董事第十三次专门会议决议",
+     "date": "2026-10-16",
+     "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607696.PDF",
+     "type": null
+    },
+    {
+     "title": "华泰联合证券有限责任公司关于本次交易前十二个月购买、出售资产的核查意见",
+     "date": "2026-10-16",
+     "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607695.PDF",
+     "type": null
+    },
+    {
+     "title": "董事会关于发行股份及支付现金购买资产并募集配套资金报告书（草案）与预案差异情况说明",
+     "date": "2026-10-16",
+     "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607694.PDF",
+     "type": null
+    },
+    {
+     "title": "董事会关于公司股票价格在本次交易首次公告日前20个交易日内波动情况的说明",
+     "date": "2026-10-16",
+     "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607693.PDF",
+     "type": null
+    },
+    {
+     "title": "拓荆科技股份有限公司备考合并财务报表审阅报告天职业字[2026]36420号",
+     "date": "2026-10-16",
+     "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607692.PDF",
+     "type": null
+    },
+    {
+     "title": "拓荆科技股份有限公司拟发行股份及支付现金购买资产涉及无锡宽行企业管理有限公司股东全部权益价值评估项目资产评估报告",
+     "date": "2026-10-16",
+     "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607691.PDF",
+     "type": null
+    },
+    {
+     "title": "无锡宽行企业管理有限公司审计报告天职业字[2026]35753号",
+     "date": "2026-10-16",
+     "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607690.PDF",
+     "type": null
+    },
+    {
+     "title": "董事会关于本次交易采取的保密措施及保密制度的说明",
+     "date": "2026-10-16",
+     "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607689.PDF",
+     "type": null
+    },
+    {
+     "title": "华泰联合证券有限责任公司关于本次交易符合《关于加强证券公司在投资银行类业务中聘请第三方等廉洁从业风险防控的意见》的相关规定之核查意见",
+     "date": "2026-10-16",
+     "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607688.PDF",
+     "type": null
+    },
+    {
+     "title": "董事会关于本次交易定价的依据及公平合理性的说明",
+     "date": "2026-10-16",
+     "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607687.PDF",
+     "type": null
+    },
+    {
+     "title": "董事会关于本次交易履行法定程序的完备性、合规性及提交的法律文件的有效性的说明",
+     "date": "2026-10-16",
+     "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607686.PDF",
+     "type": null
+    },
+    {
+     "title": "拓荆科技股份有限公司发行股份及支付现金购买资产并募集配套资金报告书（草案）摘要",
+     "date": "2026-10-16",
+     "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607685.PDF",
+     "type": null
+    }
+   ],
+   "count_12m": 259
+  },
+  "qa": {
+   "items": [
+    {
+     "question": "公司战略投资了苏州晶拓半导体吗？",
+     "answer": null,
+     "ask_date": "2026-10-21",
+     "answer_date": null,
+     "source": "sse_e",
+     "url": "https://sns.sseinfo.com/company.do?uid=247110"
+    }
+   ],
+   "count_12m": null
+  }
+ },
+ "now_at": "2026-10-27",
+ "exited_range": "2026-10-22 至 2026-10-26 之间"
+}

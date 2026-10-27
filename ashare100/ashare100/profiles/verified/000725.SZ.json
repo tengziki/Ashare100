@@ -1,0 +1,650 @@
+{
+ "identity": {
+  "code": "000725",
+  "exchange": "SZ",
+  "board": "主板",
+  "name_full": "京东方科技集团股份有限公司",
+  "name_abbr": "京东方A",
+  "aliases": [
+   "jdfa",
+   "京东方",
+   "jdf"
+  ],
+  "name_en": "Boe Technology Group Co., Ltd.",
+  "pinyin_abbr": "JDFA",
+  "former_names": [
+   "京东方A→G京东方→京东方A→*ST东方A"
+  ],
+  "industry_sw1": "电子",
+  "industry_sw2": "光学光电子",
+  "list_date": "2001-01-12",
+  "province": "北京",
+  "city": "北京",
+  "website": "www.boe.com",
+  "chairman": "陈炎顺",
+  "employees": 109895,
+  "business_summary": "显示器件,物联网创新,传感,MLED,智慧医工,“N”业务",
+  "profile": "京东方科技集团股份有限公司(BOE)创立于1993年4月,是一家领先的物联网创新企业,为信息交互和人类健康提供智慧端口产品和专业服务,形成了以显示为核心,物联网创新、传感器及解决方案、MLED、智慧医工融合发展的“1+4+N+生态链”发展业务架构。美国专利服务机构IFIClaims发布2025年度美国专利授权量统计报告,京东方全球排名第13位,连续8年跻身全球TOP20;世界知识产权组织(WIPO)2025年全球国际专利申请排名中,连续10年进入全球PCT专利申请TOP10。BOE(京东方)在北京、合肥、成都、重庆、福州、绵阳、武汉、昆明、苏州、鄂尔多斯等地拥有多个制造基地,子公司遍布美国、德国、日本、韩国、新加坡、印度、巴西、阿联酋等20多个国家和地区,服务体系覆盖欧、美、亚、非等全球主要地区。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 4.86,
+  "change_pct": -3.76,
+  "total_mv": 180035434391.04,
+  "float_mv": 171884271808.62,
+  "total_shares": 37044328064,
+  "float_shares": 35367134117,
+  "pe_ttm": 22.91,
+  "pe_static": 30.74,
+  "pb": 1.35,
+  "ps_ttm": 0.87,
+  "turnover_rate": 2.91,
+  "amount": 5047212786.55,
+  "high_52w": 9.5,
+  "low_52w": 3.73,
+  "ytd_return": 17.0,
+  "return_1y": 22.6,
+  "return_3y": 33.74,
+  "dividend_yield": 1.15,
+  "index_members": [
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 221035718012.0,
+    "revenue_yoy": 63.06,
+    "net_profit": 25960751646.0,
+    "net_profit_yoy": 415.54,
+    "net_profit_deducted": 24067355898.0,
+    "gross_margin": 28.84,
+    "net_margin": 13.98,
+    "selling_expense_ratio": 2.48,
+    "admin_expense_ratio": 3.03,
+    "finance_expense_ratio": 1.67,
+    "rd_expense": 10616426327.0,
+    "rd_ratio": 4.8,
+    "eps": 0.71,
+    "bvps": 3.35,
+    "roe": 23.93,
+    "roa": 7.07,
+    "total_assets": 450232603404.0,
+    "total_liab": 232853836888.0,
+    "debt_ratio": 51.72,
+    "cash": 80986835088.0,
+    "receivables": 35503414820.0,
+    "inventory": 27805161436.0,
+    "goodwill": 1130006987.0,
+    "interest_debt": 148054399334.0,
+    "equity_parent": 143204240947.0,
+    "ocf": 62698688556.0,
+    "capex": 36098078337.0,
+    "fcf": 26600610219.0,
+    "ocf_to_np": 2.42
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 178413731179.0,
+    "revenue_yoy": -19.28,
+    "net_profit": 7541423198.0,
+    "net_profit_yoy": -70.95,
+    "net_profit_deducted": -2238106753.0,
+    "gross_margin": 11.7,
+    "net_margin": -0.98,
+    "selling_expense_ratio": 2.37,
+    "admin_expense_ratio": 3.5,
+    "finance_expense_ratio": 1.37,
+    "rd_expense": 11100768677.0,
+    "rd_ratio": 6.22,
+    "eps": 0.19,
+    "bvps": 3.35,
+    "roe": 5.45,
+    "roa": -0.4,
+    "total_assets": 420567865936.0,
+    "total_liab": 218527298911.0,
+    "debt_ratio": 51.96,
+    "cash": 68800307369.0,
+    "receivables": 28203647569.0,
+    "inventory": 22787814225.0,
+    "goodwill": 660823651.0,
+    "interest_debt": 148759755315.0,
+    "equity_parent": 136086175204.0,
+    "ocf": 43021967305.0,
+    "capex": 29398245045.0,
+    "fcf": 13623722260.0,
+    "ocf_to_np": 5.7
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 174543445895.0,
+    "revenue_yoy": -2.17,
+    "net_profit": 2547435360.0,
+    "net_profit_yoy": -66.22,
+    "net_profit_deducted": -632561344.0,
+    "gross_margin": 11.5,
+    "net_margin": 0.21,
+    "selling_expense_ratio": 1.09,
+    "admin_expense_ratio": 3.41,
+    "finance_expense_ratio": 0.66,
+    "rd_expense": 11319503088.0,
+    "rd_ratio": 6.49,
+    "eps": 0.06,
+    "bvps": 3.38,
+    "roe": 1.89,
+    "roa": 0.09,
+    "total_assets": 419187099795.0,
+    "total_liab": 221388413476.0,
+    "debt_ratio": 52.81,
+    "cash": 72467392718.0,
+    "receivables": 33365416490.0,
+    "inventory": 24119667325.0,
+    "goodwill": 704705586.0,
+    "interest_debt": 148271692494.0,
+    "equity_parent": 129428307067.0,
+    "ocf": 38301826884.0,
+    "capex": 24807796061.0,
+    "fcf": 13494030823.0,
+    "ocf_to_np": 15.04
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 198380605661.0,
+    "revenue_yoy": 13.66,
+    "net_profit": 5323248974.0,
+    "net_profit_yoy": 108.97,
+    "net_profit_deducted": 3837124867.0,
+    "gross_margin": 15.2,
+    "net_margin": 2.09,
+    "selling_expense_ratio": 1.01,
+    "admin_expense_ratio": 3.13,
+    "finance_expense_ratio": 0.62,
+    "rd_expense": 13123309231.0,
+    "rd_ratio": 6.62,
+    "eps": 0.14,
+    "bvps": 3.48,
+    "roe": 4.05,
+    "roa": 0.98,
+    "total_assets": 429978221541.0,
+    "total_liab": 225432049797.0,
+    "debt_ratio": 52.43,
+    "cash": 74252625215.0,
+    "receivables": 36338199204.0,
+    "inventory": 23313464392.0,
+    "goodwill": 653575022.0,
+    "interest_debt": 146633667503.0,
+    "equity_parent": 132937555308.0,
+    "ocf": 47737577379.0,
+    "capex": 34037798428.0,
+    "fcf": 13699778951.0,
+    "ocf_to_np": 8.97
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 204590222888.0,
+    "revenue_yoy": 3.13,
+    "net_profit": 5856966754.0,
+    "net_profit_yoy": 10.03,
+    "net_profit_deducted": 4230339525.0,
+    "gross_margin": 15.64,
+    "net_margin": 2.46,
+    "selling_expense_ratio": 1.06,
+    "admin_expense_ratio": 2.88,
+    "finance_expense_ratio": 0.9,
+    "rd_expense": 13836670878.0,
+    "rd_ratio": 6.76,
+    "eps": 0.16,
+    "bvps": 3.59,
+    "roe": 4.39,
+    "roa": 1.16,
+    "total_assets": 436378322803.0,
+    "total_liab": 228902566070.0,
+    "debt_ratio": 52.46,
+    "cash": 72222940175.0,
+    "receivables": 32293002623.0,
+    "inventory": 27748526136.0,
+    "goodwill": 653575022.0,
+    "interest_debt": 143558438547.0,
+    "equity_parent": 134478628806.0,
+    "ocf": 48824555674.0,
+    "capex": 40094380995.0,
+    "fcf": 8730174679.0,
+    "ocf_to_np": 8.34
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 103132382859.0,
+   "revenue_yoy": 1.83,
+   "net_profit": 5247660077.0,
+   "net_profit_yoy": 61.62,
+   "net_profit_deducted": 3008251856.0,
+   "gross_margin": 15.03,
+   "net_margin": 4.88,
+   "roe": 3.82,
+   "eps": 0.14,
+   "debt_ratio": 52.69,
+   "ocf": 22744634093.0
+  },
+  "derived": {
+   "revenue_cagr_3y": 4.67,
+   "net_profit_cagr_3y": -8.08,
+   "receivables_to_revenue": 15.78,
+   "goodwill_to_equity": 0.49
+  }
+ },
+ "shareholders": {
+  "controller": "北京电子控股有限责任公司",
+  "controlling_shareholder": "北京国有资本运营管理有限公司",
+  "controlling_ratio": 10.97,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "北京国有资本运营管理有限公司",
+    "hold_num": 4063333333,
+    "hold_ratio": 10.97,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "香港中央结算有限公司",
+    "hold_num": 2312677545,
+    "hold_ratio": 6.24,
+    "hold_num_change": 61388102
+   },
+   {
+    "rank": 3,
+    "name": "北京京东方投资发展有限公司",
+    "hold_num": 822092180,
+    "hold_ratio": 2.22,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "北京京国瑞国企改革发展基金(有限合伙)",
+    "hold_num": 718132854,
+    "hold_ratio": 1.94,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "福清市汇融创业投资集团有限公司",
+    "hold_num": 538599640,
+    "hold_ratio": 1.45,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "蔡敏",
+    "hold_num": 293580276,
+    "hold_ratio": 0.79,
+    "hold_num_change": 2771200
+   },
+   {
+    "rank": 7,
+    "name": "北京电子控股有限责任公司",
+    "hold_num": 273735583,
+    "hold_ratio": 0.74,
+    "hold_num_change": null
+   },
+   {
+    "rank": 8,
+    "name": "许丽丽",
+    "hold_num": 168656000,
+    "hold_ratio": 0.46,
+    "hold_num_change": null
+   },
+   {
+    "rank": 9,
+    "name": "义乌和谐锦弘股权投资合伙企业(有限合伙)",
+    "hold_num": 149287513,
+    "hold_ratio": 0.4,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "山东海控私募基金管理有限公司",
+    "hold_num": 147163387,
+    "hold_ratio": 0.4,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 1924730,
+  "holder_num_change_pct": 92.45,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 6.33,
+  "northbound_ratio": 6.24,
+  "executives": [
+   {
+    "name": "陈炎顺",
+    "title": "董事长",
+    "pay": 4728500.0
+   },
+   {
+    "name": "冯强",
+    "title": "总经理",
+    "pay": 5231800.0
+   },
+   {
+    "name": "郭红",
+    "title": "董事会秘书",
+    "pay": 1938900.0
+   }
+  ],
+  "pledge_ratio_total": 0.6,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.21,
+    "total_amount": 8073606761.22,
+    "payout_ratio": 31.1,
+    "dividend_yield": 5.34,
+    "ex_date": "2022-05-30"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.061,
+    "total_amount": 2329349953.47,
+    "payout_ratio": 30.89,
+    "dividend_yield": 1.55,
+    "ex_date": "2023-06-07"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.03,
+    "total_amount": 1129499442.48,
+    "payout_ratio": 44.34,
+    "dividend_yield": 0.72,
+    "ex_date": "2024-06-19"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.05,
+    "total_amount": 1870694023.2,
+    "payout_ratio": 35.14,
+    "dividend_yield": 1.26,
+    "ex_date": "2025-06-25"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.056,
+    "total_amount": 2074482371.58,
+    "payout_ratio": 35.42,
+    "dividend_yield": 0.83,
+    "ex_date": "2026-06-18"
+   }
+  ],
+  "consecutive_years": 5,
+  "cum_dividend_5y": 15477632551.95,
+  "cum_netprofit_5y": 47229825932.0,
+  "payout_5y": 32.77,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [
+   "001399.SZ",
+   "000100.SZ",
+   "600703.SH",
+   "688781.SH"
+  ],
+  "segments": [
+   {
+    "name": "显示器件业务",
+    "revenue": 166417015418.0,
+    "ratio": 81.34,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "物联网创新业务",
+    "revenue": 38949236781.0,
+    "ratio": 19.04,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "MLED业务",
+    "revenue": 9316052632.0,
+    "ratio": 4.55,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "智慧医工业务",
+    "revenue": 1902021967.0,
+    "ratio": 0.93,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他及抵销",
+    "revenue": -12581548468.0,
+    "ratio": -6.15,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "中国大陆",
+    "revenue": 102754305370.0,
+    "ratio": 50.22,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他地区",
+    "revenue": 101835917518.0,
+    "ratio": 49.78,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "关于股东股权无偿划转的提示性公告",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225609674.PDF",
+    "type": null
+   },
+   {
+    "title": "关于控股股东、实际控制人权益变动触及1%整数倍及其增持公司股份计划实施完毕暨实施结果的公告",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225604906.PDF",
+    "type": null
+   },
+   {
+    "title": "关于回购公司股份的进展公告",
+    "date": "2026-10-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225589983.PDF",
+    "type": null
+   },
+   {
+    "title": "关于京东方科技集团股份有限公司2026年第一次临时股东会的法律意见书",
+    "date": "2026-09-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-18/1225569811.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年第一次临时股东会决议公告",
+    "date": "2026-09-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-18/1225569810.PDF",
+    "type": null
+   },
+   {
+    "title": "关于举行业绩网上说明会并征集相关问题的公告",
+    "date": "2026-09-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-11/1225558030.PDF",
+    "type": null
+   },
+   {
+    "title": "关于2020年股票期权与限制性股票激励计划部分股票期权注销完成的公告",
+    "date": "2026-09-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-11/1225558029.PDF",
+    "type": null
+   },
+   {
+    "title": "关于回购公司股份的进展公告",
+    "date": "2026-09-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-01/1225536724.PDF",
+    "type": null
+   },
+   {
+    "title": "公司治理制度修订对照表",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225526276.PDF",
+    "type": null
+   },
+   {
+    "title": "董事离职管理办法（2026年8月）",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225526275.PDF",
+    "type": null
+   },
+   {
+    "title": "董事会秘书工作细则（2026年8月）",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225526274.PDF",
+    "type": null
+   },
+   {
+    "title": "董事会提名薪酬考核委员会组成及议事规则（2026年8月）",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225526273.PDF",
+    "type": null
+   },
+   {
+    "title": "关于“质量回报双提升”行动方案的进展公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225526272.PDF",
+    "type": null
+   },
+   {
+    "title": "关于会计政策变更的公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225526271.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度计提资产减值准备的公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225526270.PDF",
+    "type": null
+   },
+   {
+    "title": "关于京东方科技集团股份有限公司2020年股票期权与限制性股票激励计划注销部分股票期权事项之独立财务顾问报告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225526269.PDF",
+    "type": null
+   },
+   {
+    "title": "关于京东方科技集团股份有限公司注销2020年股票期权与限制性股票激励计划部分股票期权的法律意见书",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225526268.PDF",
+    "type": null
+   },
+   {
+    "title": "董事会提名薪酬考核委员会关于2020年股票期权与限制性股票激励计划相关事项的核查意见",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225526267.PDF",
+    "type": null
+   },
+   {
+    "title": "关于注销2020年股票期权与限制性股票激励计划部分股票期权的公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225526266.PDF",
+    "type": null
+   },
+   {
+    "title": "关于选举公司第十一届董事会非独立董事的公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225526265.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 166
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "三星，LGD都转入研发无FMM OLED制造工业。请问公司重金打造的G86代线是不是存在技术路线上的失败问题？公司所有的6代线至今都没有盈利，新业务还在画饼阶段。请问公司如何在未来靠业绩支撑市值？",
+    "answer": null,
+    "ask_date": "2026-10-21",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2386602104594083840"
+   },
+   {
+    "question": "请问贵公司截止10月10日最新股东人数？",
+    "answer": "您好！股东人数请关注公司公告。谢谢！",
+    "ask_date": "2026-10-12",
+    "answer_date": "2026-10-20",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2379909789545414656"
+   },
+   {
+    "question": "贵公司是否有万亿市值的目标？",
+    "answer": null,
+    "ask_date": "2026-10-09",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2377502142669127680"
+   },
+   {
+    "question": "请问公司无FMM技术的进展？是否落后华星LG？是否需要加大研发支出？",
+    "answer": "您好！公司持续关注无精细掩膜板技术，并对相关技术工艺保持开发和验证。谢谢！",
+    "ask_date": "2026-09-22",
+    "answer_date": "2026-10-10",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2365001064794836992"
+   },
+   {
+    "question": "请问贵公司截止9月20日最新股东数？",
+    "answer": "您好！股东人数请关注公司公告。谢谢！",
+    "ask_date": "2026-09-20",
+    "answer_date": "2026-10-10",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2363595425078071296"
+   },
+   {
+    "question": "请问贵公司截止9月10日最新股东数？",
+    "answer": "您好！股东人数请关注公司公告。谢谢！",
+    "ask_date": "2026-09-20",
+    "answer_date": "2026-10-10",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2363595167380033536"
+   },
+   {
+    "question": "请问京东方未来led屏幕业务是自己销售还是作为利亚德、艾比森、洲明等公司供应商？若两条腿走路怎么厘清竞争关系？",
+    "answer": "您好！在MLED领域，公司一方面依托珠海晶芯等制造基地，发挥技术、产品及产能优势，面向行业客户提供具备竞争力的产品，赋能产业链伙伴拓展市场；另一方面，基于MLED完整技术能力，面向特定场景提供显示解决方案。 在业务边界上，产品供应与解决方案业务面向差异化的客户群体及应用场景。公司尊重行业生态，与行业内方案商伙伴以产业协同为主，持续拓展应用场景，推动MLED技术普及落地。谢谢！",
+    "ask_date": "2026-09-17",
+    "answer_date": "2026-10-10",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2361557694975467520"
+   },
+   {
+    "question": "请问目前OLED8.6代线现在稼动率怎么样？随着8.6代线下半年的量产，会对OLED整体的经营状况引来巨大的改变嘛，能实现整体的扭亏为盈嘛？",
+    "answer": "您好！公司第8.6代AMOLED生产线已于今年6月开始量产，自量产以来，正按计划稳步推进产能爬坡和良率提升，以对应客户高端中尺寸显示产品需求。 从OLED整体经营来看，受存储涨价影响，终端产品成本不断抬升，部分终端产品价格上涨，致使消费电子市场需求受到一定抑制。这一压力传导至面板端，导致2026年下半年柔性AMOLED面板需求承压明显，行业面临量、价双降的局面，公司下半年OLED业务面临较大的经营压力。在此背景下，公司持续深化与品牌客户的技术合作与定制开发，持续优化客户产品结构，积极应对行业困境。谢谢！",
+    "ask_date": "2026-09-11",
+    "answer_date": "2026-10-20",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2356871018147688448"
+   }
+  ],
+  "count_12m": null
+ }
+}

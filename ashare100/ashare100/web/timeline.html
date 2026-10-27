@@ -162,7 +162,7 @@ const GCOL={金融:'#1F2328',消费:'#C9861A',能源资源:'#7A5C2E',科技:'#2F
 const BCOL={主板:'#4B5058',创业板:'#C9861A',科创板:'#2F6F73'};
 const HK=/香港联交所|联交所|香港交易所|H股/,HKA=/H股公告|港股公告|翌日披露|证券变动月报表|海外监管公告/;
 const boardOf=k=>k.startsWith('688')?'star':/^30[01]/.test(k)?'gem':/^00[23].*SZ$/.test(k)?'sme':'main';
-const COMS=Object.keys(C).map(k=>{const c=C[k],id=c.identity;return{k,name:id.name_abbr,ind:id.industry_sw1,grp:GROUP[id.industry_sw1]||'工业与公用',board:id.board,bk:boardOf(k),mv:c.market.total_mv||0,f:EX[k]?.found_date,l:id.list_date,ah:HK.test(id.profile||'')||(c.announcements?.items||[]).some(a=>HKA.test(a.title||'')),hay:(id.name_abbr+k+(id.pinyin_abbr||'')).toLowerCase()}}).filter(r=>r.f&&r.l);
+const COMS=Object.keys(C).map(k=>{const c=C[k],id=c.identity;return{k,name:id.name_abbr,ind:id.industry_sw1,grp:GROUP[id.industry_sw1]||'工业与公用',board:id.board,bk:boardOf(k),mv:c.market.total_mv||0,f:id.found_date||EX[k]?.found_date||id.list_date,l:id.list_date,ah:HK.test(id.profile||'')||(c.announcements?.items||[]).some(a=>HKA.test(a.title||'')),hay:(id.name_abbr+k+(id.pinyin_abbr||'')).toLowerCase()}}).filter(r=>r.f&&r.l);
 const MAXMV=Math.max(...COMS.map(r=>r.mv)),TOP10=new Set([...COMS].sort((a,b)=>b.mv-a.mv).slice(0,10).map(r=>r.k));
 function regime(r){const y=yr(r.l);if(r.bk==='star')return['科创板注册制','star'];if(r.bk==='gem'&&r.l>='2020-08-24')return['创业板注册制','gemreg'];if(r.l>='2023-02-17')return['全面注册制','fullreg'];if(y<2001.17)return['审批制（额度 / 指标管理）',null];return['核准制'+(y>=2004?'（保荐制）':''),'approve']}
 const LINKTEST={sme:r=>r.bk==='sme',gem:r=>r.bk==='gem',star:r=>r.bk==='star',gemreg:r=>regime(r)[1]==='gemreg',fullreg:r=>['fullreg','star','gemreg'].includes(regime(r)[1]),approve:r=>regime(r)[1]==='approve'};
@@ -210,7 +210,7 @@ function layoutPol(){
 function layoutCom(){
   const placed=[];let maxB=0;
   COMS.map((r,i)=>({r,i,y:Y(yr(st.ev==='list'?r.l:r.f))})).sort((a,b)=>a.y-b.y).forEach(({r,i,y},n)=>{
-    const el=comEls[i],rad=Math.round(7+18*Math.sqrt(r.mv/MAXMV)),inside=TOP10.has(r.k),lw=inside?0:r.name.length*12.5+8,col=st.color==='ind'?GCOL[r.grp]:(BCOL[r.board]||'#4B5058');
+    const el=comEls[i],rad=Math.round(7+18*Math.sqrt(r.mv/MAXMV)),inside=TOP10.has(r.k),lw=inside?0:Math.max(r.name.length*12.5,el.querySelector('.n').offsetWidth)+10,col=st.color==='ind'?GCOL[r.grp]:(BCOL[r.board]||'#4B5058');
     const c=el.querySelector('.c');c.style.width=c.style.height=rad*2+'px';c.style.setProperty('--c',col);c.textContent=inside?r.name.slice(0,2):'';el.querySelector('.n').style.display=inside?'none':'';
     // 气泡离脊柱留出 COM_GAP，给悬停时的“成立 / 上市”日期标签让位；
     // 碰撞盒含 A+H 外环与悬停放大的余量；右侧放不下时向下微移再找，保证不重叠

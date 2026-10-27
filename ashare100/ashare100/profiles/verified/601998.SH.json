@@ -1,0 +1,608 @@
+{
+ "identity": {
+  "code": "601998",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "中信银行股份有限公司",
+  "name_abbr": "中信银行",
+  "aliases": [
+   "zxyh"
+  ],
+  "name_en": "CHINA CITIC BANK CORPORATION LIMITED",
+  "pinyin_abbr": "ZXYH",
+  "former_names": [],
+  "industry_sw1": "银行",
+  "industry_sw2": "股份制银行Ⅱ",
+  "list_date": "2007-04-27",
+  "province": "北京",
+  "city": "北京",
+  "website": "www.citicbank.com",
+  "chairman": "方合英",
+  "employees": 67674,
+  "business_summary": "向政府与机构客户、企业客户和同业客户提供公司银行业务、投资银行业务、国际业务、交易银行业务",
+  "profile": "中信银行股份有限公司成立于1987年,是中国改革开放中最早成立的新兴商业银行之一,是中国最早参与国内外金融市场融资的商业银行,并以屡创中国现代金融史上多个第一而蜚声海内外,为中国经济建设作出了积极贡献。2007年4月,本行实现在上海证券交易所和香港联合交易所A+H股同步上市。本行依托中信集团“金融+实业”综合禀赋优势,以全面建设“四有”[“四有”即:有担当、有价值、有特色、有温度。]银行、跨入世界一流银行竞争前列为发展愿景,坚持诚实守信、以义取利、稳健审慎、守正创新、依法合规,以客户为中心,通过实施“五个领先”[“五个领先”即:领先的财富管理银行、领先的综合融资银行、领先的交易结算银行、领先的外汇服务银行、领先的数字化银行。]银行战略,打造有特色、差异化的中信金融服务模式,向政府与机构客户、企业客户和同业客户提供公司银行业务、投资银行业务、国际业务、交易银行业务、托管业务、金融市场业务等综合金融解决方案;向个人客户提供财富管理业务、个人信贷业务、信用卡业务、私人银行业务、养老金融业务、出国金融业务等多元化金融产品及服务,全方位满足政府与机构、企业、同业及个人客户的综合金融服务需求。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 8.9,
+  "change_pct": -1.22,
+  "total_mv": 495241944149.6,
+  "float_mv": 362790693654.3,
+  "total_shares": 55645162264,
+  "float_shares": 40762999287,
+  "pe_ttm": 6.9,
+  "pe_static": 7.01,
+  "pb": 0.66,
+  "ps_ttm": 2.3,
+  "turnover_rate": 0.12,
+  "amount": 425743299.0,
+  "high_52w": 9.35,
+  "low_52w": 6.85,
+  "ytd_return": 18.56,
+  "return_1y": 17.9,
+  "return_3y": 93.14,
+  "dividend_yield": 4.28,
+  "index_members": [
+   "沪深300"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 204557000000.0,
+    "revenue_yoy": 5.05,
+    "net_profit": 55641000000.0,
+    "net_profit_yoy": 13.6,
+    "net_profit_deducted": 55511000000.0,
+    "gross_margin": null,
+    "net_margin": 27.56,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.08,
+    "bvps": 10.45,
+    "roe": 10.73,
+    "roa": 0.72,
+    "total_assets": 8042884000000.0,
+    "total_liab": 7400258000000.0,
+    "debt_ratio": 92.01,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 833000000.0,
+    "interest_debt": null,
+    "equity_parent": 626303000000.0,
+    "ocf": -75394000000.0,
+    "capex": 4481000000.0,
+    "fcf": -79875000000.0,
+    "ocf_to_np": -1.36
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 211392000000.0,
+    "revenue_yoy": 3.34,
+    "net_profit": 62103000000.0,
+    "net_profit_yoy": 11.61,
+    "net_profit_deducted": 61850000000.0,
+    "gross_margin": null,
+    "net_margin": 29.78,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.17,
+    "bvps": 11.25,
+    "roe": 10.8,
+    "roa": 0.76,
+    "total_assets": 8547543000000.0,
+    "total_liab": 7861713000000.0,
+    "debt_ratio": 91.98,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 903000000.0,
+    "interest_debt": null,
+    "equity_parent": 665418000000.0,
+    "ocf": 195066000000.0,
+    "capex": 6799000000.0,
+    "fcf": 188267000000.0,
+    "ocf_to_np": 3.14
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 205896000000.0,
+    "revenue_yoy": -2.6,
+    "net_profit": 67016000000.0,
+    "net_profit_yoy": 7.91,
+    "net_profit_deducted": 66524000000.0,
+    "gross_margin": null,
+    "net_margin": 33.06,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.27,
+    "bvps": 12.3,
+    "roe": 10.8,
+    "roa": 0.77,
+    "total_assets": 9052484000000.0,
+    "total_liab": 8317809000000.0,
+    "debt_ratio": 91.88,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 926000000.0,
+    "interest_debt": null,
+    "equity_parent": 717222000000.0,
+    "ocf": -918000000.0,
+    "capex": 13524000000.0,
+    "fcf": -14442000000.0,
+    "ocf_to_np": -0.01
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 213646000000.0,
+    "revenue_yoy": 3.76,
+    "net_profit": 68576000000.0,
+    "net_profit_yoy": 2.33,
+    "net_profit_deducted": 68062000000.0,
+    "gross_margin": null,
+    "net_margin": 32.52,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.22,
+    "bvps": 12.58,
+    "roe": 9.79,
+    "roa": 0.75,
+    "total_assets": 9532722000000.0,
+    "total_liab": 8725357000000.0,
+    "debt_ratio": 91.53,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 959000000.0,
+    "interest_debt": null,
+    "equity_parent": 789264000000.0,
+    "ocf": -181032000000.0,
+    "capex": 18783000000.0,
+    "fcf": -199815000000.0,
+    "ocf_to_np": -2.64
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 212475000000.0,
+    "revenue_yoy": -0.55,
+    "net_profit": 70618000000.0,
+    "net_profit_yoy": 2.98,
+    "net_profit_deducted": 69819000000.0,
+    "gross_margin": null,
+    "net_margin": 33.65,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.2,
+    "bvps": 13.01,
+    "roe": 9.39,
+    "roa": 0.73,
+    "total_assets": 10131028000000.0,
+    "total_liab": 9283398000000.0,
+    "debt_ratio": 91.63,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 916000000.0,
+    "interest_debt": null,
+    "equity_parent": 828813000000.0,
+    "ocf": 443082000000.0,
+    "capex": 37820000000.0,
+    "fcf": 405262000000.0,
+    "ocf_to_np": 6.27
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 109408000000.0,
+   "revenue_yoy": 3.05,
+   "net_profit": 37602000000.0,
+   "net_profit_yoy": 3.08,
+   "net_profit_deducted": 36135000000.0,
+   "gross_margin": null,
+   "net_margin": 34.9,
+   "roe": 4.8,
+   "eps": 0.63,
+   "debt_ratio": 91.42,
+   "ocf": 230988000000.0
+  },
+  "derived": {
+   "revenue_cagr_3y": 0.17,
+   "net_profit_cagr_3y": 4.38,
+   "receivables_to_revenue": null,
+   "goodwill_to_equity": 0.11
+  }
+ },
+ "shareholders": {
+  "controller": "中国中信集团有限公司",
+  "controlling_shareholder": "中国中信金融控股有限公司",
+  "controlling_ratio": 64.75,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "中国中信金融控股有限公司",
+    "hold_num": 36028393412,
+    "hold_ratio": 64.75,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "香港中央结算(代理人)有限公司",
+    "hold_num": 11853965147,
+    "hold_ratio": 21.3,
+    "hold_num_change": 720951
+   },
+   {
+    "rank": 3,
+    "name": "中国烟草总公司",
+    "hold_num": 2584406960,
+    "hold_ratio": 4.64,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+    "hold_num": 1244032364,
+    "hold_ratio": 2.24,
+    "hold_num_change": 38135222
+   },
+   {
+    "rank": 5,
+    "name": "中国证券金融股份有限公司",
+    "hold_num": 644599847,
+    "hold_ratio": 1.16,
+    "hold_num_change": -322300637
+   },
+   {
+    "rank": 6,
+    "name": "香港中央结算有限公司",
+    "hold_num": 269988332,
+    "hold_ratio": 0.49,
+    "hold_num_change": 40178188
+   },
+   {
+    "rank": 7,
+    "name": "中央汇金资产管理有限责任公司",
+    "hold_num": 267137050,
+    "hold_ratio": 0.48,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "中国建设银行股份有限公司",
+    "hold_num": 168599268,
+    "hold_ratio": 0.3,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "中国人寿保险股份有限公司-分红-个人分红-005L-FH002沪",
+    "hold_num": 108801856,
+    "hold_ratio": 0.2,
+    "hold_num_change": -697533
+   },
+   {
+    "rank": 10,
+    "name": "中国建设银行股份有限公司-华泰柏瑞中证红利低波动交易型开放式指数证券投资基金",
+    "hold_num": 88802787,
+    "hold_ratio": 0.16,
+    "hold_num_change": 9760898
+   }
+  ],
+  "holder_num": 113096,
+  "holder_num_change_pct": 2.13,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 4.72,
+  "northbound_ratio": 0.49,
+  "executives": [
+   {
+    "name": "方合英",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "吕天贵",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "方合英(代)",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.14,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.302,
+    "total_amount": 14778322784.41,
+    "payout_ratio": 26.56,
+    "dividend_yield": 6.38,
+    "ex_date": "2022-07-28"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.329,
+    "total_amount": 16110098737.66,
+    "payout_ratio": 25.94,
+    "dividend_yield": 5.41,
+    "ex_date": "2023-07-20"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.3261,
+    "total_amount": 17432177559.65,
+    "payout_ratio": 26.01,
+    "dividend_yield": 4.85,
+    "ex_date": "2024-07-10"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.3547,
+    "total_amount": 19454983351.49,
+    "payout_ratio": 28.37,
+    "dividend_yield": 2.21,
+    "ex_date": "2024-12-11"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.381,
+    "total_amount": 21200806822.58,
+    "payout_ratio": 30.02,
+    "dividend_yield": 2.42,
+    "ex_date": "2025-11-21"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 88976389255.79,
+  "cum_netprofit_5y": 323954000000.0,
+  "payout_5y": 27.47,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "600036.SH",
+   "601166.SH",
+   "600000.SH",
+   "000001.SZ"
+  ],
+  "segments": [
+   {
+    "name": "公司银行业务",
+    "revenue": 98829000000.0,
+    "ratio": 46.51,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "零售银行业务",
+    "revenue": 79367000000.0,
+    "ratio": 37.35,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "金融市场业务",
+    "revenue": 33691000000.0,
+    "ratio": 15.86,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他业务及未分配项目",
+    "revenue": 588000000.0,
+    "ratio": 0.28,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "总部",
+    "revenue": 81430000000.0,
+    "ratio": 38.32,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "长江三角洲",
+    "revenue": 40881000000.0,
+    "ratio": 19.24,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "环渤海地区",
+    "revenue": 31508000000.0,
+    "ratio": 14.83,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "中部地区",
+    "revenue": 16487000000.0,
+    "ratio": 7.76,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "珠江三角洲及海峡西岸",
+    "revenue": 16449000000.0,
+    "ratio": 7.74,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "西部地区",
+    "revenue": 12961000000.0,
+    "ratio": 6.1,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "境外",
+    "revenue": 10922000000.0,
+    "ratio": 5.14,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "中信银行股份有限公司关于优先股全部赎回及摘牌的公告",
+    "date": "2026-10-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612059.PDF",
+    "type": null
+   },
+   {
+    "title": "中信银行股份有限公司关于优先股停牌的提示性公告",
+    "date": "2026-10-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612041.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-董事会会议召开日期",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225608638.PDF",
+    "type": null
+   },
+   {
+    "title": "中信银行股份有限公司优先股股息派发实施公告",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225608295.PDF",
+    "type": null
+   },
+   {
+    "title": "中信银行股份有限公司关于赎回优先股的第三次提示性公告",
+    "date": "2026-10-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-10/1225599113.PDF",
+    "type": null
+   },
+   {
+    "title": "中信银行股份有限公司2026年第三次临时股东会会议资料",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597390.PDF",
+    "type": null
+   },
+   {
+    "title": "中信银行股份有限公司关于召开2026年第三次临时股东会的通知",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225596405.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告—二零二六年九月三十日止月份之股份发行人的证券变动月报表",
+    "date": "2026-10-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225590214.PDF",
+    "type": null
+   },
+   {
+    "title": "中信银行股份有限公司关于赎回优先股的第二次提示性公告",
+    "date": "2026-10-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225590203.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-2026年中期報告",
+    "date": "2026-09-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-25/1225582009.PDF",
+    "type": null
+   },
+   {
+    "title": "中信银行股份有限公司关于2026年金融债券（第一期）发行完毕的公告",
+    "date": "2026-09-23",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-23/1225577633.PDF",
+    "type": null
+   },
+   {
+    "title": "中信银行股份有限公司关于拟赎回优先股的公告",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225574977.PDF",
+    "type": null
+   },
+   {
+    "title": "中信银行股份有限公司关于赎回优先股的第一次提示性公告",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225574957.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告—二零二六年八月三十一日止月份之股份发行人的证券变动月报表",
+    "date": "2026-09-02",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-02/1225540946.PDF",
+    "type": null
+   },
+   {
+    "title": "中信银行股份有限公司关于参加中信股份2026年中期业绩联合发布会的公告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225519546.PDF",
+    "type": null
+   },
+   {
+    "title": "中信银行股份有限公司董事会会议决议公告",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225515416.PDF",
+    "type": null
+   },
+   {
+    "title": "中信银行股份有限公司2026年半年度报告",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225512631.PDF",
+    "type": null
+   },
+   {
+    "title": "中信银行股份有限公司2026年度“提质增效重回报”行动方案",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225512613.PDF",
+    "type": null
+   },
+   {
+    "title": "中信银行股份有限公司2026年中期利润分配方案公告",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225512574.PDF",
+    "type": null
+   },
+   {
+    "title": "中信银行股份有限公司日常关联交易公告",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225512557.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 126
+ },
+ "qa": {
+  "items": [],
+  "count_12m": null
+ }
+}

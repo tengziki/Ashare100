@@ -1,0 +1,473 @@
+{
+ "identity": {
+  "code": "600016",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "中国民生银行股份有限公司",
+  "name_abbr": "民生银行",
+  "aliases": [],
+  "name_en": "CHINA MINSHENG BANKING CORP., LTD.",
+  "former_names": [
+   "民生银行→G民生"
+  ],
+  "industry_sw1": "银行",
+  "industry_sw2": "股份制银行Ⅱ",
+  "list_date": "2000-12-19",
+  "province": "北京",
+  "city": null,
+  "website": "www.cmbc.com.cn",
+  "chairman": "高迎欣",
+  "employees": 60394,
+  "business_summary": "1996 年在北京成立，中国第一家主要由民营企业发起设立的全国性股份制商业银行，经营公司金融、零售金融与金融市场等商业银行业务。",
+  "profile": "中国民生银行股份有限公司于1996年在北京正式成立,是中国第一家主要由民营企业发起设立的全国性股份制商业银行。本行经有关监管机构批准后,经营下列各项商业银行业务:吸收公众存款;发放短期、中期和长期贷款;办理国内外结算;办理票据承兑与贴现、发行金融债券;代理发行、代理兑付、承销政府债券;买卖政府债券、金融债券;从事同业拆借;买卖、代理买卖外汇:从事结汇、售汇业务;从事银行卡业务;提供信用证服务及担保;代理收付款项;提供保管箱服务;经国务院银行业监督管理机构批准的其它业务;保险兼业代理业务;证券投资基金销售、证券投资基金托管。(市场主体依法自主选择经营项目,开展经营活动;保险兼业代理业务、证券投资基金销售、证券投资基金托管以及依法须经批准的项目,经相关部门批准后依批准的内容开展经营活动;不得从事国家和本市产业政策禁止和限制类项目的经营活动)。",
+  "st_status": null,
+  "audit_opinion": null,
+  "found_date": "1996-02-07"
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 168804000000.0,
+    "revenue_yoy": -8.73,
+    "net_profit": 34381000000.0,
+    "net_profit_yoy": 0.21,
+    "net_profit_deducted": 34495000000.0,
+    "gross_margin": null,
+    "net_margin": 20.65,
+    "eps": 0.71,
+    "bvps": 11.06,
+    "roe": 6.59,
+    "roa": 0.5,
+    "debt_ratio": 91.56,
+    "total_liab": 6366247000000.0,
+    "total_assets": 6953087592835,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 142476000000.0,
+    "revenue_yoy": -15.6,
+    "net_profit": 35269000000.0,
+    "net_profit_yoy": 2.58,
+    "net_profit_deducted": 35091000000.0,
+    "gross_margin": null,
+    "net_margin": 25.11,
+    "eps": 0.71,
+    "bvps": 11.53,
+    "roe": 6.31,
+    "roa": 0.5,
+    "debt_ratio": 91.55,
+    "total_liab": 6642859000000.0,
+    "total_assets": 7255990169306,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 140817000000.0,
+    "revenue_yoy": -1.16,
+    "net_profit": 35823000000.0,
+    "net_profit_yoy": 1.57,
+    "net_profit_deducted": 35708000000.0,
+    "gross_margin": null,
+    "net_margin": 25.56,
+    "eps": 0.72,
+    "bvps": 12.1,
+    "roe": 6.1,
+    "roa": 0.48,
+    "debt_ratio": 91.69,
+    "total_liab": 7037164000000.0,
+    "total_assets": 7674952557531,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 136290000000.0,
+    "revenue_yoy": -3.21,
+    "net_profit": 32296000000.0,
+    "net_profit_yoy": -9.85,
+    "net_profit_deducted": 32279000000.0,
+    "gross_margin": null,
+    "net_margin": 24.01,
+    "eps": 0.64,
+    "bvps": 12.51,
+    "roe": 5.18,
+    "roa": 0.42,
+    "debt_ratio": 91.6,
+    "total_liab": 7158401000000.0,
+    "total_assets": 7814848253275,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 142865000000.0,
+    "revenue_yoy": 4.82,
+    "net_profit": 30563000000.0,
+    "net_profit_yoy": -5.37,
+    "net_profit_deducted": 30926000000.0,
+    "gross_margin": null,
+    "net_margin": 21.41,
+    "eps": 0.63,
+    "bvps": 12.9,
+    "roe": 4.93,
+    "roa": 0.39,
+    "debt_ratio": 91.02,
+    "total_liab": 7129370000000.0,
+    "total_assets": 7832751043727,
+    "ocf_to_np": null
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 75166000000.0,
+   "revenue_yoy": 3.84,
+   "net_profit": 19537000000.0,
+   "net_profit_yoy": -8.62,
+   "net_profit_deducted": 19633000000.0,
+   "gross_margin": null,
+   "net_margin": 25.61,
+   "eps": 0.4,
+   "roe": 3.02,
+   "debt_ratio": 90.79
+  },
+  "derived": {
+   "revenue_cagr_3y": 0.09,
+   "net_profit_cagr_3y": -4.66,
+   "receivables_to_revenue": null,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": null,
+  "controlling_shareholder": null,
+  "controlling_ratio": null,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "香港中央结算(代理人)有限公司",
+    "hold_num": 8289435741.0,
+    "hold_ratio": 18.93,
+    "hold_num_change": 214472.0
+   },
+   {
+    "rank": 2,
+    "name": "大家人寿保险股份有限公司-万能产品",
+    "hold_num": 4508984567.0,
+    "hold_ratio": 10.3,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "大家人寿保险股份有限公司-传统产品",
+    "hold_num": 2843300122.0,
+    "hold_ratio": 6.49,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "深圳市立业集团有限公司",
+    "hold_num": 1966999113.0,
+    "hold_ratio": 4.49,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "新希望六和投资有限公司",
+    "hold_num": 1828327362.0,
+    "hold_ratio": 4.18,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "中国长城资产管理股份有限公司",
+    "hold_num": 1601401174.0,
+    "hold_ratio": 3.66,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "同方国信投资控股有限公司",
+    "hold_num": 1469608873.0,
+    "hold_ratio": 3.36,
+    "hold_num_change": 11960924.0
+   },
+   {
+    "rank": 8,
+    "name": "上海健特生命科技有限公司",
+    "hold_num": 1379679587.0,
+    "hold_ratio": 3.15,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "中国船东互保协会",
+    "hold_num": 1324284453.0,
+    "hold_ratio": 3.02,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 10,
+    "name": "戴思元",
+    "hold_num": 1035067936.0,
+    "hold_ratio": 2.36,
+    "hold_num_change": null
+   }
+  ],
+  "top10_date": "2026-06-30",
+  "holder_num": 391636.0,
+  "holder_num_change_pct": 3.2,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": null,
+  "northbound_ratio": null,
+  "executives": [
+   {
+    "name": "高迎欣",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "王晓永",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "李彬",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": null,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.213,
+    "total_amount": 9325655140.93,
+    "payout_ratio": 27.12,
+    "dividend_yield": null,
+    "ex_date": "2022-06-24"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.214,
+    "total_amount": 9369437559.43,
+    "payout_ratio": 26.57,
+    "dividend_yield": null,
+    "ex_date": "2023-06-26"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.216,
+    "total_amount": 9457002396.43,
+    "payout_ratio": 26.4,
+    "dividend_yield": null,
+    "ex_date": "2024-07-12"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.192,
+    "total_amount": 8406224352.38,
+    "payout_ratio": 26.03,
+    "dividend_yield": null,
+    "ex_date": "2025-07-14"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.189,
+    "total_amount": 8274877096.88,
+    "payout_ratio": 27.07,
+    "dividend_yield": null,
+    "ex_date": "2026-07-02"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 44833196546.05,
+  "cum_netprofit_5y": 168332000000.0,
+  "payout_5y": 26.63,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [],
+  "segments": []
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "中国民生银行关于召开2026年第三季度业绩说明会的公告",
+    "date": "2026-10-24",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-24/1225619501.PDF"
+   },
+   {
+    "title": "H股公告-董事会会议召开日期的公告",
+    "date": "2026-10-21",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612373.PDF"
+   },
+   {
+    "title": "中国民生银行关于成功发行100亿元金融债券的公告",
+    "date": "2026-10-17",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225609319.PDF"
+   },
+   {
+    "title": "中国民生银行第九届董事会第二十五次会议决议公告",
+    "date": "2026-09-30",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225587909.PDF"
+   },
+   {
+    "title": "中国民生银行关于成功发行100亿元金融债券的公告",
+    "date": "2026-09-19",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-19/1225572241.PDF"
+   },
+   {
+    "title": "中国民生银行2026年半年度A股权益分派实施公告",
+    "date": "2026-09-08",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-08/1225551719.PDF"
+   },
+   {
+    "title": "中国民生银行境内优先股股息派发实施公告",
+    "date": "2026-08-29",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225530959.PDF"
+   },
+   {
+    "title": "中国民生银行2026年半年度报告",
+    "date": "2026-08-29",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225530114.PDF"
+   },
+   {
+    "title": "中国民生银行2026年半年度报告摘要",
+    "date": "2026-08-29",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225530108.PDF"
+   },
+   {
+    "title": "中国民生银行2026年度中期利润分配方案公告",
+    "date": "2026-08-29",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225530097.PDF"
+   },
+   {
+    "title": "中国民生银行第九届董事会第二十四次会议决议公告",
+    "date": "2026-08-29",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225530094.PDF"
+   },
+   {
+    "title": "国浩律师（北京）事务所关于中国民生银行股份有限公司2026年第一次临时股东会会议的法律意见书",
+    "date": "2026-08-22",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225493619.PDF"
+   },
+   {
+    "title": "中国民生银行2026年第一次临时股东会会议决议公告",
+    "date": "2026-08-22",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225493296.PDF"
+   },
+   {
+    "title": "中国民生银行关于召开2026年半年度业绩说明会的公告",
+    "date": "2026-08-22",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225493194.PDF"
+   },
+   {
+    "title": "H股公告-董事会会议召开日期的公告",
+    "date": "2026-08-19",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225479751.PDF"
+   },
+   {
+    "title": "中国民生银行关于召开2026年第一次临时股东会会议的通知",
+    "date": "2026-08-04",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-04/1225455732.PDF"
+   },
+   {
+    "title": "中国民生银行2026年第一次临时股东会会议文件",
+    "date": "2026-08-04",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-04/1225455164.PDF"
+   },
+   {
+    "title": "中国民生银行关于变更住所并修订公司章程相关条款的公告",
+    "date": "2026-07-31",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-31/1225448150.PDF"
+   },
+   {
+    "title": "中国民生银行第九届董事会第二十三次会议决议公告",
+    "date": "2026-07-31",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-31/1225448140.PDF"
+   },
+   {
+    "title": "中国民生银行关于成功发行150亿元绿色金融债券的公告",
+    "date": "2026-07-22",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-22/1225435079.PDF"
+   }
+  ],
+  "count_12m": 68
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "董秘您好，作为投资者，我想了解截至2025年末贵公司董事长高迎欣、总经理王晓永的主要教育经历。公司与两位的母校是否开展过合作？如管理层已有变动，烦请指正。",
+    "answer": null,
+    "ask_date": "2026-10-26",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=16"
+   },
+   {
+    "question": "9.14日一共收到红利11.8。交红利税.33.33。为啥呢",
+    "answer": null,
+    "ask_date": "2026-09-29",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=16"
+   },
+   {
+    "question": "请问一下我9.14日扣的补缴股息是啥意思啊？我没有领到那么多股息啊？",
+    "answer": null,
+    "ask_date": "2026-09-29",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=16"
+   }
+  ],
+  "count_12m": null
+ },
+ "review": {
+  "reviewer": "Claude（代 tengziki 复核）",
+  "note": "对照巨潮 2025 年报摘要与 2026 半年报摘要：营收、归母净利、加权 ROE、EPS、每股净资产、总资产、负债率、2025 财年每股派息、股东户数、前十大股东持股均一致；持股变动为较上期口径（与已核实档案一致）；机构持股留空；申万二级按东财三级分类映射（与已核实同行一致）；business_summary 依公司概况改写",
+  "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
+  "fetched_at": "2026-10-27T17:05:44+08:00",
+  "reviewed_at": "2026-10-27T17:06:12+08:00"
+ },
+ "_extras": {
+  "announcements": {
+   "fetched_at": "2026-10-27T17:18:28+08:00",
+   "error": null
+  },
+  "qa": {
+   "fetched_at": "2026-10-27T17:23:25+08:00",
+   "error": null
+  }
+ }
+}

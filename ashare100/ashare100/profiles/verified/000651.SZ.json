@@ -1,0 +1,654 @@
+{
+ "identity": {
+  "code": "000651",
+  "exchange": "SZ",
+  "board": "主板",
+  "name_full": "珠海格力电器股份有限公司",
+  "name_abbr": "格力电器",
+  "aliases": [
+   "gldq"
+  ],
+  "name_en": "GREE ELECTRIC APPLIANCES,INC.OF ZHUHAI",
+  "pinyin_abbr": "GLDQ",
+  "former_names": [
+   "格力电器→G格力"
+  ],
+  "industry_sw1": "家用电器",
+  "industry_sw2": "白色家电",
+  "list_date": "1996-11-18",
+  "province": "广东",
+  "city": "珠海",
+  "website": "www.gree.com.cn",
+  "chairman": "董明珠",
+  "employees": 71966,
+  "business_summary": "从事消费电器及其配件的生产及销售",
+  "profile": "珠海格力电器股份有限公司成立于1991年,1996年11月在深交所挂牌上市。公司成立初期,主要依靠组装生产家用空调,现已发展成为多元化、科技型的全球工业制造集团,产业覆盖家用消费品和工业装备两大领域。公司在国内外建有生产基地,坐落于广东、重庆、安徽、河北、河南、湖北、湖南、江苏、浙江、天津、四川、江西、山东以及巴西、巴基斯坦;同时建有长沙、郑州、石家庄、芜湖、天津、珠海再生资源基地,覆盖从上游生产到下游回收全产业链,实现了绿色、循环、可持续发展。公司现有研究院,分别是:制冷技术研究院、机电技术研究院、家电技术研究院(两个)、新能源环境技术研究院、健康技术研究院、通信技术研究院、智能装备技术研究院、机器人研究院、物联网研究院、装备动力技术研究院、电机系统技术研究院、洗涤技术研究院、冷冻冷藏技术研究院、建筑环境与节能研究院、电工电材研究院。拥有国家工程技术研究中心、国家级工业设计中心、国家认定企业技术中心、机器人工程技术研发中心各1个,同时成为国家通报咨询中心制冷设备研究评议基地、国家标准验证点(制冷设备节能)。坚持创新驱动。提出研发经费“按需投入、不设上限”。坚持质量为先。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 37.43,
+  "change_pct": 0.81,
+  "total_mv": 209660616885.63,
+  "float_mv": 206347584653.13,
+  "total_shares": 5601405741,
+  "float_shares": 5512892991,
+  "pe_ttm": 7.52,
+  "pe_static": 7.23,
+  "pb": 1.41,
+  "ps_ttm": 1.28,
+  "turnover_rate": 1.16,
+  "amount": 2381999496.77,
+  "high_52w": 40.48,
+  "low_52w": 34.27,
+  "ytd_return": 0.56,
+  "return_1y": -0.38,
+  "return_3y": 48.19,
+  "dividend_yield": 8.01,
+  "index_members": [
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 189654033523.5,
+    "revenue_yoy": 11.24,
+    "net_profit": 23063732372.62,
+    "net_profit_yoy": 4.01,
+    "net_profit_deducted": 21850050895.31,
+    "gross_margin": 24.28,
+    "net_margin": 12.15,
+    "selling_expense_ratio": 6.11,
+    "admin_expense_ratio": 2.14,
+    "finance_expense_ratio": -1.19,
+    "rd_expense": 6296715941.03,
+    "rd_ratio": 3.32,
+    "eps": 4.04,
+    "bvps": 17.53,
+    "roe": 21.34,
+    "roa": 7.63,
+    "total_assets": 319598183780.38,
+    "total_liab": 211672732613.87,
+    "debt_ratio": 66.23,
+    "cash": 116939298776.87,
+    "receivables": 13840898802.76,
+    "inventory": 42765598328.01,
+    "goodwill": 707629136.24,
+    "interest_debt": 37837392293.77,
+    "equity_parent": 103651654599.87,
+    "ocf": 1894363258.72,
+    "capex": 5727074800.44,
+    "fcf": -3832711541.72,
+    "ocf_to_np": 0.08
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 190150672542.13,
+    "revenue_yoy": 0.26,
+    "net_profit": 24506623782.46,
+    "net_profit_yoy": 6.26,
+    "net_profit_deducted": 23986248264.15,
+    "gross_margin": 26.04,
+    "net_margin": 12.18,
+    "selling_expense_ratio": 5.94,
+    "admin_expense_ratio": 2.77,
+    "finance_expense_ratio": -1.16,
+    "rd_expense": 6281394430.4,
+    "rd_ratio": 3.3,
+    "eps": 4.43,
+    "bvps": 17.18,
+    "roe": 24.19,
+    "roa": 6.82,
+    "total_assets": 355070769579.7,
+    "total_liab": 253194721565.51,
+    "debt_ratio": 71.31,
+    "cash": 157484332251.39,
+    "receivables": 14824742623.45,
+    "inventory": 38314176763.9,
+    "goodwill": 1659358399.03,
+    "interest_debt": 84082271657.36,
+    "equity_parent": 96758734892.25,
+    "ocf": 28668435921.27,
+    "capex": 6036136315.75,
+    "fcf": 22632299605.52,
+    "ocf_to_np": 1.17
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 205018123834.21,
+    "revenue_yoy": 7.82,
+    "net_profit": 29017387604.18,
+    "net_profit_yoy": 18.41,
+    "net_profit_deducted": 27565461117.79,
+    "gross_margin": 29.43,
+    "net_margin": 13.59,
+    "selling_expense_ratio": 7.22,
+    "admin_expense_ratio": 3.19,
+    "finance_expense_ratio": -1.72,
+    "rd_expense": 6762136262.23,
+    "rd_ratio": 3.3,
+    "eps": 5.22,
+    "bvps": 20.74,
+    "roe": 26.53,
+    "roa": 7.67,
+    "total_assets": 368053902576.37,
+    "total_liab": 247407749159.93,
+    "debt_ratio": 67.22,
+    "cash": 124104987289.62,
+    "receivables": 16099477117.56,
+    "inventory": 32579140028.7,
+    "goodwill": 1452496852.11,
+    "interest_debt": 86851747948.56,
+    "equity_parent": 116793716103.39,
+    "ocf": 56398426354.17,
+    "capex": 5425734302.92,
+    "fcf": 50972692051.25,
+    "ocf_to_np": 1.94
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 190038071604.78,
+    "revenue_yoy": -7.31,
+    "net_profit": 32184570372.28,
+    "net_profit_yoy": 10.91,
+    "net_profit_deducted": 30099760382.99,
+    "gross_margin": 29.43,
+    "net_margin": 17.11,
+    "selling_expense_ratio": 5.13,
+    "admin_expense_ratio": 3.19,
+    "finance_expense_ratio": -1.74,
+    "rd_expense": 6904084981.92,
+    "rd_ratio": 3.63,
+    "eps": 5.83,
+    "bvps": 24.53,
+    "roe": 25.42,
+    "roa": 8.8,
+    "total_assets": 368031704522.86,
+    "total_liab": 226518009574.89,
+    "debt_ratio": 61.55,
+    "cash": 113900461797.94,
+    "receivables": 16831887388.06,
+    "inventory": 27910910515.55,
+    "goodwill": 1367729072.13,
+    "interest_debt": 73527815670.93,
+    "equity_parent": 137416898946.39,
+    "ocf": 29369250570.66,
+    "capex": 3299787341.22,
+    "fcf": 26069463229.44,
+    "ocf_to_np": 0.91
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 171118161275.41,
+    "revenue_yoy": -9.96,
+    "net_profit": 29003103411.66,
+    "net_profit_yoy": -9.89,
+    "net_profit_deducted": 27706292436.94,
+    "gross_margin": 29.81,
+    "net_margin": 16.93,
+    "selling_expense_ratio": 4.92,
+    "admin_expense_ratio": 3.03,
+    "finance_expense_ratio": -2.39,
+    "rd_expense": 6463100763.66,
+    "rd_ratio": 3.78,
+    "eps": 5.2,
+    "bvps": 26.05,
+    "roe": 20.3,
+    "roa": 7.6,
+    "total_assets": 391371999819.49,
+    "total_liab": 241580719144.79,
+    "debt_ratio": 61.73,
+    "cash": 110553006650.89,
+    "receivables": 15987180598.76,
+    "inventory": 28183464259.53,
+    "goodwill": 1324117904.09,
+    "interest_debt": 85412520748.09,
+    "equity_parent": 145929297804.02,
+    "ocf": 46383114754.02,
+    "capex": 1717311068.1,
+    "fcf": 44665803685.92,
+    "ocf_to_np": 1.6
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 89672955427.92,
+   "revenue_yoy": -8.14,
+   "net_profit": 13277590882.57,
+   "net_profit_yoy": -7.87,
+   "net_profit_deducted": 12706672720.9,
+   "gross_margin": 28.81,
+   "net_margin": 14.9,
+   "roe": 8.68,
+   "eps": 2.38,
+   "debt_ratio": 61.84,
+   "ocf": 18808832392.46
+  },
+  "derived": {
+   "revenue_cagr_3y": -3.45,
+   "net_profit_cagr_3y": 5.78,
+   "receivables_to_revenue": 9.34,
+   "goodwill_to_equity": 0.91
+  }
+ },
+ "shareholders": {
+  "controller": "无实际控制人",
+  "controlling_shareholder": "珠海明骏投资合伙企业(有限合伙)",
+  "controlling_ratio": 15.35,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "珠海明骏投资合伙企业(有限合伙)",
+    "hold_num": 859566532,
+    "hold_ratio": 15.35,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "京海互联网科技发展有限公司",
+    "hold_num": 438825662,
+    "hold_ratio": 7.83,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "珠海格力集团有限公司",
+    "hold_num": 193895992,
+    "hold_ratio": 3.46,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "香港中央结算有限公司",
+    "hold_num": 183127815,
+    "hold_ratio": 3.27,
+    "hold_num_change": 761238
+   },
+   {
+    "rank": 5,
+    "name": "董明珠",
+    "hold_num": 112486665,
+    "hold_ratio": 2.01,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "中国证券金融股份有限公司",
+    "hold_num": 71748207,
+    "hold_ratio": 1.28,
+    "hold_num_change": -5546301
+   },
+   {
+    "rank": 7,
+    "name": "中邮人寿保险股份有限公司-传统保险",
+    "hold_num": 55948996,
+    "hold_ratio": 1.0,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "瑞众人寿保险有限责任公司-自有资金",
+    "hold_num": 40184580,
+    "hold_ratio": 0.72,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "阳光人寿保险股份有限公司-传统保险产品",
+    "hold_num": 36637729,
+    "hold_ratio": 0.65,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 10,
+    "name": "珠海格力电器股份有限公司-第三期员工持股计划",
+    "hold_num": 32619450,
+    "hold_ratio": 0.58,
+    "hold_num_change": 0
+   }
+  ],
+  "holder_num": 581452,
+  "holder_num_change_pct": -3.55,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 10.48,
+  "northbound_ratio": 3.27,
+  "executives": [
+   {
+    "name": "董明珠",
+    "title": "董事长",
+    "pay": 12934800.0
+   },
+   {
+    "name": "张伟",
+    "title": "总经理",
+    "pay": 7760900.0
+   },
+   {
+    "name": "章周虎",
+    "title": "董事会秘书",
+    "pay": 675100.0
+   }
+  ],
+  "pledge_ratio_total": 16.15,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 3.0,
+    "total_amount": 17177280522.0,
+    "payout_ratio": 74.48,
+    "dividend_yield": 5.12,
+    "ex_date": "2022-04-08"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 2.0,
+    "total_amount": 11262811482.0,
+    "payout_ratio": 45.96,
+    "dividend_yield": 2.69,
+    "ex_date": "2023-02-27"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 2.38,
+    "total_amount": 13402745663.58,
+    "payout_ratio": 46.19,
+    "dividend_yield": 5.7,
+    "ex_date": "2024-08-28"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 3.0,
+    "total_amount": 16804217223.0,
+    "payout_ratio": 52.21,
+    "dividend_yield": 3.53,
+    "ex_date": "2025-05-15"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 3.0,
+    "total_amount": 16804217223.0,
+    "payout_ratio": 57.94,
+    "dividend_yield": 4.02,
+    "ex_date": "2026-01-23"
+   }
+  ],
+  "consecutive_years": 5,
+  "cum_dividend_5y": 75451272113.58,
+  "cum_netprofit_5y": 137775417543.2,
+  "payout_5y": 54.76,
+  "buyback_3y": 4083376908.75
+ },
+ "peers": {
+  "peer_codes": [
+   "000333.SZ",
+   "600690.SH",
+   "002050.SZ"
+  ],
+  "segments": [
+   {
+    "name": "消费电器",
+    "revenue": 133055208627.13,
+    "ratio": 78.06,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "工业制品及绿色能源",
+    "revenue": 17380701260.95,
+    "ratio": 10.2,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 16665086190.11,
+    "ratio": 9.78,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他",
+    "revenue": 2665271980.81,
+    "ratio": 1.56,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "智能装备",
+    "revenue": 680790474.57,
+    "ratio": 0.4,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "内销-主营业务",
+    "revenue": 126407077425.42,
+    "ratio": 74.16,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "外销-主营业务",
+    "revenue": 27374894918.04,
+    "ratio": 16.06,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 16665086190.11,
+    "ratio": 9.78,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "关于股份回购进展情况的公告",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225596903.PDF",
+    "type": null
+   },
+   {
+    "title": "关于股份回购进展情况的公告",
+    "date": "2026-09-02",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-02/1225542476.PDF",
+    "type": null
+   },
+   {
+    "title": "关于“质量回报双提升”行动方案的进展公告",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225515009.PDF",
+    "type": null
+   },
+   {
+    "title": "关于会计政策变更的公告",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225515008.PDF",
+    "type": null
+   },
+   {
+    "title": "关于子公司之间提供担保的公告",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225515007.PDF",
+    "type": null
+   },
+   {
+    "title": "第十三届董事会第七次会议决议公告",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225515006.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度非经营性资金占用及其他关联资金往来情况",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225515005.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度报告",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225515004.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度报告摘要",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225515003.PDF",
+    "type": null
+   },
+   {
+    "title": "关于2025年年度权益分派实施后调整股份回购价格上限的公告",
+    "date": "2026-08-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-21/1225487187.PDF",
+    "type": null
+   },
+   {
+    "title": "2025年年度权益分派实施公告",
+    "date": "2026-08-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-21/1225487186.PDF",
+    "type": null
+   },
+   {
+    "title": "关于第四期员工持股计划非交易过户完成的公告",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225483700.PDF",
+    "type": null
+   },
+   {
+    "title": "关于以集中竞价方式首次回购股份暨回购股份进展的公告",
+    "date": "2026-08-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225480467.PDF",
+    "type": null
+   },
+   {
+    "title": "关于股份回购进展情况的公告",
+    "date": "2026-08-04",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-04/1225455000.PDF",
+    "type": null
+   },
+   {
+    "title": "关于持股5%以上股东股份补充质押的公告",
+    "date": "2026-07-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-16/1225426975.PDF",
+    "type": null
+   },
+   {
+    "title": "北京观韬（珠海）律师事务所关于珠海格力电器股份有限公司2025年年度股东会的法律意见书",
+    "date": "2026-07-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-01/1225400673.PDF",
+    "type": null
+   },
+   {
+    "title": "2025年年度股东会决议公告",
+    "date": "2026-07-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-01/1225400672.PDF",
+    "type": null
+   },
+   {
+    "title": "关于调整2025年年度股东会现场会议地点的公告",
+    "date": "2026-06-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-27/1225392782.PDF",
+    "type": null
+   },
+   {
+    "title": "北京观韬（珠海）律师事务所关于珠海格力电器股份有限公司第四期员工持股计划（草案）的法律意见书",
+    "date": "2026-06-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-25/1225386235.PDF",
+    "type": null
+   },
+   {
+    "title": "关于回购股份事项前十名股东和前十名无限售条件股东持股情况的公告",
+    "date": "2026-06-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-25/1225386234.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 120
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "董秘您好，贵司先称任职信息属个人隐私，后又称代理材料已按规定提交法院，该回复未能消除疑虑，反加剧投资者对子公司合规风险的担忧。裁判文书已公开，该信息不再具备隐私属性。既然子公司委托韩青柯以员工身份应诉，请说明贵司所称\"相应资格证明材料\"具体包括哪些？是否包含劳动合同、社保缴纳记录、工资发放记录等？请列明具体材料或说明韩青柯以员工身份代理资格依据，恳请直接答复。",
+    "answer": null,
+    "ask_date": "2026-10-22",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2387490904622891008"
+   },
+   {
+    "question": "领导您好！请问咱们8英寸碳化硅芯片是否正常试生产？如果没有计划几月份可以试生产？谢谢！",
+    "answer": null,
+    "ask_date": "2026-10-22",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2387363876670144512"
+   },
+   {
+    "question": "请问公司26年半年报现金流表收回投资收到的现金209.9亿比Q1的284.6亿少的原因是什么？",
+    "answer": null,
+    "ask_date": "2026-10-19",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2385312067713630208"
+   },
+   {
+    "question": "董秘，您好！请问今年三季度分红还会兑现吗？",
+    "answer": "尊敬的投资者，您好！公司将综合考虑战略规划、经营业绩、现金流状况及未来资金需求等因素决定中期利润分配事宜，并按照相关法律法规要求履行信息披露义务。感谢您的关注！",
+    "ask_date": "2026-10-17",
+    "answer_date": "2026-10-22",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2383459072825995264"
+   },
+   {
+    "question": "格力作为空调数一数二的领头企业，空调外机噪音有办法解决嘛？",
+    "answer": null,
+    "ask_date": "2026-10-16",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2383077026862333952"
+   },
+   {
+    "question": "尊敬的董秘，您好，请问贵司的热管理产品是否可以应用到特斯拉新发布的Roadster等高科技感车型。",
+    "answer": null,
+    "ask_date": "2026-10-16",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2382721059972841472"
+   },
+   {
+    "question": "您好，闻泰科技现在处于落难的时期，恳请贵公司帮忙度过难关，困难的时候帮一把，它一定会努力给提供帮助的格力带来回报！",
+    "answer": null,
+    "ask_date": "2026-10-15",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2381964561492492288"
+   },
+   {
+    "question": "公司能不能设计一系列AI形象玩具，买产品，积玩具，达到一定程度的消费者，本人或家庭可以和产品经理，公司科学家互动，展示公司的优秀人才，优秀产品。",
+    "answer": "尊敬的投资者，您好！非常感谢您提出的关于客户互动模式的创新建议，我们已传达至相关部门。感谢您对公司的关注与支持！",
+    "ask_date": "2026-10-14",
+    "answer_date": "2026-10-22",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2381189440275349504"
+   }
+  ],
+  "count_12m": null
+ }
+}

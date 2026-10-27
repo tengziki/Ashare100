@@ -1,0 +1,641 @@
+{
+ "identity": {
+  "code": "688256",
+  "exchange": "SH",
+  "board": "科创板",
+  "name_full": "中科寒武纪科技股份有限公司",
+  "name_abbr": "寒武纪",
+  "aliases": [
+   "hwj"
+  ],
+  "name_en": "Cambricon Technologies Corporation Limited",
+  "pinyin_abbr": "HWJ",
+  "former_names": [],
+  "industry_sw1": "电子",
+  "industry_sw2": "半导体",
+  "list_date": "2020-07-20",
+  "province": "北京",
+  "city": "北京",
+  "website": "www.cambricon.com",
+  "chairman": "陈天石",
+  "employees": 1107,
+  "business_summary": "应用于各类云服务器、边缘计算设备、终端设备中人工智能核心芯片的研发、设计和销售",
+  "profile": "中科寒武纪科技股份有限公司成立于2016年,专注于人工智能芯片产品的研发与技术创新,致力于打造人工智能领域的核心处理器芯片,让机器更好地理解和服务人类。寒武纪提供云边端一体、软硬件协同、训练推理融合、具备统一生态的系列化智能芯片产品和平台化基础系统软件。寒武纪产品广泛应用于服务器厂商和产业公司,面向互联网、金融、交通、能源、电力和制造等领域的复杂AI应用场景提供充裕算力,推动人工智能赋能产业升级。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 883.94,
+  "change_pct": -3.54,
+  "total_mv": 555869211831.52,
+  "float_mv": 555869211831.52,
+  "total_shares": 628854008,
+  "float_shares": 628854008,
+  "pe_ttm": 166.82,
+  "pe_static": 269.94,
+  "pb": 36.75,
+  "ps_ttm": 57.83,
+  "turnover_rate": 1.41,
+  "amount": 7965689601.0,
+  "high_52w": 1620.0,
+  "low_52w": 648.66,
+  "ytd_return": -2.73,
+  "return_1y": -7.77,
+  "return_3y": 882.53,
+  "dividend_yield": 0.17,
+  "index_members": [
+   "上证50",
+   "沪深300",
+   "中证A500",
+   "科创50"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 721045278.97,
+    "revenue_yoy": 57.12,
+    "net_profit": -824949409.11,
+    "net_profit_yoy": -89.86,
+    "net_profit_deducted": -1110749601.34,
+    "gross_margin": 62.39,
+    "net_margin": -115.08,
+    "selling_expense_ratio": 9.91,
+    "admin_expense_ratio": 54.88,
+    "finance_expense_ratio": -7.34,
+    "rd_expense": 1135740569.86,
+    "rd_ratio": 157.51,
+    "eps": -2.06,
+    "bvps": 14.72,
+    "roe": -13.53,
+    "roa": -11.61,
+    "total_assets": 6989146320.88,
+    "total_liab": 1008934855.5,
+    "debt_ratio": 14.44,
+    "cash": 2920845845.45,
+    "receivables": 478035101.67,
+    "inventory": 287029793.25,
+    "goodwill": null,
+    "interest_debt": 95108624.43,
+    "equity_parent": 5890957274.58,
+    "ocf": -873140199.94,
+    "capex": 504999664.82,
+    "fcf": -1378139864.76,
+    "ocf_to_np": 1.06
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 729034623.05,
+    "revenue_yoy": 1.11,
+    "net_profit": -1256353139.85,
+    "net_profit_yoy": -52.29,
+    "net_profit_deducted": -1579269613.98,
+    "gross_margin": 65.76,
+    "net_margin": -181.71,
+    "selling_expense_ratio": 11.35,
+    "admin_expense_ratio": 40.69,
+    "finance_expense_ratio": -7.12,
+    "rd_expense": 1523106378.38,
+    "rd_ratio": 208.92,
+    "eps": -3.14,
+    "bvps": 12.11,
+    "roe": -23.4,
+    "roa": -20.76,
+    "total_assets": 5770821636.13,
+    "total_liab": 831100736.1,
+    "debt_ratio": 14.4,
+    "cash": 2467309705.85,
+    "receivables": 765608875.89,
+    "inventory": 287121493.51,
+    "goodwill": null,
+    "interest_debt": 104637662.78,
+    "equity_parent": 4854893284.09,
+    "ocf": -1329861090.04,
+    "capex": 284140356.79,
+    "fcf": -1614001446.83,
+    "ocf_to_np": 1.06
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 709386584.26,
+    "revenue_yoy": -2.7,
+    "net_profit": -848440140.99,
+    "net_profit_yoy": 32.47,
+    "net_profit_deducted": -1042862484.0,
+    "gross_margin": 69.16,
+    "net_margin": -123.78,
+    "selling_expense_ratio": 11.57,
+    "admin_expense_ratio": 21.65,
+    "finance_expense_ratio": -6.31,
+    "rd_expense": 1117508162.74,
+    "rd_ratio": 157.53,
+    "eps": -2.07,
+    "bvps": 13.56,
+    "roe": -15.34,
+    "roa": -14.41,
+    "total_assets": 6418036122.33,
+    "total_liab": 688507033.01,
+    "debt_ratio": 10.73,
+    "cash": 3953710408.54,
+    "receivables": 643921052.59,
+    "inventory": 99401068.16,
+    "goodwill": null,
+    "interest_debt": 40311629.9,
+    "equity_parent": 5649838776.6,
+    "ocf": -595535023.01,
+    "capex": 100382463.25,
+    "fcf": -695917486.26,
+    "ocf_to_np": 0.7
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 1174464377.35,
+    "revenue_yoy": 65.56,
+    "net_profit": -452338791.01,
+    "net_profit_yoy": 46.69,
+    "net_profit_deducted": -864951476.14,
+    "gross_margin": 56.71,
+    "net_margin": -38.91,
+    "selling_expense_ratio": 5.96,
+    "admin_expense_ratio": 15.37,
+    "finance_expense_ratio": -1.64,
+    "rd_expense": 1215873557.36,
+    "rd_ratio": 103.53,
+    "eps": -1.09,
+    "bvps": 12.99,
+    "roe": -8.18,
+    "roa": -6.96,
+    "total_assets": 6717812509.7,
+    "total_liab": 1287332938.05,
+    "debt_ratio": 19.16,
+    "cash": 1986492266.28,
+    "receivables": 304598605.32,
+    "inventory": 1773974363.76,
+    "goodwill": null,
+    "interest_debt": 114309983.95,
+    "equity_parent": 5422658659.68,
+    "ocf": -1617960236.9,
+    "capex": 366049335.22,
+    "fcf": -1984009572.12,
+    "ocf_to_np": 3.58
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 6497196198.68,
+    "revenue_yoy": 453.21,
+    "net_profit": 2059228538.67,
+    "net_profit_yoy": 555.24,
+    "net_profit_deducted": 1769934157.68,
+    "gross_margin": 55.15,
+    "net_margin": 31.68,
+    "selling_expense_ratio": 1.05,
+    "admin_expense_ratio": 3.05,
+    "finance_expense_ratio": 0.17,
+    "rd_expense": 1350804571.97,
+    "rd_ratio": 20.79,
+    "eps": 4.93,
+    "bvps": 28.07,
+    "roe": 26.96,
+    "roa": 20.43,
+    "total_assets": 13437714065.91,
+    "total_liab": 1594460330.44,
+    "debt_ratio": 11.87,
+    "cash": 1317358976.84,
+    "receivables": 670643223.27,
+    "inventory": 4943532510.26,
+    "goodwill": null,
+    "interest_debt": 16712288.2,
+    "equity_parent": 11836173972.81,
+    "ocf": -498398137.01,
+    "capex": 568697888.63,
+    "fcf": -1067096025.64,
+    "ocf_to_np": -0.24
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 5995573619.61,
+   "revenue_yoy": 108.13,
+   "net_profit": 2310912080.33,
+   "net_profit_yoy": 122.61,
+   "net_profit_deducted": 2165555778.52,
+   "gross_margin": 55.25,
+   "net_margin": 38.54,
+   "roe": 18.05,
+   "eps": 3.68,
+   "debt_ratio": 25.48,
+   "ocf": 311314642.46
+  },
+  "derived": {
+   "revenue_cagr_3y": 107.33,
+   "net_profit_cagr_3y": null,
+   "receivables_to_revenue": 10.32,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "陈天石",
+  "controlling_shareholder": "陈天石",
+  "controlling_ratio": 28.35,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "陈天石",
+    "hold_num": 178100669,
+    "hold_ratio": 28.35,
+    "hold_num_change": 58570019
+   },
+   {
+    "rank": 2,
+    "name": "北京中科算源资产管理有限公司",
+    "hold_num": 97847884,
+    "hold_ratio": 15.57,
+    "hold_num_change": 32178163
+   },
+   {
+    "rank": 3,
+    "name": "北京艾溪科技中心(有限合伙)",
+    "hold_num": 45662346,
+    "hold_ratio": 7.27,
+    "hold_num_change": 15016476
+   },
+   {
+    "rank": 4,
+    "name": "香港中央结算有限公司",
+    "hold_num": 22018028,
+    "hold_ratio": 3.5,
+    "hold_num_change": 11280320
+   },
+   {
+    "rank": 5,
+    "name": "张炜",
+    "hold_num": 7450000,
+    "hold_ratio": 1.19,
+    "hold_num_change": 4343660
+   },
+   {
+    "rank": 6,
+    "name": "北京艾加溪科技中心(有限合伙)",
+    "hold_num": 7080626,
+    "hold_ratio": 1.13,
+    "hold_num_change": 2296528
+   },
+   {
+    "rank": 7,
+    "name": "招商银行股份有限公司-华夏上证科创板50成份交易型开放式指数证券投资基金",
+    "hold_num": 4046965,
+    "hold_ratio": 0.64,
+    "hold_num_change": -2480629
+   },
+   {
+    "rank": 8,
+    "name": "中信证券股份有限公司-嘉实上证科创板芯片交易型开放式指数证券投资基金",
+    "hold_num": 3427153,
+    "hold_ratio": 0.55,
+    "hold_num_change": -328036
+   },
+   {
+    "rank": 9,
+    "name": "中国工商银行股份有限公司-易方达上证科创板50成份交易型开放式指数证券投资基金",
+    "hold_num": 2438915,
+    "hold_ratio": 0.39,
+    "hold_num_change": -1117991
+   },
+   {
+    "rank": 10,
+    "name": "邱明静",
+    "hold_num": 2265731,
+    "hold_ratio": 0.36,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 58270,
+  "holder_num_change_pct": -15.04,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 14.55,
+  "northbound_ratio": 3.5,
+  "executives": [
+   {
+    "name": "陈天石",
+    "title": "董事长",
+    "pay": 1464200.0
+   },
+   {
+    "name": "陈天石",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "叶淏尹",
+    "title": "董事会秘书",
+    "pay": 1755400.0
+   }
+  ],
+  "pledge_ratio_total": 0.0,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 1.5,
+    "total_amount": 632527755.0,
+    "payout_ratio": 30.72,
+    "dividend_yield": 0.08,
+    "ex_date": "2026-05-08"
+   }
+  ],
+  "consecutive_years": 1,
+  "cum_dividend_5y": 632527755.0,
+  "cum_netprofit_5y": -1322852942.29,
+  "payout_5y": -47.82,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [
+   "688825.SH",
+   "688981.SH",
+   "688041.SH",
+   "002371.SZ"
+  ],
+  "segments": [
+   {
+    "name": "云端产品线",
+    "revenue": 6476855244.59,
+    "ratio": 99.69,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他",
+    "revenue": 14658217.43,
+    "ratio": 0.23,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "边缘产品线",
+    "revenue": 3393986.73,
+    "ratio": 0.05,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "IP授权及软件",
+    "revenue": 2288749.93,
+    "ratio": 0.04,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "境内",
+    "revenue": 6497129116.33,
+    "ratio": 100.0,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "境外",
+    "revenue": 67082.35,
+    "ratio": 0.0,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "关于召开2026年第三季度业绩说明会的公告",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225608859.PDF",
+    "type": null
+   },
+   {
+    "title": "关于离职高管诉讼进展的公告",
+    "date": "2026-10-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225592148.PDF",
+    "type": null
+   },
+   {
+    "title": "中信证券股份有限公司关于中科寒武纪科技股份有限公司2026年半年度持续督导跟踪报告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225533619.PDF",
+    "type": null
+   },
+   {
+    "title": "关于向2026年限制性股票激励计划激励对象首次授予限制性股票的公告",
+    "date": "2026-08-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-18/1225478704.PDF",
+    "type": null
+   },
+   {
+    "title": "关于调整2026年限制性股票激励计划首次授予激励对象名单及授予人数的公告",
+    "date": "2026-08-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-18/1225478703.PDF",
+    "type": null
+   },
+   {
+    "title": "关于变更注册资本、修订《公司章程》并办理工商变更登记的公告",
+    "date": "2026-08-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-18/1225478702.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市中伦律师事务所关于中科寒武纪科技股份有限公司2026年限制性股票激励计划调整及首次授予事项的法律意见书",
+    "date": "2026-08-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-18/1225478701.PDF",
+    "type": null
+   },
+   {
+    "title": "第三届董事会第九次会议决议公告",
+    "date": "2026-08-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-18/1225478700.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市中伦律师事务所关于中科寒武纪科技股份有限公司2026年第一次临时股东会的法律意见书",
+    "date": "2026-08-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-18/1225478699.PDF",
+    "type": null
+   },
+   {
+    "title": "公司章程",
+    "date": "2026-08-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-18/1225478698.PDF",
+    "type": null
+   },
+   {
+    "title": "董事会薪酬与考核委员会关于2026年限制性股票激励计划首次授予激励对象名单的核查意见（截止首次授予日）",
+    "date": "2026-08-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-18/1225478697.PDF",
+    "type": null
+   },
+   {
+    "title": "关于2026年限制性股票激励计划内幕信息知情人及激励对象买卖公司股票情况的自查报告",
+    "date": "2026-08-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-18/1225478696.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年限制性股票激励计划首次授予激励对象名单（截止首次授予日）",
+    "date": "2026-08-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-18/1225478695.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年第一次临时股东会决议公告",
+    "date": "2026-08-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-18/1225478694.PDF",
+    "type": null
+   },
+   {
+    "title": "关于2023年限制性股票激励计划预留授予部分第一个归属期归属结果暨股份上市的公告",
+    "date": "2026-08-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-18/1225478611.PDF",
+    "type": null
+   },
+   {
+    "title": "董事会薪酬与考核委员会关于公司2026年限制性股票激励计划激励对象名单的公示情况说明及核查意见",
+    "date": "2026-08-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-08/1225464974.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年第一次临时股东会会议资料",
+    "date": "2026-08-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-08/1225464973.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年度“提质增效重回报”行动方案的半年度评估报告",
+    "date": "2026-08-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-08/1225464972.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度报告摘要",
+    "date": "2026-08-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-08/1225464971.PDF",
+    "type": null
+   },
+   {
+    "title": "关于公司2026年半年度募集资金存放、管理与实际使用情况的专项报告",
+    "date": "2026-08-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-08/1225464970.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 135
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "据说，今年9月，苹果、华为、荣耀、小米、传音新机国内发布，都会大幅涨价，对公司产品销售有直接积极影响吗？",
+    "answer": "您好，公司聚焦于人工智能芯片领域，是针对人工智能领域专门设计的芯片。公司主营业务是应用于各类云服务器、边缘计算设备、终端设备中人工智能核心芯片的研发、设计和销售。公司的主要产品线包括云端产品线、边缘产品线、IP授权及软件。2026年上半年度，公司营业收入主要来自于云端产品线销售业务。感谢您对公司的关注！",
+    "ask_date": "2026-08-17",
+    "answer_date": "2026-10-12",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=173882"
+   },
+   {
+    "question": "领导，您好。公司的高端先进芯片，是不是大部分具备了推训一体能力？目前公司的产品在国内大模型的训练方面、推理方面，与竞争对手比较，处于什么地位？NO.1还是NO.2？ 可以解答一下，尤其是训练方面的使用情况，客户评价，以及进步情况吗谢谢",
+    "answer": "您好，公司是智能芯片领域全球知名的新兴公司，全面系统掌握智能芯片及其基础系统软件研发和产品化核心技术。公司已推出的产品体系覆盖了云端、边缘端的智能芯片及板卡、智能整机、处理器IP及软件，可满足云、边、端不同规模的人工智能计算需求。公司的智能芯片和处理器产品可高效支持大模型训练及推理、视觉（图像和视频的智能处理）、语音处理（语音识别与合成）、自然语言处理以及推荐系统等多样化的人工智能任务，高效支持视觉、语音和自然语言处理等多模态人工智能任务。公司凭借领先的研发能力、可靠的产品质量和优秀的客户服务水平，积累了良好的品牌认知和优质的客户资源。感谢您对公司的关注！",
+    "ask_date": "2026-08-12",
+    "answer_date": "2026-10-12",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=173882"
+   },
+   {
+    "question": "尊敬的管理层，恭喜公司2026年半年度取得经营成果，向公司请教：1、2026半年报期末存货账面价值82.48亿元，原材料、委托加工物资占比高。请说明存货大幅增加的主要驱动因素，是否为应对下游需求的战略备货。结合下游订单现状，请介绍三季度存货的消化节奏，公司针对大额存货的跌价风险建立了怎样的管控机制？希望公司尽快回",
+    "answer": "您好，公司根据客户订单需求以及对市场未来需求的预测情况制定采购计划，截至2026年6月末，存货账面价值为824,750.95万元，占期末资产总额的比例为45.32%。若未来市场环境发生变化可能导致公司存货跌价风险增加，对公司的盈利能力产生不利影响。公司将持续拓展市场，积极助力人工智能应用落地，控制相关风险。感谢您对公司的关注！",
+    "ask_date": "2026-08-12",
+    "answer_date": "2026-10-12",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=173882"
+   },
+   {
+    "question": "董秘您好，近期市场有小作文称寒武纪明年预期出货100万颗以上。请问公司是否曾通过非公开渠道向机构投资者沟通过类似数据？在此向董秘及管理层求证：若公司从未作出相关沟通，建议及时澄清辟谣；若确有沟通，也请说明为何此类重要经营预期更多通过非公开渠道传播。长期如此是否容易造成信息不对称，并进一步助长市场小作文？",
+    "answer": "您好，公司从未进行过相关沟通。市场信息繁杂，公司公告是所有投资者平等获取公司信息的有效途径，如涉及法规要求的应当披露的重大事项，公司会依法履行信息披露义务。敬请投资者提高信息辨别能力，不传播、不采信来源不明或未经核实的信息，以公司发布在上交所官网的公告或公司官方网站披露的信息为准。感谢您对公司的关注！",
+    "ask_date": "2026-09-24",
+    "answer_date": "2026-09-30",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=173882"
+   },
+   {
+    "question": "建议公司保持官方网站更新，目前网站上产品还是2022年的，新闻还是2024年的，实在是不妥",
+    "answer": "感谢您对公司的关注！公司持续推动智能芯片产品、基础系统软件平台的迭代升级与优化，提升公司芯片产品的市场竞争力，为客户提供优质的芯片产品。公司依法履行信息披露义务，并通过多元化的交流途径，保持与公司投资者的良好沟通。",
+    "ask_date": "2026-09-23",
+    "answer_date": "2026-09-30",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=173882"
+   },
+   {
+    "question": "董秘您好，在哪里可用获取贵司的技术资料？官网的开发者论坛现在无法访问是怎么回事？",
+    "answer": "您好，公司研发相关情况可关注公司在指定披露媒体披露的公告或公司官网、寒武纪开发者公众号等官方渠道发布的信息。",
+    "ask_date": "2026-09-18",
+    "answer_date": "2026-09-30",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=173882"
+   },
+   {
+    "question": "请问今天公司半年报业绩交流会，为什么公司领导没有回复任何问题？",
+    "answer": "您好，公司已于2026年8月12日在上海证券交易所上证路演中心召开2026年半年度业绩说明会，以网络文字互动就投资者关心的问题进行交流。您可登录上海证券交易所上证路演中心查看本次说明会的具体互动交流。感谢您对公司的关注！",
+    "ask_date": "2026-08-12",
+    "answer_date": "2026-09-30",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=173882"
+   },
+   {
+    "question": "陈老师，您好。我在2023年参加公司业绩说明会时，当时公司回复我：公司迄今已自主研发了五代智能处理器微架构、五代商用智能处理器指令集。2023年上半年，第六代智能处理器微架构和指令集正在研发中。新一代智能处理器微架构及指令集将对自然语言处理大模型和推荐系统的训练推理等场景进行重点优化，将在编程灵活性、能效、功耗、面积等方面提升产品竞争力。目前2026年，公司第六代智能处理器微架构和指令集研发完成了吗？",
+    "answer": "您好，公司自成立以来，始终将自主研发与技术创新视为核心战略，持续推动智能芯片产品、基础系统软件平台的迭代升级与优化，提升公司芯片产品的市场竞争力，为客户提供优质的芯片产品。2026年上半年度，在硬件方面，公司的新一代智能处理器微架构和指令集正在研发中。在软件方面，公司对基础系统软件平台也进行了优化和迭代。其中，在训练软件平台方面，公司围绕训练生态建设、模型适配与性能优化、低精度训练以及训练工具等方向，持续推进训练软件栈的研发与完善，在大模型训练适配能力、训练效率和系统稳定性等方面取得阶段性进展。在推理软件平台方面，公司围绕大模型推理、计算图编译、算子编程与加速库、通信等方向，持续推进推理软件平台的研发与优化。平台功能、模型适配能力、运行效率及系统稳定性进一步提升，并在内部研发、客户业务及搜索、推荐等场景取得阶段性成果。公司经营及研发进展情况请您关注公司在指定披露媒体披露的相关公告信息。感谢您对公司的关注！",
+    "ask_date": "2026-08-12",
+    "answer_date": "2026-09-30",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=173882"
+   }
+  ],
+  "count_12m": null
+ }
+}

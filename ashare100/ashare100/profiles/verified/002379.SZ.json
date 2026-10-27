@@ -1,0 +1,658 @@
+{
+ "identity": {
+  "code": "002379",
+  "exchange": "SZ",
+  "board": "主板",
+  "name_full": "山东宏桥铝业控股股份有限公司",
+  "name_abbr": "宏桥控股",
+  "aliases": [
+   "hqkg"
+  ],
+  "name_en": "Shandong Hongqiao Aluminum Industry Holding Company Limited",
+  "pinyin_abbr": "HQKG",
+  "former_names": [
+   "鲁丰股份→鲁丰环保→*ST鲁丰→鲁丰环保→宏创控股"
+  ],
+  "industry_sw1": "有色金属",
+  "industry_sw2": "工业金属",
+  "list_date": "2010-03-31",
+  "province": "山东",
+  "city": "滨州",
+  "website": "www.hongqiaoholdings.com",
+  "chairman": "张波",
+  "employees": 36178,
+  "business_summary": "集氧化铝、电解铝、铝深加工于一体的完整铝产业链业务",
+  "profile": "山东宏桥铝业控股股份有限公司(以下简称“公司”或“宏桥控股”)成立于2000年8月,于2010年3月成功登陆A股市场,证券简称“宏桥控股”,股票代码002379。历经风雨,宏桥控股已发展成为一家大型综合性的铝加工企业,目前拥有22条铸轧线、5台冷轧线、14条箔轧生产线,具备年产铸轧板材20万吨、冷轧板材20万吨、铝箔12万吨生产能力,主要产品为药用箔、家用箔、容器箔、装饰箔、电池箔、电缆箔等。优质的产品、专业的技术、精湛的服务,赢得了客户的支持与信赖,公司产品远销全球60多个国家和地区,与业内主要用户建立了紧密的合作关系。梦想激涌,通达未来。宏桥控股将继续加大科技创新研发力度,确保公司未来市场竞争中的先发优势,实现客户价值、企业效益和社会效益的共赢,为广大股东创造丰厚回报和长远价值。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 13.72,
+  "change_pct": -2.97,
+  "total_mv": 178786941731.44,
+  "float_mv": 15591047891.16,
+  "total_shares": 13031118202,
+  "float_shares": 1136373753,
+  "pe_ttm": 7.25,
+  "pe_static": 10.01,
+  "pb": 2.74,
+  "ps_ttm": 1.08,
+  "turnover_rate": 1.97,
+  "amount": 312066658.35,
+  "high_52w": 33.19,
+  "low_52w": 13.57,
+  "ytd_return": -42.04,
+  "return_1y": -27.52,
+  "return_3y": 240.45,
+  "dividend_yield": 1.82,
+  "index_members": []
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 3190524072.62,
+    "revenue_yoy": 34.79,
+    "net_profit": -77520889.16,
+    "net_profit_yoy": 53.02,
+    "net_profit_deducted": -91540893.53,
+    "gross_margin": 2.62,
+    "net_margin": -2.43,
+    "selling_expense_ratio": 0.37,
+    "admin_expense_ratio": 1.33,
+    "finance_expense_ratio": 0.63,
+    "rd_expense": 51063705.45,
+    "rd_ratio": 1.6,
+    "eps": -0.08,
+    "bvps": 1.45,
+    "roe": -5.53,
+    "roa": -2.91,
+    "total_assets": 3040280440.64,
+    "total_liab": 1618789884.04,
+    "debt_ratio": 53.24,
+    "cash": 323091739.4,
+    "receivables": 133184454.76,
+    "inventory": 633645066.16,
+    "goodwill": null,
+    "interest_debt": 311323357.38,
+    "equity_parent": 1421490556.6,
+    "ocf": -52191562.41,
+    "capex": 1768254.15,
+    "fcf": -53959816.56,
+    "ocf_to_np": 0.67
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 3529269914.24,
+    "revenue_yoy": 10.62,
+    "net_profit": 22842684.97,
+    "net_profit_yoy": 129.47,
+    "net_profit_deducted": 53685446.51,
+    "gross_margin": 5.75,
+    "net_margin": 0.65,
+    "selling_expense_ratio": 0.47,
+    "admin_expense_ratio": 1.22,
+    "finance_expense_ratio": -0.31,
+    "rd_expense": 51868588.87,
+    "rd_ratio": 1.47,
+    "eps": 0.02,
+    "bvps": 1.5,
+    "roe": 1.62,
+    "roa": 0.81,
+    "total_assets": 2595324146.45,
+    "total_liab": 1207506117.38,
+    "debt_ratio": 46.53,
+    "cash": 429541453.78,
+    "receivables": 97962828.42,
+    "inventory": 473318962.42,
+    "goodwill": null,
+    "interest_debt": 250097009.15,
+    "equity_parent": 1387818029.07,
+    "ocf": 328110258.0,
+    "capex": 96462389.27,
+    "fcf": 231647868.73,
+    "ocf_to_np": 14.36
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 2687275652.83,
+    "revenue_yoy": -23.86,
+    "net_profit": -145222260.21,
+    "net_profit_yoy": -735.75,
+    "net_profit_deducted": -146573586.52,
+    "gross_margin": 0.97,
+    "net_margin": -5.4,
+    "selling_expense_ratio": 0.36,
+    "admin_expense_ratio": 1.54,
+    "finance_expense_ratio": -0.06,
+    "rd_expense": 45083439.98,
+    "rd_ratio": 1.68,
+    "eps": -0.14,
+    "bvps": 1.79,
+    "roe": 18.92,
+    "roa": -5.21,
+    "total_assets": 2982041923.56,
+    "total_liab": 953160885.15,
+    "debt_ratio": 31.96,
+    "cash": 269645122.83,
+    "receivables": 97320833.02,
+    "inventory": 654541979.47,
+    "goodwill": null,
+    "interest_debt": 126197940.0,
+    "equity_parent": 2028881038.41,
+    "ocf": -216121000.75,
+    "capex": 58568319.13,
+    "fcf": -274689319.88,
+    "ocf_to_np": 1.49
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 150335986027.49,
+    "revenue_yoy": 5494.36,
+    "net_profit": 17227881457.01,
+    "net_profit_yoy": 11963.11,
+    "net_profit_deducted": -86259124.78,
+    "gross_margin": 20.07,
+    "net_margin": 12.02,
+    "selling_expense_ratio": 0.04,
+    "admin_expense_ratio": 0.81,
+    "finance_expense_ratio": 1.2,
+    "rd_expense": 349789405.13,
+    "rd_ratio": 0.23,
+    "eps": 1.32,
+    "bvps": 1.72,
+    "roe": 35.27,
+    "roa": 32.56,
+    "total_assets": 108026258575.27,
+    "total_liab": 63326837967.25,
+    "debt_ratio": 58.62,
+    "cash": 15220994983.48,
+    "receivables": 3506450450.56,
+    "inventory": 32588419835.6,
+    "goodwill": 80417527.18,
+    "interest_debt": 35060883879.75,
+    "equity_parent": 42689915713.3,
+    "ocf": 25281995450.75,
+    "capex": 9090644193.53,
+    "fcf": 16191351257.22,
+    "ocf_to_np": 1.47
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 156720854229.71,
+    "revenue_yoy": 4.25,
+    "net_profit": 17863539928.79,
+    "net_profit_yoy": 3.69,
+    "net_profit_deducted": -369131323.85,
+    "gross_margin": 19.35,
+    "net_margin": 11.97,
+    "selling_expense_ratio": 0.03,
+    "admin_expense_ratio": 0.86,
+    "finance_expense_ratio": 1.06,
+    "rd_expense": 254336675.48,
+    "rd_ratio": 0.16,
+    "eps": 1.37,
+    "bvps": 40.1,
+    "roe": 34.63,
+    "roa": 17.1,
+    "total_assets": 111287772033.62,
+    "total_liab": 65724190807.23,
+    "debt_ratio": 59.06,
+    "cash": 18472502840.79,
+    "receivables": 2838818572.03,
+    "inventory": 32410746337.52,
+    "goodwill": null,
+    "interest_debt": 26801362416.94,
+    "equity_parent": 45571106863.72,
+    "ocf": 23994898583.36,
+    "capex": 5345035977.89,
+    "fcf": 18649862605.47,
+    "ocf_to_np": 1.34
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 86503979245.58,
+   "revenue_yoy": 11.95,
+   "net_profit": 15645254370.52,
+   "net_profit_yoy": 77.02,
+   "net_profit_deducted": 15534968276.69,
+   "gross_margin": 25.38,
+   "net_margin": 18.09,
+   "roe": 30.26,
+   "eps": 1.2,
+   "debt_ratio": 44.82,
+   "ocf": 18701478703.14
+  },
+  "derived": {
+   "revenue_cagr_3y": 254.12,
+   "net_profit_cagr_3y": 821.31,
+   "receivables_to_revenue": 1.81,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "张波,张红霞,张艳红",
+  "controlling_shareholder": "山东魏桥铝电有限公司",
+  "controlling_ratio": 86.98,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "山东魏桥铝电有限公司",
+    "hold_num": 11335057116,
+    "hold_ratio": 86.98,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "山东宏桥新型材料有限公司",
+    "hold_num": 261096605,
+    "hold_ratio": 2.0,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "香港中央结算有限公司",
+    "hold_num": 112893048,
+    "hold_ratio": 0.87,
+    "hold_num_change": 31099738
+   },
+   {
+    "rank": 4,
+    "name": "北京山高君泰私募基金管理有限责任公司-济南嘉汇投资合伙企业(有限合伙)",
+    "hold_num": 100126337,
+    "hold_ratio": 0.77,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "中国东方资产管理股份有限公司",
+    "hold_num": 94458809,
+    "hold_ratio": 0.72,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "中国中信金融资产管理股份有限公司",
+    "hold_num": 94458809,
+    "hold_ratio": 0.72,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "中信聚信(北京)资本管理有限公司-天津聚信天昂股权投资合伙企业(有限合伙)",
+    "hold_num": 94458809,
+    "hold_ratio": 0.72,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "宁波信铝企业管理合伙企业(有限合伙)",
+    "hold_num": 75567047,
+    "hold_ratio": 0.58,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "北京山高君泰私募基金管理有限责任公司-济南宏泰投资合伙企业(有限合伙)",
+    "hold_num": 56864203,
+    "hold_ratio": 0.44,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 10,
+    "name": "北京山高君泰私募基金管理有限责任公司-济南君岳投资合伙企业(有限合伙)",
+    "hold_num": 38085791,
+    "hold_ratio": 0.29,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 66724,
+  "holder_num_change_pct": 0.16,
+  "holder_num_date": "2026-09-30",
+  "inst_hold_ratio": 13.15,
+  "northbound_ratio": 0.87,
+  "executives": [
+   {
+    "name": "张波",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "杨丛森",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "肖萧",
+    "title": "董事会秘书",
+    "pay": 1687600
+   }
+  ],
+  "pledge_ratio_total": 0.0,
+  "unlock_12m": [
+   {
+    "date": "2027-01-13",
+    "shares": 559687333,
+    "ratio": 4.3
+   }
+  ]
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": 0.0,
+    "dividend_yield": 0.0,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": 0.0,
+    "dividend_yield": 0.0,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.25,
+    "total_amount": 3257779550.5,
+    "payout_ratio": 18.24,
+    "dividend_yield": 0.94,
+    "ex_date": "2026-04-24"
+   }
+  ],
+  "consecutive_years": 1,
+  "cum_dividend_5y": 3257779550.5,
+  "cum_netprofit_5y": 34891520921.4,
+  "payout_5y": 9.34,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "601899.SH",
+   "603993.SH",
+   "601600.SH",
+   "600362.SH"
+  ],
+  "segments": [
+   {
+    "name": "液态铝",
+    "revenue": 96589344874.67,
+    "ratio": 61.63,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "氧化铝销售",
+    "revenue": 30031912558.59,
+    "ratio": 19.16,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "深加工产品",
+    "revenue": 14960914163.1,
+    "ratio": 9.55,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "铝合金锭",
+    "revenue": 10365098788.62,
+    "ratio": 6.61,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "废品销售及其他",
+    "revenue": 2542186193.32,
+    "ratio": 1.62,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "国内",
+    "revenue": 151459610503.6,
+    "ratio": 96.64,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "国外",
+    "revenue": 2719057532.79,
+    "ratio": 1.74,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 2542186193.32,
+    "ratio": 1.62,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "关于间接控股股东发布相关公告的提示性公告",
+    "date": "2026-09-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225580406.PDF",
+    "type": null
+   },
+   {
+    "title": "前次募集资金使用情况鉴证报告",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225560521.PDF",
+    "type": null
+   },
+   {
+    "title": "前次募集资金存放与实际使用情况的专项报告",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225560520.PDF",
+    "type": null
+   },
+   {
+    "title": "第七届董事会2026年第三次临时会议决议公告",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225560519.PDF",
+    "type": null
+   },
+   {
+    "title": "关于收购股权暨关联交易的公告",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225560518.PDF",
+    "type": null
+   },
+   {
+    "title": "上海市锦天城（北京）律师事务所关于山东宏桥控股股份有限公司2026年第二次临时股东会之法律意见书",
+    "date": "2026-09-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-09/1225554265.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年第二次临时股东会决议公告",
+    "date": "2026-09-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-09/1225554264.PDF",
+    "type": null
+   },
+   {
+    "title": "关于注销募集资金专户的公告",
+    "date": "2026-09-04",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-04/1225546045.PDF",
+    "type": null
+   },
+   {
+    "title": "关于调整公司组织架构的公告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225490547.PDF",
+    "type": null
+   },
+   {
+    "title": "宏桥控股：董事会审计委员会年报工作制度（2026年8月）",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225490546.PDF",
+    "type": null
+   },
+   {
+    "title": "宏桥控股：信息披露暂缓与豁免管理制度（2026年8月）",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225490545.PDF",
+    "type": null
+   },
+   {
+    "title": "宏桥控股：总经理工作细则（2026年8月）",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225490544.PDF",
+    "type": null
+   },
+   {
+    "title": "宏桥控股：独立董事年报工作制度（2026年8月）",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225490543.PDF",
+    "type": null
+   },
+   {
+    "title": "关于“质量回报双提升”行动方案的进展公告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225490542.PDF",
+    "type": null
+   },
+   {
+    "title": "关于召开2026年第二次临时股东会的通知",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225490541.PDF",
+    "type": null
+   },
+   {
+    "title": "第七届董事会第三次会议决议公告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225490540.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度募集资金存放与实际使用情况的专项报告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225490539.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度财务报告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225490538.PDF",
+    "type": null
+   },
+   {
+    "title": "上市公司2026年半年度非经营性资金占用及其他关联资金往来情况汇总表",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225490537.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度报告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225490536.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 189
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "你好，请问截止到2026年10月20日公司股东人数是多少？谢谢。",
+    "answer": "感谢您对本公司的关注，截止2026年10月20日股东人数为67,533，谢谢。",
+    "ask_date": "2026-10-22",
+    "answer_date": "2026-10-22",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2387072903489609728"
+   },
+   {
+    "question": "你好，请问截至到今天，公司股东户数多少，谢谢。",
+    "answer": "感谢您对本公司的关注，2026年10月16日的股东名册中登公司尚未提供，公司暂无法获悉股东人数，截至2026年10月9日股东人数为66,639。",
+    "ask_date": "2026-10-16",
+    "answer_date": "2026-10-19",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2382664265807216640"
+   },
+   {
+    "question": "你好，请问截止到2026年9月30日公司股东户数是多少？谢谢。",
+    "answer": "感谢您对本公司的关注，截止2026年9月30日股东人数为66,724，谢谢。",
+    "ask_date": "2026-09-30",
+    "answer_date": "2026-10-07",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2370818685842075648"
+   },
+   {
+    "question": "请问截止到2026年9月18日公司股东人数是多少？谢谢。",
+    "answer": "感谢您对本公司的关注，截止2026年9月18日股东人数为66,617，谢谢。",
+    "ask_date": "2026-09-18",
+    "answer_date": "2026-09-21",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2361866943165313024"
+   },
+   {
+    "question": "你好，请问截止到9月10日公司股东人数是多少？谢谢。",
+    "answer": "感谢您对本公司的关注，截止2026年9月10日股东人数为70,677，谢谢。",
+    "ask_date": "2026-09-10",
+    "answer_date": "2026-09-11",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2355900288565301248"
+   },
+   {
+    "question": "你好，翻阅公司半年报发现公司铝深加工产品营收相比25年增长显著，但部分原因应该是铝价上行，所以我想问下上半年在山东，云南两地的铝深加工产线产能和利用率分别是多少，谢谢",
+    "answer": "尊敬的投资者，您好！目前公司山东、云南两地铝深加工产线均处于高效运行状态，相关产能及利用率详情请以公司后续披露的定期报告为准。",
+    "ask_date": "2026-09-08",
+    "answer_date": "2026-09-09",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2354835952886116352"
+   },
+   {
+    "question": "董秘你好，有关于今年公司分红方面有什么能透露的吗？是倾向于直接分红还是倾向于在母公司HK1378中国宏桥进行分红，还是尽量保证两公司股息率接近，或者公司有其他战略安排？公司目前是处于“成熟期且无重大资金支出安排”这一阶段吗？",
+    "answer": "尊敬的投资者，您好。公司一贯重视对股东的回报，在确保持续稳健发展的基础上，维护投资者的合法权益。关于分红事宜，公司将依据实际经营状况及资金规划进行综合考量与审慎决策，具体方案请留意公司后续披露的公告，感谢您的关注与支持。",
+    "ask_date": "2026-09-07",
+    "answer_date": "2026-09-09",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2353908351619330048"
+   },
+   {
+    "question": "你好，请问截止到2026年8月31日公司股东户数是多少？谢谢。",
+    "answer": "感谢您对本公司的关注，截止2026年8月31日股东人数为73,304，谢谢。",
+    "ask_date": "2026-09-01",
+    "answer_date": "2026-09-09",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2349249986973978624"
+   }
+  ],
+  "count_12m": null
+ }
+}

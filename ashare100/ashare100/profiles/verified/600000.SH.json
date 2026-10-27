@@ -1,0 +1,599 @@
+{
+ "identity": {
+  "code": "600000",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "上海浦东发展银行股份有限公司",
+  "name_abbr": "浦发银行",
+  "aliases": [
+   "pfyh"
+  ],
+  "name_en": "Shanghai Pudong Development Bank Co.,Ltd.",
+  "pinyin_abbr": "PFYH",
+  "former_names": [
+   "浦发银行→G浦发"
+  ],
+  "industry_sw1": "银行",
+  "industry_sw2": "股份制银行Ⅱ",
+  "list_date": "1999-11-10",
+  "province": "上海",
+  "city": "上海",
+  "website": "www.spdb.com.cn",
+  "chairman": "张为忠",
+  "employees": 62198,
+  "business_summary": "吸收公众存款；发放短期、中期和长期贷款；办理结算",
+  "profile": "上海浦东发展银行股份有限公司(以下简称:浦发银行)是1992年8月28日经中国人民银行批准筹建、1993年1月9日开业、1999年在上海证券交易所挂牌上市(股票交易代码:600000)的全国性股份制商业银行,总行设在上海。凭借良好的业绩、诚信的声誉,浦发银行成为中国证券市场中备受关注和尊敬的上市公司。秉承“笃守诚信,创造卓越”的核心价值观,浦发银行积极探索金融创新,资产规模持续扩大,经营实力不断增强。浦发银行已构建起国际化、综合化的经营服务格局,在境内外设有42家一级分行及1700余家营业机构,其中境内分行覆盖内地所有省级行政区域,境外分行包括香港分行、新加坡分行和伦敦分行;集团化发展稳步推进,已覆盖信托、基金、理财、金融租赁、境外投行、村镇银行、货币经纪等多个业态。此外,2022年登记成立慈善组织“上海浦东发展银行公益基金会”,深入践行企业社会责任。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 9.62,
+  "change_pct": -0.41,
+  "total_mv": 320402164446.0,
+  "float_mv": 320402164446.0,
+  "total_shares": 33305838300,
+  "float_shares": 33305838300,
+  "pe_ttm": 6.25,
+  "pe_static": 6.41,
+  "pb": 0.43,
+  "ps_ttm": 1.81,
+  "turnover_rate": 0.19,
+  "amount": 602885524.0,
+  "high_52w": 12.73,
+  "low_52w": 8.07,
+  "ytd_return": -19.97,
+  "return_1y": -23.71,
+  "return_3y": 68.21,
+  "dividend_yield": 4.37,
+  "index_members": [
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 190982000000.0,
+    "revenue_yoy": -2.75,
+    "net_profit": 53003000000.0,
+    "net_profit_yoy": -9.12,
+    "net_profit_deducted": 52550000000.0,
+    "gross_margin": null,
+    "net_margin": 28.15,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.62,
+    "bvps": 19.08,
+    "roe": 8.75,
+    "roa": 0.67,
+    "total_assets": 8136757000000.0,
+    "total_liab": 7458539000000.0,
+    "debt_ratio": 91.66,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 6981000000.0,
+    "interest_debt": null,
+    "equity_parent": 670007000000.0,
+    "ocf": -257192000000.0,
+    "capex": 11285000000.0,
+    "fcf": -268477000000.0,
+    "ocf_to_np": -4.85
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 188622000000.0,
+    "revenue_yoy": -1.24,
+    "net_profit": 51171000000.0,
+    "net_profit_yoy": -3.46,
+    "net_profit_deducted": 50810000000.0,
+    "gross_margin": null,
+    "net_margin": 27.57,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.56,
+    "bvps": 20.03,
+    "roe": 7.98,
+    "roa": 0.62,
+    "total_assets": 8704651000000.0,
+    "total_liab": 7997876000000.0,
+    "debt_ratio": 91.88,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 6981000000.0,
+    "interest_debt": null,
+    "equity_parent": 697872000000.0,
+    "ocf": 365099000000.0,
+    "capex": 7999000000.0,
+    "fcf": 357100000000.0,
+    "ocf_to_np": 7.13
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 173434000000.0,
+    "revenue_yoy": -8.05,
+    "net_profit": 36702000000.0,
+    "net_profit_yoy": -28.28,
+    "net_profit_deducted": 33882000000.0,
+    "gross_margin": null,
+    "net_margin": 21.58,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.07,
+    "bvps": 20.95,
+    "roe": 5.21,
+    "roa": 0.42,
+    "total_assets": 9007247000000.0,
+    "total_liab": 8274363000000.0,
+    "debt_ratio": 91.86,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 5351000000.0,
+    "interest_debt": null,
+    "equity_parent": 724749000000.0,
+    "ocf": 388397000000.0,
+    "capex": 12865000000.0,
+    "fcf": 375532000000.0,
+    "ocf_to_np": 10.58
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 170748000000.0,
+    "revenue_yoy": -1.55,
+    "net_profit": 45257000000.0,
+    "net_profit_yoy": 23.31,
+    "net_profit_deducted": 44207000000.0,
+    "gross_margin": null,
+    "net_margin": 26.84,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.36,
+    "bvps": 22.36,
+    "roe": 6.28,
+    "roa": 0.5,
+    "total_assets": 9461880000000.0,
+    "total_liab": 8717099000000.0,
+    "debt_ratio": 92.13,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 5351000000.0,
+    "interest_debt": null,
+    "equity_parent": 736329000000.0,
+    "ocf": -333654000000.0,
+    "capex": 20128000000.0,
+    "fcf": -353782000000.0,
+    "ocf_to_np": -7.37
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 173964000000.0,
+    "revenue_yoy": 1.88,
+    "net_profit": 50017000000.0,
+    "net_profit_yoy": 10.52,
+    "net_profit_deducted": 50144000000.0,
+    "gross_margin": null,
+    "net_margin": 28.97,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.52,
+    "bvps": 22.13,
+    "roe": 6.76,
+    "roa": 0.52,
+    "total_assets": 10081746000000.0,
+    "total_liab": 9257316000000.0,
+    "debt_ratio": 91.82,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 5351000000.0,
+    "interest_debt": null,
+    "equity_parent": 816914000000.0,
+    "ocf": 375836000000.0,
+    "capex": 20899000000.0,
+    "fcf": 354937000000.0,
+    "ocf_to_np": 7.51
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 93777000000.0,
+   "revenue_yoy": 3.55,
+   "net_profit": 30951000000.0,
+   "net_profit_yoy": 4.08,
+   "net_profit_deducted": 30971000000.0,
+   "gross_margin": null,
+   "net_margin": 33.43,
+   "roe": 3.96,
+   "eps": 0.89,
+   "debt_ratio": 91.92,
+   "ocf": 404304000000.0
+  },
+  "derived": {
+   "revenue_cagr_3y": -2.66,
+   "net_profit_cagr_3y": -0.76,
+   "receivables_to_revenue": null,
+   "goodwill_to_equity": 0.66
+  }
+ },
+ "shareholders": {
+  "controller": "无实际控制人",
+  "controlling_shareholder": "上海国际集团有限公司",
+  "controlling_ratio": 21.28,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "上海国际集团有限公司",
+    "hold_num": 7086834641,
+    "hold_ratio": 21.28,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "中国移动通信集团广东有限公司",
+    "hold_num": 6053495450,
+    "hold_ratio": 18.18,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "富德生命人寿保险股份有限公司-传统",
+    "hold_num": 2779437274,
+    "hold_ratio": 8.35,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "富德生命人寿保险股份有限公司-资本金",
+    "hold_num": 1763232325,
+    "hold_ratio": 5.29,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "中国东方资产管理股份有限公司",
+    "hold_num": 1502726171,
+    "hold_ratio": 4.51,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "上海国际集团投资有限公司",
+    "hold_num": 1395571025,
+    "hold_ratio": 4.19,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "信达投资有限公司",
+    "hold_num": 1313663708,
+    "hold_ratio": 3.94,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "富德生命人寿保险股份有限公司-万能H",
+    "hold_num": 1270428648,
+    "hold_ratio": 3.81,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "上海国鑫投资发展有限公司",
+    "hold_num": 945568990,
+    "hold_ratio": 2.84,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 10,
+    "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+    "hold_num": 825183340,
+    "hold_ratio": 2.48,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 163327,
+  "holder_num_change_pct": 8.1,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 20.61,
+  "northbound_ratio": 1.47,
+  "executives": [
+   {
+    "name": "张为忠",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "谢伟",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "张健",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.02,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.41,
+    "total_amount": 12034391048.49,
+    "payout_ratio": 22.71,
+    "dividend_yield": 5.26,
+    "ex_date": "2022-07-21"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.32,
+    "total_amount": 9392696205.44,
+    "payout_ratio": 18.36,
+    "dividend_yield": 4.31,
+    "ex_date": "2023-07-21"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.321,
+    "total_amount": 9422048937.38,
+    "payout_ratio": 25.67,
+    "dividend_yield": 3.55,
+    "ex_date": "2024-07-18"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.41,
+    "total_amount": 12409748627.39,
+    "payout_ratio": 27.42,
+    "dividend_yield": 2.94,
+    "ex_date": "2025-07-16"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.42,
+    "total_amount": 13988452086.0,
+    "payout_ratio": 27.97,
+    "dividend_yield": 4.51,
+    "ex_date": "2026-07-16"
+   }
+  ],
+  "consecutive_years": 5,
+  "cum_dividend_5y": 57247336904.7,
+  "cum_netprofit_5y": 236150000000.0,
+  "payout_5y": 24.24,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "600036.SH",
+   "601998.SH",
+   "601166.SH",
+   "000001.SZ"
+  ],
+  "segments": [
+   {
+    "name": "总行",
+    "revenue": 56629000000.0,
+    "ratio": 32.55,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "长三角地区",
+    "revenue": 43995000000.0,
+    "ratio": 25.29,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "境外及附属机构",
+    "revenue": 16492000000.0,
+    "ratio": 9.48,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "环渤海地区",
+    "revenue": 15800000000.0,
+    "ratio": 9.08,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "珠三角及海西地区",
+    "revenue": 13122000000.0,
+    "ratio": 7.54,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "中部地区",
+    "revenue": 12101000000.0,
+    "ratio": 6.96,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "西部地区",
+    "revenue": 11642000000.0,
+    "ratio": 6.69,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "地区间抵销",
+    "revenue": -13000000.0,
+    "ratio": -0.01,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "上海浦东发展银行股份有限公司关于首席风险官、首席合规官任职资格获核准的公告",
+    "date": "2026-10-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612444.PDF",
+    "type": null
+   },
+   {
+    "title": "上海浦东发展银行股份有限公司董事会2026年第十次会议决议公告",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225587923.PDF",
+    "type": null
+   },
+   {
+    "title": "上海浦东发展银行股份有限公司关联交易公告",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225587907.PDF",
+    "type": null
+   },
+   {
+    "title": "上海浦东发展银行股份有限公司关于2026年第一期金融债券发行完毕的公告",
+    "date": "2026-09-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-18/1225570810.PDF",
+    "type": null
+   },
+   {
+    "title": "上海浦东发展银行股份有限公司关于独立董事任职资格获核准的公告",
+    "date": "2026-09-02",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-02/1225542196.PDF",
+    "type": null
+   },
+   {
+    "title": "上海浦东发展银行股份有限公司董事会2026年第九次会议决议公告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225521941.PDF",
+    "type": null
+   },
+   {
+    "title": "上海浦东发展银行股份有限公司2026年半年度财务审阅报告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225521925.PDF",
+    "type": null
+   },
+   {
+    "title": "上海浦东发展银行股份有限公司2026年半年度报告摘要",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225521915.PDF",
+    "type": null
+   },
+   {
+    "title": "上海浦东发展银行股份有限公司2026年半年度报告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225521898.PDF",
+    "type": null
+   },
+   {
+    "title": "上海浦东发展银行股份有限公司关于2026年第一期绿色金融债券发行完毕的公告",
+    "date": "2026-08-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225497820.PDF",
+    "type": null
+   },
+   {
+    "title": "上海浦东发展银行股份有限公司关于召开2026年半年度业绩说明会的公告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225493294.PDF",
+    "type": null
+   },
+   {
+    "title": "上海浦东发展银行股份有限公司关联交易公告",
+    "date": "2026-08-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225475330.PDF",
+    "type": null
+   },
+   {
+    "title": "上海浦东发展银行股份有限公司董事会2026年第八次会议决议公告",
+    "date": "2026-08-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225475314.PDF",
+    "type": null
+   },
+   {
+    "title": "上海浦东发展银行股份有限公司2026年半年度业绩快报公告",
+    "date": "2026-08-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-13/1225470515.PDF",
+    "type": null
+   },
+   {
+    "title": "上海浦东发展银行股份有限公司关于变更注册资本获核准的公告",
+    "date": "2026-07-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-28/1225443586.PDF",
+    "type": null
+   },
+   {
+    "title": "上海浦东发展银行股份有限公司章程（2026年修订）",
+    "date": "2026-07-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-28/1225443578.PDF",
+    "type": null
+   },
+   {
+    "title": "上海浦东发展银行股份有限公司关于2026年第一期小型微型企业贷款专项金融债券发行完毕的公告",
+    "date": "2026-07-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-25/1225441647.PDF",
+    "type": null
+   },
+   {
+    "title": "上海浦东发展银行股份有限公司2026年上半年主要经营情况公告",
+    "date": "2026-07-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-21/1225433774.PDF",
+    "type": null
+   },
+   {
+    "title": "上海浦东发展银行股份有限公司2025年年度权益分派实施公告",
+    "date": "2026-07-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-10/1225416710.PDF",
+    "type": null
+   },
+   {
+    "title": "上海浦东发展银行股份有限公司董事会2026年第七次会议决议公告",
+    "date": "2026-06-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-30/1225396283.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 81
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "公司半年报有披露吗？",
+    "answer": "公司2026年半年度报告已于2026年8月28日在上海证券交易所网站及公司官网披露。感谢您的关注！",
+    "ask_date": "2026-09-17",
+    "answer_date": "2026-09-22",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=65"
+   }
+  ],
+  "count_12m": null
+ }
+}

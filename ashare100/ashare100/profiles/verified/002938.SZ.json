@@ -1,0 +1,627 @@
+{
+ "identity": {
+  "code": "002938",
+  "exchange": "SZ",
+  "board": "主板",
+  "name_full": "鹏鼎控股(深圳)股份有限公司",
+  "name_abbr": "鹏鼎控股",
+  "aliases": [
+   "pdkg"
+  ],
+  "name_en": "Avary Holding (Shenzhen) Co., Limited",
+  "pinyin_abbr": "PDKG",
+  "former_names": [],
+  "industry_sw1": "电子",
+  "industry_sw2": "元件",
+  "list_date": "2018-09-18",
+  "province": "广东",
+  "city": "深圳",
+  "website": "www.avaryholding.com",
+  "chairman": "沈庆芳",
+  "employees": 47573,
+  "business_summary": "各类印制电路板的研发、设计、制造、销售与服务为一体的专业大型厂商",
+  "profile": "鹏鼎控股(深圳)股份有限公司系由富葵精密组件(深圳)有限公司整体变更设立。公司成立于1999年4月29日,并于2018年9月18日在深圳证券交易所上市,股票简称“鹏鼎控股”,股票代码002938。公司为全球范围内少数同时具备各类PCB产品研发、设计、制造与销售服务的专业大型厂商,拥有优质多样的PCB产品线,主要产品范围涵盖FPC、SMA、SLP、HDI、RPCB、RigidFlex等多类产品,并广泛应用于通讯电子产品、消费电子及高性能计算机类产品以及EV汽车和AI服务器等产品,具备为不同客户提供打造全方位PCB电子互联产品及服务的强大实力,打造了全方位的PCB产品一站式服务平台。公司高度重视研究开发工作,在深圳市设有研发中心,不断加强产学研合作,与包含清华大学、香港城市大学、东南大学、深圳大学、燕山大学、河北工业大学及广东工业大学等大陆院校,以及台湾大学、新竹清华大学、成功大学、中央大学、台湾科技大学、中原大学、元智大学、龙华科技大学等台湾研究机构及院校建立了长期的合作关系。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 70.2,
+  "change_pct": -5.57,
+  "total_mv": 162691073391.6,
+  "float_mv": 162403442440.2,
+  "total_shares": 2317536658,
+  "float_shares": 2313439351,
+  "pe_ttm": 42.94,
+  "pe_static": 43.53,
+  "pb": 4.73,
+  "ps_ttm": 4.07,
+  "turnover_rate": 0.91,
+  "amount": 1500401993.65,
+  "high_52w": 123.1,
+  "low_52w": 41.21,
+  "ytd_return": 41.59,
+  "return_1y": 37.51,
+  "return_3y": 316.32,
+  "dividend_yield": 1.42,
+  "index_members": [
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 33314849220.68,
+    "revenue_yoy": 11.6,
+    "net_profit": 3317274178.23,
+    "net_profit_yoy": 16.75,
+    "net_profit_deducted": 3104517710.51,
+    "gross_margin": 20.39,
+    "net_margin": 9.95,
+    "selling_expense_ratio": 0.54,
+    "admin_expense_ratio": 3.57,
+    "finance_expense_ratio": 0.18,
+    "rd_expense": 1571790763.28,
+    "rd_ratio": 4.72,
+    "eps": 1.43,
+    "bvps": 10.26,
+    "roe": 14.68,
+    "roa": 9.66,
+    "total_assets": 35541457602.85,
+    "total_liab": 11728475469.82,
+    "debt_ratio": 33.0,
+    "cash": 3171300312.5,
+    "receivables": 7969921325.04,
+    "inventory": 3695247487.92,
+    "goodwill": 20406065.22,
+    "interest_debt": 3772117503.85,
+    "equity_parent": 23812982133.03,
+    "ocf": 4295811123.5,
+    "capex": 6967641560.66,
+    "fcf": -2671830437.16,
+    "ocf_to_np": 1.29
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 36210971441.99,
+    "revenue_yoy": 8.69,
+    "net_profit": 5011536639.03,
+    "net_profit_yoy": 51.07,
+    "net_profit_deducted": 4884077884.9,
+    "gross_margin": 24.0,
+    "net_margin": 13.84,
+    "selling_expense_ratio": 0.55,
+    "admin_expense_ratio": 3.55,
+    "finance_expense_ratio": -0.99,
+    "rd_expense": 1671935406.0,
+    "rd_ratio": 4.62,
+    "eps": 2.16,
+    "bvps": 12.04,
+    "roe": 19.37,
+    "roa": 13.48,
+    "total_assets": 38803024962.0,
+    "total_liab": 10866237224.47,
+    "debt_ratio": 28.0,
+    "cash": 8206594213.51,
+    "receivables": 6267658762.64,
+    "inventory": 3440024245.23,
+    "goodwill": 20406065.22,
+    "interest_debt": 3239966803.5,
+    "equity_parent": 27936787737.53,
+    "ocf": 10956763951.29,
+    "capex": 4341531328.11,
+    "fcf": 6615232623.18,
+    "ocf_to_np": 2.19
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 32066047781.9,
+    "revenue_yoy": -11.45,
+    "net_profit": 3286953204.23,
+    "net_profit_yoy": -34.41,
+    "net_profit_deducted": 3170101901.38,
+    "gross_margin": 21.34,
+    "net_margin": 10.25,
+    "selling_expense_ratio": 0.66,
+    "admin_expense_ratio": 3.77,
+    "finance_expense_ratio": -0.96,
+    "rd_expense": 1956863751.44,
+    "rd_ratio": 6.1,
+    "eps": 1.42,
+    "bvps": 12.78,
+    "roe": 11.38,
+    "roa": 8.11,
+    "total_assets": 42278162758.58,
+    "total_liab": 12602757888.75,
+    "debt_ratio": 29.81,
+    "cash": 10912080468.27,
+    "receivables": 6192418266.02,
+    "inventory": 3054055741.52,
+    "goodwill": 20406065.22,
+    "interest_debt": 4232621685.58,
+    "equity_parent": 29650687131.66,
+    "ocf": 7968561814.22,
+    "capex": 3512057969.97,
+    "fcf": 4456503844.25,
+    "ocf_to_np": 2.42
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 35140384498.03,
+    "revenue_yoy": 9.59,
+    "net_profit": 3620351391.33,
+    "net_profit_yoy": 10.14,
+    "net_profit_deducted": 3531375434.56,
+    "gross_margin": 20.76,
+    "net_margin": 10.3,
+    "selling_expense_ratio": 0.61,
+    "admin_expense_ratio": 3.43,
+    "finance_expense_ratio": -2.1,
+    "rd_expense": 2324474754.49,
+    "rd_ratio": 6.61,
+    "eps": 1.56,
+    "bvps": 13.85,
+    "roe": 11.73,
+    "roa": 8.34,
+    "total_assets": 44542561839.93,
+    "total_liab": 12221053256.17,
+    "debt_ratio": 27.44,
+    "cash": 13496952363.88,
+    "receivables": 5768822058.27,
+    "inventory": 3355543367.59,
+    "goodwill": 20406065.22,
+    "interest_debt": 3526923849.48,
+    "equity_parent": 32109843557.76,
+    "ocf": 7082423666.52,
+    "capex": 2844036380.56,
+    "fcf": 4238387285.96,
+    "ocf_to_np": 1.96
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 39147009392.27,
+    "revenue_yoy": 11.4,
+    "net_profit": 3737843458.4,
+    "net_profit_yoy": 3.25,
+    "net_profit_deducted": 3534359318.87,
+    "gross_margin": 21.5,
+    "net_margin": 9.49,
+    "selling_expense_ratio": 0.7,
+    "admin_expense_ratio": 3.79,
+    "finance_expense_ratio": -0.35,
+    "rd_expense": 2458991706.79,
+    "rd_ratio": 6.28,
+    "eps": 1.61,
+    "bvps": 14.73,
+    "roe": 11.42,
+    "roa": 7.95,
+    "total_assets": 48849582772.2,
+    "total_liab": 14099235622.11,
+    "debt_ratio": 28.86,
+    "cash": 12031994489.34,
+    "receivables": 6073127859.07,
+    "inventory": 3806710623.33,
+    "goodwill": 78563171.0,
+    "interest_debt": 4375009356.86,
+    "equity_parent": 34136963183.17,
+    "ocf": 7285787285.05,
+    "capex": 6626316438.75,
+    "fcf": 659470846.3,
+    "ocf_to_np": 1.95
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 17217171545.1,
+   "revenue_yoy": 5.14,
+   "net_profit": 1283691390.24,
+   "net_profit_yoy": 4.11,
+   "net_profit_deducted": 892277188.78,
+   "gross_margin": 23.98,
+   "net_margin": 7.33,
+   "roe": 3.71,
+   "eps": 0.56,
+   "debt_ratio": 35.34,
+   "ocf": 3183454542.07
+  },
+  "derived": {
+   "revenue_cagr_3y": 2.63,
+   "net_profit_cagr_3y": -9.31,
+   "receivables_to_revenue": 15.51,
+   "goodwill_to_equity": 0.23
+  }
+ },
+ "shareholders": {
+  "controller": "无实际控制人",
+  "controlling_shareholder": "美港实业有限公司",
+  "controlling_ratio": 64.54,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "美港实业有限公司",
+    "hold_num": 1495810998,
+    "hold_ratio": 64.54,
+    "hold_num_change": -2
+   },
+   {
+    "rank": 2,
+    "name": "集辉国际有限公司",
+    "hold_num": 130834075,
+    "hold_ratio": 5.65,
+    "hold_num_change": -25
+   },
+   {
+    "rank": 3,
+    "name": "香港中央结算有限公司",
+    "hold_num": 41756018,
+    "hold_ratio": 1.8,
+    "hold_num_change": -15314227
+   },
+   {
+    "rank": 4,
+    "name": "中际旭创(上海)投资有限公司",
+    "hold_num": 24000000,
+    "hold_ratio": 1.04,
+    "hold_num_change": null
+   },
+   {
+    "rank": 5,
+    "name": "全国社保基金一零三组合",
+    "hold_num": 22700000,
+    "hold_ratio": 0.98,
+    "hold_num_change": -21399992
+   },
+   {
+    "rank": 6,
+    "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+    "hold_num": 12869884,
+    "hold_ratio": 0.56,
+    "hold_num_change": 4207297
+   },
+   {
+    "rank": 7,
+    "name": "悦沣有限公司",
+    "hold_num": 10318217,
+    "hold_ratio": 0.45,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "中国人寿保险股份有限公司-分红-个人分红-005L-FH002沪",
+    "hold_num": 9055604,
+    "hold_ratio": 0.39,
+    "hold_num_change": 1891778
+   },
+   {
+    "rank": 9,
+    "name": "平安银行股份有限公司-永赢科技智选混合型发起式证券投资基金",
+    "hold_num": 6230616,
+    "hold_ratio": 0.27,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "全国社保基金四一六组合",
+    "hold_num": 5965207,
+    "hold_ratio": 0.26,
+    "hold_num_change": 1453607
+   }
+  ],
+  "holder_num": 158676,
+  "holder_num_change_pct": 68.89,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 8.37,
+  "northbound_ratio": 1.8,
+  "executives": [
+   {
+    "name": "沈庆芳",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "沈庆芳",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "周红",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.0,
+  "unlock_12m": [
+   {
+    "date": "2027-10-15",
+    "shares": 3787960,
+    "ratio": 0.16
+   }
+  ]
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.5,
+    "total_amount": 1160577908.0,
+    "payout_ratio": 34.99,
+    "dividend_yield": 1.64,
+    "ex_date": "2022-06-08"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.7,
+    "total_amount": 1624306471.2,
+    "payout_ratio": 32.41,
+    "dividend_yield": 2.76,
+    "ex_date": "2023-06-13"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.5,
+    "total_amount": 1159280408.0,
+    "payout_ratio": 35.27,
+    "dividend_yield": 1.53,
+    "ex_date": "2024-06-13"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 1.0,
+    "total_amount": 2318051016.0,
+    "payout_ratio": 64.03,
+    "dividend_yield": 3.23,
+    "ex_date": "2025-06-18"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 1.0,
+    "total_amount": 2317536658.0,
+    "payout_ratio": 62.0,
+    "dividend_yield": 0.94,
+    "ex_date": "2026-06-12"
+   }
+  ],
+  "consecutive_years": 5,
+  "cum_dividend_5y": 8579752461.2,
+  "cum_netprofit_5y": 18973958871.22,
+  "payout_5y": 45.22,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [
+   "600183.SH",
+   "002384.SZ",
+   "002463.SZ",
+   "002916.SZ"
+  ],
+  "segments": [
+   {
+    "name": "通讯用板",
+    "revenue": 25436736536.74,
+    "ratio": 64.98,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "消费电子及计算机用板",
+    "revenue": 11286967768.28,
+    "ratio": 28.83,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "汽车、服务器用板及其他用板",
+    "revenue": 2118845337.2,
+    "ratio": 5.41,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 304459750.05,
+    "ratio": 0.78,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "美国",
+    "revenue": 31235667873.87,
+    "ratio": 79.79,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "大中华地区",
+    "revenue": 6522040451.42,
+    "ratio": 16.66,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "亚洲其他国家",
+    "revenue": 1239539717.91,
+    "ratio": 3.17,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "欧洲",
+    "revenue": 149761349.07,
+    "ratio": 0.38,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "鹏鼎控股（深圳）股份有限公司关于回购股份事项前十名股东和前十名无限售条件股东持股情况的公告",
+    "date": "2026-10-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225613007.PDF",
+    "type": null
+   },
+   {
+    "title": "鹏鼎控股（深圳）股份有限公司回购股份报告书公告",
+    "date": "2026-10-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225613006.PDF",
+    "type": null
+   },
+   {
+    "title": "鹏鼎控股（深圳）股份有限公司第四届董事会第八次会议决议公告",
+    "date": "2026-10-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-20/1225611192.PDF",
+    "type": null
+   },
+   {
+    "title": "鹏鼎控股（深圳）股份有限公司关于以集中竞价方式回购公司股份方案的公告",
+    "date": "2026-10-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-20/1225611191.PDF",
+    "type": null
+   },
+   {
+    "title": "鹏鼎控股（深圳）股份有限公司关于董事长提议回购公司部分股份的提示性公告",
+    "date": "2026-10-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607487.PDF",
+    "type": null
+   },
+   {
+    "title": "鹏鼎控股（深圳）股份有限公司关于2024年限制性股票激励计划第二个解除限售期解除限售股份上市流通的提示性公告",
+    "date": "2026-10-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225604043.PDF",
+    "type": null
+   },
+   {
+    "title": "鹏鼎控股（深圳）股份有限公司2026年9月营业收入简报",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597773.PDF",
+    "type": null
+   },
+   {
+    "title": "鹏鼎控股（深圳）股份有限公司关于全资子公司竞得土地使用权的公告",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597772.PDF",
+    "type": null
+   },
+   {
+    "title": "华泰联合证券有限责任公司关于鹏鼎控股（深圳）股份有限公司2026年度向特定对象发行A股股票并在主板上市之上市保荐书",
+    "date": "2026-10-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225589903.PDF",
+    "type": null
+   },
+   {
+    "title": "鹏鼎控股（深圳）股份有限公司2026年度向特定对象发行A股股票并在主板上市募集说明书",
+    "date": "2026-10-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225589902.PDF",
+    "type": null
+   },
+   {
+    "title": "关于鹏鼎控股（深圳）股份有限公司申请向特定对象发行股票的审核问询函的回复报告",
+    "date": "2026-10-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225589901.PDF",
+    "type": null
+   },
+   {
+    "title": "普华永道中天会计师事务所（特殊普通合伙）关于鹏鼎控股（深圳）股份有限公司申请向特定对象发行股票的审核问询函回复的专项意见",
+    "date": "2026-10-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225589900.PDF",
+    "type": null
+   },
+   {
+    "title": "华泰联合证券有限责任公司关于鹏鼎控股（深圳）股份有限公司2026年度向特定对象发行A股股票并在主板上市之发行保荐书",
+    "date": "2026-10-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225589899.PDF",
+    "type": null
+   },
+   {
+    "title": "鹏鼎控股（深圳）股份有限公司关于向特定对象发行股票的审核问询函的回复及募集说明书等申请文件更新的提示性公告",
+    "date": "2026-10-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225589898.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市金杜律师事务所关于鹏鼎控股（深圳）股份有限公司向特定对象发行A股股票之法律意见书",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225561158.PDF",
+    "type": null
+   },
+   {
+    "title": "公司最近一年的财务报告及其审计报告以及最近一期的财务报告",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225561157.PDF",
+    "type": null
+   },
+   {
+    "title": "华泰联合证券有限责任公司关于鹏鼎控股（深圳）股份有限公司2026年度向特定对象发行A股股票并在主板上市之上市保荐书",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225561156.PDF",
+    "type": null
+   },
+   {
+    "title": "华泰联合证券有限责任公司关于鹏鼎控股（深圳）股份有限公司2026年度向特定对象发行A股股票并在主板上市之发行保荐书",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225561155.PDF",
+    "type": null
+   },
+   {
+    "title": "鹏鼎控股（深圳）股份有限公司2026年度向特定对象发行A股股票并在主板上市募集说明书",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225561154.PDF",
+    "type": null
+   },
+   {
+    "title": "鹏鼎控股（深圳）股份有限公司关于向特定对象发行股票申请获得深圳证券交易所受理的公告",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225561153.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 158
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "公司的3.2T产品是在研发阶段还是已经小批量供货了呢？",
+    "answer": null,
+    "ask_date": "2026-10-20",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2385376157281599488"
+   },
+   {
+    "question": "您好，公司中报显示汽车/服务器用板营收同比增长181%，其中AI服务器和光模块PCB是主要增量。请问：1）目前AI服务器PCB业务中，苹果之外的客户比是多少？2）该业务Q3的订单能见度如何？谢谢",
+    "answer": "2026年上半年，公司汽车、服务器用板业务实现营业收入22.67亿元，较上年同期增长181.58%，其中服务器用板客户主要为全球头部光模块厂商及AI服务器厂商。客户细分占比、Q3订单能见度等细节属于未公开信息不便披露，敬请关注公司定期报告。谢谢！",
+    "ask_date": "2026-10-02",
+    "answer_date": "2026-10-09",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2372384095893585920"
+   },
+   {
+    "question": "董秘您好！请问贵公司的m-SAP领域在技术上和产能上处于什么位置？",
+    "answer": "公司自2017年便开始布局m-SAP工艺相关产品，经过多年技术迭代与量产优化，已积累成熟的技术能力、工艺能力和量产能力。在产能投放方面，公司将根据下游客户需求及项目建设进度有序推进投产，确保产能释放与市场需求相匹配。谢谢！",
+    "ask_date": "2026-07-27",
+    "answer_date": "2026-07-31",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2322601576474554368"
+   },
+   {
+    "question": "董秘您好～公司刚公告深圳第三园区AI高阶类载板及FPC智造基地拟投100亿、2026年7月启动至2033年才建成投产，重资产自建 长周期爬坡确实稳妥但释放偏慢。考虑到AI端侧/软板需求窗口紧、弘信电子已有成熟FPC产能，公司是否会考虑以收购/参股现成软板工厂替代或补充自建，来更快承接订单、平滑资本开支与爬坡风险？后续有无外延并购软板资产的规划？",
+    "answer": "公司持续结合AI产业需求、自身产能布局节奏统筹规划产能建设，深圳第三园区人工智能高阶类载板及柔性电路板智造基地项目系公司立足长期AI算力、端侧电子赛道作出的战略性投入，该项目将分期投入，扩产节奏亦会根据市场需求状况而定。公司始终开放看待产业内优质资产整合机会，若后续有相关规划，将严格根据法规要求及时对外披露。谢谢！",
+    "ask_date": "2026-07-24",
+    "answer_date": "2026-07-31",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2320446782989168640"
+   }
+  ],
+  "count_12m": null
+ }
+}

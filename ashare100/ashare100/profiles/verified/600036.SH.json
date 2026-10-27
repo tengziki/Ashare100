@@ -1,0 +1,623 @@
+{
+ "identity": {
+  "code": "600036",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "招商银行股份有限公司",
+  "name_abbr": "招商银行",
+  "aliases": [
+   "zsyh",
+   "招行"
+  ],
+  "name_en": "China Merchants Bank Co., Ltd.",
+  "pinyin_abbr": "ZSYH",
+  "former_names": [
+   "招商银行→G招行"
+  ],
+  "industry_sw1": "银行",
+  "industry_sw2": "股份制银行Ⅱ",
+  "list_date": "2002-04-09",
+  "province": "广东",
+  "city": "深圳",
+  "website": "www.cmbchina.com",
+  "chairman": "缪建民",
+  "employees": 121585,
+  "business_summary": "主要业务分部包括零售金融业务和批发金融业务。零售金融业务主要有财富管理业务,私人银行业务",
+  "profile": "招商银行股份有限公司于1987年在深圳创建,是中国境内第一家完全由企业法人持股的股份制商业银行,成立38年来逐步发展成为沪港两地上市,拥有商业银行、金融租赁、基金管理、人寿保险、境外投行、消费金融、理财子公司等金融牌照的银行集团。2025年,招商银行在英国《银行家》杂志发布的“全球银行1000强”榜单中,按照一级资本排名升至第8位;在BrandFinance发布的“全球银行品牌价值500强”榜单中位列第10位;连续14年进入《财富》世界500强榜单;明晟ESG评级为AAA级,处于全球同业领先水平;在《亚洲银行家》年度评选中,荣获中国最佳零售银行、中国最佳财富管理银行等12个奖项。成立以来,招商银行始终坚持服务立行、创新驱动、科技兴行、人才强行,以自身转型发展助力社会经济高质量发展,全力服务居民和企业客户财富增长、资产安全、资金融通。2025年,招商银行深入推进价值银行战略,持续打造“严格管理、守正创新”双轮驱动的高质量发展新模式,锻造硬实力,修炼软实力,加快推进“国际化、综合化、差异化、数智化”转型,保持了“质量、效益、规模、结构”协调发展,市场竞争力进一步增强。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 41.82,
+  "change_pct": -1.09,
+  "total_mv": 1054693943033.82,
+  "float_mv": 862702456020.78,
+  "total_shares": 25219845601,
+  "float_shares": 20628944429,
+  "pe_ttm": 6.95,
+  "pe_static": 7.02,
+  "pb": 0.92,
+  "ps_ttm": 3.05,
+  "turnover_rate": 0.48,
+  "amount": 4140322738.0,
+  "high_52w": 43.16,
+  "low_52w": 34.28,
+  "ytd_return": 4.33,
+  "return_1y": 4.72,
+  "return_3y": 62.96,
+  "dividend_yield": 4.82,
+  "index_members": [
+   "上证50",
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 331253000000.0,
+    "revenue_yoy": 14.04,
+    "net_profit": 119922000000.0,
+    "net_profit_yoy": 23.2,
+    "net_profit_deducted": 119430000000.0,
+    "gross_margin": null,
+    "net_margin": 36.48,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 4.61,
+    "bvps": 29.01,
+    "roe": 16.96,
+    "roa": 1.37,
+    "total_assets": 9249021000000.0,
+    "total_liab": 8383340000000.0,
+    "debt_ratio": 90.64,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 9954000000.0,
+    "interest_debt": null,
+    "equity_parent": 858745000000.0,
+    "ocf": 182048000000.0,
+    "capex": 24160000000.0,
+    "fcf": 157888000000.0,
+    "ocf_to_np": 1.52
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 344783000000.0,
+    "revenue_yoy": 4.08,
+    "net_profit": 138012000000.0,
+    "net_profit_yoy": 15.08,
+    "net_profit_deducted": 137551000000.0,
+    "gross_margin": null,
+    "net_margin": 40.4,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 5.26,
+    "bvps": 32.71,
+    "roe": 17.06,
+    "roa": 1.44,
+    "total_assets": 10138912000000.0,
+    "total_liab": 9184674000000.0,
+    "debt_ratio": 90.59,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 9999000000.0,
+    "interest_debt": null,
+    "equity_parent": 945503000000.0,
+    "ocf": 570143000000.0,
+    "capex": 34892000000.0,
+    "fcf": 535251000000.0,
+    "ocf_to_np": 4.13
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 339123000000.0,
+    "revenue_yoy": -1.64,
+    "net_profit": 146602000000.0,
+    "net_profit_yoy": 6.22,
+    "net_profit_deducted": 146047000000.0,
+    "gross_margin": null,
+    "net_margin": 43.64,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 5.63,
+    "bvps": 36.71,
+    "roe": 16.22,
+    "roa": 1.4,
+    "total_assets": 11028483000000.0,
+    "total_liab": 9942754000000.0,
+    "debt_ratio": 90.16,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 9954000000.0,
+    "interest_debt": null,
+    "equity_parent": 1076370000000.0,
+    "ocf": 357753000000.0,
+    "capex": 30161000000.0,
+    "fcf": 327592000000.0,
+    "ocf_to_np": 2.44
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 337488000000.0,
+    "revenue_yoy": -0.48,
+    "net_profit": 148391000000.0,
+    "net_profit_yoy": 1.22,
+    "net_profit_deducted": 148011000000.0,
+    "gross_margin": null,
+    "net_margin": 44.32,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 5.66,
+    "bvps": 41.46,
+    "roe": 14.49,
+    "roa": 1.29,
+    "total_assets": 12152036000000.0,
+    "total_liab": 10918561000000.0,
+    "debt_ratio": 89.85,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 9954000000.0,
+    "interest_debt": null,
+    "equity_parent": 1226014000000.0,
+    "ocf": 447023000000.0,
+    "capex": 34930000000.0,
+    "fcf": 412093000000.0,
+    "ocf_to_np": 3.01
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 337532000000.0,
+    "revenue_yoy": 0.01,
+    "net_profit": 150181000000.0,
+    "net_profit_yoy": 1.21,
+    "net_profit_deducted": 150007000000.0,
+    "gross_margin": null,
+    "net_margin": 44.77,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 5.7,
+    "bvps": 43.43,
+    "roe": 13.44,
+    "roa": 1.2,
+    "total_assets": 13070523000000.0,
+    "total_liab": 11789624000000.0,
+    "debt_ratio": 90.2,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 9954000000.0,
+    "interest_debt": null,
+    "equity_parent": 1272875000000.0,
+    "ocf": 451457000000.0,
+    "capex": 28141000000.0,
+    "fcf": 423316000000.0,
+    "ocf_to_np": 3.01
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 178181000000.0,
+   "revenue_yoy": 4.83,
+   "net_profit": 76445000000.0,
+   "net_profit_yoy": 2.02,
+   "net_profit_deducted": 76339000000.0,
+   "gross_margin": null,
+   "net_margin": 43.17,
+   "roe": 6.71,
+   "eps": 2.98,
+   "debt_ratio": 90.18,
+   "ocf": 304611000000.0
+  },
+  "derived": {
+   "revenue_cagr_3y": -0.71,
+   "net_profit_cagr_3y": 2.86,
+   "receivables_to_revenue": null,
+   "goodwill_to_equity": 0.78
+  }
+ },
+ "shareholders": {
+  "controller": "无实际控制人",
+  "controlling_shareholder": "招商局轮船有限公司",
+  "controlling_ratio": 13.04,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "香港中央结算(代理人)有限公司",
+    "hold_num": 4556282050,
+    "hold_ratio": 18.07,
+    "hold_num_change": 400247
+   },
+   {
+    "rank": 2,
+    "name": "招商局轮船有限公司",
+    "hold_num": 3289470337,
+    "hold_ratio": 13.04,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "中国远洋运输有限公司",
+    "hold_num": 1574729111,
+    "hold_ratio": 6.24,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "深圳市晏清投资发展有限公司",
+    "hold_num": 1258542349,
+    "hold_ratio": 4.99,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "招商局金融控股有限公司",
+    "hold_num": 1147377415,
+    "hold_ratio": 4.55,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "和谐健康保险股份有限公司-传统-普通保险产品",
+    "hold_num": 1130991537,
+    "hold_ratio": 4.48,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "香港中央结算有限公司",
+    "hold_num": 1097374398,
+    "hold_ratio": 4.35,
+    "hold_num_change": -100522338
+   },
+   {
+    "rank": 8,
+    "name": "深圳市楚源投资发展有限公司",
+    "hold_num": 944013171,
+    "hold_ratio": 3.74,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "中远海运(广州)有限公司",
+    "hold_num": 696450214,
+    "hold_ratio": 2.76,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 10,
+    "name": "上海汽车集团股份有限公司",
+    "hold_num": 310125822,
+    "hold_ratio": 1.23,
+    "hold_num_change": 0
+   }
+  ],
+  "holder_num": 734097,
+  "holder_num_change_pct": 18.91,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 12.66,
+  "northbound_ratio": 4.35,
+  "executives": [
+   {
+    "name": "缪建民",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "王小青",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "彭家文",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.35,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 1.522,
+    "total_amount": 38384605004.72,
+    "payout_ratio": 32.01,
+    "dividend_yield": 4.17,
+    "ex_date": "2022-07-15"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 1.738,
+    "total_amount": 43832091654.54,
+    "payout_ratio": 31.76,
+    "dividend_yield": 5.23,
+    "ex_date": "2023-07-13"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 1.972,
+    "total_amount": 49733535525.17,
+    "payout_ratio": 33.92,
+    "dividend_yield": 5.69,
+    "ex_date": "2024-07-11"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 2.0,
+    "total_amount": 50439691202.0,
+    "payout_ratio": 33.99,
+    "dividend_yield": 4.15,
+    "ex_date": "2025-07-11"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 2.016,
+    "total_amount": 50843208731.62,
+    "payout_ratio": 33.85,
+    "dividend_yield": 2.6,
+    "ex_date": "2026-01-16"
+   }
+  ],
+  "consecutive_years": 5,
+  "cum_dividend_5y": 233233132118.05,
+  "cum_netprofit_5y": 703108000000.0,
+  "payout_5y": 33.17,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "601998.SH",
+   "601166.SH",
+   "600000.SH",
+   "000001.SZ"
+  ],
+  "segments": [
+   {
+    "name": "零售金融业务",
+    "revenue": 191017000000.0,
+    "ratio": 56.59,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "批发金融业务",
+    "revenue": 138073000000.0,
+    "ratio": 40.91,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他业务",
+    "revenue": 8442000000.0,
+    "ratio": 2.5,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "总行",
+    "revenue": 124416000000.0,
+    "ratio": 36.86,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "长江三角洲地区",
+    "revenue": 46777000000.0,
+    "ratio": 13.86,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "附属机构",
+    "revenue": 41192000000.0,
+    "ratio": 12.2,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "珠江三角洲及海西地区",
+    "revenue": 37141000000.0,
+    "ratio": 11.0,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "环渤海地区",
+    "revenue": 35799000000.0,
+    "ratio": 10.61,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "西部地区",
+    "revenue": 20593000000.0,
+    "ratio": 6.1,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "中部地区",
+    "revenue": 20347000000.0,
+    "ratio": 6.03,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "[H股公告]招商银行股份有限公司董事会会议召开日期",
+    "date": "2026-10-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612596.PDF",
+    "type": null
+   },
+   {
+    "title": "招商银行股份有限公司关于非执行董事离任的公告",
+    "date": "2026-10-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225591091.PDF",
+    "type": null
+   },
+   {
+    "title": "招商银行股份有限公司董事会决议公告",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225588369.PDF",
+    "type": null
+   },
+   {
+    "title": "招商银行股份有限公司关于董事任职资格核准及董事会专门委员会成员调整的公告",
+    "date": "2026-09-23",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-23/1225577460.PDF",
+    "type": null
+   },
+   {
+    "title": "招商银行股份有限公司关于独立董事任职资格核准及董事会专门委员会成员调整的公告",
+    "date": "2026-09-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-09/1225554309.PDF",
+    "type": null
+   },
+   {
+    "title": "招商银行股份有限公司关于高级管理人员离任的公告",
+    "date": "2026-09-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-08/1225552023.PDF",
+    "type": null
+   },
+   {
+    "title": "招商银行股份有限公司董事会决议公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225530240.PDF",
+    "type": null
+   },
+   {
+    "title": "招商银行股份有限公司2026年半年度报告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225530237.PDF",
+    "type": null
+   },
+   {
+    "title": "招商银行股份有限公司2026年半年度报告摘要",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225530235.PDF",
+    "type": null
+   },
+   {
+    "title": "招商银行股份有限公司2026年半年度第三支柱报告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225530227.PDF",
+    "type": null
+   },
+   {
+    "title": "招商银行股份有限公司董事会决议公告",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225512401.PDF",
+    "type": null
+   },
+   {
+    "title": "招商银行股份有限公司关于召开2026年中期业绩说明会的公告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225491092.PDF",
+    "type": null
+   },
+   {
+    "title": "招商银行股份有限公司关于董事任职资格核准的公告",
+    "date": "2026-08-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-21/1225486744.PDF",
+    "type": null
+   },
+   {
+    "title": "[H股公告]招商银行股份有限公司董事会会议召开日期",
+    "date": "2026-08-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225480028.PDF",
+    "type": null
+   },
+   {
+    "title": "招商银行股份有限公司关于行长任职资格核准的公告",
+    "date": "2026-07-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-29/1225444610.PDF",
+    "type": null
+   },
+   {
+    "title": "[H股公告]招商银行股份有限公司更换联席公司秘书",
+    "date": "2026-07-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-11/1225419261.PDF",
+    "type": null
+   },
+   {
+    "title": "招商银行内幕信息及知情人管理制度（2026年修订）",
+    "date": "2026-07-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-11/1225418980.PDF",
+    "type": null
+   },
+   {
+    "title": "招商银行投资者关系管理制度（2026年修订）",
+    "date": "2026-07-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-11/1225418969.PDF",
+    "type": null
+   },
+   {
+    "title": "招商银行股份有限公司董事会决议公告",
+    "date": "2026-07-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-11/1225418968.PDF",
+    "type": null
+   },
+   {
+    "title": "招商银行信息披露事务管理制度（2026年修订）",
+    "date": "2026-07-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-11/1225418961.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 99
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "您好，想咨询一下招商银行上海分行外滩支行办公地中山东一路十六号大楼，公司是否拥有该大楼所有权？还是作为承租人租赁使用？谢谢",
+    "answer": null,
+    "ask_date": "2026-10-21",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=36"
+   },
+   {
+    "question": "董秘您好，请问企业当下的困境跟风险点是什么？后续如何应对？第二，企业未来的发展方向怎么走？具体怎么做？",
+    "answer": null,
+    "ask_date": "2026-10-12",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=36"
+   }
+  ],
+  "count_12m": null
+ }
+}

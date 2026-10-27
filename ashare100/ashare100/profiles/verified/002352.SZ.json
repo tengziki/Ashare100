@@ -1,0 +1,647 @@
+{
+ "identity": {
+  "code": "002352",
+  "exchange": "SZ",
+  "board": "主板",
+  "name_full": "顺丰控股股份有限公司",
+  "name_abbr": "顺丰控股",
+  "aliases": [
+   "sfkg"
+  ],
+  "name_en": "S.F. Holding Co., Ltd.",
+  "pinyin_abbr": "SFKG",
+  "former_names": [
+   "鼎泰新材"
+  ],
+  "industry_sw1": "交通运输",
+  "industry_sw2": "物流",
+  "list_date": "2010-02-05",
+  "province": "广东",
+  "city": "深圳",
+  "website": "www.sf-express.com",
+  "chairman": "王卫",
+  "employees": 158761,
+  "business_summary": "速运物流业务主要包括时效快递、经济快递、快运、冷运及医药、同城即时配送",
+  "profile": "顺丰控股股份有限公司(股票代码:002352.SZ,6936.HK)于1993年成立于广东顺德,总部位于中国深圳。经过多年发展,顺丰已成为亚洲最大、全球第四大综合物流服务提供商。顺丰提供国内及国际端到端一站式综合物流解决方案,包括时效快递、经济快递、快运、冷运、及医药、同城即时配送、供应链及国际(含国际快递、国际货运及代理、供应链)等物流服务。同时,依托领先的科技研发能力,以技术赋能客户打造安全高效的智慧供应链体系,致力于成为备受尊重全球领先的数智物流解决方案服务商。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 30.47,
+  "change_pct": -1.2,
+  "total_mv": 155553861936.66,
+  "float_mv": 141348966741.73,
+  "total_shares": 5105148078,
+  "float_shares": 4638955259,
+  "pe_ttm": 14.3,
+  "pe_static": 13.99,
+  "pb": 1.51,
+  "ps_ttm": 0.49,
+  "turnover_rate": 0.37,
+  "amount": 528843402.04,
+  "high_52w": 40.48,
+  "low_52w": 29.66,
+  "ytd_return": -18.59,
+  "return_1y": -22.44,
+  "return_3y": -12.96,
+  "dividend_yield": 2.92,
+  "index_members": [
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 207186647000.0,
+    "revenue_yoy": 34.55,
+    "net_profit": 4269098000.0,
+    "net_profit_yoy": -41.73,
+    "net_profit_deducted": 1834199000.0,
+    "gross_margin": 12.37,
+    "net_margin": 1.89,
+    "selling_expense_ratio": 1.37,
+    "admin_expense_ratio": 7.25,
+    "finance_expense_ratio": 0.75,
+    "rd_expense": 2154839000.0,
+    "rd_ratio": 1.04,
+    "eps": 0.93,
+    "bvps": 16.91,
+    "roe": 6.81,
+    "roa": 2.44,
+    "total_assets": 209899982000.0,
+    "total_liab": 111984735000.0,
+    "debt_ratio": 53.35,
+    "cash": 35315051000.0,
+    "receivables": 30441758000.0,
+    "inventory": 1546821000.0,
+    "goodwill": 7371830000.0,
+    "interest_debt": 56842144000.0,
+    "equity_parent": 82943226000.0,
+    "ocf": 15357605000.0,
+    "capex": 19195560000.0,
+    "fcf": -3837955000.0,
+    "ocf_to_np": 3.6
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 267490414000.0,
+    "revenue_yoy": 29.11,
+    "net_profit": 6173764000.0,
+    "net_profit_yoy": 44.62,
+    "net_profit_deducted": 5336924000.0,
+    "gross_margin": 12.49,
+    "net_margin": 2.62,
+    "selling_expense_ratio": 1.04,
+    "admin_expense_ratio": 6.57,
+    "finance_expense_ratio": 0.64,
+    "rd_expense": 2222865000.0,
+    "rd_ratio": 0.83,
+    "eps": 1.27,
+    "bvps": 17.62,
+    "roe": 7.34,
+    "roa": 3.28,
+    "total_assets": 216842707000.0,
+    "total_liab": 118556658000.0,
+    "debt_ratio": 54.67,
+    "cash": 41062750000.0,
+    "receivables": 25560433000.0,
+    "inventory": 1948354000.0,
+    "goodwill": 9345744000.0,
+    "interest_debt": 58993410000.0,
+    "equity_parent": 86263741000.0,
+    "ocf": 32702947000.0,
+    "capex": 14183777000.0,
+    "fcf": 18519170000.0,
+    "ocf_to_np": 5.3
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 258409403000.0,
+    "revenue_yoy": -3.39,
+    "net_profit": 8234493000.0,
+    "net_profit_yoy": 33.38,
+    "net_profit_deducted": 7133730000.0,
+    "gross_margin": 12.82,
+    "net_margin": 3.06,
+    "selling_expense_ratio": 1.16,
+    "admin_expense_ratio": 6.82,
+    "finance_expense_ratio": 0.72,
+    "rd_expense": 2285314000.0,
+    "rd_ratio": 0.88,
+    "eps": 1.7,
+    "bvps": 18.96,
+    "roe": 9.19,
+    "roa": 3.61,
+    "total_assets": 221490655000.0,
+    "total_liab": 118206995000.0,
+    "debt_ratio": 53.37,
+    "cash": 41974505000.0,
+    "receivables": 25133487000.0,
+    "inventory": 2440425000.0,
+    "goodwill": 9570436000.0,
+    "interest_debt": 65896443000.0,
+    "equity_parent": 92790344000.0,
+    "ocf": 26569819000.0,
+    "capex": 12471899000.0,
+    "fcf": 14097920000.0,
+    "ocf_to_np": 3.23
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 284420059000.0,
+    "revenue_yoy": 10.07,
+    "net_profit": 10170427000.0,
+    "net_profit_yoy": 23.51,
+    "net_profit_deducted": 9145506000.0,
+    "gross_margin": 13.93,
+    "net_margin": 3.59,
+    "selling_expense_ratio": 1.09,
+    "admin_expense_ratio": 6.52,
+    "finance_expense_ratio": 0.65,
+    "rd_expense": 2533607000.0,
+    "rd_ratio": 0.89,
+    "eps": 2.11,
+    "bvps": 18.45,
+    "roe": 11.16,
+    "roa": 4.69,
+    "total_assets": 213824213000.0,
+    "total_liab": 111488992000.0,
+    "debt_ratio": 52.14,
+    "cash": 33936101000.0,
+    "receivables": 27714547000.0,
+    "inventory": 2432383000.0,
+    "goodwill": 10004365000.0,
+    "interest_debt": 56054779000.0,
+    "equity_parent": 91993286000.0,
+    "ocf": 32186373000.0,
+    "capex": 9344770000.0,
+    "fcf": 22841603000.0,
+    "ocf_to_np": 3.16
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 308226647000.0,
+    "revenue_yoy": 8.37,
+    "net_profit": 11117216000.0,
+    "net_profit_yoy": 9.31,
+    "net_profit_deducted": 9263786000.0,
+    "gross_margin": 13.32,
+    "net_margin": 3.79,
+    "selling_expense_ratio": 1.27,
+    "admin_expense_ratio": 6.33,
+    "finance_expense_ratio": 0.58,
+    "rd_expense": 2169906000.0,
+    "rd_ratio": 0.7,
+    "eps": 2.23,
+    "bvps": 19.7,
+    "roe": 11.51,
+    "roa": 5.43,
+    "total_assets": 216469037000.0,
+    "total_liab": 106144286000.0,
+    "debt_ratio": 49.03,
+    "cash": 20969400000.0,
+    "receivables": 30606710000.0,
+    "inventory": 3039030000.0,
+    "goodwill": 9545309000.0,
+    "interest_debt": 45881969000.0,
+    "equity_parent": 99309488000.0,
+    "ocf": 27555275000.0,
+    "capex": 9505520000.0,
+    "fcf": 18049755000.0,
+    "ocf_to_np": 2.48
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 155506421000.0,
+   "revenue_yoy": 5.89,
+   "net_profit": 5501905000.0,
+   "net_profit_yoy": -4.11,
+   "net_profit_deducted": 4974949000.0,
+   "gross_margin": 13.45,
+   "net_margin": 3.84,
+   "roe": 5.49,
+   "eps": 1.1,
+   "debt_ratio": 50.08,
+   "ocf": 11171404000.0
+  },
+  "derived": {
+   "revenue_cagr_3y": 4.84,
+   "net_profit_cagr_3y": 21.66,
+   "receivables_to_revenue": 9.93,
+   "goodwill_to_equity": 9.61
+  }
+ },
+ "shareholders": {
+  "controller": "王卫",
+  "controlling_shareholder": "深圳明德控股发展有限公司",
+  "controlling_ratio": 44.86,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "深圳明德控股发展有限公司",
+    "hold_num": 2361920119,
+    "hold_ratio": 44.86,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "HKSCC NOMINEES LIMITED",
+    "hold_num": 239977345,
+    "hold_ratio": 4.56,
+    "hold_num_change": 180
+   },
+   {
+    "rank": 3,
+    "name": "J&T GLOBAL EXPRESS LIMITED",
+    "hold_num": 225877669,
+    "hold_ratio": 4.29,
+    "hold_num_change": null
+   },
+   {
+    "rank": 4,
+    "name": "顺丰控股股份有限公司-“共同成长”持股计划(A股)",
+    "hold_num": 200000000,
+    "hold_ratio": 3.8,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "香港中央结算有限公司",
+    "hold_num": 124877615,
+    "hold_ratio": 2.37,
+    "hold_num_change": -29117404
+   },
+   {
+    "rank": 6,
+    "name": "深圳市玮顺企业管理有限公司",
+    "hold_num": 100000000,
+    "hold_ratio": 1.9,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "宁波顺达丰润创业投资合伙企业(有限合伙)",
+    "hold_num": 81450959,
+    "hold_ratio": 1.55,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "林哲莹",
+    "hold_num": 44613543,
+    "hold_ratio": 0.85,
+    "hold_num_change": 1802900
+   },
+   {
+    "rank": 9,
+    "name": "刘冀鲁",
+    "hold_num": 28793780,
+    "hold_ratio": 0.55,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 10,
+    "name": "瑞众人寿保险有限责任公司-自有资金",
+    "hold_num": 26307549,
+    "hold_ratio": 0.5,
+    "hold_num_change": 4549881
+   }
+  ],
+  "holder_num": 277589,
+  "holder_num_change_pct": -1.98,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 6.28,
+  "northbound_ratio": 2.37,
+  "executives": [
+   {
+    "name": "王卫",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "王卫",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "甘玲",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 16.77,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.18,
+    "total_amount": 881136427.14,
+    "payout_ratio": 20.64,
+    "dividend_yield": 0.35,
+    "ex_date": "2022-06-15"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.25,
+    "total_amount": 1223800593.25,
+    "payout_ratio": 19.82,
+    "dividend_yield": 0.5,
+    "ex_date": "2023-05-12"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.6,
+    "total_amount": 2937121423.8,
+    "payout_ratio": 35.67,
+    "dividend_yield": 1.61,
+    "ex_date": "2024-05-14"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.84,
+    "total_amount": 4154059280.68,
+    "payout_ratio": 40.84,
+    "dividend_yield": 0.91,
+    "ex_date": "2024-11-07"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.89,
+    "total_amount": 4485089039.01,
+    "payout_ratio": 40.34,
+    "dividend_yield": 1.15,
+    "ex_date": "2025-09-16"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 13681206763.88,
+  "cum_netprofit_5y": 39964998000.0,
+  "payout_5y": 34.23,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [
+   "600233.SH",
+   "001391.SZ",
+   "601598.SH"
+  ],
+  "segments": [
+   {
+    "name": "速运及大件分部",
+    "revenue": 217553282000.0,
+    "ratio": 70.58,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "供应链及国际分部",
+    "revenue": 76345732000.0,
+    "ratio": 24.77,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "同城即时配送分部",
+    "revenue": 12869890000.0,
+    "ratio": 4.18,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "未分配部分",
+    "revenue": 1457743000.0,
+    "ratio": 0.47,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "中国内地",
+    "revenue": 266818257000.0,
+    "ratio": 86.57,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "海外",
+    "revenue": 31546381000.0,
+    "ratio": 10.23,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "中国港澳台",
+    "revenue": 9862009000.0,
+    "ratio": 3.2,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "关于投资者热线电话恢复正常使用的公告",
+    "date": "2026-10-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-22/1225613992.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年9月快递物流业务经营简报",
+    "date": "2026-10-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-20/1225610963.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-董事会会议召开日期",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225608866.PDF",
+    "type": null
+   },
+   {
+    "title": "关于投资者热线电话临时变更的公告",
+    "date": "2026-10-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-10/1225599715.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-截至2026年9月30日止月份之股份发行人的证券变动月报表",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225596976.PDF",
+    "type": null
+   },
+   {
+    "title": "关于董事、高级管理人员无偿捐赠公司股份的进展公告",
+    "date": "2026-09-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225582837.PDF",
+    "type": null
+   },
+   {
+    "title": "关于境外全资子公司在境外发行债券完成情况的公告",
+    "date": "2026-09-23",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-23/1225577185.PDF",
+    "type": null
+   },
+   {
+    "title": "关于调整“共同成长”持股计划（A股）管理委员会委员的公告",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575778.PDF",
+    "type": null
+   },
+   {
+    "title": "关于控股股东及其一致行动人持股比例被动增加触及1%整数倍的公告",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575777.PDF",
+    "type": null
+   },
+   {
+    "title": "关于全资子公司参与投资股权投资基金的公告",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575776.PDF",
+    "type": null
+   },
+   {
+    "title": "关于回购A股股份注销完成暨股份变动的公告",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575775.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年8月快递物流业务经营简报",
+    "date": "2026-09-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-19/1225573017.PDF",
+    "type": null
+   },
+   {
+    "title": "关于董事、高级管理人员无偿捐赠公司股份的公告",
+    "date": "2026-09-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-19/1225573016.PDF",
+    "type": null
+   },
+   {
+    "title": "关于境外全资子公司在境外发行债券的进展公告",
+    "date": "2026-09-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-16/1225567105.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225560531.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-11/1225558312.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-10/1225555848.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年中期A股权益分派实施公告",
+    "date": "2026-09-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-09/1225554263.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-09/1225553779.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-08/1225551455.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 265
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "请问董秘截止三季报顺丰控股AI业务收入有多少？目前为止资本支出有多少？",
+    "answer": null,
+    "ask_date": "2026-10-21",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2386368509375918080"
+   },
+   {
+    "question": "公司的无人车需要定期给第三方交费吗？",
+    "answer": null,
+    "ask_date": "2026-10-16",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2383035984154853376"
+   },
+   {
+    "question": "从“通达系”半年报归母净利润表现来看，今年上半年，申通快递同比增长128.31%至10.34亿元，韵达股份同比增长88.82%至9.98亿元，圆通速递同比增长73.44%至31.75亿元。对此，极兔管理层坦言，友商上半年利润情况非常好，极兔也享受了这样的红利。 作为国内快递龙头，顺丰的利润仅个位数增长，赚钱难，也导致市场用脚投票，机构投资者纷纷退场。 顺丰如何看待目前的局面？",
+    "answer": null,
+    "ask_date": "2026-10-15",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2382352912556097536"
+   },
+   {
+    "question": "董秘您好，贵公司有什么发展计划？如何回馈股票投资者？",
+    "answer": "尊敬的投资者，您好！公司锚定“成为备受尊重全球领先的数智物流解决方案服务商”的长期愿景，以“亚洲唯一，全球覆盖”为战略核心，深化产品与解决方案协同，促进国内国际业务均衡发展，成为企业及个人客户在亚洲的首选合作伙伴，最终实现业务规模与盈利水平的可持续健康增长。 公司高度重视股东回报，自去年起公司持续加码回购力度。A股方面，公司于今年3月底宣布将原 A 股回购计划规模翻倍至60亿元，该计划目前已实施完毕，并于9月18日完成注销；H股方面，公司于本年度首次推出5亿港元H股回购计划，截止10月9日已累计回购约4.5亿港元。在分红方面，公司中期分红比例由过去的40%提升至45%，本次中期分红约25亿元人民币，分红金额同比提升8%。此外，公司拟修订《未来五年（2024年—2028年）股东回报规划》（尚待股东会审议通过），计划2026年度分红比例为45%，2027年度提升至50%，2028年度不低于50%。未来公司将充分践行与股东共享发展成果的承诺，持续落实股东回报举措，回馈股东的长期支持。感谢您的关注！",
+    "ask_date": "2026-09-29",
+    "answer_date": "2026-10-09",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2370078480057131008"
+   },
+   {
+    "question": "尊敬的董秘您好，请问：根据公开信息测算，公司目前PB约1.5倍、PS约0.5倍、PE约14倍，自由现金流仍较充裕；横向对比全球前十物流商，估值处于较低一档，纵向看也处于公司历史估值极低位。同时，公司债券融资成本约1.8%，融资条件较为有利。请问在经营现金流稳健、资本开支可控的前提下，公司是否考虑开启新一轮股份回购？若已有相关研究，主要会权衡哪些因素、是否有触发条件或时间表？谢谢",
+    "answer": "尊敬的投资者，您好！关于股份回购，公司于今年3月底宣布将原A股回购计划规模翻倍至60亿元，该计划目前已实施完毕，并于9月18日完成注销；H股方面，公司于本年度首次推出5亿港元H股回购计划，截止10月9日已累计回购约4.5亿港元。公司会综合考量经营状况、现金流、资本开支需求及市场情况等因素进行审慎评估股份回购计划。如有相关计划，公司将严格按照相关法律法规的要求，就重大事项及时通过指定信息披露平台巨潮资讯网和香港联合交易所有限公司披露易网站向所有投资者公平、公正和公开地进行披露。感谢您的关注！",
+    "ask_date": "2026-09-26",
+    "answer_date": "2026-10-09",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2368134268670201856"
+   },
+   {
+    "question": "供应链国际业务增收难增利，何时实现板块盈利质变？鄂州花湖机场运力释放，重资产折旧能否优化，单票毛利率有无稳定抬升路径？丰翼低空试点跑通，除自研外，是否投资万丰奥威这类飞行器标的，实现无人机业务协同互补？市场质疑优质资产持续分拆赴港上市压制A股估值，管理层是否重新审视分拆策略？跨境赛道激烈竞争，是否对接国内出海龙头拿下高附加值订单？增厚自由现金流，防止核心成长资产不断体外流出？",
+    "answer": "尊敬的投资者，您好！供应链及国际业务方面，2026上半年该板块实现收入396亿元，同比增长16%，其中不含KLN的本体收入同比增长47%；分部净利润扭亏为盈，盈利水平同比改善近四千万元。中长期来看，公司致力于成为企业出海的首选物流伙伴，围绕能力搭建、产品出海和产能出海，持续完善全球骨干物流网络、深化与产业链的链主企业的供应链合作，推动收入贡献提升和盈利能力随规模逐步释放。 毛利率方面，公司持续推进经营优化和精益管理。一方面，优化业务结构，单票收入同比回升，经营效益稳步改善；另一方面，常态化落实精益管控，完善网络模式与资源配置，持续推动结构性降本。同时加快AI技术及智能装备的规模化应用。2026上半年实现毛利额209.1亿元，同比增长7.7%；毛利率13.4%，同比提升0.2个百分点。 出海合作方面，公司紧抓中国企业产品出海和产能出海机遇，依托独立第三方综合物流服务商定位及头部客户口碑，深化与链主企业供应链合作，在高科技、工业设备、汽车、消费品及零售食品等行业取得较快增长。以某知名消费电子企业为例，合作已从商务件寄递服务逐步拓展至国内平台电商快递、国际快递等标准化物流服务，并在此基础上进一步切入客户核心供应链体系，将服务能力延伸至客户国内CDC中央仓履约，并落地德国、马来西亚、新加坡等多国海外仓运营、区域仓配一体化业务，配套中越跨境运输、越南本地陆运等服务，完成了从单一标准化物流服务向全球综合供应链解决方案的升级进阶，2026年上半年来自该客户的收入同比增速超200%。 关于低空经济、资本运作及现金流安排等事项，公司将严格按照相关法律法规的要求，就重大事项及时通过指定信息披露平台巨潮资讯网和香港联合交易所有限公司披露易网站向所有投资者公平、公正和公开地进行披露。感谢您的关注！",
+    "ask_date": "2026-09-25",
+    "answer_date": "2026-10-09",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2367493390781276160"
+   },
+   {
+    "question": "截止9月24号公司股东人数为多少？",
+    "answer": "尊敬的投资者，您好！根据《证券法》《上市公司信息披露管理办法》《深圳证券交易所股票上市规则》等规定，公司会在季度报告、半年度报告和年度报告中披露对应时点的股东人数信息以及前十大股东信息等情况，投资者可以及时、公平、公正地获取上市公司主要股东的持股变动情况。感谢您的关注！",
+    "ask_date": "2026-09-24",
+    "answer_date": "2026-10-09",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2366552114276032512"
+   },
+   {
+    "question": "您好，董秘，顺丰作为大集团公司，在绿色能源、节能减排、碳减排等方面是否有合理布局？",
+    "answer": "尊敬的投资者，您好！公司积极响应国家“双碳”战略，通过系统性制定科学减碳目标与实施路径，以数智化碳管理平台为底座，持续推进绿色运输、绿色园区、绿色包装、绿色科技、循环供应链五大核心减排举措，加速自身和价值链的绿色转型。公司ESG实践受海内外评级认可，多项权威ESG评级领跑行业 ：2026年MSCI ESG评级跃升至AA级，在全球四大综合物流服务提供商中位列第一；Sustainalytics（晨星）评级为低风险，为全球快递物流行业最佳评级。此外，公司连续五年（2022-2026年）荣膺《财富》中国ESG影响力榜，蝉联中国唯一上榜的快递物流企业。相关举措及进展请参阅公司2025年度可持续发展报告。感谢您的关注！",
+    "ask_date": "2026-09-24",
+    "answer_date": "2026-10-09",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2366459059483590656"
+   }
+  ],
+  "count_12m": null
+ }
+}

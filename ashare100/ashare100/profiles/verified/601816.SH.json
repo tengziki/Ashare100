@@ -1,0 +1,595 @@
+{
+ "identity": {
+  "code": "601816",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "京沪高速铁路股份有限公司",
+  "name_abbr": "京沪高铁",
+  "aliases": [
+   "jhgt"
+  ],
+  "name_en": "Beijing-Shanghai High Speed Railway Co.,Ltd",
+  "pinyin_abbr": "JHGT",
+  "former_names": [],
+  "industry_sw1": "交通运输",
+  "industry_sw2": "铁路公路",
+  "list_date": "2020-01-16",
+  "province": "北京",
+  "city": "北京",
+  "website": "www.cr-jh.cn",
+  "chairman": "李敬伟",
+  "employees": 89,
+  "business_summary": "高铁旅客运输,具体主要包括:(1)为乘坐担当列车的旅客提供高铁运输服务并收取票价款",
+  "profile": "京沪高速铁路股份有限公司,2019年2月26日,中国证券监督管理委员会北京监管局网站刊登了京沪高速铁路股份有限公司上市辅导备案表,中国铁路总公司控股企业京沪高速铁路股份有限公司正式启动A股上市工作。京沪高铁纵贯京、津、冀、鲁、皖、苏、沪7省市,全长1318公里,其中正线桥梁1060公里,隧道16公里,路基242公里,设24个车站,设计、运营时速350公里。连接环渤海和长江三角洲两大经济区,是贯通东北、华北、华东的高铁大动脉。2008年4月18日京沪高铁工程全线正式开工,2011年6月30日建成通车,2013年2月25日通过国家验收,2016年1月荣获国家科技进步奖特等奖。京沪高铁是当时世界上一次建成线路最长、技术标准最高的高速铁路,是国家重大战略性交通工程和重大创新工程,是我国建国以来一次投资规模最大的建设项目,不论是工程建造,还是运营管理,都堪称是中国高铁的标杆和典范。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 5.16,
+  "change_pct": -0.19,
+  "total_mv": 252456505549.2,
+  "float_mv": 252456505549.2,
+  "total_shares": 48925679370,
+  "float_shares": 48925679370,
+  "pe_ttm": 18.53,
+  "pe_static": 19.17,
+  "pb": 1.21,
+  "ps_ttm": 5.75,
+  "turnover_rate": 0.29,
+  "amount": 731188155.0,
+  "high_52w": 5.26,
+  "low_52w": 4.33,
+  "ytd_return": 2.08,
+  "return_1y": 1.06,
+  "return_3y": 16.32,
+  "dividend_yield": 2.59,
+  "index_members": [
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 29304780634.27,
+    "revenue_yoy": 16.11,
+    "net_profit": 4815710298.29,
+    "net_profit_yoy": 49.15,
+    "net_profit_deducted": 4812322513.24,
+    "gross_margin": 35.85,
+    "net_margin": 14.38,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": 2.74,
+    "finance_expense_ratio": 11.28,
+    "rd_expense": 12353452.4,
+    "rd_ratio": 0.04,
+    "eps": 0.1,
+    "bvps": 3.77,
+    "roe": 2.6,
+    "roa": 1.41,
+    "total_assets": 295252254558.58,
+    "total_liab": 84147887360.12,
+    "debt_ratio": 28.5,
+    "cash": 8917551771.92,
+    "receivables": 230774561.22,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": 79805630565.57,
+    "equity_parent": 186849882544.08,
+    "ocf": 15467540962.65,
+    "capex": 3452886812.94,
+    "fcf": 12014654149.71,
+    "ocf_to_np": 3.21
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 19335662193.2,
+    "revenue_yoy": -34.02,
+    "net_profit": -576230116.65,
+    "net_profit_yoy": -111.97,
+    "net_profit_deducted": -606166410.69,
+    "gross_margin": 13.54,
+    "net_margin": -8.03,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": 4.09,
+    "finance_expense_ratio": 15.02,
+    "rd_expense": 4626760.02,
+    "rd_ratio": 0.02,
+    "eps": -0.01,
+    "bvps": 3.75,
+    "roe": -0.31,
+    "roa": -0.53,
+    "total_assets": 288545047112.67,
+    "total_liab": 81265554890.69,
+    "debt_ratio": 28.16,
+    "cash": 5339371959.96,
+    "receivables": 248889636.68,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": 76030547151.96,
+    "equity_parent": 183997251336.25,
+    "ocf": 6801120597.25,
+    "capex": 1098579419.58,
+    "fcf": 5702541177.67,
+    "ocf_to_np": -11.8
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 40682737550.39,
+    "revenue_yoy": 110.4,
+    "net_profit": 11545536011.72,
+    "net_profit_yoy": 2103.63,
+    "net_profit_deducted": 11548920464.6,
+    "gross_margin": 45.8,
+    "net_margin": 27.55,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": 1.97,
+    "finance_expense_ratio": 5.81,
+    "rd_expense": 11234401.39,
+    "rd_ratio": 0.03,
+    "eps": 0.24,
+    "bvps": 3.97,
+    "roe": 6.09,
+    "roa": 3.86,
+    "total_assets": 292219725586.82,
+    "total_liab": 74308171658.82,
+    "debt_ratio": 25.43,
+    "cash": 12903158412.49,
+    "receivables": 982177244.55,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": 66779603495.3,
+    "equity_parent": 194970466272.7,
+    "ocf": 21080698880.93,
+    "capex": 1490411604.4,
+    "fcf": 19590287276.53,
+    "ocf_to_np": 1.83
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 42157108608.19,
+    "revenue_yoy": 3.62,
+    "net_profit": 12768289200.79,
+    "net_profit_yoy": 10.59,
+    "net_profit_deducted": 12763282448.21,
+    "gross_margin": 47.39,
+    "net_margin": 30.06,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": 2.0,
+    "finance_expense_ratio": 4.24,
+    "rd_expense": 10889389.13,
+    "rd_ratio": 0.03,
+    "eps": 0.26,
+    "bvps": 4.12,
+    "roe": 6.42,
+    "roa": 4.39,
+    "total_assets": 284662650232.54,
+    "total_liab": 59414300151.59,
+    "debt_ratio": 20.87,
+    "cash": 10191011532.7,
+    "receivables": 1189033608.82,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": 52646076124.14,
+    "equity_parent": 202403433271.18,
+    "ocf": 20065201191.26,
+    "capex": 1179802140.15,
+    "fcf": 18885399051.11,
+    "ocf_to_np": 1.57
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 43062041486.98,
+    "revenue_yoy": 2.15,
+    "net_profit": 13171912357.24,
+    "net_profit_yoy": 3.16,
+    "net_profit_deducted": 13190075234.64,
+    "gross_margin": 46.88,
+    "net_margin": 30.66,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": 1.93,
+    "finance_expense_ratio": 3.27,
+    "rd_expense": 14809350.31,
+    "rd_ratio": 0.03,
+    "eps": 0.27,
+    "bvps": 4.23,
+    "roe": 6.44,
+    "roa": 4.61,
+    "total_assets": 287938421202.66,
+    "total_liab": 57947879216.59,
+    "debt_ratio": 20.13,
+    "cash": 15578618242.33,
+    "receivables": 1125160640.39,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": 50625938249.18,
+    "equity_parent": 207113561738.25,
+    "ocf": 21204669893.36,
+    "capex": 754759968.31,
+    "fcf": 20449909925.05,
+    "ocf_to_np": 1.61
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 21841588472.02,
+   "revenue_yoy": 3.94,
+   "net_profit": 6771322401.85,
+   "net_profit_yoy": 7.21,
+   "net_profit_deducted": 6771317432.2,
+   "gross_margin": 45.36,
+   "net_margin": 31.31,
+   "roe": 3.21,
+   "eps": 0.14,
+   "debt_ratio": 20.94,
+   "ocf": 10685134626.82
+  },
+  "derived": {
+   "revenue_cagr_3y": 30.59,
+   "net_profit_cagr_3y": null,
+   "receivables_to_revenue": 2.61,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "中国国家铁路集团有限公司",
+  "controlling_shareholder": "中国铁路投资集团有限公司",
+  "controlling_ratio": 43.55,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "中国铁路投资集团有限公司",
+    "hold_num": 21306477996,
+    "hold_ratio": 43.55,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "全国社会保障基金理事会",
+    "hold_num": 3062225309,
+    "hold_ratio": 6.26,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "江苏省铁路集团有限公司",
+    "hold_num": 2444607848,
+    "hold_ratio": 5.0,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "上海久事铁路投资建设有限公司",
+    "hold_num": 2245670345,
+    "hold_ratio": 4.59,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "南京铁路建设投资有限责任公司",
+    "hold_num": 2150717782,
+    "hold_ratio": 4.4,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "中国平安人寿保险股份有限公司-传统-高利率保单产品",
+    "hold_num": 1929201945,
+    "hold_ratio": 3.94,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "天津铁路建设投资控股(集团)有限公司",
+    "hold_num": 1887671850,
+    "hold_ratio": 3.86,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "山东铁路投资控股集团有限公司",
+    "hold_num": 1853048658,
+    "hold_ratio": 3.79,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "香港中央结算有限公司",
+    "hold_num": 1335839372,
+    "hold_ratio": 2.73,
+    "hold_num_change": 59475280
+   },
+   {
+    "rank": 10,
+    "name": "中国太平洋人寿保险股份有限公司-传统-普通保险产品",
+    "hold_num": 1224890124,
+    "hold_ratio": 2.5,
+    "hold_num_change": 0
+   }
+  ],
+  "holder_num": 222669,
+  "holder_num_change_pct": 11.78,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 8.6,
+  "northbound_ratio": 2.73,
+  "executives": [
+   {
+    "name": "李敬伟",
+    "title": "董事长",
+    "pay": 477900.0
+   },
+   {
+    "name": "赵非",
+    "title": "董事会秘书",
+    "pay": 658800.0
+   }
+  ],
+  "pledge_ratio_total": 1.63,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.0491,
+    "total_amount": 2411128394.4,
+    "payout_ratio": 50.07,
+    "dividend_yield": 1.03,
+    "ex_date": "2022-07-29"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.0114,
+    "total_amount": 559813924.57,
+    "payout_ratio": -97.15,
+    "dividend_yield": 0.21,
+    "ex_date": "2023-07-28"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.1116,
+    "total_amount": 5480283682.59,
+    "payout_ratio": 47.47,
+    "dividend_yield": 2.09,
+    "ex_date": "2024-06-28"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.1182,
+    "total_amount": 5783015301.53,
+    "payout_ratio": 45.29,
+    "dividend_yield": 2.08,
+    "ex_date": "2025-07-15"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.1339,
+    "total_amount": 6551148467.64,
+    "payout_ratio": 49.74,
+    "dividend_yield": 1.54,
+    "ex_date": "2025-10-27"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 20785389770.73,
+  "cum_netprofit_5y": 41725217751.39,
+  "payout_5y": 49.81,
+  "buyback_3y": 999493000.34
+ },
+ "peers": {
+  "peer_codes": [
+   "601006.SH",
+   "001965.SZ",
+   "600377.SH",
+   "600350.SH"
+  ],
+  "segments": [
+   {
+    "name": "路网服务",
+    "revenue": 27030642195.29,
+    "ratio": 62.77,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "客运业务",
+    "revenue": 15722167736.1,
+    "ratio": 36.51,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他主营业务",
+    "revenue": 309231555.59,
+    "ratio": 0.72,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "中国",
+    "revenue": 42752753796.6,
+    "ratio": 99.28,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 309287690.38,
+    "ratio": 0.72,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "京沪高速铁路股份有限公司第五届董事会第二十一次会议决议公告",
+    "date": "2026-10-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-22/1225613669.PDF",
+    "type": null
+   },
+   {
+    "title": "京沪高速铁路股份有限公司关于2026年中期利润分配方案的公告",
+    "date": "2026-10-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-22/1225613662.PDF",
+    "type": null
+   },
+   {
+    "title": "京沪高速铁路股份有限公司关于召开2026年半年度业绩说明会的公告",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225583978.PDF",
+    "type": null
+   },
+   {
+    "title": "京沪高速铁路股份有限公司第五届董事会第二十次会议决议公告",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225583968.PDF",
+    "type": null
+   },
+   {
+    "title": "京沪高速铁路股份有限公司2026年半年度报告摘要",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225535137.PDF",
+    "type": null
+   },
+   {
+    "title": "京沪高速铁路股份有限公司对外担保管理规定",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534981.PDF",
+    "type": null
+   },
+   {
+    "title": "京沪高速铁路股份有限公司重大信息内部报告制度",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534974.PDF",
+    "type": null
+   },
+   {
+    "title": "京沪高速铁路股份有限公司董事和高级管理人员持股变动管理规定",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534876.PDF",
+    "type": null
+   },
+   {
+    "title": "京沪高速铁路股份有限公司总经理工作细则",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534845.PDF",
+    "type": null
+   },
+   {
+    "title": "京沪高速铁路股份有限公司2026年半年度报告",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534682.PDF",
+    "type": null
+   },
+   {
+    "title": "公司对中国铁路财务有限责任公司风险评估报告",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534672.PDF",
+    "type": null
+   },
+   {
+    "title": "京沪高速铁路股份有限公司关于规范与关联方资金往来的管理制度",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534660.PDF",
+    "type": null
+   },
+   {
+    "title": "京沪高速铁路股份有限公司年报信息披露重大差错责任追究制度",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534631.PDF",
+    "type": null
+   },
+   {
+    "title": "京沪高速铁路股份有限公司董事会秘书工作细则",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534527.PDF",
+    "type": null
+   },
+   {
+    "title": "京沪高速铁路股份有限公司第五届董事会第十九次会议决议公告",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534366.PDF",
+    "type": null
+   },
+   {
+    "title": "京沪高速铁路股份有限公司关于向控股子公司提供委托贷款进展的公告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225518237.PDF",
+    "type": null
+   },
+   {
+    "title": "京沪高速铁路股份有限公司关于总会计师退休离职的公告",
+    "date": "2026-08-05",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-05/1225457503.PDF",
+    "type": null
+   },
+   {
+    "title": "京沪高速铁路股份有限公司2025年年度权益分派实施公告",
+    "date": "2026-08-05",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-05/1225457500.PDF",
+    "type": null
+   },
+   {
+    "title": "京沪高速铁路股份有限公司关于与中国国家铁路集团有限公司续签《综合服务框架协议》的公告",
+    "date": "2026-07-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-03/1225406326.PDF",
+    "type": null
+   },
+   {
+    "title": "京沪高速铁路股份有限公司2025年年度股东会决议公告",
+    "date": "2026-07-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-01/1225401673.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 76
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "你好！请问三季度会分红吗",
+    "answer": "尊敬的投资者您好，公司已披露《京沪高速铁路股份有限公司未来三年（2025-2027年）股东分红回报规划》，公司将依据此规划做好分红工作。具体关于分红事项，请关注公司公告。感谢您对公司的关注！",
+    "ask_date": "2026-10-12",
+    "answer_date": "2026-10-14",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=155463"
+   },
+   {
+    "question": "董事长您好！请问持有贵司股份市值100万以上的股民在购买车票时，能否优先或打折的权限？",
+    "answer": "尊敬的投资者您好，公司暂无此售票政策。感谢您对公司的关注！",
+    "ask_date": "2026-10-08",
+    "answer_date": "2026-10-14",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=155463"
+   },
+   {
+    "question": "董秘你好，我是从去年年度分红前期一直持有的，已经一年多了。我这算是长期持有吗？但是加上分红，我依然亏损。股价也跌破发行价,管理层是否应该灵活的管理市值，给持有者信心。",
+    "answer": "尊敬的投资者您好，公司积极落实市值管理有关要求，开展了股份回购、分红等工作。后续在抓好主营业务运营的基础上，持续探索运用《上市公司监管指引第10号——市值管理》中规定的方法维护公司市值。感谢您对公司的关注！",
+    "ask_date": "2026-09-24",
+    "answer_date": "2026-09-29",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=155463"
+   },
+   {
+    "question": "董秘您好！长假12306高铁票是“一票难求”，贵司在人工智能方向如何更细致更高效的解决其问题呢？",
+    "answer": "尊敬的投资者您好，公司密切关注客流需求变化，积极灵活高效安排列车开行，力争最大限度满足全线旅客的乘车需求。感谢您对公司的关注！",
+    "ask_date": "2026-09-23",
+    "answer_date": "2026-09-29",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=155463"
+   }
+  ],
+  "count_12m": null
+ }
+}

@@ -1,0 +1,573 @@
+{
+ "identity": {
+  "code": "600900",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "中国长江电力股份有限公司",
+  "name_abbr": "长江电力",
+  "aliases": [
+   "cjdl"
+  ],
+  "name_en": "China Yangtze Power Co.,Ltd.",
+  "pinyin_abbr": "CJDL",
+  "former_names": [
+   "长江电力→G长电"
+  ],
+  "industry_sw1": "公用事业",
+  "industry_sw2": "电力",
+  "list_date": "2003-11-18",
+  "province": "北京",
+  "city": "北京",
+  "website": "www.cypc.com.cn",
+  "chairman": "刘伟平",
+  "employees": 8482,
+  "business_summary": "大型水电运营",
+  "profile": "中国长江电力股份有限公司是由中国长江三峡集团有限公司作为主发起人设立的股份有限公司,创立于2002年9月29日,2003年11月在上交所IPO挂牌上市。2020年9月,长江电力发行的“沪伦通”全球存托凭证在英国伦敦证券交易所上市交易。长江电力主要从事水力发电、投融资、抽水蓄能、智慧综合能源、新能源和配售电等业务,经营区域覆盖中国、秘鲁、巴西、巴基斯坦等多个国家,是中国最大的电力上市公司和全球最大的水电上市公司。长江电力运营管理的乌东德、白鹤滩、溪洛渡、向家坝、三峡、葛洲坝六座梯级电站,构成了世界最大清洁能源走廊,有效保障了长江流域防洪、航运、补水和生态安全,为我国经济社会绿色发展提供了强劲动能。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 29.82,
+  "change_pct": 0.85,
+  "total_mv": 729642252291.12,
+  "float_mv": 729642252291.12,
+  "total_shares": 24468217716,
+  "float_shares": 24468217716,
+  "pe_ttm": 20.15,
+  "pe_static": 21.15,
+  "pb": 3.38,
+  "ps_ttm": 8.34,
+  "turnover_rate": 0.69,
+  "amount": 5034471965.0,
+  "high_52w": 29.98,
+  "low_52w": 24.38,
+  "ytd_return": 13.86,
+  "return_1y": 10.28,
+  "return_3y": 52.24,
+  "dividend_yield": 3.35,
+  "index_members": [
+   "上证50",
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 55646253991.83,
+    "revenue_yoy": -3.7,
+    "net_profit": 26272998503.24,
+    "net_profit_yoy": -0.09,
+    "net_profit_deducted": 24141419619.03,
+    "gross_margin": 62.06,
+    "net_margin": 47.6,
+    "selling_expense_ratio": 0.27,
+    "admin_expense_ratio": 2.44,
+    "finance_expense_ratio": 8.54,
+    "rd_expense": 39416834.88,
+    "rd_ratio": 0.07,
+    "eps": 1.16,
+    "bvps": 7.96,
+    "roe": 14.92,
+    "roa": 8.03,
+    "total_assets": 328563281639.2,
+    "total_liab": 138275058750.5,
+    "debt_ratio": 42.08,
+    "cash": 9929980061.69,
+    "receivables": 3768258804.36,
+    "inventory": 470031320.31,
+    "goodwill": 987246902.63,
+    "interest_debt": 100813388461.51,
+    "equity_parent": 181063819486.27,
+    "ocf": 35732461733.26,
+    "capex": 3473877431.53,
+    "fcf": 32258584301.73,
+    "ocf_to_np": 1.36
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 68863128424.25,
+    "revenue_yoy": 23.75,
+    "net_profit": 23725915960.71,
+    "net_profit_yoy": -9.69,
+    "net_profit_deducted": 21392344535.58,
+    "gross_margin": 57.13,
+    "net_margin": 36.45,
+    "selling_expense_ratio": 0.25,
+    "admin_expense_ratio": 2.23,
+    "finance_expense_ratio": 13.91,
+    "rd_expense": 89655150.76,
+    "rd_ratio": 0.13,
+    "eps": 0.97,
+    "bvps": 8.16,
+    "roe": 9.32,
+    "roa": 5.54,
+    "total_assets": 578453569418.28,
+    "total_liab": 322436160281.09,
+    "debt_ratio": 55.74,
+    "cash": 10638044864.92,
+    "receivables": 15227668604.93,
+    "inventory": 567385580.82,
+    "goodwill": 1081106204.0,
+    "interest_debt": 281882677294.39,
+    "equity_parent": 227672712353.16,
+    "ocf": 43476502138.14,
+    "capex": 12469721762.97,
+    "fcf": 31006780375.17,
+    "ocf_to_np": 1.83
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 78143535736.1,
+    "revenue_yoy": 13.48,
+    "net_profit": 27244616815.27,
+    "net_profit_yoy": 14.83,
+    "net_profit_deducted": 27508231223.76,
+    "gross_margin": 57.82,
+    "net_margin": 35.79,
+    "selling_expense_ratio": 0.25,
+    "admin_expense_ratio": 1.75,
+    "finance_expense_ratio": 16.07,
+    "rd_expense": 788922297.3,
+    "rd_ratio": 1.01,
+    "eps": 1.11,
+    "bvps": 8.23,
+    "roe": 13.52,
+    "roa": 4.86,
+    "total_assets": 572938869543.08,
+    "total_liab": 360398263726.58,
+    "debt_ratio": 62.9,
+    "cash": 7823650159.5,
+    "receivables": 8514603738.09,
+    "inventory": 586548003.46,
+    "goodwill": 1136419113.59,
+    "interest_debt": 315491129430.55,
+    "equity_parent": 201453338461.43,
+    "ocf": 64749448288.66,
+    "capex": 12417112224.11,
+    "fcf": 52332336064.55,
+    "ocf_to_np": 2.38
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 84491870566.52,
+    "revenue_yoy": 8.12,
+    "net_profit": 32496172808.65,
+    "net_profit_yoy": 19.28,
+    "net_profit_deducted": 32507551977.06,
+    "gross_margin": 59.13,
+    "net_margin": 38.97,
+    "selling_expense_ratio": 0.22,
+    "admin_expense_ratio": 1.85,
+    "finance_expense_ratio": 13.17,
+    "rd_expense": 890719278.34,
+    "rd_ratio": 1.05,
+    "eps": 1.33,
+    "bvps": 8.59,
+    "roe": 15.71,
+    "roa": 5.78,
+    "total_assets": 566585128973.81,
+    "total_liab": 344501035260.05,
+    "debt_ratio": 60.8,
+    "cash": 6572724404.32,
+    "receivables": 9326624055.45,
+    "inventory": 641979948.58,
+    "goodwill": 1152786257.22,
+    "interest_debt": 297691622643.08,
+    "equity_parent": 210348910895.97,
+    "ocf": 59648468284.22,
+    "capex": 14634075051.41,
+    "fcf": 45014393232.81,
+    "ocf_to_np": 1.84
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 86241940222.2,
+    "revenue_yoy": 2.07,
+    "net_profit": 34502809176.39,
+    "net_profit_yoy": 6.17,
+    "net_profit_deducted": 33445575299.94,
+    "gross_margin": 61.67,
+    "net_margin": 40.52,
+    "selling_expense_ratio": 0.27,
+    "admin_expense_ratio": 1.88,
+    "finance_expense_ratio": 10.87,
+    "rd_expense": 1166892834.72,
+    "rd_ratio": 1.35,
+    "eps": 1.41,
+    "bvps": 9.05,
+    "roe": 15.9,
+    "roa": 6.21,
+    "total_assets": 559208340046.84,
+    "total_liab": 325847678729.19,
+    "debt_ratio": 58.27,
+    "cash": 4585856068.06,
+    "receivables": 7251847539.23,
+    "inventory": 836598890.26,
+    "goodwill": 1116546264.67,
+    "interest_debt": 287986161889.05,
+    "equity_parent": 221338010639.92,
+    "ocf": 60562925570.41,
+    "capex": 18488466859.29,
+    "fcf": 42074458711.12,
+    "ocf_to_np": 1.76
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 37929268927.18,
+   "revenue_yoy": 3.36,
+   "net_profit": 14755694774.53,
+   "net_profit_yoy": 13.02,
+   "net_profit_deducted": 14294030444.04,
+   "gross_margin": 57.89,
+   "net_margin": 39.64,
+   "roe": 6.55,
+   "eps": 0.6,
+   "debt_ratio": 59.36,
+   "ocf": 24128313774.37
+  },
+  "derived": {
+   "revenue_cagr_3y": 7.79,
+   "net_profit_cagr_3y": 13.29,
+   "receivables_to_revenue": 8.41,
+   "goodwill_to_equity": 0.5
+  }
+ },
+ "shareholders": {
+  "controller": "国务院国有资产监督管理委员会",
+  "controlling_shareholder": "中国长江三峡集团有限公司",
+  "controlling_ratio": 43.47,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "中国长江三峡集团有限公司",
+    "hold_num": 10636013637,
+    "hold_ratio": 43.47,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "香港中央结算有限公司",
+    "hold_num": 1128697709,
+    "hold_ratio": 4.61,
+    "hold_num_change": 90940723
+   },
+   {
+    "rank": 3,
+    "name": "中国平安人寿保险股份有限公司-传统-普通保险产品",
+    "hold_num": 988076143,
+    "hold_ratio": 4.04,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "长江生态环保集团有限公司",
+    "hold_num": 978728709,
+    "hold_ratio": 4.0,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "四川省能源投资集团有限责任公司",
+    "hold_num": 917229606,
+    "hold_ratio": 3.75,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "中国三峡建工(集团)有限公司",
+    "hold_num": 880000000,
+    "hold_ratio": 3.6,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "云南省能源集团有限公司",
+    "hold_num": 555648163,
+    "hold_ratio": 2.27,
+    "hold_num_change": 26549384
+   },
+   {
+    "rank": 8,
+    "name": "长江三峡集团实业发展(北京)有限公司",
+    "hold_num": 454837184,
+    "hold_ratio": 1.86,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+    "hold_num": 417069407,
+    "hold_ratio": 1.7,
+    "hold_num_change": 16096978
+   },
+   {
+    "rank": 10,
+    "name": "昆明云能水电开发有限公司",
+    "hold_num": 400000000,
+    "hold_ratio": 1.63,
+    "hold_num_change": 0
+   }
+  ],
+  "holder_num": 775019,
+  "holder_num_change_pct": 4.79,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 8.42,
+  "northbound_ratio": 4.61,
+  "executives": [
+   {
+    "name": "刘伟平",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "刘海波",
+    "title": "总经理",
+    "pay": 1437400.0
+   },
+   {
+    "name": "薛宁",
+    "title": "董事会秘书",
+    "pay": 1197600.0
+   }
+  ],
+  "pledge_ratio_total": 1.68,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.8153,
+    "total_amount": 18541437830.22,
+    "payout_ratio": 70.57,
+    "dividend_yield": 3.27,
+    "ex_date": "2022-07-21"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.8533,
+    "total_amount": 20878730177.06,
+    "payout_ratio": 88.0,
+    "dividend_yield": 3.81,
+    "ex_date": "2023-07-21"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.82,
+    "total_amount": 20063938527.12,
+    "payout_ratio": 73.64,
+    "dividend_yield": 2.61,
+    "ex_date": "2024-07-19"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.943,
+    "total_amount": 23073529306.19,
+    "payout_ratio": 71.0,
+    "dividend_yield": 2.05,
+    "ex_date": "2025-01-24"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 1.0,
+    "total_amount": 24468217716.0,
+    "payout_ratio": 70.92,
+    "dividend_yield": 2.38,
+    "ex_date": "2026-02-12"
+   }
+  ],
+  "consecutive_years": 5,
+  "cum_dividend_5y": 107025853556.59,
+  "cum_netprofit_5y": 144242513264.26,
+  "payout_5y": 74.2,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "003816.SZ",
+   "601985.SH",
+   "600025.SH",
+   "600930.SH"
+  ],
+  "segments": [
+   {
+    "name": "境内水电行业",
+    "revenue": 75661563315.43,
+    "ratio": 87.73,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他行业",
+    "revenue": 10323376439.8,
+    "ratio": 11.97,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 257000466.97,
+    "ratio": 0.3,
+    "type": "product",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "长江电力2026年三季度发电量完成情况公告",
+    "date": "2026-10-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225600572.PDF",
+    "type": null
+   },
+   {
+    "title": "长江电力2026年半年度报告摘要",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534929.PDF",
+    "type": null
+   },
+   {
+    "title": "长江电力2026年半年度报告",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534923.PDF",
+    "type": null
+   },
+   {
+    "title": "长江电力关于三峡财务有限责任公司的风险持续评估报告",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534823.PDF",
+    "type": null
+   },
+   {
+    "title": "长江电力关于召开2026年半年度业绩说明会的公告",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534244.PDF",
+    "type": null
+   },
+   {
+    "title": "长江电力第七届董事会第三次会议决议公告",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534160.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市天元律师事务所关于中国长江电力股份有限公司控股股东增持公司股份的专项核查意见",
+    "date": "2026-08-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225494048.PDF",
+    "type": null
+   },
+   {
+    "title": "长江电力关于控股股东增持股份结果的公告",
+    "date": "2026-08-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225494038.PDF",
+    "type": null
+   },
+   {
+    "title": "长江电力关于公司总法律顾问辞职的公告",
+    "date": "2026-08-06",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-06/1225458807.PDF",
+    "type": null
+   },
+   {
+    "title": "长江电力关于公司控股股东发行可交换公司债券对持有的部分本公司A股股票办理补充担保及信托登记的公告",
+    "date": "2026-07-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-18/1225429337.PDF",
+    "type": null
+   },
+   {
+    "title": "长江电力2025年年度权益分派实施公告",
+    "date": "2026-07-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-10/1225416894.PDF",
+    "type": null
+   },
+   {
+    "title": "长江电力2026年半年度发电量完成情况公告",
+    "date": "2026-07-07",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-07/1225411192.PDF",
+    "type": null
+   },
+   {
+    "title": "长江电力第七届董事会第二次会议决议公告",
+    "date": "2026-07-07",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-07/1225411183.PDF",
+    "type": null
+   },
+   {
+    "title": "长江电力第七届董事会第一次会议决议公告",
+    "date": "2026-06-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-25/1225384928.PDF",
+    "type": null
+   },
+   {
+    "title": "长江电力2026年第一次临时股东会决议公告",
+    "date": "2026-06-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-24/1225383773.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市天元律师事务所关于中国长江电力股份有限公司2026年第一次临时股东会的法律意见",
+    "date": "2026-06-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-24/1225383759.PDF",
+    "type": null
+   },
+   {
+    "title": "长江电力6届54次董事会决议公告",
+    "date": "2026-06-06",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-06/1225354354.PDF",
+    "type": null
+   },
+   {
+    "title": "独立董事候选人声明与承诺（孙正运）",
+    "date": "2026-06-06",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-06/1225354352.PDF",
+    "type": null
+   },
+   {
+    "title": "长江电力关于董事会换届选举的公告",
+    "date": "2026-06-06",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-06/1225354351.PDF",
+    "type": null
+   },
+   {
+    "title": "独立董事候选人声明与承诺（张咸阳）",
+    "date": "2026-06-06",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-06/1225354350.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 91
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "董秘您好，请问企业当下的困境跟风险点是什么？后续如何应对？第二，企业未来的发展方向怎么走？具体怎么做？",
+    "answer": null,
+    "ask_date": "2026-10-12",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=900"
+   },
+   {
+    "question": "请问领导，针对休宁里庄抽水蓄能电站，贵公司在十月份会给出最终的答复建设还是不建设吗？",
+    "answer": null,
+    "ask_date": "2026-10-08",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=900"
+   }
+  ],
+  "count_12m": null
+ }
+}

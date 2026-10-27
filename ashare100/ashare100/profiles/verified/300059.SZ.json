@@ -1,0 +1,640 @@
+{
+ "identity": {
+  "code": "300059",
+  "exchange": "SZ",
+  "board": "创业板",
+  "name_full": "东方财富信息股份有限公司",
+  "name_abbr": "东方财富",
+  "aliases": [
+   "dfcf"
+  ],
+  "name_en": "East Money Information Co.,Ltd.",
+  "pinyin_abbr": "DFCF",
+  "former_names": [],
+  "industry_sw1": "非银金融",
+  "industry_sw2": "证券Ⅱ",
+  "list_date": "2010-03-19",
+  "province": "上海",
+  "city": "上海",
+  "website": "www.eastmoney.com",
+  "chairman": "其实",
+  "employees": 6403,
+  "business_summary": "证券业务、金融电子商务服务业务、金融数据服务业务等",
+  "profile": "东方财富信息股份有限公司成立于2005年,是中国专业的互联网财富管理综合运营商,为海量用户提供基于互联网的财经资讯、数据、交易等服务。公司总部位于上海,并在北京、广州、深圳、成都、南京、扬州、拉萨、香港等地设有子公司。自公司成立以来,公司坚持“为用户创造更多价值”的经营理念,取得了快速、稳步的发展。2010年3月,公司成功登陆创业板;2015年公司成为首家市值突破1000亿的创业板上市公司;2024年10月9日,公司市值突破4500亿元,同日公司股票成交金额超900亿元,创A股市场个股单日成交金额记录。公司旗下现拥有“东方财富网”、“天天基金网”、“股吧”、“东方财富证券”、“Choice数据”、“哈富证券”、“东方财富期货”、“东财基金”、“妙想”等知名互联网产品及业务板块。其中公司运营的“东方财富网”于2004年上线,2007年“天天基金网”上线,2012年2月天天基金首批获得中国证监会颁发的基金销售牌照。自2015年至今,公司通过资本市场收购,全资控股了哈富证券、东方财富证券。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 17.78,
+  "change_pct": -0.67,
+  "total_mv": 281318713777.5,
+  "float_mv": 240200252443.34,
+  "total_shares": 15822199875,
+  "float_shares": 13509575503,
+  "pe_ttm": 19.29,
+  "pe_static": 23.28,
+  "pb": 2.75,
+  "ps_ttm": 14.27,
+  "turnover_rate": 1.38,
+  "amount": 3353018231.0,
+  "high_52w": 26.69,
+  "low_52w": 17.18,
+  "ytd_return": -22.96,
+  "return_1y": -28.94,
+  "return_3y": 20.46,
+  "dividend_yield": 0.56,
+  "index_members": [
+   "沪深300",
+   "中证A500",
+   "创业板指"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 13094320648.24,
+    "revenue_yoy": 58.94,
+    "net_profit": 8552927696.06,
+    "net_profit_yoy": 79.0,
+    "net_profit_deducted": 8440303766.19,
+    "gross_margin": 68.45,
+    "net_margin": 65.32,
+    "selling_expense_ratio": 4.98,
+    "admin_expense_ratio": 14.12,
+    "finance_expense_ratio": 1.06,
+    "rd_expense": 723971197.23,
+    "rd_ratio": 5.53,
+    "eps": 0.69,
+    "bvps": 4.06,
+    "roe": 22.11,
+    "roa": 5.79,
+    "total_assets": 185020253993.91,
+    "total_liab": 140980017427.37,
+    "debt_ratio": 76.2,
+    "cash": 59610593783.57,
+    "receivables": 1819259030.82,
+    "inventory": null,
+    "goodwill": 2945861162.24,
+    "interest_debt": 28632372696.92,
+    "equity_parent": 44040236566.54,
+    "ocf": 8974259181.75,
+    "capex": 1386103759.03,
+    "fcf": 7588155422.72,
+    "ocf_to_np": 1.05
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 12485576441.96,
+    "revenue_yoy": -4.65,
+    "net_profit": 8509461233.33,
+    "net_profit_yoy": -0.51,
+    "net_profit_deducted": 8204461568.37,
+    "gross_margin": 66.5,
+    "net_margin": 68.15,
+    "selling_expense_ratio": 4.21,
+    "admin_expense_ratio": 17.55,
+    "finance_expense_ratio": -0.9,
+    "rd_expense": 935742208.54,
+    "rd_ratio": 7.49,
+    "eps": 0.54,
+    "bvps": 4.93,
+    "roe": 14.4,
+    "roa": 4.29,
+    "total_assets": 211880730164.65,
+    "total_liab": 146716066941.41,
+    "debt_ratio": 69.24,
+    "cash": 64230876969.67,
+    "receivables": 1048199000.34,
+    "inventory": null,
+    "goodwill": 2945861162.24,
+    "interest_debt": 17770708785.3,
+    "equity_parent": 65164663223.24,
+    "ocf": 1277465895.39,
+    "capex": 617559452.46,
+    "fcf": 659906442.93,
+    "ocf_to_np": 0.15
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 11081439282.37,
+    "revenue_yoy": -11.25,
+    "net_profit": 8193469277.99,
+    "net_profit_yoy": -3.71,
+    "net_profit_deducted": 7861598966.25,
+    "gross_margin": 60.93,
+    "net_margin": 73.94,
+    "selling_expense_ratio": 4.22,
+    "admin_expense_ratio": 20.9,
+    "finance_expense_ratio": -1.52,
+    "rd_expense": 1080649176.7,
+    "rd_ratio": 9.75,
+    "eps": 0.52,
+    "bvps": 4.54,
+    "roe": 11.94,
+    "roa": 3.63,
+    "total_assets": 239578320552.16,
+    "total_liab": 167615459992.34,
+    "debt_ratio": 69.96,
+    "cash": 61399102365.62,
+    "receivables": 795892173.17,
+    "inventory": null,
+    "goodwill": 2945861162.24,
+    "interest_debt": 28759683197.81,
+    "equity_parent": 71962860559.82,
+    "ocf": -3137724690.98,
+    "capex": 522662244.81,
+    "fcf": -3660386935.79,
+    "ocf_to_np": -0.38
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 11604343090.16,
+    "revenue_yoy": 4.72,
+    "net_profit": 9610120743.64,
+    "net_profit_yoy": 17.29,
+    "net_profit_deducted": 9253228906.81,
+    "gross_margin": 63.35,
+    "net_margin": 82.81,
+    "selling_expense_ratio": 2.77,
+    "admin_expense_ratio": 20.07,
+    "finance_expense_ratio": -1.3,
+    "rd_expense": 1142623276.82,
+    "rd_ratio": 9.85,
+    "eps": 0.61,
+    "bvps": 5.11,
+    "roe": 12.64,
+    "roa": 3.52,
+    "total_assets": 306369357347.3,
+    "total_liab": 225642266824.67,
+    "debt_ratio": 73.65,
+    "cash": 101258983590.34,
+    "receivables": 737866444.91,
+    "inventory": null,
+    "goodwill": 2945861162.24,
+    "interest_debt": 40291680880.45,
+    "equity_parent": 80727090522.63,
+    "ocf": 44587872891.43,
+    "capex": 234813505.6,
+    "fcf": 44353059385.83,
+    "ocf_to_np": 4.64
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 16067741039.51,
+    "revenue_yoy": 38.46,
+    "net_profit": 12084594947.22,
+    "net_profit_yoy": 25.75,
+    "net_profit_deducted": 11653886754.89,
+    "gross_margin": 70.3,
+    "net_margin": 75.21,
+    "selling_expense_ratio": 2.4,
+    "admin_expense_ratio": 16.94,
+    "finance_expense_ratio": -0.58,
+    "rd_expense": 1066549339.24,
+    "rd_ratio": 6.64,
+    "eps": 0.77,
+    "bvps": 5.81,
+    "roe": 14.03,
+    "roa": 3.46,
+    "total_assets": 392933744976.2,
+    "total_liab": 301058274020.89,
+    "debt_ratio": 76.62,
+    "cash": 124282846610.66,
+    "receivables": 920964216.86,
+    "inventory": null,
+    "goodwill": 2946250105.99,
+    "interest_debt": 48205775865.51,
+    "equity_parent": 91875470955.31,
+    "ocf": -10222245645.14,
+    "capex": 156571877.22,
+    "fcf": -10378817522.36,
+    "ocf_to_np": -0.85
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 10505339283.68,
+   "revenue_yoy": 53.22,
+   "net_profit": 8064281453.11,
+   "net_profit_yoy": 44.85,
+   "net_profit_deducted": 7726695676.62,
+   "gross_margin": 74.39,
+   "net_margin": 76.76,
+   "roe": 8.46,
+   "eps": 0.51,
+   "debt_ratio": 80.54,
+   "ocf": 30313788393.63
+  },
+  "derived": {
+   "revenue_cagr_3y": 8.77,
+   "net_profit_cagr_3y": 12.4,
+   "receivables_to_revenue": 5.73,
+   "goodwill_to_equity": 3.21
+  }
+ },
+ "shareholders": {
+  "controller": "其实",
+  "controlling_shareholder": "其实",
+  "controlling_ratio": 19.23,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "其实",
+    "hold_num": 3042162258,
+    "hold_ratio": 19.23,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "中国建设银行股份有限公司-国泰中证全指证券公司交易型开放式指数证券投资基金",
+    "hold_num": 389211611,
+    "hold_ratio": 2.46,
+    "hold_num_change": 18218550
+   },
+   {
+    "rank": 3,
+    "name": "香港中央结算有限公司",
+    "hold_num": 284874052,
+    "hold_ratio": 1.8,
+    "hold_num_change": -19079787
+   },
+   {
+    "rank": 4,
+    "name": "中国建设银行股份有限公司-华宝中证全指证券公司交易型开放式指数证券投资基金",
+    "hold_num": 249570187,
+    "hold_ratio": 1.58,
+    "hold_num_change": -1732600
+   },
+   {
+    "rank": 5,
+    "name": "陆丽丽",
+    "hold_num": 159876206,
+    "hold_ratio": 1.01,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "鲍一青",
+    "hold_num": 152779727,
+    "hold_ratio": 0.97,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "史佳",
+    "hold_num": 141446612,
+    "hold_ratio": 0.89,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "中国工商银行股份有限公司-易方达创业板交易型开放式指数证券投资基金",
+    "hold_num": 79254528,
+    "hold_ratio": 0.5,
+    "hold_num_change": -46996445
+   },
+   {
+    "rank": 9,
+    "name": "中国建设银行股份有限公司-易方达沪深300非银行金融交易型开放式指数证券投资基金",
+    "hold_num": 79009093,
+    "hold_ratio": 0.5,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "国泰海通证券股份有限公司-天弘中证全指证券公司交易型开放式指数证券投资基金",
+    "hold_num": 74374070,
+    "hold_ratio": 0.47,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 1029367,
+  "holder_num_change_pct": 0.51,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 17.33,
+  "northbound_ratio": 1.8,
+  "executives": [
+   {
+    "name": "其实",
+    "title": "董事长",
+    "pay": 4922200
+   },
+   {
+    "name": "黄建海",
+    "title": "总经理",
+    "pay": 3817500
+   },
+   {
+    "name": "杨浩",
+    "title": "董事会秘书",
+    "pay": 1823800
+   }
+  ],
+  "pledge_ratio_total": 0.03,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.08,
+    "total_amount": 880944169.6,
+    "payout_ratio": 10.3,
+    "dividend_yield": 0.31,
+    "ex_date": "2022-04-20"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.07,
+    "total_amount": 924991378.08,
+    "payout_ratio": 10.87,
+    "dividend_yield": 0.32,
+    "ex_date": "2023-04-18"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.04,
+    "total_amount": 631421699.0,
+    "payout_ratio": 7.71,
+    "dividend_yield": 0.32,
+    "ex_date": "2024-04-23"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.06,
+    "total_amount": 947132548.5,
+    "payout_ratio": 9.86,
+    "dividend_yield": 0.29,
+    "ex_date": "2025-04-16"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.1,
+    "total_amount": 1580403767.5,
+    "payout_ratio": 13.08,
+    "dividend_yield": 0.5,
+    "ex_date": "2026-04-21"
+   }
+  ],
+  "consecutive_years": 5,
+  "cum_dividend_5y": 4964893562.68,
+  "cum_netprofit_5y": 46950573898.24,
+  "payout_5y": 10.57,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [
+   "600030.SH",
+   "601211.SH",
+   "601066.SH",
+   "601688.SH"
+  ],
+  "segments": [
+   {
+    "name": "证券服务",
+    "revenue": 12535471036.46,
+    "ratio": 78.02,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "金融电子商务服务",
+    "revenue": 3182040383.7,
+    "ratio": 19.8,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "金融数据服务",
+    "revenue": 240327781.69,
+    "ratio": 1.5,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他",
+    "revenue": 109901837.66,
+    "ratio": 0.68,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "中国大陆",
+    "revenue": 15824704792.91,
+    "ratio": 98.49,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他地区",
+    "revenue": 243036246.6,
+    "ratio": 1.51,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "东方财富信息股份有限公司关于子公司东方财富证券股份有限公司2024年面向专业投资者公开发行公司债券（第四期）（品种一）本息兑付暨摘牌的公告",
+    "date": "2026-10-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607051.PDF",
+    "type": null
+   },
+   {
+    "title": "东方财富信息股份有限公司关于签署最高额保证合同的公告",
+    "date": "2026-09-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225579911.PDF",
+    "type": null
+   },
+   {
+    "title": "东方财富信息股份有限公司关于签署最高额保证合同的公告",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575206.PDF",
+    "type": null
+   },
+   {
+    "title": "东方财富信息股份有限公司关于完成工商变更登记的公告",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225520710.PDF",
+    "type": null
+   },
+   {
+    "title": "东方财富信息股份有限公司关于子公司东方财富证券股份有限公司2026年面向专业投资者公开发行公司债券（第四期）发行结果的公告",
+    "date": "2026-08-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225504789.PDF",
+    "type": null
+   },
+   {
+    "title": "东方财富证券股份有限公司2026年半年度财务报表",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225491775.PDF",
+    "type": null
+   },
+   {
+    "title": "东方财富信息股份有限公司关于子公司东方财富证券股份有限公司披露2026年半年度非合并财务报表的提示性公告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225491774.PDF",
+    "type": null
+   },
+   {
+    "title": "东方财富信息股份有限公司章程",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225491773.PDF",
+    "type": null
+   },
+   {
+    "title": "关于“质量回报双提升”行动方案的进展公告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225491772.PDF",
+    "type": null
+   },
+   {
+    "title": "东方财富信息股份有限公司第七届董事会第四次会议决议公告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225491771.PDF",
+    "type": null
+   },
+   {
+    "title": "东方财富信息股份有限公司2026年度半年度非经营性资金占用及其他关联资金往来情况汇总表",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225491770.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度报告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225491769.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度报告摘要",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225491768.PDF",
+    "type": null
+   },
+   {
+    "title": "东方财富信息股份有限公司关于子公司东方财富证券股份有限公司2025年度第九期短期融资券兑付完成的公告",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225486157.PDF",
+    "type": null
+   },
+   {
+    "title": "东方财富信息股份有限公司关于子公司东方财富证券股份有限公司2026年面向专业投资者公开发行次级债券（第三期）发行结果的公告",
+    "date": "2026-08-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-18/1225480877.PDF",
+    "type": null
+   },
+   {
+    "title": "东方财富信息股份有限公司关于子公司东方财富证券股份有限公司2026年度第八期短期融资券发行情况的公告",
+    "date": "2026-07-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-28/1225445438.PDF",
+    "type": null
+   },
+   {
+    "title": "东方财富信息股份有限公司关于子公司东方财富证券股份有限公司2026年面向专业投资者公开发行公司债券（第三期）发行结果的公告",
+    "date": "2026-07-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-24/1225441502.PDF",
+    "type": null
+   },
+   {
+    "title": "东方财富信息股份有限公司关于签署最高额保证合同的公告",
+    "date": "2026-07-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-13/1225422007.PDF",
+    "type": null
+   },
+   {
+    "title": "东方财富信息股份有限公司关于子公司东方财富证券股份有限公司2025年度第五期短期融资券兑付完成的公告",
+    "date": "2026-07-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-10/1225419959.PDF",
+    "type": null
+   },
+   {
+    "title": "东方财富信息股份有限公司关于子公司东方财富证券股份有限公司2026年面向专业投资者公开发行次级债券（第二期）发行结果的公告",
+    "date": "2026-07-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-10/1225419960.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 151
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "东方财富证券账户资金30万元以上可以按月赠送Choice金融终端试用期，目前已经没有这个权益了。该活动是东方财富证券有别于其他券商最突出的优势，可以提高用户黏性，为公司提供长期稳定的用户，还请公司考虑恢复该权益。",
+    "answer": null,
+    "ask_date": "2026-10-21",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2386369301091500032"
+   },
+   {
+    "question": "董秘您好，请问最新股东户数多少了？",
+    "answer": null,
+    "ask_date": "2026-10-19",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2384960740730994688"
+   },
+   {
+    "question": "公司分红率显著低于传统券商的主要原因是什么？是因为高投入，高成长吗？",
+    "answer": "尊敬的投资者，您好，公司高度重视股东回报，公司在制定分红方案时，综合考虑了业务发展、经营计划安排及长远可持续发展等情况。未来，公司将继续平衡股东利益与业务拓展需求，持续优化回报机制。感谢您对公司的关注！",
+    "ask_date": "2026-10-13",
+    "answer_date": "2026-10-16",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2380692960610725888"
+   },
+   {
+    "question": "董秘好，公司股价走势持续低迷，投资者损失惨重，这与公司在业界的形象背道而驰。请问公司将采取何种措施提振投资者信心，有无回购或者大股东、高管增持计划，谢谢！",
+    "answer": "尊敬的投资者，您好，二级市场股价受多方面因素影响，公司及管理层对未来经营及长远发展有坚定的信心。公司坚定聚焦主业，保持战略定力，充分把握资本市场高质量发展及新一轮科技革命的双重机遇，着力提升研发动力、产品实力、服务能力，以创新驱动引领企业高质量发展，稳步提升企业内在价值和股东回报。如有需要披露的信息，公司将严格遵照监管规定及时履行信息披露义务。感谢您对公司的关注。",
+    "ask_date": "2026-09-19",
+    "answer_date": "2026-09-29",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2362847783746293760"
+   },
+   {
+    "question": "董秘您好！公司 2026 年半年报净利润同比增长 44.85%，达 80.64 亿元，业绩创出历史新高。但截至 2026 年 9 月 17 日，公司股价近一年下跌 31.74%，2026 年内跌幅 21.62%。请问在业绩高速增长的背景下，股价持续下行，中小股东蒙受较大损失，公司管理层如何看待这一情况？请说明公司维护中小股东权益的具体举措与方案。",
+    "answer": "尊敬的投资者，您好，二级市场股价受多方面因素影响，公司及管理层对未来经营及长远发展有坚定的信心。公司坚持长期主义，以创新驱动引领企业高质量发展，稳步提升企业内在价值和股东回报，切实增强投资者获得感。感谢您对公司的关注！",
+    "ask_date": "2026-09-17",
+    "answer_date": "2026-09-24",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2361348986188877824"
+   },
+   {
+    "question": "请问目前东方财富的股东人数？",
+    "answer": "尊敬的投资者，您好，公司在定期报告中披露公司季度末、半年度末以及年度末的股东人数。感谢您对公司的关注。",
+    "ask_date": "2026-09-12",
+    "answer_date": "2026-09-18",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2357647214005997568"
+   },
+   {
+    "question": "东方财富作为头部券商，在当前轰轰烈烈的市场中，公司为什么没有做一些股票投资的业务呢？能不能给指点一二？",
+    "answer": "尊敬的投资者，您好，东方财富证券聚焦财富管理与资管业务，持续推进资管业务创新、丰富产品线建设，以大类资产配置为核心方向，持续完善产品矩阵，满足各类客户多元化的资产配置诉求。",
+    "ask_date": "2026-09-08",
+    "answer_date": "2026-09-11",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2354457616566767616"
+   },
+   {
+    "question": "作为互联网金融头部券商与其它头部券商距离越来越大。有没考虑过修复估值，稳定股价？？？？？",
+    "answer": "尊敬的投资者，您好，感谢您对公司的关注。",
+    "ask_date": "2026-09-07",
+    "answer_date": "2026-09-11",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2353772302995083264"
+   }
+  ],
+  "count_12m": null
+ }
+}

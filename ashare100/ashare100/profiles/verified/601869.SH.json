@@ -1,0 +1,587 @@
+{
+ "identity": {
+  "code": "601869",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "长飞光纤光缆股份有限公司",
+  "name_abbr": "长飞光纤",
+  "aliases": [
+   "cfgx"
+  ],
+  "name_en": "Yangtze Optical Fibre and Cable Joint Stock Limited Company",
+  "pinyin_abbr": "CFGX",
+  "former_names": [],
+  "industry_sw1": "通信",
+  "industry_sw2": "通信设备",
+  "list_date": "2018-07-20",
+  "province": "湖北",
+  "city": "武汉",
+  "website": "www.yofc.com",
+  "chairman": "马杰",
+  "employees": 10596,
+  "business_summary": "公司专注于通信行业,是全球领先的光纤预制棒、光纤、光缆以及数据通信相关产品的研发创新与生产制造企业",
+  "profile": "长飞光纤光缆股份有限公司(以下简称“长飞公司”,股票代码:601869.SH、06869.HK)是全球领先的光纤预制棒、光纤、光缆及综合解决方案提供商,主要生产和销售通信行业广泛采用的各种标准规格的光纤预制棒、光纤、光缆,基于客户需求的各类光模块、特种光纤、有源光缆、海缆,以及射频同轴电缆、配件等产品,公司拥有完备的集成系统、工程设计服务与解决方案,为世界通信行业及其他行业(包括公用事业、运输、石油化工、医疗等)提供各种光纤光缆产品及综合解决方案,为全球100多个国家和地区提供优质的产品与服务。30余载栉风沐雨,通过技术引进、消化、吸收与再创新,长飞公司实现了从行业追随者到行业领军者的完美蜕变,带动行业整体技术进步和产业发展。同时,长飞公司缔造资本市场新格局,2014年12月在香港上市,2018年7月在上海上市,成为中国光纤光缆行业唯一一家也是湖北省首家A+H两地挂牌上市的企业。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 321.4,
+  "change_pct": -8.38,
+  "total_mv": 266088701711.2,
+  "float_mv": 130597134119.6,
+  "total_shares": 827905108,
+  "float_shares": 406338314,
+  "pe_ttm": 77.29,
+  "pe_static": 327.0,
+  "pb": 16.26,
+  "ps_ttm": 15.05,
+  "turnover_rate": 2.73,
+  "amount": 3687518963.0,
+  "high_52w": 599.71,
+  "low_52w": 71.98,
+  "ytd_return": 176.91,
+  "return_1y": 252.05,
+  "return_3y": 939.36,
+  "dividend_yield": 0.09,
+  "index_members": []
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 9536075578.0,
+    "revenue_yoy": 15.99,
+    "net_profit": 708506406.0,
+    "net_profit_yoy": 30.32,
+    "net_profit_deducted": 310637324.0,
+    "gross_margin": 19.63,
+    "net_margin": 7.56,
+    "selling_expense_ratio": 2.83,
+    "admin_expense_ratio": 6.51,
+    "finance_expense_ratio": 1.29,
+    "rd_expense": 473161843.0,
+    "rd_ratio": 4.96,
+    "eps": 0.94,
+    "bvps": 12.91,
+    "roe": 7.52,
+    "roa": 4.08,
+    "total_assets": 19478649093.0,
+    "total_liab": 8893621576.0,
+    "debt_ratio": 45.66,
+    "cash": 2771270979.0,
+    "receivables": 4160711743.0,
+    "inventory": 2763022541.0,
+    "goodwill": 27145122.0,
+    "interest_debt": 4066182740.0,
+    "equity_parent": 9781997943.0,
+    "ocf": 526744742.0,
+    "capex": 1073595488.0,
+    "fcf": -546850746.0,
+    "ocf_to_np": 0.74
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 13830318400.0,
+    "revenue_yoy": 45.03,
+    "net_profit": 1166998457.0,
+    "net_profit_yoy": 64.71,
+    "net_profit_deducted": 982060097.0,
+    "gross_margin": 23.45,
+    "net_margin": 8.4,
+    "selling_expense_ratio": 2.99,
+    "admin_expense_ratio": 5.63,
+    "finance_expense_ratio": 0.6,
+    "rd_expense": 783889101.0,
+    "rd_ratio": 5.67,
+    "eps": 1.54,
+    "bvps": 13.38,
+    "roe": 11.84,
+    "roa": 4.87,
+    "total_assets": 28203306647.0,
+    "total_liab": 13666245433.0,
+    "debt_ratio": 48.46,
+    "cash": 4323893889.0,
+    "receivables": 5035236390.0,
+    "inventory": 3158718111.0,
+    "goodwill": 835888454.0,
+    "interest_debt": 6478971554.0,
+    "equity_parent": 10144245884.0,
+    "ocf": 1594503624.0,
+    "capex": 2228168780.0,
+    "fcf": -633665156.0,
+    "ocf_to_np": 1.37
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 13352753464.0,
+    "revenue_yoy": -3.45,
+    "net_profit": 1297437793.0,
+    "net_profit_yoy": 11.18,
+    "net_profit_deducted": 729972800.0,
+    "gross_margin": 24.5,
+    "net_margin": 8.81,
+    "selling_expense_ratio": 3.76,
+    "admin_expense_ratio": 7.85,
+    "finance_expense_ratio": 0.95,
+    "rd_expense": 774993271.0,
+    "rd_ratio": 5.8,
+    "eps": 1.71,
+    "bvps": 14.92,
+    "roe": 12.07,
+    "roa": 4.1,
+    "total_assets": 29142343893.0,
+    "total_liab": 14744846456.0,
+    "debt_ratio": 50.6,
+    "cash": 3895836574.0,
+    "receivables": 5197048639.0,
+    "inventory": 2941352651.0,
+    "goodwill": 896910942.0,
+    "interest_debt": 7927547185.0,
+    "equity_parent": 11307108305.0,
+    "ocf": 1514407175.0,
+    "capex": 2262690028.0,
+    "fcf": -748282853.0,
+    "ocf_to_np": 1.17
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 12197409931.0,
+    "revenue_yoy": -8.65,
+    "net_profit": 675878799.0,
+    "net_profit_yoy": -47.91,
+    "net_profit_deducted": 367212804.0,
+    "gross_margin": 27.3,
+    "net_margin": 4.77,
+    "selling_expense_ratio": 4.01,
+    "admin_expense_ratio": 8.55,
+    "finance_expense_ratio": 1.57,
+    "rd_expense": 787189282.0,
+    "rd_ratio": 6.45,
+    "eps": 0.89,
+    "bvps": 15.34,
+    "roe": 5.94,
+    "roa": 1.91,
+    "total_assets": 31726719925.0,
+    "total_liab": 16145428036.0,
+    "debt_ratio": 50.89,
+    "cash": 3292561410.0,
+    "receivables": 5261588627.0,
+    "inventory": 3175767390.0,
+    "goodwill": 931214501.0,
+    "interest_debt": 9450752508.0,
+    "equity_parent": 11628982141.0,
+    "ocf": 1783352440.0,
+    "capex": 1385798737.0,
+    "fcf": 397553703.0,
+    "ocf_to_np": 2.64
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 14252103033.0,
+    "revenue_yoy": 16.85,
+    "net_profit": 813737266.0,
+    "net_profit_yoy": 20.4,
+    "net_profit_deducted": 516163517.0,
+    "gross_margin": 30.73,
+    "net_margin": 6.19,
+    "selling_expense_ratio": 4.11,
+    "admin_expense_ratio": 8.17,
+    "finance_expense_ratio": 1.85,
+    "rd_expense": 894327738.0,
+    "rd_ratio": 6.28,
+    "eps": 1.07,
+    "bvps": 16.68,
+    "roe": 6.92,
+    "roa": 2.59,
+    "total_assets": 36362854687.0,
+    "total_liab": 18589862241.0,
+    "debt_ratio": 51.12,
+    "cash": 5763700058.0,
+    "receivables": 5950495217.0,
+    "inventory": 3153427347.0,
+    "goodwill": 952021634.0,
+    "interest_debt": 9173844979.0,
+    "equity_parent": 13805640154.0,
+    "ocf": 3652897527.0,
+    "capex": 1422249128.0,
+    "fcf": 2230648399.0,
+    "ocf_to_np": 4.49
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 9808962180.0,
+   "revenue_yoy": 53.64,
+   "net_profit": 2924540887.0,
+   "net_profit_yoy": 888.88,
+   "net_profit_deducted": 2449375580.0,
+   "gross_margin": 53.36,
+   "net_margin": 32.48,
+   "roe": 19.22,
+   "eps": 3.56,
+   "debt_ratio": 47.95,
+   "ocf": 1826119111.0
+  },
+  "derived": {
+   "revenue_cagr_3y": 1.01,
+   "net_profit_cagr_3y": -11.32,
+   "receivables_to_revenue": 41.75,
+   "goodwill_to_equity": 6.9
+  }
+ },
+ "shareholders": {
+  "controller": "无实际控制人",
+  "controlling_shareholder": "中国华信邮电科技有限公司",
+  "controlling_ratio": 21.72,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "香港中央结算(代理人)有限公司",
+    "hold_num": 421476183,
+    "hold_ratio": 50.91,
+    "hold_num_change": -6419
+   },
+   {
+    "rank": 2,
+    "name": "中国华信邮电科技有限公司",
+    "hold_num": 179827794,
+    "hold_ratio": 21.72,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "武汉长江通信产业集团股份有限公司",
+    "hold_num": 118417025,
+    "hold_ratio": 14.3,
+    "hold_num_change": -419985
+   },
+   {
+    "rank": 4,
+    "name": "Harvest International Premium Value (Secondary Market) Fund SPC on behalf of Harvest Great Bay Investment VII SP",
+    "hold_num": 27000000,
+    "hold_ratio": 3.26,
+    "hold_num_change": null
+   },
+   {
+    "rank": 5,
+    "name": "CPE Aspen Investment Limited",
+    "hold_num": 25000000,
+    "hold_ratio": 3.02,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "BlackRock,Inc.",
+    "hold_num": 23385819,
+    "hold_ratio": 2.82,
+    "hold_num_change": null
+   },
+   {
+    "rank": 7,
+    "name": "长飞光纤光缆股份有限公司-2025年员工持股计划",
+    "hold_num": 6000000,
+    "hold_ratio": 0.72,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "香港中央结算有限公司",
+    "hold_num": 5222926,
+    "hold_ratio": 0.63,
+    "hold_num_change": 532982
+   },
+   {
+    "rank": 9,
+    "name": "中国工商银行股份有限公司-富国创新科技混合型证券投资基金",
+    "hold_num": 2780205,
+    "hold_ratio": 0.34,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "中国工商银行股份有限公司-国泰中证全指通信设备交易型开放式指数证券投资基金",
+    "hold_num": 2296826,
+    "hold_ratio": 0.28,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 121520,
+  "holder_num_change_pct": 83.56,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 5.45,
+  "northbound_ratio": 0.63,
+  "executives": [
+   {
+    "name": "马杰",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "庄丹",
+    "title": "总经理",
+    "pay": 4355800.0
+   },
+   {
+    "name": "郑昕",
+    "title": "董事会秘书",
+    "pay": 2709100.0
+   }
+  ],
+  "pledge_ratio_total": 0.0,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.281,
+    "total_amount": 212971335.35,
+    "payout_ratio": 30.06,
+    "dividend_yield": 0.68,
+    "ex_date": "2022-08-19"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.462,
+    "total_amount": 350152159.9,
+    "payout_ratio": 30.0,
+    "dividend_yield": 1.44,
+    "ex_date": "2023-08-22"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.514,
+    "total_amount": 389563225.51,
+    "payout_ratio": 30.03,
+    "dividend_yield": 2.14,
+    "ex_date": "2024-08-16"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.268,
+    "total_amount": 203118568.94,
+    "payout_ratio": 30.05,
+    "dividend_yield": 0.41,
+    "ex_date": "2025-08-26"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.295,
+    "total_amount": 244232006.86,
+    "payout_ratio": 30.01,
+    "dividend_yield": 0.08,
+    "ex_date": "2026-08-21"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 1400037296.56,
+  "cum_netprofit_5y": 4662558721.0,
+  "payout_5y": 30.03,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [
+   "300308.SZ",
+   "300502.SZ",
+   "300394.SZ",
+   "000063.SZ"
+  ],
+  "segments": [
+   {
+    "name": "光传输产品",
+    "revenue": 8346356236.0,
+    "ratio": 58.56,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "光互联组件",
+    "revenue": 3143858396.0,
+    "ratio": 22.06,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他",
+    "revenue": 2496443983.0,
+    "ratio": 17.52,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 265444418.0,
+    "ratio": 1.86,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "中国大陆",
+    "revenue": 7952113636.0,
+    "ratio": 55.8,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他",
+    "revenue": 6034544979.0,
+    "ratio": 42.34,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 265444418.0,
+    "ratio": 1.86,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "长飞光纤光缆股份有限公司2026年半年度业绩说明会预告公告",
+    "date": "2026-09-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-19/1225571217.PDF",
+    "type": null
+   },
+   {
+    "title": "关于长飞光纤光缆股份有限公司2026年第一次临时股东会的法律意见书",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225559983.PDF",
+    "type": null
+   },
+   {
+    "title": "长飞光纤光缆股份有限公司2026年第二次临时股东会决议公告",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225559969.PDF",
+    "type": null
+   },
+   {
+    "title": "长飞光纤光缆股份有限公司2026年第二次临时股东会会议资料",
+    "date": "2026-08-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225494413.PDF",
+    "type": null
+   },
+   {
+    "title": "长飞光纤光缆股份有限公司关于召开2026年第二次临时股东会的通知",
+    "date": "2026-08-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225494406.PDF",
+    "type": null
+   },
+   {
+    "title": "长飞光纤光缆股份有限公司2026年H股股份奖励计划",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225493683.PDF",
+    "type": null
+   },
+   {
+    "title": "长飞光纤光缆股份有限公司2026年中期利润分配方案公告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225493661.PDF",
+    "type": null
+   },
+   {
+    "title": "长飞光纤光缆股份有限公司2026年半年度报告摘要",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225493491.PDF",
+    "type": null
+   },
+   {
+    "title": "长飞光纤光缆股份有限公司第五届董事会第二次会议决议公告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225493331.PDF",
+    "type": null
+   },
+   {
+    "title": "长飞光纤光缆股份有限公司2026年半年度报告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225493215.PDF",
+    "type": null
+   },
+   {
+    "title": "长飞光纤光缆股份有限公司2025年年度A股权益分派实施公告",
+    "date": "2026-08-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225473606.PDF",
+    "type": null
+   },
+   {
+    "title": "长飞光纤光缆股份有限公司关于股票交易异常波动的公告",
+    "date": "2026-08-07",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-07/1225461151.PDF",
+    "type": null
+   },
+   {
+    "title": "长飞光纤光缆股份有限公司关于子公司拟参与设立私募基金的公告",
+    "date": "2026-08-04",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-04/1225454860.PDF",
+    "type": null
+   },
+   {
+    "title": "长飞光纤光缆股份有限公司关于股票交易异常波动的公告",
+    "date": "2026-07-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-31/1225449442.PDF",
+    "type": null
+   },
+   {
+    "title": "长飞光纤光缆股份有限公司关于收购合营公司股权暨关联交易公告",
+    "date": "2026-07-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-31/1225449441.PDF",
+    "type": null
+   },
+   {
+    "title": "长飞光纤光缆股份有限公司2026年第一次临时股东会决议公告",
+    "date": "2026-07-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-31/1225449440.PDF",
+    "type": null
+   },
+   {
+    "title": "长飞光纤光缆股份有限公司第五届董事会第一次会议决议公告",
+    "date": "2026-07-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-31/1225449437.PDF",
+    "type": null
+   },
+   {
+    "title": "关于长飞光纤光缆股份有限公司2026年第一次临时股东会的法律意见书",
+    "date": "2026-07-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-31/1225449436.PDF",
+    "type": null
+   },
+   {
+    "title": "长飞光纤光缆股份有限公司关于提高日常关联交易额度的公告",
+    "date": "2026-07-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-31/1225449435.PDF",
+    "type": null
+   },
+   {
+    "title": "长飞光纤光缆股份有限公司2026年半年度业绩预增公告",
+    "date": "2026-07-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-15/1225423222.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 115
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "您好我是长飞光纤A股股东，想咨询公司2026三季报，是否会在正式报告前发布业绩预告？目前生产和光纤订单情况如何？",
+    "answer": null,
+    "ask_date": "2026-10-19",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=125388"
+   }
+  ],
+  "count_12m": null
+ }
+}

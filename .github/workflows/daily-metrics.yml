@@ -1,0 +1,98 @@
+name: Daily price metrics
+
+on:
+  schedule:
+    # UTC 07:40 = 北京时间工作日 15:40，在 15:00 收盘快照之后。
+    # GitHub 定时触发可能延迟；页面只在指标与快照同一交易日时采用。
+    - cron: "40 7 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+# 与动态榜共用并发组：两者都提交 web/live 并部署 Pages，不能同时进行
+concurrency:
+  group: update-live-universe
+  cancel-in-progress: false
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Recompute YTD / 1y / 3y / 52-week / dividend yield
+        run: |
+          for attempt in 1 2 3; do
+            if python scripts/build_daily_metrics.py; then
+              exit 0
+            fi
+            if [ "$attempt" -lt 3 ]; then sleep 120; fi
+          done
+          exit 1
+
+      - name: Validate site bundle
+        run: python scripts/validate_pages_bundle.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -z "$(git status --porcelain -- ashare100/ashare100/web/live/metrics ashare100/ashare100/web/live/status.json)" ]; then
+            echo "no change"
+          else
+            git add ashare100/ashare100/web/live/metrics ashare100/ashare100/web/live/status.json
+            git commit -m "data: daily price metrics $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git pull --rebase
+            git push
+          fi
+
+      # GITHUB_TOKEN 提交不会再次触发 push 工作流；直接发布本次构建结果。
+      - name: Upload site from this run
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: ashare100/ashare100/web
+
+  deploy:
+    needs: metrics
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy the validated site
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+  # 失败告警：任一步失败时开一个 data-alert issue；已有未关闭的同类 issue 则追加评论，避免刷屏
+  alert:
+    needs: [metrics, deploy]
+    if: failure()
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Open or update alert issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          title="数据更新失败：日更价格指标"
+          body="$(date -u +%Y-%m-%dT%H:%M:%SZ) 运行失败，页面保留上一版数据。日志：$RUN_URL"
+          gh label create data-alert --color B42318 --description "数据任务失败告警" 2>/dev/null || true
+          number=$(gh issue list --label data-alert --state open --search "in:title $title" --json number --jq '.[0].number')
+          if [ -n "$number" ]; then
+            gh issue comment "$number" --body "$body"
+          else
+            gh issue create --title "$title" --label data-alert --body "$body"
+          fi

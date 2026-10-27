@@ -1,0 +1,607 @@
+{
+ "identity": {
+  "code": "601919",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "中远海运控股股份有限公司",
+  "name_abbr": "中远海控",
+  "aliases": [
+   "zyhk"
+  ],
+  "name_en": "COSCO SHIPPING Holdings Co.,Ltd.",
+  "pinyin_abbr": "ZYHK",
+  "former_names": [
+   "中国远洋→*ST远洋→中国远洋"
+  ],
+  "industry_sw1": "交通运输",
+  "industry_sw2": "航运港口",
+  "list_date": "2007-06-26",
+  "province": "天津",
+  "city": "天津",
+  "website": "hold.coscoshipping.com",
+  "chairman": "万敏",
+  "employees": 32768,
+  "business_summary": "国内集装箱运输服务及相关业务以及从事集装箱和散杂货码头的装卸和堆存业务",
+  "profile": "中远海运控股股份有限公司(简称“中远海控”,原“中国远洋”)是中远海运集团航运及码头经营主业上市旗舰企业和资本平台。公司成立于2005年3月3日,2005年6月30日在香港联交所主板成功上市(股票编号:01919.HK),2007年6月26日在上海证券交易所成功上市(股票编号:601919)。公司注册地:天津空港经济区,法定代表人:万敏。中远海控目前定位于以集装箱航运为核心的全球数字化供应链运营和投资平台,是承担中远海运集团“加快打造世界一流航运科技企业”愿景目标的核心公司,致力为客户提供“集装箱航运+港口+相关物流服务”的全链路解决方案。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 16.25,
+  "change_pct": -2.29,
+  "total_mv": 247297776163.75,
+  "float_mv": 203234503663.75,
+  "total_shares": 15218324687,
+  "float_shares": 12506738687,
+  "pe_ttm": 9.24,
+  "pe_static": 8.01,
+  "pb": 1.06,
+  "ps_ttm": 1.11,
+  "turnover_rate": 0.69,
+  "amount": 1409300562.0,
+  "high_52w": 17.55,
+  "low_52w": 12.99,
+  "ytd_return": 10.24,
+  "return_1y": 15.82,
+  "return_3y": 159.17,
+  "dividend_yield": 6.15,
+  "index_members": [
+   "上证50",
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 333693943224.16,
+    "revenue_yoy": 94.85,
+    "net_profit": 89348947262.62,
+    "net_profit_yoy": 800.05,
+    "net_profit_deducted": 89270302819.16,
+    "gross_margin": 42.3,
+    "net_margin": 31.14,
+    "selling_expense_ratio": 0.02,
+    "admin_expense_ratio": 3.41,
+    "finance_expense_ratio": 0.92,
+    "rd_expense": 881225769.32,
+    "rd_ratio": 0.26,
+    "eps": 5.59,
+    "bvps": 8.31,
+    "roe": 100.57,
+    "roa": 30.28,
+    "total_assets": 414275122319.14,
+    "total_liab": 234815075875.7,
+    "debt_ratio": 56.68,
+    "cash": 178815752289.72,
+    "receivables": 11275182998.4,
+    "inventory": 5409245070.08,
+    "goodwill": 5638475393.9,
+    "interest_debt": 124340124840.76,
+    "equity_parent": 133693829778.47,
+    "ocf": 171008537026.07,
+    "capex": 9549916124.24,
+    "fcf": 161458620901.83,
+    "ocf_to_np": 1.91
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 391058496607.18,
+    "revenue_yoy": 17.19,
+    "net_profit": 109703028636.31,
+    "net_profit_yoy": 22.78,
+    "net_profit_deducted": 109133011996.68,
+    "gross_margin": 44.26,
+    "net_margin": 33.62,
+    "selling_expense_ratio": 0.02,
+    "admin_expense_ratio": 2.65,
+    "finance_expense_ratio": -1.15,
+    "rd_expense": 1386072431.19,
+    "rd_ratio": 0.35,
+    "eps": 6.83,
+    "bvps": 12.45,
+    "roe": 59.84,
+    "roa": 28.39,
+    "total_assets": 511930077251.13,
+    "total_liab": 258136983625.77,
+    "debt_ratio": 50.42,
+    "cash": 236876613424.69,
+    "receivables": 10500903563.94,
+    "inventory": 7017036782.85,
+    "goodwill": 6104494202.92,
+    "interest_debt": 93264162937.77,
+    "equity_parent": 200590667092.44,
+    "ocf": 196798805100.41,
+    "capex": 10491470473.97,
+    "fcf": 186307334626.44,
+    "ocf_to_np": 1.79
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 175452975431.13,
+    "revenue_yoy": -55.13,
+    "net_profit": 23860168952.59,
+    "net_profit_yoy": -78.25,
+    "net_profit_deducted": 23752171108.28,
+    "gross_margin": 16.36,
+    "net_margin": 16.18,
+    "selling_expense_ratio": 0.57,
+    "admin_expense_ratio": 3.51,
+    "finance_expense_ratio": -3.22,
+    "rd_expense": 1077536862.29,
+    "rd_ratio": 0.61,
+    "eps": 1.48,
+    "bvps": 12.2,
+    "roe": 11.8,
+    "roa": 5.83,
+    "total_assets": 462570619365.72,
+    "total_liab": 219219595398.8,
+    "debt_ratio": 47.39,
+    "cash": 182356136871.0,
+    "receivables": 6734565282.35,
+    "inventory": 6561355165.63,
+    "goodwill": 6358222956.5,
+    "interest_debt": 84381760870.68,
+    "equity_parent": 196115227226.87,
+    "ocf": 22583829373.5,
+    "capex": 15322622998.78,
+    "fcf": 7261206374.72,
+    "ocf_to_np": 0.95
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 233859078966.99,
+    "revenue_yoy": 33.29,
+    "net_profit": 49100495233.55,
+    "net_profit_yoy": 105.78,
+    "net_profit_deducted": 49017179110.85,
+    "gross_margin": 29.54,
+    "net_margin": 23.69,
+    "selling_expense_ratio": 0.42,
+    "admin_expense_ratio": 3.65,
+    "finance_expense_ratio": -1.6,
+    "rd_expense": 1020642597.43,
+    "rd_ratio": 0.44,
+    "eps": 3.08,
+    "bvps": 14.7,
+    "roe": 22.6,
+    "roa": 11.54,
+    "total_assets": 497472213736.26,
+    "total_liab": 212413437417.75,
+    "debt_ratio": 42.7,
+    "cash": 185062615962.84,
+    "receivables": 8758797272.44,
+    "inventory": 6332468560.86,
+    "goodwill": 6400679967.8,
+    "interest_debt": 75803442527.28,
+    "equity_parent": 234668062562.89,
+    "ocf": 69312919440.49,
+    "capex": 25999119089.02,
+    "fcf": 43313800351.47,
+    "ocf_to_np": 1.41
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 219503805222.7,
+    "revenue_yoy": -6.14,
+    "net_profit": 30868147821.38,
+    "net_profit_yoy": -37.13,
+    "net_profit_deducted": 30727290693.06,
+    "gross_margin": 20.05,
+    "net_margin": 16.05,
+    "selling_expense_ratio": 0.38,
+    "admin_expense_ratio": 3.76,
+    "finance_expense_ratio": -1.13,
+    "rd_expense": 1101229884.73,
+    "rd_ratio": 0.5,
+    "eps": 1.99,
+    "bvps": 14.99,
+    "roe": 13.17,
+    "roa": 7.18,
+    "total_assets": 483758023838.79,
+    "total_liab": 200351998919.29,
+    "debt_ratio": 41.42,
+    "cash": 151469711074.1,
+    "receivables": 8058718207.6,
+    "inventory": 6307605146.31,
+    "goodwill": 6359324388.11,
+    "interest_debt": 76159866410.84,
+    "equity_parent": 232265324350.62,
+    "ocf": 45545770431.23,
+    "capex": 25015551614.56,
+    "fcf": 20530218816.67,
+    "ocf_to_np": 1.48
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 111921747568.76,
+   "revenue_yoy": 2.59,
+   "net_profit": 13418920777.4,
+   "net_profit_yoy": -23.48,
+   "net_profit_deducted": 13386735443.83,
+   "gross_margin": 18.34,
+   "net_margin": 14.03,
+   "roe": 5.7,
+   "eps": 0.88,
+   "debt_ratio": 41.01,
+   "ocf": 23330225726.57
+  },
+  "derived": {
+   "revenue_cagr_3y": -17.51,
+   "net_profit_cagr_3y": -34.47,
+   "receivables_to_revenue": 3.67,
+   "goodwill_to_equity": 2.74
+  }
+ },
+ "shareholders": {
+  "controller": "国务院国有资产监督管理委员会",
+  "controlling_shareholder": "中国远洋海运集团有限公司",
+  "controlling_ratio": 21.71,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "中国远洋海运集团有限公司",
+    "hold_num": 3314809949,
+    "hold_ratio": 21.71,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "中国远洋运输有限公司",
+    "hold_num": 3314809948,
+    "hold_ratio": 21.71,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "HKSCC Nominees Limited",
+    "hold_num": 2702651809,
+    "hold_ratio": 17.7,
+    "hold_num_change": -45069870
+   },
+   {
+    "rank": 4,
+    "name": "上海汽车工业(集团)有限公司",
+    "hold_num": 804700000,
+    "hold_ratio": 5.27,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "香港中央结算有限公司",
+    "hold_num": 268178679,
+    "hold_ratio": 1.76,
+    "hold_num_change": -24897983
+   },
+   {
+    "rank": 6,
+    "name": "国新投资有限公司",
+    "hold_num": 230454271,
+    "hold_ratio": 1.51,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "国新宏盛投资(北京)有限公司",
+    "hold_num": 90176437,
+    "hold_ratio": 0.59,
+    "hold_num_change": 22563950
+   },
+   {
+    "rank": 8,
+    "name": "招商银行股份有限公司-上证红利交易型开放式指数证券投资基金",
+    "hold_num": 80936313,
+    "hold_ratio": 0.53,
+    "hold_num_change": 25421757
+   },
+   {
+    "rank": 9,
+    "name": "中国人寿保险(集团)公司-传统-普通保险产品-港股通(创新策略)",
+    "hold_num": 52432770,
+    "hold_ratio": 0.34,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "刘少鸾",
+    "hold_num": 45900000,
+    "hold_ratio": 0.3,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 430616,
+  "holder_num_change_pct": 8.36,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 6.65,
+  "northbound_ratio": 1.76,
+  "executives": [
+   {
+    "name": "万敏",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "陶卫东",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "肖俊光",
+    "title": "董事会秘书",
+    "pay": 2975800.0
+   }
+  ],
+  "pledge_ratio_total": 0.33,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.87,
+    "total_amount": 13933054572.72,
+    "payout_ratio": 15.59,
+    "dividend_yield": 5.8,
+    "ex_date": "2022-06-21"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 3.4,
+    "total_amount": 54826955812.11,
+    "payout_ratio": 49.98,
+    "dividend_yield": 14.39,
+    "ex_date": "2022-12-14"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.74,
+    "total_amount": 11867164423.79,
+    "payout_ratio": 49.74,
+    "dividend_yield": 3.78,
+    "ex_date": "2023-12-20"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 1.55,
+    "total_amount": 24254001043.57,
+    "payout_ratio": 49.4,
+    "dividend_yield": 5.37,
+    "ex_date": "2024-10-10"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 1.0,
+    "total_amount": 15392236758.44,
+    "payout_ratio": 49.86,
+    "dividend_yield": 3.49,
+    "ex_date": "2025-10-24"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 120273412610.63,
+  "cum_netprofit_5y": 302880787906.45,
+  "payout_5y": 39.71,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [
+   "601872.SH",
+   "600018.SH",
+   "600026.SH",
+   "601018.SH"
+  ],
+  "segments": [
+   {
+    "name": "集装箱航运业务",
+    "revenue": 210731494147.06,
+    "ratio": 96.0,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "码头业务",
+    "revenue": 12041307540.8,
+    "ratio": 5.49,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "抵销",
+    "revenue": -3268996465.16,
+    "ratio": -1.49,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "亚太地区",
+    "revenue": 56135292437.75,
+    "ratio": 25.57,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "美洲地区",
+    "revenue": 55627048574.46,
+    "ratio": 25.34,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "欧洲地区",
+    "revenue": 47169325880.5,
+    "ratio": 21.49,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他国际地区",
+    "revenue": 33398345217.48,
+    "ratio": 15.22,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "中国地区",
+    "revenue": 30442789577.67,
+    "ratio": 13.87,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "分部间抵销",
+    "revenue": -3268996465.16,
+    "ratio": -1.49,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "中远海控2026年中期权益分派实施公告",
+    "date": "2026-10-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225606711.PDF",
+    "type": null
+   },
+   {
+    "title": "中远海运控股股份有限公司股票期权激励计划2026年第三季度自主行权结果暨股份变动公告",
+    "date": "2026-10-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-10/1225599802.PDF",
+    "type": null
+   },
+   {
+    "title": "中远海控关于A股股份回购实施结果暨股份变动的公告",
+    "date": "2026-10-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225595352.PDF",
+    "type": null
+   },
+   {
+    "title": "中远海控H股公告—2026年9月证券变动月报表",
+    "date": "2026-10-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225595328.PDF",
+    "type": null
+   },
+   {
+    "title": "中远海控关于股票期权激励计划限制行权期间的提示性公告",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225574878.PDF",
+    "type": null
+   },
+   {
+    "title": "中远海控H股公告：翌日披露报表",
+    "date": "2026-09-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-17/1225567991.PDF",
+    "type": null
+   },
+   {
+    "title": "中远海控关于调整回购股份价格上限的公告",
+    "date": "2026-09-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-16/1225565641.PDF",
+    "type": null
+   },
+   {
+    "title": "中远海控H股公告—2026年8月证券变动月报表",
+    "date": "2026-09-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225544358.PDF",
+    "type": null
+   },
+   {
+    "title": "中远海控关于以集中竞价交易方式回购A股股份进展的公告",
+    "date": "2026-09-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225544236.PDF",
+    "type": null
+   },
+   {
+    "title": "中远海控2026年中期利润分配方案公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531154.PDF",
+    "type": null
+   },
+   {
+    "title": "中远海控关于召开2026年半年度业绩说明会的公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531144.PDF",
+    "type": null
+   },
+   {
+    "title": "中远海控关于公司全资子公司订造十二艘22,000TEU型集装箱船及六艘3,200TEU型集装箱船的自愿性公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531141.PDF",
+    "type": null
+   },
+   {
+    "title": "中运海运控股股份有限公司关于中远海运集团财务有限责任公司2026年半年度风险持续评估报告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531138.PDF",
+    "type": null
+   },
+   {
+    "title": "中远海控第八届董事会第三次会议决议公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531132.PDF",
+    "type": null
+   },
+   {
+    "title": "中远海控关于2026年度“提质增效重回报”2.0行动方案",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531131.PDF",
+    "type": null
+   },
+   {
+    "title": "中远海控2026年半年度报告摘要",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531126.PDF",
+    "type": null
+   },
+   {
+    "title": "中远海控日常关联交易公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531121.PDF",
+    "type": null
+   },
+   {
+    "title": "中远海控2026年半年度报告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531118.PDF",
+    "type": null
+   },
+   {
+    "title": "中远海控H股公告：翌日披露报表",
+    "date": "2026-08-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225474383.PDF",
+    "type": null
+   },
+   {
+    "title": "中远海控H股公告：翌日披露报表",
+    "date": "2026-08-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-14/1225471940.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 189
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "您好。上半年 CCFI 均值约 1,249 点，同比微降 0.26%，第二季度单季回升至约 1,350 点、环比上涨约16.2%， Q2 归母净利 75.42 亿元、环比增长 28.3%，毛利率由 Q1 回升至 19.29%。请问管理层：公司对下半年 CCFI/SCFI 走势有无定量指引？Q2 改善来自欧美传统旺季补库的季节性因素，还是红海绕行常态化实质性改善？进入 Q4后运价回落的幅度预计多大？",
+    "answer": "您好！集装箱航运市场运价受全球经贸政策、地缘政治、供需关系等多重因素交织影响，具有高度不确定性。公司第二季度归母净利润环比增长的主要原因是：公司旗下集装箱航运业务货量及单箱收入均实现明显增长的同时，单箱成本得到较好控制；旗下控股码头业务吞吐量及收入亦实现双增长。 展望四季度，全球集装箱航运市场的复杂性和不确定性将进一步加剧。公司将继续围绕“以集装箱航运为核心的全球数字化供应链运营和投资平台”定位，以自身发展的确定性灵活应对市场变局，不断增强主业核心竞争力和成本精益化管控能力，致力为股东持续创造价值。谢谢关注！",
+    "ask_date": "2026-09-22",
+    "answer_date": "2026-10-12",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1919"
+   }
+  ],
+  "count_12m": null
+ }
+}

@@ -1,0 +1,647 @@
+{
+ "identity": {
+  "code": "601166",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "兴业银行股份有限公司",
+  "name_abbr": "兴业银行",
+  "aliases": [
+   "xyyh"
+  ],
+  "name_en": "Industrial Bank Co.,Ltd.",
+  "pinyin_abbr": "XYYH",
+  "former_names": [],
+  "industry_sw1": "银行",
+  "industry_sw2": "股份制银行Ⅱ",
+  "list_date": "2007-02-05",
+  "province": "福建",
+  "city": "福州",
+  "website": "www.cib.com.cn",
+  "chairman": "吕家进",
+  "employees": 68963,
+  "business_summary": "企业金融业务,零售金融业务,同业和金融市场业务,金融科技",
+  "profile": "兴业银行股份有限公司(简称\"兴业银行\")1988年诞生于中国改革开放前沿--福建省福州市,2007年在上海证券交易所挂牌上市,目前已发展成为以银行为主体,涵盖信托、基金、期货、金融租赁、银行理财、消费金融、资产管理、金融资产投资等在内的现代综合金融服务集团,兴业银行因改革而生、因创新而兴,坚定不移沿着习近平总书记在福建工作期间为兴业银行擘画的发展蓝图,传承弘扬\"从严治行、专家办行、科技兴行\"基本方略,锚定\"服务能力突出、经营与管理特色突出、市场与品牌形象突出\"的发展目标,把根扎在八闽大地、把枝叶伸向全国全球,实现了区域银行、全国银行、上市银行、现代综合金融服务集团的多级跨越。\"十四五\"以来,面对复杂多变的国内外形势,兴业银行主动适变应变,坚持化\"国之大者\"为\"行之要务\",坚持深化改革创新,坚持特色化、差异化经营,将金融\"五篇大文章\"与擦亮绿色银行、财富银行、投资银行\"三张名片\",布局科技、普惠、能源、汽车、园区\"五大新赛道\"融合推进,积极打造有兴业特色的价值银行,在服务中国式现代化建设中推进高质量发展。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 18.49,
+  "change_pct": 0.82,
+  "total_mv": 391301367655.85,
+  "float_mv": 391301367655.85,
+  "total_shares": 21162864665,
+  "float_shares": 21162864665,
+  "pe_ttm": 5.19,
+  "pe_static": 5.05,
+  "pb": 0.47,
+  "ps_ttm": 1.84,
+  "turnover_rate": 0.65,
+  "amount": 2536604780.0,
+  "high_52w": 20.83,
+  "low_52w": 16.44,
+  "ytd_return": -7.52,
+  "return_1y": -4.37,
+  "return_3y": 46.47,
+  "dividend_yield": 5.77,
+  "index_members": [
+   "上证50",
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 221236000000.0,
+    "revenue_yoy": 8.91,
+    "net_profit": 82680000000.0,
+    "net_profit_yoy": 24.1,
+    "net_profit_deducted": 82206000000.0,
+    "gross_margin": null,
+    "net_margin": 37.89,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 3.77,
+    "bvps": 28.8,
+    "roe": 13.94,
+    "roa": 1.02,
+    "total_assets": 8603024000000.0,
+    "total_liab": 7908726000000.0,
+    "debt_ratio": 91.93,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 532000000.0,
+    "interest_debt": null,
+    "equity_parent": 684111000000.0,
+    "ocf": -389771000000.0,
+    "capex": 5624000000.0,
+    "fcf": -395395000000.0,
+    "ocf_to_np": -4.71
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 222374000000.0,
+    "revenue_yoy": 0.51,
+    "net_profit": 91377000000.0,
+    "net_profit_yoy": 10.52,
+    "net_profit_deducted": 90996000000.0,
+    "gross_margin": null,
+    "net_margin": 41.56,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 4.2,
+    "bvps": 31.79,
+    "roe": 13.85,
+    "roa": 1.03,
+    "total_assets": 9266671000000.0,
+    "total_liab": 8509373000000.0,
+    "debt_ratio": 91.83,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 532000000.0,
+    "interest_debt": null,
+    "equity_parent": 746187000000.0,
+    "ocf": -344587000000.0,
+    "capex": 5916000000.0,
+    "fcf": -350503000000.0,
+    "ocf_to_np": -3.77
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 210831000000.0,
+    "revenue_yoy": -5.19,
+    "net_profit": 77116000000.0,
+    "net_profit_yoy": -15.61,
+    "net_profit_deducted": 76523000000.0,
+    "gross_margin": null,
+    "net_margin": 36.83,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 3.51,
+    "bvps": 34.2,
+    "roe": 10.64,
+    "roa": 0.8,
+    "total_assets": 10158326000000.0,
+    "total_liab": 9350607000000.0,
+    "debt_ratio": 92.05,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 532000000.0,
+    "interest_debt": null,
+    "equity_parent": 796224000000.0,
+    "ocf": 433617000000.0,
+    "capex": 4907000000.0,
+    "fcf": 428710000000.0,
+    "ocf_to_np": 5.62
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 212226000000.0,
+    "revenue_yoy": 0.66,
+    "net_profit": 77205000000.0,
+    "net_profit_yoy": 0.12,
+    "net_profit_deducted": 76772000000.0,
+    "gross_margin": null,
+    "net_margin": 36.51,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 3.51,
+    "bvps": 36.88,
+    "roe": 9.89,
+    "roa": 0.75,
+    "total_assets": 10507898000000.0,
+    "total_liab": 9614287000000.0,
+    "debt_ratio": 91.5,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 532000000.0,
+    "interest_debt": null,
+    "equity_parent": 881908000000.0,
+    "ocf": -237258000000.0,
+    "capex": 5126000000.0,
+    "fcf": -242384000000.0,
+    "ocf_to_np": -3.07
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 212741000000.0,
+    "revenue_yoy": 0.24,
+    "net_profit": 77469000000.0,
+    "net_profit_yoy": 0.34,
+    "net_profit_deducted": 77064000000.0,
+    "gross_margin": null,
+    "net_margin": 36.6,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 3.46,
+    "bvps": 38.83,
+    "roe": 9.15,
+    "roa": 0.72,
+    "total_assets": 11094256000000.0,
+    "total_liab": 10180610000000.0,
+    "debt_ratio": 91.76,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 532000000.0,
+    "interest_debt": null,
+    "equity_parent": 901716000000.0,
+    "ocf": 653656000000.0,
+    "capex": 13455000000.0,
+    "fcf": 640201000000.0,
+    "ocf_to_np": 8.44
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 110177000000.0,
+   "revenue_yoy": -0.25,
+   "net_profit": 41131000000.0,
+   "net_profit_yoy": -4.66,
+   "net_profit_deducted": 40780000000.0,
+   "gross_margin": null,
+   "net_margin": 37.5,
+   "roe": 4.79,
+   "eps": 1.88,
+   "debt_ratio": 91.62,
+   "ocf": -7309000000.0
+  },
+  "derived": {
+   "revenue_cagr_3y": -1.47,
+   "net_profit_cagr_3y": -5.36,
+   "receivables_to_revenue": null,
+   "goodwill_to_equity": 0.06
+  }
+ },
+ "shareholders": {
+  "controller": "无实际控制人",
+  "controlling_shareholder": "福建省金融投资有限责任公司",
+  "controlling_ratio": 16.59,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "福建省金融投资有限责任公司",
+    "hold_num": 3511918625,
+    "hold_ratio": 16.59,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "中国烟草总公司",
+    "hold_num": 1110226200,
+    "hold_ratio": 5.25,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "中国人民财产保险股份有限公司-传统-普通保险产品-008C-CT001沪",
+    "hold_num": 948000000,
+    "hold_ratio": 4.48,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "福建省财政厅",
+    "hold_num": 841742201,
+    "hold_ratio": 3.98,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "中国人民人寿保险股份有限公司-分红-个险分红",
+    "hold_num": 801639977,
+    "hold_ratio": 3.79,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "大家人寿保险股份有限公司-传统产品",
+    "hold_num": 728048721,
+    "hold_ratio": 3.44,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "福建省投资开发集团有限责任公司",
+    "hold_num": 610692549,
+    "hold_ratio": 2.89,
+    "hold_num_change": 5350004
+   },
+   {
+    "rank": 8,
+    "name": "中国烟草总公司福建省公司",
+    "hold_num": 573954303,
+    "hold_ratio": 2.71,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "瑞众人寿保险有限责任公司-自有资金",
+    "hold_num": 569179245,
+    "hold_ratio": 2.69,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 10,
+    "name": "香港中央结算有限公司",
+    "hold_num": 492760377,
+    "hold_ratio": 2.33,
+    "hold_num_change": -41222833
+   }
+  ],
+  "holder_num": 329584,
+  "holder_num_change_pct": 17.78,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 20.26,
+  "northbound_ratio": 2.33,
+  "executives": [
+   {
+    "name": "吕家进",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "陈信健",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "夏维淳",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.51,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 1.035,
+    "total_amount": 21501287427.28,
+    "payout_ratio": 26.01,
+    "dividend_yield": 5.0,
+    "ex_date": "2022-06-16"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 1.188,
+    "total_amount": 24679840986.9,
+    "payout_ratio": 27.01,
+    "dividend_yield": 6.99,
+    "ex_date": "2023-06-19"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 1.04,
+    "total_amount": 21605272307.84,
+    "payout_ratio": 28.02,
+    "dividend_yield": 6.02,
+    "ex_date": "2024-07-09"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 1.06,
+    "total_amount": 22432602091.72,
+    "payout_ratio": 29.06,
+    "dividend_yield": 4.45,
+    "ex_date": "2025-06-20"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 1.066,
+    "total_amount": 22559606154.99,
+    "payout_ratio": 29.12,
+    "dividend_yield": 2.8,
+    "ex_date": "2026-02-06"
+   }
+  ],
+  "consecutive_years": 5,
+  "cum_dividend_5y": 112778608968.73,
+  "cum_netprofit_5y": 405847000000.0,
+  "payout_5y": 27.79,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "600036.SH",
+   "601998.SH",
+   "600000.SH",
+   "000001.SZ"
+  ],
+  "segments": [
+   {
+    "name": "总行",
+    "revenue": 72758000000.0,
+    "ratio": 34.2,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "长三角地区",
+    "revenue": 33090000000.0,
+    "ratio": 15.55,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "珠三角及海西地区",
+    "revenue": 24363000000.0,
+    "ratio": 11.45,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "环渤海地区",
+    "revenue": 20734000000.0,
+    "ratio": 9.75,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "附属机构",
+    "revenue": 20170000000.0,
+    "ratio": 9.48,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "中部地区",
+    "revenue": 17100000000.0,
+    "ratio": 8.04,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "西部地区",
+    "revenue": 16989000000.0,
+    "ratio": 7.99,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "兴业银行关于选举产生第十一届董事会职工董事的公告",
+    "date": "2026-10-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-12/1225600381.PDF",
+    "type": null
+   },
+   {
+    "title": "兴业银行关于可转债转股结果暨股份变动的公告",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597389.PDF",
+    "type": null
+   },
+   {
+    "title": "兴业银行第十一届董事会第十六次会议决议公告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225518766.PDF",
+    "type": null
+   },
+   {
+    "title": "兴业银行2026年中期审阅报告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225518128.PDF",
+    "type": null
+   },
+   {
+    "title": "兴业银行股份有限公司投资者关系管理办法",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225518048.PDF",
+    "type": null
+   },
+   {
+    "title": "兴业银行2026年半年度报告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225518025.PDF",
+    "type": null
+   },
+   {
+    "title": "兴业银行2026年半年度报告摘要",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225518007.PDF",
+    "type": null
+   },
+   {
+    "title": "兴业银行关于2026年第一期绿色金融债券发行情况的公告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225491159.PDF",
+    "type": null
+   },
+   {
+    "title": "兴业银行关于召开2026年半年度业绩说明会的公告",
+    "date": "2026-08-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-21/1225484247.PDF",
+    "type": null
+   },
+   {
+    "title": "兴业银行关于2026年第一期小型微型企业贷款专项金融债券发行情况的公告",
+    "date": "2026-08-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-01/1225451449.PDF",
+    "type": null
+   },
+   {
+    "title": "兴业银行关于副行长辞任的公告",
+    "date": "2026-07-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-11/1225418788.PDF",
+    "type": null
+   },
+   {
+    "title": "兴业银行关于可转债转股结果暨股份变动的公告",
+    "date": "2026-07-02",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-02/1225402844.PDF",
+    "type": null
+   },
+   {
+    "title": "兴业银行第十一届董事会第十五次会议决议公告",
+    "date": "2026-07-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-01/1225402720.PDF",
+    "type": null
+   },
+   {
+    "title": "兴业银行股份有限公司董事会秘书工作规则",
+    "date": "2026-07-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-01/1225400420.PDF",
+    "type": null
+   },
+   {
+    "title": "兴业银行股份有限公司股权管理暂行办法",
+    "date": "2026-07-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-01/1225400417.PDF",
+    "type": null
+   },
+   {
+    "title": "兴业银行股份有限公司信息披露管理办法",
+    "date": "2026-07-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-01/1225400415.PDF",
+    "type": null
+   },
+   {
+    "title": "兴业银行股份有限公司公开发行A股可转换公司债券受托管理事务报告（2025年度）",
+    "date": "2026-06-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-18/1225375059.PDF",
+    "type": null
+   },
+   {
+    "title": "兴业银行关于根据2025年度利润分配方案调整A股可转换公司债券转股价格的公告",
+    "date": "2026-06-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-08/1225356354.PDF",
+    "type": null
+   },
+   {
+    "title": "兴业银行2025年年度A股权益分派实施公告",
+    "date": "2026-06-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-08/1225356324.PDF",
+    "type": null
+   },
+   {
+    "title": "兴业银行关于2026年第二期二级资本债券发行情况的公告",
+    "date": "2026-06-06",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-06/1225355093.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 81
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "董秘，您好： 近期，许多家上市银行的中期分红都已经实施。建议公司也尽快公布分红方案并尽快实施中期现金分红。中期分红可以向市场传递经营稳健的信号，稳定投资者预期，便于投资者进行红利再投资，增强长期持股意愿。 同时，向市场传递市值管理当前进展以及接下来市值管理重点方向。业绩说明会多次提及要抓市值管理，为什么管理层不带头增持股票以振投资者的信心呢？ 烦请将广大小股东的建议和诉求提交董事会研究，期待回复。",
+    "answer": "尊敬的投资者，您好！感谢您的建议。今年5月，我行股东会已经审议批准中期分红计划，确定将继续实施中期分红，并授权董事会按照不高于归属于普通股股东的净利润三分之一的比例决定2026年度中期分红方案。我行将综合考虑经营管理、资本监管要求、股东回报等因素，推进实施中期分红。如有最新进展，我行将第一时间向市场公告。谢谢！",
+    "ask_date": "2026-09-21",
+    "answer_date": "2026-09-28",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1166"
+   },
+   {
+    "question": "何时中期分红",
+    "answer": "尊敬的投资者，您好！今年5月，我行股东会已经审议批准中期分红计划，确定将继续实施中期分红，并授权董事会按照不高于归属于普通股股东的净利润三分之一的比例决定2026年度中期分红方案。我行将综合考虑经营管理、资本监管要求、股东回报等因素，推进实施中期分红。如有最新进展，我行将第一时间向市场公告。谢谢！",
+    "ask_date": "2026-09-21",
+    "answer_date": "2026-09-28",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1166"
+   },
+   {
+    "question": "敬的董事会秘书您好！作为兴业银行的小股东，我高度认可公司的长期价值。当前公司股价严重低估，为向市场传递经营稳健信号并稳定投资者预期，建议公司将2026年半年度分红提前实施，避免拖延至年底。 多家上市银行已确定或实施中期分红方案。希望兴业能紧跟同行步伐，尽快公布并落地中期现金分红。此举不仅能增强股东长期持股意愿，还能为投资者提供红利再投资的机会，从而有效维护公司股价，实现公司与股东的共赢。期待回复！",
+    "answer": "尊敬的投资者，您好！感谢您的建议。今年5月，我行股东会已经审议批准中期分红计划，确定将继续实施中期分红，并授权董事会按照不高于归属于普通股股东的净利润三分之一的比例决定2026年度中期分红方案。我行将综合考虑经营管理、资本监管要求、股东回报等因素，推进实施中期分红。如有最新进展，我行将第一时间向市场公告。谢谢！",
+    "ask_date": "2026-09-18",
+    "answer_date": "2026-09-28",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1166"
+   },
+   {
+    "question": "尊敬的兴业银行董事会秘书： 我是公司小股东，许多家上市银行的中期分红都已经实施,请公司尽快公布分红方案并实施中期现金分红。向市场传递经营稳健信号，稳定投资者预期。 请将广大小股东的建议和诉求提交董事会研究，谢谢！",
+    "answer": "尊敬的投资者，您好！感谢您的建议。今年5月，我行股东会已经审议批准中期分红计划，确定将继续实施中期分红，并授权董事会按照不高于归属于普通股股东的净利润三分之一的比例决定2026年度中期分红方案。我行将综合考虑经营管理、资本监管要求、股东回报等因素，推进实施中期分红。如有最新进展，我行将第一时间向市场公告。谢谢！",
+    "ask_date": "2026-09-18",
+    "answer_date": "2026-09-28",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1166"
+   },
+   {
+    "question": "尊敬的董事会秘书您好！作为兴业银行的小股东，我高度认可公司的长期价值。当前公司股价严重低估，为向市场传递经营稳健信号并稳定投资者预期，建议公司将2026年半年度分红提前实施，避免拖延至年底。 多家上市银行已确定或实施中期分红方案。希望兴业能紧跟同行步伐，尽快公布并落地中期现金分红。此举不仅能增强股东长期持股意愿，还能为投资者提供红利再投资的机会，从而有效维护公司股价，实现公司与股东的共赢。期待回复！",
+    "answer": "尊敬的投资者，您好！感谢您的建议。今年5月，我行股东会已经审议批准中期分红计划，确定将继续实施中期分红，并授权董事会按照不高于归属于普通股股东的净利润三分之一的比例决定2026年度中期分红方案。我行将综合考虑经营管理、资本监管要求、股东回报等因素，推进实施中期分红。如有最新进展，我行将第一时间向市场公告。谢谢！",
+    "ask_date": "2026-09-18",
+    "answer_date": "2026-09-28",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1166"
+   },
+   {
+    "question": "尊敬的兴业银行董事会秘书： 我是公司小股东。一直看好兴业银行的资产禀赋与长期价值，也高度认可公司多年来稳步提升分红率、重视股东回报的经营理念。 近期，许多家上市银行的中期分红都已经实施。建议公司也尽快公布分红方案并尽快实施中期现金分红。中期分红可以向市场传递经营稳健的信号，稳定投资者预期，便于投资者进行红利再投资，增强长期持股意愿。 烦请将广大小股东的建议和诉求提交董事会研究，期待您的回复。",
+    "answer": "尊敬的投资者，您好！感谢您的建议。今年5月，我行股东会已经审议批准中期分红计划，确定将继续实施中期分红，并授权董事会按照不高于归属于普通股股东的净利润三分之一的比例决定2026年度中期分红方案。我行将综合考虑经营管理、资本监管要求、股东回报等因素，推进实施中期分红。如有最新进展，我行将第一时间向市场公告。谢谢！",
+    "ask_date": "2026-09-18",
+    "answer_date": "2026-09-28",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1166"
+   },
+   {
+    "question": "尊敬的兴业银行董事会秘书： 我是公司小股东。一直看好兴业银行的资产禀赋与长期价值，也认可公司多年来稳步提升分红率、重视股东回报的经营理念。 最近许多家上市银行的中期分红都已经实施。建议公司也尽快公布分红方案并尽快实施中期现金分红。中期分红可以向市场传递经营稳健的信号，稳定投资者预期，便于投资者进行红利再投资，增强长期持股意愿。 烦请将广大小股东的建议和诉求提交董事会研究，期待回复。",
+    "answer": "尊敬的投资者，您好！感谢您的建议。今年5月，我行股东会已经审议批准中期分红计划，确定将继续实施中期分红，并授权董事会按照不高于归属于普通股股东的净利润三分之一的比例决定2026年度中期分红方案。我行将综合考虑经营管理、资本监管要求、股东回报等因素，推进实施中期分红。如有最新进展，我行将第一时间向市场公告。谢谢！",
+    "ask_date": "2026-09-18",
+    "answer_date": "2026-09-28",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1166"
+   },
+   {
+    "question": "尊敬的兴业银行董事会秘书：我是贵公司小股东。一直看好兴业银行的资产禀赋与长期价值，也高度认可公司多年来稳步提升分红率、重视股东回报的经营理念。 近期，许多家上市银行的中期分红都已经实施(贵公司业绩一般、分红方案拖延，属于是鸡立鹤群，不随大流)。建议公司尽快公布分红方案并尽快实施中期现金分红。",
+    "answer": "尊敬的投资者，您好！感谢您的建议。今年5月，我行股东会已经审议批准中期分红计划，确定将继续实施中期分红，并授权董事会按照不高于归属于普通股股东的净利润三分之一的比例决定2026年度中期分红方案。我行将综合考虑经营管理、资本监管要求、股东回报等因素，推进实施中期分红。如有最新进展，我行将第一时间向市场公告。谢谢！",
+    "ask_date": "2026-09-18",
+    "answer_date": "2026-09-28",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1166"
+   }
+  ],
+  "count_12m": null
+ }
+}

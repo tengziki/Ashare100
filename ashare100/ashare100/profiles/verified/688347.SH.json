@@ -1,0 +1,618 @@
+{
+ "identity": {
+  "code": "688347",
+  "exchange": "SH",
+  "board": "科创板",
+  "name_full": "华虹宏力半导体有限公司",
+  "name_abbr": "华虹宏力",
+  "aliases": [
+   "hhhl"
+  ],
+  "name_en": "Hua Hong Grace Semiconductor Limited",
+  "pinyin_abbr": "HHHL",
+  "former_names": [
+   "华虹公司"
+  ],
+  "industry_sw1": "电子",
+  "industry_sw2": "半导体",
+  "list_date": "2023-08-07",
+  "province": "香港",
+  "city": "香港",
+  "website": "www.huahonggrace.com",
+  "chairman": "白鹏",
+  "employees": 7628,
+  "business_summary": "华虹半导体是全球领先的特色工艺晶圆代工企业,也是行业内特色工艺平台覆盖最全面的晶圆代工企业",
+  "profile": "华虹宏力半导体有限公司是全球领先的特色工艺纯晶圆代工企业,秉持“8英寸+12英寸”、先进“特色IC+PowerDiscrete”的发展战略,为客户提供多元化的晶圆代工及配套服务。本公司专注于嵌入式/独立式非易失性存储器、功率器件、模拟与电源管理和逻辑与射频等特色工艺技术的持续创新,有力支持新能源汽车、绿色能源、物联网等新兴领域应用,其卓越的质量管理体系亦满足汽车电子芯片生产的严苛要求。本公司是华虹集团的一员,而华虹集团是中国拥有“8英寸+12英寸”先进集成电路制造主流工艺技术的产业集团。本公司在上海金桥和张江建有三座8英寸晶圆厂,另在无锡高新技术产业开发区内建有两座全球领先的12英寸特色工艺晶圆厂,其中之一是全球第一条12英寸功率器件代工生产线。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 163.89,
+  "change_pct": -3.44,
+  "total_mv": 316061011788.66,
+  "float_mv": 66826147500.0,
+  "total_shares": 1928494794,
+  "float_shares": 407750000,
+  "pe_ttm": 450.78,
+  "pe_static": 839.22,
+  "pb": 6.68,
+  "ps_ttm": 16.77,
+  "turnover_rate": 2.94,
+  "amount": 1990961738.0,
+  "high_52w": 413.13,
+  "low_52w": 97.04,
+  "ytd_return": 51.93,
+  "return_1y": 43.01,
+  "return_3y": 259.8,
+  "dividend_yield": 0.0,
+  "index_members": [
+   "中证A500",
+   "科创50"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 10629677535.99,
+    "revenue_yoy": 57.78,
+    "net_profit": 1659997402.42,
+    "net_profit_yoy": 228.41,
+    "net_profit_deducted": 1083222860.1,
+    "gross_margin": 28.09,
+    "net_margin": 13.76,
+    "selling_expense_ratio": 0.65,
+    "admin_expense_ratio": 5.88,
+    "finance_expense_ratio": -1.42,
+    "rd_expense": 516421382.8,
+    "rd_ratio": 4.86,
+    "eps": 1.28,
+    "bvps": 13.14,
+    "roe": 10.27,
+    "roa": 4.37,
+    "total_assets": 38337909658.33,
+    "total_liab": 16065249984.55,
+    "debt_ratio": 41.9,
+    "cash": 10362748421.83,
+    "receivables": 976635262.47,
+    "inventory": 3474037060.23,
+    "goodwill": null,
+    "interest_debt": 10261038243.79,
+    "equity_parent": 17081376645.04,
+    "ocf": 3905485050.1,
+    "capex": 6048440226.77,
+    "fcf": -2142955176.67,
+    "ocf_to_np": 2.35
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 16785718004.9,
+    "revenue_yoy": 57.91,
+    "net_profit": 3008612623.47,
+    "net_profit_yoy": 81.24,
+    "net_profit_deducted": 2570341094.34,
+    "gross_margin": 35.86,
+    "net_margin": 16.24,
+    "selling_expense_ratio": 0.5,
+    "admin_expense_ratio": 4.08,
+    "finance_expense_ratio": 4.83,
+    "rd_expense": 1076671769.89,
+    "rd_ratio": 6.41,
+    "eps": 2.31,
+    "bvps": 15.23,
+    "roe": 16.3,
+    "roa": 6.32,
+    "total_assets": 47876614340.83,
+    "total_liab": 20335979751.7,
+    "debt_ratio": 42.48,
+    "cash": 14067363512.96,
+    "receivables": 1600593737.98,
+    "inventory": 4964248677.08,
+    "goodwill": null,
+    "interest_debt": 13425549917.11,
+    "equity_parent": 19844793693.32,
+    "ocf": 5524293421.02,
+    "capex": 6729785056.12,
+    "fcf": -1205491635.1,
+    "ocf_to_np": 1.84
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 16231874037.72,
+    "revenue_yoy": -3.3,
+    "net_profit": 1936230415.48,
+    "net_profit_yoy": -35.64,
+    "net_profit_deducted": 1614028155.76,
+    "gross_margin": 27.1,
+    "net_margin": 5.22,
+    "selling_expense_ratio": 0.44,
+    "admin_expense_ratio": 4.79,
+    "finance_expense_ratio": 3.14,
+    "rd_expense": 1458534049.83,
+    "rd_ratio": 8.99,
+    "eps": 1.31,
+    "bvps": 25.26,
+    "roe": 6.49,
+    "roa": 1.37,
+    "total_assets": 76226351074.4,
+    "total_liab": 20735545554.93,
+    "debt_ratio": 27.2,
+    "cash": 39855596577.48,
+    "receivables": 1529781464.4,
+    "inventory": 4452019550.45,
+    "goodwill": null,
+    "interest_debt": 15027836753.6,
+    "equity_parent": 43354252355.1,
+    "ocf": 5104987996.61,
+    "capex": 6395900779.54,
+    "fcf": -1290912782.93,
+    "ocf_to_np": 2.64
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 14388307712.89,
+    "revenue_yoy": -11.36,
+    "net_profit": 380576197.36,
+    "net_profit_yoy": -80.34,
+    "net_profit_deducted": 245280545.42,
+    "gross_margin": 17.43,
+    "net_margin": -7.17,
+    "selling_expense_ratio": 0.48,
+    "admin_expense_ratio": 5.65,
+    "finance_expense_ratio": 1.45,
+    "rd_expense": 1625269309.46,
+    "rd_ratio": 11.3,
+    "eps": 0.22,
+    "bvps": 25.37,
+    "roe": 0.88,
+    "roa": -1.26,
+    "total_assets": 87935231475.57,
+    "total_liab": 25214682518.85,
+    "debt_ratio": 28.67,
+    "cash": 32494785434.49,
+    "receivables": 1661798449.47,
+    "inventory": 4952553075.79,
+    "goodwill": null,
+    "interest_debt": 15964853992.73,
+    "equity_parent": 43602332245.07,
+    "ocf": 3608289668.76,
+    "capex": 19781991169.94,
+    "fcf": -16173701501.18,
+    "ocf_to_np": 9.48
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 17291450660.78,
+    "revenue_yoy": 20.18,
+    "net_profit": 376611422.56,
+    "net_profit_yoy": -1.04,
+    "net_profit_deducted": 228938871.34,
+    "gross_margin": 18.72,
+    "net_margin": -4.67,
+    "selling_expense_ratio": 0.45,
+    "admin_expense_ratio": 4.9,
+    "finance_expense_ratio": 0.65,
+    "rd_expense": 1971217660.49,
+    "rd_ratio": 11.4,
+    "eps": 0.22,
+    "bvps": 25.99,
+    "roe": 0.85,
+    "roa": -0.86,
+    "total_assets": 100123291330.96,
+    "total_liab": 37028538671.05,
+    "debt_ratio": 36.98,
+    "cash": 35274327533.8,
+    "receivables": 1664562745.84,
+    "inventory": 5341037484.06,
+    "goodwill": null,
+    "interest_debt": 22560700819.46,
+    "equity_parent": 45160290354.51,
+    "ocf": 5065421315.35,
+    "capex": 12931401008.84,
+    "fcf": -7865979693.49,
+    "ocf_to_np": 13.45
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 9574266889.9,
+   "revenue_yoy": 19.41,
+   "net_profit": 398844876.76,
+   "net_profit_yoy": 436.69,
+   "net_profit_deducted": 315922267.25,
+   "gross_margin": 19.45,
+   "net_margin": -1.12,
+   "roe": 0.86,
+   "eps": 0.23,
+   "debt_ratio": 36.69,
+   "ocf": 3396161708.19
+  },
+  "derived": {
+   "revenue_cagr_3y": 0.99,
+   "net_profit_cagr_3y": -49.98,
+   "receivables_to_revenue": 9.63,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "上海市国有资产监督管理委员会",
+  "controlling_shareholder": "上海华虹国际公司(Shanghai Hua Hong International,Inc.)",
+  "controlling_ratio": 20.0,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "香港中央结算(代理人)有限公司(HKSCC NOMINEES LIMITED)",
+    "hold_num": 820730212,
+    "hold_ratio": 47.23,
+    "hold_num_change": 152713
+   },
+   {
+    "rank": 2,
+    "name": "上海华虹国际公司(Shanghai Hua Hong International,Inc.)",
+    "hold_num": 347605650,
+    "hold_ratio": 20.0,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "联和国际有限公司(Sino-Alliance International,Ltd.)",
+    "hold_num": 160545541,
+    "hold_ratio": 9.24,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "华芯投资管理有限责任公司-国家集成电路产业投资基金二期股份有限公司",
+    "hold_num": 48334249,
+    "hold_ratio": 2.78,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "国泰君安证裕投资有限公司",
+    "hold_num": 8155000,
+    "hold_ratio": 0.47,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "海通创新证券投资有限公司",
+    "hold_num": 8155000,
+    "hold_ratio": 0.47,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "招商银行股份有限公司-华夏上证科创板50成份交易型开放式指数证券投资基金",
+    "hold_num": 7475604,
+    "hold_ratio": 0.43,
+    "hold_num_change": null
+   },
+   {
+    "rank": 8,
+    "name": "香港中央结算有限公司",
+    "hold_num": 6879269,
+    "hold_ratio": 0.4,
+    "hold_num_change": 465736
+   },
+   {
+    "rank": 9,
+    "name": "中信证券股份有限公司-嘉实上证科创板芯片交易型开放式指数证券投资基金",
+    "hold_num": 6156697,
+    "hold_ratio": 0.35,
+    "hold_num_change": -2401762
+   },
+   {
+    "rank": 10,
+    "name": "招商银行股份有限公司-银河创新成长混合型证券投资基金",
+    "hold_num": 5200000,
+    "hold_ratio": 0.3,
+    "hold_num_change": -5800000
+   }
+  ],
+  "holder_num": 61249,
+  "holder_num_change_pct": 7.71,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 28.38,
+  "northbound_ratio": 0.4,
+  "executives": [
+   {
+    "name": "白鹏",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "白鹏",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "Daniel Yu-Cheng Wang(王鼎)",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.0,
+  "unlock_12m": [
+   {
+    "date": "2027-03-09",
+    "shares": 30761109,
+    "ratio": 1.6
+   },
+   {
+    "date": "2027-09-09",
+    "shares": 10163843,
+    "ratio": 0.53
+   }
+  ]
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": 0.0,
+    "dividend_yield": 0.0,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": 0.0,
+    "dividend_yield": 0.0,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.15,
+    "total_amount": 257536526.7,
+    "payout_ratio": 13.3,
+    "dividend_yield": 0.41,
+    "ex_date": "2024-06-07"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": 0.0,
+    "dividend_yield": 0.0,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": 0.0,
+    "dividend_yield": 0.0,
+    "ex_date": null
+   }
+  ],
+  "consecutive_years": 0,
+  "cum_dividend_5y": 257536526.7,
+  "cum_netprofit_5y": 7362028061.29,
+  "payout_5y": 3.5,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "688825.SH",
+   "688981.SH",
+   "688256.SH",
+   "688041.SH"
+  ],
+  "segments": [
+   {
+    "name": "集成电路晶圆代工",
+    "revenue": 16425837315.29,
+    "ratio": 94.99,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他",
+    "revenue": 764353257.09,
+    "ratio": 4.42,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "租赁",
+    "revenue": 101260088.4,
+    "ratio": 0.59,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "中国大陆及香港",
+    "revenue": 14091262052.1,
+    "ratio": 81.49,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "北美区",
+    "revenue": 1756236932.78,
+    "ratio": 10.16,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "亚洲其他区域",
+    "revenue": 815150349.94,
+    "ratio": 4.71,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "欧洲区",
+    "revenue": 483374667.62,
+    "ratio": 2.8,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 145426658.34,
+    "ratio": 0.84,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "港股公告：有关建议修订二零二六年华虹集团相关持续关联交易年度上限的公告",
+    "date": "2026-10-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-22/1225614675.PDF",
+    "type": null
+   },
+   {
+    "title": "港股公告：董事会会议日期通知",
+    "date": "2026-10-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-22/1225614674.PDF",
+    "type": null
+   },
+   {
+    "title": "关于召开2026年第三季度业绩说明会的预告公告",
+    "date": "2026-10-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-22/1225614518.PDF",
+    "type": null
+   },
+   {
+    "title": "关于调整2026年度日常关联交易预计额度的公告",
+    "date": "2026-10-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-22/1225614517.PDF",
+    "type": null
+   },
+   {
+    "title": "国泰海通证券股份有限公司关于华虹宏力半导体有限公司调整2026年度日常关联交易预计额度的核查意见",
+    "date": "2026-10-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-22/1225614515.PDF",
+    "type": null
+   },
+   {
+    "title": "港股公告：董事名单与其角色及职能",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225609164.PDF",
+    "type": null
+   },
+   {
+    "title": "关于非执行董事辞任及委任非执行董事的公告",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225608935.PDF",
+    "type": null
+   },
+   {
+    "title": "关于间接控股股东股权结构变动的提示性公告",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597090.PDF",
+    "type": null
+   },
+   {
+    "title": "简式权益变动报告书",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597044.PDF",
+    "type": null
+   },
+   {
+    "title": "关于新设募集资金专户、签署募集资金专户存储监管协议及补充协议的公告",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225596996.PDF",
+    "type": null
+   },
+   {
+    "title": "港股公告：证券变动月报表",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225596586.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年第三次临时股东会会议材料",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225588149.PDF",
+    "type": null
+   },
+   {
+    "title": "关于召开2026年第三次临时股东会的通知",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225588139.PDF",
+    "type": null
+   },
+   {
+    "title": "港股公告：有关成立合营企业的补充公告",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225587297.PDF",
+    "type": null
+   },
+   {
+    "title": "上海市通力律师事务所关于华虹宏力半导体有限公司2026年第二次临时股东会的法律意见书",
+    "date": "2026-09-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225579354.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年第二次临时股东会决议公告",
+    "date": "2026-09-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225579347.PDF",
+    "type": null
+   },
+   {
+    "title": "华虹宏力半导体有限公司发行股份购买资产并募集配套资金暨关联交易实施情况暨新增股份上市公告书（摘要）",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225559980.PDF",
+    "type": null
+   },
+   {
+    "title": "国泰海通证券股份有限公司关于华虹宏力半导体有限公司发行股份购买资产暨关联交易实施情况之独立财务顾问核查意见",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225559979.PDF",
+    "type": null
+   },
+   {
+    "title": "华虹宏力半导体有限公司发行股份购买资产并募集配套资金暨关联交易之发行结果暨股本变动的公告",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225559978.PDF",
+    "type": null
+   },
+   {
+    "title": "上海集成电路产业投资基金股份有限公司关于所持华虹宏力半导体有限公司境内股票变动的提示性公告",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225559976.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 218
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "请问贵公司的三季度业绩报告什么时候披露，会有提前预告公告吗？",
+    "answer": null,
+    "ask_date": "2026-10-22",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=275778"
+   },
+   {
+    "question": "近日，无锡华虹宏力三期半导体有限公司发生工商变更，注册资本由668万元增至41.7亿美元。此次变更同时新增华虹宏力半导体有限公司、无锡锡虹国芯二期投资有限公司、国开新型政策性金融工具有限公司等为股东。请问对贵公司有何影响？",
+    "answer": null,
+    "ask_date": "2026-10-12",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=275778"
+   }
+  ],
+  "count_12m": null
+ }
+}

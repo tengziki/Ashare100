@@ -1,0 +1,546 @@
+{
+ "identity": {
+  "code": "601728",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "中国电信股份有限公司",
+  "name_abbr": "中国电信",
+  "aliases": [
+   "zgdx"
+  ],
+  "name_en": "China Telecom Corporation Limited",
+  "pinyin_abbr": "ZGDX",
+  "former_names": [],
+  "industry_sw1": "通信",
+  "industry_sw2": "通信服务",
+  "list_date": "2021-08-20",
+  "province": "北京",
+  "city": "北京",
+  "website": "www.chinatelecom-h.com",
+  "chairman": "柯瑞文",
+  "employees": 277911,
+  "business_summary": "大型全业务综合智能信息服务运营商,为个人(ToC)",
+  "profile": "中国电信股份有限公司(“中国电信”或“本公司”,于中华人民共和国注册成立的股份有限公司,与其附属公司合称“本集团”)主要经营移动通信、固定通信、卫星通信、互联网接入、云计算及算力、大数据、人工智能、量子、ICT集成等数字信息服务。本公司发行的A股和H股分别在上海证券交易所和香港联合交易所有限公司主板上市。 主营业务：大型全业务综合智能信息服务运营商,为个人(ToC)、家庭(ToH)和政企(ToB/G)客户提供综合智能信息服务。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 6.72,
+  "change_pct": 1.51,
+  "total_mv": 614927972057.28,
+  "float_mv": 521671776857.28,
+  "total_shares": 91507138699,
+  "float_shares": 77629728699,
+  "pe_ttm": 20.67,
+  "pe_static": 18.53,
+  "pb": 1.33,
+  "ps_ttm": 1.2,
+  "turnover_rate": 0.22,
+  "amount": 1135298744.0,
+  "high_52w": 7.14,
+  "low_52w": 4.99,
+  "ytd_return": 11.09,
+  "return_1y": 1.68,
+  "return_3y": 35.54,
+  "dividend_yield": 4.05,
+  "index_members": [
+   "上证50",
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 434159563363.61,
+    "revenue_yoy": 11.34,
+    "net_profit": 25952815819.68,
+    "net_profit_yoy": 24.44,
+    "net_profit_deducted": 25044258109.45,
+    "gross_margin": 29.21,
+    "net_margin": 6.02,
+    "selling_expense_ratio": 12.02,
+    "admin_expense_ratio": 7.45,
+    "finance_expense_ratio": 0.3,
+    "rd_expense": 6933360245.5,
+    "rd_ratio": 1.6,
+    "eps": 0.31,
+    "bvps": 4.68,
+    "roe": 6.7,
+    "roa": 3.54,
+    "total_assets": 762246299381.58,
+    "total_liab": 331065488795.65,
+    "debt_ratio": 43.43,
+    "cash": 75213132006.0,
+    "receivables": 22329026300.99,
+    "inventory": 3826728516.44,
+    "goodwill": 29925867104.99,
+    "interest_debt": 58912277265.29,
+    "equity_parent": 428685043392.63,
+    "ocf": 139194383644.66,
+    "capex": 85174496906.84,
+    "fcf": 54019886737.82,
+    "ocf_to_np": 5.36
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 474967243497.96,
+    "revenue_yoy": 9.4,
+    "net_profit": 27593420934.48,
+    "net_profit_yoy": 6.32,
+    "net_profit_deducted": 27188688035.07,
+    "gross_margin": 28.43,
+    "net_margin": 5.83,
+    "selling_expense_ratio": 11.33,
+    "admin_expense_ratio": 7.07,
+    "finance_expense_ratio": 0.0,
+    "rd_expense": 10560022340.73,
+    "rd_ratio": 2.22,
+    "eps": 0.3,
+    "bvps": 4.72,
+    "roe": 6.4,
+    "roa": 3.53,
+    "total_assets": 807698157613.04,
+    "total_liab": 371270622952.66,
+    "debt_ratio": 45.97,
+    "cash": 76299806041.71,
+    "receivables": 24019045657.08,
+    "inventory": 3513099158.41,
+    "goodwill": 29922191650.03,
+    "interest_debt": 77396784553.4,
+    "equity_parent": 432089280568.37,
+    "ocf": 137218975739.83,
+    "capex": 91512087653.35,
+    "fcf": 45706888086.48,
+    "ocf_to_np": 4.97
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 507842674997.4,
+    "revenue_yoy": 6.92,
+    "net_profit": 30445686138.83,
+    "net_profit_yoy": 10.34,
+    "net_profit_deducted": 29552831309.04,
+    "gross_margin": 28.83,
+    "net_margin": 5.99,
+    "selling_expense_ratio": 11.05,
+    "admin_expense_ratio": 7.03,
+    "finance_expense_ratio": 0.07,
+    "rd_expense": 13051601789.91,
+    "rd_ratio": 2.57,
+    "eps": 0.33,
+    "bvps": 4.84,
+    "roe": 6.9,
+    "roa": 3.7,
+    "total_assets": 835813904890.77,
+    "total_liab": 388647092045.48,
+    "debt_ratio": 46.5,
+    "cash": 91850775217.93,
+    "receivables": 30754567296.57,
+    "inventory": 3417010904.25,
+    "goodwill": 29923265740.05,
+    "interest_debt": 65206256554.32,
+    "equity_parent": 442926215438.27,
+    "ocf": 138623058755.73,
+    "capex": 90173724612.23,
+    "fcf": 48449334143.5,
+    "ocf_to_np": 4.55
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 523568920041.49,
+    "revenue_yoy": 3.1,
+    "net_profit": 33012069907.9,
+    "net_profit_yoy": 8.43,
+    "net_profit_deducted": 30742441368.42,
+    "gross_margin": 28.66,
+    "net_margin": 6.3,
+    "selling_expense_ratio": 10.6,
+    "admin_expense_ratio": 7.09,
+    "finance_expense_ratio": 0.04,
+    "rd_expense": 14526872770.77,
+    "rd_ratio": 2.77,
+    "eps": 0.36,
+    "bvps": 4.94,
+    "roe": 7.3,
+    "roa": 3.87,
+    "total_assets": 866625200722.04,
+    "total_liab": 410073397469.99,
+    "debt_ratio": 47.32,
+    "cash": 102008936021.9,
+    "receivables": 39648270450.34,
+    "inventory": 3267036668.35,
+    "goodwill": 29925025743.5,
+    "interest_debt": 60873169729.42,
+    "equity_parent": 452389720102.38,
+    "ocf": 145268134285.83,
+    "capex": 90271344177.92,
+    "fcf": 54996790107.91,
+    "ocf_to_np": 4.4
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 523924731368.75,
+    "revenue_yoy": 0.07,
+    "net_profit": 33184733428.28,
+    "net_profit_yoy": 0.52,
+    "net_profit_deducted": 31328706460.18,
+    "gross_margin": 29.08,
+    "net_margin": 6.34,
+    "selling_expense_ratio": 10.29,
+    "admin_expense_ratio": 6.95,
+    "finance_expense_ratio": 0.07,
+    "rd_expense": 15594212398.79,
+    "rd_ratio": 2.98,
+    "eps": 0.36,
+    "bvps": 5.04,
+    "roe": 7.2,
+    "roa": 3.82,
+    "total_assets": 870643642518.74,
+    "total_liab": 402384334040.08,
+    "debt_ratio": 46.22,
+    "cash": 99806451207.12,
+    "receivables": 50165259624.83,
+    "inventory": 3431226748.82,
+    "goodwill": 30913932992.05,
+    "interest_debt": 49676795309.15,
+    "equity_parent": 460827722454.64,
+    "ocf": 124518913220.91,
+    "capex": 73148181381.58,
+    "fcf": 51370731839.33,
+    "ocf_to_np": 3.75
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 259010338291.03,
+   "revenue_yoy": -3.86,
+   "net_profit": 19587741668.36,
+   "net_profit_yoy": -14.9,
+   "net_profit_deducted": 17489720026.16,
+   "gross_margin": 29.76,
+   "net_margin": 7.52,
+   "roe": 4.2,
+   "eps": 0.21,
+   "debt_ratio": 45.81,
+   "ocf": 60375156021.25
+  },
+  "derived": {
+   "revenue_cagr_3y": 3.32,
+   "net_profit_cagr_3y": 6.34,
+   "receivables_to_revenue": 9.57,
+   "goodwill_to_equity": 6.71
+  }
+ },
+ "shareholders": {
+  "controller": "国务院国有资产监督管理委员会",
+  "controlling_shareholder": "中国电信集团有限公司",
+  "controlling_ratio": 63.9,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "中国电信集团有限公司",
+    "hold_num": 58476519174,
+    "hold_ratio": 63.9,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "香港中央结算(代理人)有限公司",
+    "hold_num": 13823619898,
+    "hold_ratio": 15.11,
+    "hold_num_change": 338000
+   },
+   {
+    "rank": 3,
+    "name": "广东省广晟控股集团有限公司",
+    "hold_num": 4794082653,
+    "hold_ratio": 5.24,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "浙江省财开集团有限公司",
+    "hold_num": 2137473626,
+    "hold_ratio": 2.34,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "江苏省国信集团有限公司",
+    "hold_num": 957031543,
+    "hold_ratio": 1.05,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "福建省投资开发集团有限责任公司",
+    "hold_num": 920294182,
+    "hold_ratio": 1.01,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "国丰兴华(北京)私募基金管理有限公司-鸿鹄志远(上海)私募投资基金有限公司",
+    "hold_num": 761742240,
+    "hold_ratio": 0.83,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+    "hold_num": 722175857,
+    "hold_ratio": 0.79,
+    "hold_num_change": null
+   },
+   {
+    "rank": 9,
+    "name": "国新宏盛投资(北京)有限公司",
+    "hold_num": 561403835,
+    "hold_ratio": 0.61,
+    "hold_num_change": 129379600
+   },
+   {
+    "rank": 10,
+    "name": "国网英大国际控股集团有限公司",
+    "hold_num": 441501000,
+    "hold_ratio": 0.48,
+    "hold_num_change": 0
+   }
+  ],
+  "holder_num": 323674,
+  "holder_num_change_pct": -6.08,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 3.73,
+  "northbound_ratio": 0.02,
+  "executives": [
+   {
+    "name": "柯瑞文",
+    "title": "董事长",
+    "pay": 751100.0
+   },
+   {
+    "name": "刘桂清",
+    "title": "总经理",
+    "pay": 732600.0
+   },
+   {
+    "name": "李英辉",
+    "title": "董事会秘书",
+    "pay": 675700.0
+   }
+  ],
+  "pledge_ratio_total": 1.16,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.17,
+    "total_amount": 15556213578.83,
+    "payout_ratio": 59.94,
+    "dividend_yield": 4.35,
+    "ex_date": "2022-06-08"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.196,
+    "total_amount": 17935399185.0,
+    "payout_ratio": 65.0,
+    "dividend_yield": 2.4,
+    "ex_date": "2022-09-08"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.2332,
+    "total_amount": 21339464744.61,
+    "payout_ratio": 70.09,
+    "dividend_yield": 2.08,
+    "ex_date": "2023-08-31"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.2598,
+    "total_amount": 23773554634.0,
+    "payout_ratio": 72.01,
+    "dividend_yield": 2.16,
+    "ex_date": "2024-09-11"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.272,
+    "total_amount": 24889941726.13,
+    "payout_ratio": 75.0,
+    "dividend_yield": 2.08,
+    "ex_date": "2025-09-04"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 103494573868.57,
+  "cum_netprofit_5y": 150188726229.17,
+  "payout_5y": 68.91,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "600941.SH",
+   "600050.SH",
+   "300442.SZ"
+  ],
+  "segments": [
+   {
+    "name": "电信服务",
+    "revenue": 523924731368.75,
+    "ratio": 100.0,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "全国范围内",
+    "revenue": 523924731368.75,
+    "ratio": 100.0,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "中国电信股份有限公司H股公告-股份发行人的证券变动月报表",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225596349.PDF",
+    "type": null
+   },
+   {
+    "title": "中国电信股份有限公司2026年半年度A股利润分配实施公告",
+    "date": "2026-09-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225544892.PDF",
+    "type": null
+   },
+   {
+    "title": "中国电信股份有限公司H股公告-股份发行人的证券变动月报表",
+    "date": "2026-09-02",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-02/1225540299.PDF",
+    "type": null
+   },
+   {
+    "title": "中国电信股份有限公司第九届董事会第二次会议决议公告",
+    "date": "2026-08-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-21/1225484696.PDF",
+    "type": null
+   },
+   {
+    "title": "中国电信股份有限公司关于聘任公司执行副总裁的公告",
+    "date": "2026-08-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-21/1225484695.PDF",
+    "type": null
+   },
+   {
+    "title": "中国电信股份有限公司关于中国电信集团财务有限公司关联交易2026年半年度风险持续评估报告",
+    "date": "2026-08-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-21/1225484694.PDF",
+    "type": null
+   },
+   {
+    "title": "中国电信股份有限公司2026年中期利润分配方案公告",
+    "date": "2026-08-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-21/1225484693.PDF",
+    "type": null
+   },
+   {
+    "title": "中国电信股份有限公司2026年第二季度主要运营数据公告",
+    "date": "2026-08-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-21/1225484690.PDF",
+    "type": null
+   },
+   {
+    "title": "中国电信股份有限公司2026年半年度报告",
+    "date": "2026-08-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-21/1225484689.PDF",
+    "type": null
+   },
+   {
+    "title": "中国电信股份有限公司2026年半年度报告摘要",
+    "date": "2026-08-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-21/1225484688.PDF",
+    "type": null
+   },
+   {
+    "title": "中国电信股份有限公司关于召开2026年中期业绩说明会的公告",
+    "date": "2026-08-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-13/1225469703.PDF",
+    "type": null
+   },
+   {
+    "title": "中国电信股份有限公司H股公告-股份发行人的证券变动月报表",
+    "date": "2026-08-04",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-04/1225453589.PDF",
+    "type": null
+   },
+   {
+    "title": "中国电信股份有限公司H股公告-股份发行人的证券变动月报表",
+    "date": "2026-07-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-03/1225405089.PDF",
+    "type": null
+   },
+   {
+    "title": "中国电信股份有限公司关于选举职工董事的公告",
+    "date": "2026-06-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-03/1225347170.PDF",
+    "type": null
+   },
+   {
+    "title": "中国电信股份有限公司关于子公司参与设立投资基金暨与关联人共同投资的公告",
+    "date": "2026-06-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-03/1225347167.PDF",
+    "type": null
+   },
+   {
+    "title": "中国电信股份有限公司2025年年度A股利润分配实施公告",
+    "date": "2026-06-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-03/1225347166.PDF",
+    "type": null
+   },
+   {
+    "title": "中国电信股份有限公司H股公告-股份发行人的证券变动月报表",
+    "date": "2026-06-02",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-02/1225341783.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市海问律师事务所关于中国电信股份有限公司2025年年度股东会的法律意见书",
+    "date": "2026-05-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-05-20/1225317863.PDF",
+    "type": null
+   },
+   {
+    "title": "中国电信股份有限公司第九届董事会第一次会议决议公告",
+    "date": "2026-05-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-05-20/1225317859.PDF",
+    "type": null
+   },
+   {
+    "title": "中国电信股份有限公司2025年年度股东会决议公告",
+    "date": "2026-05-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-05-20/1225317857.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 86
+ },
+ "qa": {
+  "items": [],
+  "count_12m": null
+ }
+}

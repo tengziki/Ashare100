@@ -1,0 +1,672 @@
+{
+ "identity": {
+  "code": "600406",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "国电南瑞科技股份有限公司",
+  "name_abbr": "国电南瑞",
+  "aliases": [
+   "gdnr"
+  ],
+  "name_en": "NARI Technology Co., Ltd.",
+  "pinyin_abbr": "GDNR",
+  "former_names": [
+   "国电南瑞→S南瑞"
+  ],
+  "industry_sw1": "电力设备",
+  "industry_sw2": "电网设备",
+  "list_date": "2003-10-16",
+  "province": "江苏",
+  "city": "南京",
+  "website": "www.naritech.cn",
+  "chairman": "郑宗强",
+  "employees": 12781,
+  "business_summary": "电网智能、数能融合、能源低碳、轨道交通及工业自动化设备的研发、设计、制造、销售、工程服务与总承包业务",
+  "profile": "国电南瑞科技股份有限公司成立于2001年2月28日,由南瑞集团作为主发起人,2003年9月首次向社会公众发行A股股票并于10月16日在上海证券交易所上市,股票简称“国电南瑞”,证券代码“600406”。国电南瑞是我国能源电力及工业控制领域的领军企业,是国际领先的能源互联网技术整体解决方案提供商,是国务院国资委“科改示范企业”。公司深耕量测控制数字融合、电力电子等技术,为能源电力、市政公用、节能环保、水利水务、轨道交通、工矿等行业提供软硬件产品、整体解决方案,产品和服务覆盖全国各地及100多个国家和地区。公司重点布局智能电网、数能融合、能源低碳、工业互联等四大业务板块,推动人工智能、边缘计算、数字孪生、区块链、安全防护等数字技术、先进信息通信技术、控制技术与柔性直流、可再生能源友好接入、源网荷储协调控制等能源电力技术深度融合,进-步增强核心竞争能力。国电南瑞具有信息系统集成及服务一级、建筑智能化系统设计专项甲级和电子与智能化工程专业承包一级、安防工程企业设计施工维护能力一级、软件能力成熟度模型集成五级(CMMI5)、工程设计电力行业(送电工程、变电工程)专业甲级等资质。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 23.28,
+  "change_pct": 2.37,
+  "total_mv": 186979283311.68,
+  "float_mv": 186430341051.36,
+  "total_shares": 8031756156,
+  "float_shares": 8008176162,
+  "pe_ttm": 22.26,
+  "pe_static": 22.58,
+  "pb": 3.59,
+  "ps_ttm": 2.68,
+  "turnover_rate": 0.98,
+  "amount": 1817842796.0,
+  "high_52w": 31.44,
+  "low_52w": 21.11,
+  "ytd_return": 6.52,
+  "return_1y": 3.99,
+  "return_3y": 15.12,
+  "dividend_yield": 2.67,
+  "index_members": [
+   "上证50",
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 42411007392.46,
+    "revenue_yoy": 10.15,
+    "net_profit": 5642448311.81,
+    "net_profit_yoy": 16.3,
+    "net_profit_deducted": 5529087237.95,
+    "gross_margin": 26.88,
+    "net_margin": 14.25,
+    "selling_expense_ratio": 3.97,
+    "admin_expense_ratio": 2.2,
+    "finance_expense_ratio": -0.3,
+    "rd_expense": 2153214128.11,
+    "rd_ratio": 5.08,
+    "eps": 0.85,
+    "bvps": 6.85,
+    "roe": 15.7,
+    "roa": 8.71,
+    "total_assets": 72732951414.38,
+    "total_liab": 32190506543.66,
+    "debt_ratio": 44.26,
+    "cash": 12508960927.62,
+    "receivables": 20099060883.41,
+    "inventory": 7867811299.45,
+    "goodwill": 1444697.69,
+    "interest_debt": 1376601489.43,
+    "equity_parent": 37996904562.13,
+    "ocf": 4670773603.37,
+    "capex": 2016394641.36,
+    "fcf": 2654378962.01,
+    "ocf_to_np": 0.83
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 46828962926.94,
+    "revenue_yoy": 10.42,
+    "net_profit": 6446181151.11,
+    "net_profit_yoy": 14.24,
+    "net_profit_deducted": 6293844949.29,
+    "gross_margin": 27.04,
+    "net_margin": 14.74,
+    "selling_expense_ratio": 3.76,
+    "admin_expense_ratio": 2.44,
+    "finance_expense_ratio": -1.0,
+    "rd_expense": 2380278059.25,
+    "rd_ratio": 5.08,
+    "eps": 0.81,
+    "bvps": 6.34,
+    "roe": 16.09,
+    "roa": 9.24,
+    "total_assets": 76701231995.18,
+    "total_liab": 31342871937.94,
+    "debt_ratio": 40.86,
+    "cash": 14743557762.16,
+    "receivables": 22739249218.68,
+    "inventory": 8293920183.43,
+    "goodwill": 1444697.69,
+    "interest_debt": 1434604493.5,
+    "equity_parent": 42466099217.3,
+    "ocf": 8759962599.71,
+    "capex": 3415193158.37,
+    "fcf": 5344769441.34,
+    "ocf_to_np": 1.36
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 51655248318.66,
+    "revenue_yoy": 10.31,
+    "net_profit": 7175185980.94,
+    "net_profit_yoy": 11.31,
+    "net_profit_deducted": 6960354657.26,
+    "gross_margin": 26.8,
+    "net_margin": 14.77,
+    "selling_expense_ratio": 4.08,
+    "admin_expense_ratio": 2.49,
+    "finance_expense_ratio": -0.92,
+    "rd_expense": 2729648115.61,
+    "rd_ratio": 5.28,
+    "eps": 0.9,
+    "bvps": 5.87,
+    "roe": 16.04,
+    "roa": 9.36,
+    "total_assets": 86220453624.85,
+    "total_liab": 35753974792.57,
+    "debt_ratio": 41.47,
+    "cash": 16750152852.0,
+    "receivables": 26460358283.13,
+    "inventory": 9804350397.53,
+    "goodwill": 1444697.69,
+    "interest_debt": 609730644.26,
+    "equity_parent": 47190415406.62,
+    "ocf": 11278310677.65,
+    "capex": 1952239391.71,
+    "fcf": 9326071285.94,
+    "ocf_to_np": 1.57
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 57829172321.78,
+    "revenue_yoy": 11.95,
+    "net_profit": 7610235695.07,
+    "net_profit_yoy": 6.06,
+    "net_profit_deducted": 7388560296.53,
+    "gross_margin": 26.58,
+    "net_margin": 14.09,
+    "selling_expense_ratio": 3.92,
+    "admin_expense_ratio": 2.55,
+    "finance_expense_ratio": -0.82,
+    "rd_expense": 3259035257.32,
+    "rd_ratio": 5.64,
+    "eps": 0.95,
+    "bvps": 6.13,
+    "roe": 15.85,
+    "roa": 9.09,
+    "total_assets": 93072232247.21,
+    "total_liab": 40234898199.5,
+    "debt_ratio": 43.23,
+    "cash": 9033417046.54,
+    "receivables": 30926493201.05,
+    "inventory": 11334240219.45,
+    "goodwill": 1444697.69,
+    "interest_debt": 692377927.97,
+    "equity_parent": 49281222950.03,
+    "ocf": 11086788479.77,
+    "capex": 1850169755.99,
+    "fcf": 9236618723.78,
+    "ocf_to_np": 1.46
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 66228963223.21,
+    "revenue_yoy": 14.53,
+    "net_profit": 8278971723.32,
+    "net_profit_yoy": 8.79,
+    "net_profit_deducted": 7982955643.59,
+    "gross_margin": 25.84,
+    "net_margin": 13.37,
+    "selling_expense_ratio": 3.66,
+    "admin_expense_ratio": 2.37,
+    "finance_expense_ratio": -0.26,
+    "rd_expense": 3604120246.36,
+    "rd_ratio": 5.44,
+    "eps": 1.04,
+    "bvps": 6.55,
+    "roe": 16.26,
+    "roa": 9.24,
+    "total_assets": 98585657661.02,
+    "total_liab": 42126213104.12,
+    "debt_ratio": 42.73,
+    "cash": 7323259338.52,
+    "receivables": 31249864276.02,
+    "inventory": 13058218914.99,
+    "goodwill": 1444697.69,
+    "interest_debt": 587370367.85,
+    "equity_parent": 52646425094.68,
+    "ocf": 12768702125.04,
+    "capex": 2110354922.1,
+    "fcf": 10658347202.94,
+    "ocf_to_np": 1.54
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 27767190529.75,
+   "revenue_yoy": 14.54,
+   "net_profit": 3072688826.28,
+   "net_profit_yoy": 4.08,
+   "net_profit_deducted": 2925285478.78,
+   "gross_margin": 25.34,
+   "net_margin": 11.7,
+   "roe": 5.73,
+   "eps": 0.38,
+   "debt_ratio": 40.42,
+   "ocf": 591109591.8
+  },
+  "derived": {
+   "revenue_cagr_3y": 12.25,
+   "net_profit_cagr_3y": 8.7,
+   "receivables_to_revenue": 47.18,
+   "goodwill_to_equity": 0.0
+  }
+ },
+ "shareholders": {
+  "controller": "国务院国有资产监督管理委员会",
+  "controlling_shareholder": "国网电力科学研究院有限公司",
+  "controlling_ratio": 56.91,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "国网电力科学研究院有限公司",
+    "hold_num": 4570558438,
+    "hold_ratio": 56.91,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "香港中央结算有限公司",
+    "hold_num": 701174913,
+    "hold_ratio": 8.73,
+    "hold_num_change": -9495213
+   },
+   {
+    "rank": 3,
+    "name": "沈国荣",
+    "hold_num": 193210004,
+    "hold_ratio": 2.41,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "招商证券股份有限公司-华夏中证电网设备主题交易型开放式指数证券投资基金",
+    "hold_num": 67733745,
+    "hold_ratio": 0.84,
+    "hold_num_change": -30990901
+   },
+   {
+    "rank": 5,
+    "name": "华能国际电力开发公司",
+    "hold_num": 67001875,
+    "hold_ratio": 0.83,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "国新宏盛投资(北京)有限公司",
+    "hold_num": 54756510,
+    "hold_ratio": 0.68,
+    "hold_num_change": 14228903
+   },
+   {
+    "rank": 7,
+    "name": "国电电力发展股份有限公司",
+    "hold_num": 42527770,
+    "hold_ratio": 0.53,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "中国人民人寿保险股份有限公司-传统-普通保险产品",
+    "hold_num": 29710098,
+    "hold_ratio": 0.37,
+    "hold_num_change": null
+   },
+   {
+    "rank": 9,
+    "name": "华夏银行股份有限公司-国泰恒生A股电网设备交易型开放式指数证券投资基金",
+    "hold_num": 19645580,
+    "hold_ratio": 0.24,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "中国建设银行股份有限公司-天弘中证电网设备主题指数型发起式证券投资基金",
+    "hold_num": 16619156,
+    "hold_ratio": 0.21,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 433335,
+  "holder_num_change_pct": 43.04,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 5.93,
+  "northbound_ratio": 8.73,
+  "executives": [
+   {
+    "name": "郑宗强",
+    "title": "董事长",
+    "pay": 495200.0
+   },
+   {
+    "name": "罗汉武",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "胡顺靖",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.0,
+  "unlock_12m": [
+   {
+    "date": "2026-12-15",
+    "shares": 180000,
+    "ratio": 0.0
+   },
+   {
+    "date": "2027-01-18",
+    "shares": 11786688,
+    "ratio": 0.15
+   },
+   {
+    "date": "2027-03-23",
+    "shares": 21888,
+    "ratio": 0.0
+   }
+  ]
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.41,
+    "total_amount": 2287332205.99,
+    "payout_ratio": 40.54,
+    "dividend_yield": 1.25,
+    "ex_date": "2022-06-22"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.39,
+    "total_amount": 2610856167.27,
+    "payout_ratio": 40.5,
+    "dividend_yield": 1.39,
+    "ex_date": "2023-06-21"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.54,
+    "total_amount": 4337725002.12,
+    "payout_ratio": 60.45,
+    "dividend_yield": 2.24,
+    "ex_date": "2024-06-14"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.57,
+    "total_amount": 4578389643.19,
+    "payout_ratio": 60.16,
+    "dividend_yield": 1.58,
+    "ex_date": "2024-10-25"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.622,
+    "total_amount": 4995801148.17,
+    "payout_ratio": 60.34,
+    "dividend_yield": 1.7,
+    "ex_date": "2025-09-30"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 18810104166.74,
+  "cum_netprofit_5y": 35153022862.25,
+  "payout_5y": 53.51,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [
+   "600089.SH",
+   "002028.SZ",
+   "601179.SH",
+   "601877.SH"
+  ],
+  "segments": [
+   {
+    "name": "电网智能",
+    "revenue": 33422155368.42,
+    "ratio": 50.46,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "能源低碳",
+    "revenue": 16729807029.41,
+    "ratio": 25.26,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "数能融合",
+    "revenue": 12303335932.73,
+    "ratio": 18.58,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "工业互联",
+    "revenue": 3013877121.23,
+    "ratio": 4.55,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "集成及其他",
+    "revenue": 687074851.9,
+    "ratio": 1.04,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "国内",
+    "revenue": 60118741922.17,
+    "ratio": 90.77,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "海外",
+    "revenue": 6037508381.52,
+    "ratio": 9.12,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 72712919.52,
+    "ratio": 0.11,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "国电南瑞关于以集中竞价交易方式股份回购进展情况的公告",
+    "date": "2026-10-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-12/1225600362.PDF",
+    "type": null
+   },
+   {
+    "title": "国电南瑞关于2026年半年度权益分派实施后调整回购价格上限的公告",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575120.PDF",
+    "type": null
+   },
+   {
+    "title": "国电南瑞2026年半年度权益分派实施公告",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575117.PDF",
+    "type": null
+   },
+   {
+    "title": "上海东方华银律师事务所关于国电南瑞科技股份有限公司差异化分红之法律意见书",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575102.PDF",
+    "type": null
+   },
+   {
+    "title": "国电南瑞关于以集中竞价交易方式股份回购进展情况的公告",
+    "date": "2026-09-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225543119.PDF",
+    "type": null
+   },
+   {
+    "title": "国电南瑞关于使用部分闲置募集资金进行现金管理的进展公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225526660.PDF",
+    "type": null
+   },
+   {
+    "title": "国电南瑞关于以集中竞价交易方式首次回购公司股份的公告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225518029.PDF",
+    "type": null
+   },
+   {
+    "title": "国电南瑞第九届董事会第十五次会议决议公告",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225508123.PDF",
+    "type": null
+   },
+   {
+    "title": "中信证券股份有限公司关于国电南瑞科技股份有限公司使用部分闲置募集资金进行现金管理之核查意见",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225508120.PDF",
+    "type": null
+   },
+   {
+    "title": "国电南瑞2026年半年度报告摘要",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225508118.PDF",
+    "type": null
+   },
+   {
+    "title": "国电南瑞2026年度“提质增效重回报”行动方案的半年度评估报告",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225508111.PDF",
+    "type": null
+   },
+   {
+    "title": "国电南瑞关于使用部分闲置募集资金进行现金管理的公告",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225508110.PDF",
+    "type": null
+   },
+   {
+    "title": "国电南瑞关于2026年半年度利润分配方案的公告",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225508108.PDF",
+    "type": null
+   },
+   {
+    "title": "国电南瑞关于在中国电力财务有限公司办理金融业务的风险持续评估报告的公告",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225508101.PDF",
+    "type": null
+   },
+   {
+    "title": "国电南瑞2026年半年度报告",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225508099.PDF",
+    "type": null
+   },
+   {
+    "title": "国电南瑞关于2026年半年度公司募集资金存放、管理与实际使用情况的专项报告",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225508094.PDF",
+    "type": null
+   },
+   {
+    "title": "国电南瑞关于召开2026年半年度业绩说明会的公告",
+    "date": "2026-08-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225494046.PDF",
+    "type": null
+   },
+   {
+    "title": "国电南瑞关于回购事项前十大股东和前十大无限售条件股东持股情况的公告",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225481693.PDF",
+    "type": null
+   },
+   {
+    "title": "国电南瑞关于以集中竞价交易方式回购股份方案的公告暨回购报告书",
+    "date": "2026-08-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225473248.PDF",
+    "type": null
+   },
+   {
+    "title": "国电南瑞关于使用部分闲置募集资金进行现金管理到期收回的公告",
+    "date": "2026-08-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-13/1225469611.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 138
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "尊敬的董秘您好，请问1、贵公司的能源低碳板块毛利率逐年下滑的原因 2、境外业务毛利率今年中报大幅下滑的原因。3、公司对国网的收入增速能否比国网固定投资完成额的增速高？",
+    "answer": "公司能源低碳板块收入增长主要来源于储能、新能源等业务拓展，但也带来板块内业务结构变化；同时，储能、光伏、风电等业务的市场竞争激烈且盈利水平低于公司传统业务。因此，能源低碳板块毛利率水平稳中略降。2.境外收入受业务结构变化影响，主要是储能业务收入增长较快、占比提升，导致毛利率有所下降。3.公司对国网的收入与国网固定资产投资虽存在一定关联，但同时也受国网固定资产投资结构、项目履约进度等多重因素综合影响，两者增长并不完全同步。感谢您的关注。",
+    "ask_date": "2026-09-21",
+    "answer_date": "2026-10-13",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=406"
+   },
+   {
+    "question": "尊敬的董秘您好，请问贵公司电网智能和数能融合板块中对国网营收占比是多少",
+    "answer": "2026年上半年，公司电网智能和数能融合板块中对国网营收占比超60%。感谢您的关注。",
+    "ask_date": "2026-09-21",
+    "answer_date": "2026-10-13",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=406"
+   },
+   {
+    "question": "9月份的回购进度公告为何还没有出来？",
+    "answer": "根据《上市公司股份回购规则》，在回购股份期间,上市公司应当在每个月的前三个交易日内，公告股份回购进展情况。公司已按相关规定，于10月12日发布《关于以集中竞价交易方式股份回购进展情况的公告》，具体详见上海证券交易所网站相关内容。感谢您对公司的关注。",
+    "ask_date": "2026-10-09",
+    "answer_date": "2026-10-12",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=406"
+   },
+   {
+    "question": "尊敬的董秘您好，我想请问一下贵公司2025年报中，252页现金流量表补充资料中“存货的减少（增加以“－”号填列）”-1,835,234,727.90，这个数值和资产负债表中存货的增加值对不上，请问这是什么情况？还有补充资料中“经营性应收”和“经营性应付”项目在财报中找不到。请您解答一下，感谢！",
+    "answer": "现金流量表补充资料是按企业会计准则采用间接法编制，以净利润为起点调整为经营活动现金流量净额，需剔除未实际收付现金以及不属于经营活动的损益。资产负债表中的存货增减是反映存货账面价值（存货账面余额-存货跌价准备）的净变动，而现金流量表补充资料中“存货的减少”栏目是列示存货账面余额的减少（存货跌价准备变动影响另行汇总在现金流量表补充资料表“加：资产减值准备”栏目列报），并且要剔除非经营活动引起的存货变动（如领用存货用于在建工程等）。 现金流量表补充资料中“经营性应收”、“经营性应付”等不属于资产负债表栏目，是通过对应收票据、应收账款、预付款项、应付票据、应付账款、合同负债、应交税费等科目筛选、汇总、分析并剔除坏账准备变动以及投融资类非经营性往来款项等因素后填列的。 综上，问题中所述差异均是由于资产负债表与现金流量表补充资料相关栏目的列报逻辑不同造成的，属合理现象。感谢您的关注。",
+    "ask_date": "2026-09-17",
+    "answer_date": "2026-10-12",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=406"
+   },
+   {
+    "question": "贵司股价自今年8月4日至今下跌幅度达-12.77%，同期板块调整-6.59%；是否隐瞒重大利空消息没公告，期间机构投资者已大福减仓导致股价一路下跌长达7周？请贵司给予合理说法，不然向证券会举报！",
+    "answer": "当前公司生产经营平稳有序，基本面正常，不存在应披露而未披露的重大事项。上半年，公司经营业绩稳健增长，实现营业收入277.67亿元，同比增长14.54%；归母净利润30.73亿元，同比增长4.08%。公司电网业务基本盘稳固，电网外业务快速增长；同时，积极加快海外布局，国际业务收入58.94亿元，同比增长196.61%，成为增长新引擎。公司持续加大研发投入，上半年研发支出同比增长12.42%，迭代完善电网调控、人工智能、新型储能、智能传感、IGBT、PLC/DCS等核心技术，夯实长期发展根基。 公司高度重视全体股东利益，始终以夯实主业、提升经营质量作为维护公司价值、稳定市场预期的根本举措，同时坚持“高比例、多频次”现金分红政策，积极回馈股东。 二级市场股价受宏观形势、市场情绪及资金偏好等多重因素综合影响，与公司经营基本面并非完全同步。请广大投资者理性看待股价短期波动。感谢您的关注与理解！",
+    "ask_date": "2026-09-16",
+    "answer_date": "2026-09-30",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=406"
+   },
+   {
+    "question": "董秘您好，公司是否有评估过和亚信科技之类具备丰富的能源行业FDE大模型部署、AI数智运营和5G专网复杂运维经验的厂商合作，来进一步利用AI和5G专网降本增效？",
+    "answer": "公司对拥有能源行业大模型、AI数智运营、5G专网相关能力的厂商合作持开放态度，持续和行业各类企业开展交流协作，提升综合竞争力。在模型研发与部署方面，公司参与光明大模型等能源行业大模型的研发，具备自主部署及场景落地实施能力。在AI数智运营领域，尤其是算电协同、机房智能运维、能源行业智能体研发等方向积极开展对外合作交流。在5G专网层面，公司与网络运营商开展合作，在机房建设规划阶段为客户配套网络解决方案；同时结合带宽、时延等条件评估算力调度方案，兼顾降本增效与运行可靠性提升。感谢您对公司的关注！",
+    "ask_date": "2026-09-15",
+    "answer_date": "2026-09-30",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=406"
+   },
+   {
+    "question": "为什么股票价格一直跌跌不休",
+    "answer": "相关回复请参考前述同类问题，感谢您的关注与理解！",
+    "ask_date": "2026-09-16",
+    "answer_date": "2026-09-29",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=406"
+   },
+   {
+    "question": "半年分红什么时候发呢",
+    "answer": "公司已于9月22日在上海证券交易所网站发布《2026年半年度权益分派实施公告》，本次现金分红为每股分配现金红利0.153元（含税），9月28日为股权登记日，9月29日为除权（息）日及现金发放日。感谢您对公司的关注。",
+    "ask_date": "2026-09-14",
+    "answer_date": "2026-09-28",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=406"
+   }
+  ],
+  "count_12m": null
+ }
+}

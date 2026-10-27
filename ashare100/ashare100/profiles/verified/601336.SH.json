@@ -1,0 +1,446 @@
+{
+ "identity": {
+  "code": "601336",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "新华人寿保险股份有限公司",
+  "name_abbr": "新华保险",
+  "aliases": [],
+  "name_en": "New China Life Insurance Company Ltd.",
+  "former_names": [],
+  "industry_sw1": "非银金融",
+  "industry_sw2": "保险Ⅱ",
+  "list_date": "2011-12-16",
+  "province": "北京",
+  "city": null,
+  "website": "www.newchinalife.com",
+  "chairman": "杨玉成",
+  "employees": 27007,
+  "business_summary": "1996 年成立、总部位于北京的全国性大型寿险公司，2011 年 A+H 股同步上市，提供覆盖全生命周期的人身保险与财富规划产品，并布局养老与健康产业。",
+  "profile": "新华人寿保险股份有限公司(以下简称“新华保险”或“公司”)成立于1996年9月,总部位于北京市,是一家全国性的大型寿险企业。公司锚定“中国一流的以保险业务为核心的金融服务集团”发展愿景,为客户提供覆盖全生命周期的风险保障和财富规划的产品及服务,着力推动养老产业、健康产业发展,助力寿险主业发展。2011年,新华保险在上交所和联交所同步上市。新华保险坚定不移走内涵式、高质量发展道路,深入践行“以客户为中心”的经营管理理念,持续推进各领域专业化、市场化、体系化改革转型,紧抓行业新机遇新变化,与时俱进树立大保险观,围绕客户全生命周期需求打造多层次产品体系,构建涵盖医康养等十大领域的服务生态,打造一流的投资管理能力,全面提升公司核心竞争力,推动公司实现高质量、高水平和高能级发展。",
+  "st_status": null,
+  "audit_opinion": null,
+  "found_date": "1996-09-28"
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 222380000000.0,
+    "revenue_yoy": 7.67,
+    "net_profit": 14947000000.0,
+    "net_profit_yoy": 4.57,
+    "net_profit_deducted": 14877000000.0,
+    "gross_margin": null,
+    "net_margin": 6.72,
+    "eps": 4.79,
+    "bvps": 34.77,
+    "roe": 14.22,
+    "roa": 1.4,
+    "debt_ratio": 90.38,
+    "total_liab": 1019207000000.0,
+    "total_assets": 1127690860810,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 108048000000.0,
+    "revenue_yoy": -51.41,
+    "net_profit": 21500000000.0,
+    "net_profit_yoy": 43.84,
+    "net_profit_deducted": 9803000000.0,
+    "gross_margin": null,
+    "net_margin": 19.9,
+    "eps": 6.89,
+    "bvps": 32.98,
+    "roe": 9.29,
+    "roa": 1.84,
+    "debt_ratio": 91.93,
+    "total_liab": 1116940000000.0,
+    "total_assets": 1214989666050,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 71547000000.0,
+    "revenue_yoy": -33.78,
+    "net_profit": 8712000000.0,
+    "net_profit_yoy": -59.48,
+    "net_profit_deducted": 8746000000.0,
+    "gross_margin": null,
+    "net_margin": 12.18,
+    "eps": 2.79,
+    "bvps": 33.68,
+    "roe": 7.94,
+    "roa": 0.67,
+    "debt_ratio": 92.51,
+    "total_liab": 1298165000000.0,
+    "total_assets": 1403269916766,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 132555000000.0,
+    "revenue_yoy": 85.27,
+    "net_profit": 26229000000.0,
+    "net_profit_yoy": 201.07,
+    "net_profit_deducted": 26301000000.0,
+    "gross_margin": null,
+    "net_margin": 19.79,
+    "eps": 8.41,
+    "bvps": 30.85,
+    "roe": 25.88,
+    "roa": 1.69,
+    "debt_ratio": 94.31,
+    "total_liab": 1596028000000.0,
+    "total_assets": 1692321068816,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 157745000000.0,
+    "revenue_yoy": 19.0,
+    "net_profit": 36284000000.0,
+    "net_profit_yoy": 38.34,
+    "net_profit_deducted": 33973000000.0,
+    "gross_margin": null,
+    "net_margin": 23.0,
+    "eps": 11.63,
+    "bvps": 35.75,
+    "roe": 34.69,
+    "roa": 2.02,
+    "debt_ratio": 94.13,
+    "total_liab": 1787906000000.0,
+    "total_assets": 1899400828641,
+    "ocf_to_np": null
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 83258000000.0,
+   "revenue_yoy": 18.87,
+   "net_profit": 22793000000.0,
+   "net_profit_yoy": 54.02,
+   "net_profit_deducted": 22829000000.0,
+   "gross_margin": null,
+   "net_margin": 27.38,
+   "eps": 7.31,
+   "roe": 18.87,
+   "debt_ratio": 93.69
+  },
+  "derived": {
+   "revenue_cagr_3y": 13.44,
+   "net_profit_cagr_3y": 19.06,
+   "receivables_to_revenue": null,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": null,
+  "controlling_shareholder": null,
+  "controlling_ratio": null,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "中央汇金投资有限责任公司",
+    "hold_num": 977530534.0,
+    "hold_ratio": 31.34,
+    "hold_num_change": null
+   },
+   {
+    "rank": 2,
+    "name": "HKSCC Nominees Limited(香港中央结算(代理人)有限公司)",
+    "hold_num": 972913461.0,
+    "hold_ratio": 31.19,
+    "hold_num_change": 44100.0
+   },
+   {
+    "rank": 3,
+    "name": "中国宝武钢铁集团有限公司",
+    "hold_num": 377162581.0,
+    "hold_ratio": 12.09,
+    "hold_num_change": null
+   },
+   {
+    "rank": 4,
+    "name": "华宝投资有限公司",
+    "hold_num": 60503300.0,
+    "hold_ratio": 1.94,
+    "hold_num_change": null
+   },
+   {
+    "rank": 5,
+    "name": "香港中央结算有限公司",
+    "hold_num": 34106205.0,
+    "hold_ratio": 1.09,
+    "hold_num_change": 3005845.0
+   },
+   {
+    "rank": 6,
+    "name": "中央汇金资产管理有限责任公司",
+    "hold_num": 28249200.0,
+    "hold_ratio": 0.91,
+    "hold_num_change": null
+   },
+   {
+    "rank": 7,
+    "name": "嘉实基金-农业银行-嘉实中证金融资产管理计划",
+    "hold_num": 27986639.0,
+    "hold_ratio": 0.9,
+    "hold_num_change": -18991775.0
+   },
+   {
+    "rank": 8,
+    "name": "工银瑞信基金-农业银行-工银瑞信中证金融资产管理计划",
+    "hold_num": 19211037.0,
+    "hold_ratio": 0.62,
+    "hold_num_change": -24825464.0
+   },
+   {
+    "rank": 9,
+    "name": "全国社保基金一一四组合",
+    "hold_num": 13397496.0,
+    "hold_ratio": 0.43,
+    "hold_num_change": 3397496.0
+   },
+   {
+    "rank": 10,
+    "name": "邹刚",
+    "hold_num": 7500072.0,
+    "hold_ratio": 0.24,
+    "hold_num_change": null
+   }
+  ],
+  "top10_date": "2026-06-30",
+  "holder_num": 105540.0,
+  "holder_num_change_pct": 22.06,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": null,
+  "northbound_ratio": 1.09,
+  "executives": [
+   {
+    "name": "杨玉成",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "龚兴峰",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "刘智勇",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": null,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 1.44,
+    "total_amount": 4492147104.0,
+    "payout_ratio": 30.05,
+    "dividend_yield": null,
+    "ex_date": "2022-08-10"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 1.08,
+    "total_amount": 3369110328.0,
+    "payout_ratio": 15.67,
+    "dividend_yield": null,
+    "ex_date": "2023-08-10"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.85,
+    "total_amount": 2651614610.0,
+    "payout_ratio": 30.44,
+    "dividend_yield": null,
+    "ex_date": "2024-08-09"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 2.53,
+    "total_amount": 7892452898.0,
+    "payout_ratio": 30.09,
+    "dividend_yield": null,
+    "ex_date": "2025-08-08"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 2.73,
+    "total_amount": 8516362218.0,
+    "payout_ratio": 23.47,
+    "dividend_yield": null,
+    "ex_date": "2026-08-07"
+   }
+  ],
+  "consecutive_years": 5,
+  "cum_dividend_5y": 26921687158.0,
+  "cum_netprofit_5y": 107672000000.0,
+  "payout_5y": 25.0,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [],
+  "segments": []
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "新华保险关于召开2026年第三季度业绩说明会的公告",
+    "date": "2026-10-23",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-23/1225617277.PDF"
+   },
+   {
+    "title": "新华保险：2026年第一次临时股东会的法律意见书",
+    "date": "2026-10-23",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-23/1225617276.PDF"
+   },
+   {
+    "title": "新华保险2026年第一次临时股东会决议公告",
+    "date": "2026-10-23",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-23/1225617269.PDF"
+   },
+   {
+    "title": "新华保险H股公告",
+    "date": "2026-10-21",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225611887.PDF"
+   },
+   {
+    "title": "新华保险H股公告",
+    "date": "2026-10-17",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225609322.PDF"
+   },
+   {
+    "title": "新华保险关于董事任职资格获核准的公告",
+    "date": "2026-10-17",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225608055.PDF"
+   },
+   {
+    "title": "新华保险第九届董事会第十三次会议决议公告",
+    "date": "2026-10-10",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-10/1225598615.PDF"
+   },
+   {
+    "title": "新华保险H股公告",
+    "date": "2026-10-01",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225589969.PDF"
+   },
+   {
+    "title": "新华保险2026年第一次临时股东会会议材料",
+    "date": "2026-09-29",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225584659.PDF"
+   },
+   {
+    "title": "新华保险关于召开2026年第一次临时股东会的通知",
+    "date": "2026-09-29",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225584109.PDF"
+   },
+   {
+    "title": "新华保险第九届董事会第十二次会议决议公告",
+    "date": "2026-09-19",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-19/1225571751.PDF"
+   },
+   {
+    "title": "新华保险H股公告",
+    "date": "2026-09-05",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-05/1225549968.PDF"
+   },
+   {
+    "title": "新华保险H股公告",
+    "date": "2026-09-03",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225543605.PDF"
+   },
+   {
+    "title": "新华保险关于独立董事任职资格获核准的公告",
+    "date": "2026-08-29",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225524777.PDF"
+   },
+   {
+    "title": "新华保险2026年半年度报告摘要",
+    "date": "2026-08-27",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225511838.PDF"
+   },
+   {
+    "title": "新华保险2026年度中期利润分配方案公告",
+    "date": "2026-08-27",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225511747.PDF"
+   },
+   {
+    "title": "新华保险第九届董事会第十一次会议决议公告",
+    "date": "2026-08-27",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225511740.PDF"
+   },
+   {
+    "title": "新华保险2026年半年度报告",
+    "date": "2026-08-27",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225511713.PDF"
+   },
+   {
+    "title": "新华保险关于召开2026年中期业绩发布会的公告",
+    "date": "2026-08-19",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225479091.PDF"
+   },
+   {
+    "title": "新华保险H股公告",
+    "date": "2026-08-15",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225473924.PDF"
+   }
+  ],
+  "count_12m": 93
+ },
+ "qa": {
+  "items": [],
+  "count_12m": null
+ },
+ "_extras": {
+  "announcements": {
+   "fetched_at": "2026-10-27T17:29:30+08:00",
+   "error": null
+  },
+  "qa": {
+   "fetched_at": "2026-10-27T17:30:01+08:00",
+   "error": null
+  }
+ },
+ "review": {
+  "reviewer": "Claude（代 tengziki 复核）",
+  "note": "对照巨潮 2025 年报摘要与 2026 半年报摘要：营收、归母净利、加权 ROE、EPS、每股净资产、总资产、2025 财年每股派息（中期 0.67+末期 2.06 元）、股东户数、前十大股东持股一致；机构持股留空；申万二级按东财三级分类映射（与已核实同行一致）；business_summary 依公司概况改写",
+  "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
+  "fetched_at": "2026-10-27T16:17:51+08:00",
+  "reviewed_at": "2026-10-27T17:36:08+08:00"
+ }
+}

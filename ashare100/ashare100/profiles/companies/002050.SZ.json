@@ -1,0 +1,313 @@
+{
+ "identity": {
+  "code": "002050",
+  "exchange": "SZ",
+  "board": "主板",
+  "name_full": "浙江三花智能控制股份有限公司",
+  "name_abbr": "三花智控",
+  "aliases": [],
+  "name_en": "Zhejiang Sanhua Intelligent Controls Co.,Ltd.",
+  "former_names": [
+   "三花股份→G三花→三花股份"
+  ],
+  "industry_sw1": "机械设备",
+  "industry_sw2": null,
+  "list_date": "2005-06-07",
+  "province": "浙江",
+  "city": null,
+  "website": "www.zjshc.com",
+  "chairman": "张亚波",
+  "employees": 19090,
+  "business_summary": "家用电器研发;制冷、空调设备制造;家用电器制造;普通阀门和旋塞制造(不含特种设备制造);通用零部件制造;特种设备制造;泵及真空设备制造;电机制造;风机、风扇制造…",
+  "profile": "浙江三花智能控制股份有限公司坚持“专注领先、创新超越”的经营战略,以热泵技术和热管理系统产品的研究与应用为核心,专注于冷热转换、温度智能控制的环境热管理解决方案开发,致力于建筑暖通、电器设备和新能源汽车热管理领域的专业化经营。公司业务主要分为制冷空调电器零部件业务和汽车零部件业务。制冷空调电器零部件业务致力于建筑暖通、电器设备专业化经营,主要产品包括四通换向阀、电子膨胀阀、电磁阀、微通道换热器、Omega泵等,广泛应用于空调、冰箱、冷链物流、洗碗机等领域;汽车零部件业务专注于汽车热管理领域的深入研究,主要产品包括冷媒阀、换热器、泵类、水阀,以及新能源车热管理集成组件等,广泛应用于新能源汽车和传统燃油车。",
+  "st_status": null,
+  "audit_opinion": null
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 16020809806.0,
+    "revenue_yoy": 32.3,
+    "net_profit": 1684044407.0,
+    "net_profit_yoy": 15.18,
+    "net_profit_deducted": 1487491274.0,
+    "gross_margin": 25.68,
+    "net_margin": 10.64,
+    "eps": 0.47,
+    "bvps": 2.99,
+    "roe": 15.98,
+    "roa": 8.39,
+    "debt_ratio": 52.36,
+    "total_liab": 12367376151.0,
+    "total_assets": 23619893337,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 21347549741.0,
+    "revenue_yoy": 33.25,
+    "net_profit": 2573344180.0,
+    "net_profit_yoy": 52.81,
+    "net_profit_deducted": 2291450453.0,
+    "gross_margin": 26.08,
+    "net_margin": 12.22,
+    "eps": 0.72,
+    "bvps": 3.49,
+    "roe": 21.38,
+    "roa": 10.11,
+    "debt_ratio": 53.08,
+    "total_liab": 14841913965.0,
+    "total_assets": 27961405360,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 24557802067.0,
+    "revenue_yoy": 15.04,
+    "net_profit": 2920992940.0,
+    "net_profit_yoy": 13.51,
+    "net_profit_deducted": 2917029188.0,
+    "gross_margin": 27.62,
+    "net_margin": 11.95,
+    "eps": 0.81,
+    "bvps": 4.79,
+    "roe": 19.18,
+    "roa": 9.8,
+    "debt_ratio": 43.36,
+    "total_liab": 13826877149.0,
+    "total_assets": 31888554310,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 27947164516.0,
+    "revenue_yoy": 13.8,
+    "net_profit": 3099165128.0,
+    "net_profit_yoy": 6.1,
+    "net_profit_deducted": 3117935213.0,
+    "gross_margin": 27.47,
+    "net_margin": 11.13,
+    "eps": 0.84,
+    "bvps": 5.17,
+    "roe": 16.77,
+    "roa": 9.12,
+    "debt_ratio": 46.31,
+    "total_liab": 16835104903.0,
+    "total_assets": 36353066083,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 31011744510.0,
+    "revenue_yoy": 10.97,
+    "net_profit": 4062891412.0,
+    "net_profit_yoy": 31.1,
+    "net_profit_deducted": 3958316943.0,
+    "gross_margin": 28.78,
+    "net_margin": 13.24,
+    "eps": 1.03,
+    "bvps": 7.54,
+    "roe": 15.8,
+    "roa": 9.58,
+    "debt_ratio": 35.15,
+    "total_liab": 17365901101.0,
+    "total_assets": 49405124043,
+    "ocf_to_np": null
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 16899972561.0,
+   "revenue_yoy": 3.92,
+   "net_profit": 2044064626.0,
+   "net_profit_yoy": -3.12,
+   "net_profit_deducted": 2147318645.0,
+   "gross_margin": 28.06,
+   "net_margin": 12.32,
+   "eps": 0.49,
+   "roe": 6.25,
+   "debt_ratio": 36.22
+  },
+  "derived": {
+   "revenue_cagr_3y": 13.26,
+   "net_profit_cagr_3y": 16.44,
+   "receivables_to_revenue": null,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "张亚波,张道才,张少波",
+  "controlling_shareholder": null,
+  "controlling_ratio": null,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "三花控股集团有限公司",
+    "hold_num": 948487077.0,
+    "hold_ratio": 22.54,
+    "hold_num_change": null
+   },
+   {
+    "rank": 2,
+    "name": "浙江三花绿能实业集团有限公司",
+    "hold_num": 664375189.0,
+    "hold_ratio": 15.79,
+    "hold_num_change": null
+   },
+   {
+    "rank": 3,
+    "name": "HKSCC NOMINEES LIMITED",
+    "hold_num": 476521788.0,
+    "hold_ratio": 11.32,
+    "hold_num_change": -10000.0
+   },
+   {
+    "rank": 4,
+    "name": "香港中央结算有限公司",
+    "hold_num": 89520884.0,
+    "hold_ratio": 2.13,
+    "hold_num_change": -7160549.0
+   },
+   {
+    "rank": 5,
+    "name": "兴业银行股份有限公司-华夏中证机器人交易型开放式指数证券投资基金",
+    "hold_num": 39789604.0,
+    "hold_ratio": 0.95,
+    "hold_num_change": 6464450.0
+   },
+   {
+    "rank": 6,
+    "name": "张亚波",
+    "hold_num": 29268200.0,
+    "hold_ratio": 0.7,
+    "hold_num_change": null
+   },
+   {
+    "rank": 7,
+    "name": "国泰海通证券股份有限公司-天弘中证机器人交易型开放式指数证券投资基金",
+    "hold_num": 13719223.0,
+    "hold_ratio": 0.33,
+    "hold_num_change": 1742600.0
+   },
+   {
+    "rank": 8,
+    "name": "中国建设银行股份有限公司-易方达国证机器人产业交易型开放式指数证券投资基金",
+    "hold_num": 13393018.0,
+    "hold_ratio": 0.32,
+    "hold_num_change": 3124995.0
+   },
+   {
+    "rank": 9,
+    "name": "中国建设银行股份有限公司-永赢先进制造智选混合型发起式证券投资基金",
+    "hold_num": 13368306.0,
+    "hold_ratio": 0.32,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "中国工商银行股份有限公司-广发国证新能源车电池交易型开放式指数证券投资基金",
+    "hold_num": 13224816.0,
+    "hold_ratio": 0.31,
+    "hold_num_change": -744400.0
+   }
+  ],
+  "top10_date": "2026-07-27",
+  "holder_num": 627589.0,
+  "holder_num_change_pct": -6.99,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": null,
+  "northbound_ratio": 2.13,
+  "executives": [
+   {
+    "name": "张亚波",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "王大勇",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "李智密",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": null,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.15,
+    "total_amount": 538664896.2,
+    "payout_ratio": 31.99,
+    "dividend_yield": null,
+    "ex_date": "2022-05-11"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.3,
+    "total_amount": 1077259785.0,
+    "payout_ratio": 41.86,
+    "dividend_yield": null,
+    "ex_date": "2023-06-09"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.3,
+    "total_amount": 1119784660.5,
+    "payout_ratio": 38.34,
+    "dividend_yield": null,
+    "ex_date": "2024-06-13"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.35,
+    "total_amount": 1306336337.25,
+    "payout_ratio": 42.15,
+    "dividend_yield": null,
+    "ex_date": "2025-05-22"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.4,
+    "total_amount": 1683205574.0,
+    "payout_ratio": 41.43,
+    "dividend_yield": null,
+    "ex_date": "2026-07-15"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 5725251252.95,
+  "cum_netprofit_5y": 14340438067.0,
+  "payout_5y": 39.92,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [],
+  "segments": []
+ },
+ "announcements": {
+  "items": [],
+  "count_12m": null
+ },
+ "qa": {
+  "items": []
+ },
+ "_meta": {
+  "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
+  "fetched_at": "2026-10-27T16:28:11+08:00",
+  "errors": {}
+ }
+}

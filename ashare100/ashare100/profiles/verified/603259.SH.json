@@ -1,0 +1,606 @@
+{
+ "identity": {
+  "code": "603259",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "无锡药明康德新药开发股份有限公司",
+  "name_abbr": "药明康德",
+  "aliases": [
+   "ymkd"
+  ],
+  "name_en": "WuXi AppTec Co., Ltd.",
+  "pinyin_abbr": "YMKD",
+  "former_names": [],
+  "industry_sw1": "医药生物",
+  "industry_sw2": "医疗服务",
+  "list_date": "2018-05-08",
+  "province": "江苏",
+  "city": "无锡",
+  "website": "www.wuxiapptec.com.cn",
+  "chairman": "李革",
+  "employees": 33834,
+  "business_summary": "全球医药及生命科学行业提供一体化、端到端的新药研发和生产服务,在亚洲、欧洲、北美等地均设有运营基地",
+  "profile": "无锡药明康德新药开发股份有限公司(股票代码:603259.SH/2359.HK)是全球医药及生命科学行业值得信赖的合作伙伴和重要贡献者,致力于通过提供一体化、端到端的新药研发和生产服务,推动全球医药健康创新。公司在亚洲、欧洲、北美等地均设有运营基地,依托独特的“CRDMO”业务模式,不断降低研发门槛,助力客户提升研发效率,为患者带来突破性的治疗方案。目前,公司的赋能平台正承载着来自全球30多个国家的合作伙伴的研发创新项目,致力于将更多新药、好药带给全球病患,早日实现“让天下没有难做的药,难治的病”的愿景。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 141.31,
+  "change_pct": -4.1,
+  "total_mv": 428862293566.46,
+  "float_mv": 349499231562.26,
+  "total_shares": 3034904066,
+  "float_shares": 2473280246,
+  "pe_ttm": 19.79,
+  "pe_static": 22.39,
+  "pb": 5.15,
+  "ps_ttm": 8.01,
+  "turnover_rate": 2.23,
+  "amount": 7832324380.0,
+  "high_52w": 173.09,
+  "low_52w": 85.0,
+  "ytd_return": 59.58,
+  "return_1y": 43.01,
+  "return_3y": 76.94,
+  "dividend_yield": 1.37,
+  "index_members": [
+   "上证50",
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 22902385129.11,
+    "revenue_yoy": 38.5,
+    "net_profit": 5097155283.68,
+    "net_profit_yoy": 72.19,
+    "net_profit_deducted": 4118691665.93,
+    "gross_margin": 36.28,
+    "net_margin": 22.43,
+    "selling_expense_ratio": 3.05,
+    "admin_expense_ratio": 9.62,
+    "finance_expense_ratio": 0.37,
+    "rd_expense": 942241901.18,
+    "rd_ratio": 4.11,
+    "eps": 1.75,
+    "bvps": 13.02,
+    "roe": 14.05,
+    "roa": 10.13,
+    "total_assets": 55127388384.03,
+    "total_liab": 16369925768.22,
+    "debt_ratio": 29.69,
+    "cash": 8238772782.53,
+    "receivables": 4619550091.65,
+    "inventory": 5905005712.92,
+    "goodwill": 1925563131.98,
+    "interest_debt": 4284022319.79,
+    "equity_parent": 38491509630.6,
+    "ocf": 4589288733.11,
+    "capex": 6936086294.95,
+    "fcf": -2346797561.84,
+    "ocf_to_np": 0.9
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 39354777805.53,
+    "revenue_yoy": 71.84,
+    "net_profit": 8813713033.51,
+    "net_profit_yoy": 72.91,
+    "net_profit_deducted": 8344743762.23,
+    "gross_margin": 37.3,
+    "net_margin": 22.62,
+    "selling_expense_ratio": 1.86,
+    "admin_expense_ratio": 7.18,
+    "finance_expense_ratio": -0.63,
+    "rd_expense": 1613953441.33,
+    "rd_ratio": 4.1,
+    "eps": 3.01,
+    "bvps": 15.74,
+    "roe": 20.62,
+    "roa": 14.86,
+    "total_assets": 64690326746.96,
+    "total_liab": 17763654011.21,
+    "debt_ratio": 27.46,
+    "cash": 7985741393.85,
+    "receivables": 5972777810.06,
+    "inventory": 5668594794.94,
+    "goodwill": 1822101781.03,
+    "interest_debt": 5866441572.45,
+    "equity_parent": 46589953393.31,
+    "ocf": 10616029916.68,
+    "capex": 9965688255.65,
+    "fcf": 650341661.03,
+    "ocf_to_np": 1.2
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 40340806877.04,
+    "revenue_yoy": 2.51,
+    "net_profit": 9606749135.07,
+    "net_profit_yoy": 9.0,
+    "net_profit_deducted": 9747587804.59,
+    "gross_margin": 41.18,
+    "net_margin": 24.05,
+    "selling_expense_ratio": 1.74,
+    "admin_expense_ratio": 7.14,
+    "finance_expense_ratio": -0.84,
+    "rd_expense": 1440630437.19,
+    "rd_ratio": 3.57,
+    "eps": 3.27,
+    "bvps": 18.57,
+    "roe": 18.99,
+    "roa": 14.02,
+    "total_assets": 73669349307.12,
+    "total_liab": 18151903894.38,
+    "debt_ratio": 24.64,
+    "cash": 13764058665.13,
+    "receivables": 7901380298.53,
+    "inventory": 4736229956.28,
+    "goodwill": 1820872684.75,
+    "interest_debt": 5747665888.81,
+    "equity_parent": 55122453910.73,
+    "ocf": 13386911778.77,
+    "capex": 5516558842.19,
+    "fcf": 7870352936.58,
+    "ocf_to_np": 1.39
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 39241431359.88,
+    "revenue_yoy": -2.73,
+    "net_profit": 9450308427.78,
+    "net_profit_yoy": -1.63,
+    "net_profit_deducted": 9988102785.24,
+    "gross_margin": 41.48,
+    "net_margin": 24.38,
+    "selling_expense_ratio": 1.9,
+    "admin_expense_ratio": 7.34,
+    "finance_expense_ratio": -2.0,
+    "rd_expense": 1238524969.42,
+    "rd_ratio": 3.16,
+    "eps": 3.28,
+    "bvps": 20.3,
+    "roe": 16.78,
+    "roa": 12.43,
+    "total_assets": 80325824408.75,
+    "total_liab": 21240210773.18,
+    "debt_ratio": 26.44,
+    "cash": 18322034067.7,
+    "receivables": 7951700878.82,
+    "inventory": 5399747062.06,
+    "goodwill": 972352431.55,
+    "interest_debt": 5008856122.49,
+    "equity_parent": 58632715174.37,
+    "ocf": 12406514834.59,
+    "capex": 4003492547.65,
+    "fcf": 8403022286.94,
+    "ocf_to_np": 1.31
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 45456165774.18,
+    "revenue_yoy": 15.84,
+    "net_profit": 19150582400.69,
+    "net_profit_yoy": 102.65,
+    "net_profit_deducted": 13240556954.42,
+    "gross_margin": 47.64,
+    "net_margin": 42.53,
+    "selling_expense_ratio": 1.78,
+    "admin_expense_ratio": 5.85,
+    "finance_expense_ratio": 0.88,
+    "rd_expense": 1119452992.76,
+    "rd_ratio": 2.46,
+    "eps": 6.7,
+    "bvps": 26.72,
+    "roe": 28.56,
+    "roa": 21.08,
+    "total_assets": 103120968579.11,
+    "total_liab": 22873254977.59,
+    "debt_ratio": 22.18,
+    "cash": 35131309638.47,
+    "receivables": 7262654076.97,
+    "inventory": 8993244894.24,
+    "goodwill": 864388850.17,
+    "interest_debt": 8420113174.81,
+    "equity_parent": 79712290246.44,
+    "ocf": 17203161622.0,
+    "capex": 5538150829.94,
+    "fcf": 11665010792.06,
+    "ocf_to_np": 0.9
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 28897478718.36,
+   "revenue_yoy": 38.93,
+   "net_profit": 11080173661.42,
+   "net_profit_yoy": 29.43,
+   "net_profit_deducted": 10572177317.83,
+   "gross_margin": 53.91,
+   "net_margin": 38.5,
+   "roe": 13.19,
+   "eps": 3.8,
+   "debt_ratio": 27.85,
+   "ocf": 9699142388.08
+  },
+  "derived": {
+   "revenue_cagr_3y": 4.92,
+   "net_profit_cagr_3y": 29.52,
+   "receivables_to_revenue": 15.98,
+   "goodwill_to_equity": 1.08
+  }
+ },
+ "shareholders": {
+  "controller": "Ge Li(李革),张朝晖,刘晓钟",
+  "controlling_shareholder": "G&C VI Limited",
+  "controlling_ratio": 4.27,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "HKSCC NOMINEES LIMITED",
+    "hold_num": 510434758,
+    "hold_ratio": 17.11,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "香港中央结算有限公司",
+    "hold_num": 261564313,
+    "hold_ratio": 8.77,
+    "hold_num_change": 21806945
+   },
+   {
+    "rank": 3,
+    "name": "G&C VI Limited",
+    "hold_num": 127309054,
+    "hold_ratio": 4.27,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "G&C IV Hong Kong Limited",
+    "hold_num": 93135472,
+    "hold_ratio": 3.12,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "北京中民银孚投资管理有限公司-嘉兴宇祥投资合伙企业(有限合伙)",
+    "hold_num": 77511585,
+    "hold_ratio": 2.6,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "G&C V Limited",
+    "hold_num": 65076978,
+    "hold_ratio": 2.18,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "中国建设银行股份有限公司-易方达沪深300医药卫生交易型开放式指数证券投资基金",
+    "hold_num": 40201222,
+    "hold_ratio": 1.35,
+    "hold_num_change": 2203033
+   },
+   {
+    "rank": 8,
+    "name": "G&C VII Limited",
+    "hold_num": 33696017,
+    "hold_ratio": 1.13,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "SUMMER BLOOM INVESTMENTS (I) PTE.LTD.",
+    "hold_num": 31721901,
+    "hold_ratio": 1.06,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 10,
+    "name": "上海厚燊投资中心(有限合伙)",
+    "hold_num": 31051061,
+    "hold_ratio": 1.04,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 261426,
+  "holder_num_change_pct": -8.34,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 19.22,
+  "northbound_ratio": 8.77,
+  "executives": [
+   {
+    "name": "李革",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "李革",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "韩敏",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.0,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.5174,
+    "total_amount": 1529441704.14,
+    "payout_ratio": 30.01,
+    "dividend_yield": 0.49,
+    "ex_date": "2022-06-09"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.8927,
+    "total_amount": 2649083545.14,
+    "payout_ratio": 30.06,
+    "dividend_yield": 1.3,
+    "ex_date": "2023-06-14"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.9897,
+    "total_amount": 2882050829.9,
+    "payout_ratio": 30.0,
+    "dividend_yield": 2.44,
+    "ex_date": "2024-06-26"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.9817,
+    "total_amount": 2835113437.82,
+    "payout_ratio": 30.0,
+    "dividend_yield": 1.57,
+    "ex_date": "2025-05-21"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 1.9293,
+    "total_amount": 5745185519.78,
+    "payout_ratio": 30.0,
+    "dividend_yield": 1.34,
+    "ex_date": "2025-09-26"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 15640875036.78,
+  "cum_netprofit_5y": 52118508280.73,
+  "payout_5y": 30.01,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [
+   "300015.SZ",
+   "300759.SZ",
+   "002821.SZ",
+   "300347.SZ"
+  ],
+  "segments": [
+   {
+    "name": "化学业务(WuXiChemistry)",
+    "revenue": 36465846882.97,
+    "ratio": 80.22,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "测试业务(WuXiTesting)",
+    "revenue": 4041701030.67,
+    "ratio": 8.89,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "生物学业务(WuXiBiology)",
+    "revenue": 2677175030.51,
+    "ratio": 5.89,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "终止经营业务",
+    "revenue": 2035342035.35,
+    "ratio": 4.48,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他业务(Others)",
+    "revenue": 236100794.68,
+    "ratio": 0.52,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "境外",
+    "revenue": 37954185900.0,
+    "ratio": 83.5,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "境内",
+    "revenue": 5466637900.0,
+    "ratio": 12.03,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "终止经营业务",
+    "revenue": 2035342000.0,
+    "ratio": 4.48,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "H股公告",
+    "date": "2026-10-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225601009.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告",
+    "date": "2026-10-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225595526.PDF",
+    "type": null
+   },
+   {
+    "title": "国浩律师（上海）事务所关于无锡药明康德新药开发股份有限公司2026年第一次临时股东会的法律意见书",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225587780.PDF",
+    "type": null
+   },
+   {
+    "title": "无锡药明康德新药开发股份有限公司章程（2026年第二次修订）",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225587779.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年第一次临时股东会决议公告",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225587771.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告",
+    "date": "2026-09-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225579984.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告",
+    "date": "2026-09-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225579976.PDF",
+    "type": null
+   },
+   {
+    "title": "第四届董事会第六次会议决议公告",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225573839.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告",
+    "date": "2026-09-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-18/1225569579.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告",
+    "date": "2026-09-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-17/1225567540.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告",
+    "date": "2026-09-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-16/1225565023.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告",
+    "date": "2026-09-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-15/1225562474.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225559820.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告",
+    "date": "2026-09-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-11/1225557272.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告",
+    "date": "2026-09-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-10/1225555306.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告",
+    "date": "2026-09-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-09/1225553279.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告",
+    "date": "2026-09-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-08/1225551099.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告",
+    "date": "2026-09-05",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-05/1225548702.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告",
+    "date": "2026-09-04",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-04/1225545946.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告",
+    "date": "2026-09-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225543590.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 144
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "董秘您好，作为公司的微股东，仍然比较关注公司的业务开展情况。近期中美两国都报道了医药企业和知名Al公司合作开展药物研发的新闻，我想知道公司的业务会因此受到哪些影响吗？我知道公司已经引进Al帮助进行业务开发，但是公司在这方面工作处于世界范围内的什么地位呢？",
+    "answer": "您好，感谢您对公司的关注。目前AI在创新药物研发领域处于探索和尝试阶段，未来有望大幅提升效率、降低门槛，推动创新者和创新想法快速增长。尽管AI能高效设计分子结构，但仍需要像公司这样具有独特的一体化、端到端CRDMO平台进行复杂的合成交付与生物验证，从而形成“AI设计+CXO赋能落地”不可分割的产业闭环。为此，公司始终坚持“HI（Human Intelligence）+AI”的策略，利用创新工具持续提升服务能力与运营效率，更好地服务全球客户。未来，优秀的CXO将进化为联接前沿AI大脑与实体研发环节的“生命科学操作系统”，在持续迭代中放大自身价值并最终造福病患。",
+    "ask_date": "2026-09-21",
+    "answer_date": "2026-09-30",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=121066"
+   },
+   {
+    "question": "请问贵司的客户有哪些大型药企，劳烦请举例说明，谢谢。",
+    "answer": "您好，感谢您对公司的关注。 公司是全球医药及生命科学行业值得信赖的合作伙伴和重要贡献者，致力于通过提供一体化、端到端的新药研发和生产服务，推动全球医药健康创新。公司尊重客户商业机密，不评论任何具体客户情况。目前，公司的赋能平台正承载着来自全球30多个国家的数千名合作伙伴的研发创新项目，致力于将更多新药、好药带给全球病患。",
+    "ask_date": "2026-09-07",
+    "answer_date": "2026-09-30",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=121066"
+   }
+  ],
+  "count_12m": null
+ }
+}

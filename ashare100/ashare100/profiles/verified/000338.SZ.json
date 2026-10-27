@@ -1,0 +1,646 @@
+{
+ "identity": {
+  "code": "000338",
+  "exchange": "SZ",
+  "board": "主板",
+  "name_full": "潍柴动力股份有限公司",
+  "name_abbr": "潍柴动力",
+  "aliases": [
+   "wcdl"
+  ],
+  "name_en": "Weichai Power Co., Ltd.",
+  "pinyin_abbr": "WCDL",
+  "former_names": [],
+  "industry_sw1": "汽车",
+  "industry_sw2": "汽车零部件",
+  "list_date": "2007-04-30",
+  "province": "山东",
+  "city": "潍坊",
+  "website": "www.weichaipower.com",
+  "chairman": "马常海",
+  "employees": 101440,
+  "business_summary": "动力系统业务、商用车业务、农业装备业务、智慧物流业务、电力能源业务",
+  "profile": "潍柴动力股份有限公司成立于2002年,由原潍坊柴油机厂作为主发起人、联合境内外投资者发起设立,是中国内燃机行业首家在香港H股上市的企业,也是首家通过换股吸收合并方式实现“H to A”两地上市的企业。拥有潍柴动力发动机、陕汽重卡、潍柴雷沃智慧农业、法士特变速器、汉德车桥、火炬火花塞以及德国凯傲、德国林德液压、美国德马泰克、美国PSI、法国博杜安、加拿大巴拉德等国内外知名品牌。 主营业务涵盖动力系统、商用车、农业装备、智慧物流等业务板块,分子公司遍及欧洲、北美、亚洲等地区,产品远销多个国家和地区。重型发动机、重型变速器销量全球第一,工业叉车全球领先,农业装备销量中国第一,重型卡车中国领先。拥有内燃机与动力系统全国重点实验室、国家燃料电池技术创新中心、国家商用汽车动力系统总成工程技术研究中心、国家级工业设计中心、国家内燃机产品质量检验检测中心、国家内燃机产业计量测试中心、国家认定企业技术中心等国家创新平台,设有“博士后工作站”等研究基地,在全球多地设立十大前沿创新中心,建立了全球协同研发体系。 潍柴动力模范履行企业社会责任,积极践行绿色低碳高质量发展,引领装备制造产业链迈向高端、共赢发展。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 21.25,
+  "change_pct": -2.88,
+  "total_mv": 183604688196.25,
+  "float_mv": 105323341538.75,
+  "total_shares": 8640220621,
+  "float_shares": 4956392543,
+  "pe_ttm": 14.14,
+  "pe_static": 16.8,
+  "pb": 1.91,
+  "ps_ttm": 0.76,
+  "turnover_rate": 1.53,
+  "amount": 1617905500.76,
+  "high_52w": 36.33,
+  "low_52w": 13.43,
+  "ytd_return": 26.29,
+  "return_1y": 52.87,
+  "return_3y": 90.98,
+  "dividend_yield": 3.44,
+  "index_members": [
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 220215066328.86,
+    "revenue_yoy": 11.62,
+    "net_profit": 9492605156.58,
+    "net_profit_yoy": 2.86,
+    "net_profit_deducted": 8316233983.68,
+    "gross_margin": 18.97,
+    "net_margin": 5.53,
+    "selling_expense_ratio": 5.22,
+    "admin_expense_ratio": 3.94,
+    "finance_expense_ratio": -0.21,
+    "rd_expense": 7312553419.56,
+    "rd_ratio": 3.32,
+    "eps": 1.13,
+    "bvps": 8.13,
+    "roe": 16.94,
+    "roa": 4.32,
+    "total_assets": 293656199301.61,
+    "total_liab": 188141315964.52,
+    "debt_ratio": 64.07,
+    "cash": 79678748969.61,
+    "receivables": 18667187992.66,
+    "inventory": 35424893249.08,
+    "goodwill": 22847040337.79,
+    "interest_debt": 37060292643.56,
+    "equity_parent": 72078674915.79,
+    "ocf": 20717120964.08,
+    "capex": 6252213065.95,
+    "fcf": 14464907898.13,
+    "ocf_to_np": 2.18
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 175157535625.82,
+    "revenue_yoy": -20.46,
+    "net_profit": 4905013042.11,
+    "net_profit_yoy": -48.33,
+    "net_profit_deducted": 3282799644.89,
+    "gross_margin": 17.78,
+    "net_margin": 3.24,
+    "selling_expense_ratio": 6.09,
+    "admin_expense_ratio": 4.62,
+    "finance_expense_ratio": -0.52,
+    "rd_expense": 7731181220.54,
+    "rd_ratio": 4.41,
+    "eps": 0.57,
+    "bvps": 8.39,
+    "roe": 6.66,
+    "roa": 1.94,
+    "total_assets": 293666087852.49,
+    "total_liab": 189555435692.08,
+    "debt_ratio": 64.55,
+    "cash": 70841690615.34,
+    "receivables": 21418523616.59,
+    "inventory": 33373961762.55,
+    "goodwill": 24019149507.73,
+    "interest_debt": 49087851729.51,
+    "equity_parent": 73184253921.46,
+    "ocf": -2349498421.34,
+    "capex": 6635161342.42,
+    "fcf": -8984659763.76,
+    "ocf_to_np": -0.48
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 213958475631.13,
+    "revenue_yoy": 22.15,
+    "net_profit": 9013894024.19,
+    "net_profit_yoy": 83.77,
+    "net_profit_deducted": 8079911264.23,
+    "gross_margin": 20.34,
+    "net_margin": 5.24,
+    "selling_expense_ratio": 5.52,
+    "admin_expense_ratio": 4.42,
+    "finance_expense_ratio": 0.26,
+    "rd_expense": 8044946289.02,
+    "rd_ratio": 3.76,
+    "eps": 1.04,
+    "bvps": 9.09,
+    "roe": 11.69,
+    "roa": 3.57,
+    "total_assets": 334247213024.91,
+    "total_liab": 221561478139.45,
+    "debt_ratio": 66.29,
+    "cash": 92856868996.26,
+    "receivables": 23753999010.24,
+    "inventory": 37930386262.83,
+    "goodwill": 24858318250.05,
+    "interest_debt": 48030866394.92,
+    "equity_parent": 79335199814.41,
+    "ocf": 27470853329.84,
+    "capex": 7199786770.99,
+    "fcf": 20271066558.85,
+    "ocf_to_np": 3.05
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 215690504589.82,
+    "revenue_yoy": 0.81,
+    "net_profit": 11403288984.59,
+    "net_profit_yoy": 26.51,
+    "net_profit_deducted": 10527430597.44,
+    "gross_margin": 22.43,
+    "net_margin": 6.62,
+    "selling_expense_ratio": 5.79,
+    "admin_expense_ratio": 4.76,
+    "finance_expense_ratio": 0.11,
+    "rd_expense": 8299429709.99,
+    "rd_ratio": 3.85,
+    "eps": 1.31,
+    "bvps": 9.93,
+    "roe": 13.69,
+    "roa": 4.21,
+    "total_assets": 343879412547.54,
+    "total_liab": 221920756222.38,
+    "debt_ratio": 64.53,
+    "cash": 72066926728.68,
+    "receivables": 30877182388.79,
+    "inventory": 35675282801.36,
+    "goodwill": 24561247939.69,
+    "interest_debt": 43237164083.66,
+    "equity_parent": 86696358548.97,
+    "ocf": 26094123939.28,
+    "capex": 7359809523.41,
+    "fcf": 18734314415.87,
+    "ocf_to_np": 2.29
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 231809281106.82,
+    "revenue_yoy": 7.47,
+    "net_profit": 10930504451.02,
+    "net_profit_yoy": -4.15,
+    "net_profit_deducted": 9661710486.4,
+    "gross_margin": 21.48,
+    "net_margin": 5.9,
+    "selling_expense_ratio": 5.88,
+    "admin_expense_ratio": 5.18,
+    "finance_expense_ratio": -0.2,
+    "rd_expense": 8284484022.37,
+    "rd_ratio": 3.57,
+    "eps": 1.27,
+    "bvps": 10.69,
+    "roe": 12.08,
+    "roa": 3.85,
+    "total_assets": 367475596673.66,
+    "total_liab": 236413580955.78,
+    "debt_ratio": 64.33,
+    "cash": 68712656654.45,
+    "receivables": 34355085460.01,
+    "inventory": 35235655086.13,
+    "goodwill": 25268780487.65,
+    "interest_debt": 39508775600.58,
+    "equity_parent": 93190211519.02,
+    "ocf": 28681522296.05,
+    "capex": 6796720341.73,
+    "fcf": 21884801954.32,
+    "ocf_to_np": 2.62
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 123162965227.85,
+   "revenue_yoy": 8.85,
+   "net_profit": 7701265423.95,
+   "net_profit_yoy": 36.46,
+   "net_profit_deducted": 6118889076.31,
+   "gross_margin": 21.46,
+   "net_margin": 7.75,
+   "roe": 8.0,
+   "eps": 0.89,
+   "debt_ratio": 64.49,
+   "ocf": 11349444379.45
+  },
+  "derived": {
+   "revenue_cagr_3y": 9.79,
+   "net_profit_cagr_3y": 30.62,
+   "receivables_to_revenue": 14.82,
+   "goodwill_to_equity": 27.12
+  }
+ },
+ "shareholders": {
+  "controller": "山东重工集团有限公司",
+  "controlling_shareholder": "潍柴控股集团有限公司",
+  "controlling_ratio": 16.42,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "香港中央结算代理人有限公司",
+    "hold_num": 1939031455,
+    "hold_ratio": 22.39,
+    "hold_num_change": 73279
+   },
+   {
+    "rank": 2,
+    "name": "潍柴控股集团有限公司",
+    "hold_num": 1422550620,
+    "hold_ratio": 16.42,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "香港中央结算有限公司",
+    "hold_num": 1193652714,
+    "hold_ratio": 13.78,
+    "hold_num_change": 499750926
+   },
+   {
+    "rank": 4,
+    "name": "潍坊市投资集团有限公司",
+    "hold_num": 296625408,
+    "hold_ratio": 3.42,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+    "hold_num": 110628813,
+    "hold_ratio": 1.28,
+    "hold_num_change": 3602300
+   },
+   {
+    "rank": 6,
+    "name": "IVM Technical Consultants Wien Gesellschaft m.b.H",
+    "hold_num": 100833100,
+    "hold_ratio": 1.16,
+    "hold_num_change": null
+   },
+   {
+    "rank": 7,
+    "name": "谭旭光",
+    "hold_num": 58842596,
+    "hold_ratio": 0.68,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "法国巴黎银行-自有资金",
+    "hold_num": 54664443,
+    "hold_ratio": 0.63,
+    "hold_num_change": null
+   },
+   {
+    "rank": 9,
+    "name": "CITIGROUP GLOBAL MARKETS LIMITED",
+    "hold_num": 48290732,
+    "hold_ratio": 0.56,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "胡中祥",
+    "hold_num": 46404356,
+    "hold_ratio": 0.54,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 166412,
+  "holder_num_change_pct": -19.38,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 15.3,
+  "northbound_ratio": 13.78,
+  "executives": [
+   {
+    "name": "马常海",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "王德成",
+    "title": "总经理",
+    "pay": 2235200.0
+   },
+   {
+    "name": "郝庆贵",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.14,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.37,
+    "total_amount": 3228826023.77,
+    "payout_ratio": 34.01,
+    "dividend_yield": 1.37,
+    "ex_date": "2021-10-22"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.254,
+    "total_amount": 2216545432.53,
+    "payout_ratio": 45.19,
+    "dividend_yield": 1.21,
+    "ex_date": "2022-10-21"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.519,
+    "total_amount": 4529082990.1,
+    "payout_ratio": 50.25,
+    "dividend_yield": 1.72,
+    "ex_date": "2023-10-27"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.719,
+    "total_amount": 6270617077.12,
+    "payout_ratio": 54.99,
+    "dividend_yield": 2.46,
+    "ex_date": "2024-10-18"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.732,
+    "total_amount": 6350904616.22,
+    "payout_ratio": 58.1,
+    "dividend_yield": 1.82,
+    "ex_date": "2025-10-24"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 22595976139.74,
+  "cum_netprofit_5y": 45745305658.49,
+  "payout_5y": 49.4,
+  "buyback_3y": 761492999.13
+ },
+ "peers": {
+  "peer_codes": [
+   "600660.SH",
+   "601689.SH",
+   "600741.SH",
+   "601058.SH"
+  ],
+  "segments": [
+   {
+    "name": "动力总成、整车整机及关键零部件",
+    "revenue": 100410725808.64,
+    "ratio": 43.32,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "智慧物流",
+    "revenue": 91076800865.77,
+    "ratio": 39.29,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "农业装备",
+    "revenue": 18788699730.23,
+    "ratio": 8.11,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他零部件",
+    "revenue": 11876205617.81,
+    "ratio": 5.12,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他",
+    "revenue": 9656849084.37,
+    "ratio": 4.17,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "国外",
+    "revenue": 122882970124.33,
+    "ratio": 53.01,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "国内",
+    "revenue": 108926310982.49,
+    "ratio": 46.99,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "潍柴动力股份有限公司关于控股股东增持公司A股股份计划实施期限过半的进展公告",
+    "date": "2026-10-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-22/1225613841.PDF",
+    "type": null
+   },
+   {
+    "title": "潍柴动力股份有限公司2026年中期A股分红派息实施公告",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225608127.PDF",
+    "type": null
+   },
+   {
+    "title": "潍柴动力股份有限公司关于高管变动的公告",
+    "date": "2026-09-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-15/1225563701.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市通商律师事务所关于潍柴动力股份有限公司2026年第二次临时股东会的法律意见书",
+    "date": "2026-09-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-15/1225563700.PDF",
+    "type": null
+   },
+   {
+    "title": "潍柴动力股份有限公司2026年第二次临时股东会决议公告",
+    "date": "2026-09-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-15/1225563699.PDF",
+    "type": null
+   },
+   {
+    "title": "潍柴动力股份有限公司2026年第七次临时董事会会议决议公告",
+    "date": "2026-09-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-15/1225563698.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度报告摘要",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225522040.pdf",
+    "type": null
+   },
+   {
+    "title": "潍柴动力股份有限公司章程修订条文对照表",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225520953.PDF",
+    "type": null
+   },
+   {
+    "title": "潍柴动力股份有限公司章程",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225520952.PDF",
+    "type": null
+   },
+   {
+    "title": "潍柴动力股份有限公司关于调整公司2023年A股限制性股票激励计划回购价格的公告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225520951.PDF",
+    "type": null
+   },
+   {
+    "title": "潍柴动力股份有限公司关于回购注销部分A股限制性股票减少注册资本通知债权人的公告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225520950.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市通商律师事务所关于潍柴动力股份有限公司2023年A股限制性股票激励计划调整回购价格及回购注销部分A股限制性股票事项之法律意见书",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225520949.PDF",
+    "type": null
+   },
+   {
+    "title": "潍柴动力股份有限公司董事会薪酬委员会关于公司2023年A股限制性股票激励计划相关事项的核查意见",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225520948.PDF",
+    "type": null
+   },
+   {
+    "title": "潍柴动力股份有限公司关于回购注销部分A股限制性股票的公告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225520947.PDF",
+    "type": null
+   },
+   {
+    "title": "潍柴动力股份有限公司七届八次董事会会议决议公告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225520946.PDF",
+    "type": null
+   },
+   {
+    "title": "潍柴动力股份有限公司关于山东重工集团财务有限公司2026年上半年风险评估报告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225520945.PDF",
+    "type": null
+   },
+   {
+    "title": "潍柴动力股份有限公司关于2026年半年度募集资金存放、管理与使用情况的专项报告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225520944.PDF",
+    "type": null
+   },
+   {
+    "title": "潍柴动力股份有限公司2026年中期审阅报告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225520943.PDF",
+    "type": null
+   },
+   {
+    "title": "潍柴动力股份有限公司2026年半年度非经营性资金占用及其他关联资金往来情况汇总表",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225520942.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度报告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225520941.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 121
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "董秘你好，公司股价持续下行，本人持有半年亏损严重。想咨询：对照深交所上市规则，公司当前是否存在财务类、交易类或其他退市风险？是否存在触发 ST、*ST 风险警示的情形？",
+    "answer": "二级市场股价走势受宏观环境、板块情绪、资金轮动、投资者偏好等多重因素共同影响。公司当前生产经营稳健、财务状况良好，不存在财务类、交易类及其他类退市情形，亦不存在触发退市风险警示、其他风险警示的相关情形。感谢您对公司的关注！",
+    "ask_date": "2026-10-20",
+    "answer_date": "2026-10-20",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2385780580463017984"
+   },
+   {
+    "question": "请问贵公司，截止9月30股东户数是多少？",
+    "answer": "公司按照监管的相关规定，在定期报告中统一披露截至报告期末的股东户数，请您关注公司后续三季报。感谢您对公司的关注！",
+    "ask_date": "2026-10-15",
+    "answer_date": "2026-10-19",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2382330338744860672"
+   },
+   {
+    "question": "董秘你好，公司股价持续走弱，持仓浮亏接近 30%，想请教： 1、公司目前经营层面是否存在应披露而尚未披露的重大利空事项？ 2、公司如何看待近期股价持续下行？资金持续流出，是否有机构对公司长期逻辑产生较大分歧？ 3、除了做好经营之外，管理层有没有考虑回购、增持等方式稳定股价，提振市场信心？",
+    "answer": "公司目前生产经营一切正常，不存在应披露而未披露的重大事项。二级市场股价走势受宏观环境、板块情绪、资金轮动、投资者偏好等多重因素共同影响。公司基本面稳健，各项业务按计划有序推进，持续深耕主业并加快新业务布局，同时保持与各类投资者的顺畅沟通，积极传递公司长期投资价值。公司高度重视广大投资者的利益与诉求，持续研判市场运行情况，充分考量股东的合理建议；公司已于7月22日披露控股股东增持公司A股股份的计划公告。感谢您对公司的关注！",
+    "ask_date": "2026-10-14",
+    "answer_date": "2026-10-15",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2381347804912336896"
+   },
+   {
+    "question": "你好！两个问题 1:贵司控股股东承诺的回购股份进展如何？ 2:SOFC进展如何？具体到哪一步了？ 谢谢",
+    "answer": "关于公司控股股东增持的具体进展，敬请关注公司后续公告。公司SOFC业务正按规划稳步推进，技术迭代、产能建设、市场拓展等各项工作有序开展。感谢您对公司的关注！",
+    "ask_date": "2026-10-09",
+    "answer_date": "2026-10-14",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2377493380935843840"
+   },
+   {
+    "question": "董秘您好！公司在OpenAI德州星门项目中，作为与CAT并列的核心供应商，后续是否有机会切入其主电源或其他超大规模数据中心项目？对于公司预计2026年落地的30MW产能中，预计有多少比例是用于数据中心主电源，多少用于备用电源？",
+    "answer": "公司数据中心电力产品矩阵完备，覆盖柴发、气发、SOFC等多条技术路线，可满足数据中心主电源、备用电源等不同场景需求。目前公司已与多家终端客户接洽并获得实质性进展，同时与合作伙伴的协作关系持续深化。SOFC产品主要应用于数据中心持续发电场景，并具有清洁低碳、低噪音、高发电效率等突出优势。感谢您对公司的关注！",
+    "ask_date": "2026-10-09",
+    "answer_date": "2026-10-14",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2377486955697516544"
+   },
+   {
+    "question": "公司与控股股东及其控制企业存在大量同业竞争，包括重卡同业竞争、工程机械同业竞争等等，很严重，违反证券法，如何极速解决？",
+    "answer": "基于国有股权划转原因，公司与集团下属企业在重卡业务方面存在部分重合的情况，具体情况详见公司年度报告“同业竞争”部分。公司将依法依规加快推进相关工作。感谢您对公司的关注！",
+    "ask_date": "2026-10-01",
+    "answer_date": "2026-10-12",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2371915850538659840"
+   },
+   {
+    "question": "1、大缸径柴发当前在手订单多少？北美客户交付节奏如何？若算力投资放缓，对这块业务影响怎么评估？ 2、国内重卡需求偏弱，传统动力下半年盈利能否稳住？海外出口增长持续性如何？ 3、凯傲集团盈利修复进度，降本措施效果如何，对上市公司利润拖累是否消除？ 4、大缸径柴发板块前景如何？未来3年营收、利润占比目标是多少？",
+    "answer": "大缸径柴油发动机配套市场广泛，下游涵盖数据中心、工业园区、通信基站、矿山油田及商业楼宇等诸多应用场景。上半年公司销售M系列大缸径发动机6700台，同比增长超30%；其中销售数据中心柴发产品1400余台，同比实现翻番以上增长。受益于全球AI算力需求持续爆发、数据中心建设全面提速，柴发产品长期发展前景向好，增长空间巨大。柴发产品的销量区域分布较为均衡，对单一区域或客户的依赖较低。目前公司已与全球范围内多家终端客户接洽并建立合作关系。重卡发动机业务发展稳健，公司持续开拓战略客户、大力发展新能源业务、深化成本管控，增强业务盈利韧性。海外出口有望保持持续增长态势。凯傲集团2026年上半年利润同比增长超300%，经营态势全面修复，重回稳健增长通道。感谢您对公司的关注！",
+    "ask_date": "2026-09-30",
+    "answer_date": "2026-10-08",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2370845853741162496"
+   },
+   {
+    "question": "根据巴拉德动力系统的公告，巴拉德在2025四季度对潍柴巴拉德合资公司进行了全额计提减值，退出中国市场。请问下贵公司在氢能源领域是否转向了自主研发与国产零部件的方案？",
+    "answer": "目前潍柴动力与巴拉德中国合资公司仍在正常运营中。感谢您对公司的关注！",
+    "ask_date": "2026-09-09",
+    "answer_date": "2026-09-11",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2355469415733555200"
+   }
+  ],
+  "count_12m": null
+ }
+}

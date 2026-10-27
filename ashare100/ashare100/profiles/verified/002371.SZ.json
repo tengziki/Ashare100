@@ -1,0 +1,648 @@
+{
+ "identity": {
+  "code": "002371",
+  "exchange": "SZ",
+  "board": "主板",
+  "name_full": "北方华创科技集团股份有限公司",
+  "name_abbr": "北方华创",
+  "aliases": [
+   "bfhc"
+  ],
+  "name_en": "NAURA Technology Group Co.,Ltd.",
+  "pinyin_abbr": "BFHC",
+  "former_names": [
+   "七星电子"
+  ],
+  "industry_sw1": "电子",
+  "industry_sw2": "半导体",
+  "list_date": "2010-03-16",
+  "province": "北京",
+  "city": "北京",
+  "website": "www.naura.com",
+  "chairman": "赵晋荣",
+  "employees": 21101,
+  "business_summary": "半导体基础产品的研发、生产、销售和技术服务",
+  "profile": "北方华创科技集团股份有限公司(以下简称“北方华创”)成立于2001年9月,2010年在深圳证券交易所上市,股票代码002371,是目前国内集成电路高端工艺装备的先进企业。北方华创以科技创新为基点,着眼未来,致力于加快推进北方华创向新型制造业的战略转型;致力于成为半导体基础产品领域值得信赖的引领者;致力于提升人类智能生活品质;致力于实现中国“智造强国”的梦想蓝图。北方华创主营半导体装备、真空及锂电装备、精密元器件业务,为半导体、新能源、新材料等领域提供解决方案。公司现有六大研发生产基地,营销服务体系覆盖欧、美、亚等全球主要国家和地区。未来的北方华创,将以半导体基础产品领域先进企业的姿态登上世界舞台,深耕发展,引领未来,坚持以客户为中心,以价值创造者为本,持续创新,推动产业进步,创造无限可能。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 542.0,
+  "change_pct": -3.39,
+  "total_mv": 394478502330.0,
+  "float_mv": 394151396116.0,
+  "total_shares": 727820115,
+  "float_shares": 727216598,
+  "pe_ttm": 69.4,
+  "pe_static": 71.44,
+  "pb": 9.73,
+  "ps_ttm": 9.1,
+  "turnover_rate": 1.02,
+  "amount": 4118802829.44,
+  "high_52w": 967.24,
+  "low_52w": 385.86,
+  "ytd_return": 18.26,
+  "return_1y": 34.28,
+  "return_3y": 208.9,
+  "dividend_yield": 0.14,
+  "index_members": [
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 9683478119.38,
+    "revenue_yoy": 59.9,
+    "net_profit": 1077409991.25,
+    "net_profit_yoy": 100.66,
+    "net_profit_deducted": 806719757.21,
+    "gross_margin": 39.41,
+    "net_margin": 12.32,
+    "selling_expense_ratio": 5.29,
+    "admin_expense_ratio": 12.32,
+    "finance_expense_ratio": -0.48,
+    "rd_expense": 1297237567.86,
+    "rd_ratio": 13.4,
+    "eps": 2.15,
+    "bvps": 32.14,
+    "roe": 11.94,
+    "roa": 4.91,
+    "total_assets": 31054473364.61,
+    "total_liab": 13856082205.54,
+    "debt_ratio": 44.62,
+    "cash": 9067562269.03,
+    "receivables": 1899157846.34,
+    "inventory": 8034633766.6,
+    "goodwill": 16541639.65,
+    "interest_debt": 31786417.6,
+    "equity_parent": 16897559553.3,
+    "ocf": -776859120.34,
+    "capex": 446819853.6,
+    "fcf": -1223678973.94,
+    "ocf_to_np": -0.72
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 14688111969.67,
+    "revenue_yoy": 51.68,
+    "net_profit": 2352726657.86,
+    "net_profit_yoy": 118.37,
+    "net_profit_deducted": 2106066422.59,
+    "gross_margin": 43.83,
+    "net_margin": 17.3,
+    "selling_expense_ratio": 5.46,
+    "admin_expense_ratio": 9.68,
+    "finance_expense_ratio": -0.57,
+    "rd_expense": 1845332254.24,
+    "rd_ratio": 12.56,
+    "eps": 4.46,
+    "bvps": 37.35,
+    "roe": 12.96,
+    "roa": 6.9,
+    "total_assets": 42551398848.42,
+    "total_liab": 22567493566.5,
+    "debt_ratio": 53.04,
+    "cash": 10434615089.01,
+    "receivables": 2995183112.4,
+    "inventory": 13040608646.0,
+    "goodwill": 18069530.17,
+    "interest_debt": 4089213429.22,
+    "equity_parent": 19746063184.31,
+    "ocf": -727939010.42,
+    "capex": 1408594920.39,
+    "fcf": -2136533930.81,
+    "ocf_to_np": -0.31
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 22079458092.37,
+    "revenue_yoy": 50.32,
+    "net_profit": 3899069987.91,
+    "net_profit_yoy": 65.73,
+    "net_profit_deducted": 3580949174.92,
+    "gross_margin": 40.78,
+    "net_margin": 18.26,
+    "selling_expense_ratio": 4.59,
+    "admin_expense_ratio": 7.94,
+    "finance_expense_ratio": -0.08,
+    "rd_expense": 2475304060.27,
+    "rd_ratio": 11.21,
+    "eps": 7.36,
+    "bvps": 45.96,
+    "roe": 17.88,
+    "roa": 8.39,
+    "total_assets": 53624552279.13,
+    "total_liab": 28799771760.61,
+    "debt_ratio": 53.71,
+    "cash": 12451459936.82,
+    "receivables": 3767378764.55,
+    "inventory": 16992011957.89,
+    "goodwill": 27309669.99,
+    "interest_debt": 6039895208.52,
+    "equity_parent": 24366942915.23,
+    "ocf": 2365007734.54,
+    "capex": 1979981583.31,
+    "fcf": 385026151.23,
+    "ocf_to_np": 0.61
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 30074860164.89,
+    "revenue_yoy": 36.21,
+    "net_profit": 5621756343.64,
+    "net_profit_yoy": 44.18,
+    "net_profit_deducted": 5571288645.45,
+    "gross_margin": 42.94,
+    "net_margin": 19.0,
+    "selling_expense_ratio": 3.66,
+    "admin_expense_ratio": 7.19,
+    "finance_expense_ratio": 0.21,
+    "rd_expense": 3698631501.1,
+    "rd_ratio": 12.3,
+    "eps": 7.83,
+    "bvps": 58.34,
+    "roe": 20.63,
+    "roa": 9.52,
+    "total_assets": 66365924397.26,
+    "total_liab": 33825997215.53,
+    "debt_ratio": 50.97,
+    "cash": 12396398055.92,
+    "receivables": 6235616322.41,
+    "inventory": 23634929581.02,
+    "goodwill": 37806415.69,
+    "interest_debt": 6338255052.19,
+    "equity_parent": 31081728148.52,
+    "ocf": 1551813643.85,
+    "capex": 2082167390.2,
+    "fcf": -530353746.35,
+    "ocf_to_np": 0.28
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 39353112419.78,
+    "revenue_yoy": 30.85,
+    "net_profit": 5521993004.86,
+    "net_profit_yoy": -1.77,
+    "net_profit_deducted": 5335952532.08,
+    "gross_margin": 40.1,
+    "net_margin": 13.74,
+    "selling_expense_ratio": 4.16,
+    "admin_expense_ratio": 8.72,
+    "finance_expense_ratio": 0.58,
+    "rd_expense": 5435445365.5,
+    "rd_ratio": 13.81,
+    "eps": 7.64,
+    "bvps": 52.06,
+    "roe": 16.41,
+    "roa": 6.93,
+    "total_assets": 89800578023.69,
+    "total_liab": 45873028287.64,
+    "debt_ratio": 51.08,
+    "cash": 17337032659.35,
+    "receivables": 8216966691.36,
+    "inventory": 28627037139.1,
+    "goodwill": 2386263763.33,
+    "interest_debt": 15015604353.18,
+    "equity_parent": 37725889397.5,
+    "ocf": 2133444577.85,
+    "capex": 2261525919.3,
+    "fcf": -128081341.45,
+    "ocf_to_np": 0.39
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 20161416890.56,
+   "revenue_yoy": 24.9,
+   "net_profit": 3370020676.75,
+   "net_profit_yoy": 5.05,
+   "net_profit_deducted": 3340719149.36,
+   "gross_margin": 40.07,
+   "net_margin": 16.01,
+   "roe": 8.58,
+   "eps": 4.65,
+   "debt_ratio": 50.26,
+   "ocf": 3773698817.34
+  },
+  "derived": {
+   "revenue_cagr_3y": 38.89,
+   "net_profit_cagr_3y": 32.89,
+   "receivables_to_revenue": 20.88,
+   "goodwill_to_equity": 6.33
+  }
+ },
+ "shareholders": {
+  "controller": "北京电子控股有限责任公司",
+  "controlling_shareholder": "北京七星华电科技集团有限责任公司",
+  "controlling_ratio": 33.15,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "北京七星华电科技集团有限责任公司",
+    "hold_num": 240537223,
+    "hold_ratio": 33.15,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "香港中央结算有限公司",
+    "hold_num": 94340308,
+    "hold_ratio": 13.0,
+    "hold_num_change": -966055
+   },
+   {
+    "rank": 3,
+    "name": "北京电子控股有限责任公司",
+    "hold_num": 52954564,
+    "hold_ratio": 7.3,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "国家集成电路产业投资基金股份有限公司",
+    "hold_num": 29753983,
+    "hold_ratio": 4.1,
+    "hold_num_change": -5001089
+   },
+   {
+    "rank": 5,
+    "name": "国新投资有限公司",
+    "hold_num": 22823766,
+    "hold_ratio": 3.15,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "广发证券股份有限公司-国泰中证半导体材料设备主题交易型开放式指数证券投资基金",
+    "hold_num": 6659146,
+    "hold_ratio": 0.92,
+    "hold_num_change": 1072352
+   },
+   {
+    "rank": 7,
+    "name": "华芯投资管理有限责任公司-国家集成电路产业投资基金二期股份有限公司",
+    "hold_num": 5937138,
+    "hold_ratio": 0.82,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "北京硅元科电微电子技术有限责任公司",
+    "hold_num": 3744420,
+    "hold_ratio": 0.52,
+    "hold_num_change": null
+   },
+   {
+    "rank": 9,
+    "name": "中国农业银行股份有限公司-东方人工智能主题混合型证券投资基金",
+    "hold_num": 3543287,
+    "hold_ratio": 0.49,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "中国建设银行股份有限公司-华夏国证半导体芯片交易型开放式指数证券投资基金",
+    "hold_num": 3203577,
+    "hold_ratio": 0.44,
+    "hold_num_change": -1468789
+   }
+  ],
+  "holder_num": 82734,
+  "holder_num_change_pct": 8.06,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 15.28,
+  "northbound_ratio": 13.0,
+  "executives": [
+   {
+    "name": "赵晋荣",
+    "title": "董事长",
+    "pay": 3760000.0
+   },
+   {
+    "name": "董博宇",
+    "title": "总经理",
+    "pay": 2510000.0
+   },
+   {
+    "name": "王晓宁",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.0,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.205,
+    "total_amount": 108107497.63,
+    "payout_ratio": 10.03,
+    "dividend_yield": 0.07,
+    "ex_date": "2022-07-13"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.445,
+    "total_amount": 235806652.55,
+    "payout_ratio": 10.02,
+    "dividend_yield": 0.16,
+    "ex_date": "2023-07-13"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.78,
+    "total_amount": 414195337.92,
+    "payout_ratio": 10.62,
+    "dividend_yield": 0.24,
+    "ex_date": "2024-07-04"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 1.06,
+    "total_amount": 566592349.04,
+    "payout_ratio": 10.08,
+    "dividend_yield": 0.24,
+    "ex_date": "2025-07-03"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.762,
+    "total_amount": 552975170.4,
+    "payout_ratio": 10.01,
+    "dividend_yield": 0.09,
+    "ex_date": "2026-07-03"
+   }
+  ],
+  "consecutive_years": 5,
+  "cum_dividend_5y": 1877677007.54,
+  "cum_netprofit_5y": 18472955985.52,
+  "payout_5y": 10.16,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "688825.SH",
+   "688981.SH",
+   "688256.SH",
+   "688041.SH"
+  ],
+  "segments": [
+   {
+    "name": "电子工艺装备",
+    "revenue": 36731219888.81,
+    "ratio": 93.34,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "电子元器件",
+    "revenue": 2579277891.07,
+    "ratio": 6.55,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 42614639.9,
+    "ratio": 0.11,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "中部及东南部",
+    "revenue": 24560118748.31,
+    "ratio": 62.41,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "东北及华北",
+    "revenue": 11272298907.23,
+    "ratio": 28.64,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "西北及西南",
+    "revenue": 2997979300.17,
+    "ratio": 7.62,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他地区",
+    "revenue": 522715464.07,
+    "ratio": 1.33,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "关于2024年股票期权激励计划部分股票期权注销完成的公告",
+    "date": "2026-10-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225611634.PDF",
+    "type": null
+   },
+   {
+    "title": "关于注销2024年股票期权激励计划部分股票期权的公告",
+    "date": "2026-10-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607515.PDF",
+    "type": null
+   },
+   {
+    "title": "中信建投证券股份有限公司关于北方华创2024年股票期权激励计划第一个行权期行权条件成就之独立财务顾问报告",
+    "date": "2026-10-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607514.PDF",
+    "type": null
+   },
+   {
+    "title": "北京金诚同达律师事务所关于北方华创2024年股票期权激励计划行权期行权条件成就及注销部分期权相关事项的法律意见书",
+    "date": "2026-10-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607513.PDF",
+    "type": null
+   },
+   {
+    "title": "董事会薪酬与考核委员会关于公司2024年股票期权激励计划相关事项的核查意见",
+    "date": "2026-10-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607512.PDF",
+    "type": null
+   },
+   {
+    "title": "关于2024年股票期权激励计划第一个行权期行权条件成就的公告",
+    "date": "2026-10-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607511.PDF",
+    "type": null
+   },
+   {
+    "title": "第九届董事会第七次会议决议公告",
+    "date": "2026-10-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607510.PDF",
+    "type": null
+   },
+   {
+    "title": "关于收购北京诺合键维设备有限公司100%股权暨关联交易的公告",
+    "date": "2026-10-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607509.PDF",
+    "type": null
+   },
+   {
+    "title": "关于归还暂时补充流动资金的闲置募集资金的公告",
+    "date": "2026-10-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225602674.PDF",
+    "type": null
+   },
+   {
+    "title": "关于2026年员工持股计划实施进展的公告",
+    "date": "2026-09-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-19/1225571934.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度募集资金存放与使用情况的专项报告",
+    "date": "2026-08-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225501906.PDF",
+    "type": null
+   },
+   {
+    "title": "第九届董事会第五次会议决议公告",
+    "date": "2026-08-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225501905.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度非经营性资金占用及其他关联资金往来情况汇总表",
+    "date": "2026-08-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225501904.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度报告",
+    "date": "2026-08-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225501903.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度报告摘要",
+    "date": "2026-08-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225501902.PDF",
+    "type": null
+   },
+   {
+    "title": "关于2026年员工持股计划实施进展的公告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225488144.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年第一次临时股东会法律意见书",
+    "date": "2026-08-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-18/1225477024.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年第一次临时股东会决议公告",
+    "date": "2026-08-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-18/1225477023.PDF",
+    "type": null
+   },
+   {
+    "title": "关于2026年员工持股计划开户完成的公告",
+    "date": "2026-08-06",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-06/1225458992.PDF",
+    "type": null
+   },
+   {
+    "title": "关于召开2026年第一次临时股东会的通知",
+    "date": "2026-07-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-31/1225448026.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 173
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "请问，截至2026年十月 20日公司的股东总数是多少？谢谢",
+    "answer": null,
+    "ask_date": "2026-10-20",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2385967772115189760"
+   },
+   {
+    "question": "请教公司董秘一个技术问题：长存的Xtacking 架构和长鑫未来的4F 架构，都是采用“存储单元和逻辑单元分立制造 混合键合”的模式，就是说，存储厂商扩产1万片产能，对应的逻辑晶圆厂也要扩1万片产能。那么，未来几年，两存大幅扩产，是否意味着国内28nm逻辑产线也会大规模扩产？对公司成熟逻辑设备业务有大幅带动？ 谢谢",
+    "answer": null,
+    "ask_date": "2026-10-16",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2382784797588697088"
+   },
+   {
+    "question": "请问截止2026年10月10日公司的股东人数是多少？谢谢",
+    "answer": null,
+    "ask_date": "2026-10-16",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2382672947865395200"
+   },
+   {
+    "question": "您好，请问贵公司在编制2025年年度报告、特别是“管理层讨论与分析”等文字章节时，是否使用过DeepSeek、豆包等生成式人工智能工具（包括使用内部系统集成的生成式AI功能），来辅助信息搜集、文字起草、修改或润色？如有，烦请说明主要使用环节；如未使用，也烦请明确说明。谢谢！",
+    "answer": null,
+    "ask_date": "2026-10-15",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2382276634084655104"
+   },
+   {
+    "question": "北方华创作为国产半导体设备龙头企业，股价跑输了大部分细分领域头部公司，是产品竞争力不行？公司在国产 fab 线有哪些优势产品，请具体介绍一下。不然资本市场不相信公司的实力",
+    "answer": null,
+    "ask_date": "2026-10-13",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2380561258627072000"
+   },
+   {
+    "question": "请问，截至2026年十月 9日公司的股东总数是多少？谢谢",
+    "answer": null,
+    "ask_date": "2026-10-10",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2378089590695337984"
+   },
+   {
+    "question": "PLD和MBE工艺中，臭氧是目前主流选择必须参与的吗？",
+    "answer": null,
+    "ask_date": "2026-10-09",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2377695561957900288"
+   },
+   {
+    "question": "请问，截至2026年九月 30日公司的股东总数是多少？谢谢",
+    "answer": null,
+    "ask_date": "2026-10-01",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2371353535971962880"
+   }
+  ],
+  "count_12m": null
+ }
+}

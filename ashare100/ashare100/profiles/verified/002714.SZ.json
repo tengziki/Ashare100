@@ -1,0 +1,647 @@
+{
+ "identity": {
+  "code": "002714",
+  "exchange": "SZ",
+  "board": "主板",
+  "name_full": "牧原食品集团股份有限公司",
+  "name_abbr": "牧原股份",
+  "aliases": [
+   "mygf"
+  ],
+  "name_en": "MUYUAN FOODS GROUP CO.,LTD.",
+  "pinyin_abbr": "MYGF",
+  "former_names": [
+   "N牧原"
+  ],
+  "industry_sw1": "农林牧渔",
+  "industry_sw2": "养殖业",
+  "list_date": "2014-01-28",
+  "province": "河南",
+  "city": "南阳",
+  "website": "www.muyuanfoods.com",
+  "chairman": "曹治年",
+  "employees": 127550,
+  "business_summary": "生猪的养殖销售、生猪屠宰",
+  "profile": "牧原食品集团股份有限公司始创于1992年,2014年上市。现已形成集饲料加工、生猪育种、生猪养殖、屠宰加工为一体的猪肉产业链。牧原始终秉承“让人们吃上放心猪肉”的愿景,致力于为社会生产安全、美味、健康的高品质猪肉食品,提升大众生活品质,让人们享受丰盛人生。 主营业务：生猪的养殖销售、生猪屠宰。 经营范围包括：许可项目:牲畜饲养;种畜禽生产;种畜禽经营;供港澳活畜禽经营;饲料生产;牲畜屠宰;食品生产;食品销售;动物无害化处理。一般项目:粮食收购;谷物销售;饲料原料销售;饲料。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 41.92,
+  "change_pct": -0.24,
+  "total_mv": 242003998356.48,
+  "float_mv": 137520427410.24,
+  "total_shares": 5772996144,
+  "float_shares": 3280544547,
+  "pe_ttm": -215.92,
+  "pe_static": 15.63,
+  "pb": 3.06,
+  "ps_ttm": 1.9,
+  "turnover_rate": 1.03,
+  "amount": 1412197272.98,
+  "high_52w": 51.52,
+  "low_52w": 31.81,
+  "ytd_return": -16.42,
+  "return_1y": -13.17,
+  "return_3y": 44.98,
+  "dividend_yield": 3.23,
+  "index_members": [
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 78889870566.4,
+    "revenue_yoy": 40.18,
+    "net_profit": 6903777691.92,
+    "net_profit_yoy": -74.85,
+    "net_profit_deducted": 6785021475.69,
+    "gross_margin": 16.74,
+    "net_margin": 9.68,
+    "selling_expense_ratio": 0.89,
+    "admin_expense_ratio": 4.36,
+    "finance_expense_ratio": 2.76,
+    "rd_expense": 808149645.92,
+    "rd_ratio": 1.02,
+    "eps": 1.28,
+    "bvps": 9.67,
+    "roe": 12.91,
+    "roa": 5.09,
+    "total_assets": 177265759187.58,
+    "total_liab": 108661642156.23,
+    "debt_ratio": 61.3,
+    "cash": 12197631807.23,
+    "receivables": 135551328.75,
+    "inventory": 34475732608.85,
+    "goodwill": null,
+    "interest_debt": 59405430575.96,
+    "equity_parent": 54351768519.36,
+    "ocf": 16295026813.82,
+    "capex": 35852334356.78,
+    "fcf": -19557307542.96,
+    "ocf_to_np": 2.36
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 124826212177.74,
+    "revenue_yoy": 58.23,
+    "net_profit": 13266156512.39,
+    "net_profit_yoy": 92.16,
+    "net_profit_deducted": 13029323049.56,
+    "gross_margin": 17.5,
+    "net_margin": 11.96,
+    "selling_expense_ratio": 0.61,
+    "admin_expense_ratio": 3.37,
+    "finance_expense_ratio": 2.33,
+    "rd_expense": 1142403916.15,
+    "rd_ratio": 0.92,
+    "eps": 2.49,
+    "bvps": 12.93,
+    "roe": 21.01,
+    "roa": 8.07,
+    "total_assets": 192947611799.0,
+    "total_liab": 104877234930.92,
+    "debt_ratio": 54.36,
+    "cash": 20793548584.65,
+    "receivables": 176590994.75,
+    "inventory": 38251719104.6,
+    "goodwill": null,
+    "interest_debt": 62809471810.17,
+    "equity_parent": 71783350329.31,
+    "ocf": 23010550801.93,
+    "capex": 15738918946.02,
+    "fcf": 7271631855.91,
+    "ocf_to_np": 1.73
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 110860727714.4,
+    "revenue_yoy": -11.19,
+    "net_profit": -4263280820.31,
+    "net_profit_yoy": -132.14,
+    "net_profit_deducted": -4026262919.48,
+    "gross_margin": 3.11,
+    "net_margin": -3.76,
+    "selling_expense_ratio": 0.89,
+    "admin_expense_ratio": 3.5,
+    "finance_expense_ratio": 2.75,
+    "rd_expense": 1657729636.74,
+    "rd_ratio": 1.5,
+    "eps": -0.79,
+    "bvps": 11.31,
+    "roe": -6.38,
+    "roa": -2.15,
+    "total_assets": 195404553902.24,
+    "total_liab": 121367898324.01,
+    "debt_ratio": 62.11,
+    "cash": 19429106263.01,
+    "receivables": 167836981.59,
+    "inventory": 41930812919.17,
+    "goodwill": null,
+    "interest_debt": 78762054110.46,
+    "equity_parent": 62828051373.1,
+    "ocf": 9892816863.72,
+    "capex": 17015725403.56,
+    "fcf": -7122908539.84,
+    "ocf_to_np": -2.32
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 137946892076.87,
+    "revenue_yoy": 24.43,
+    "net_profit": 17881260485.27,
+    "net_profit_yoy": 519.42,
+    "net_profit_deducted": 18746855671.39,
+    "gross_margin": 20.75,
+    "net_margin": 13.72,
+    "selling_expense_ratio": 0.79,
+    "admin_expense_ratio": 2.42,
+    "finance_expense_ratio": 2.16,
+    "rd_expense": 1747217657.28,
+    "rd_ratio": 1.27,
+    "eps": 3.3,
+    "bvps": 13.0,
+    "roe": 25.1,
+    "roa": 9.88,
+    "total_assets": 187648723830.92,
+    "total_liab": 110112494714.77,
+    "debt_ratio": 58.68,
+    "cash": 16951642855.0,
+    "receivables": 231188535.57,
+    "inventory": 41969838456.65,
+    "goodwill": null,
+    "interest_debt": 76079946333.2,
+    "equity_parent": 72031777857.01,
+    "ocf": 37543066214.49,
+    "capex": 12380725812.0,
+    "fcf": 25162340402.49,
+    "ocf_to_np": 2.1
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 144144965371.68,
+    "revenue_yoy": 4.49,
+    "net_profit": 15486891254.04,
+    "net_profit_yoy": -13.39,
+    "net_profit_deducted": 15988392483.9,
+    "gross_margin": 17.82,
+    "net_margin": 10.97,
+    "selling_expense_ratio": 0.9,
+    "admin_expense_ratio": 2.72,
+    "finance_expense_ratio": 1.71,
+    "rd_expense": 1648195006.0,
+    "rd_ratio": 1.14,
+    "eps": 2.88,
+    "bvps": 14.04,
+    "roe": 20.57,
+    "roa": 8.8,
+    "total_assets": 171741086702.08,
+    "total_liab": 92999107770.76,
+    "debt_ratio": 54.15,
+    "cash": 13862397618.88,
+    "receivables": 588644078.0,
+    "inventory": 37177438419.4,
+    "goodwill": null,
+    "interest_debt": 70248700445.39,
+    "equity_parent": 77689245439.49,
+    "ocf": 30056186914.47,
+    "capex": 9528929651.93,
+    "fcf": 20527257262.54,
+    "ocf_to_np": 1.94
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 59410306384.59,
+   "revenue_yoy": -22.3,
+   "net_profit": -6077653278.94,
+   "net_profit_yoy": -157.72,
+   "net_profit_deducted": -5895303071.49,
+   "gross_margin": -1.58,
+   "net_margin": -10.24,
+   "roe": -7.48,
+   "eps": -1.1,
+   "debt_ratio": 54.18,
+   "ocf": -2223668382.68
+  },
+  "derived": {
+   "revenue_cagr_3y": 4.91,
+   "net_profit_cagr_3y": 5.29,
+   "receivables_to_revenue": 0.41,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "秦英林,钱瑛",
+  "controlling_shareholder": "秦英林",
+  "controlling_ratio": 36.14,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "秦英林",
+    "hold_num": 2086287906,
+    "hold_ratio": 36.14,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "牧原实业集团有限公司",
+    "hold_num": 848762153,
+    "hold_ratio": 14.7,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "HKSCC NOMINEES LIMITED",
+    "hold_num": 310216719,
+    "hold_ratio": 5.37,
+    "hold_num_change": -220
+   },
+   {
+    "rank": 4,
+    "name": "香港中央结算有限公司",
+    "hold_num": 134667289,
+    "hold_ratio": 2.33,
+    "hold_num_change": -2656625
+   },
+   {
+    "rank": 5,
+    "name": "孙惠刚",
+    "hold_num": 85683509,
+    "hold_ratio": 1.48,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "牧原食品集团股份有限公司回购专用证券账户",
+    "hold_num": 69586523,
+    "hold_ratio": 1.21,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "钱瑛",
+    "hold_num": 64445240,
+    "hold_ratio": 1.12,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "牧原食品集团股份有限公司-第二期员工持股计划",
+    "hold_num": 56443800,
+    "hold_ratio": 0.98,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "中国工商银行股份有限公司-中证主要消费交易型开放式指数证券投资基金",
+    "hold_num": 37306383,
+    "hold_ratio": 0.65,
+    "hold_num_change": -3042571
+   },
+   {
+    "rank": 10,
+    "name": "钱运鹏",
+    "hold_num": 23573397,
+    "hold_ratio": 0.41,
+    "hold_num_change": 0
+   }
+  ],
+  "holder_num": 331108,
+  "holder_num_change_pct": 41.64,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 12.91,
+  "northbound_ratio": 2.33,
+  "executives": [
+   {
+    "name": "曹治年",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "高曈",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "秦军",
+    "title": "董事会秘书",
+    "pay": 1716100
+   }
+  ],
+  "pledge_ratio_total": 0.13,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.248,
+    "total_amount": 1319999515.73,
+    "payout_ratio": 19.12,
+    "dividend_yield": 0.49,
+    "ex_date": "2022-06-09"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.7382,
+    "total_amount": 4034402311.28,
+    "payout_ratio": 30.41,
+    "dividend_yield": 1.75,
+    "ex_date": "2023-07-13"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 1.4091,
+    "total_amount": 7697375418.7,
+    "payout_ratio": 43.05,
+    "dividend_yield": 1.81,
+    "ex_date": "2024-12-30"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 1.3545,
+    "total_amount": 7531905455.76,
+    "payout_ratio": 48.63,
+    "dividend_yield": 1.53,
+    "ex_date": "2025-10-16"
+   }
+  ],
+  "consecutive_years": 2,
+  "cum_dividend_5y": 20583682701.47,
+  "cum_netprofit_5y": 49274805123.31,
+  "payout_5y": 41.77,
+  "buyback_3y": 3001295200.0
+ },
+ "peers": {
+  "peer_codes": [
+   "300498.SZ",
+   "300999.SZ",
+   "002311.SZ"
+  ],
+  "segments": [
+   {
+    "name": "生猪",
+    "revenue": 140207176872.34,
+    "ratio": 97.27,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "屠宰、肉食产品",
+    "revenue": 45227649162.89,
+    "ratio": 31.38,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "饲料原料",
+    "revenue": 3341834835.4,
+    "ratio": 2.32,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他主营业务",
+    "revenue": 1146881403.06,
+    "ratio": 0.8,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "减:养殖与屠宰、肉食之间销售抵消",
+    "revenue": -45778576902.01,
+    "ratio": -31.76,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "国内",
+    "revenue": 144141002356.42,
+    "ratio": 100.0,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "国外",
+    "revenue": 3963015.26,
+    "ratio": 0.0,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "H股公告（董事会会议通告）",
+    "date": "2026-10-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607190.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年9月份销售简报",
+    "date": "2026-10-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-12/1225600460.PDF",
+    "type": null
+   },
+   {
+    "title": "关于2026年第三季度可转换公司债券转股情况的公告",
+    "date": "2026-10-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-10/1225599471.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告（证券变动月报表）",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225596909.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告（翌日披露报表）",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575175.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告（翌日披露报表）",
+    "date": "2026-09-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-19/1225572715.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告（翌日披露报表）",
+    "date": "2026-09-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-18/1225570417.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告（翌日披露报表）",
+    "date": "2026-09-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-17/1225568589.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告（翌日披露报表）",
+    "date": "2026-09-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-16/1225565667.PDF",
+    "type": null
+   },
+   {
+    "title": "关于2025年持股计划第一个锁定期届满暨解锁条件成就的提示性公告",
+    "date": "2026-09-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-16/1225565666.PDF",
+    "type": null
+   },
+   {
+    "title": "第五届董事会第十九次会议决议公告",
+    "date": "2026-09-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-16/1225565665.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告（翌日披露报表）",
+    "date": "2026-09-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-15/1225563440.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告（翌日披露报表）",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225560541.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告（翌日披露报表）",
+    "date": "2026-09-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-11/1225558335.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告（翌日披露报表）",
+    "date": "2026-09-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-10/1225556007.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告（翌日披露报表）",
+    "date": "2026-09-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-09/1225554135.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年8月份销售简报",
+    "date": "2026-09-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-08/1225551030.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告（翌日披露报表）",
+    "date": "2026-09-05",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-05/1225549591.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告（翌日披露报表）",
+    "date": "2026-09-04",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-04/1225546931.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告（翌日披露报表）",
+    "date": "2026-09-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225544598.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 221
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "董秘您好，请问公司9月份的全程成活率是多少？肥猪日增重是多少？育肥阶段料肉比是多少？",
+    "answer": null,
+    "ask_date": "2026-10-21",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2386541330688204800"
+   },
+   {
+    "question": "目前海外陆续发现猪瘟，国内猪肉供给远远大于需求（卖价远远低于成本），贵司是否考虑发展新业务-开发海外业务，减少国内内卷式竞争；",
+    "answer": null,
+    "ask_date": "2026-10-19",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2384832835766169600"
+   },
+   {
+    "question": "贵司能否把每月生猪成本披露到贵司的每月销售简报里，减少每月提问与等待回答；",
+    "answer": "您好，公司2026年9月的生猪养殖完全成本略低于11.5元/kg。月度生猪养殖成本核算完成后，公司会及时对外披露相关信息。感谢您的关注！",
+    "ask_date": "2026-10-16",
+    "answer_date": "2026-10-17",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2382794598939754496"
+   },
+   {
+    "question": "董秘你好。请问公司对27年是否有出栏数量规划？现有能繁母猪能否保证27年的正常出栏。",
+    "answer": "您好，公司会根据政策导向、外部市场环境及自身生产经营情况，合理规划出栏量。公司2027年出栏量区间指引请关注后续相关信息。感谢您的关注！",
+    "ask_date": "2026-10-14",
+    "answer_date": "2026-10-17",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2380982552085340160"
+   },
+   {
+    "question": "您好，请问公司9月成本是多少？",
+    "answer": "您好，公司2026年9月的生猪养殖完全成本略低于11.5元/kg。感谢您的关注！",
+    "ask_date": "2026-10-12",
+    "answer_date": "2026-10-17",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2379681434844921856"
+   },
+   {
+    "question": "您好，想咨询下公司当前商品猪出栏品种结构：请问出栏商品猪中，二元、三元占比多少，以及较24年及25年的变化。",
+    "answer": "您好，公司坚持独立育种二十余年，建立独特的轮回二元育种体系，通过轮回杂交实现“肉种兼用”。在此基础上，公司可根据实际需求灵活调整二元或三元商品猪的生产比例，三元占比主要根据公司生产规划及区域消费偏好动态确定。感谢您的关注！",
+    "ask_date": "2026-10-10",
+    "answer_date": "2026-10-17",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2378225277755568128"
+   },
+   {
+    "question": "董秘您好，请问公司9月份的生猪养殖完全成本是多少？全程成活率是多少？肥猪日增重是多少？育肥阶段料肉比是多少？",
+    "answer": null,
+    "ask_date": "2026-10-09",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2377317106735849472"
+   },
+   {
+    "question": "请问9月的完全养殖成本是多少？谢谢！",
+    "answer": "您好，公司2026年9月的生猪养殖完全成本略低于11.5元/kg。感谢您的关注！",
+    "ask_date": "2026-10-08",
+    "answer_date": "2026-10-12",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2376929683505881088"
+   }
+  ],
+  "count_12m": null
+ }
+}

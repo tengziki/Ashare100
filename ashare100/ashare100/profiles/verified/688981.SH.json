@@ -1,0 +1,593 @@
+{
+ "identity": {
+  "code": "688981",
+  "exchange": "SH",
+  "board": "科创板",
+  "name_full": "中芯国际集成电路制造有限公司",
+  "name_abbr": "中芯国际",
+  "aliases": [
+   "zxgj"
+  ],
+  "name_en": "SEMICONDUCTOR MANUFACTURING INTERNATIONAL CORPORATION",
+  "pinyin_abbr": "ZXGJ",
+  "former_names": [],
+  "industry_sw1": "电子",
+  "industry_sw2": "半导体",
+  "list_date": "2020-07-16",
+  "province": "境外",
+  "city": "大开曼岛",
+  "website": "www.smics.com",
+  "chairman": "刘训峰",
+  "employees": 19952,
+  "business_summary": "主要从事基于多种技术节点和技术平台的集成电路晶圆代工业务,并提供设计服务与IP支持",
+  "profile": "中芯国际集成电路制造有限公司(证券代码:00981.HK/688981.SH)是世界领先的集成电路晶圆代工企业之一,也是中国大陆集成电路制造业领导者,拥有领先的工艺制造能力、产能优势、服务配套,向全球客户提供8英寸和12英寸晶圆代工与技术服务。中芯国际总部位于中国上海,拥有全球化的制造和服务基地,在上海、北京、天津、深圳建有多座8英寸和12英寸晶圆厂。中芯国际还在美国、欧洲、日本和中国台湾设立营销办事处、提供客户服务。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 100.09,
+  "change_pct": -0.15,
+  "total_mv": 857008805271.81,
+  "float_mv": 200239444351.81,
+  "total_shares": 8562381909,
+  "float_shares": 2000593909,
+  "pe_ttm": 118.91,
+  "pe_static": 170.02,
+  "pb": 5.0,
+  "ps_ttm": 11.64,
+  "turnover_rate": 1.79,
+  "amount": 3577411258.0,
+  "high_52w": 176.34,
+  "low_52w": 91.2,
+  "ytd_return": -18.51,
+  "return_1y": -21.07,
+  "return_3y": 75.29,
+  "dividend_yield": 0.0,
+  "index_members": [
+   "上证50",
+   "沪深300",
+   "中证A500",
+   "科创50"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 35630634000.0,
+    "revenue_yoy": 29.7,
+    "net_profit": 10733098000.0,
+    "net_profit_yoy": 147.75,
+    "net_profit_deducted": 5655839000.0,
+    "gross_margin": 29.31,
+    "net_margin": 31.44,
+    "selling_expense_ratio": 0.49,
+    "admin_expense_ratio": 4.61,
+    "finance_expense_ratio": -2.02,
+    "rd_expense": 4120592000.0,
+    "rd_ratio": 11.56,
+    "eps": 1.36,
+    "bvps": 13.82,
+    "roe": 10.3,
+    "roa": 5.16,
+    "total_assets": 229932806000.0,
+    "total_liab": 67957975000.0,
+    "debt_ratio": 29.56,
+    "cash": 79875097000.0,
+    "receivables": 4397088000.0,
+    "inventory": 7601472000.0,
+    "goodwill": null,
+    "interest_debt": 43229007000.0,
+    "equity_parent": 109198772000.0,
+    "ocf": 20844994000.0,
+    "capex": 28361900000.0,
+    "fcf": -7516906000.0,
+    "ocf_to_np": 1.94
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 49516084000.0,
+    "revenue_yoy": 38.97,
+    "net_profit": 12133079000.0,
+    "net_profit_yoy": 13.04,
+    "net_profit_deducted": 10133988000.0,
+    "gross_margin": 38.3,
+    "net_margin": 29.59,
+    "selling_expense_ratio": 0.46,
+    "admin_expense_ratio": 6.14,
+    "finance_expense_ratio": -3.13,
+    "rd_expense": 4953026000.0,
+    "rd_ratio": 10.0,
+    "eps": 1.53,
+    "bvps": 16.86,
+    "roe": 10.0,
+    "roa": 5.48,
+    "total_assets": 305103691000.0,
+    "total_liab": 103398978000.0,
+    "debt_ratio": 33.89,
+    "cash": 74921998000.0,
+    "receivables": 4807125000.0,
+    "inventory": 13312746000.0,
+    "goodwill": null,
+    "interest_debt": 60642807000.0,
+    "equity_parent": 133371921000.0,
+    "ocf": 36591209000.0,
+    "capex": 42205585000.0,
+    "fcf": -5614376000.0,
+    "ocf_to_np": 3.02
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 45250425000.0,
+    "revenue_yoy": -8.61,
+    "net_profit": 4822814000.0,
+    "net_profit_yoy": -60.25,
+    "net_profit_deducted": 3269518000.0,
+    "gross_margin": 21.89,
+    "net_margin": 14.14,
+    "selling_expense_ratio": 0.56,
+    "admin_expense_ratio": 6.97,
+    "finance_expense_ratio": -8.34,
+    "rd_expense": 4991551000.0,
+    "rd_ratio": 11.03,
+    "eps": 0.61,
+    "bvps": 17.93,
+    "roe": 3.5,
+    "roa": 1.99,
+    "total_assets": 338463197000.0,
+    "total_liab": 119992951000.0,
+    "debt_ratio": 35.45,
+    "cash": 51235370000.0,
+    "receivables": 3501291000.0,
+    "inventory": 19377706000.0,
+    "goodwill": null,
+    "interest_debt": 72391662000.0,
+    "equity_parent": 142475834000.0,
+    "ocf": 23047761000.0,
+    "capex": 53865069000.0,
+    "fcf": -30817308000.0,
+    "ocf_to_np": 4.78
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 57795570000.0,
+    "revenue_yoy": 27.72,
+    "net_profit": 3698665000.0,
+    "net_profit_yoy": -23.31,
+    "net_profit_deducted": 2645419000.0,
+    "gross_margin": 18.59,
+    "net_margin": 9.3,
+    "selling_expense_ratio": 0.49,
+    "admin_expense_ratio": 6.64,
+    "finance_expense_ratio": -3.17,
+    "rd_expense": 5447122000.0,
+    "rd_ratio": 9.42,
+    "eps": 0.46,
+    "bvps": 18.58,
+    "roe": 2.5,
+    "roa": 1.55,
+    "total_assets": 353415296000.0,
+    "total_liab": 124307508000.0,
+    "debt_ratio": 35.17,
+    "cash": 48029335000.0,
+    "receivables": 2922670000.0,
+    "inventory": 21267282000.0,
+    "goodwill": null,
+    "interest_debt": 83362468000.0,
+    "equity_parent": 148190613000.0,
+    "ocf": 22658629000.0,
+    "capex": 54559287000.0,
+    "fcf": -31900658000.0,
+    "ocf_to_np": 6.13
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 67323192000.0,
+    "revenue_yoy": 16.49,
+    "net_profit": 5040734000.0,
+    "net_profit_yoy": 36.29,
+    "net_profit_deducted": 4124287000.0,
+    "gross_margin": 21.62,
+    "net_margin": 10.71,
+    "selling_expense_ratio": 0.45,
+    "admin_expense_ratio": 5.1,
+    "finance_expense_ratio": -0.55,
+    "rd_expense": 5518596000.0,
+    "rd_ratio": 8.2,
+    "eps": 0.63,
+    "bvps": 18.85,
+    "roe": 3.4,
+    "roa": 2.0,
+    "total_assets": 367718196000.0,
+    "total_liab": 121355828000.0,
+    "debt_ratio": 33.0,
+    "cash": 43644956000.0,
+    "receivables": 6167839000.0,
+    "inventory": 25534929000.0,
+    "goodwill": null,
+    "interest_debt": 88611611000.0,
+    "equity_parent": 150823788000.0,
+    "ocf": 20080979000.0,
+    "capex": 59950583000.0,
+    "fcf": -39869604000.0,
+    "ocf_to_np": 3.98
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 38635115000.0,
+   "revenue_yoy": 19.44,
+   "net_profit": 4467431000.0,
+   "net_profit_yoy": 94.16,
+   "net_profit_deducted": 2993605000.0,
+   "gross_margin": 23.16,
+   "net_margin": 16.67,
+   "roe": 2.9,
+   "eps": 0.56,
+   "debt_ratio": 33.82,
+   "ocf": 20759511000.0
+  },
+  "derived": {
+   "revenue_cagr_3y": 10.78,
+   "net_profit_cagr_3y": -25.38,
+   "receivables_to_revenue": 9.16,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "无实际控制人",
+  "controlling_shareholder": "大唐控股(香港)投资有限公司",
+  "controlling_ratio": 12.65,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "HKSCC NOMINEES LIMITED",
+    "hold_num": 4692939101,
+    "hold_ratio": 54.82,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "大唐控股(香港)投资有限公司",
+    "hold_num": 1083042595,
+    "hold_ratio": 12.65,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "国家集成电路产业投资基金股份有限公司",
+    "hold_num": 357343396,
+    "hold_ratio": 4.17,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "鑫芯(香港)投资有限公司",
+    "hold_num": 224989311,
+    "hold_ratio": 2.63,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "华芯投资管理有限责任公司-国家集成电路产业投资基金二期股份有限公司",
+    "hold_num": 127458120,
+    "hold_ratio": 1.49,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "北京集成电路制造和装备股权投资中心(有限合伙)",
+    "hold_num": 100502830,
+    "hold_ratio": 1.17,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "中国信息通信科技集团有限公司",
+    "hold_num": 72470855,
+    "hold_ratio": 0.85,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "北京亦庄国际投资发展有限公司",
+    "hold_num": 64210141,
+    "hold_ratio": 0.75,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "国新投资有限公司",
+    "hold_num": 43375773,
+    "hold_ratio": 0.51,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 10,
+    "name": "招商银行股份有限公司-华夏上证科创板50成份交易型开放式指数证券投资基金",
+    "hold_num": 32377586,
+    "hold_ratio": 0.38,
+    "hold_num_change": -1220677
+   }
+  ],
+  "holder_num": 296744,
+  "holder_num_change_pct": -7.07,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 22.33,
+  "northbound_ratio": 0.1,
+  "executives": [
+   {
+    "name": "刘训峰",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "郭光莉",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.06,
+  "unlock_12m": [
+   {
+    "date": "2027-06-23",
+    "shares": 547182073,
+    "ratio": 6.39
+   }
+  ]
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": 0.0,
+    "dividend_yield": 0.0,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": 0.0,
+    "dividend_yield": 0.0,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": 0.0,
+    "dividend_yield": 0.0,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": 0.0,
+    "dividend_yield": 0.0,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": 0.0,
+    "dividend_yield": 0.0,
+    "ex_date": null
+   }
+  ],
+  "consecutive_years": 0,
+  "cum_dividend_5y": 0.0,
+  "cum_netprofit_5y": 36428390000.0,
+  "payout_5y": 0.0,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "688825.SH",
+   "688256.SH",
+   "688041.SH",
+   "002371.SZ"
+  ],
+  "segments": [
+   {
+    "name": "集成电路晶圆制造代工",
+    "revenue": 62794043000.0,
+    "ratio": 93.27,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他",
+    "revenue": 3786198000.0,
+    "ratio": 5.62,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 742951000.0,
+    "ratio": 1.1,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "中国区",
+    "revenue": 57017525000.0,
+    "ratio": 84.69,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "美国区",
+    "revenue": 7704008000.0,
+    "ratio": 11.44,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "欧亚区",
+    "revenue": 1858708000.0,
+    "ratio": 2.76,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 742951000.0,
+    "ratio": 1.1,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "港股公告：翌日披露报表",
+    "date": "2026-10-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225603838.PDF",
+    "type": null
+   },
+   {
+    "title": "港股公告：证券变动月报表",
+    "date": "2026-10-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225595451.PDF",
+    "type": null
+   },
+   {
+    "title": "港股公告：翌日披露报表",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225586065.PDF",
+    "type": null
+   },
+   {
+    "title": "港股公告：翌日披露报表",
+    "date": "2026-09-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-10/1225556195.PDF",
+    "type": null
+   },
+   {
+    "title": "港股公告：翌日披露报表",
+    "date": "2026-09-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-08/1225552148.PDF",
+    "type": null
+   },
+   {
+    "title": "中芯国际关于2021年科创板限制性股票激励计划预留授予部分第四个归属期归属结果暨股份上市的公告",
+    "date": "2026-09-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-08/1225552083.PDF",
+    "type": null
+   },
+   {
+    "title": "港股公告：证券变动月报表",
+    "date": "2026-09-05",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-05/1225550079.PDF",
+    "type": null
+   },
+   {
+    "title": "港股公告：2026中期报告",
+    "date": "2026-09-04",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-04/1225546959.PDF",
+    "type": null
+   },
+   {
+    "title": "港股公告：翌日披露报表",
+    "date": "2026-09-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-01/1225538117.PDF",
+    "type": null
+   },
+   {
+    "title": "中芯国际2026年半年度报告摘要",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225520347.PDF",
+    "type": null
+   },
+   {
+    "title": "港股公告：2026年中期业绩公告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225520324.PDF",
+    "type": null
+   },
+   {
+    "title": "中芯国际关于2026年度“提质增效重回报”行动方案的半年度评估报告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225520310.PDF",
+    "type": null
+   },
+   {
+    "title": "中芯国际2026年半年度报告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225520297.PDF",
+    "type": null
+   },
+   {
+    "title": "港股公告：董事会批准发布2026年中期业绩通知",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225483219.PDF",
+    "type": null
+   },
+   {
+    "title": "港股公告：中芯国际截至2026年6月30日止三个月未经审核业绩公布",
+    "date": "2026-08-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-14/1225471507.PDF",
+    "type": null
+   },
+   {
+    "title": "港股公告：证券变动月报表",
+    "date": "2026-08-06",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-06/1225459009.PDF",
+    "type": null
+   },
+   {
+    "title": "中芯国际关于召开2026年第二季度业绩说明会的预告公告",
+    "date": "2026-07-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-31/1225448405.PDF",
+    "type": null
+   },
+   {
+    "title": "港股公告：董事会会议日期通知",
+    "date": "2026-07-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-31/1225448181.PDF",
+    "type": null
+   },
+   {
+    "title": "中芯国际关于作废处理2021年科创板限制性股票激励计划部分限制性股票的公告",
+    "date": "2026-07-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-22/1225435935.PDF",
+    "type": null
+   },
+   {
+    "title": "中芯国际2021年科创板限制性股票激励计划预留授予部分第四个归属期符合归属条件的公告",
+    "date": "2026-07-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-22/1225435807.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 186
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "董秘您好，请问贵公司的三季度业绩报告什么时候披露，会有提前预告公告吗？",
+    "answer": null,
+    "ask_date": "2026-10-20",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=173884"
+   }
+  ],
+  "count_12m": null
+ }
+}

@@ -1,0 +1,613 @@
+{
+ "identity": {
+  "code": "601066",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "中信建投证券股份有限公司",
+  "name_abbr": "中信建投",
+  "aliases": [
+   "zxjt"
+  ],
+  "name_en": "China Securities Co., Ltd.",
+  "pinyin_abbr": "ZXJT",
+  "former_names": [],
+  "industry_sw1": "非银金融",
+  "industry_sw2": "证券Ⅱ",
+  "list_date": "2018-06-20",
+  "province": "北京",
+  "city": "北京",
+  "website": "www.csc108.com",
+  "chairman": "刘成",
+  "employees": 12618,
+  "business_summary": "投资银行业务、财富管理业务、交易及机构客户服务业务以及资产管理业务",
+  "profile": "中信建投证券股份有限公司成立于2005年11月2日,是经中国证监会批准设立的全国性大型综合证券公司。公司注册于北京,主要出资人有北京金融控股集团有限公司、中央汇金投资有限责任公司与中国中信集团有限公司,均为拥有雄厚资本实力、丰富资本运作经验与较高社会知名度的大型企业。公司在全国30个省、自治区和直辖市设有300余家证券分支机构,并设有中信建投期货有限公司、中信建投资本管理有限公司、中信建投(国际)金融控股有限公司、中信建投基金管理有限公司和中信建投投资有限公司等。2016年12月9日,中信建投证券在香港联交所上市,股票代码6066.HK;2018年6月20日,公司在上海证券交易所主板上市,股票代码601066.SH。中信建投证券在为政府、企业、机构和个人投资者提供优质专业的金融服务过程中建立了良好的声誉,是国内证券行业首批6家并表监管试点企业之一,也是首批监管白名单企业之一。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 22.45,
+  "change_pct": -0.88,
+  "total_mv": 174137798192.65,
+  "float_mv": 145827814735.75,
+  "total_shares": 7756694797,
+  "float_shares": 6495671035,
+  "pe_ttm": 13.85,
+  "pe_static": 18.45,
+  "pb": 1.99,
+  "ps_ttm": 6.04,
+  "turnover_rate": 0.19,
+  "amount": 283685613.0,
+  "high_52w": 31.23,
+  "low_52w": 20.73,
+  "ytd_return": -15.06,
+  "return_1y": -12.92,
+  "return_3y": -3.79,
+  "dividend_yield": 1.51,
+  "index_members": [
+   "沪深300"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 29872018672.13,
+    "revenue_yoy": 27.93,
+    "net_profit": 10238703346.84,
+    "net_profit_yoy": 7.67,
+    "net_profit_deducted": 10210158040.78,
+    "gross_margin": null,
+    "net_margin": 34.26,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.25,
+    "bvps": 8.36,
+    "roe": 15.8,
+    "roa": 2.48,
+    "total_assets": 452791426255.57,
+    "total_liab": 372785141314.38,
+    "debt_ratio": 82.33,
+    "cash": 103872438427.5,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": 79818456610.69,
+    "ocf": 11119419469.36,
+    "capex": 620360763.14,
+    "fcf": 10499058706.22,
+    "ocf_to_np": 1.09
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 27565197901.59,
+    "revenue_yoy": -7.72,
+    "net_profit": 7519427792.55,
+    "net_profit_yoy": -26.56,
+    "net_profit_deducted": 7492705220.62,
+    "gross_margin": null,
+    "net_margin": 27.32,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 0.86,
+    "bvps": 8.81,
+    "roe": 10.01,
+    "roa": 1.57,
+    "total_assets": 509206009965.17,
+    "total_liab": 415910468317.6,
+    "debt_ratio": 81.68,
+    "cash": 112192799425.02,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": 93251206177.43,
+    "ocf": 39990031541.17,
+    "capex": 546948755.77,
+    "fcf": 39443082785.4,
+    "ocf_to_np": 5.32
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 23243300216.19,
+    "revenue_yoy": -15.68,
+    "net_profit": 7034486447.93,
+    "net_profit_yoy": -6.45,
+    "net_profit_deducted": 7787456305.5,
+    "gross_margin": null,
+    "net_margin": 30.32,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 0.78,
+    "bvps": 9.36,
+    "roe": 8.59,
+    "roa": 1.37,
+    "total_assets": 522752188399.0,
+    "total_liab": 425225781817.76,
+    "debt_ratio": 81.34,
+    "cash": 117053699971.99,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": 97478047065.38,
+    "ocf": -20057201187.15,
+    "capex": 1077767770.01,
+    "fcf": -21134968957.16,
+    "ocf_to_np": -2.85
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 19052706802.04,
+    "revenue_yoy": -18.03,
+    "net_profit": 7223221368.58,
+    "net_profit_yoy": 2.68,
+    "net_profit_deducted": 7240093940.47,
+    "gross_margin": null,
+    "net_margin": 37.98,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 0.79,
+    "bvps": 9.88,
+    "roe": 8.22,
+    "roa": 1.33,
+    "total_assets": 566418217793.53,
+    "total_liab": 459899267552.36,
+    "debt_ratio": 81.19,
+    "cash": 137812713813.69,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": 106468734430.25,
+    "ocf": 29500380887.13,
+    "capex": 538839249.64,
+    "fcf": 28961541637.49,
+    "ocf_to_np": 4.08
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 23321714460.73,
+    "revenue_yoy": 22.41,
+    "net_profit": 9439423821.46,
+    "net_profit_yoy": 30.68,
+    "net_profit_deducted": 9467769725.48,
+    "gross_margin": null,
+    "net_margin": 40.54,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.09,
+    "bvps": 10.69,
+    "roe": 10.51,
+    "roa": 1.52,
+    "total_assets": 676815790802.9,
+    "total_liab": 557665478763.26,
+    "debt_ratio": 82.4,
+    "cash": 176697854471.55,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": 119101657048.68,
+    "ocf": 83051673233.71,
+    "capex": 529438155.13,
+    "fcf": 82522235078.58,
+    "ocf_to_np": 8.8
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 16228807704.41,
+   "revenue_yoy": 51.11,
+   "net_profit": 7639129546.85,
+   "net_profit_yoy": 69.44,
+   "net_profit_deducted": 7763646092.41,
+   "gross_margin": null,
+   "net_margin": 47.08,
+   "roe": 8.27,
+   "eps": 0.92,
+   "debt_ratio": 85.38,
+   "ocf": 60831264644.29
+  },
+  "derived": {
+   "revenue_cagr_3y": -5.42,
+   "net_profit_cagr_3y": 7.87,
+   "receivables_to_revenue": null,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "无实际控制人",
+  "controlling_shareholder": "北京金融控股集团有限公司",
+  "controlling_ratio": 35.81,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "北京金融控股集团有限公司",
+    "hold_num": 2777389017,
+    "hold_ratio": 35.81,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "中央汇金投资有限责任公司",
+    "hold_num": 2386052459,
+    "hold_ratio": 30.76,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "香港中央结算(代理人)有限公司其他代持股份",
+    "hold_num": 816040628,
+    "hold_ratio": 10.52,
+    "hold_num_change": -2600
+   },
+   {
+    "rank": 4,
+    "name": "中信证券股份有限公司",
+    "hold_num": 382849268,
+    "hold_ratio": 4.94,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "中国中信金融控股有限公司",
+    "hold_num": 351647000,
+    "hold_ratio": 4.53,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "香港中央结算有限公司",
+    "hold_num": 71991527,
+    "hold_ratio": 0.93,
+    "hold_num_change": 16148126
+   },
+   {
+    "rank": 7,
+    "name": "中国建设银行股份有限公司-国泰中证全指证券公司交易型开放式指数证券投资基金",
+    "hold_num": 40011912,
+    "hold_ratio": 0.52,
+    "hold_num_change": 1895871
+   },
+   {
+    "rank": 8,
+    "name": "世纪金源投资集团有限公司",
+    "hold_num": 33851816,
+    "hold_ratio": 0.44,
+    "hold_num_change": -21164097
+   },
+   {
+    "rank": 9,
+    "name": "福建贵安新天地旅游文化投资有限公司",
+    "hold_num": 29174200,
+    "hold_ratio": 0.38,
+    "hold_num_change": -11441900
+   },
+   {
+    "rank": 10,
+    "name": "中国建设银行股份有限公司-华宝中证全指证券公司交易型开放式指数证券投资基金",
+    "hold_num": 25626179,
+    "hold_ratio": 0.33,
+    "hold_num_change": -140981
+   }
+  ],
+  "holder_num": 136377,
+  "holder_num_change_pct": -1.59,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 8.25,
+  "northbound_ratio": 0.93,
+  "executives": [
+   {
+    "name": "刘成",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "金剑华",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "刘乃生",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 2.96,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.395,
+    "total_amount": 3063894444.82,
+    "payout_ratio": 29.92,
+    "dividend_yield": 1.45,
+    "ex_date": "2022-08-18"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.27,
+    "total_amount": 2094307595.19,
+    "payout_ratio": 27.85,
+    "dividend_yield": 1.03,
+    "ex_date": "2023-08-22"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.25,
+    "total_amount": 1939173699.25,
+    "payout_ratio": 27.57,
+    "dividend_yield": 1.3,
+    "ex_date": "2024-08-22"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.255,
+    "total_amount": 1977957173.23,
+    "payout_ratio": 27.38,
+    "dividend_yield": 0.51,
+    "ex_date": "2024-12-27"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.34,
+    "total_amount": 2637276230.98,
+    "payout_ratio": 27.94,
+    "dividend_yield": 0.65,
+    "ex_date": "2026-01-08"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 11712609143.47,
+  "cum_netprofit_5y": 41455262777.36,
+  "payout_5y": 28.25,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "600030.SH",
+   "300059.SZ",
+   "601211.SH",
+   "601688.SH"
+  ],
+  "segments": [
+   {
+    "name": "交易及机构客户服务",
+    "revenue": 9724393298.36,
+    "ratio": 41.7,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "财富管理业务",
+    "revenue": 8220833414.63,
+    "ratio": 35.25,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "投资银行业务",
+    "revenue": 3132174861.65,
+    "ratio": 13.43,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "资产管理业务",
+    "revenue": 1428258632.05,
+    "ratio": 6.12,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他",
+    "revenue": 816054254.04,
+    "ratio": 3.5,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "境内",
+    "revenue": 21830154109.11,
+    "ratio": 93.6,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "境外",
+    "revenue": 1491560351.62,
+    "ratio": 6.4,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "H股市场公告：董事会会议通告",
+    "date": "2026-10-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225603637.PDF",
+    "type": null
+   },
+   {
+    "title": "H股市场公告：截至2026年9月30日止月份之股份发行人的证券变动月报表",
+    "date": "2026-10-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225590929.PDF",
+    "type": null
+   },
+   {
+    "title": "关于间接全资附属公司根据中期票据计划进行发行并由全资子公司提供担保的公告",
+    "date": "2026-09-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-09/1225554085.PDF",
+    "type": null
+   },
+   {
+    "title": "H股市场公告：截至2026年8月31日止月份之股份发行人的证券变动月报表",
+    "date": "2026-09-04",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-04/1225546197.PDF",
+    "type": null
+   },
+   {
+    "title": "H股市场公告：截至2026年6月30日止六个月之中期股息",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225481276.PDF",
+    "type": null
+   },
+   {
+    "title": "关于2026年度“提质增效重回报”行动方案半年度评估报告的公告",
+    "date": "2026-08-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225480601.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年中期利润分配方案公告",
+    "date": "2026-08-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225480599.PDF",
+    "type": null
+   },
+   {
+    "title": "第三届董事会第二十五次会议决议公告",
+    "date": "2026-08-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225480595.PDF",
+    "type": null
+   },
+   {
+    "title": "中信建投证券股份有限公司2026年半年度报告",
+    "date": "2026-08-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225480588.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度报告摘要",
+    "date": "2026-08-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225480583.PDF",
+    "type": null
+   },
+   {
+    "title": "2025年度A股权益分派实施公告",
+    "date": "2026-08-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-13/1225470661.PDF",
+    "type": null
+   },
+   {
+    "title": "关于召开2026年半年度业绩说明会的公告",
+    "date": "2026-08-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-13/1225470660.PDF",
+    "type": null
+   },
+   {
+    "title": "H股市场公告：截至2026年7月31日止月份之股份发行人的证券变动月报表",
+    "date": "2026-08-06",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-06/1225459809.PDF",
+    "type": null
+   },
+   {
+    "title": "关于间接全资附属公司根据中期票据计划进行发行并由全资子公司提供担保的公告",
+    "date": "2026-08-04",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-04/1225455103.PDF",
+    "type": null
+   },
+   {
+    "title": "H股市场公告：董事會會議通告",
+    "date": "2026-07-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-30/1225446703.PDF",
+    "type": null
+   },
+   {
+    "title": "H股市场公告：董事名單與其角色和職能",
+    "date": "2026-07-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-25/1225441635.PDF",
+    "type": null
+   },
+   {
+    "title": "关于非执行董事辞任的公告",
+    "date": "2026-07-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-25/1225440666.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度业绩预增公告",
+    "date": "2026-07-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-15/1225424171.PDF",
+    "type": null
+   },
+   {
+    "title": "关于间接全资附属公司根据中期票据计划进行发行并由全资子公司提供担保的公告",
+    "date": "2026-07-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-10/1225416773.PDF",
+    "type": null
+   },
+   {
+    "title": "H股市场公告：截至2026年6月30日止月份之股份發行人的證券變動月報表",
+    "date": "2026-07-07",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-07/1225411694.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 119
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "中期分红何时分",
+    "answer": "尊敬的投资者您好。感谢您对公司分红的关注与建议。公司认真贯彻落实新“国九条”精神，自2024年度起连续实施一年多次分红，并推动中期分红在春节前派发，不断增强分红稳定性。以A股2025年度分红为例，公司已于2026年1月完成2025年中期分红、2026年8月完成2025年末期分红。目前，公司2026年中期分红预案已经董事会审议通过，有待提交股东会审议，并将在股东会召开后的两个月内实施。公司将兼顾规则要求、政策连续性及股东建议，综合评估优化分红节奏。具体股权登记日及红利发放时间请关注后续权益分派实施公告。感谢您的关注。",
+    "ask_date": "2026-09-18",
+    "answer_date": "2026-09-24",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=123807"
+   },
+   {
+    "question": "董秘好，贵司有无合并计划？",
+    "answer": "尊敬的投资者您好，公司目前没有应披露未披露的重大事项，感谢您的关注。",
+    "ask_date": "2026-09-14",
+    "answer_date": "2026-09-24",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=123807"
+   },
+   {
+    "question": "中期分红何时进行，能不能早点分",
+    "answer": "尊敬的投资者您好。感谢您对公司分红的关注与建议。公司认真贯彻落实新“国九条”精神，自2024年度起连续实施一年多次分红，并推动中期分红在春节前派发，不断增强分红稳定性。以A股2025年度分红为例，公司已于2026年1月完成2025年中期分红、2026年8月完成2025年末期分红。目前，公司2026年中期分红预案已经董事会审议通过，有待提交股东会审议，并将在股东会召开后的两个月内实施。公司将兼顾规则要求、政策连续性及股东建议，综合评估优化分红节奏。具体股权登记日及红利发放时间请关注后续权益分派实施公告。感谢您的关注。",
+    "ask_date": "2026-09-07",
+    "answer_date": "2026-09-24",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=123807"
+   },
+   {
+    "question": "中报业绩分红何时开始，往年比较晚能不能放到11月份。或者10月份分红， 让股东早收益再投资",
+    "answer": "尊敬的投资者您好。感谢您对公司分红的关注与建议。公司认真贯彻落实新“国九条”精神，自2024年度起连续实施一年多次分红，并推动中期分红在春节前派发，不断增强分红稳定性。以A股2025年度分红为例，公司已于2026年1月完成2025年中期分红、2026年8月完成2025年末期分红。目前，公司2026年中期分红预案已经董事会审议通过，有待提交股东会审议，并将在股东会召开后的两个月内实施。公司将兼顾规则要求、政策连续性及股东建议，综合评估优化分红节奏。具体股权登记日及红利发放时间请关注后续权益分派实施公告。感谢您的关注。",
+    "ask_date": "2026-09-04",
+    "answer_date": "2026-09-24",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=123807"
+   }
+  ],
+  "count_12m": null
+ }
+}

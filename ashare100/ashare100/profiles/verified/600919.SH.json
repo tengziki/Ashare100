@@ -1,0 +1,584 @@
+{
+ "identity": {
+  "code": "600919",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "江苏银行股份有限公司",
+  "name_abbr": "江苏银行",
+  "aliases": [
+   "jsyh"
+  ],
+  "name_en": "Bank Of Jiangsu Co.,Ltd.",
+  "pinyin_abbr": "JSYH",
+  "former_names": [],
+  "industry_sw1": "银行",
+  "industry_sw2": "城商行Ⅱ",
+  "list_date": "2016-08-02",
+  "province": "江苏",
+  "city": "南京",
+  "website": "www.jsbchina.cn",
+  "chairman": "袁军",
+  "employees": 21889,
+  "business_summary": "1.对公业务:服务实体经济、绿色金融、交易银行、普惠金融、跨境金融、投行业务、网络金融",
+  "profile": "江苏银行股份有限公司于2007年1月24日挂牌开业,是全国20家系统重要性银行之一,总部位于江苏南京。2016年8月2日,在上海证券交易所上市,股票代码600919。江苏银行始终坚持“融创美好生活”使命,致力于建设“智慧化、特色化、国际化、综合化”的服务领先银行。截至2025年6月末,在英国《银行家》杂志“全球银行1000强”排名中列第56位,较上年大幅提升10位,在中资银行中排名第16位。入选《财富》中国500强,排名第162位,列国内城商行首位。当选“联合国环境署金融倡议组织银行理事会”中东亚地区理事代表。江苏银行下辖18家分行和苏银金融租赁股份有限公司、苏银理财有限责任公司、苏银凯基消费金融有限公司3家子公司,机构实现了江苏省内县域全覆盖,业务布局长三角、珠三角、环渤海三大经济圈。江苏银行的发展得到了社会各界的肯定。被江苏省委省政府评为“江苏省优秀企业”,连续四年在江苏省属企业高质量发展综合考核中列“第一等次”,江苏银行党委被表彰为“江苏省先进基层党组织”。被原中国银保监会评为“全国银行业金融机构小微企业金融服务先进单位”,信息科技监管评级连续九年位居城商行第一。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 12.24,
+  "change_pct": 0.08,
+  "total_mv": 224620211427.12,
+  "float_mv": 224620211427.12,
+  "total_shares": 18351324463,
+  "float_shares": 18351324463,
+  "pe_ttm": 6.22,
+  "pe_static": 6.51,
+  "pb": 0.83,
+  "ps_ttm": 2.44,
+  "turnover_rate": 0.48,
+  "amount": 1068314699.0,
+  "high_52w": 12.8,
+  "low_52w": 9.42,
+  "ytd_return": 24.44,
+  "return_1y": 18.08,
+  "return_3y": 123.15,
+  "dividend_yield": 4.61,
+  "index_members": [
+   "沪深300"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 63771353000.0,
+    "revenue_yoy": 22.58,
+    "net_profit": 19694365000.0,
+    "net_profit_yoy": 30.72,
+    "net_profit_deducted": 19294182000.0,
+    "gross_margin": null,
+    "net_margin": 32.0,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.21,
+    "bvps": 10.31,
+    "roe": 12.6,
+    "roa": 0.82,
+    "total_assets": 2618874260000.0,
+    "total_liab": 2420818512000.0,
+    "debt_ratio": 92.44,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": 192227078000.0,
+    "ocf": 64984527000.0,
+    "capex": 3128172000.0,
+    "fcf": 61856355000.0,
+    "ocf_to_np": 3.3
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 70570422000.0,
+    "revenue_yoy": 10.66,
+    "net_profit": 25385993000.0,
+    "net_profit_yoy": 28.9,
+    "net_profit_deducted": 24957456000.0,
+    "gross_margin": null,
+    "net_margin": 37.34,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.6,
+    "bvps": 11.42,
+    "roe": 14.79,
+    "roa": 0.94,
+    "total_assets": 2980294692000.0,
+    "total_liab": 2764863353000.0,
+    "debt_ratio": 92.77,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": 208632730000.0,
+    "ocf": -3812962000.0,
+    "capex": 848041000.0,
+    "fcf": -4661003000.0,
+    "ocf_to_np": -0.15
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 74293433000.0,
+    "revenue_yoy": 5.28,
+    "net_profit": 28750352000.0,
+    "net_profit_yoy": 13.25,
+    "net_profit_deducted": 28244751000.0,
+    "gross_margin": null,
+    "net_margin": 40.4,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.69,
+    "bvps": 11.47,
+    "roe": 14.52,
+    "roa": 0.94,
+    "total_assets": 3403361837000.0,
+    "total_liab": 3144245806000.0,
+    "debt_ratio": 92.39,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": 250409988000.0,
+    "ocf": 213598870000.0,
+    "capex": 2657862000.0,
+    "fcf": 210941008000.0,
+    "ocf_to_np": 7.43
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 80815212000.0,
+    "revenue_yoy": 8.78,
+    "net_profit": 31843213000.0,
+    "net_profit_yoy": 10.76,
+    "net_profit_deducted": 31464081000.0,
+    "gross_margin": null,
+    "net_margin": 41.21,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.65,
+    "bvps": 12.73,
+    "roe": 13.59,
+    "roa": 0.91,
+    "total_assets": 3952041570000.0,
+    "total_liab": 3638383352000.0,
+    "debt_ratio": 92.06,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": 303589817000.0,
+    "ocf": 36845641000.0,
+    "capex": 789057000.0,
+    "fcf": 36056584000.0,
+    "ocf_to_np": 1.16
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 87942367000.0,
+    "revenue_yoy": 8.82,
+    "net_profit": 34501004000.0,
+    "net_profit_yoy": 8.35,
+    "net_profit_deducted": 34424763000.0,
+    "gross_margin": null,
+    "net_margin": 41.26,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.76,
+    "bvps": 14.06,
+    "roe": 13.14,
+    "roa": 0.82,
+    "total_assets": 4931316046000.0,
+    "total_liab": 4581733981000.0,
+    "debt_ratio": 92.91,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 72135000.0,
+    "interest_debt": null,
+    "equity_parent": 337961238000.0,
+    "ocf": 560651108000.0,
+    "capex": 862223000.0,
+    "fcf": 559788885000.0,
+    "ocf_to_np": 16.25
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 48951744000.0,
+   "revenue_yoy": 9.11,
+   "net_profit": 21875647000.0,
+   "net_profit_yoy": 8.09,
+   "net_profit_deducted": 21803568000.0,
+   "gross_margin": null,
+   "net_margin": 46.6,
+   "roe": 7.86,
+   "eps": 1.13,
+   "debt_ratio": 93.52,
+   "ocf": 189271509000.0
+  },
+  "derived": {
+   "revenue_cagr_3y": 7.61,
+   "net_profit_cagr_3y": 10.77,
+   "receivables_to_revenue": null,
+   "goodwill_to_equity": 0.02
+  }
+ },
+ "shareholders": {
+  "controller": "无实际控制人",
+  "controlling_shareholder": "无控股股东",
+  "controlling_ratio": null,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "江苏省国际信托有限责任公司",
+    "hold_num": 1280614898,
+    "hold_ratio": 6.98,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "江苏凤凰出版传媒集团有限公司",
+    "hold_num": 1272147055,
+    "hold_ratio": 6.93,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "华泰证券股份有限公司",
+    "hold_num": 923456408,
+    "hold_ratio": 5.03,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "江苏宁沪高速公路股份有限公司",
+    "hold_num": 721084800,
+    "hold_ratio": 3.93,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "无锡市建设发展投资有限公司",
+    "hold_num": 710435942,
+    "hold_ratio": 3.87,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "香港中央结算有限公司",
+    "hold_num": 574854077,
+    "hold_ratio": 3.13,
+    "hold_num_change": -97977209
+   },
+   {
+    "rank": 7,
+    "name": "江苏省投资管理有限责任公司",
+    "hold_num": 553391681,
+    "hold_ratio": 3.02,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "江苏省广播电视集团有限公司",
+    "hold_num": 550571609,
+    "hold_ratio": 3.0,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "江苏省国金投资集团有限公司",
+    "hold_num": 474315030,
+    "hold_ratio": 2.58,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+    "hold_num": 407216972,
+    "hold_ratio": 2.22,
+    "hold_num_change": 13839018
+   }
+  ],
+  "holder_num": 128166,
+  "holder_num_change_pct": -9.58,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 13.61,
+  "northbound_ratio": 3.13,
+  "executives": [
+   {
+    "name": "袁军",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "高增银(代)",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "陆松圣",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 3.21,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.4,
+    "total_amount": 5907855650.4,
+    "payout_ratio": 30.0,
+    "dividend_yield": 5.88,
+    "ex_date": "2022-05-26"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.4907,
+    "total_amount": 7615221334.62,
+    "payout_ratio": 30.0,
+    "dividend_yield": 6.6,
+    "ex_date": "2023-07-17"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.47,
+    "total_amount": 8625122497.61,
+    "payout_ratio": 30.0,
+    "dividend_yield": 6.2,
+    "ex_date": "2024-06-14"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.5206,
+    "total_amount": 9553699515.44,
+    "payout_ratio": 30.0,
+    "dividend_yield": 2.54,
+    "ex_date": "2025-01-10"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.5641,
+    "total_amount": 10351982129.58,
+    "payout_ratio": 30.0,
+    "dividend_yield": 2.68,
+    "ex_date": "2026-01-14"
+   }
+  ],
+  "consecutive_years": 5,
+  "cum_dividend_5y": 42053881127.65,
+  "cum_netprofit_5y": 140174927000.0,
+  "payout_5y": 30.0,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "002142.SZ",
+   "601009.SH",
+   "601229.SH",
+   "600926.SH"
+  ],
+  "segments": [
+   {
+    "name": "公司金融业务",
+    "revenue": 44813236000.0,
+    "ratio": 50.96,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "个人金融业务",
+    "revenue": 26572483000.0,
+    "ratio": 30.22,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "资金业务",
+    "revenue": 15900765000.0,
+    "ratio": 18.08,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他业务",
+    "revenue": 655883000.0,
+    "ratio": 0.75,
+    "type": "product",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "江苏银行关于赎回优先股的第一次提示性公告",
+    "date": "2026-10-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225603394.PDF",
+    "type": null
+   },
+   {
+    "title": "江苏银行关于拟赎回优先股的公告",
+    "date": "2026-10-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225603390.PDF",
+    "type": null
+   },
+   {
+    "title": "江苏银行关于独立董事任期届满离任的公告",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225587868.PDF",
+    "type": null
+   },
+   {
+    "title": "江苏银行2026年半年度报告",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482188.PDF",
+    "type": null
+   },
+   {
+    "title": "江苏银行董事会决议公告",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482178.PDF",
+    "type": null
+   },
+   {
+    "title": "江苏银行关于召开2026年半年度业绩说明会的公告",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482176.PDF",
+    "type": null
+   },
+   {
+    "title": "江苏银行2026年半年度报告摘要",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482174.PDF",
+    "type": null
+   },
+   {
+    "title": "江苏银行2026年半年度业绩快报公告",
+    "date": "2026-08-05",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-05/1225457637.PDF",
+    "type": null
+   },
+   {
+    "title": "江苏银行关于高级管理人员职务变动的公告",
+    "date": "2026-07-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-14/1225421178.PDF",
+    "type": null
+   },
+   {
+    "title": "江苏银行董事会决议公告",
+    "date": "2026-07-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-14/1225421169.PDF",
+    "type": null
+   },
+   {
+    "title": "江苏银行关于董事长任职资格获监管机构核准的公告",
+    "date": "2026-07-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-14/1225421168.PDF",
+    "type": null
+   },
+   {
+    "title": "江苏银行2025年年度权益分派实施公告",
+    "date": "2026-07-04",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-04/1225409009.PDF",
+    "type": null
+   },
+   {
+    "title": "江苏世纪同仁律师事务所关于江苏银行股份有限公司2025年年度股东会的法律意见书",
+    "date": "2026-06-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-27/1225391247.PDF",
+    "type": null
+   },
+   {
+    "title": "江苏银行2025年年度股东会决议公告",
+    "date": "2026-06-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-27/1225391245.PDF",
+    "type": null
+   },
+   {
+    "title": "江苏银行2025年年度股东会会议资料",
+    "date": "2026-06-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-18/1225375616.PDF",
+    "type": null
+   },
+   {
+    "title": "江苏银行董事会决议公告",
+    "date": "2026-06-06",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-06/1225353546.PDF",
+    "type": null
+   },
+   {
+    "title": "江苏银行关于召开2025年年度股东会的通知",
+    "date": "2026-06-06",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-06/1225353541.PDF",
+    "type": null
+   },
+   {
+    "title": "江苏银行2025年度可持续发展(ESG)报告摘要",
+    "date": "2026-04-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-04-29/1225247508.PDF",
+    "type": null
+   },
+   {
+    "title": "江苏银行董事会审计委员会2025年度履职情况报告",
+    "date": "2026-04-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-04-29/1225247506.PDF",
+    "type": null
+   },
+   {
+    "title": "江苏银行2025年度绿色金融发展报告",
+    "date": "2026-04-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-04-29/1225247502.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 60
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "2026年上半年，贵行第二阶段（关注类）贷款减值准备从130亿元增加至171亿元，增幅31%。同期第一阶段准备从360亿元降至332亿元，减少了28亿元。请问这种阶段间转移的驱动因素是什么？第一阶段准备的释放是否构成了对当期利润的实质性支撑？如果第二阶段贷款继续劣变，拨备的充足性如何保证？",
+    "answer": "您好，我行严格按照《商业银行预期信用损失法实施管理办法》及相关会计准则要求，开展金融资产减值测试并计提减值准备，资产减值准备的计提需综合考量所处阶段、客户评级分布、授信存续期限等因素。截至2026年6月末，我行不良贷款率0.81%、为上市以来最优水平，拨备覆盖率304.83%、风险抵补能力充足。感谢您的关注！",
+    "ask_date": "2026-09-11",
+    "answer_date": "2026-09-29",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=74475"
+   },
+   {
+    "question": "截至2026年6月末，贵行逾期1年以上的贷款余额为62.85亿元，较上年末增长38.3%。请问这些贷款为何尚未被认定为不良？贵行对这些贷款的最终回收率的内部估计是多少？如果将这些贷款确认为不良，拨备覆盖率会从304.83%降至什么水平？",
+    "answer": "您好，我行严格按照《商业银行金融资产风险分类办法》，逾期90天以上的贷款已全部认定为不良。我行将紧扣资产质量管控核心任务，进一步开拓不良资产经营处置思路，科学运用清收处置手段，以集中管理为抓手，健全多部门配合风险处置协同机制，积极提升不良资产现金回收成效。感谢您的关注！",
+    "ask_date": "2026-09-11",
+    "answer_date": "2026-09-29",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=74475"
+   },
+   {
+    "question": "请问贵行，目前股东人数多少",
+    "answer": "您好，截至2026年6月末，我行普通股股东总数128166户。感谢您的关注！",
+    "ask_date": "2026-09-08",
+    "answer_date": "2026-09-29",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=74475"
+   }
+  ],
+  "count_12m": null
+ }
+}

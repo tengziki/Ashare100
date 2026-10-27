@@ -1,0 +1,605 @@
+{
+ "identity": {
+  "code": "600028",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "中国石油化工股份有限公司",
+  "name_abbr": "中国石化",
+  "aliases": [
+   "zgsh",
+   "中石化"
+  ],
+  "name_en": "China Petroleum & Chemical Corporation",
+  "pinyin_abbr": "ZGSH",
+  "former_names": [],
+  "industry_sw1": "石油石化",
+  "industry_sw2": "炼化及贸易",
+  "list_date": "2001-08-08",
+  "province": "北京",
+  "city": "北京",
+  "website": "www.sinopec.com",
+  "chairman": "侯启军",
+  "employees": 351104,
+  "business_summary": "石油与天然气勘探开采、管道运输、销售；石油炼制、石油化工、煤化工、化纤及其他化工产品的生产与销售",
+  "profile": "中国石油化工股份有限公司(以下简称“中国石化”)是一家上中下游一体化、石油石化主业突出、拥有比较完备销售网络、境内外上市的股份制企业。中国石化是由中国石化集团有限公司依据《中华人民共和国公司法》,以独家发起方式于2000年2月25日设立的股份制企业。中国石化是中国最大的一体化能源化工公司之一,主要从事石油与天然气勘探开发、管道运输、销售;石油炼制、石油化工、煤化工、化纤及其它化工生产与产品销售、储运;石油、天然气、石油产品、石油化工及其它化工产品和其它商品、技术的进出口、代理进出口业务;技术、信息的研究、开发、应用。中国石化是中国大型油气生产商;炼油能力排名中国第一位;在中国拥有完善的成品油销售网络,是中国最大的成品油供应商;乙烯生产能力排名中国第一位,构建了比较完善的化工产品营销网络。中国石化建立了规范的法人治理结构,实行集中决策、分级管理和专业化经营的事业部制管理体制。中国石化现有全资子公司、控股和参股子公司、分公司等共100余家,包括油气勘探开发、炼油、化工、产品销售以及科研、外贸等企业和单位,经营资产和主要市场集中在中国经济最发达、最活跃的东部、南部和中部地区。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 5.36,
+  "change_pct": -1.11,
+  "total_mv": 647029608361.92,
+  "float_mv": 507314450222.0,
+  "total_shares": 120714479172,
+  "float_shares": 94648218325,
+  "pe_ttm": 18.0,
+  "pe_static": 20.34,
+  "pb": 0.77,
+  "ps_ttm": 0.23,
+  "turnover_rate": 0.22,
+  "amount": 1113878932.0,
+  "high_52w": 7.89,
+  "low_52w": 4.33,
+  "ytd_return": -10.11,
+  "return_1y": 1.46,
+  "return_3y": 9.41,
+  "dividend_yield": 3.73,
+  "index_members": [
+   "上证50",
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 2740884000000.0,
+    "revenue_yoy": 30.23,
+    "net_profit": 71208000000.0,
+    "net_profit_yoy": 114.02,
+    "net_profit_deducted": 72728000000.0,
+    "gross_margin": 19.13,
+    "net_margin": 3.1,
+    "selling_expense_ratio": 2.11,
+    "admin_expense_ratio": 2.28,
+    "finance_expense_ratio": 0.33,
+    "rd_expense": 11481000000.0,
+    "rd_ratio": 0.42,
+    "eps": 0.59,
+    "bvps": 6.4,
+    "roe": 9.4,
+    "roa": 4.69,
+    "total_assets": 1889255000000.0,
+    "total_liab": 973214000000.0,
+    "debt_ratio": 51.51,
+    "cash": 221989000000.0,
+    "receivables": 34861000000.0,
+    "inventory": 207433000000.0,
+    "goodwill": 8594000000.0,
+    "interest_debt": 318240000000.0,
+    "equity_parent": 775102000000.0,
+    "ocf": 225174000000.0,
+    "capex": 144921000000.0,
+    "fcf": 80253000000.0,
+    "ocf_to_np": 3.16
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 3318168000000.0,
+    "revenue_yoy": 21.06,
+    "net_profit": 67082000000.0,
+    "net_profit_yoy": -5.79,
+    "net_profit_deducted": 57962000000.0,
+    "gross_margin": 15.03,
+    "net_margin": 2.31,
+    "selling_expense_ratio": 1.77,
+    "admin_expense_ratio": 1.72,
+    "finance_expense_ratio": 0.3,
+    "rd_expense": 12773000000.0,
+    "rd_ratio": 0.38,
+    "eps": 0.56,
+    "bvps": 6.55,
+    "roe": 8.57,
+    "roa": 3.99,
+    "total_assets": 1951121000000.0,
+    "total_liab": 1010664000000.0,
+    "debt_ratio": 51.8,
+    "cash": 145052000000.0,
+    "receivables": 46364000000.0,
+    "inventory": 244241000000.0,
+    "goodwill": 6464000000.0,
+    "interest_debt": 358525000000.0,
+    "equity_parent": 788471000000.0,
+    "ocf": 116269000000.0,
+    "capex": 172527000000.0,
+    "fcf": -56258000000.0,
+    "ocf_to_np": 1.73
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 3212215000000.0,
+    "revenue_yoy": -3.19,
+    "net_profit": 60463000000.0,
+    "net_profit_yoy": -9.87,
+    "net_profit_deducted": 60692000000.0,
+    "gross_margin": 15.65,
+    "net_margin": 2.18,
+    "selling_expense_ratio": 1.9,
+    "admin_expense_ratio": 1.86,
+    "finance_expense_ratio": 0.31,
+    "rd_expense": 13969000000.0,
+    "rd_ratio": 0.43,
+    "eps": 0.51,
+    "bvps": 6.75,
+    "roe": 7.59,
+    "roa": 3.52,
+    "total_assets": 2026674000000.0,
+    "total_liab": 1068019000000.0,
+    "debt_ratio": 52.7,
+    "cash": 164960000000.0,
+    "receivables": 48652000000.0,
+    "inventory": 250898000000.0,
+    "goodwill": 6472000000.0,
+    "interest_debt": 441996000000.0,
+    "equity_parent": 805794000000.0,
+    "ocf": 161475000000.0,
+    "capex": 171493000000.0,
+    "fcf": -10018000000.0,
+    "ocf_to_np": 2.67
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 3074562000000.0,
+    "revenue_yoy": -4.29,
+    "net_profit": 50313000000.0,
+    "net_profit_yoy": -16.79,
+    "net_profit_deducted": 48057000000.0,
+    "gross_margin": 15.47,
+    "net_margin": 1.87,
+    "selling_expense_ratio": 2.0,
+    "admin_expense_ratio": 1.89,
+    "finance_expense_ratio": 0.36,
+    "rd_expense": 15215000000.0,
+    "rd_ratio": 0.49,
+    "eps": 0.41,
+    "bvps": 6.76,
+    "roe": 6.19,
+    "roa": 2.8,
+    "total_assets": 2084771000000.0,
+    "total_liab": 1108478000000.0,
+    "debt_ratio": 53.17,
+    "cash": 146799000000.0,
+    "receivables": 44333000000.0,
+    "inventory": 256595000000.0,
+    "goodwill": 6493000000.0,
+    "interest_debt": 478233000000.0,
+    "equity_parent": 819922000000.0,
+    "ocf": 149360000000.0,
+    "capex": 139206000000.0,
+    "fcf": 10154000000.0,
+    "ocf_to_np": 2.97
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 2783583000000.0,
+    "revenue_yoy": -9.46,
+    "net_profit": 31809000000.0,
+    "net_profit_yoy": -36.78,
+    "net_profit_deducted": 29529000000.0,
+    "gross_margin": 15.89,
+    "net_margin": 1.27,
+    "selling_expense_ratio": 2.13,
+    "admin_expense_ratio": 1.99,
+    "finance_expense_ratio": 0.53,
+    "rd_expense": 15863000000.0,
+    "rd_ratio": 0.57,
+    "eps": 0.26,
+    "bvps": 6.87,
+    "roe": 3.86,
+    "roa": 1.66,
+    "total_assets": 2155617000000.0,
+    "total_liab": 1165845000000.0,
+    "debt_ratio": 54.08,
+    "cash": 152318000000.0,
+    "receivables": 51172000000.0,
+    "inventory": 230811000000.0,
+    "goodwill": 5476000000.0,
+    "interest_debt": 532683000000.0,
+    "equity_parent": 830324000000.0,
+    "ocf": 162496000000.0,
+    "capex": 133625000000.0,
+    "fcf": 28871000000.0,
+    "ocf_to_np": 5.11
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 1436561000000.0,
+   "revenue_yoy": 1.95,
+   "net_profit": 25627000000.0,
+   "net_profit_yoy": 19.29,
+   "net_profit_deducted": 25273000000.0,
+   "gross_margin": 19.24,
+   "net_margin": 2.09,
+   "roe": 3.06,
+   "eps": 0.21,
+   "debt_ratio": 54.27,
+   "ocf": 62499000000.0
+  },
+  "derived": {
+   "revenue_cagr_3y": -5.69,
+   "net_profit_cagr_3y": -22.02,
+   "receivables_to_revenue": 1.84,
+   "goodwill_to_equity": 0.66
+  }
+ },
+ "shareholders": {
+  "controller": "中国石油化工集团有限公司",
+  "controlling_shareholder": "中国石油化工集团有限公司",
+  "controlling_ratio": 68.79,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "中国石油化工集团有限公司",
+    "hold_num": 83183932653,
+    "hold_ratio": 68.79,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "香港中央结算(代理人)有限公司",
+    "hold_num": 23651427599,
+    "hold_ratio": 19.56,
+    "hold_num_change": -50434
+   },
+   {
+    "rank": 3,
+    "name": "中国石油天然气集团有限公司",
+    "hold_num": 2165749530,
+    "hold_ratio": 1.79,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "国新宏盛投资(北京)有限公司",
+    "hold_num": 682229720,
+    "hold_ratio": 0.56,
+    "hold_num_change": 15804200
+   },
+   {
+    "rank": 5,
+    "name": "香港中央结算有限公司",
+    "hold_num": 553780459,
+    "hold_ratio": 0.46,
+    "hold_num_change": -59739936
+   },
+   {
+    "rank": 6,
+    "name": "中国证券金融股份有限公司",
+    "hold_num": 426241453,
+    "hold_ratio": 0.35,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+    "hold_num": 318806625,
+    "hold_ratio": 0.26,
+    "hold_num_change": -4213072
+   },
+   {
+    "rank": 8,
+    "name": "国丰兴华(北京)私募基金管理有限公司-国丰兴华鸿鹄志远三期私募证券投资基金1号",
+    "hold_num": 304958594,
+    "hold_ratio": 0.25,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "国信证券股份有限公司",
+    "hold_num": 170281824,
+    "hold_ratio": 0.14,
+    "hold_num_change": -65068300
+   },
+   {
+    "rank": 10,
+    "name": "国丰兴华(北京)私募基金管理有限公司-鸿鹄志远(上海)私募投资基金有限公司",
+    "hold_num": 120312776,
+    "hold_ratio": 0.1,
+    "hold_num_change": 0
+   }
+  ],
+  "holder_num": 690808,
+  "holder_num_change_pct": 0.05,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 2.56,
+  "northbound_ratio": 0.46,
+  "executives": [
+   {
+    "name": "侯启军",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "万涛",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "张征",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.08,
+  "unlock_12m": [
+   {
+    "date": "2027-03-18",
+    "shares": 2390438247,
+    "ratio": 1.98
+   }
+  ]
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.47,
+    "total_amount": 56903468533.62,
+    "payout_ratio": 79.91,
+    "dividend_yield": 5.69,
+    "ex_date": "2021-09-17"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.355,
+    "total_amount": 42751193034.33,
+    "payout_ratio": 63.73,
+    "dividend_yield": 3.37,
+    "ex_date": "2022-09-19"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.345,
+    "total_amount": 41720204127.27,
+    "payout_ratio": 69.0,
+    "dividend_yield": 2.74,
+    "ex_date": "2023-09-15"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.286,
+    "total_amount": 34742507566.1,
+    "payout_ratio": 69.05,
+    "dividend_yield": 2.33,
+    "ex_date": "2024-09-13"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.2,
+    "total_amount": 24207287598.29,
+    "payout_ratio": 76.1,
+    "dividend_yield": 1.95,
+    "ex_date": "2025-09-12"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 200324660859.61,
+  "cum_netprofit_5y": 280875000000.0,
+  "payout_5y": 71.32,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [
+   "601857.SH",
+   "002493.SZ",
+   "600346.SH",
+   "000301.SZ"
+  ],
+  "segments": [
+   {
+    "name": "汽油",
+    "revenue": 763996000000.0,
+    "ratio": 27.45,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "柴油",
+    "revenue": 555174000000.0,
+    "ratio": 19.94,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "原油",
+    "revenue": 353855000000.0,
+    "ratio": 12.71,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他",
+    "revenue": 351226000000.0,
+    "ratio": 12.62,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "煤油",
+    "revenue": 209624000000.0,
+    "ratio": 7.53,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "基础有机化工品",
+    "revenue": 184796000000.0,
+    "ratio": 6.64,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "合成树脂",
+    "revenue": 123127000000.0,
+    "ratio": 4.42,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "天然气",
+    "revenue": 103185000000.0,
+    "ratio": 3.71,
+    "type": "product",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "中国石化H股公告-公司秘書及授權代表變更",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225604738.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年第一次临时股东会资料",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225604736.PDF",
+    "type": null
+   },
+   {
+    "title": "中国石化H股公告-翌日披露表格",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225585081.PDF",
+    "type": null
+   },
+   {
+    "title": "中国石化关于召开2026年第一次临时股东会的通知",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225584658.PDF",
+    "type": null
+   },
+   {
+    "title": "中国石化H股公告-翌日披露表格",
+    "date": "2026-09-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-28/1225583746.PDF",
+    "type": null
+   },
+   {
+    "title": "中国石化H股公告-翌日披露表格",
+    "date": "2026-09-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-25/1225582356.PDF",
+    "type": null
+   },
+   {
+    "title": "中国石化H股公告-翌日披露表格",
+    "date": "2026-09-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225579539.PDF",
+    "type": null
+   },
+   {
+    "title": "中国石化H股公告-翌日披露表格",
+    "date": "2026-09-23",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-23/1225577106.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度A股分红派息实施公告",
+    "date": "2026-09-23",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-23/1225576461.PDF",
+    "type": null
+   },
+   {
+    "title": "中国石化H股公告-翌日披露表格",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575296.PDF",
+    "type": null
+   },
+   {
+    "title": "中国石化H股公告-翌日披露表格",
+    "date": "2026-09-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-19/1225571390.PDF",
+    "type": null
+   },
+   {
+    "title": "中国石化H股公告-翌日披露表格",
+    "date": "2026-09-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-16/1225564942.PDF",
+    "type": null
+   },
+   {
+    "title": "中国石化回购实施结果暨股份变动公告",
+    "date": "2026-09-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-15/1225563388.PDF",
+    "type": null
+   },
+   {
+    "title": "中国石化H股公告-翌日披露表格",
+    "date": "2026-09-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-11/1225557928.PDF",
+    "type": null
+   },
+   {
+    "title": "中国石化H股公告-翌日披露表格",
+    "date": "2026-09-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-10/1225555532.PDF",
+    "type": null
+   },
+   {
+    "title": "中国石化H股公告-翌日披露表格",
+    "date": "2026-09-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-09/1225553857.PDF",
+    "type": null
+   },
+   {
+    "title": "中国石化H股公告-翌日披露表格",
+    "date": "2026-09-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-08/1225551326.PDF",
+    "type": null
+   },
+   {
+    "title": "中国石化持续关联交易调整的公告",
+    "date": "2026-09-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-08/1225551263.PDF",
+    "type": null
+   },
+   {
+    "title": "第九届董事会第十五次会议决议公告",
+    "date": "2026-09-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-08/1225551247.PDF",
+    "type": null
+   },
+   {
+    "title": "中国石化H股公告-翌日披露表格",
+    "date": "2026-09-05",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-05/1225549260.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 220
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "公司股价一直没有起色，跌跌不休，请问公司国内外业务大致什么去什么情况，国际油近来不断利好涨价消息，油价不断攀升，为何公司股价一直不提高",
+    "answer": null,
+    "ask_date": "2026-10-13",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=28"
+   }
+  ],
+  "count_12m": null
+ }
+}

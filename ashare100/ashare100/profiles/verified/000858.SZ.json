@@ -1,0 +1,642 @@
+{
+ "identity": {
+  "code": "000858",
+  "exchange": "SZ",
+  "board": "主板",
+  "name_full": "宜宾五粮液股份有限公司",
+  "name_abbr": "五粮液",
+  "aliases": [
+   "wly",
+   "五粮液"
+  ],
+  "name_en": "Wuliangye Yibin Co.,ltd.",
+  "pinyin_abbr": "WLY",
+  "former_names": [
+   "五粮液→G五粮液"
+  ],
+  "industry_sw1": "食品饮料",
+  "industry_sw2": "白酒Ⅱ",
+  "list_date": "1998-04-27",
+  "province": "四川",
+  "city": "宜宾",
+  "website": "www.wuliangye.com.cn",
+  "chairman": "邓敏",
+  "employees": 25216,
+  "business_summary": "白酒生产和销售",
+  "profile": "宜宾五粮液股份有限公司(以下简称公司)成立于1998年4月21日,公司位于有四千多年酿酒史的世界十大烈酒产区之一、长江首城、中国酒都宜宾,被联合国教科文及粮农组织誉为“在地球同纬度上最适合酿造优质纯正蒸馏白酒的地区”。主要产品“五粮液酒”是我国浓香型白酒的典型代表,是国家地理标志产品和首批受欧盟保护的中国首批地理标志产品,并根据生产工艺特点和市场需求开发了五粮春、五粮醇、五粮特头曲、绵柔尖庄等品类齐全、层次清晰的五粮浓香酒产品,致力于满足不同层次消费者的多样化需求和人们对美好生活的向往。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 71.73,
+  "change_pct": -0.38,
+  "total_mv": 278427742198.65,
+  "float_mv": 278420955536.43,
+  "total_shares": 3881608005,
+  "float_shares": 3881513391,
+  "pe_ttm": 21.28,
+  "pe_static": 31.09,
+  "pb": 2.35,
+  "ps_ttm": 6.13,
+  "turnover_rate": 0.56,
+  "amount": 1556393865.86,
+  "high_52w": 117.34,
+  "low_52w": 67.94,
+  "ytd_return": -30.6,
+  "return_1y": -37.6,
+  "return_3y": -44.02,
+  "dividend_yield": 7.19,
+  "index_members": [
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 66209053612.11,
+    "revenue_yoy": 15.51,
+    "net_profit": 23377074353.4,
+    "net_profit_yoy": 17.15,
+    "net_profit_deducted": 23331245432.05,
+    "gross_margin": 75.35,
+    "net_margin": 37.02,
+    "selling_expense_ratio": 9.82,
+    "admin_expense_ratio": 4.38,
+    "finance_expense_ratio": -2.62,
+    "rd_expense": 177411727.65,
+    "rd_ratio": 0.27,
+    "eps": 6.02,
+    "bvps": 25.52,
+    "roe": 25.31,
+    "roa": 19.64,
+    "total_assets": 135620812221.13,
+    "total_liab": 34228928576.26,
+    "debt_ratio": 25.24,
+    "cash": 82335955927.74,
+    "receivables": 64193116.22,
+    "inventory": 14015067118.25,
+    "goodwill": 1621619.53,
+    "interest_debt": 715366349.99,
+    "equity_parent": 99068498346.24,
+    "ocf": 26774941873.05,
+    "capex": 1539129180.86,
+    "fcf": 25235812692.19,
+    "ocf_to_np": 1.15
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 73968640704.54,
+    "revenue_yoy": 11.72,
+    "net_profit": 26689983647.2,
+    "net_profit_yoy": 14.17,
+    "net_profit_deducted": 26662058958.76,
+    "gross_margin": 75.42,
+    "net_margin": 37.81,
+    "selling_expense_ratio": 9.25,
+    "admin_expense_ratio": 4.15,
+    "finance_expense_ratio": -2.74,
+    "rd_expense": 235783645.79,
+    "rd_ratio": 0.32,
+    "eps": 6.88,
+    "bvps": 29.38,
+    "roe": 25.28,
+    "roa": 19.39,
+    "total_assets": 152811927251.18,
+    "total_liab": 36124899211.08,
+    "debt_ratio": 23.64,
+    "cash": 92358426975.79,
+    "receivables": 35686942.32,
+    "inventory": 15980657013.57,
+    "goodwill": 1621619.53,
+    "interest_debt": 392658748.5,
+    "equity_parent": 114027897212.18,
+    "ocf": 24431136261.48,
+    "capex": 1780534893.52,
+    "fcf": 22650601367.96,
+    "ocf_to_np": 0.92
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 83272067317.19,
+    "revenue_yoy": 12.58,
+    "net_profit": 30210585269.3,
+    "net_profit_yoy": 13.19,
+    "net_profit_deducted": 30116468910.79,
+    "gross_margin": 75.79,
+    "net_margin": 37.85,
+    "selling_expense_ratio": 9.36,
+    "admin_expense_ratio": 3.99,
+    "finance_expense_ratio": -2.97,
+    "rd_expense": 321845165.28,
+    "rd_ratio": 0.39,
+    "eps": 7.78,
+    "bvps": 33.38,
+    "roe": 25.06,
+    "roa": 19.81,
+    "total_assets": 165432981684.75,
+    "total_liab": 33083608497.58,
+    "debt_ratio": 20.0,
+    "cash": 115456300910.64,
+    "receivables": 42647461.48,
+    "inventory": 17387841712.87,
+    "goodwill": 1621619.53,
+    "interest_debt": 130235057.6,
+    "equity_parent": 129558241040.51,
+    "ocf": 41742479908.23,
+    "capex": 2957236682.34,
+    "fcf": 38785243225.89,
+    "ocf_to_np": 1.38
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 89175178322.7,
+    "revenue_yoy": 7.09,
+    "net_profit": 31853172533.98,
+    "net_profit_yoy": 5.44,
+    "net_profit_deducted": 31741959276.27,
+    "gross_margin": 77.05,
+    "net_margin": 37.22,
+    "selling_expense_ratio": 11.99,
+    "admin_expense_ratio": 3.99,
+    "finance_expense_ratio": -3.18,
+    "rd_expense": 405053632.27,
+    "rd_ratio": 0.45,
+    "eps": 8.21,
+    "bvps": 34.34,
+    "roe": 23.35,
+    "roa": 18.77,
+    "total_assets": 188252218704.17,
+    "total_liab": 51857424971.48,
+    "debt_ratio": 27.55,
+    "cash": 127398915484.11,
+    "receivables": 37346561.95,
+    "inventory": 18233702166.62,
+    "goodwill": 1621619.53,
+    "interest_debt": 802597789.53,
+    "equity_parent": 133285282015.97,
+    "ocf": 33939755192.78,
+    "capex": 2666310780.23,
+    "fcf": 31273444412.55,
+    "ocf_to_np": 1.07
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 40528509770.23,
+    "revenue_yoy": -54.55,
+    "net_profit": 8954257202.51,
+    "net_profit_yoy": -71.89,
+    "net_profit_deducted": 8815635943.27,
+    "gross_margin": 77.54,
+    "net_margin": 22.99,
+    "selling_expense_ratio": 18.82,
+    "admin_expense_ratio": 7.64,
+    "finance_expense_ratio": -6.57,
+    "rd_expense": 449183817.5,
+    "rd_ratio": 1.11,
+    "eps": 2.31,
+    "bvps": 30.9,
+    "roe": 6.89,
+    "roa": 4.93,
+    "total_assets": 189984270815.47,
+    "total_liab": 67803587170.33,
+    "debt_ratio": 35.69,
+    "cash": 127014443016.86,
+    "receivables": 37745419.51,
+    "inventory": 20065336751.2,
+    "goodwill": 1621619.53,
+    "interest_debt": 408530653.28,
+    "equity_parent": 119932271234.99,
+    "ocf": 29706259919.13,
+    "capex": 1967407316.36,
+    "fcf": 27738852602.77,
+    "ocf_to_np": 3.32
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 28416674541.77,
+   "revenue_yoy": 20.87,
+   "net_profit": 8752942991.31,
+   "net_profit_yoy": 89.3,
+   "net_profit_deducted": 8483289707.34,
+   "gross_margin": 80.29,
+   "net_margin": 31.66,
+   "roe": 7.14,
+   "eps": 2.26,
+   "debt_ratio": 34.62,
+   "ocf": -2153568792.32
+  },
+  "derived": {
+   "revenue_cagr_3y": -18.17,
+   "net_profit_cagr_3y": -30.51,
+   "receivables_to_revenue": 0.09,
+   "goodwill_to_equity": 0.0
+  }
+ },
+ "shareholders": {
+  "controller": "宜宾市政府国有资产监督管理委员会",
+  "controlling_shareholder": "宜宾发展控股集团有限公司",
+  "controlling_ratio": 34.43,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "宜宾发展控股集团有限公司",
+    "hold_num": 1336548020,
+    "hold_ratio": 34.43,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "四川省宜宾五粮液集团有限公司",
+    "hold_num": 802619277,
+    "hold_ratio": 20.68,
+    "hold_num_change": 1116000
+   },
+   {
+    "rank": 3,
+    "name": "香港中央结算有限公司",
+    "hold_num": 67854596,
+    "hold_ratio": 1.75,
+    "hold_num_change": -2937625
+   },
+   {
+    "rank": 4,
+    "name": "中国证券金融股份有限公司",
+    "hold_num": 62460815,
+    "hold_ratio": 1.61,
+    "hold_num_change": -13583866
+   },
+   {
+    "rank": 5,
+    "name": "中国银行股份有限公司-招商中证白酒指数分级证券投资基金",
+    "hold_num": 60147752,
+    "hold_ratio": 1.55,
+    "hold_num_change": -4080593
+   },
+   {
+    "rank": 6,
+    "name": "瑞众人寿保险有限责任公司-自有资金",
+    "hold_num": 31283057,
+    "hold_ratio": 0.81,
+    "hold_num_change": 7327482
+   },
+   {
+    "rank": 7,
+    "name": "中国建设银行股份有限公司-鹏华中证酒交易型开放式指数证券投资基金",
+    "hold_num": 27171655,
+    "hold_ratio": 0.7,
+    "hold_num_change": 1606706
+   },
+   {
+    "rank": 8,
+    "name": "国丰兴华(北京)私募基金管理有限公司-国丰兴华鸿鹄志远二期私募证券投资基金",
+    "hold_num": 19768487,
+    "hold_ratio": 0.51,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "国丰兴华(北京)私募基金管理有限公司-国丰兴华鸿鹄志远三期私募证券投资基金1号",
+    "hold_num": 19606640,
+    "hold_ratio": 0.51,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "中国工商银行股份有限公司-中证主要消费交易型开放式指数证券投资基金",
+    "hold_num": 18861678,
+    "hold_ratio": 0.49,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 714632,
+  "holder_num_change_pct": 19.11,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 9.47,
+  "northbound_ratio": 1.75,
+  "executives": [
+   {
+    "name": "邓敏",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "华涛",
+    "title": "总经理",
+    "pay": 678300
+   },
+   {
+    "name": "李剑伟",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.01,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 3.023,
+    "total_amount": 11734100999.11,
+    "payout_ratio": 50.19,
+    "dividend_yield": 1.51,
+    "ex_date": "2022-06-29"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 3.782,
+    "total_amount": 14680241474.91,
+    "payout_ratio": 55.0,
+    "dividend_yield": 2.27,
+    "ex_date": "2023-06-27"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 4.67,
+    "total_amount": 18127109383.35,
+    "payout_ratio": 60.0,
+    "dividend_yield": 3.58,
+    "ex_date": "2024-07-12"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 5.745,
+    "total_amount": 22299837988.72,
+    "payout_ratio": 70.01,
+    "dividend_yield": 2.28,
+    "ex_date": "2025-01-23"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 5.1577,
+    "total_amount": 20020112159.59,
+    "payout_ratio": 223.58,
+    "dividend_yield": 2.83,
+    "ex_date": "2025-12-18"
+   }
+  ],
+  "consecutive_years": 5,
+  "cum_dividend_5y": 86861402005.68,
+  "cum_netprofit_5y": 121085073006.39,
+  "payout_5y": 71.74,
+  "buyback_3y": 1200719041.53
+ },
+ "peers": {
+  "peer_codes": [
+   "600519.SH",
+   "600809.SH",
+   "000568.SZ",
+   "002304.SZ"
+  ],
+  "segments": [
+   {
+    "name": "酒类产品",
+    "revenue": 37103992232.59,
+    "ratio": 91.55,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "非酒类产品",
+    "revenue": 3424517537.64,
+    "ratio": 8.45,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "南部片区",
+    "revenue": 17824948680.44,
+    "ratio": 43.98,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "东部片区",
+    "revenue": 12831595450.04,
+    "ratio": 31.66,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "北部片区",
+    "revenue": 6447448102.11,
+    "ratio": 15.91,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "非酒类产品",
+    "revenue": 3424517537.64,
+    "ratio": 8.45,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "关于回购公司股份进展的公告",
+    "date": "2026-10-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-10/1225599675.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度报告（英文版）",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225560310.PDF",
+    "type": null
+   },
+   {
+    "title": "关于回购公司股份进展的公告",
+    "date": "2026-09-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225544224.PDF",
+    "type": null
+   },
+   {
+    "title": "第七届董事会2026年第11次会议决议公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531255.PDF",
+    "type": null
+   },
+   {
+    "title": "四川省宜宾五粮液集团财务有限公司风险持续评估审核报告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531254.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度非经营性资金占用及其他关联资金往来情况汇总表",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531253.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度报告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531252.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度报告摘要",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531251.PDF",
+    "type": null
+   },
+   {
+    "title": "关于四川省宜宾五粮液集团有限公司增持公司股票的进展公告",
+    "date": "2026-08-07",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-07/1225461522.PDF",
+    "type": null
+   },
+   {
+    "title": "关于回购公司股份进展的公告",
+    "date": "2026-08-04",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-04/1225454939.PDF",
+    "type": null
+   },
+   {
+    "title": "关于董事辞职的公告",
+    "date": "2026-07-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-29/1225445661.PDF",
+    "type": null
+   },
+   {
+    "title": "第七届董事会2026年第10次会议决议公告",
+    "date": "2026-07-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-29/1225445660.PDF",
+    "type": null
+   },
+   {
+    "title": "关于变更董事会秘书的公告",
+    "date": "2026-07-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-29/1225445659.PDF",
+    "type": null
+   },
+   {
+    "title": "第七届董事会2026年第9次会议决议公告",
+    "date": "2026-07-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-28/1225443380.PDF",
+    "type": null
+   },
+   {
+    "title": "关于董事辞职的公告",
+    "date": "2026-07-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-18/1225429654.PDF",
+    "type": null
+   },
+   {
+    "title": "关于2025年度分红派息实施后调整回购股份价格上限的公告",
+    "date": "2026-07-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-16/1225426598.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度业绩预告",
+    "date": "2026-07-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-15/1225423626.PDF",
+    "type": null
+   },
+   {
+    "title": "2025年度分红派息实施公告",
+    "date": "2026-07-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-10/1225417855.PDF",
+    "type": null
+   },
+   {
+    "title": "关于回购公司股份进展的公告",
+    "date": "2026-07-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-03/1225405736.PDF",
+    "type": null
+   },
+   {
+    "title": "关于董事长离任及选举董事长的公告",
+    "date": "2026-06-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-27/1225391502.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 90
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "董秘您好，投资者咨询报表问题，贵公司经常回复事务所出具了标准无保留意见。本人也是一名CPA，深知注册会计师审计只是合理保证，审计结论不能作为管理层免责理由，何况审计结论的用途是特定的，作用不包括用于回复投资者对于财务报表的疑问。建议贵公司加强审计、财务知识的培训，能够更专业、更得体，望采纳！",
+    "answer": null,
+    "ask_date": "2026-10-22",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2387193128332800000"
+   },
+   {
+    "question": "董秘你好 本人是公司股东 想提个建议请给公司有关部门反馈一下 建议公司分出个部门专做100-500元价位的酒 城市消费高档五粮液 城乡及农村消费低档五粮液 高低价位一网打尽 凭借五粮液的品牌效应这是一个最具发展潜力的策略 望予以反馈！谢谢 祝您生活愉快",
+    "answer": null,
+    "ask_date": "2026-10-21",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2386762076924461056"
+   },
+   {
+    "question": "公司可以将39度五粮液降到和国窖37度的价格与之竞争，当前价格感觉有点偏高，消费者接受度差一些",
+    "answer": null,
+    "ask_date": "2026-10-20",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2385951418927788032"
+   },
+   {
+    "question": "请问大股东增持和回购注销是否流产了，到目前为止只有1.99和12亿距离目标还差很多，时间还不够了",
+    "answer": null,
+    "ask_date": "2026-10-20",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2385818738831523840"
+   },
+   {
+    "question": "公司账上现金及现金等价物净值超过千亿，是否真实存在？其中现金等价物占比有多少？ 真担心哪天出公告说等价物大幅贬值了",
+    "answer": null,
+    "ask_date": "2026-10-19",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2385113479398273024"
+   },
+   {
+    "question": "董秘，每一次关于回购进度的提问，您的答复都是“公司会在规定时间内完成”，请问有什么可以证明回购一定会在约定时间内完成？ 关于公司账上巨额现金是否受到公司以外因素的影响，公司是否还能自由支配的问题，请问您是否真正的知晓，您是否真的有能力承担责任？",
+    "answer": null,
+    "ask_date": "2026-10-19",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2385076482549985280"
+   },
+   {
+    "question": "请问贵公司大股东增持可以一直增持到3季报披露那一天吗？还是3季报之后增持？",
+    "answer": null,
+    "ask_date": "2026-10-17",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2383218960800264192"
+   },
+   {
+    "question": "你好董秘截至目前股东数多少？",
+    "answer": null,
+    "ask_date": "2026-10-16",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2382708400825171968"
+   }
+  ],
+  "count_12m": null
+ }
+}

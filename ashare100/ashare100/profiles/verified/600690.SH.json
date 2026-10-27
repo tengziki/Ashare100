@@ -1,0 +1,661 @@
+{
+ "identity": {
+  "code": "600690",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "海尔智家股份有限公司",
+  "name_abbr": "海尔智家",
+  "aliases": [
+   "hezj"
+  ],
+  "name_en": "Haier Smart Home Co., Ltd.",
+  "pinyin_abbr": "HEZJ",
+  "former_names": [
+   "青岛海尔→G海尔→青岛海尔"
+  ],
+  "industry_sw1": "家用电器",
+  "industry_sw2": "白色家电",
+  "list_date": "1993-11-19",
+  "province": "山东",
+  "city": "青岛",
+  "website": "smart-home.haier.com/cn/",
+  "chairman": "李华刚",
+  "employees": 134995,
+  "business_summary": "家电的研发、生产及销售工作,涉及冰箱/冷柜、厨电、空调、洗衣设备、水家电及其他智能家庭业务",
+  "profile": "海尔智家股份有限公司(原名:“青岛海尔”)是为全球用户定制美好生活解决方案的智慧家庭生态品牌商,总部位于中国青岛。公司主要从事冰箱/冷柜、洗衣机、空调、热水器、厨电、小家电等智能家电产品与智慧家庭场景解决方案的研发、生产和销售,通过丰富的产品、品牌、方案组合,创造全场景智能生活体验,满足用户定制美好生活的需求。公司成立于1980年代,并于1993年、2018年、2020年分别在上海证券交易所上市(600690.SH)、法兰克福交易所上市(690D)和香港证券交易所上市(6690.HK)。公司成立至今坚守“以用户为是,以自己为非”的经营理念,秉承“人是目的、有生于无”的企业价值观,通过创业、创新,不断适应时代发展。在海外市场,公司始终坚持自主创牌战略,通过自身持续耕耘与并购整合,先后收购日本三洋白电业务、美国GE家电业务、新西兰Fisher&Paykel公司、意大利Candy公司,持股墨西哥MABE48.41%股权,构建起“研发、制造、营销”三位一体的当地市场竞争力。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 19.6,
+  "change_pct": -0.46,
+  "total_mv": 182251348014.4,
+  "float_mv": 121098343730.0,
+  "total_shares": 9298538164,
+  "float_shares": 6178486925,
+  "pe_ttm": 10.22,
+  "pe_static": 9.32,
+  "pb": 1.52,
+  "ps_ttm": 0.61,
+  "turnover_rate": 0.48,
+  "amount": 578803011.0,
+  "high_52w": 27.44,
+  "low_52w": 18.38,
+  "ytd_return": -22.27,
+  "return_1y": -19.9,
+  "return_3y": 0.01,
+  "dividend_yield": 5.92,
+  "index_members": [
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 227105817641.69,
+    "revenue_yoy": 8.29,
+    "net_profit": 13078840517.1,
+    "net_profit_yoy": 47.23,
+    "net_profit_deducted": 11831272558.29,
+    "gross_margin": 31.33,
+    "net_margin": 5.83,
+    "selling_expense_ratio": 16.11,
+    "admin_expense_ratio": 4.61,
+    "finance_expense_ratio": 0.3,
+    "rd_expense": 8363868872.76,
+    "rd_ratio": 3.68,
+    "eps": 1.41,
+    "bvps": 8.48,
+    "roe": 17.26,
+    "roa": 6.28,
+    "total_assets": 217741133577.31,
+    "total_liab": 136466540240.53,
+    "debt_ratio": 62.67,
+    "cash": 46097333903.45,
+    "receivables": 14625260856.04,
+    "inventory": 39913949898.86,
+    "goodwill": 21827103060.76,
+    "interest_debt": 26184750159.67,
+    "equity_parent": 79985092528.06,
+    "ocf": 23235380690.95,
+    "capex": 7372428832.38,
+    "fcf": 15862951858.57,
+    "ocf_to_np": 1.78
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 243578924958.47,
+    "revenue_yoy": 7.25,
+    "net_profit": 14712054763.24,
+    "net_profit_yoy": 12.49,
+    "net_profit_deducted": 13962931853.78,
+    "gross_margin": 31.33,
+    "net_margin": 6.05,
+    "selling_expense_ratio": 15.85,
+    "admin_expense_ratio": 4.45,
+    "finance_expense_ratio": -0.1,
+    "rd_expense": 9507384787.81,
+    "rd_ratio": 3.9,
+    "eps": 1.58,
+    "bvps": 9.89,
+    "roe": 16.8,
+    "roa": 6.49,
+    "total_assets": 236017821177.5,
+    "total_liab": 141267488530.61,
+    "debt_ratio": 59.85,
+    "cash": 54162212155.31,
+    "receivables": 15886748811.81,
+    "inventory": 41587786307.53,
+    "goodwill": 23643595643.87,
+    "interest_debt": 32382318733.48,
+    "equity_parent": 93459437602.44,
+    "ocf": 20256557145.86,
+    "capex": 8209786230.64,
+    "fcf": 12046770915.22,
+    "ocf_to_np": 1.38
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 274204520847.97,
+    "revenue_yoy": 12.57,
+    "net_profit": 16596615045.87,
+    "net_profit_yoy": 12.81,
+    "net_profit_deducted": 15824164161.43,
+    "gross_margin": 27.49,
+    "net_margin": 6.23,
+    "selling_expense_ratio": 11.94,
+    "admin_expense_ratio": 4.33,
+    "finance_expense_ratio": 0.18,
+    "rd_expense": 10380219803.05,
+    "rd_ratio": 3.79,
+    "eps": 1.79,
+    "bvps": 10.97,
+    "roe": 17.24,
+    "roa": 6.88,
+    "total_assets": 261067684897.49,
+    "total_liab": 153537344924.15,
+    "debt_ratio": 58.81,
+    "cash": 57255962206.24,
+    "receivables": 22682921254.25,
+    "inventory": 39524006616.33,
+    "goodwill": 24482559414.46,
+    "interest_debt": 36736726959.63,
+    "equity_parent": 101265984771.17,
+    "ocf": 26535780568.36,
+    "capex": 10541562038.81,
+    "fcf": 15994218529.55,
+    "ocf_to_np": 1.6
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 286015294936.52,
+    "revenue_yoy": 4.31,
+    "net_profit": 18731046273.17,
+    "net_profit_yoy": 12.86,
+    "net_profit_deducted": 17804732809.63,
+    "gross_margin": 27.82,
+    "net_margin": 6.84,
+    "selling_expense_ratio": 11.75,
+    "admin_expense_ratio": 4.24,
+    "finance_expense_ratio": 0.34,
+    "rd_expense": 10769896196.17,
+    "rd_ratio": 3.77,
+    "eps": 2.02,
+    "bvps": 11.87,
+    "roe": 17.61,
+    "roa": 7.09,
+    "total_assets": 290736357978.75,
+    "total_liab": 171934636793.11,
+    "debt_ratio": 59.14,
+    "cash": 55597554622.83,
+    "receivables": 26494845510.56,
+    "inventory": 43189855697.96,
+    "goodwill": 27384007599.06,
+    "interest_debt": 44460378216.33,
+    "equity_parent": 111778874767.22,
+    "ocf": 26318091311.95,
+    "capex": 10080067313.04,
+    "fcf": 16238023998.91,
+    "ocf_to_np": 1.41
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 302346783918.3,
+    "revenue_yoy": 5.71,
+    "net_profit": 19552798222.85,
+    "net_profit_yoy": 4.39,
+    "net_profit_deducted": 18603631637.54,
+    "gross_margin": 26.66,
+    "net_margin": 6.67,
+    "selling_expense_ratio": 11.2,
+    "admin_expense_ratio": 4.55,
+    "finance_expense_ratio": -0.02,
+    "rd_expense": 10095934065.45,
+    "rd_ratio": 3.34,
+    "eps": 2.12,
+    "bvps": 12.66,
+    "roe": 16.98,
+    "roa": 6.88,
+    "total_assets": 295795068591.57,
+    "total_liab": 169818067276.46,
+    "debt_ratio": 57.41,
+    "cash": 47621657441.3,
+    "receivables": 27065839108.45,
+    "inventory": 46848790687.12,
+    "goodwill": 27300229637.37,
+    "interest_debt": 45316978620.77,
+    "equity_parent": 118698401416.58,
+    "ocf": 26002941969.92,
+    "capex": 8851563940.89,
+    "fcf": 17151378029.03,
+    "ocf_to_np": 1.33
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 152115050237.63,
+   "revenue_yoy": -2.8,
+   "net_profit": 10316254946.26,
+   "net_profit_yoy": -14.27,
+   "net_profit_deducted": 9298750602.78,
+   "gross_margin": 27.23,
+   "net_margin": 7.15,
+   "roe": 8.36,
+   "eps": 1.12,
+   "debt_ratio": 58.52,
+   "ocf": 9752033977.71
+  },
+  "derived": {
+   "revenue_cagr_3y": 7.47,
+   "net_profit_cagr_3y": 9.95,
+   "receivables_to_revenue": 8.95,
+   "goodwill_to_equity": 23.0
+  }
+ },
+ "shareholders": {
+  "controller": "海尔集团公司",
+  "controlling_shareholder": "海尔卡奥斯股份有限公司",
+  "controlling_ratio": 13.42,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "HKSCC NOMINEES LIMITED",
+    "hold_num": 2312660821,
+    "hold_ratio": 24.66,
+    "hold_num_change": 35557
+   },
+   {
+    "rank": 2,
+    "name": "海尔卡奥斯股份有限公司",
+    "hold_num": 1258684824,
+    "hold_ratio": 13.42,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "海尔集团公司",
+    "hold_num": 1072610764,
+    "hold_ratio": 11.44,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "HCH (HK) INVESTMENT MANAGEMENT CO., LIMITED",
+    "hold_num": 538560000,
+    "hold_ratio": 5.74,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "香港中央结算有限公司",
+    "hold_num": 486093854,
+    "hold_ratio": 5.18,
+    "hold_num_change": 152493934
+   },
+   {
+    "rank": 6,
+    "name": "青岛海尔创业投资咨询有限公司",
+    "hold_num": 172252560,
+    "hold_ratio": 1.84,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "青岛海创智管理咨询企业(有限合伙)",
+    "hold_num": 133791058,
+    "hold_ratio": 1.43,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "国丰兴华(北京)私募基金管理有限公司-国丰兴华鸿鹄志远三期私募证券投资基金1号",
+    "hold_num": 68683560,
+    "hold_ratio": 0.73,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "全国社保基金一一三组合",
+    "hold_num": 60096892,
+    "hold_ratio": 0.64,
+    "hold_num_change": -6499842
+   },
+   {
+    "rank": 10,
+    "name": "CLEARSTREAM BANKING S.A.",
+    "hold_num": 58310432,
+    "hold_ratio": 0.62,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 262405,
+  "holder_num_change_pct": 11.22,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 14.22,
+  "northbound_ratio": 5.18,
+  "executives": [
+   {
+    "name": "李华刚",
+    "title": "董事长",
+    "pay": 3550000.0
+   },
+   {
+    "name": "李华刚",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "刘晓梅",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.19,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.4614,
+    "total_amount": 4359000825.86,
+    "payout_ratio": 33.33,
+    "dividend_yield": 1.89,
+    "ex_date": "2022-08-23"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.5669,
+    "total_amount": 5350656095.14,
+    "payout_ratio": 36.37,
+    "dividend_yield": 2.46,
+    "ex_date": "2023-08-25"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.8013,
+    "total_amount": 7562855844.91,
+    "payout_ratio": 45.57,
+    "dividend_yield": 3.22,
+    "ex_date": "2024-08-16"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.965,
+    "total_amount": 9054886683.84,
+    "payout_ratio": 48.34,
+    "dividend_yield": 3.52,
+    "ex_date": "2025-07-25"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 1.1607,
+    "total_amount": 10885471338.78,
+    "payout_ratio": 55.67,
+    "dividend_yield": 3.38,
+    "ex_date": "2025-11-07"
+   }
+  ],
+  "consecutive_years": 5,
+  "cum_dividend_5y": 37212870788.53,
+  "cum_netprofit_5y": 82671354822.23,
+  "payout_5y": 45.01,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [
+   "000333.SZ",
+   "000651.SZ",
+   "002050.SZ"
+  ],
+  "segments": [
+   {
+    "name": "电冰箱",
+    "revenue": 84165111116.09,
+    "ratio": 27.84,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "洗衣机",
+    "revenue": 64984973167.46,
+    "ratio": 21.49,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "空调",
+    "revenue": 53741784684.04,
+    "ratio": 17.77,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "厨电",
+    "revenue": 41322769277.57,
+    "ratio": 13.67,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "装备部品及渠道综合服务",
+    "revenue": 38892634649.73,
+    "ratio": 12.86,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "水家电",
+    "revenue": 17474406595.05,
+    "ratio": 5.78,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "海外",
+    "revenue": 154545365361.13,
+    "ratio": 51.12,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "国内",
+    "revenue": 146036314128.81,
+    "ratio": 48.3,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 1765104428.36,
+    "ratio": 0.58,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "海尔智家股份有限公司关于境外上市外资股（H股）股份变动情况的公告",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225608094.PDF",
+    "type": null
+   },
+   {
+    "title": "海尔智家股份有限公司关于以集中竞价交易方式回购A股股份的进展公告",
+    "date": "2026-10-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225606613.PDF",
+    "type": null
+   },
+   {
+    "title": "海尔智家股份有限公司关于召开2026年半年度业绩说明会的公告",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225596447.PDF",
+    "type": null
+   },
+   {
+    "title": "海尔智家股份有限公司关于确定自愿公开回购境外上市外资股（D股）数量的提示性公告",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225596438.PDF",
+    "type": null
+   },
+   {
+    "title": "海尔智家股份有限公司关于为控股子公司提供担保的公告",
+    "date": "2026-10-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225591356.PDF",
+    "type": null
+   },
+   {
+    "title": "海尔智家股份有限公司关于以集中竞价交易方式回购A股股份的进展公告",
+    "date": "2026-10-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225591352.PDF",
+    "type": null
+   },
+   {
+    "title": "海尔智家股份有限公司关于回购境外上市外资股（H股）股份的进展公告",
+    "date": "2026-10-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225591349.PDF",
+    "type": null
+   },
+   {
+    "title": "海尔智家股份有限公司关于以集中竞价交易方式回购A股股份的进展公告",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225584789.PDF",
+    "type": null
+   },
+   {
+    "title": "海尔智家股份有限公司关于以集中竞价交易方式回购A股股份的进展公告",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225560393.PDF",
+    "type": null
+   },
+   {
+    "title": "海尔智家股份有限公司关于自愿公开回购境外上市外资股（D股）的提示性公告",
+    "date": "2026-09-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225545282.PDF",
+    "type": null
+   },
+   {
+    "title": "海尔智家股份有限公司关于部分回购股份注销完成暨股份变动的公告",
+    "date": "2026-09-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-01/1225538081.PDF",
+    "type": null
+   },
+   {
+    "title": "海尔智家股份有限公司关于以集中竞价交易方式回购A股股份的进展公告",
+    "date": "2026-09-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-01/1225537484.PDF",
+    "type": null
+   },
+   {
+    "title": "海尔智家股份有限公司关于海尔集团财务有限责任公司2026年半年度风险持续评估报告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225522693.PDF",
+    "type": null
+   },
+   {
+    "title": "海尔智家股份有限公司2026年半年度报告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225522691.PDF",
+    "type": null
+   },
+   {
+    "title": "海尔智家股份有限公司2026年半年度报告_摘要",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225522685.PDF",
+    "type": null
+   },
+   {
+    "title": "海尔智家股份有限公司第十二届董事会第七次会议决议公告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225522681.PDF",
+    "type": null
+   },
+   {
+    "title": "海尔智家股份有限公司高级管理人员离任公告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225522672.PDF",
+    "type": null
+   },
+   {
+    "title": "海尔智家股份有限公司2025年年度A股权益分派实施公告",
+    "date": "2026-08-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225474603.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市中伦律师事务所关于海尔智家股份有限公司差异化分红事项之专项法律意见",
+    "date": "2026-08-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225474602.PDF",
+    "type": null
+   },
+   {
+    "title": "海尔智家股份有限公司关于2025年年度利润分配方案调整每股分配比例的公告",
+    "date": "2026-08-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-08/1225463660.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 115
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "做为全球家电龙头，高端占比份额也不低，为何公司毛净利为何远低于，美的，格力？总公司怎么管理全球分公司，使全球本地化工厂，本地化市场和管理层，使管理，采购，决策，研发，体系化，融会贯通，和对手比，如何降本增效，如何取长补短，如何使大暖通，家用空调等，快速超越，看好公司全体执股的活力，但建议，执行力要提高",
+    "answer": null,
+    "ask_date": "2026-10-21",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=690"
+   },
+   {
+    "question": "公司虽然全球份额第一，但总体市占率才12%多，还有很大提升空间，未来公司有什么市场提升计划，竞争对比同行头部公司，优势在哪？公司商用空调及技术很强，但如何看待国内家用空调市场份额偏低，和美的，格力到处可见的log形成鲜明对比，建议加强国内家用电器特别是空调渠道建设，海外部分占比高，更应吸取国内经验，更不能忽视家用空调广大的量级及心智占领，",
+    "answer": null,
+    "ask_date": "2026-10-20",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=690"
+   },
+   {
+    "question": "建议公司加强市值管理，特别是港股，是国际化名片和窗口，公司的形象的明片，那点点流通比起美的长期偏弱，让投资者和消费者做何感想，另外，取长补短，加快大暖通的全球市场份额和心智占领，加快创新业务的发展，使公司，在全球弱增长的同时稳步向上发展",
+    "answer": null,
+    "ask_date": "2026-10-20",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=690"
+   },
+   {
+    "question": "公司10月16号发布公告后，H股455万股，已注销完，请问管理啊，后续是否还会持续回购？",
+    "answer": null,
+    "ask_date": "2026-10-19",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=690"
+   },
+   {
+    "question": "公司的路演，都准时打卡的吗？投资者的问题都没恢复完就结束了，也没有现场直播都没太看懂公司汇报了些什么",
+    "answer": null,
+    "ask_date": "2026-10-16",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=690"
+   },
+   {
+    "question": "我观察海尔很长一段时间了。感觉它常常与股市行情反着来，大盘好时不怎么涨，还经常下跌。怪怪的。与公司回购操作有关吗？",
+    "answer": null,
+    "ask_date": "2026-10-16",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=690"
+   },
+   {
+    "question": "董秘您好： 据网络信息，贵司今日签约全球代言人孙颖莎，当日电商渠道代言人专属链接销量达到10亿元人民币，请问这样的销售业绩对未来公司品牌规划、经营业绩以及资本市场的变化会产生哪些相关的影响？ 感谢关注、期待回复。",
+    "answer": null,
+    "ask_date": "2026-10-14",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=690"
+   },
+   {
+    "question": "董秘您好！作为持有海尔智家股票的长期股东，家里也是海尔冰箱的老用户了，从早年的款式一直用到现在，对产品质量很有感情。最近家里想换一台新款冰箱，想请问公司目前是否有面向股东的专属优惠或内购活动？参考五粮液的股东优惠购酒、峨眉山A的股东免门票等做法，既能回馈股东，也能让股东更深入地体验公司产品，形成良性互动。如果有相关安排，烦请告知参与方式；如果没有，也建议公司未来考虑推出此类股东专属福利。谢谢！",
+    "answer": null,
+    "ask_date": "2026-09-30",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=690"
+   }
+  ],
+  "count_12m": null
+ }
+}

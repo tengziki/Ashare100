@@ -1,0 +1,617 @@
+{
+ "identity": {
+  "code": "688008",
+  "exchange": "SH",
+  "board": "科创板",
+  "name_full": "澜起科技股份有限公司",
+  "name_abbr": "澜起科技",
+  "aliases": [
+   "lqkj"
+  ],
+  "name_en": "Montage Technology Co., Ltd.",
+  "pinyin_abbr": "LQKJ",
+  "former_names": [],
+  "industry_sw1": "电子",
+  "industry_sw2": "半导体",
+  "list_date": "2019-07-22",
+  "province": "上海",
+  "city": "上海",
+  "website": "www.montage-tech.com/cn",
+  "chairman": "杨崇和",
+  "employees": 784,
+  "business_summary": "从事集成电路芯片产品的设计、研发及销售,为云计算及AI基础设施提供创新、可靠及高能效的互连解决方案",
+  "profile": "澜起科技股份有限公司成立于2004年,是国际领先的数据处理及互连芯片设计公司,致力于为云计算和人工智能领域提供高性能、低功耗的芯片解决方案,目前公司拥有互连类芯片和津逮服务器平台两大产品线。 作为科创板首批上市企业,澜起科技于2019年7月登陆上海证券交易所,股票代码为688008。公司总部设在上海,并在昆山、北京、西安、澳门及美国、韩国等地设有分支机构。 主营业务：从事集成电路芯片产品的设计、研发及销售,为云计算及AI基础设施提供创新、可靠及高能效的互连解决方案。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 175.33,
+  "change_pct": -1.69,
+  "total_mv": 213996931221.93,
+  "float_mv": 200711563466.93,
+  "total_shares": 1220538021,
+  "float_shares": 1144764521,
+  "pe_ttm": 69.62,
+  "pe_static": 95.72,
+  "pb": 9.95,
+  "ps_ttm": 34.75,
+  "turnover_rate": 2.83,
+  "amount": 5741933934.0,
+  "high_52w": 332.69,
+  "low_52w": 111.54,
+  "ytd_return": 49.33,
+  "return_1y": 28.94,
+  "return_3y": 275.17,
+  "dividend_yield": 0.34,
+  "index_members": [
+   "上证50",
+   "沪深300",
+   "中证A500",
+   "科创50"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 2562017472.42,
+    "revenue_yoy": 40.49,
+    "net_profit": 829137544.38,
+    "net_profit_yoy": -24.88,
+    "net_profit_deducted": 617398698.55,
+    "gross_margin": 48.08,
+    "net_margin": 32.36,
+    "selling_expense_ratio": 2.99,
+    "admin_expense_ratio": 7.76,
+    "finance_expense_ratio": -3.26,
+    "rd_expense": 369849699.97,
+    "rd_ratio": 14.44,
+    "eps": 0.73,
+    "bvps": 7.42,
+    "roe": 9.93,
+    "roa": 9.54,
+    "total_assets": 8958562224.94,
+    "total_liab": 567862848.48,
+    "debt_ratio": 6.34,
+    "cash": 5104338407.64,
+    "receivables": 172433036.57,
+    "inventory": 375292253.5,
+    "goodwill": null,
+    "interest_debt": 32854533.23,
+    "equity_parent": 8390699376.46,
+    "ocf": 680414534.55,
+    "capex": 153467706.66,
+    "fcf": 526946827.89,
+    "ocf_to_np": 0.82
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 3672258476.69,
+    "revenue_yoy": 43.33,
+    "net_profit": 1299378059.37,
+    "net_profit_yoy": 56.71,
+    "net_profit_deducted": 883144528.39,
+    "gross_margin": 46.44,
+    "net_margin": 35.38,
+    "selling_expense_ratio": 2.35,
+    "admin_expense_ratio": 5.51,
+    "finance_expense_ratio": -2.21,
+    "rd_expense": 563487414.32,
+    "rd_ratio": 15.34,
+    "eps": 1.15,
+    "bvps": 8.74,
+    "roe": 14.18,
+    "roa": 13.23,
+    "total_assets": 10686045951.98,
+    "total_liab": 758790929.42,
+    "debt_ratio": 7.1,
+    "cash": 5870437916.39,
+    "receivables": 322378580.41,
+    "inventory": 738432715.91,
+    "goodwill": null,
+    "interest_debt": 20712462.07,
+    "equity_parent": 9912186393.65,
+    "ocf": 688835385.81,
+    "capex": 226859643.86,
+    "fcf": 461975741.95,
+    "ocf_to_np": 0.53
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 2285738498.23,
+    "revenue_yoy": -37.76,
+    "net_profit": 450909813.13,
+    "net_profit_yoy": -65.3,
+    "net_profit_deducted": 369932113.14,
+    "gross_margin": 58.91,
+    "net_margin": 19.74,
+    "selling_expense_ratio": 3.94,
+    "admin_expense_ratio": 7.57,
+    "finance_expense_ratio": -7.89,
+    "rd_expense": 681812435.36,
+    "rd_ratio": 29.83,
+    "eps": 0.4,
+    "bvps": 8.95,
+    "roe": 4.44,
+    "roa": 4.22,
+    "total_assets": 10697540981.27,
+    "total_liab": 490921528.4,
+    "debt_ratio": 4.59,
+    "cash": 5743574648.73,
+    "receivables": 294253723.4,
+    "inventory": 482386216.41,
+    "goodwill": null,
+    "interest_debt": 15489463.68,
+    "equity_parent": 10191406155.95,
+    "ocf": 731249699.11,
+    "capex": 423986776.59,
+    "fcf": 307262922.52,
+    "ocf_to_np": 1.62
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 3638911068.29,
+    "revenue_yoy": 59.2,
+    "net_profit": 1411778923.59,
+    "net_profit_yoy": 213.1,
+    "net_profit_deducted": 1248290398.82,
+    "gross_margin": 58.13,
+    "net_margin": 36.84,
+    "selling_expense_ratio": 2.64,
+    "admin_expense_ratio": 5.39,
+    "finance_expense_ratio": -6.61,
+    "rd_expense": 763469994.44,
+    "rd_ratio": 20.98,
+    "eps": 1.25,
+    "bvps": 9.96,
+    "roe": 13.41,
+    "roa": 11.7,
+    "total_assets": 12218911386.38,
+    "total_liab": 822405821.47,
+    "debt_ratio": 6.73,
+    "cash": 6843296852.61,
+    "receivables": 387791885.96,
+    "inventory": 352196407.33,
+    "goodwill": null,
+    "interest_debt": 44755795.24,
+    "equity_parent": 11403438067.08,
+    "ocf": 1691321506.14,
+    "capex": 379121899.19,
+    "fcf": 1312199606.95,
+    "ocf_to_np": 1.2
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 5456316783.63,
+    "revenue_yoy": 49.94,
+    "net_profit": 2235569970.18,
+    "net_profit_yoy": 58.35,
+    "net_profit_deducted": 2021628734.94,
+    "gross_margin": 62.23,
+    "net_margin": 39.03,
+    "selling_expense_ratio": 2.2,
+    "admin_expense_ratio": 9.65,
+    "finance_expense_ratio": -4.18,
+    "rd_expense": 915030216.0,
+    "rd_ratio": 16.77,
+    "eps": 1.97,
+    "bvps": 11.27,
+    "roe": 18.25,
+    "roa": 16.4,
+    "total_assets": 13748147352.18,
+    "total_liab": 876991502.11,
+    "debt_ratio": 6.38,
+    "cash": 8478984375.78,
+    "receivables": 567532180.51,
+    "inventory": 896135474.27,
+    "goodwill": null,
+    "interest_debt": 34138185.97,
+    "equity_parent": 12923722372.46,
+    "ocf": 2022020556.92,
+    "capex": 265828735.88,
+    "fcf": 1756191821.04,
+    "ocf_to_np": 0.9
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 3335497521.81,
+   "revenue_yoy": 26.66,
+   "net_profit": 1997374517.87,
+   "net_profit_yoy": 72.33,
+   "net_profit_deducted": 1322478536.33,
+   "gross_margin": 65.31,
+   "net_margin": 58.2,
+   "roe": 10.72,
+   "eps": 1.69,
+   "debt_ratio": 7.51,
+   "ocf": 1328028043.56
+  },
+  "derived": {
+   "revenue_cagr_3y": 14.11,
+   "net_profit_cagr_3y": 19.83,
+   "receivables_to_revenue": 10.4,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "无实际控制人",
+  "controlling_shareholder": "无控股股东",
+  "controlling_ratio": null,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "香港中央结算有限公司",
+    "hold_num": 145796756,
+    "hold_ratio": 11.93,
+    "hold_num_change": -596775
+   },
+   {
+    "rank": 2,
+    "name": "HKSCC NOMINEES LIMITED",
+    "hold_num": 75773200,
+    "hold_ratio": 6.2,
+    "hold_num_change": 500
+   },
+   {
+    "rank": 3,
+    "name": "WLT Partners, L.P.",
+    "hold_num": 45012524,
+    "hold_ratio": 3.68,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "中国电子投资控股有限公司",
+    "hold_num": 29749305,
+    "hold_ratio": 2.43,
+    "hold_num_change": -12221800
+   },
+   {
+    "rank": 5,
+    "name": "上海融迎企业管理合伙企业(有限合伙)",
+    "hold_num": 25677987,
+    "hold_ratio": 2.1,
+    "hold_num_change": -12228000
+   },
+   {
+    "rank": 6,
+    "name": "招商银行股份有限公司-华夏上证科创板50成份交易型开放式指数证券投资基金",
+    "hold_num": 18264207,
+    "hold_ratio": 1.49,
+    "hold_num_change": -17179347
+   },
+   {
+    "rank": 7,
+    "name": "中信证券股份有限公司-嘉实上证科创板芯片交易型开放式指数证券投资基金",
+    "hold_num": 17301701,
+    "hold_ratio": 1.42,
+    "hold_num_change": -6727271
+   },
+   {
+    "rank": 8,
+    "name": "中国工商银行股份有限公司-易方达上证科创板50成份交易型开放式指数证券投资基金",
+    "hold_num": 11138832,
+    "hold_ratio": 0.91,
+    "hold_num_change": -8178152
+   },
+   {
+    "rank": 9,
+    "name": "中国建设银行股份有限公司-华夏国证半导体芯片交易型开放式指数证券投资基金",
+    "hold_num": 8796034,
+    "hold_ratio": 0.72,
+    "hold_num_change": -4531153
+   },
+   {
+    "rank": 10,
+    "name": "中国工商银行股份有限公司-易方达中证人工智能主题交易型开放式指数证券投资基金",
+    "hold_num": 7213987,
+    "hold_ratio": 0.59,
+    "hold_num_change": -2935495
+   }
+  ],
+  "holder_num": 260865,
+  "holder_num_change_pct": 110.07,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 19.89,
+  "northbound_ratio": 11.93,
+  "executives": [
+   {
+    "name": "杨崇和",
+    "title": "董事长",
+    "pay": 13114000.0
+   },
+   {
+    "name": "Stephen Kuong-Io Tai",
+    "title": "总经理",
+    "pay": 13121700.0
+   },
+   {
+    "name": "傅晓",
+    "title": "董事会秘书",
+    "pay": 2347000.0
+   }
+  ],
+  "pledge_ratio_total": 0.0,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.3,
+    "total_amount": 340097049.3,
+    "payout_ratio": 41.02,
+    "dividend_yield": 0.51,
+    "ex_date": "2022-08-05"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.3,
+    "total_amount": 341402473.8,
+    "payout_ratio": 26.27,
+    "dividend_yield": 0.53,
+    "ex_date": "2023-08-11"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.3,
+    "total_amount": 342438337.8,
+    "payout_ratio": 75.94,
+    "dividend_yield": 0.58,
+    "ex_date": "2024-06-06"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.39,
+    "total_amount": 446467816.47,
+    "payout_ratio": 31.62,
+    "dividend_yield": 0.5,
+    "ex_date": "2025-05-30"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.59,
+    "total_amount": 705040094.19,
+    "payout_ratio": 31.54,
+    "dividend_yield": 0.17,
+    "ex_date": "2025-10-22"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 2175445771.56,
+  "cum_netprofit_5y": 6226774310.65,
+  "payout_5y": 34.94,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [
+   "688825.SH",
+   "688981.SH",
+   "688256.SH",
+   "688041.SH"
+  ],
+  "segments": [
+   {
+    "name": "互连类芯片",
+    "revenue": 5138526300.0,
+    "ratio": 94.18,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "津逮产品",
+    "revenue": 308233300.0,
+    "ratio": 5.65,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 9557187.23,
+    "ratio": 0.18,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "境外",
+    "revenue": 3900732400.0,
+    "ratio": 71.49,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "境内",
+    "revenue": 1546027200.0,
+    "ratio": 28.33,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 9557187.23,
+    "ratio": 0.18,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "澜起科技2026年第三季度业绩预增的自愿性披露公告",
+    "date": "2026-10-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612915.PDF",
+    "type": null
+   },
+   {
+    "title": "澜起科技关于独立董事提议公司回购A股股份的公告",
+    "date": "2026-10-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-19/1225609993.PDF",
+    "type": null
+   },
+   {
+    "title": "澜起科技2026年半年度权益分派实施公告",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225609494.PDF",
+    "type": null
+   },
+   {
+    "title": "国浩律师（上海）事务所关于澜起科技股份有限公司差异化分红事项之专项法律意见书",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225609492.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-董事会会议召开日期",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225609066.PDF",
+    "type": null
+   },
+   {
+    "title": "澜起科技关于以集中竞价交易方式回购A股股份的进展公告",
+    "date": "2026-10-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225591095.PDF",
+    "type": null
+   },
+   {
+    "title": "澜起科技股东减持股份计划公告",
+    "date": "2026-09-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-25/1225582249.PDF",
+    "type": null
+   },
+   {
+    "title": "澜起科技2023年、2024年限制性股票激励计划部分归属结果公告",
+    "date": "2026-09-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-17/1225568696.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-17/1225568616.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-16/1225565617.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-15/1225563854.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225561362.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-11/1225558211.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-10/1225556190.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-09/1225554325.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-08/1225551896.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-05",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-05/1225549593.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-04",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-04/1225546776.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225544671.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-02",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-02/1225541970.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 148
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "公司 PCIe 6.x/CXL 3.x Retimer 已完成量产版本流片并列入 PCI-SIG 供应商名录，行业信息显示支持 PCIe 6.x 的标准服务器 CPU 平台预计2027年量产。想请公司补充：当前配合头部 CPU 厂商的联合验证进度是否顺利，有没有观察到客户在平台定型前的“提前备货”迹象？这是否意味着 2027 年有望成为 Retimer 出货斜率显著抬升的一年？",
+    "answer": null,
+    "ask_date": "2026-10-16",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=145146"
+   },
+   {
+    "question": "公司9月底先后公告量产 DDR5 第五子代 RCD、DDR5-9200 CKD 芯片，同时第六子代 RCD 也已送样。请教管理层：随着第五子代从“送样”转向规模出货、第三/四子代占比已破50%，新子代产品因性能升级带来的起始单价抬升与单位功耗优化，预计将在哪个季度开始更明显地反映在互连类芯片毛利率（目前已达69%+）上？是否可理解为“量价齐升”窗口正在打开？",
+    "answer": null,
+    "ask_date": "2026-10-16",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=145146"
+   },
+   {
+    "question": "尊敬的管理层：当前公司股价从高点下来已经腰斩，公司也开展了回购，新技术也在推出，但股价依旧跌跌不休，做为投资者建议公司高管个人可以增持公司股票增加市场信心，一个小小建议希望管理层能够采纳。",
+    "answer": null,
+    "ask_date": "2026-10-15",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=145146"
+   },
+   {
+    "question": "尊敬的管理层，公司近期价格出现持续的单边下跌，请问公司生产经营出现什么变化吗？如果没有为什么会出现这种情况，请管理层拿出切实有效的手段遏制股价单边下跌的情况。",
+    "answer": null,
+    "ask_date": "2026-10-14",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=145146"
+   },
+   {
+    "question": "10月13日，三星和AMD联合展示CXL方案，请问公司的CXL技术是否与之相关，两者之间是什么关系，对公司有是有利还是加剧竞争？",
+    "answer": null,
+    "ask_date": "2026-10-13",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=145146"
+   }
+  ],
+  "count_12m": null
+ }
+}

@@ -1,0 +1,623 @@
+{
+ "identity": {
+  "code": "600031",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "三一重工股份有限公司",
+  "name_abbr": "三一重工",
+  "aliases": [
+   "syzg"
+  ],
+  "name_en": "SANY HEAVY INDUSTRY CO.,LTD",
+  "pinyin_abbr": "SYZG",
+  "former_names": [
+   "三一重工→G三一"
+  ],
+  "industry_sw1": "机械设备",
+  "industry_sw2": "工程机械",
+  "list_date": "2003-07-03",
+  "province": "北京",
+  "city": "北京",
+  "website": "www.sany.com.cn",
+  "chairman": "向文波",
+  "employees": 28469,
+  "business_summary": "主要从事工程机械的研发、制造、销售和服务",
+  "profile": "三一重工股份有限公司(600031.SH)于2003年7月3日上市,是中国股权分置改革首家成功并实现全流通的企业。2011年7月,三一重工首次入围FT全球市值500强,是唯一上榜的中国工程机械企业。2012年,三一重工跨国并购“全球混凝土机械第一品牌”德国普茨迈斯特、持股“全球随车起重机械巨头”奥地利帕尔菲格。“2021年首次跻身福布斯全球企业500强”。三一重工股份有限公司拥有业内领先的多元化产品矩阵覆盖混凝土机械、挖掘机械、起重机械、筑路机械、桩工机械等主要品类。秉承“品质改变世界”的使命,三一持续投入大量资源用于研发,致力打造世界一流的产品。凭借技术创新实力,三一先后四次荣获“国家科技进步奖”。近年,三一重工相继在印度、美国、德国、印度尼西亚投资建设研发和制造基地。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 17.82,
+  "change_pct": 0.73,
+  "total_mv": 163854979067.34,
+  "float_mv": 151013630459.34,
+  "total_shares": 9195004437,
+  "float_shares": 8474390037,
+  "pe_ttm": 18.44,
+  "pe_static": 19.49,
+  "pb": 1.78,
+  "ps_ttm": 1.66,
+  "turnover_rate": 0.62,
+  "amount": 930818748.0,
+  "high_52w": 24.11,
+  "low_52w": 16.5,
+  "ytd_return": -14.94,
+  "return_1y": -21.98,
+  "return_3y": 33.13,
+  "dividend_yield": 2.75,
+  "index_members": [
+   "上证50",
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 106873394000.0,
+    "revenue_yoy": 6.81,
+    "net_profit": 12033364000.0,
+    "net_profit_yoy": -22.04,
+    "net_profit_deducted": 10291278000.0,
+    "gross_margin": 25.85,
+    "net_margin": 11.62,
+    "selling_expense_ratio": 6.27,
+    "admin_expense_ratio": 2.59,
+    "finance_expense_ratio": -0.12,
+    "rd_expense": 6508888000.0,
+    "rd_ratio": 6.09,
+    "eps": 1.43,
+    "bvps": 7.5,
+    "roe": 19.95,
+    "roa": 9.3,
+    "total_assets": 138556543000.0,
+    "total_liab": 73461411000.0,
+    "debt_ratio": 53.02,
+    "cash": 14811867000.0,
+    "receivables": 19655404000.0,
+    "inventory": 18462609000.0,
+    "goodwill": 46495000.0,
+    "interest_debt": 17969381000.0,
+    "equity_parent": 63690908000.0,
+    "ocf": 11904233000.0,
+    "capex": 10299972000.0,
+    "fcf": 1604261000.0,
+    "ocf_to_np": 0.99
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 80838530000.0,
+    "revenue_yoy": -24.36,
+    "net_profit": 4290386000.0,
+    "net_profit_yoy": -64.35,
+    "net_profit_deducted": 3126760000.0,
+    "gross_margin": 24.04,
+    "net_margin": 5.53,
+    "selling_expense_ratio": 7.8,
+    "admin_expense_ratio": 3.27,
+    "finance_expense_ratio": -0.36,
+    "rd_expense": 6922913000.0,
+    "rd_ratio": 8.56,
+    "eps": 0.51,
+    "bvps": 7.65,
+    "roe": 6.67,
+    "roa": 2.97,
+    "total_assets": 158921280000.0,
+    "total_liab": 92827641000.0,
+    "debt_ratio": 58.41,
+    "cash": 21342876000.0,
+    "receivables": 25022047000.0,
+    "inventory": 19738362000.0,
+    "goodwill": 47501000.0,
+    "interest_debt": 28565042000.0,
+    "equity_parent": 65050592000.0,
+    "ocf": 4100859000.0,
+    "capex": 5667122000.0,
+    "fcf": -1566263000.0,
+    "ocf_to_np": 0.96
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 74018936000.0,
+    "revenue_yoy": -8.44,
+    "net_profit": 4527451000.0,
+    "net_profit_yoy": 5.53,
+    "net_profit_deducted": 4388393000.0,
+    "gross_margin": 26.18,
+    "net_margin": 6.29,
+    "selling_expense_ratio": 6.89,
+    "admin_expense_ratio": 3.58,
+    "finance_expense_ratio": -0.63,
+    "rd_expense": 5864595000.0,
+    "rd_ratio": 7.92,
+    "eps": 0.53,
+    "bvps": 8.02,
+    "roe": 6.85,
+    "roa": 2.97,
+    "total_assets": 151203358000.0,
+    "total_liab": 82041325000.0,
+    "debt_ratio": 54.26,
+    "cash": 18071827000.0,
+    "receivables": 24164729000.0,
+    "inventory": 19767762000.0,
+    "goodwill": 49661000.0,
+    "interest_debt": 30043378000.0,
+    "equity_parent": 68029017000.0,
+    "ocf": 5708220000.0,
+    "capex": 4525221000.0,
+    "fcf": 1182999000.0,
+    "ocf_to_np": 1.26
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 78383379000.0,
+    "revenue_yoy": 5.9,
+    "net_profit": 5955567000.0,
+    "net_profit_yoy": 31.54,
+    "net_profit_deducted": 5333989000.0,
+    "gross_margin": 26.43,
+    "net_margin": 7.83,
+    "selling_expense_ratio": 6.97,
+    "admin_expense_ratio": 3.82,
+    "finance_expense_ratio": 0.26,
+    "rd_expense": 5380621000.0,
+    "rd_ratio": 6.86,
+    "eps": 0.7,
+    "bvps": 8.49,
+    "roe": 8.52,
+    "roa": 4.02,
+    "total_assets": 152145077000.0,
+    "total_liab": 79143478000.0,
+    "debt_ratio": 52.02,
+    "cash": 20383176000.0,
+    "receivables": 25516530000.0,
+    "inventory": 19947981000.0,
+    "goodwill": 48010000.0,
+    "interest_debt": 22007579000.0,
+    "equity_parent": 71923866000.0,
+    "ocf": 14814278000.0,
+    "capex": 2938287000.0,
+    "fcf": 11875991000.0,
+    "ocf_to_np": 2.49
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 89699505000.0,
+    "revenue_yoy": 14.44,
+    "net_profit": 8408057000.0,
+    "net_profit_yoy": 41.18,
+    "net_profit_deducted": 8221213000.0,
+    "gross_margin": 27.54,
+    "net_margin": 9.51,
+    "selling_expense_ratio": 7.15,
+    "admin_expense_ratio": 2.89,
+    "finance_expense_ratio": -0.35,
+    "rd_expense": 5032789000.0,
+    "rd_ratio": 5.61,
+    "eps": 0.98,
+    "bvps": 9.61,
+    "roe": 11.18,
+    "roa": 5.22,
+    "total_assets": 173299138000.0,
+    "total_liab": 83867741000.0,
+    "debt_ratio": 48.39,
+    "cash": 38451241000.0,
+    "receivables": 25540365000.0,
+    "inventory": 22526664000.0,
+    "goodwill": 40771000.0,
+    "interest_debt": 21076083000.0,
+    "equity_parent": 88331244000.0,
+    "ocf": 19975261000.0,
+    "capex": 2771319000.0,
+    "fcf": 17203942000.0,
+    "ocf_to_np": 2.38
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 53506463000.0,
+   "revenue_yoy": 19.49,
+   "net_profit": 5690229000.0,
+   "net_profit_yoy": 9.13,
+   "net_profit_deducted": 4681837000.0,
+   "gross_margin": 27.78,
+   "net_margin": 10.74,
+   "roe": 6.16,
+   "eps": 0.62,
+   "debt_ratio": 48.55,
+   "ocf": 9767583000.0
+  },
+  "derived": {
+   "revenue_cagr_3y": 3.53,
+   "net_profit_cagr_3y": 25.14,
+   "receivables_to_revenue": 28.47,
+   "goodwill_to_equity": 0.05
+  }
+ },
+ "shareholders": {
+  "controller": "梁稳根",
+  "controlling_shareholder": "三一集团有限公司",
+  "controlling_ratio": 22.38,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "三一集团有限公司",
+    "hold_num": 2057460315,
+    "hold_ratio": 22.38,
+    "hold_num_change": -422627942
+   },
+   {
+    "rank": 2,
+    "name": "香港中央结算有限公司",
+    "hold_num": 1359554490,
+    "hold_ratio": 14.79,
+    "hold_num_change": 181204985
+   },
+   {
+    "rank": 3,
+    "name": "三一集团有限公司-三一集团有限公司2020年非公开发行可交换公司债券质押专户",
+    "hold_num": 422627942,
+    "hold_ratio": 4.6,
+    "hold_num_change": null
+   },
+   {
+    "rank": 4,
+    "name": "梁稳根",
+    "hold_num": 235840517,
+    "hold_ratio": 2.56,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "全国社保基金一零三组合",
+    "hold_num": 128000000,
+    "hold_ratio": 1.39,
+    "hold_num_change": 18000000
+   },
+   {
+    "rank": 6,
+    "name": "全国社保基金一一四组合",
+    "hold_num": 100000000,
+    "hold_ratio": 1.09,
+    "hold_num_change": -85464
+   },
+   {
+    "rank": 7,
+    "name": "瑞众人寿保险有限责任公司-自有资金",
+    "hold_num": 63329996,
+    "hold_ratio": 0.69,
+    "hold_num_change": 14953536
+   },
+   {
+    "rank": 8,
+    "name": "阿布达比投资局-自有资金",
+    "hold_num": 58325681,
+    "hold_ratio": 0.63,
+    "hold_num_change": 5626932
+   },
+   {
+    "rank": 9,
+    "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+    "hold_num": 35922390,
+    "hold_ratio": 0.39,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "全国社保基金一零九组合",
+    "hold_num": 35209851,
+    "hold_ratio": 0.38,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 465614,
+  "holder_num_change_pct": 2.88,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 12.9,
+  "northbound_ratio": 14.79,
+  "executives": [
+   {
+    "name": "向文波",
+    "title": "董事长",
+    "pay": 1393200.0
+   },
+   {
+    "name": "俞宏福",
+    "title": "总经理",
+    "pay": 8100300.0
+   },
+   {
+    "name": "秦致妤",
+    "title": "董事会秘书",
+    "pay": 2689200.0
+   }
+  ],
+  "pledge_ratio_total": 5.03,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.45,
+    "total_amount": 3821978709.45,
+    "payout_ratio": 31.76,
+    "dividend_yield": 2.58,
+    "ex_date": "2022-06-10"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.16,
+    "total_amount": 1357856333.92,
+    "payout_ratio": 31.65,
+    "dividend_yield": 1.06,
+    "ex_date": "2023-05-31"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.22,
+    "total_amount": 1866862852.14,
+    "payout_ratio": 41.23,
+    "dividend_yield": 1.4,
+    "ex_date": "2024-06-21"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.36,
+    "total_amount": 3050992093.32,
+    "payout_ratio": 51.23,
+    "dividend_yield": 1.98,
+    "ex_date": "2025-06-11"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.49,
+    "total_amount": 4282161710.13,
+    "payout_ratio": 50.93,
+    "dividend_yield": 1.19,
+    "ex_date": "2025-10-15"
+   }
+  ],
+  "consecutive_years": 5,
+  "cum_dividend_5y": 14379851698.96,
+  "cum_netprofit_5y": 35214825000.0,
+  "payout_5y": 40.83,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [
+   "601100.SH",
+   "000425.SZ",
+   "000157.SZ"
+  ],
+  "segments": [
+   {
+    "name": "挖掘机械",
+    "revenue": 34543625000.0,
+    "ratio": 38.71,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他",
+    "revenue": 16810156000.0,
+    "ratio": 18.84,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "混凝土机械",
+    "revenue": 15737918000.0,
+    "ratio": 17.64,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "起重机械",
+    "revenue": 15562967000.0,
+    "ratio": 17.44,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "路面机械",
+    "revenue": 3756829000.0,
+    "ratio": 4.21,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "国际",
+    "revenue": 55856051000.0,
+    "ratio": 62.6,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "国内",
+    "revenue": 31413934000.0,
+    "ratio": 35.21,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 1961038000.0,
+    "ratio": 2.2,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "三一重工股份有限公司第九届董事会第十三次会议决议公告",
+    "date": "2026-10-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-20/1225610644.PDF",
+    "type": null
+   },
+   {
+    "title": "三一重工股份有限公司关于增加2026年日常关联交易预计的公告",
+    "date": "2026-10-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-20/1225610640.PDF",
+    "type": null
+   },
+   {
+    "title": "《三一重工股份有限公司持续关连交易公告订立三一国际综合零件代理服务框架协议及订立经修订三一国际售后服务框架协议》（H股）",
+    "date": "2026-10-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-20/1225610639.PDF",
+    "type": null
+   },
+   {
+    "title": "三一重工股份有限公司关于回购公司A股股份的进展公告",
+    "date": "2026-10-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-10/1225598527.PDF",
+    "type": null
+   },
+   {
+    "title": "三一重工股份有限公司H股公告-证券变动月报表（9月）",
+    "date": "2026-10-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225595339.PDF",
+    "type": null
+   },
+   {
+    "title": "湖南启元律师事务所关于三一重工股份有限公司2026年第二次临时股东会的法律意见书",
+    "date": "2026-09-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225579778.PDF",
+    "type": null
+   },
+   {
+    "title": "三一重工股份有限公司2026年第二次临时股东会决议公告",
+    "date": "2026-09-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225579776.PDF",
+    "type": null
+   },
+   {
+    "title": "三一重工股份有限公司关于回购公司A股股份的进展公告",
+    "date": "2026-09-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-17/1225568522.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-17/1225568519.PDF",
+    "type": null
+   },
+   {
+    "title": "三一重工股份有限公司关于控股股东2020年非公开发行可交换公司债券完成摘牌的公告",
+    "date": "2026-09-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-16/1225565737.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-16/1225565728.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-15/1225563644.PDF",
+    "type": null
+   },
+   {
+    "title": "三一重工股份有限公司关于以集中竞价交易方式首次回购公司A股股份的公告",
+    "date": "2026-09-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-14/1225562045.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-14/1225562020.PDF",
+    "type": null
+   },
+   {
+    "title": "三一重工股份有限公司H股公告-证券变动月报表（8月）",
+    "date": "2026-09-04",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-04/1225545649.PDF",
+    "type": null
+   },
+   {
+    "title": "三一重工股份有限公司关于回购公司A股股份的进展公告",
+    "date": "2026-09-02",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-02/1225540327.PDF",
+    "type": null
+   },
+   {
+    "title": "三一重工股份有限公司董事会秘书工作制度（2026年8月修订）",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225535201.PDF",
+    "type": null
+   },
+   {
+    "title": "三一重工股份有限公司第九届董事会第十二次会议决议公告",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225535138.PDF",
+    "type": null
+   },
+   {
+    "title": "三一重工股份有限公司2026年度“提质增效重回报”行动方案半年度评估报告",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225535116.PDF",
+    "type": null
+   },
+   {
+    "title": "三一重工股份有限公司2026年半年度报告",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225535109.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 154
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "公司股价连续下跌，为什么不继续回购，增加投资者信心。",
+    "answer": "尊敬的投资者您好，感谢您的关注。二级市场股价受宏观环境、市场情绪、行业周期等多重因素影响。公司始终认为，基本面修复是稳定长期市值、提振投资者信心的核心。公司将持续深耕主业，推进海内外市场拓展、产品结构优化与降本增效，夯实经营基本面。 公司已推出4亿至8亿元回购方案，回购将在回购期限内，结合二级市场股价、资金安排、经营资金需求等情况择机实施，回购实施节奏遵循相关监管规则，公司将严格按照规定持续披露回购进展。公司将持续评估资金状况与回购实施条件，若后续加大回购力度，将严格履行内部决策与信息披露义务。相关回购进展请以公司公告为准。感谢您的关注！",
+    "ask_date": "2026-10-09",
+    "answer_date": "2026-10-12",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=31"
+   },
+   {
+    "question": "请问，是否有增加股份回购金额的计划？",
+    "answer": "尊敬的投资者您好，感谢您的关注。公司当前正在实施4亿元至8亿元的A股股份回购方案，暂无上调本次回购金额的计划。公司将在已获批的回购额度区间内，结合二级市场股价、现金流状况、日常经营资金需求等因素择机开展回购操作，并严格按照监管要求及时披露回购进展。若后续公司评估经营与资金条件，拟调整回购金额，将严格履行内部审议程序，并第一时间发布公告。二级市场股价波动受宏观环境、市场情绪、行业周期等多重因素影响，公司将持续聚焦主业经营，夯实基本面，努力提升长期价值。相关事项请以公司在上交所发布的公告为准。感谢您的关注！",
+    "ask_date": "2026-10-08",
+    "answer_date": "2026-10-12",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=31"
+   },
+   {
+    "question": "您好，近期贵公司的股价大幅下跌，且没有止跌迹象。同时，贵公司的回购计划仍有很多额度未使用。那么，为什么不抓紧进行回购稳住股价？是希望股价更低？",
+    "answer": "尊敬的投资者您好，公司股票价格受宏观经济、行业周期、市场情绪等多重因素综合影响。目前，公司各项生产经营活动一切正常，核心业务稳步推进，不存在应披露而未披露的重大信息。关于回购事项，公司本次股份回购严格按照监管规则及回购方案实施，回购节奏系综合结合二级市场行情、公司经营规划等因素审慎安排，公司现金流稳健、资金安排充足，不存在相关不当情形，相关操作均合法合规，回购执行主体符合监管及内部规范要求，公司始终严格履行信息披露义务，切实维护全体投资者利益。感谢您的关注。",
+    "ask_date": "2026-10-08",
+    "answer_date": "2026-10-12",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=31"
+   },
+   {
+    "question": "自从贵公司安排股份在港股上市，时至今日股价已经创出新低，受此影响A股的股价也是一蹶不振。贵公司是否承认港股上市是分散流动性的错误决定？对于股价持续下跌，公司的措施是什么？",
+    "answer": "尊敬的投资者您好，感谢您的关注。A+H两地上市是公司落实全球化战略的重要资本布局，目的是搭建面向全球投资者的资本平台，更好地匹配公司海外业务发展，拓宽国际融资渠道，吸引长期海外机构资金。H股与A股同股同权，两地股价受各自市场资金结构、估值体系、市场情绪等多重独立因素影响，港股表现与A股股价存在联动，但股价下行是宏观环境、行业周期、全球资本市场整体环境等多重因素共振的结果。 二级市场股价波动受多重复杂因素影响。稳定股价的核心在于持续夯实经营基本面。公司现阶段采取的主要举措包括：一是持续推进全球化业务拓展，把握海外基建、矿业等市场机会，扩大海外收入贡献，优化海内外盈利结构；二是持续优化国内产品结构，加大高附加值、电动化产品推广，推进全价值链降本增效，改善盈利水平；三是落实已披露的4亿—8亿元A股股份回购方案，在回购期限内结合股价、资金情况择机实施，并严格按照监管要求披露回购进展；四是持续做好投资者沟通，积极向海内外机构传递公司经营价值。 公司将继续聚焦主业，全力提升经营质量与长期价值。所有重大事项请以公司在上交所、港交所发布的公告为准。感谢您的关注！",
+    "ask_date": "2026-10-08",
+    "answer_date": "2026-10-12",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=31"
+   }
+  ],
+  "count_12m": null
+ }
+}

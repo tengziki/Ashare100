@@ -1,0 +1,650 @@
+{
+ "identity": {
+  "code": "601899",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "紫金矿业集团股份有限公司",
+  "name_abbr": "紫金矿业",
+  "aliases": [
+   "zjky"
+  ],
+  "name_en": "Zijin Mining Group Company Limited",
+  "pinyin_abbr": "ZJKY",
+  "former_names": [],
+  "industry_sw1": "有色金属",
+  "industry_sw2": "工业金属",
+  "list_date": "2008-04-25",
+  "province": "福建",
+  "city": "龙岩",
+  "website": "www.zjky.cn",
+  "chairman": "邹来昌",
+  "employees": 66708,
+  "business_summary": "矿产资源勘查；金矿采选；金冶炼",
+  "profile": "紫金矿业集团股份有限公司是一家在全球范围内从事金属矿产资源勘查和开发为主、上海A股(601899.SH)和香港H股(2899.HK)两地整体上市的大型跨国矿业集团。在以营收、利润、资产和市值多维度指标综合排名的《福布斯》2025全球上市企业2000强榜单中,紫金矿业位居全球上榜黄金企业第1位,全球金属矿企第4位。净资产收益率居《财富》世界500强榜全球金属矿企第1位,利润居全球金属矿企第4位。居A股上市公司第13位,成为全球市值第二大的矿业公司。紫金山大型金铜矿是紫金矿业的发祥地,公司创始人、终身荣誉董事长陈景河是该矿山的主要发现和勘查者,自1993年以来,他带领一批年轻的紫金创业者创新开发,使紫金山这座不被看好的“鸡肋”矿蜕变为“中国第一大金矿”。在历经紫金山低品位金铜矿开发、全国大发展、全球化布局三次重大战略升级,目前已在国内17个省(区)和海外17个国家拥有超过30个重要矿业基地,公司海外资源储量、产量、利润和员工人数均超过国内,矿产铜、金、锌产量中国第1,分别位居全球第4、第5、第4位。创新,是紫金矿业的核心竞争力。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 27.84,
+  "change_pct": -3.57,
+  "total_mv": 740287823029.44,
+  "float_mv": 573553921017.6,
+  "total_shares": 26590798241,
+  "float_shares": 20601793140,
+  "pe_ttm": 10.94,
+  "pe_static": 14.3,
+  "pb": 3.55,
+  "ps_ttm": 1.97,
+  "turnover_rate": 1.19,
+  "amount": 6881085270.0,
+  "high_52w": 44.14,
+  "low_52w": 24.0,
+  "ytd_return": -17.32,
+  "return_1y": -2.83,
+  "return_3y": 178.4,
+  "dividend_yield": 2.16,
+  "index_members": [
+   "上证50",
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 225102488592.0,
+    "revenue_yoy": 31.25,
+    "net_profit": 15672870591.0,
+    "net_profit_yoy": 140.8,
+    "net_profit_deducted": 14680534183.0,
+    "gross_margin": 15.44,
+    "net_margin": 8.71,
+    "selling_expense_ratio": 0.18,
+    "admin_expense_ratio": 2.36,
+    "finance_expense_ratio": 0.66,
+    "rd_expense": 770661326.0,
+    "rd_ratio": 0.34,
+    "eps": 0.6,
+    "bvps": 2.7,
+    "roe": 23.97,
+    "roa": 10.03,
+    "total_assets": 208594678123.0,
+    "total_liab": 115697507579.0,
+    "debt_ratio": 55.47,
+    "cash": 14221780252.0,
+    "receivables": 2445223101.0,
+    "inventory": 19308800678.0,
+    "goodwill": 314149588.0,
+    "interest_debt": 78257937949.0,
+    "equity_parent": 71034368061.0,
+    "ocf": 26072237601.0,
+    "capex": 20148568080.0,
+    "fcf": 5923669521.0,
+    "ocf_to_np": 1.66
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 270328998459.0,
+    "revenue_yoy": 20.09,
+    "net_profit": 20042045977.0,
+    "net_profit_yoy": 27.88,
+    "net_profit_deducted": 19531070917.0,
+    "gross_margin": 15.74,
+    "net_margin": 9.16,
+    "selling_expense_ratio": 0.23,
+    "admin_expense_ratio": 2.32,
+    "finance_expense_ratio": 0.7,
+    "rd_expense": 1231551616.0,
+    "rd_ratio": 0.46,
+    "eps": 0.76,
+    "bvps": 3.38,
+    "roe": 25.29,
+    "roa": 9.63,
+    "total_assets": 306044139470.0,
+    "total_liab": 181588693965.0,
+    "debt_ratio": 59.33,
+    "cash": 20243737052.0,
+    "receivables": 7916964606.0,
+    "inventory": 28103963625.0,
+    "goodwill": 717723949.0,
+    "interest_debt": 124224301675.0,
+    "equity_parent": 88942780498.0,
+    "ocf": 28678502360.0,
+    "capex": 24794352673.0,
+    "fcf": 3884149687.0,
+    "ocf_to_np": 1.43
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 293403242878.0,
+    "revenue_yoy": 8.54,
+    "net_profit": 21119419571.0,
+    "net_profit_yoy": 5.38,
+    "net_profit_deducted": 21616538793.0,
+    "gross_margin": 15.81,
+    "net_margin": 9.05,
+    "selling_expense_ratio": 0.26,
+    "admin_expense_ratio": 2.56,
+    "finance_expense_ratio": 1.11,
+    "rd_expense": 1566908894.0,
+    "rd_ratio": 0.53,
+    "eps": 0.8,
+    "bvps": 4.08,
+    "roe": 21.43,
+    "roa": 8.18,
+    "total_assets": 343005706012.0,
+    "total_liab": 204642909694.0,
+    "debt_ratio": 59.66,
+    "cash": 18448716808.0,
+    "receivables": 7777908320.0,
+    "inventory": 29289613313.0,
+    "goodwill": 692156206.0,
+    "interest_debt": 141916960281.0,
+    "equity_parent": 107505943323.0,
+    "ocf": 36860066015.0,
+    "capex": 30428663664.0,
+    "fcf": 6431402351.0,
+    "ocf_to_np": 1.75
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 303639957153.0,
+    "revenue_yoy": 3.49,
+    "net_profit": 32050602437.0,
+    "net_profit_yoy": 51.76,
+    "net_profit_deducted": 31692529659.0,
+    "gross_margin": 20.37,
+    "net_margin": 12.97,
+    "selling_expense_ratio": 0.24,
+    "admin_expense_ratio": 2.55,
+    "finance_expense_ratio": 0.67,
+    "rd_expense": 1582329420.0,
+    "rd_ratio": 0.52,
+    "eps": 1.21,
+    "bvps": 5.2,
+    "roe": 25.89,
+    "roa": 10.65,
+    "total_assets": 396610730026.0,
+    "total_liab": 218880000963.0,
+    "debt_ratio": 55.19,
+    "cash": 31690884267.0,
+    "receivables": 6811753955.0,
+    "inventory": 33313199379.0,
+    "goodwill": 687003642.0,
+    "interest_debt": 149100601735.0,
+    "equity_parent": 139785524982.0,
+    "ocf": 48860346839.0,
+    "capex": 24797782052.0,
+    "fcf": 24062564787.0,
+    "ocf_to_np": 1.52
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 349079082852.0,
+    "revenue_yoy": 14.96,
+    "net_profit": 51777327785.0,
+    "net_profit_yoy": 61.55,
+    "net_profit_deducted": 50723514740.0,
+    "gross_margin": 27.73,
+    "net_margin": 18.28,
+    "selling_expense_ratio": 0.24,
+    "admin_expense_ratio": 3.2,
+    "finance_expense_ratio": 0.6,
+    "rd_expense": 1714881582.0,
+    "rd_ratio": 0.49,
+    "eps": 1.95,
+    "bvps": 6.92,
+    "roe": 33.04,
+    "roa": 14.05,
+    "total_assets": 512005142450.0,
+    "total_liab": 263982621036.0,
+    "debt_ratio": 51.56,
+    "cash": 65576737700.0,
+    "receivables": 9308395310.0,
+    "inventory": 39612522210.0,
+    "goodwill": 677416423.0,
+    "interest_debt": 164492766171.0,
+    "equity_parent": 185541965085.0,
+    "ocf": 75429516296.0,
+    "capex": 30982297763.0,
+    "fcf": 44447218533.0,
+    "ocf_to_np": 1.46
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 194178458630.0,
+   "revenue_yoy": 15.78,
+   "net_profit": 39169807243.0,
+   "net_profit_yoy": 68.17,
+   "net_profit_deducted": 38034770076.0,
+   "gross_margin": 37.75,
+   "net_margin": 25.65,
+   "roe": 19.6,
+   "eps": 1.47,
+   "debt_ratio": 49.55,
+   "ocf": 55471692934.0
+  },
+  "derived": {
+   "revenue_cagr_3y": 8.9,
+   "net_profit_cagr_3y": 37.21,
+   "receivables_to_revenue": 2.67,
+   "goodwill_to_equity": 0.37
+  }
+ },
+ "shareholders": {
+  "controller": "上杭县财政局",
+  "controlling_shareholder": "闽西兴杭国有资产投资经营有限公司",
+  "controlling_ratio": 22.88,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "闽西兴杭国有资产投资经营有限公司",
+    "hold_num": 6083517704,
+    "hold_ratio": 22.88,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "香港中央结算(代理人)有限公司",
+    "hold_num": 5976724464,
+    "hold_ratio": 22.48,
+    "hold_num_change": -325750
+   },
+   {
+    "rank": 3,
+    "name": "香港中央结算有限公司",
+    "hold_num": 1313255994,
+    "hold_ratio": 4.94,
+    "hold_num_change": 29514369
+   },
+   {
+    "rank": 4,
+    "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+    "hold_num": 226310517,
+    "hold_ratio": 0.85,
+    "hold_num_change": 25750589
+   },
+   {
+    "rank": 5,
+    "name": "阿布达比投资局-自有资金",
+    "hold_num": 155033298,
+    "hold_ratio": 0.58,
+    "hold_num_change": 13658901
+   },
+   {
+    "rank": 6,
+    "name": "中国太平洋人寿保险股份有限公司-分红-个人分红",
+    "hold_num": 122808985,
+    "hold_ratio": 0.46,
+    "hold_num_change": null
+   },
+   {
+    "rank": 7,
+    "name": "上杭县金山贸易有限公司",
+    "hold_num": 110905000,
+    "hold_ratio": 0.42,
+    "hold_num_change": null
+   },
+   {
+    "rank": 8,
+    "name": "UBS AG",
+    "hold_num": 109352980,
+    "hold_ratio": 0.41,
+    "hold_num_change": null
+   },
+   {
+    "rank": 9,
+    "name": "上海高毅资产管理合伙企业(有限合伙)-高毅晓峰2号致信基金",
+    "hold_num": 92781674,
+    "hold_ratio": 0.35,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "全国社保基金一零三组合",
+    "hold_num": 80999953,
+    "hold_ratio": 0.3,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 1318365,
+  "holder_num_change_pct": 5.3,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 16.87,
+  "northbound_ratio": 4.94,
+  "executives": [
+   {
+    "name": "邹来昌",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "林泓富",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "高文龙",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.06,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.2,
+    "total_amount": 5265862448.0,
+    "payout_ratio": 33.6,
+    "dividend_yield": 1.95,
+    "ex_date": "2022-06-10"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.2,
+    "total_amount": 5265314248.0,
+    "payout_ratio": 26.27,
+    "dividend_yield": 1.68,
+    "ex_date": "2023-06-15"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.25,
+    "total_amount": 6581526350.0,
+    "payout_ratio": 31.16,
+    "dividend_yield": 0.98,
+    "ex_date": "2023-12-25"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.38,
+    "total_amount": 10099509597.2,
+    "payout_ratio": 31.51,
+    "dividend_yield": 1.23,
+    "ex_date": "2024-08-09"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.6,
+    "total_amount": 15951537823.16,
+    "payout_ratio": 30.81,
+    "dividend_yield": 1.21,
+    "ex_date": "2025-09-30"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 43163750466.36,
+  "cum_netprofit_5y": 140662266361.0,
+  "payout_5y": 30.69,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [
+   "603993.SH",
+   "002379.SZ",
+   "601600.SH",
+   "600362.SH"
+  ],
+  "segments": [
+   {
+    "name": "其它",
+    "revenue": 268571220000.0,
+    "ratio": 76.94,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "冶炼加工及贸易金",
+    "revenue": 125822210000.0,
+    "ratio": 36.04,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "冶炼产铜",
+    "revenue": 49968070000.0,
+    "ratio": 14.31,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "矿山产铜精矿",
+    "revenue": 42376570000.0,
+    "ratio": 12.14,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "矿山产金锭",
+    "revenue": 39757980000.0,
+    "ratio": 11.39,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "矿山产金精矿",
+    "revenue": 24917160000.0,
+    "ratio": 7.14,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "矿山产电解铜",
+    "revenue": 8805370000.0,
+    "ratio": 2.52,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "冶炼产锌",
+    "revenue": 8198230000.0,
+    "ratio": 2.35,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "内部抵消数",
+    "revenue": -234970150000.0,
+    "ratio": -67.31,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "境内",
+    "revenue": 385373570000.0,
+    "ratio": 110.4,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "境外",
+    "revenue": 198675660000.0,
+    "ratio": 56.91,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "内部抵销数",
+    "revenue": -234970150000.0,
+    "ratio": -67.31,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "紫金矿业集团股份有限公司关于召开2026年第三季度业绩说明会的公告",
+    "date": "2026-10-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612681.PDF",
+    "type": null
+   },
+   {
+    "title": "紫金矿业H股市场公告",
+    "date": "2026-10-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225590455.PDF",
+    "type": null
+   },
+   {
+    "title": "紫金矿业集团股份有限公司关于就获得赤峰吉隆黄金矿业集团股份有限公司控制权事宜签署补充协议的公告",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225585468.PDF",
+    "type": null
+   },
+   {
+    "title": "紫金矿业集团股份有限公司关于为参股公司提供担保的公告",
+    "date": "2026-09-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-17/1225569069.PDF",
+    "type": null
+   },
+   {
+    "title": "紫金矿业集团股份有限公司关于全资子公司与关联人共同投资的公告",
+    "date": "2026-09-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-17/1225569068.PDF",
+    "type": null
+   },
+   {
+    "title": "紫金矿业集团股份有限公司关于向参股公司提供财务资助的公告",
+    "date": "2026-09-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-17/1225569067.PDF",
+    "type": null
+   },
+   {
+    "title": "紫金矿业集团股份有限公司第九届董事会独立董事专门会议第一次会议决议",
+    "date": "2026-09-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-17/1225569066.PDF",
+    "type": null
+   },
+   {
+    "title": "紫金矿业集团股份有限公司第九届董事会临时会议决议公告",
+    "date": "2026-09-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-17/1225569065.PDF",
+    "type": null
+   },
+   {
+    "title": "紫金矿业集团股份有限公司关于定期报告财务报表附注部分相关文字错误的更正公告",
+    "date": "2026-09-05",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-05/1225550225.PDF",
+    "type": null
+   },
+   {
+    "title": "紫金矿业H股市场公告",
+    "date": "2026-09-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-01/1225537119.PDF",
+    "type": null
+   },
+   {
+    "title": "紫金矿业集团股份有限公司关于向西藏吉隆泥石流灾区捐赠的公告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225523549.PDF",
+    "type": null
+   },
+   {
+    "title": "紫金矿业集团股份有限公司2026年半年度报告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225550244.PDF",
+    "type": null
+   },
+   {
+    "title": "紫金矿业集团股份有限公司关于调整2026年员工持股计划受让价格的公告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225493660.PDF",
+    "type": null
+   },
+   {
+    "title": "紫金矿业集团股份有限公司关于控股子公司紫金矿业集团财务有限公司的风险持续评估报告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225493501.PDF",
+    "type": null
+   },
+   {
+    "title": "紫金矿业集团股份有限公司第九届董事会第四次会议决议公告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225493341.PDF",
+    "type": null
+   },
+   {
+    "title": "紫金矿业集团股份有限公司2026年半年度报告摘要",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225493321.PDF",
+    "type": null
+   },
+   {
+    "title": "福建至理律师事务所关于紫金矿业集团股份有限公司2026年员工持股计划调整受让价格的法律意见书",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225493268.PDF",
+    "type": null
+   },
+   {
+    "title": "紫金矿业集团股份有限公司关于召开2026年半年度业绩说明会的公告",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482565.PDF",
+    "type": null
+   },
+   {
+    "title": "福建至理律师事务所关于紫金矿业集团股份有限公司差异化分红事项的法律意见书",
+    "date": "2026-08-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-13/1225470514.PDF",
+    "type": null
+   },
+   {
+    "title": "紫金矿业集团股份有限公司2026年中期权益分派实施公告",
+    "date": "2026-08-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-13/1225470513.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 151
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "海域金矿预计什么时间投产？",
+    "answer": null,
+    "ask_date": "2026-10-22",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1899"
+   },
+   {
+    "question": "希望公司在三季报发布时，趁着股价低迷和响应政府的号召，进行回购。",
+    "answer": null,
+    "ask_date": "2026-10-22",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1899"
+   },
+   {
+    "question": "能否披露2024、2025年刚果（金）科卢韦齐铜矿、塞尔维亚博尔铜矿、佩吉铜金矿、多宝铜矿、阿舍勒铜矿、罗斯贝尔金矿、诺顿金矿、吉劳塔罗金矿的净利润情况",
+    "answer": null,
+    "ask_date": "2026-10-16",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1899"
+   },
+   {
+    "question": "目前铜矿的收购很难。铜价长期供需缺口难以解决。公司铜矿增储，建议在美加息周期，藏格股价低迷阶段，考虑在二级市场上进一步增持藏格的股份。",
+    "answer": null,
+    "ask_date": "2026-10-08",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1899"
+   }
+  ],
+  "count_12m": null
+ }
+}

@@ -1,0 +1,563 @@
+{
+ "identity": {
+  "code": "601628",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "中国人寿保险股份有限公司",
+  "name_abbr": "中国人寿",
+  "aliases": [
+   "zgrs"
+  ],
+  "name_en": "China Life Insurance Company Limited",
+  "pinyin_abbr": "ZGRS",
+  "former_names": [],
+  "industry_sw1": "非银金融",
+  "industry_sw2": "保险Ⅱ",
+  "list_date": "2007-01-09",
+  "province": "北京",
+  "city": "北京",
+  "website": "www.e-chinalife.com",
+  "chairman": "蔡希良",
+  "employees": 97505,
+  "business_summary": "主要从事人寿保险、健康保险、意外伤害保险等各类人身保险业务；人身保险的再保险业务；国家法律",
+  "profile": "中国人寿保险股份有限公司是中国领先的人寿保险公司。长期以来,公司始终心怀“国之大者”,坚守保险本源,以“头雁”之姿引领行业发展,向着建设世界一流寿险公司的目标稳步前行。 (一)历史沿革 中国人寿的前身与中华人民共和国同龄,1949年10月经中央政府批准组建,是国内最早经营保险业务的企业之一,肩负中国寿险业探索者和开拓者的重任。在长期发展历程中,公司拥有一支稳定的专业化管理团队,积累了丰富的经营管理经验,深谙国内寿险市场经营之道。2003年12月,中国人寿保险股份有限公司在境外上市。2007年1月,中国人寿保险股份有限公司回归境内A股上市。 (二)发展实力 作为国内大型机构投资者之一,公司的投资运作高度专业化,并通过控股的中国人寿资产管理有限公司成为中国领先的保险资产管理者。 (三)企业文化 中国人寿始终把守护好、发展好全体人民的共同利益作为最高价值追求和根本政治责任。峥嵘岁月中,几代国寿人接续奋斗,为公司积淀了优秀的企业文化,企业文化成果已融入企业发展的各个方面,转化为员工的情感认同和行为习惯,成为中国人寿弥足珍贵的精神财富。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 33.86,
+  "change_pct": -0.21,
+  "total_mv": 957042911300.0,
+  "float_mv": 705084725800.0,
+  "total_shares": 28264705000,
+  "float_shares": 20823530000,
+  "pe_ttm": 3.86,
+  "pe_static": 6.21,
+  "pb": 1.44,
+  "ps_ttm": 1.18,
+  "turnover_rate": 0.08,
+  "amount": 535697734.0,
+  "high_52w": 50.94,
+  "low_52w": 31.34,
+  "ytd_return": -23.95,
+  "return_1y": -21.17,
+  "return_3y": 5.23,
+  "dividend_yield": 2.53,
+  "index_members": [
+   "上证50",
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 858508000000.0,
+    "revenue_yoy": 4.06,
+    "net_profit": 50766000000.0,
+    "net_profit_yoy": 1.01,
+    "net_profit_deducted": 51031000000.0,
+    "gross_margin": null,
+    "net_margin": 6.09,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.8,
+    "bvps": 16.93,
+    "roe": 10.92,
+    "roa": 1.17,
+    "total_assets": 4665367000000.0,
+    "total_liab": 4268874000000.0,
+    "debt_ratio": 91.5,
+    "cash": 60897000000.0,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": 388420000000.0,
+    "ocf": 286446000000.0,
+    "capex": 5583000000.0,
+    "fcf": 280863000000.0,
+    "ocf_to_np": 5.64
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 388895000000.0,
+    "revenue_yoy": -54.7,
+    "net_profit": 66680000000.0,
+    "net_profit_yoy": 31.35,
+    "net_profit_deducted": 66773000000.0,
+    "gross_margin": null,
+    "net_margin": 17.51,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 2.36,
+    "bvps": 15.43,
+    "roe": 17.26,
+    "roa": 1.41,
+    "total_assets": 5010068000000.0,
+    "total_liab": 4635095000000.0,
+    "debt_ratio": 92.52,
+    "cash": 128956000000.0,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": 366021000000.0,
+    "ocf": 345284000000.0,
+    "capex": 3076000000.0,
+    "fcf": 342208000000.0,
+    "ocf_to_np": 5.18
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 405040000000.0,
+    "revenue_yoy": 4.15,
+    "net_profit": 51184000000.0,
+    "net_profit_yoy": -23.24,
+    "net_profit_deducted": 51359000000.0,
+    "gross_margin": null,
+    "net_margin": 13.01,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.81,
+    "bvps": 16.28,
+    "roe": 14.75,
+    "roa": 0.99,
+    "total_assets": 5653727000000.0,
+    "total_liab": 5316011000000.0,
+    "debt_ratio": 94.03,
+    "cash": 150520000000.0,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": 327784000000.0,
+    "ocf": 384366000000.0,
+    "capex": 4171000000.0,
+    "fcf": 380195000000.0,
+    "ocf_to_np": 7.51
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 528567000000.0,
+    "revenue_yoy": 30.5,
+    "net_profit": 106935000000.0,
+    "net_profit_yoy": 108.92,
+    "net_profit_deducted": 107122000000.0,
+    "gross_margin": null,
+    "net_margin": 20.61,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 3.78,
+    "bvps": 18.03,
+    "roe": 21.59,
+    "roa": 1.75,
+    "total_assets": 6769546000000.0,
+    "total_liab": 6248298000000.0,
+    "debt_ratio": 92.3,
+    "cash": 86519000000.0,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": 509675000000.0,
+    "ocf": 378795000000.0,
+    "capex": 3979000000.0,
+    "fcf": 374816000000.0,
+    "ocf_to_np": 3.54
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 615678000000.0,
+    "revenue_yoy": 16.48,
+    "net_profit": 154078000000.0,
+    "net_profit_yoy": 44.09,
+    "net_profit_deducted": 154278000000.0,
+    "gross_margin": null,
+    "net_margin": 25.43,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 5.45,
+    "bvps": 21.06,
+    "roe": 27.81,
+    "roa": 2.18,
+    "total_assets": 7591004000000.0,
+    "total_liab": 6982611000000.0,
+    "debt_ratio": 91.99,
+    "cash": 143319000000.0,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": 595205000000.0,
+    "ocf": 459925000000.0,
+    "capex": 3056000000.0,
+    "fcf": 456869000000.0,
+    "ocf_to_np": 2.99
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 434307000000.0,
+   "revenue_yoy": 81.54,
+   "net_profit": 134489000000.0,
+   "net_profit_yoy": 228.57,
+   "net_profit_deducted": 134560000000.0,
+   "gross_margin": null,
+   "net_margin": 31.31,
+   "roe": 21.07,
+   "eps": 4.76,
+   "debt_ratio": 91.62,
+   "ocf": 282879000000.0
+  },
+  "derived": {
+   "revenue_cagr_3y": 16.55,
+   "net_profit_cagr_3y": 32.21,
+   "receivables_to_revenue": null,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "中华人民共和国财政部",
+  "controlling_shareholder": "中国人寿保险(集团)公司",
+  "controlling_ratio": 68.37,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "中国人寿保险(集团)公司",
+    "hold_num": 19323530000,
+    "hold_ratio": 68.37,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "HKSCC Nominees Limited",
+    "hold_num": 7347497024,
+    "hold_ratio": 26.0,
+    "hold_num_change": 506692
+   },
+   {
+    "rank": 3,
+    "name": "中国证券金融股份有限公司",
+    "hold_num": 507082766,
+    "hold_ratio": 1.79,
+    "hold_num_change": -194604016
+   },
+   {
+    "rank": 4,
+    "name": "中央汇金资产管理有限责任公司",
+    "hold_num": 117165585,
+    "hold_ratio": 0.41,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "香港中央结算有限公司",
+    "hold_num": 73944050,
+    "hold_ratio": 0.26,
+    "hold_num_change": 27960461
+   },
+   {
+    "rank": 6,
+    "name": "全国社保基金一一四组合",
+    "hold_num": 10706700,
+    "hold_ratio": 0.04,
+    "hold_num_change": 706700
+   },
+   {
+    "rank": 7,
+    "name": "中国建设银行股份有限公司-易方达沪深300非银行金融交易型开放式指数证券投资基金",
+    "hold_num": 10391556,
+    "hold_ratio": 0.04,
+    "hold_num_change": -1015648
+   },
+   {
+    "rank": 8,
+    "name": "国信证券股份有限公司-方正富邦中证保险主题指数型证券投资基金",
+    "hold_num": 10288313,
+    "hold_ratio": 0.04,
+    "hold_num_change": null
+   },
+   {
+    "rank": 9,
+    "name": "中国国际电视总公司",
+    "hold_num": 10000000,
+    "hold_ratio": 0.04,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 10,
+    "name": "全国社保基金一一零组合",
+    "hold_num": 9740527,
+    "hold_ratio": 0.03,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 152399,
+  "holder_num_change_pct": 16.68,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 0.85,
+  "northbound_ratio": 0.26,
+  "executives": [
+   {
+    "name": "蔡希良",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "利明光",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "刘晖",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.0,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.65,
+    "total_amount": 18372058250.0,
+    "payout_ratio": 36.19,
+    "dividend_yield": 2.21,
+    "ex_date": "2022-07-14"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.49,
+    "total_amount": 13849705450.0,
+    "payout_ratio": 20.77,
+    "dividend_yield": 1.44,
+    "ex_date": "2023-07-13"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.43,
+    "total_amount": 12153823150.0,
+    "payout_ratio": 23.75,
+    "dividend_yield": 1.38,
+    "ex_date": "2024-07-11"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.65,
+    "total_amount": 18372058250.0,
+    "payout_ratio": 17.18,
+    "dividend_yield": 0.91,
+    "ex_date": "2024-11-13"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.856,
+    "total_amount": 24194587480.0,
+    "payout_ratio": 15.7,
+    "dividend_yield": 1.34,
+    "ex_date": "2025-10-17"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 86942232580.0,
+  "cum_netprofit_5y": 429643000000.0,
+  "payout_5y": 20.24,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "601318.SH",
+   "601319.SH",
+   "601601.SH",
+   "601336.SH"
+  ],
+  "segments": [
+   {
+    "name": "寿险业务",
+    "revenue": 505546000000.0,
+    "ratio": 82.11,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "健康险业务与意外险业务",
+    "revenue": 94169000000.0,
+    "ratio": 15.3,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他业务",
+    "revenue": 15963000000.0,
+    "ratio": 2.59,
+    "type": "product",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "中国人寿第八届董事会第三十四次会议决议公告",
+    "date": "2026-10-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-22/1225614477.PDF",
+    "type": null
+   },
+   {
+    "title": "中国人寿关于出售中国人寿养老保险股份有限公司部分股权暨关联交易的公告",
+    "date": "2026-10-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-22/1225614470.PDF",
+    "type": null
+   },
+   {
+    "title": "中国人寿H股公告",
+    "date": "2026-10-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225611974.PDF",
+    "type": null
+   },
+   {
+    "title": "中国人寿2026年半年度A股利润分配实施公告",
+    "date": "2026-10-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225600995.PDF",
+    "type": null
+   },
+   {
+    "title": "中国人寿H股公告",
+    "date": "2026-09-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-25/1225582912.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市金杜律师事务所关于中国人寿保险股份有限公司2026年第二次临时股东会的法律意见书",
+    "date": "2026-09-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-25/1225582730.PDF",
+    "type": null
+   },
+   {
+    "title": "中国人寿与关联人共同投资公告",
+    "date": "2026-09-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-25/1225582729.PDF",
+    "type": null
+   },
+   {
+    "title": "中国人寿第八届董事会第三十三次会议决议公告",
+    "date": "2026-09-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-25/1225582725.PDF",
+    "type": null
+   },
+   {
+    "title": "中国人寿2026年第二次临时股东会决议公告",
+    "date": "2026-09-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-25/1225582723.PDF",
+    "type": null
+   },
+   {
+    "title": "中国人寿2026年第二次临时股东会会议资料",
+    "date": "2026-09-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225543754.PDF",
+    "type": null
+   },
+   {
+    "title": "中国人寿关于召开2026年第二次临时股东会的通知",
+    "date": "2026-09-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225543748.PDF",
+    "type": null
+   },
+   {
+    "title": "中国人寿第八届董事会第三十二次会议决议公告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225516902.PDF",
+    "type": null
+   },
+   {
+    "title": "中国人寿2026年中期利润分配方案公告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225516874.PDF",
+    "type": null
+   },
+   {
+    "title": "中国人寿2026年半年度报告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225516873.PDF",
+    "type": null
+   },
+   {
+    "title": "中国人寿2026年半年度报告摘要",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225516868.PDF",
+    "type": null
+   },
+   {
+    "title": "中国人寿偿付能力季度报告摘要（2026年第二季度）",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225516858.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市金杜律师事务所关于中国人寿保险股份有限公司2026年第一次临时股东会的法律意见书",
+    "date": "2026-08-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-21/1225486266.PDF",
+    "type": null
+   },
+   {
+    "title": "中国人寿2026年第一次临时股东会决议公告",
+    "date": "2026-08-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-21/1225486259.PDF",
+    "type": null
+   },
+   {
+    "title": "中国人寿关于召开2026年中期业绩发布会的公告",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225481446.PDF",
+    "type": null
+   },
+   {
+    "title": "中国人寿H股公告",
+    "date": "2026-08-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-18/1225476525.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 102
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "董秘您好，在中国内地上市的五家保险公司中，公司的股利支付率是最低的，同时按照当前的股价计算，公司的股息率可能都没有公司的分红险产品收益率高，请问公司是否有提高分红比例，加强投资者回报，提升投资者获得感的计划？",
+    "answer": null,
+    "ask_date": "2026-10-19",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1628"
+   }
+  ],
+  "count_12m": null
+ }
+}

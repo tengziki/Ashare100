@@ -1,0 +1,508 @@
+{
+ "identity": {
+  "code": "601995",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "中国国际金融股份有限公司",
+  "name_abbr": "中金公司",
+  "aliases": [],
+  "name_en": "China International Capital Corporation Limited",
+  "former_names": [],
+  "industry_sw1": "非银金融",
+  "industry_sw2": null,
+  "list_date": "2020-11-02",
+  "province": "北京",
+  "city": null,
+  "website": "www.cicc.com",
+  "chairman": "陈亮",
+  "employees": 14263,
+  "business_summary": "许可项目:证券业务;外汇业务;公募证券投资基金销售;证券公司为期货公司提供中间介绍业务;证券投资基金托管。(依法须经批准的项目,经相关部门批准后方可开展经营活动…",
+  "profile": "中国国际金融股份有限公司(中金公司,601995.SH,3908.HK)成立于1995年,凭借率先采用市场最佳实践以及深厚的专业知识,我们完成了众多开创先河的交易,并深度参与中国经济改革和发展,与客户共同成长。我们的目标是打造成为具有国际竞争力的一流投资银行。我们一直致力于为多元化的客户群体提供高质量金融增值服务,建立了以研究和信息技术为基础,投资银行、股票业务、固定收益、资产管理、私募股权和财富管理全方位发展的均衡业务结构。凭借深厚的经济、行业、法律、法规等领域的专业知识,我们优质的服务获得了广泛认可。与此同时,可持续发展始终是我们的核心理念之一,我们期望为社会创造长期价值,以行业高标准积极践行企业社会责任。2015年,中金公司在香港联交所主板成功挂牌上市。2017年,中金公司与原中国中投证券的战略重组完成,本次交易使中金公司规模显著扩大,实现了对大、中小企业及机构、个人客户更为深度的覆盖,构建了更为均衡的一二级市场业务结构。2020年,中金公司在上海证券交易所主板成功挂牌上市。集团总部位于北京,在境内拥有多家子公司,并在上海、深圳、厦门、成都、杭州、济南、重庆、沈阳、南京、苏州设有分公司,集团及下属子公司在中国大陆28个省、自治区、直辖市拥有200多个证券营业部。集团亦积极开拓境外市场,在中国香港、纽约、伦敦、新加坡、法兰克福、东京、越南、迪拜等地设有子公司或分支机构。秉承“植根中国,融通世界”的理念,通过广泛的业务网络及杰出的跨境能力,中金公司将持续为客户提供一流的金融服务,协助客户实现其战略发展目标。",
+  "st_status": null,
+  "audit_opinion": null
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 30131054236.0,
+    "revenue_yoy": 27.35,
+    "net_profit": 10777713147.0,
+    "net_profit_yoy": 49.54,
+    "net_profit_deducted": 10652532226.0,
+    "gross_margin": null,
+    "net_margin": 35.88,
+    "eps": 2.16,
+    "bvps": 15.73,
+    "roe": 14.64,
+    "roa": 1.85,
+    "debt_ratio": 86.96,
+    "total_liab": 565064652788.0,
+    "total_assets": 649798358772,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 26087369813.0,
+    "revenue_yoy": -13.42,
+    "net_profit": 7597501992.0,
+    "net_profit_yoy": -29.51,
+    "net_profit_deducted": 7503347704.0,
+    "gross_margin": null,
+    "net_margin": 29.11,
+    "eps": 1.46,
+    "bvps": 17.15,
+    "roe": 8.88,
+    "roa": 1.17,
+    "debt_ratio": 84.67,
+    "total_liab": 549289343613.0,
+    "total_assets": 648741400275,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 22990202558.0,
+    "revenue_yoy": -11.87,
+    "net_profit": 6156130774.0,
+    "net_profit_yoy": -18.97,
+    "net_profit_deducted": 6179989059.0,
+    "gross_margin": null,
+    "net_margin": 26.81,
+    "eps": 1.14,
+    "bvps": 18.27,
+    "roe": 6.43,
+    "roa": 0.97,
+    "debt_ratio": 83.2,
+    "total_liab": 519409188733.0,
+    "total_assets": 624289890304,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 21333435595.0,
+    "revenue_yoy": -7.21,
+    "net_profit": 5694343080.0,
+    "net_profit_yoy": -7.5,
+    "net_profit_deducted": 5656314188.0,
+    "gross_margin": null,
+    "net_margin": 26.6,
+    "eps": 1.04,
+    "bvps": 19.15,
+    "roe": 5.52,
+    "roa": 0.87,
+    "debt_ratio": 82.86,
+    "total_liab": 559094150638.0,
+    "total_assets": 674745535407,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 28481073842.0,
+    "revenue_yoy": 33.5,
+    "net_profit": 9790532489.0,
+    "net_profit_yoy": 71.93,
+    "net_profit_deducted": 9657083442.0,
+    "gross_margin": null,
+    "net_margin": 34.41,
+    "eps": 1.88,
+    "bvps": 20.71,
+    "roe": 9.39,
+    "roa": 1.34,
+    "debt_ratio": 84.11,
+    "total_liab": 658437695559.0,
+    "total_assets": 782829265912,
+    "ocf_to_np": null
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 19302467972.0,
+   "revenue_yoy": 50.47,
+   "net_profit": 8199268268.0,
+   "net_profit_yoy": 89.35,
+   "net_profit_deducted": 8034596109.0,
+   "gross_margin": null,
+   "net_margin": 42.84,
+   "eps": 1.62,
+   "roe": 7.6,
+   "debt_ratio": 85.72
+  },
+  "derived": {
+   "revenue_cagr_3y": 2.97,
+   "net_profit_cagr_3y": 8.82,
+   "receivables_to_revenue": null,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "中央汇金投资有限责任公司",
+  "controlling_shareholder": null,
+  "controlling_ratio": null,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "中央汇金投资有限责任公司",
+    "hold_num": 1936155680.0,
+    "hold_ratio": 24.41,
+    "hold_num_change": null
+   },
+   {
+    "rank": 2,
+    "name": "香港中央结算(代理人)有限公司",
+    "hold_num": 1903098003.0,
+    "hold_ratio": 23.99,
+    "hold_num_change": 4800.0
+   },
+   {
+    "rank": 3,
+    "name": "中国信达资产管理股份有限公司",
+    "hold_num": 1329279400.0,
+    "hold_ratio": 16.76,
+    "hold_num_change": null
+   },
+   {
+    "rank": 4,
+    "name": "中国东方资产管理股份有限公司",
+    "hold_num": 636533171.0,
+    "hold_ratio": 8.03,
+    "hold_num_change": null
+   },
+   {
+    "rank": 5,
+    "name": "香港中央结算有限公司",
+    "hold_num": 151946682.0,
+    "hold_ratio": 1.92,
+    "hold_num_change": 82712499.0
+   },
+   {
+    "rank": 6,
+    "name": "中国建设银行股份有限公司-国泰中证全指证券公司交易型开放式指数证券投资基金",
+    "hold_num": 84001826.0,
+    "hold_ratio": 1.06,
+    "hold_num_change": 48177770.0
+   },
+   {
+    "rank": 7,
+    "name": "江苏省铁路集团有限公司",
+    "hold_num": 69631157.0,
+    "hold_ratio": 0.88,
+    "hold_num_change": null
+   },
+   {
+    "rank": 8,
+    "name": "新华人寿保险股份有限公司-传统-普通保险产品-018L-CT001沪",
+    "hold_num": 63618077.0,
+    "hold_ratio": 0.8,
+    "hold_num_change": null
+   },
+   {
+    "rank": 9,
+    "name": "山东高速股份有限公司",
+    "hold_num": 52507347.0,
+    "hold_ratio": 0.66,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "中国建设银行股份有限公司-华宝中证全指证券公司交易型开放式指数证券投资基金",
+    "hold_num": 50650152.0,
+    "hold_ratio": 0.64,
+    "hold_num_change": 27705499.0
+   }
+  ],
+  "top10_date": "2026-10-23",
+  "holder_num": 117988.0,
+  "holder_num_change_pct": -9.83,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": null,
+  "northbound_ratio": 1.92,
+  "executives": [
+   {
+    "name": "陈亮",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "王曙光",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "梁东擎",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": null,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.3,
+    "total_amount": 1448177060.4,
+    "payout_ratio": 13.44,
+    "dividend_yield": null,
+    "ex_date": "2022-08-19"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.18,
+    "total_amount": 868906236.24,
+    "payout_ratio": 11.44,
+    "dividend_yield": null,
+    "ex_date": "2023-08-18"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.18,
+    "total_amount": 868906236.24,
+    "payout_ratio": 14.11,
+    "dividend_yield": null,
+    "ex_date": "2024-08-23"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.18,
+    "total_amount": 868906236.24,
+    "payout_ratio": 15.26,
+    "dividend_yield": null,
+    "ex_date": "2025-08-22"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.32,
+    "total_amount": 1544722197.76,
+    "payout_ratio": 15.78,
+    "dividend_yield": null,
+    "ex_date": "2026-08-24"
+   }
+  ],
+  "consecutive_years": 5,
+  "cum_dividend_5y": 5599617966.88,
+  "cum_netprofit_5y": 40016221482.0,
+  "payout_5y": 13.99,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [],
+  "segments": []
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "中金公司H股公告（翌日披露报表）",
+    "date": "2026-10-27",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-27/1225627378.PDF"
+   },
+   {
+    "title": "中金公司H股公告（持续关连交易）",
+    "date": "2026-10-27",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-27/1225627377.PDF"
+   },
+   {
+    "title": "中金公司第三届董事会第二十四次会议决议公告",
+    "date": "2026-10-27",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-27/1225627356.PDF"
+   },
+   {
+    "title": "中金公司关于变更注册资本并修订《公司章程》的公告",
+    "date": "2026-10-27",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-27/1225627355.PDF"
+   },
+   {
+    "title": "中金公司2026年中期利润分配方案公告",
+    "date": "2026-10-27",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-27/1225627354.PDF"
+   },
+   {
+    "title": "中金公司、东兴证券、信达证券关于实施客户及业务迁移合并的联合公告",
+    "date": "2026-10-27",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-27/1225627353.PDF"
+   },
+   {
+    "title": "中国国际金融股份有限公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司之实施情况暨新增股份上市公告书",
+    "date": "2026-10-27",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-27/1225627352.PDF"
+   },
+   {
+    "title": "北京市海问律师事务所关于中国国际金融股份有限公司换股吸收合并东兴证券股份有限公司和信达证券股份有限公司之实施情况的法律意见书",
+    "date": "2026-10-27",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-27/1225627351.PDF"
+   },
+   {
+    "title": "中国国际金融股份有限公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司之实施情况暨新增股份上市公告书（摘要）",
+    "date": "2026-10-27",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-27/1225627350.PDF"
+   },
+   {
+    "title": "中金公司关于公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司之A股换股实施结果、股份变动暨新增A股股份上市公告",
+    "date": "2026-10-27",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-27/1225627349.PDF"
+   },
+   {
+    "title": "兴业证券股份有限公司关于中国国际金融股份有限公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司实施情况之独立财务顾问核查意见",
+    "date": "2026-10-27",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-27/1225627348.PDF"
+   },
+   {
+    "title": "中金公司关于向专业投资者公开发行科技创新公司债券获得注册批复的公告",
+    "date": "2026-10-22",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-22/1225614313.PDF"
+   },
+   {
+    "title": "中金公司H股公告（董事会会议通告）",
+    "date": "2026-10-21",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612034.PDF"
+   },
+   {
+    "title": "中金公司关于公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司的A股换股实施的提示性公告",
+    "date": "2026-10-17",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225608258.PDF"
+   },
+   {
+    "title": "中金公司关于公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司的A股换股实施公告",
+    "date": "2026-10-16",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225606336.PDF"
+   },
+   {
+    "title": "中金公司H股公告（董事会会议通告）",
+    "date": "2026-10-14",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225603077.PDF"
+   },
+   {
+    "title": "中金公司关于东兴证券股份有限公司、信达证券股份有限公司股东参与A股换股相关事项的提示性公告",
+    "date": "2026-10-13",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225601880.PDF"
+   },
+   {
+    "title": "中金公司H股公告（股份发行人的证券变动月报表）",
+    "date": "2026-10-08",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225595348.PDF"
+   },
+   {
+    "title": "中金公司关于公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司之A股异议股东收购请求权股份清算与交割结果的公告",
+    "date": "2026-09-24",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225579678.PDF"
+   },
+   {
+    "title": "中金公司关于东兴证券股份有限公司、信达证券股份有限公司股东参与A股换股相关事项提示性公告",
+    "date": "2026-09-24",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225579676.PDF"
+   }
+  ],
+  "count_12m": 222
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "请问东兴证券对中金公司股票转换什么时候完成，并上市交易。",
+    "answer": "尊敬的投资者，您好！根据公司发布的《中国国际金融股份有限公司关于公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司之A股换股实施结果、股份变动暨新增A股股份上市公告》（公告编号：临2026-072），本次换股吸收合并已于2026年10月26日完成交割，换股对应的中金新增无限售A股将于2026年10月29日上市交易。感谢您对中金公司的关注。",
+    "ask_date": "2026-10-26",
+    "answer_date": "2026-10-27",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=183297"
+   },
+   {
+    "question": "由东兴证券转换的中金公司股份什么时候可以卖出？",
+    "answer": "尊敬的投资者，您好！根据公司发布的《中国国际金融股份有限公司关于公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司之A股换股实施结果、股份变动暨新增A股股份上市公告》（公告编号：临2026-072），本次换股吸收合并已于2026年10月26日完成交割，换股对应的中金新增无限售A股将于2026年10月29日上市交易。感谢您对中金公司的关注。",
+    "ask_date": "2026-10-26",
+    "answer_date": "2026-10-27",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=183297"
+   },
+   {
+    "question": "信达证券转股过来的什么时候可以交易",
+    "answer": "尊敬的投资者，您好！根据公司发布的《中国国际金融股份有限公司关于公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司之A股换股实施结果、股份变动暨新增A股股份上市公告》（公告编号：临2026-072），本次换股吸收合并已于2026年10月26日完成交割，换股对应的中金新增无限售A股将于2026年10月29日上市交易。感谢您对中金公司的关注。",
+    "ask_date": "2026-10-26",
+    "answer_date": "2026-10-27",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=183297"
+   },
+   {
+    "question": "请问你们是怎么保护广大普通投资者权益的，公司内部有没有规章制度？",
+    "answer": "尊敬的投资者，您好！中金公司高度重视保护广大投资者特别是中小投资者合法权益，已建立配套制度体系，并持续落实各项保障安排：一是制度层面，公司已制定《公司章程》《信息披露管理制度》《投资者关系管理办法》等管理制度，严格按照相关法律法规、上市规则、监管要求及内部制度规范开展相关工作。二是信息披露方面，坚持真实、准确、完整、及时、公平披露，通过定期报告、临时公告、业绩说明会、公司官网投资者关系专栏等渠道，保障全体投资者平等获取公司信息的权利。三是投资者沟通方面，通过上证e互动、投资者关系邮箱、投资者关系电话等渠道，持续畅通投资者咨询、意见反馈通道，认真倾听投资者诉求，及时回应合理关切。感谢您对中金公司的关注。",
+    "ask_date": "2026-10-23",
+    "answer_date": "2026-10-27",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=183297"
+   },
+   {
+    "question": "合并后的东兴证券预计何时可以重新交易",
+    "answer": "尊敬的投资者，您好！根据公司发布的《中国国际金融股份有限公司关于公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司之A股换股实施结果、股份变动暨新增A股股份上市公告》（公告编号：临2026-072），本次换股吸收合并已于2026年10月26日完成交割，换股对应的中金新增无限售A股将于2026年10月29日上市交易。感谢您对中金公司的关注。",
+    "ask_date": "2026-10-19",
+    "answer_date": "2026-10-27",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=183297"
+   },
+   {
+    "question": "请问贵公司保荐的宇树科技，连续跳空低开，请核查一下什么原因造成的？",
+    "answer": null,
+    "ask_date": "2026-10-19",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=183297"
+   },
+   {
+    "question": "贵公司保健的绿控传动上市一个月了，天天跌，请核查一下什么情况？你们不回复我天天问。",
+    "answer": null,
+    "ask_date": "2026-10-14",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=183297"
+   },
+   {
+    "question": "请问贵公司近1年保荐A股11家中仅2家正收益，其余大幅杀跌，近期的力勤资源、百瑞吉更是跳空大幅下杀；港股8 家中仅2家正收益，更是一上市也就大幅下跌，请问贵公司上市就只是赚保费？怎么平衡投资者和大股东的权益的？对上市公司股价杀跌有没有分析一下什么原因造成的？作为中国头部券商，怎么引领中国资本市场行稳致远的？请及时回复，不回复我天天问。",
+    "answer": null,
+    "ask_date": "2026-10-13",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=183297"
+   }
+  ],
+  "count_12m": null
+ },
+ "_meta": {
+  "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
+  "fetched_at": "2026-10-27T16:17:29+08:00",
+  "errors": {}
+ },
+ "_extras": {
+  "announcements": {
+   "fetched_at": "2026-10-27T17:28:01+08:00",
+   "error": null
+  },
+  "qa": {
+   "fetched_at": "2026-10-27T17:28:32+08:00",
+   "error": null
+  }
+ }
+}

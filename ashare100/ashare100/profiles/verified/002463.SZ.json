@@ -1,0 +1,646 @@
+{
+ "identity": {
+  "code": "002463",
+  "exchange": "SZ",
+  "board": "主板",
+  "name_full": "沪士电子股份有限公司",
+  "name_abbr": "沪电股份",
+  "aliases": [
+   "hdgf"
+  ],
+  "name_en": "WUS PRINTED CIRCUIT (KUNSHAN) CO., LTD.",
+  "pinyin_abbr": "HDGF",
+  "former_names": [],
+  "industry_sw1": "电子",
+  "industry_sw2": "元件",
+  "list_date": "2010-08-18",
+  "province": "江苏",
+  "city": "昆山",
+  "website": "www.wustec.com",
+  "chairman": "陈梅芳",
+  "employees": 15243,
+  "business_summary": "印制电路板、房屋销售、物业费",
+  "profile": "沪士电子股份有限公司(以下简称“公司”)于1992年在江苏省昆山市设立,并于2010年在深圳证券交易所中小企业板挂牌上市,股票代码为:002463,股票简称为:沪电股份。公司自成立以来一直立足于印制电路板的研发设计和生产制造,秉持“成长、长青、共利”的经营理念,专注执行既定的“聚焦PCB主业、精益求精”的稳定成长战略,在全体员工的努力下,经过多年的市场拓展和品牌经营,现已发展成为印制电路板行业内的重要品牌之一,在行业内享有盛誉。公司主导产品广泛应用于通讯设备、汽车、工业设备、数据中心、网通、微波射频、半导体芯片测试等多个领域。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 106.96,
+  "change_pct": -6.97,
+  "total_mv": 205829923917.52,
+  "float_mv": 205668221682.56,
+  "total_shares": 1924363537,
+  "float_shares": 1922851736,
+  "pe_ttm": 40.65,
+  "pe_static": 53.85,
+  "pb": 11.44,
+  "ps_ttm": 8.53,
+  "turnover_rate": 3.07,
+  "amount": 6454819211.89,
+  "high_52w": 158.2,
+  "low_52w": 59.06,
+  "ytd_return": 47.39,
+  "return_1y": 54.01,
+  "return_3y": 491.27,
+  "dividend_yield": 0.47,
+  "index_members": [
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 7418710047.0,
+    "revenue_yoy": -0.55,
+    "net_profit": 1063500828.0,
+    "net_profit_yoy": -20.8,
+    "net_profit_deducted": 956563256.0,
+    "gross_margin": 27.18,
+    "net_margin": 14.34,
+    "selling_expense_ratio": 3.0,
+    "admin_expense_ratio": 2.05,
+    "finance_expense_ratio": -0.98,
+    "rd_expense": 410855747.0,
+    "rd_ratio": 5.54,
+    "eps": 0.56,
+    "bvps": 3.81,
+    "roe": 15.85,
+    "roa": 10.03,
+    "total_assets": 11648660084.0,
+    "total_liab": 4414329914.0,
+    "debt_ratio": 37.9,
+    "cash": 1191123160.0,
+    "receivables": 1972863947.0,
+    "inventory": 1840807149.0,
+    "goodwill": null,
+    "interest_debt": 1578260420.0,
+    "equity_parent": 7234330170.0,
+    "ocf": 1410432087.0,
+    "capex": 503653797.0,
+    "fcf": 906778290.0,
+    "ocf_to_np": 1.33
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 8336030158.0,
+    "revenue_yoy": 12.36,
+    "net_profit": 1361574992.0,
+    "net_profit_yoy": 28.03,
+    "net_profit_deducted": 1264664764.0,
+    "gross_margin": 30.28,
+    "net_margin": 16.33,
+    "selling_expense_ratio": 3.27,
+    "admin_expense_ratio": 1.95,
+    "finance_expense_ratio": -1.64,
+    "rd_expense": 468490648.0,
+    "rd_ratio": 5.62,
+    "eps": 0.72,
+    "bvps": 4.36,
+    "roe": 17.7,
+    "roa": 11.28,
+    "total_assets": 12501322508.0,
+    "total_liab": 4234423965.0,
+    "debt_ratio": 33.87,
+    "cash": 1292453557.0,
+    "receivables": 2243720427.0,
+    "inventory": 1785924019.0,
+    "goodwill": null,
+    "interest_debt": 1491823002.0,
+    "equity_parent": 8266898543.0,
+    "ocf": 1565768541.0,
+    "capex": 876676516.0,
+    "fcf": 689092025.0,
+    "ocf_to_np": 1.15
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 8938309250.0,
+    "revenue_yoy": 7.23,
+    "net_profit": 1512538227.0,
+    "net_profit_yoy": 11.09,
+    "net_profit_deducted": 1408380964.0,
+    "gross_margin": 31.01,
+    "net_margin": 16.66,
+    "selling_expense_ratio": 2.96,
+    "admin_expense_ratio": 2.19,
+    "finance_expense_ratio": -0.76,
+    "rd_expense": 538936744.0,
+    "rd_ratio": 6.03,
+    "eps": 0.79,
+    "bvps": 5.13,
+    "roe": 16.84,
+    "roa": 10.44,
+    "total_assets": 16035480626.0,
+    "total_liab": 6198256989.0,
+    "debt_ratio": 38.65,
+    "cash": 2097886948.0,
+    "receivables": 2687132924.0,
+    "inventory": 1749222944.0,
+    "goodwill": null,
+    "interest_debt": 2605338167.0,
+    "equity_parent": 9784707633.0,
+    "ocf": 2243311100.0,
+    "capex": 810468280.0,
+    "fcf": 1432842820.0,
+    "ocf_to_np": 1.48
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 13341541440.0,
+    "revenue_yoy": 49.26,
+    "net_profit": 2587236693.0,
+    "net_profit_yoy": 71.05,
+    "net_profit_deducted": 2546301588.0,
+    "gross_margin": 34.54,
+    "net_margin": 19.24,
+    "selling_expense_ratio": 2.74,
+    "admin_expense_ratio": 2.42,
+    "finance_expense_ratio": -1.37,
+    "rd_expense": 789583655.0,
+    "rd_ratio": 5.92,
+    "eps": 1.35,
+    "bvps": 6.17,
+    "roe": 24.25,
+    "roa": 13.79,
+    "total_assets": 21179935675.0,
+    "total_liab": 9278509516.0,
+    "debt_ratio": 43.81,
+    "cash": 1542702624.0,
+    "receivables": 4043412696.0,
+    "inventory": 2436102152.0,
+    "goodwill": null,
+    "interest_debt": 3626511455.0,
+    "equity_parent": 11840778491.0,
+    "ocf": 2325184965.0,
+    "capex": 2147818176.0,
+    "fcf": 177366789.0,
+    "ocf_to_np": 0.9
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 18945220585.0,
+    "revenue_yoy": 42.0,
+    "net_profit": 3822306272.0,
+    "net_profit_yoy": 47.74,
+    "net_profit_deducted": 3760567906.0,
+    "gross_margin": 35.48,
+    "net_margin": 20.16,
+    "selling_expense_ratio": 2.8,
+    "admin_expense_ratio": 2.22,
+    "finance_expense_ratio": -0.36,
+    "rd_expense": 1140945544.0,
+    "rd_ratio": 6.02,
+    "eps": 1.99,
+    "bvps": 7.85,
+    "roe": 28.57,
+    "roa": 15.45,
+    "total_assets": 28254274039.0,
+    "total_liab": 13126187360.0,
+    "debt_ratio": 46.46,
+    "cash": 2579107305.0,
+    "receivables": 5507160245.0,
+    "inventory": 4245940570.0,
+    "goodwill": null,
+    "interest_debt": 4567592781.0,
+    "equity_parent": 15112704642.0,
+    "ocf": 3871967792.0,
+    "capex": 3198495759.0,
+    "fcf": 673472033.0,
+    "ocf_to_np": 1.01
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 13689427504.0,
+   "revenue_yoy": 61.17,
+   "net_profit": 2923361746.0,
+   "net_profit_yoy": 73.72,
+   "net_profit_deducted": 2794525941.0,
+   "gross_margin": 38.72,
+   "net_margin": 21.35,
+   "roe": 17.38,
+   "eps": 1.52,
+   "debt_ratio": 52.2,
+   "ocf": 1150686191.0
+  },
+  "derived": {
+   "revenue_cagr_3y": 31.48,
+   "net_profit_cagr_3y": 41.07,
+   "receivables_to_revenue": 29.07,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "吴礼淦家族",
+  "controlling_shareholder": "BIGGERING(BVI)HOLDINGS CO.,LTD.",
+  "controlling_ratio": 19.32,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "BIGGERING(BVI)HOLDINGS CO.,LTD.",
+    "hold_num": 371799937,
+    "hold_ratio": 19.32,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "WUS GROUP HOLDINGS CO.,LTD.",
+    "hold_num": 216711023,
+    "hold_ratio": 11.26,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "香港中央结算有限公司",
+    "hold_num": 172333043,
+    "hold_ratio": 8.96,
+    "hold_num_change": -21548257
+   },
+   {
+    "rank": 4,
+    "name": "平安银行股份有限公司-永赢科技智选混合型发起式证券投资基金",
+    "hold_num": 22680892,
+    "hold_ratio": 1.18,
+    "hold_num_change": 2418454
+   },
+   {
+    "rank": 5,
+    "name": "HAPPY UNION INVESTMENT LIMITED",
+    "hold_num": 19811263,
+    "hold_ratio": 1.03,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "中国工商银行股份有限公司-富国创新科技混合型证券投资基金",
+    "hold_num": 12750041,
+    "hold_ratio": 0.66,
+    "hold_num_change": null
+   },
+   {
+    "rank": 7,
+    "name": "富国基金管理有限公司-社保基金2101组合",
+    "hold_num": 8178742,
+    "hold_ratio": 0.43,
+    "hold_num_change": -1676552
+   },
+   {
+    "rank": 8,
+    "name": "全国社保基金一零九组合",
+    "hold_num": 7361870,
+    "hold_ratio": 0.38,
+    "hold_num_change": -4218677
+   },
+   {
+    "rank": 9,
+    "name": "中国工商银行股份有限公司-富国新兴产业股票型证券投资基金",
+    "hold_num": 7325493,
+    "hold_ratio": 0.38,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "中国人寿保险股份有限公司-分红-个人分红-005L-FH002沪",
+    "hold_num": 6500145,
+    "hold_ratio": 0.34,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 367113,
+  "holder_num_change_pct": 52.37,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 17.82,
+  "northbound_ratio": 8.96,
+  "executives": [
+   {
+    "name": "陈梅芳",
+    "title": "董事长",
+    "pay": 360000
+   },
+   {
+    "name": "吴传彬",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "李明贵",
+    "title": "董事会秘书",
+    "pay": 780300
+   }
+  ],
+  "pledge_ratio_total": 0.0,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.15,
+    "total_amount": 284498815.8,
+    "payout_ratio": 26.75,
+    "dividend_yield": 1.08,
+    "ex_date": "2022-05-13"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.15,
+    "total_amount": 285759851.4,
+    "payout_ratio": 20.99,
+    "dividend_yield": 0.62,
+    "ex_date": "2023-04-26"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.5,
+    "total_amount": 956756904.0,
+    "payout_ratio": 63.26,
+    "dividend_yield": 1.54,
+    "ex_date": "2024-05-20"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.5,
+    "total_amount": 961694276.0,
+    "payout_ratio": 37.17,
+    "dividend_yield": 1.6,
+    "ex_date": "2025-05-14"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.5,
+    "total_amount": 962181768.5,
+    "payout_ratio": 25.17,
+    "dividend_yield": 0.46,
+    "ex_date": "2026-05-08"
+   }
+  ],
+  "consecutive_years": 5,
+  "cum_dividend_5y": 3450891615.7,
+  "cum_netprofit_5y": 10347157012.0,
+  "payout_5y": 33.35,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "600183.SH",
+   "002384.SZ",
+   "002916.SZ",
+   "300408.SZ"
+  ],
+  "segments": [
+   {
+    "name": "产品销售收入(印制电路板业务)",
+    "revenue": 18143308261.0,
+    "ratio": 95.77,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 798147594.0,
+    "ratio": 4.21,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "房屋销售收入",
+    "revenue": 3418974.0,
+    "ratio": 0.02,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "物业费收入",
+    "revenue": 345756.0,
+    "ratio": 0.0,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "外销",
+    "revenue": 15542868460.0,
+    "ratio": 82.04,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "内销",
+    "revenue": 2600439801.0,
+    "ratio": 13.73,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 798147594.0,
+    "ratio": 4.21,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "关于与专业投资机构共同投资的进展公告",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225608043.PDF",
+    "type": null
+   },
+   {
+    "title": "关于控股股东提议未来三年分红相关事项的提示性公告",
+    "date": "2026-10-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607065.PDF",
+    "type": null
+   },
+   {
+    "title": "关于沪士电子股份有限公司2026年第二次临时股东会之法律意见书",
+    "date": "2026-10-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607064.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年第二次临时股东会决议公告",
+    "date": "2026-10-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607063.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年前三季度业绩预告",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225604423.PDF",
+    "type": null
+   },
+   {
+    "title": "关于与专业投资机构共同投资的进展公告",
+    "date": "2026-10-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225600878.PDF",
+    "type": null
+   },
+   {
+    "title": "关于与专业投资机构共同投资的进展公告",
+    "date": "2026-10-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225590185.PDF",
+    "type": null
+   },
+   {
+    "title": "关于拟续聘会计师事务所的公告",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225588022.PDF",
+    "type": null
+   },
+   {
+    "title": "未来三年（2026-2028年）股东分红回报规划",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225588021.PDF",
+    "type": null
+   },
+   {
+    "title": "关于新增综合授信额度和对外担保额度的公告",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225588020.PDF",
+    "type": null
+   },
+   {
+    "title": "关于召开2026年第二次临时股东会的通知",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225588019.PDF",
+    "type": null
+   },
+   {
+    "title": "第八届董事会第二十一次会议决议公告",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225588018.PDF",
+    "type": null
+   },
+   {
+    "title": "关于与专业投资机构共同投资的公告",
+    "date": "2026-09-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-28/1225582908.PDF",
+    "type": null
+   },
+   {
+    "title": "关于为子公司提供担保的进展公告",
+    "date": "2026-09-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225578225.PDF",
+    "type": null
+   },
+   {
+    "title": "关于公司2024年度股票期权激励计划第一个行权期采用自主行权模式的提示性公告",
+    "date": "2026-09-02",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-02/1225542639.PDF",
+    "type": null
+   },
+   {
+    "title": "关于部分股票期权注销完成的公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225523881.PDF",
+    "type": null
+   },
+   {
+    "title": "关于变更会计政策的公告",
+    "date": "2026-08-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225502263.PDF",
+    "type": null
+   },
+   {
+    "title": "公司2024年度股票期权激励计划第一个行权期可行权激励对象名单",
+    "date": "2026-08-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225502262.PDF",
+    "type": null
+   },
+   {
+    "title": "关于注销2024年度股票期权激励计划部分股票期权的公告",
+    "date": "2026-08-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225502261.PDF",
+    "type": null
+   },
+   {
+    "title": "东莞证券股份有限公司关于沪士电子股份有限公司2024年度股票期权激励计划注销部分股票期权及第一个行权期行权条件成就之独立财务顾问报告",
+    "date": "2026-08-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225502260.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 159
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "请问贵公司78层PCB板什么时候能量产了？？",
+    "answer": null,
+    "ask_date": "2026-10-15",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2381841941168177152"
+   },
+   {
+    "question": "请问贵公司有没有与英伟达合作？？？",
+    "answer": null,
+    "ask_date": "2026-10-15",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2381841451475927040"
+   },
+   {
+    "question": "董秘您好，请问截止目前，股东户数是多少",
+    "answer": null,
+    "ask_date": "2026-10-14",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2381415880379183104"
+   },
+   {
+    "question": "请问公司10月15日股东大会怎么参加，怎么提前登记，准备什么材料？",
+    "answer": "您好，根据公司2026年9月30日披露的《关于召开2026年第二次临时股东会的通知》第三部分“会议登记等事项” 的规定，提供相关材料，谢谢！",
+    "ask_date": "2026-10-13",
+    "answer_date": "2026-10-14",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2380572993014595584"
+   },
+   {
+    "question": "董秘您好，公司已经预约于10月28日披露2026年三季报。当前二级市场股价持续走弱，投资者非常关心三季度经营情况，请问公司是否打算发布前三季度业绩预告？三季度公司订单、交付情况是否符合公司此前的预期，三季度单季业绩相比二季度环比是上升还是下降？谢谢。",
+    "answer": "您好，公司已发布《2026年前三季度业绩预告》，经财务部门的初步估算，2026年前三季度归属于上市公司股东的净利润为545,000万元–570,000万元，同比增长100.54%–109.74%，谢谢！",
+    "ask_date": "2026-10-12",
+    "answer_date": "2026-10-14",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2379817602756509696"
+   },
+   {
+    "question": "请问贵公司是不是在研发78层以上PCB板？？进展如何？？",
+    "answer": "您好，公司掌握生产100层以上PCB技术的能力，并实现54层以上高多层板的量产，谢谢！",
+    "ask_date": "2026-10-07",
+    "answer_date": "2026-10-14",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2375912197584191488"
+   },
+   {
+    "question": "李总，看到公司这几年在昆山、黄石、泰国还有43亿项目上同时大规模在建和投产，节奏这么快，管理团队和一线同事确实辛苦了。想简单问一下，43亿项目目前试产前的准备还顺利吗？目前到什么节点了？",
+    "answer": "您好，公司项目有序推进，谢谢！",
+    "ask_date": "2026-09-14",
+    "answer_date": "2026-10-14",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2359216895193460736"
+   },
+   {
+    "question": "接下来9-12月股东大会什么时候召开?怎么报名参加?",
+    "answer": "您好，请关注公司公告，谢谢！",
+    "ask_date": "2026-09-01",
+    "answer_date": "2026-10-14",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2349446093570101248"
+   }
+  ],
+  "count_12m": null
+ }
+}

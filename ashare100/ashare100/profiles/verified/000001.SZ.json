@@ -1,0 +1,655 @@
+{
+ "identity": {
+  "code": "000001",
+  "exchange": "SZ",
+  "board": "主板",
+  "name_full": "平安银行股份有限公司",
+  "name_abbr": "平安银行",
+  "aliases": [
+   "payh"
+  ],
+  "name_en": "Ping An Bank Co., Ltd.",
+  "pinyin_abbr": "PAYH",
+  "former_names": [
+   "深发展A→S深发展A→深发展A"
+  ],
+  "industry_sw1": "银行",
+  "industry_sw2": "股份制银行Ⅱ",
+  "list_date": "1991-04-03",
+  "province": "广东",
+  "city": "深圳",
+  "website": "bank.pingan.com",
+  "chairman": "谢永林",
+  "employees": 41698,
+  "business_summary": "吸收公众存款；发放短期、中期和长期贷款；办理国内外结算",
+  "profile": "平安银行股份有限公司是一家总部设在深圳的全国性股份制商业银行(SZ000001),其前身深圳发展银行是中国内地首家公开上市的全国性股份制银行。本行坚守金融为民的初心,经过多年发展,已成长为一家经营管理成熟稳健、机构网点覆盖广泛、金融服务品类齐全、品牌影响力市场领先的商业银行,在科技赋能、零售业务、综合金融等领域形成独特竞争力和鲜明经营特色。发展战略本行紧跟国家政策导向和监管要求,坚持党建引领,坚持以“中国最卓越、全球领先的智能化零售银行”为战略目标,坚持“零售做强、对公做精、同业做专”的战略方针,持续深化数字化转型,服务新质生产力,强化风险管理,确保产品和服务真正凸显“专业·价值”,为客户提供“省心、省时、又省钱”的金融服务。业绩概览2025年,平安银行坚守金融工作的政治性、人民性,做好金融“五篇大文章”,以稳健经营笃定前行,以实干担当践行使命,经营发展保持稳中有进、质效提升的良好态势。零售做强本行坚持零售战略定位不动摇,深化推进零售战略转型,以客户为中心,打造特色零售银行,围绕“效益优先、兼顾规模”的经营目标,持续强化核心业务能力,推动零售业务高质量、可持续发展。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 11.3,
+  "change_pct": -0.96,
+  "total_mv": 219286875637.4,
+  "float_mv": 219284240398.3,
+  "total_shares": 19405918198,
+  "float_shares": 19405684991,
+  "pe_ttm": 5.05,
+  "pe_static": 5.14,
+  "pb": 0.46,
+  "ps_ttm": 1.65,
+  "turnover_rate": 0.67,
+  "amount": 1468424722.09,
+  "high_52w": 11.89,
+  "low_52w": 9.74,
+  "ytd_return": 4.62,
+  "return_1y": 3.57,
+  "return_3y": 34.08,
+  "dividend_yield": 5.27,
+  "index_members": [
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 169383000000.0,
+    "revenue_yoy": 10.32,
+    "net_profit": 36336000000.0,
+    "net_profit_yoy": 25.61,
+    "net_profit_deducted": 36230000000.0,
+    "gross_margin": null,
+    "net_margin": 21.45,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.73,
+    "bvps": 16.77,
+    "roe": 10.85,
+    "roa": 0.77,
+    "total_assets": 4921380000000.0,
+    "total_liab": 4525932000000.0,
+    "debt_ratio": 91.96,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 7568000000.0,
+    "interest_debt": null,
+    "equity_parent": 395448000000.0,
+    "ocf": -192733000000.0,
+    "capex": 6614000000.0,
+    "fcf": -199347000000.0,
+    "ocf_to_np": -5.3
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 179895000000.0,
+    "revenue_yoy": 6.21,
+    "net_profit": 45516000000.0,
+    "net_profit_yoy": 25.26,
+    "net_profit_deducted": 45407000000.0,
+    "gross_margin": null,
+    "net_margin": 25.3,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 2.2,
+    "bvps": 18.8,
+    "roe": 12.36,
+    "roa": 0.89,
+    "total_assets": 5321514000000.0,
+    "total_liab": 4886834000000.0,
+    "debt_ratio": 91.83,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 7568000000.0,
+    "interest_debt": null,
+    "equity_parent": 434680000000.0,
+    "ocf": 134572000000.0,
+    "capex": 3543000000.0,
+    "fcf": 131029000000.0,
+    "ocf_to_np": 2.96
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 164699000000.0,
+    "revenue_yoy": -8.45,
+    "net_profit": 46455000000.0,
+    "net_profit_yoy": 2.06,
+    "net_profit_deducted": 46431000000.0,
+    "gross_margin": null,
+    "net_margin": 28.21,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 2.25,
+    "bvps": 20.74,
+    "roe": 11.38,
+    "roa": 0.85,
+    "total_assets": 5587116000000.0,
+    "total_liab": 5114788000000.0,
+    "debt_ratio": 91.55,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 7568000000.0,
+    "interest_debt": null,
+    "equity_parent": 472328000000.0,
+    "ocf": 92461000000.0,
+    "capex": 3096000000.0,
+    "fcf": 89365000000.0,
+    "ocf_to_np": 1.99
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 146695000000.0,
+    "revenue_yoy": -10.93,
+    "net_profit": 44508000000.0,
+    "net_profit_yoy": -4.19,
+    "net_profit_deducted": 44838000000.0,
+    "gross_margin": null,
+    "net_margin": 30.34,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 2.15,
+    "bvps": 21.89,
+    "roe": 10.08,
+    "roa": 0.78,
+    "total_assets": 5769270000000.0,
+    "total_liab": 5274428000000.0,
+    "debt_ratio": 91.42,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 7568000000.0,
+    "interest_debt": null,
+    "equity_parent": 494842000000.0,
+    "ocf": 63336000000.0,
+    "capex": 2388000000.0,
+    "fcf": 60948000000.0,
+    "ocf_to_np": 1.42
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 131442000000.0,
+    "revenue_yoy": -10.4,
+    "net_profit": 42633000000.0,
+    "net_profit_yoy": -4.21,
+    "net_profit_deducted": 42624000000.0,
+    "gross_margin": null,
+    "net_margin": 32.43,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 2.07,
+    "bvps": 23.25,
+    "roe": 9.15,
+    "roa": 0.73,
+    "total_assets": 5925777000000.0,
+    "total_liab": 5374593000000.0,
+    "debt_ratio": 90.7,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 7568000000.0,
+    "interest_debt": null,
+    "equity_parent": 551184000000.0,
+    "ocf": 315858000000.0,
+    "capex": 2893000000.0,
+    "fcf": 312965000000.0,
+    "ocf_to_np": 7.41
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 70617000000.0,
+   "revenue_yoy": 1.78,
+   "net_profit": 25696000000.0,
+   "net_profit_yoy": 3.32,
+   "net_profit_deducted": 25633000000.0,
+   "gross_margin": null,
+   "net_margin": 36.39,
+   "roe": 5.22,
+   "eps": 1.24,
+   "debt_ratio": 90.91,
+   "ocf": 215012000000.0
+  },
+  "derived": {
+   "revenue_cagr_3y": -9.93,
+   "net_profit_cagr_3y": -2.16,
+   "receivables_to_revenue": null,
+   "goodwill_to_equity": 1.37
+  }
+ },
+ "shareholders": {
+  "controller": "无实际控制人",
+  "controlling_shareholder": "中国平安保险(集团)股份有限公司-集团本级-自有资金",
+  "controlling_ratio": 49.56,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "中国平安保险(集团)股份有限公司-集团本级-自有资金",
+    "hold_num": 9618540236,
+    "hold_ratio": 49.56,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "中国平安人寿保险股份有限公司-自有资金",
+    "hold_num": 1186100488,
+    "hold_ratio": 6.11,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "香港中央结算有限公司",
+    "hold_num": 736878410,
+    "hold_ratio": 3.8,
+    "hold_num_change": 166106362
+   },
+   {
+    "rank": 4,
+    "name": "中国平安人寿保险股份有限公司-传统-普通保险产品",
+    "hold_num": 440478714,
+    "hold_ratio": 2.27,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "深圳市恩情投资发展有限公司",
+    "hold_num": 115800000,
+    "hold_ratio": 0.6,
+    "hold_num_change": 7800000
+   },
+   {
+    "rank": 6,
+    "name": "瑞众人寿保险有限责任公司-自有资金",
+    "hold_num": 87334148,
+    "hold_ratio": 0.45,
+    "hold_num_change": null
+   },
+   {
+    "rank": 7,
+    "name": "中国建设银行股份有限公司-华泰柏瑞中证红利低波动交易型开放式指数证券投资基金",
+    "hold_num": 82870993,
+    "hold_ratio": 0.43,
+    "hold_num_change": 10748800
+   },
+   {
+    "rank": 8,
+    "name": "深圳市博睿财智控股有限公司",
+    "hold_num": 74920000,
+    "hold_ratio": 0.39,
+    "hold_num_change": 5100000
+   },
+   {
+    "rank": 9,
+    "name": "瑞众人寿保险有限责任公司-万能产品",
+    "hold_num": 70109910,
+    "hold_ratio": 0.36,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "深圳中电投资有限公司",
+    "hold_num": 62523366,
+    "hold_ratio": 0.32,
+    "hold_num_change": 0
+   }
+  ],
+  "holder_num": 450712,
+  "holder_num_change_pct": -1.51,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 4.21,
+  "northbound_ratio": 3.8,
+  "executives": [
+   {
+    "name": "谢永林",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "冀光恒",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "周强",
+    "title": "董事会秘书",
+    "pay": 2268700
+   }
+  ],
+  "pledge_ratio_total": 0.13,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.228,
+    "total_amount": 4424549349.14,
+    "payout_ratio": 12.18,
+    "dividend_yield": 1.75,
+    "ex_date": "2022-07-22"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.285,
+    "total_amount": 5530686686.43,
+    "payout_ratio": 12.15,
+    "dividend_yield": 2.42,
+    "ex_date": "2023-06-14"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.719,
+    "total_amount": 13952855184.36,
+    "payout_ratio": 30.04,
+    "dividend_yield": 6.66,
+    "ex_date": "2024-06-14"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.608,
+    "total_amount": 11798798264.38,
+    "payout_ratio": 26.51,
+    "dividend_yield": 2.67,
+    "ex_date": "2024-10-10"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.596,
+    "total_amount": 11565927246.01,
+    "payout_ratio": 27.13,
+    "dividend_yield": 2.73,
+    "ex_date": "2025-10-15"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 47272816730.32,
+  "cum_netprofit_5y": 215448000000.0,
+  "payout_5y": 21.94,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "600036.SH",
+   "601998.SH",
+   "601166.SH",
+   "600000.SH"
+  ],
+  "segments": [
+   {
+    "name": "零售金融业务",
+    "revenue": 61626000000.0,
+    "ratio": 46.88,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "批发金融业务",
+    "revenue": 57959000000.0,
+    "ratio": 44.09,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他业务",
+    "revenue": 11857000000.0,
+    "ratio": 9.02,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "总部",
+    "revenue": 71518000000.0,
+    "ratio": 54.41,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "南区",
+    "revenue": 20116000000.0,
+    "ratio": 15.3,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "东区",
+    "revenue": 20018000000.0,
+    "ratio": 15.23,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "北区",
+    "revenue": 13258000000.0,
+    "ratio": 10.09,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "西区",
+    "revenue": 5474000000.0,
+    "ratio": 4.16,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "关于副行长任职资格核准的公告",
+    "date": "2026-10-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225601360.PDF",
+    "type": null
+   },
+   {
+    "title": "董事会决议公告",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225587230.PDF",
+    "type": null
+   },
+   {
+    "title": "关于2026年金融债券（第一期）发行完毕的公告",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225574840.PDF",
+    "type": null
+   },
+   {
+    "title": "平安银行股份有限公司内部审计章程",
+    "date": "2026-09-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-17/1225568477.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度权益分派实施公告",
+    "date": "2026-09-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-17/1225568476.PDF",
+    "type": null
+   },
+   {
+    "title": "关于职工董事任职资格核准的公告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225490393.PDF",
+    "type": null
+   },
+   {
+    "title": "董事会决议公告",
+    "date": "2026-08-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225475348.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年中期利润分配方案",
+    "date": "2026-08-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225475347.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度财务报告",
+    "date": "2026-08-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225475346.PDF",
+    "type": null
+   },
+   {
+    "title": "半年度非经营性资金占用及其他关联资金往来情况汇总表",
+    "date": "2026-08-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225475345.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度报告",
+    "date": "2026-08-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225475344.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度报告摘要",
+    "date": "2026-08-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225475343.PDF",
+    "type": null
+   },
+   {
+    "title": "关于召开2026年半年度业绩说明会的公告",
+    "date": "2026-08-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-08/1225463626.PDF",
+    "type": null
+   },
+   {
+    "title": "关联交易公告",
+    "date": "2026-08-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-01/1225451412.PDF",
+    "type": null
+   },
+   {
+    "title": "董事会决议公告",
+    "date": "2026-08-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-01/1225451411.PDF",
+    "type": null
+   },
+   {
+    "title": "董事会决议公告",
+    "date": "2026-07-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-03/1225406051.PDF",
+    "type": null
+   },
+   {
+    "title": "关于副行长任职资格核准的公告",
+    "date": "2026-06-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-26/1225387929.PDF",
+    "type": null
+   },
+   {
+    "title": "2025年年度权益分派实施公告",
+    "date": "2026-06-05",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-05/1225352449.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市海问律师事务所关于平安银行股份有限公司2025年年度股东会的法律意见书",
+    "date": "2026-05-23",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-05-23/1225327041.PDF",
+    "type": null
+   },
+   {
+    "title": "2025年年度股东会决议公告",
+    "date": "2026-05-23",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-05-23/1225327040.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 89
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "最近公司是否有积极变化",
+    "answer": null,
+    "ask_date": "2026-10-19",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2385012367278190592"
+   },
+   {
+    "question": "您好，最新股东人数是？",
+    "answer": "您好。本行在定期报告中披露具体股东数。截至2026年6月末，本行普通股股东总户数为450,712户。感谢您的关注。",
+    "ask_date": "2026-10-13",
+    "answer_date": "2026-10-14",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2380438931516030976"
+   },
+   {
+    "question": "平安银行为何不申请设立AIC公司来增加非息收入的增长极，除国有六大行，商行中招商，兴业，中信都己完成设立，平安银行的业务结构优化方案难道要缺这一腿吗？",
+    "answer": "您好。本行暂无相关应披露而未披露的信息。感谢您的关注。",
+    "ask_date": "2026-10-12",
+    "answer_date": "2026-10-14",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2379855829576056832"
+   },
+   {
+    "question": "近期巴菲特加仓地产股的原因有传是美华人集体要求放宽在各州购地自建新能源房屋？请问万科作好准备迎接新一轮新型能源、防AI防核安全基建潮了吗？",
+    "answer": "您好。相关问题建议您直接咨询万科（000002）。感谢您的关注。",
+    "ask_date": "2026-10-12",
+    "answer_date": "2026-10-14",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2379849034785562624"
+   },
+   {
+    "question": "董秘您好！我注意到贵公司在年报中披露了数字人民币相关内容。想向您请教，贵公司目前是否已使用数字人民币？如已使用，是从什么时候开始使用的？谢谢！",
+    "answer": "您好。本行未披露相关信息。感谢您的关注。",
+    "ask_date": "2026-10-10",
+    "answer_date": "2026-10-14",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2378497219817160704"
+   },
+   {
+    "question": "平安集团保险、证券、信托、医养资源齐全，但客户体感仍是“各管各的”。请问管理层：银行作为集团C端转化器，是否有明确KPI衡量“集团资源转化为客户账户收益和体验”？私行“1+1+N”模式下，客户跨子公司配置率和留存率如何？何时能从“集团资源持有者”变成“客户钱包经营者”？",
+    "answer": "您好。在综合金融方面，本行积极加强与平安集团的协同协作，借助平安集团的客户、产品、品牌等优势，通过资源整合、相互协同，打造鲜明的综合金融优势。本行坚持从客户需求出发，全面完善综合金融的协作机制和服务平台，持续强化关联交易管理，强化客户信息保护，坚持公允定价，有效做好风险隔离，依法合规开展综合金融业务。目前综合金融在客户规模、管理零售客户资产（AUM）规模等方面为零售业务经营持续贡献价值。2026年上半年，综合金融贡献的新增财富客户数占比55.1%、新获客AUM占比53.3%、信用卡新增户数占比15.1%。本行将持续推进综合金融模式的迭代升级，依托平安集团“综合金融+医疗养老”生态协同优势，进一步深化客户经营体系建设。感谢您的关注。",
+    "ask_date": "2026-10-04",
+    "answer_date": "2026-10-14",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2374076100523532288"
+   },
+   {
+    "question": "国庆快乐，请问最新一期的股东人数是多少？",
+    "answer": "您好。本行在定期报告中披露具体股东数。截至2026年6月末，本行普通股股东总户数为450,712户。感谢您的关注。",
+    "ask_date": "2026-10-01",
+    "answer_date": "2026-10-14",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2371665301205528576"
+   },
+   {
+    "question": "想咨询请教，既然《上市公司监管指引第8号——上市公司资金往来、对外担保的监管要求》第二十八条规定金融类上市公司不适用本指引第三章、第四章规定，那么金融类上市公司对外担保应当适用那些监管规定？",
+    "answer": "您好。监管制度相关问题建议您咨询监管单位。本行相关业务适用于《公司法》，以及国家金融监督管理总局颁布的相关监管规定等法律发规。感谢您的关注。",
+    "ask_date": "2026-09-10",
+    "answer_date": "2026-10-14",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2356273830594031616"
+   }
+  ],
+  "count_12m": null
+ }
+}

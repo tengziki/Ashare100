@@ -1,0 +1,633 @@
+{
+ "identity": {
+  "code": "002594",
+  "exchange": "SZ",
+  "board": "主板",
+  "name_full": "比亚迪股份有限公司",
+  "name_abbr": "比亚迪",
+  "aliases": [
+   "byd",
+   "比亚迪汽车"
+  ],
+  "name_en": "BYD Company Limited",
+  "pinyin_abbr": "BYD",
+  "former_names": [],
+  "industry_sw1": "汽车",
+  "industry_sw2": "乘用车",
+  "list_date": "2011-06-30",
+  "province": "广东",
+  "city": "深圳",
+  "website": "www.bydglobal.com",
+  "chairman": "王传福",
+  "employees": 869622,
+  "business_summary": "从事以新能源汽车为主的汽车业务,手机部件及组装业务,二次充电电池及光伏业务",
+  "profile": "比亚迪股份有限公司总部位于广东省深圳市,是在香港和深圳两地上市的世界500强企业,业务横跨汽车、电子、新能源、轨道交通四大产业,从能源的获取、存储,再到应用,全方位构建零排放的新能源整体解决方案,致力于用技术创新,满足人们对美好生活的向往,助力为地球降温1°C。 主营业务：从事以新能源汽车为主的汽车业务,手机部件及组装业务,二次充电电池及光伏业务,同时利用自身的技术优势拓展城市轨道交通业务领域。 经营范围包括：锂离子电池以及其他电池、充电器、电子产品、仪器仪表、柔性线路板。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 80.02,
+  "change_pct": -0.84,
+  "total_mv": 729558149151.3,
+  "float_mv": 279035239134.44,
+  "total_shares": 9117197565,
+  "float_shares": 3487068722,
+  "pe_ttm": 24.79,
+  "pe_static": 22.37,
+  "pb": 3.04,
+  "ps_ttm": 0.94,
+  "turnover_rate": 0.76,
+  "amount": 2123265461.27,
+  "high_52w": 111.46,
+  "low_52w": 77.24,
+  "ytd_return": -17.81,
+  "return_1y": -22.63,
+  "return_3y": 3.9,
+  "dividend_yield": 0.45,
+  "index_members": [
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 216142395000.0,
+    "revenue_yoy": 38.02,
+    "net_profit": 3045188000.0,
+    "net_profit_yoy": -28.08,
+    "net_profit_deducted": 1254619000.0,
+    "gross_margin": 13.02,
+    "net_margin": 1.84,
+    "selling_expense_ratio": 2.81,
+    "admin_expense_ratio": 2.64,
+    "finance_expense_ratio": 0.83,
+    "rd_expense": 7990974000.0,
+    "rd_ratio": 3.7,
+    "eps": 1.06,
+    "bvps": 32.66,
+    "roe": 3.73,
+    "roa": 1.6,
+    "total_assets": 295780147000.0,
+    "total_liab": 191535938000.0,
+    "debt_ratio": 64.76,
+    "cash": 50457097000.0,
+    "receivables": 36251280000.0,
+    "inventory": 43354782000.0,
+    "goodwill": 65914000.0,
+    "interest_debt": 35393023000.0,
+    "equity_parent": 95069671000.0,
+    "ocf": 65466682000.0,
+    "capex": 37343609000.0,
+    "fcf": 28123073000.0,
+    "ocf_to_np": 21.5
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 424060635000.0,
+    "revenue_yoy": 96.2,
+    "net_profit": 16622448000.0,
+    "net_profit_yoy": 445.86,
+    "net_profit_deducted": 15637792000.0,
+    "gross_margin": 17.04,
+    "net_margin": 4.18,
+    "selling_expense_ratio": 3.55,
+    "admin_expense_ratio": 2.36,
+    "finance_expense_ratio": -0.38,
+    "rd_expense": 18654453000.0,
+    "rd_ratio": 4.4,
+    "eps": 5.71,
+    "bvps": 38.14,
+    "roe": 16.14,
+    "roa": 4.49,
+    "total_assets": 493860646000.0,
+    "total_liab": 372470809000.0,
+    "debt_ratio": 75.42,
+    "cash": 51471263000.0,
+    "receivables": 38828494000.0,
+    "inventory": 79107199000.0,
+    "goodwill": 65914000.0,
+    "interest_debt": 21828796000.0,
+    "equity_parent": 111029299000.0,
+    "ocf": 140837657000.0,
+    "capex": 97456862000.0,
+    "fcf": 43380795000.0,
+    "ocf_to_np": 8.47
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 602315354000.0,
+    "revenue_yoy": 42.04,
+    "net_profit": 30040811000.0,
+    "net_profit_yoy": 80.72,
+    "net_profit_deducted": 28462432000.0,
+    "gross_margin": 18.58,
+    "net_margin": 5.2,
+    "selling_expense_ratio": 2.55,
+    "admin_expense_ratio": 2.23,
+    "finance_expense_ratio": -0.24,
+    "rd_expense": 39574945000.0,
+    "rd_ratio": 6.57,
+    "eps": 10.32,
+    "bvps": 47.68,
+    "roe": 24.4,
+    "roa": 5.34,
+    "total_assets": 679547670000.0,
+    "total_liab": 529085557000.0,
+    "debt_ratio": 77.86,
+    "cash": 109094408000.0,
+    "receivables": 61866019000.0,
+    "inventory": 87676748000.0,
+    "goodwill": 4427571000.0,
+    "interest_debt": 46886032000.0,
+    "equity_parent": 138810065000.0,
+    "ocf": 169725025000.0,
+    "capex": 122093509000.0,
+    "fcf": 47631516000.0,
+    "ocf_to_np": 5.65
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 777102455000.0,
+    "revenue_yoy": 29.02,
+    "net_profit": 40254346000.0,
+    "net_profit_yoy": 34.0,
+    "net_profit_deducted": 36982887000.0,
+    "gross_margin": 19.44,
+    "net_margin": 5.35,
+    "selling_expense_ratio": 3.1,
+    "admin_expense_ratio": 2.4,
+    "finance_expense_ratio": 0.16,
+    "rd_expense": 53194745000.0,
+    "rd_ratio": 6.85,
+    "eps": 4.61,
+    "bvps": 58.56,
+    "roe": 26.05,
+    "roa": 5.69,
+    "total_assets": 783355855000.0,
+    "total_liab": 584667646000.0,
+    "debt_ratio": 74.64,
+    "cash": 102738734000.0,
+    "receivables": 62298988000.0,
+    "inventory": 116036237000.0,
+    "goodwill": 4427571000.0,
+    "interest_debt": 40459600000.0,
+    "equity_parent": 185251104000.0,
+    "ocf": 133453873000.0,
+    "capex": 97359768000.0,
+    "fcf": 36094105000.0,
+    "ocf_to_np": 3.32
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 803964958000.0,
+    "revenue_yoy": 3.46,
+    "net_profit": 32619022000.0,
+    "net_profit_yoy": -18.97,
+    "net_profit_deducted": 29445703000.0,
+    "gross_margin": 17.74,
+    "net_margin": 4.2,
+    "selling_expense_ratio": 3.26,
+    "admin_expense_ratio": 2.51,
+    "finance_expense_ratio": -0.08,
+    "rd_expense": 57978105000.0,
+    "rd_ratio": 7.21,
+    "eps": 3.58,
+    "bvps": 24.96,
+    "roe": 15.31,
+    "roa": 4.05,
+    "total_assets": 883729883000.0,
+    "total_liab": 625190698000.0,
+    "debt_ratio": 70.74,
+    "cash": 75424747000.0,
+    "receivables": 37004685000.0,
+    "inventory": 138420580000.0,
+    "goodwill": 4427571000.0,
+    "interest_debt": 119120640000.0,
+    "equity_parent": 246274606000.0,
+    "ocf": 59135544000.0,
+    "capex": 156807853000.0,
+    "fcf": -97672309000.0,
+    "ocf_to_np": 1.81
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 344815421000.0,
+   "revenue_yoy": -7.13,
+   "net_profit": 12325408000.0,
+   "net_profit_yoy": -20.54,
+   "net_profit_deducted": 12373343000.0,
+   "gross_margin": 18.85,
+   "net_margin": 3.58,
+   "roe": 4.86,
+   "eps": 1.35,
+   "debt_ratio": 70.96,
+   "ocf": 37334744000.0
+  },
+  "derived": {
+   "revenue_cagr_3y": 23.77,
+   "net_profit_cagr_3y": 25.2,
+   "receivables_to_revenue": 4.6,
+   "goodwill_to_equity": 1.8
+  }
+ },
+ "shareholders": {
+  "controller": "王传福",
+  "controlling_shareholder": "王传福",
+  "controlling_ratio": 16.9,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "HKSCC NOMINEES LIMITED",
+    "hold_num": 3681498007,
+    "hold_ratio": 40.38,
+    "hold_num_change": 24790
+   },
+   {
+    "rank": 2,
+    "name": "王传福",
+    "hold_num": 1540871550,
+    "hold_ratio": 16.9,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "吕向阳",
+    "hold_num": 717685860,
+    "hold_ratio": 7.87,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "融捷投资控股集团有限公司",
+    "hold_num": 465448806,
+    "hold_ratio": 5.11,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "夏佐全",
+    "hold_num": 247906821,
+    "hold_ratio": 2.72,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "香港中央结算有限公司",
+    "hold_num": 169575340,
+    "hold_ratio": 1.86,
+    "hold_num_change": -27598380
+   },
+   {
+    "rank": 7,
+    "name": "张炜",
+    "hold_num": 60000607,
+    "hold_ratio": 0.66,
+    "hold_num_change": 5000607
+   },
+   {
+    "rank": 8,
+    "name": "王念强",
+    "hold_num": 54899220,
+    "hold_ratio": 0.6,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "全国社保基金一一四组合",
+    "hold_num": 51740712,
+    "hold_ratio": 0.57,
+    "hold_num_change": 9740774
+   },
+   {
+    "rank": 10,
+    "name": "李柯",
+    "hold_num": 32584200,
+    "hold_ratio": 0.36,
+    "hold_num_change": 0
+   }
+  ],
+  "holder_num": 755097,
+  "holder_num_change_pct": 5.06,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 8.76,
+  "northbound_ratio": 1.86,
+  "executives": [
+   {
+    "name": "王传福",
+    "title": "董事长",
+    "pay": 8139000.0
+   },
+   {
+    "name": "王传福",
+    "title": "总经理",
+    "pay": 8139000
+   },
+   {
+    "name": "李黔",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 4.11,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.105,
+    "total_amount": 305669999.78,
+    "payout_ratio": 10.04,
+    "dividend_yield": 0.03,
+    "ex_date": "2022-07-29"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 1.142,
+    "total_amount": 3324525140.41,
+    "payout_ratio": 20.0,
+    "dividend_yield": 0.44,
+    "ex_date": "2023-07-28"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 3.0978,
+    "total_amount": 9012242888.03,
+    "payout_ratio": 30.0,
+    "dividend_yield": 1.22,
+    "ex_date": "2024-07-29"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 3.974,
+    "total_amount": 21835802107.77,
+    "payout_ratio": 54.24,
+    "dividend_yield": 1.18,
+    "ex_date": "2025-07-29"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.358,
+    "total_amount": 3263956728.27,
+    "payout_ratio": 10.01,
+    "dividend_yield": 0.37,
+    "ex_date": "2026-07-31"
+   }
+  ],
+  "consecutive_years": 5,
+  "cum_dividend_5y": 37742196864.26,
+  "cum_netprofit_5y": 122581815000.0,
+  "payout_5y": 30.79,
+  "buyback_3y": 399993367.0
+ },
+ "peers": {
+  "peer_codes": [
+   "600104.SH",
+   "601633.SH",
+   "601127.SH",
+   "000625.SZ"
+  ],
+  "segments": [
+   {
+    "name": "汽车、汽车相关产品及其他产品",
+    "revenue": 648645636000.0,
+    "ratio": 80.68,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "手机部件、组装及其他产品",
+    "revenue": 155236528000.0,
+    "ratio": 19.31,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他",
+    "revenue": 82794000.0,
+    "ratio": 0.01,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "中国(包括港澳台地区)",
+    "revenue": 493223970000.0,
+    "ratio": 61.35,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "境外",
+    "revenue": 310740988000.0,
+    "ratio": 38.65,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "H股公告（董事会会议通告）",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225604668.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告（股份发行人及根据《上市规则》第十九B章上市的香港预托证券发行人的证券变动月报表）",
+    "date": "2026-10-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225595406.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告（选举职工董事）",
+    "date": "2026-10-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225595405.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告（董事名单与其角色和职能）",
+    "date": "2026-10-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225595404.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告（(1)临时股东会投票表决结果(2)董事会及董事会委员会成员之变动及(3)修订《公司章程》）",
+    "date": "2026-10-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225595403.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年9月产销快报",
+    "date": "2026-10-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225595402.PDF",
+    "type": null
+   },
+   {
+    "title": "总裁工作细则（2026年9月）",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225588811.PDF",
+    "type": null
+   },
+   {
+    "title": "战略及可持续发展委员会实施细则（2026年9月）",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225588810.PDF",
+    "type": null
+   },
+   {
+    "title": "关于选举第九届董事会职工董事的公告",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225588809.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市中伦（深圳）律师事务所关于比亚迪股份有限公司2026年第一次临时股东会的法律意见书",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225588808.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年第一次临时股东会决议公告",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225588807.PDF",
+    "type": null
+   },
+   {
+    "title": "第九届董事会第一次会议决议公告",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225588806.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告（暂停办理过户登记）",
+    "date": "2026-09-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-08/1225551665.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告（临时股东会通告）",
+    "date": "2026-09-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-08/1225551664.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告（通函）",
+    "date": "2026-09-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-08/1225551663.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告（于二零二六年九月二十九日（星期二）举行的临时股东会（「临时股东会」）或其任何续会适用的H股持有人代表委任表格）",
+    "date": "2026-09-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-08/1225551662.PDF",
+    "type": null
+   },
+   {
+    "title": "关于召开2026年第一次临时股东会的通知",
+    "date": "2026-09-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-08/1225551661.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告（股份发行人及根据《上市规则》第十九B章上市的香港预托证券发行人的证券变动月报表）",
+    "date": "2026-09-02",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-02/1225541695.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年8月产销快报",
+    "date": "2026-09-02",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-02/1225541694.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告（建议修订《公司章程》建议重选董事、选举新董事及厘定董事薪酬）",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531850.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 143
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "请问比亚迪董秘，比亚迪股价跌成什么样了，有没有响应证监会的市值管理工作？有没有计划回购股份注销？",
+    "answer": null,
+    "ask_date": "2026-10-22",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2387133402282590208"
+   },
+   {
+    "question": "比亚迪是否应该对市场做一下充分调研，对不同群体的用车习惯和要求做一下充分调研？感觉就是比亚迪储备了一些技术，技术积累远远超越小米几个档次，但是对产品定义和小米还是有一定的差距的。营销方法感觉就不需要向小米学习了，这个不适合比亚迪这种踏踏实实做产品的公司。但是希望比亚迪能够加强产品经理团队的建设。",
+    "answer": null,
+    "ask_date": "2026-10-22",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2387122647532396544"
+   },
+   {
+    "question": "董秘：您好：建议贵司在二代刀片电池产能上来以后全面开启外供，搭载贵司的二代刀又可以在贵司闪充补能，提升闪充站的站台率。赚双份的钱，复制安卓手机全面替代诺基亚的时刻，谢谢回复。",
+    "answer": null,
+    "ask_date": "2026-10-21",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2386538472068661248"
+   },
+   {
+    "question": "贵司的经营方向是不是有问题？宁德时代前三季度挣了600多亿，贵司前三季度，大约为别人三分之一，是不是考虑利润，把該砍的产品线砍掉，聚焦一下？",
+    "answer": null,
+    "ask_date": "2026-10-20",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2386059420006400000"
+   },
+   {
+    "question": "你们能否开发一个可以缩小的车？解决停车紧张和停车位贵的问题。或者能增加空气动力学在造型上的应用，减少风阻",
+    "answer": null,
+    "ask_date": "2026-10-20",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2385898813933355008"
+   },
+   {
+    "question": "贵公司2022—2024年报“地区信息”将港澳台计入“中国”，对外交易收入按客户所在区域统计。请问能否分别披露这三年合并口径、按客户所在地划分的港澳台地区营业收入金额？若无法提供，能否确认该收入包含在“中国（包括港澳台地区）”而不在“境外”行中？",
+    "answer": null,
+    "ask_date": "2026-10-18",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2384423149135773696"
+   },
+   {
+    "question": "弄点国际先进的东西，不论是冰箱彩电的车，还是续航800公里1000公里，市民已经麻木了，没什么炸裂技术吗？",
+    "answer": null,
+    "ask_date": "2026-10-17",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2383816725457403904"
+   },
+   {
+    "question": "贵司应该像蔚小理学习产品力，而不是一味的堆叠参数，努力发掘目标客户的需求，根据客户需求去搭配产品参数，而不是靠低价卷市场，做ToC的产品，了解客户需求至关重要，储能与半导体是做ToB的业务，卷技术非常支持，目前贵司除了方程豹有产品力，其它的几个品牌，产品力看不到一点，希望贵司好好反思。",
+    "answer": null,
+    "ask_date": "2026-10-17",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2383748675995566080"
+   }
+  ],
+  "count_12m": null
+ }
+}

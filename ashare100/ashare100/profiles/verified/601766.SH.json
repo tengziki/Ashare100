@@ -1,0 +1,641 @@
+{
+ "identity": {
+  "code": "601766",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "中国中车股份有限公司",
+  "name_abbr": "中国中车",
+  "aliases": [
+   "zgzc"
+  ],
+  "name_en": "CRRC Corporation Limited",
+  "pinyin_abbr": "ZGZC",
+  "former_names": [
+   "中国南车"
+  ],
+  "industry_sw1": "机械设备",
+  "industry_sw2": "轨交设备Ⅱ",
+  "list_date": "2008-08-18",
+  "province": "北京",
+  "city": "北京",
+  "website": "www.crrcgc.cc",
+  "chairman": "孙永才",
+  "employees": 151602,
+  "business_summary": "铁路装备业务,城轨与城市基础设施业务,新产业业务,现代服务业务,国际业务",
+  "profile": "中国中车股份有限公司(中文简称“中国中车”,英文简称缩写“CRRC”)是经国务院同意,国务院国资委批准,由中国北车股份有限公司、中国南车股份有限公司按照对等原则合并组建的A+H股上市公司。经中国证监会核准,2015年6月8日,中国中车在上海证券交易所和香港联交所成功上市。总部设在北京。中国中车承继了中国北车股份有限公司、中国南车股份有限公司的全部业务和资产,是全球规模领先、品种齐全、技术一流的轨道交通装备供应商。主要经营:铁路机车车辆、动车组、城市轨道交通车辆、工程机械、各类机电设备、电子设备及零部件、电子电器及环保设备产品的研发、设计、制造、修理、销售、租赁与技术服务;信息咨询;实业投资与管理;资产管理;进出口业务。中国中车坚持自主创新、开放创新和协同创新,持续完善技术创新体系,不断提升技术创新能力,建设了世界领先的轨道交通装备产品技术平台和制造基地,以高速动车组、大功率机车、铁路货车、城市轨道车辆为代表的系列产品,已经全面达到世界先进水平,能够适应各种复杂的地理环境,满足多样化的市场需求。中国中车制造的高速动车组系列产品,已经成为中国向世界展示发展成就的重要名片。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 6.33,
+  "change_pct": 1.12,
+  "total_mv": 181663809677.04,
+  "float_mv": 153994961643.84,
+  "total_shares": 28698864088,
+  "float_shares": 24327798048,
+  "pe_ttm": 13.05,
+  "pe_static": 13.78,
+  "pb": 1.03,
+  "ps_ttm": 0.64,
+  "turnover_rate": 0.63,
+  "amount": 969888994.0,
+  "high_52w": 7.89,
+  "low_52w": 4.89,
+  "ytd_return": -3.95,
+  "return_1y": -16.49,
+  "return_3y": 37.31,
+  "dividend_yield": 3.63,
+  "index_members": [
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 225731755000.0,
+    "revenue_yoy": -0.85,
+    "net_profit": 10302605000.0,
+    "net_profit_yoy": -9.08,
+    "net_profit_deducted": 7520274000.0,
+    "gross_margin": 20.57,
+    "net_margin": 5.5,
+    "selling_expense_ratio": 3.22,
+    "admin_expense_ratio": 5.97,
+    "finance_expense_ratio": 0.17,
+    "rd_expense": 13085219000.0,
+    "rd_ratio": 5.8,
+    "eps": 0.36,
+    "bvps": 5.18,
+    "roe": 6.71,
+    "roa": 3.03,
+    "total_assets": 426826499000.0,
+    "total_liab": 244534993000.0,
+    "debt_ratio": 57.29,
+    "cash": 48585115000.0,
+    "receivables": 72985213000.0,
+    "inventory": 61420021000.0,
+    "goodwill": 272806000.0,
+    "interest_debt": 31608268000.0,
+    "equity_parent": 148574346000.0,
+    "ocf": 20592700000.0,
+    "capex": 5906780000.0,
+    "fcf": 14685920000.0,
+    "ocf_to_np": 2.0
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 222938637000.0,
+    "revenue_yoy": -1.24,
+    "net_profit": 11653448000.0,
+    "net_profit_yoy": 13.11,
+    "net_profit_deducted": 7971053000.0,
+    "gross_margin": 21.22,
+    "net_margin": 6.44,
+    "selling_expense_ratio": 3.46,
+    "admin_expense_ratio": 6.01,
+    "finance_expense_ratio": -0.15,
+    "rd_expense": 13129748000.0,
+    "rd_ratio": 5.89,
+    "eps": 0.41,
+    "bvps": 5.4,
+    "roe": 7.35,
+    "roa": 3.3,
+    "total_assets": 442140146000.0,
+    "total_liab": 251154230000.0,
+    "debt_ratio": 56.8,
+    "cash": 54861839000.0,
+    "receivables": 88987037000.0,
+    "inventory": 63136015000.0,
+    "goodwill": 261739000.0,
+    "interest_debt": 27347788000.0,
+    "equity_parent": 155041322000.0,
+    "ocf": 23953216000.0,
+    "capex": 7417459000.0,
+    "fcf": 16535757000.0,
+    "ocf_to_np": 2.06
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 234261514000.0,
+    "revenue_yoy": 5.08,
+    "net_profit": 11711576000.0,
+    "net_profit_yoy": 0.5,
+    "net_profit_deducted": 9106801000.0,
+    "gross_margin": 20.54,
+    "net_margin": 6.22,
+    "selling_expense_ratio": 2.2,
+    "admin_expense_ratio": 5.96,
+    "finance_expense_ratio": -0.09,
+    "rd_expense": 14363696000.0,
+    "rd_ratio": 6.13,
+    "eps": 0.41,
+    "bvps": 5.61,
+    "roe": 7.4,
+    "roa": 3.19,
+    "total_assets": 471791735000.0,
+    "total_liab": 275268420000.0,
+    "debt_ratio": 58.35,
+    "cash": 55929833000.0,
+    "receivables": 105705827000.0,
+    "inventory": 66848740000.0,
+    "goodwill": 307406000.0,
+    "interest_debt": 20912573000.0,
+    "equity_parent": 160973373000.0,
+    "ocf": 14721616000.0,
+    "capex": 8103773000.0,
+    "fcf": 6617843000.0,
+    "ocf_to_np": 1.26
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 246474389000.0,
+    "revenue_yoy": 5.21,
+    "net_profit": 12387776000.0,
+    "net_profit_yoy": 5.77,
+    "net_profit_deducted": 10143061000.0,
+    "gross_margin": 21.38,
+    "net_margin": 6.36,
+    "selling_expense_ratio": 2.24,
+    "admin_expense_ratio": 6.32,
+    "finance_expense_ratio": -0.0,
+    "rd_expense": 15936698000.0,
+    "rd_ratio": 6.47,
+    "eps": 0.43,
+    "bvps": 5.88,
+    "roe": 7.51,
+    "roa": 3.18,
+    "total_assets": 512845527000.0,
+    "total_liab": 302599925000.0,
+    "debt_ratio": 59.0,
+    "cash": 67512614000.0,
+    "receivables": 110846856000.0,
+    "inventory": 78951355000.0,
+    "goodwill": 306816000.0,
+    "interest_debt": 19781920000.0,
+    "equity_parent": 168799788000.0,
+    "ocf": 27056914000.0,
+    "capex": 10185342000.0,
+    "fcf": 16871572000.0,
+    "ocf_to_np": 2.18
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 273063098000.0,
+    "revenue_yoy": 10.79,
+    "net_profit": 13181015000.0,
+    "net_profit_yoy": 6.4,
+    "net_profit_deducted": 10975128000.0,
+    "gross_margin": 21.38,
+    "net_margin": 6.19,
+    "selling_expense_ratio": 2.15,
+    "admin_expense_ratio": 5.86,
+    "finance_expense_ratio": 0.0,
+    "rd_expense": 17640973000.0,
+    "rd_ratio": 6.46,
+    "eps": 0.46,
+    "bvps": 6.0,
+    "roe": 7.7,
+    "roa": 3.18,
+    "total_assets": 550774434000.0,
+    "total_liab": 334695934000.0,
+    "debt_ratio": 60.77,
+    "cash": 67834624000.0,
+    "receivables": 116502100000.0,
+    "inventory": 95142504000.0,
+    "goodwill": 312056000.0,
+    "interest_debt": 21717145000.0,
+    "equity_parent": 172120649000.0,
+    "ocf": 24185716000.0,
+    "capex": 9382515000.0,
+    "fcf": 14803201000.0,
+    "ocf_to_np": 1.83
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 131682442000.0,
+   "revenue_yoy": 9.96,
+   "net_profit": 7990535000.0,
+   "net_profit_yoy": 10.28,
+   "net_profit_deducted": 7408122000.0,
+   "gross_margin": 22.27,
+   "net_margin": 7.35,
+   "roe": 4.54,
+   "eps": 0.28,
+   "debt_ratio": 59.68,
+   "ocf": -16139470000.0
+  },
+  "derived": {
+   "revenue_cagr_3y": 6.99,
+   "net_profit_cagr_3y": 4.19,
+   "receivables_to_revenue": 42.66,
+   "goodwill_to_equity": 0.18
+  }
+ },
+ "shareholders": {
+  "controller": "国务院国有资产监督管理委员会",
+  "controlling_shareholder": "中国中车集团有限公司",
+  "controlling_ratio": 50.83,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "中国中车集团有限公司",
+    "hold_num": 14587578250,
+    "hold_ratio": 50.83,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "HKSCC NOMINEES LIMITED",
+    "hold_num": 4360405811,
+    "hold_ratio": 15.19,
+    "hold_num_change": 103200
+   },
+   {
+    "rank": 3,
+    "name": "平安资管-工商银行-平安资产夏荷21号资产管理产品",
+    "hold_num": 342695155,
+    "hold_ratio": 1.19,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "香港中央结算有限公司",
+    "hold_num": 306928130,
+    "hold_ratio": 1.07,
+    "hold_num_change": -10732207
+   },
+   {
+    "rank": 5,
+    "name": "国新宏盛投资(北京)有限公司",
+    "hold_num": 166639550,
+    "hold_ratio": 0.58,
+    "hold_num_change": null
+   },
+   {
+    "rank": 6,
+    "name": "瑞众人寿保险有限责任公司-自有资金",
+    "hold_num": 151658400,
+    "hold_ratio": 0.53,
+    "hold_num_change": null
+   },
+   {
+    "rank": 7,
+    "name": "国开金融有限责任公司",
+    "hold_num": 103636700,
+    "hold_ratio": 0.36,
+    "hold_num_change": null
+   },
+   {
+    "rank": 8,
+    "name": "瑞众人寿保险有限责任公司-万能产品",
+    "hold_num": 82798900,
+    "hold_ratio": 0.29,
+    "hold_num_change": null
+   },
+   {
+    "rank": 9,
+    "name": "基本养老保险基金二零零四组合",
+    "hold_num": 72197700,
+    "hold_ratio": 0.25,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "华泰优逸五号混合型养老金产品-中国银行股份有限公司",
+    "hold_num": 67900685,
+    "hold_ratio": 0.24,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 585454,
+  "holder_num_change_pct": 1.88,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 4.86,
+  "northbound_ratio": 1.07,
+  "executives": [
+   {
+    "name": "孙永才",
+    "title": "董事长",
+    "pay": 1088200.0
+   },
+   {
+    "name": "王锋",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "王健",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.11,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.18,
+    "total_amount": 5165795535.84,
+    "payout_ratio": 50.14,
+    "dividend_yield": 3.5,
+    "ex_date": "2022-08-12"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.2,
+    "total_amount": 5739772817.6,
+    "payout_ratio": 49.25,
+    "dividend_yield": 3.03,
+    "ex_date": "2023-08-11"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.2,
+    "total_amount": 5739772817.6,
+    "payout_ratio": 49.01,
+    "dividend_yield": 2.61,
+    "ex_date": "2024-08-14"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.21,
+    "total_amount": 6026761458.48,
+    "payout_ratio": 48.65,
+    "dividend_yield": 2.79,
+    "ex_date": "2025-08-14"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.23,
+    "total_amount": 6600738740.24,
+    "payout_ratio": 50.08,
+    "dividend_yield": 1.73,
+    "ex_date": "2025-11-20"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 29272841369.76,
+  "cum_netprofit_5y": 59236420000.0,
+  "payout_5y": 49.42,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "688187.SH",
+   "688009.SH",
+   "688836.SH",
+   "688808.SH"
+  ],
+  "segments": [
+   {
+    "name": "铁路装备",
+    "revenue": 123607683000.0,
+    "ratio": 45.27,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "新产业",
+    "revenue": 103120841000.0,
+    "ratio": 37.76,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "城轨与城市基础设施",
+    "revenue": 42089769000.0,
+    "ratio": 15.41,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "现代服务",
+    "revenue": 4244805000.0,
+    "ratio": 1.55,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "中国大陆",
+    "revenue": 238241828000.0,
+    "ratio": 87.25,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他国家或地区",
+    "revenue": 34821270000.0,
+    "ratio": 12.75,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "中国中车H股市场公告",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597247.PDF",
+    "type": null
+   },
+   {
+    "title": "中国中车2026年半年度权益分派实施公告",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225596580.PDF",
+    "type": null
+   },
+   {
+    "title": "中国中车H股市场公告",
+    "date": "2026-10-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225590316.PDF",
+    "type": null
+   },
+   {
+    "title": "中国中车关于召开2026年半年度业绩说明会的公告",
+    "date": "2026-09-02",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-02/1225541251.PDF",
+    "type": null
+   },
+   {
+    "title": "中国中车H股市场公告",
+    "date": "2026-09-02",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-02/1225541248.PDF",
+    "type": null
+   },
+   {
+    "title": "中国中车2026年半年度报告",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482702.PDF",
+    "type": null
+   },
+   {
+    "title": "中国中车股份有限公司关于中车财务有限公司风险持续评估报告-20260819",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482700.PDF",
+    "type": null
+   },
+   {
+    "title": "中国中车董事会审计与风险管理委员会工作办法",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482696.PDF",
+    "type": null
+   },
+   {
+    "title": "CRRC 2026 ACTION PLAN FOR “ENHANCING QUALITY, INCREASING EFFICIENCY AND EMPHASIZING RETURNS”",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482687.PDF",
+    "type": null
+   },
+   {
+    "title": "中国中车2026年半年度报告摘要",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482686.PDF",
+    "type": null
+   },
+   {
+    "title": "中国中车董事会秘书工作规则",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482681.PDF",
+    "type": null
+   },
+   {
+    "title": "中国中车第四届董事会第十一次会议决议公告",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482679.PDF",
+    "type": null
+   },
+   {
+    "title": "中国中车2026年度“提质增效重回报”行动方案",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482677.PDF",
+    "type": null
+   },
+   {
+    "title": "中国中车2026年半年度利润分配方案的公告",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482675.PDF",
+    "type": null
+   },
+   {
+    "title": "中国中车2025年年度权益分派实施公告",
+    "date": "2026-08-06",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-06/1225459980.PDF",
+    "type": null
+   },
+   {
+    "title": "中国中车H股市场公告",
+    "date": "2026-08-05",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-05/1225457784.PDF",
+    "type": null
+   },
+   {
+    "title": "中国中车H股市场公告",
+    "date": "2026-08-05",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-05/1225457772.PDF",
+    "type": null
+   },
+   {
+    "title": "中国中车关于控股股东增持股份计划进展暨首次增持公司股份的公告",
+    "date": "2026-07-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-29/1225444409.PDF",
+    "type": null
+   },
+   {
+    "title": "中国中车控股股东增持股份计划公告",
+    "date": "2026-07-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-20/1225431552.PDF",
+    "type": null
+   },
+   {
+    "title": "中国中车H股市场公告",
+    "date": "2026-07-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-03/1225406077.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 109
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "请问超级铜什么时候可以量产。",
+    "answer": "尊敬的投资者，感谢您对公司的关注。超级铜已完成中试验证工作，量产尚没有时间表。谢谢！",
+    "ask_date": "2026-04-14",
+    "answer_date": "2026-05-25",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1766"
+   },
+   {
+    "question": "阳光电源凭借逆变器和储能，市值超越你们。你们不是也有逆变器吗，怎么样",
+    "answer": "尊敬的投资者，感谢您对公司的关注。光伏逆变器是公司新产业业务的细分方向之一。谢谢！",
+    "ask_date": "2026-03-30",
+    "answer_date": "2026-05-25",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1766"
+   },
+   {
+    "question": "停电了，没有应急措施通风散热吗。这么先进的中车这种简单常规问题解决不了吗",
+    "answer": "尊敬的投资者，感谢您对公司的关注。动车组设有蓄电池系统，在停电的情况下给列车提供应急电力，保障应急照明通讯设备、应急通风装置、以及其它关键设备的应急供电。谢谢！",
+    "ask_date": "2026-03-30",
+    "answer_date": "2026-05-25",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1766"
+   },
+   {
+    "question": "你们在储能领域定位是什么，业绩如何？",
+    "answer": "尊敬的投资者，感谢您对公司的关注。公司秉持“市场的同心多元”与“技术的同心多元”原则拓展新产业业务，储能业务是公司重点布局的新产业业务之一。2025年公司储能业务快速发展，装机规模和新签订单均有较好增长。谢谢！",
+    "ask_date": "2026-03-12",
+    "answer_date": "2026-05-25",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1766"
+   },
+   {
+    "question": "请问公司有没有人均创利人均效能等考核指标，现在都大力推动智能生产无人工厂，公司有17万人，怎么才能增加人均效能？机器干活人看着是不是也是人力资源的一种浪费",
+    "answer": "尊敬的投资者，感谢您对公司的关注。公司一直重视劳效提升，深入推进组织机构改革、定岗定编优员优效市场化经营机制改革等行动，近年来全员劳动生产率持续稳步提升。谢谢！",
+    "ask_date": "2026-03-12",
+    "answer_date": "2026-05-25",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1766"
+   },
+   {
+    "question": "你好 请问贵司今年会否推出新一期的股权激励",
+    "answer": "尊敬的投资者，感谢您对公司的关注。公司将综合考量国有控股上市公司相关激励政策与自身实际情况，适时适机统筹运用好相关中长期激励工具，充分调动公司核心管理人员和技术骨干的积极性和创造性，更好的吸引和留住人才。谢谢！",
+    "ask_date": "2026-03-10",
+    "answer_date": "2026-05-25",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1766"
+   },
+   {
+    "question": "请问当前的股东人数是多少？",
+    "answer": "尊敬的投资者，感谢您对公司的关注。截至2026年3月末，公司A股股东户数为572,708户，H股登记股东户数1,967户。谢谢！",
+    "ask_date": "2026-03-02",
+    "answer_date": "2026-05-25",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1766"
+   },
+   {
+    "question": "你好中国中车董秘，请问，公司是否属于投资者眼中的老登股，还是十五五新形势下新质生产力的典范？如果符合新质生产力，那么体现在哪些方面？公司不是也有半导体、机器人、新能源业务吗？麻烦董秘回答一下大家的关切",
+    "answer": "尊敬的投资者，感谢您对公司的关注。中国中车是全球规模领先、品种齐全、技术一流的高端装备制造商和系统解决方案提供商。面向“十五五”，公司将继续坚持价值创造、创新引领、改革赋能，推动科技创新与产业创新的深度融合，以新质生产力助力轨道交通装备产业升级、战略新兴产业培育。在轨道交通装备产业升级方面，中车积极推动绿色低碳产品和技术研发，新能源机车等产品将在铁路装备“以旧换新”中发挥积极作用，永磁牵引系统、碳化硅变流、二氧化碳空调等技术将用于城轨装备全面绿色转型；在战略新兴产业培育方面，中车积极布局“风、光、储、氢”等清洁能源装备产业，形成了新的产业集群。谢谢！",
+    "ask_date": "2026-02-11",
+    "answer_date": "2026-02-12",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1766"
+   }
+  ],
+  "count_12m": null
+ }
+}

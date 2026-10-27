@@ -1,0 +1,646 @@
+{
+ "identity": {
+  "code": "003816",
+  "exchange": "SZ",
+  "board": "主板",
+  "name_full": "中国广核电力股份有限公司",
+  "name_abbr": "中国广核",
+  "aliases": [
+   "zggh"
+  ],
+  "name_en": "CGN Power Co., Ltd.",
+  "pinyin_abbr": "ZGGH",
+  "former_names": [],
+  "industry_sw1": "公用事业",
+  "industry_sw2": "电力",
+  "list_date": "2019-08-26",
+  "province": "广东",
+  "city": "深圳",
+  "website": "www.cgnp.com.cn",
+  "chairman": "杨长利",
+  "employees": 22928,
+  "business_summary": "建设、运营及管理核电站,销售该等核电站所发电力,组织开发核电站的设计及科研工作",
+  "profile": "中国广核电力股份有限公司(中广核电力)控股股东为国务院国资委监管的中国广核集团有限公司(中国广核集团),公司于2014年3月25日成立,2014年12月10日于香港联交所主板上市(代码1816.HK),2019年8月26日在深圳证券交易所上市(代码003816.SZ)。中广核电力是中国广核集团核能发电的唯一平台,业务主要包括:建设、运营及管理核电站,销售该等核电站所发电力,组织开发核电站的设计及科研工作。我们致力于核能发电为主的电力供应和服务,以安全第一、质量第一、追求卓越为基本原则,为客户、股东、员工和社会创造最佳利益,努力成为具有国际竞争力的世界一流核能企业。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 4.54,
+  "change_pct": -0.22,
+  "total_mv": 229264662371.94,
+  "float_mv": 178581804871.94,
+  "total_shares": 50498824311,
+  "float_shares": 39335199311,
+  "pe_ttm": 23.1,
+  "pe_static": 23.48,
+  "pb": 1.85,
+  "ps_ttm": 3.06,
+  "turnover_rate": 0.35,
+  "amount": 618965979.64,
+  "high_52w": 4.85,
+  "low_52w": 3.65,
+  "ytd_return": 23.57,
+  "return_1y": 14.53,
+  "return_3y": 63.02,
+  "dividend_yield": 1.89,
+  "index_members": [
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 80678744757.95,
+    "revenue_yoy": 14.3,
+    "net_profit": 9764174706.56,
+    "net_profit_yoy": 2.11,
+    "net_profit_deducted": 9761488469.55,
+    "gross_margin": 33.2,
+    "net_margin": 19.49,
+    "selling_expense_ratio": 0.1,
+    "admin_expense_ratio": 3.01,
+    "finance_expense_ratio": 7.93,
+    "rd_expense": 1753035238.82,
+    "rd_ratio": 2.17,
+    "eps": 0.19,
+    "bvps": 2.0,
+    "roe": 9.99,
+    "roa": 3.97,
+    "total_assets": 400032873123.47,
+    "total_liab": 249082576221.41,
+    "debt_ratio": 62.27,
+    "cash": 15827729811.43,
+    "receivables": 10851815965.2,
+    "inventory": 15248475732.06,
+    "goodwill": 419242673.32,
+    "interest_debt": 201696687425.6,
+    "equity_parent": 100942138459.49,
+    "ocf": 34911101289.22,
+    "capex": 14440815872.68,
+    "fcf": 20470285416.54,
+    "ocf_to_np": 3.58
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 82822403586.43,
+    "revenue_yoy": 2.66,
+    "net_profit": 9963793122.97,
+    "net_profit_yoy": 2.04,
+    "net_profit_deducted": 9768584804.34,
+    "gross_margin": 33.25,
+    "net_margin": 18.4,
+    "selling_expense_ratio": 0.06,
+    "admin_expense_ratio": 2.92,
+    "finance_expense_ratio": 7.96,
+    "rd_expense": 1869791343.35,
+    "rd_ratio": 2.26,
+    "eps": 0.2,
+    "bvps": 2.12,
+    "roe": 9.63,
+    "roa": 3.77,
+    "total_assets": 409015917715.6,
+    "total_liab": 251082965789.67,
+    "debt_ratio": 61.39,
+    "cash": 14840775400.46,
+    "receivables": 14937561118.67,
+    "inventory": 17775458321.06,
+    "goodwill": 419242673.32,
+    "interest_debt": 198519233677.74,
+    "equity_parent": 107026303523.98,
+    "ocf": 31368408488.65,
+    "capex": 11839683132.7,
+    "fcf": 19528725355.95,
+    "ocf_to_np": 3.15
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 82548643150.32,
+    "revenue_yoy": -0.33,
+    "net_profit": 10724570116.68,
+    "net_profit_yoy": 7.64,
+    "net_profit_deducted": 10551136279.32,
+    "gross_margin": 35.97,
+    "net_margin": 20.65,
+    "selling_expense_ratio": 0.05,
+    "admin_expense_ratio": 3.23,
+    "finance_expense_ratio": 6.86,
+    "rd_expense": 2419777159.85,
+    "rd_ratio": 2.93,
+    "eps": 0.21,
+    "bvps": 2.24,
+    "roe": 9.71,
+    "roa": 4.14,
+    "total_assets": 415250356776.35,
+    "total_liab": 249946409917.28,
+    "debt_ratio": 60.19,
+    "cash": 15740022846.16,
+    "receivables": 11826588472.45,
+    "inventory": 20572514378.57,
+    "goodwill": 419242673.32,
+    "interest_debt": 200460073156.2,
+    "equity_parent": 113235895167.53,
+    "ocf": 33119894272.61,
+    "capex": 14246096669.35,
+    "fcf": 18873797603.26,
+    "ocf_to_np": 3.09
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 78944669623.05,
+    "revenue_yoy": -4.37,
+    "net_profit": 10838120422.43,
+    "net_profit_yoy": 1.06,
+    "net_profit_deducted": 10737071201.57,
+    "gross_margin": 37.43,
+    "net_margin": 22.13,
+    "selling_expense_ratio": 0.06,
+    "admin_expense_ratio": 3.39,
+    "finance_expense_ratio": 6.5,
+    "rd_expense": 2442885957.1,
+    "rd_ratio": 3.09,
+    "eps": 0.21,
+    "bvps": 2.37,
+    "roe": 9.76,
+    "roa": 3.94,
+    "total_assets": 471532598501.26,
+    "total_liab": 288587857446.6,
+    "debt_ratio": 61.2,
+    "cash": 17026296200.85,
+    "receivables": 9107069903.3,
+    "inventory": 20350163780.15,
+    "goodwill": 419242673.32,
+    "interest_debt": 234434381685.41,
+    "equity_parent": 128585130656.3,
+    "ocf": 37505728041.7,
+    "capex": 31932774769.31,
+    "fcf": 5572953272.39,
+    "ocf_to_np": 3.46
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 75696558973.53,
+    "revenue_yoy": -4.11,
+    "net_profit": 9765358959.88,
+    "net_profit_yoy": -9.9,
+    "net_profit_deducted": 9113038280.87,
+    "gross_margin": 31.99,
+    "net_margin": 19.46,
+    "selling_expense_ratio": 0.05,
+    "admin_expense_ratio": 3.78,
+    "finance_expense_ratio": 5.98,
+    "rd_expense": 1916903471.42,
+    "rd_ratio": 2.53,
+    "eps": 0.19,
+    "bvps": 2.44,
+    "roe": 9.11,
+    "roa": 2.87,
+    "total_assets": 555902535308.32,
+    "total_liab": 364558754808.67,
+    "debt_ratio": 65.58,
+    "cash": 20860178926.86,
+    "receivables": 7241309605.93,
+    "inventory": 22490733455.71,
+    "goodwill": 419242673.32,
+    "interest_debt": 310982381356.1,
+    "equity_parent": 130246281372.34,
+    "ocf": 29970529392.01,
+    "capex": 34056772387.98,
+    "fcf": -4086242995.97,
+    "ocf_to_np": 3.07
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 31483287275.73,
+   "revenue_yoy": -2.76,
+   "net_profit": 6105080689.9,
+   "net_profit_yoy": 2.66,
+   "net_profit_deducted": 5576810234.74,
+   "gross_margin": 45.54,
+   "net_margin": 29.62,
+   "roe": 4.6,
+   "eps": 0.12,
+   "debt_ratio": 68.25,
+   "ocf": 13331884139.42
+  },
+  "derived": {
+   "revenue_cagr_3y": -2.95,
+   "net_profit_cagr_3y": -0.67,
+   "receivables_to_revenue": 9.57,
+   "goodwill_to_equity": 0.32
+  }
+ },
+ "shareholders": {
+  "controller": "国务院国有资产监督管理委员会",
+  "controlling_shareholder": "中国广核集团有限公司",
+  "controlling_ratio": 58.89,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "中国广核集团有限公司",
+    "hold_num": 29736876375,
+    "hold_ratio": 58.89,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "香港中央结算有限公司",
+    "hold_num": 7517191335,
+    "hold_ratio": 14.89,
+    "hold_num_change": 918872620
+   },
+   {
+    "rank": 3,
+    "name": "广东恒健投资控股有限公司",
+    "hold_num": 3403696779,
+    "hold_ratio": 6.74,
+    "hold_num_change": -24815721
+   },
+   {
+    "rank": 4,
+    "name": "中信证券股份有限公司",
+    "hold_num": 2382682768,
+    "hold_ratio": 4.72,
+    "hold_num_change": -113853331
+   },
+   {
+    "rank": 5,
+    "name": "中国核工业集团有限公司",
+    "hold_num": 1679971125,
+    "hold_ratio": 3.32,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "中国平安人寿保险股份有限公司-自有资金",
+    "hold_num": 1296458200,
+    "hold_ratio": 2.57,
+    "hold_num_change": 870493900
+   },
+   {
+    "rank": 7,
+    "name": "BlackRock, Inc.",
+    "hold_num": 840541263,
+    "hold_ratio": 1.66,
+    "hold_num_change": -50107692
+   },
+   {
+    "rank": 8,
+    "name": "平安资管-工商银行-平安资产夏荷21号资产管理产品",
+    "hold_num": 267514900,
+    "hold_ratio": 0.53,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "中国建设银行股份有限公司-广发中证全指电力公用事业交易型开放式指数证券投资基金",
+    "hold_num": 74998449,
+    "hold_ratio": 0.15,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "中国平安人寿保险股份有限公司-万能-个险万能",
+    "hold_num": 56233300,
+    "hold_ratio": 0.11,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 215600,
+  "holder_num_change_pct": -7.97,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 5.6,
+  "northbound_ratio": 14.89,
+  "executives": [
+   {
+    "name": "杨长利",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "庞松涛",
+    "title": "总经理",
+    "pay": 71000
+   },
+   {
+    "name": "尹恩刚",
+    "title": "董事会秘书",
+    "pay": 2020000
+   }
+  ],
+  "pledge_ratio_total": 1.58,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.084,
+    "total_amount": 4241883332.4,
+    "payout_ratio": 43.44,
+    "dividend_yield": 2.94,
+    "ex_date": "2022-07-07"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.087,
+    "total_amount": 4393379165.7,
+    "payout_ratio": 44.09,
+    "dividend_yield": 2.8,
+    "ex_date": "2023-07-07"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.094,
+    "total_amount": 4746869443.4,
+    "payout_ratio": 44.26,
+    "dividend_yield": 1.87,
+    "ex_date": "2024-07-10"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.095,
+    "total_amount": 4797368054.5,
+    "payout_ratio": 44.26,
+    "dividend_yield": 2.55,
+    "ex_date": "2025-07-03"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.086,
+    "total_amount": 4342897290.63,
+    "payout_ratio": 44.47,
+    "dividend_yield": 2.19,
+    "ex_date": "2026-07-10"
+   }
+  ],
+  "consecutive_years": 5,
+  "cum_dividend_5y": 22522397286.63,
+  "cum_netprofit_5y": 51056017328.52,
+  "payout_5y": 44.11,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [
+   "600900.SH",
+   "601985.SH",
+   "600025.SH",
+   "600930.SH"
+  ],
+  "segments": [
+   {
+    "name": "销售电力",
+    "revenue": 61757114162.94,
+    "ratio": 81.59,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "建筑安装和设计服务",
+    "revenue": 11341026494.18,
+    "ratio": 14.98,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "提供劳务",
+    "revenue": 1429207611.82,
+    "ratio": 1.89,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "商品销售及其他",
+    "revenue": 951644082.51,
+    "ratio": 1.26,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 217566622.08,
+    "ratio": 0.29,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "境内",
+    "revenue": 69214369465.7,
+    "ratio": 91.44,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "境外",
+    "revenue": 6482189507.83,
+    "ratio": 8.56,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "关于2026年第三季度运营情况的公告",
+    "date": "2026-10-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225602719.PDF",
+    "type": null
+   },
+   {
+    "title": "关于对外投资设立合资公司的进展公告",
+    "date": "2026-10-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-10/1225598498.PDF",
+    "type": null
+   },
+   {
+    "title": "关于2026年第三季度可转债转股结果暨股份变动公告",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225596670.PDF",
+    "type": null
+   },
+   {
+    "title": "境内同步披露公告-截至二零二六年九月三十日止股份发行人的证券变动月报表",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225596669.PDF",
+    "type": null
+   },
+   {
+    "title": "第四届董事会第二十三次会议决议公告",
+    "date": "2026-09-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225581556.PDF",
+    "type": null
+   },
+   {
+    "title": "关于对外投资设立合资公司的公告",
+    "date": "2026-09-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225581555.PDF",
+    "type": null
+   },
+   {
+    "title": "关于公司2026年度第九期及第十期中期票据发行完成的公告",
+    "date": "2026-09-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225578629.PDF",
+    "type": null
+   },
+   {
+    "title": "关于董事会延期换届的公告",
+    "date": "2026-09-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-19/1225571979.PDF",
+    "type": null
+   },
+   {
+    "title": "关于公司2026年度第七期及第八期中期票据发行完成的公告",
+    "date": "2026-09-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-18/1225570005.PDF",
+    "type": null
+   },
+   {
+    "title": "关于招远2号机组即将开始全面建设的公告",
+    "date": "2026-09-05",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-05/1225548763.PDF",
+    "type": null
+   },
+   {
+    "title": "境内同步披露公告-截至二零二六年八月三十一日止股份发行人的证券变动月报表",
+    "date": "2026-09-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225543928.PDF",
+    "type": null
+   },
+   {
+    "title": "境内同步披露公告-2026年中期报告",
+    "date": "2026-09-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-01/1225537018.PDF",
+    "type": null
+   },
+   {
+    "title": "关于会计政策变更的公告",
+    "date": "2026-08-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225503737.PDF",
+    "type": null
+   },
+   {
+    "title": "关于公司2026年度第五期及第六期中期票据发行完成的公告",
+    "date": "2026-08-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225503736.PDF",
+    "type": null
+   },
+   {
+    "title": "第四届董事会第二十二次会议决议公告",
+    "date": "2026-08-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225503735.PDF",
+    "type": null
+   },
+   {
+    "title": "中广核财务有限责任公司风险评估报告",
+    "date": "2026-08-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225503734.PDF",
+    "type": null
+   },
+   {
+    "title": "中国广核电力股份有限公司自2026年1月1日至2026年6月30日止期间财务报表及审阅报告",
+    "date": "2026-08-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225503733.PDF",
+    "type": null
+   },
+   {
+    "title": "中国广核电力股份有限公司2026年半年度非经营性资金占用及其他关联资金往来情况汇总表",
+    "date": "2026-08-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225503732.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度报告",
+    "date": "2026-08-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225503731.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度报告摘要",
+    "date": "2026-08-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225503730.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 157
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "尊敬的尹董秘，您好！作为企业在二级市场的坚定投资者，我对我国目前的核电发展未来前景充满期待，我想下基层到项目去做调研，领略“华龙一号”作为“大国重器”的创新底气与之作为“国家名片”的战略远见。请问可以通过什么方式与你们取得联系？",
+    "answer": "您好！您可以通过投资者热线0755-84430888联系公司投关团队，谢谢关注。",
+    "ask_date": "2026-10-19",
+    "answer_date": "2026-10-21",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2385326560543899648"
+   },
+   {
+    "question": "董秘您好，此前回复称未与亚信科技合作，可公开信息查得中广核旗下广宁广北风电场由亚信科技与中国广电共同构建5G专网系统，是否属实？再确认其是否有大幅降本增效？是否可以复制到公司其它地区业务？",
+    "answer": "您好！公司主要业务是建设、运营及管理核电站，核电站电力销售，组织开发核电站的设计及科研工作，暂不涉及风电业务。中广核广宁广北风电厂属于控股股东下属相关新能源公司资产。谢谢关注。",
+    "ask_date": "2026-09-18",
+    "answer_date": "2026-09-21",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2361997457826197504"
+   },
+   {
+    "question": "董秘您好，请问贵司与亚信科技在5G专网方面的合作是一次性项目制还是长期由对方负责运维的持续合作？是否有大幅降低运营成本、显著提高效率？亚信科技另有整套AI数智运营平台，贵司是否会有相关合作以进一步降本增效？",
+    "answer": "您好！公司未开展相关合作。谢谢关注。",
+    "ask_date": "2026-09-15",
+    "answer_date": "2026-09-17",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2359799671521226752"
+   },
+   {
+    "question": "董秘您好，请问贵司与亚信科技在5G专网运营方面合作是一次性项目制还是长期由对方负责运维的持续合作？是否有大幅降低运营成本、显著提高效率？亚信科技另有整套AI数智运营平台，贵司是否有相关合作？",
+    "answer": "您好！公司并未开展相关合作。谢谢关注。",
+    "ask_date": "2026-09-14",
+    "answer_date": "2026-09-16",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2359042236832043008"
+   },
+   {
+    "question": "贵公司 2026 年半年度报告披露，苍南 1 号机组于 2026 年 4 月 29 日投入商业运营，报告期上网电量 16.66 亿千瓦时，同期该机组负荷因子 98.32%、利用小时数 4,275 小时；惠州 1 号机组于 4 月 19 日商运，上网电量 17.61 亿千瓦时，负荷因子 89.64%、利用小时数 3,894 小时。按商业运营日至 6 月 30 日的可用小时数测算（分别约 1,488",
+    "answer": "您好！发电机组利用小时数=机组发电量/机组装机容量，对新投产机组，装机容量需要根据投产当年实际商运天数进行折算。因此，惠州1号机组及苍南1号机组利用小时数均高于商运日至6月30日的实际小时数。谢谢关注。",
+    "ask_date": "2026-08-26",
+    "answer_date": "2026-08-27",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2344788442855063552"
+   },
+   {
+    "question": "董秘您好。公司2026年半年度资金占用汇总表中，中核二三同时列为＂受同一方控制＂（其他非流动资产期末10.56亿元）与＂联营企业＂。其控股股东为中国核建，中广核集团仅持股12.85%非控制方，且2025年同表仅列＂联营企业＂。请说明：认定＂受同一方控制＂的依据？两类冲突关联关系是否指向同一余额、有无重复列示？新增10.56亿元是否由上期预付款项重分类？谢谢！",
+    "answer": "您好！公司2026年上半年增加了与中核二三公司(属于其他关联方及其附属企业)有关的其他非流动资产科目，原因在于预付款重分类；经核实，汇总表中没有同一金额重复列示的情况。谢谢关注。",
+    "ask_date": "2026-08-25",
+    "answer_date": "2026-08-27",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2344514028777476096"
+   },
+   {
+    "question": "你好，大多央企都在回购增持，请问你们什么时候回购股票？",
+    "answer": "您好！公司已于2025年度股东大会例行申请回购股份的一般性授权，后续将综合资本市场表现、公司实际情况等因素择机开展股份回购。谢谢关注。",
+    "ask_date": "2026-08-21",
+    "answer_date": "2026-08-24",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2341122164407767040"
+   },
+   {
+    "question": "近期看到新闻，广东多家售电公司联合要求部分国有发电企业支付线下返利。 请问 1.公司在广东的2026年的实际年度长协电价是否为372元/兆瓦时。 2.此次事件对公司有影响吗。 3.2026年大量售电公司通过低价抢占市场最终导致大量亏损，会导致2026年年度长协电价上涨吗。",
+    "answer": "您好！根据广东省2026年电力市场交易方案，广东省年度交易价格下限为372元/兆瓦时，公司已于2025年末完成2026年年度长协签约，签约价格约372元/兆瓦时，公司将按照交易方案要求及已签约的相关合同约定继续执行。谢谢关注。",
+    "ask_date": "2026-08-18",
+    "answer_date": "2026-08-19",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2338867804814577664"
+   }
+  ],
+  "count_12m": null
+ }
+}

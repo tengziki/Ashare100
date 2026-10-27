@@ -1,0 +1,627 @@
+{
+ "identity": {
+  "code": "688041",
+  "exchange": "SH",
+  "board": "科创板",
+  "name_full": "海光信息技术股份有限公司",
+  "name_abbr": "海光信息",
+  "aliases": [
+   "hgxx"
+  ],
+  "name_en": "Hygon Information Technology Co., Ltd.",
+  "pinyin_abbr": "HGXX",
+  "former_names": [],
+  "industry_sw1": "电子",
+  "industry_sw2": "半导体",
+  "list_date": "2022-08-12",
+  "province": "天津",
+  "city": "天津",
+  "website": "www.hygon.cn",
+  "chairman": "历军",
+  "employees": 3333,
+  "business_summary": "研发、设计和销售应用于服务器、工作站等计算、存储设备中的高端处理器",
+  "profile": "海光信息技术股份有限公司成立于2014年,主要从事高端处理器、加速器等计算芯片产品和系统的研究、开发,目标成为世界一流的芯片企业,为数字中国提供核心计算引擎。作为国产先进微处理器产业的推动者,海光信息以务实的态度、创新的理念、先进的技术和可靠的产品,致力于促进我国信息产业核心竞争力的提升。海光处理器兼容市场主流的x86指令集,具有成熟而丰富的应用生态环境。海光处理器内置专用安全硬件,支持多种先进的漏洞防御技术,内置高性能的国密协处理器和密码指令集,支持可信计算的国内、国际标准,支持领先的机密计算技术,能够进行主动安全防御,通过了相关权威机构的安全测试,满足信息安全、数据要素安全流通的发展需求。面向企业计算、云计算数据中心、大数据分析、人工智能、边缘计算等众多领域,海光信息提供了多种形态的海光处理器芯片,满足互联网、电信、金融、交通、能源、中小企业等行业的广泛应用需求。未来,海光信息将根据客户的应用需求进一步优化处理器,采用先进半导体工艺研发更多具有市场竞争力的芯片产品。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 191.02,
+  "change_pct": -1.18,
+  "total_mv": 443995062142.82,
+  "float_mv": 443995062142.82,
+  "total_shares": 2324338091,
+  "float_shares": 2324338091,
+  "pe_ttm": 129.45,
+  "pe_static": 174.47,
+  "pb": 16.8,
+  "ps_ttm": 22.38,
+  "turnover_rate": 0.86,
+  "amount": 3828574185.0,
+  "high_52w": 395.17,
+  "low_52w": 186.0,
+  "ytd_return": -14.79,
+  "return_1y": -20.92,
+  "return_3y": 225.41,
+  "dividend_yield": 0.13,
+  "index_members": [
+   "上证50",
+   "沪深300",
+   "中证A500",
+   "科创50"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 2310415312.15,
+    "revenue_yoy": 126.07,
+    "net_profit": 327109490.76,
+    "net_profit_yoy": 935.65,
+    "net_profit_deducted": 265460641.44,
+    "gross_margin": 55.95,
+    "net_margin": 18.94,
+    "selling_expense_ratio": 2.25,
+    "admin_expense_ratio": 3.91,
+    "finance_expense_ratio": -0.51,
+    "rd_expense": 744669407.12,
+    "rd_ratio": 32.23,
+    "eps": 0.16,
+    "bvps": 2.67,
+    "roe": 6.41,
+    "roa": 4.49,
+    "total_assets": 10457352167.99,
+    "total_liab": 4195866163.48,
+    "debt_ratio": 40.12,
+    "cash": 1960087772.28,
+    "receivables": 272559695.74,
+    "inventory": 1124384345.42,
+    "goodwill": null,
+    "interest_debt": 1305735429.95,
+    "equity_parent": 5405696892.24,
+    "ocf": 597981996.17,
+    "capex": 752547313.13,
+    "fcf": -154565316.96,
+    "ocf_to_np": 1.83
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 5125266686.59,
+    "revenue_yoy": 121.83,
+    "net_profit": 803698128.25,
+    "net_profit_yoy": 145.7,
+    "net_profit_deducted": 748622856.83,
+    "gross_margin": 52.42,
+    "net_margin": 21.95,
+    "selling_expense_ratio": 1.58,
+    "admin_expense_ratio": 2.63,
+    "finance_expense_ratio": -1.73,
+    "rd_expense": 1413592078.59,
+    "rd_ratio": 27.58,
+    "eps": 0.38,
+    "bvps": 7.34,
+    "roe": 8.49,
+    "roa": 6.95,
+    "total_assets": 21934487694.4,
+    "total_liab": 3704308413.36,
+    "debt_ratio": 16.89,
+    "cash": 11207910325.69,
+    "receivables": 970671691.02,
+    "inventory": 1095268681.7,
+    "goodwill": null,
+    "interest_debt": 1113029205.91,
+    "equity_parent": 17053149859.87,
+    "ocf": -43255599.33,
+    "capex": 1381401255.92,
+    "fcf": -1424656855.25,
+    "ocf_to_np": -0.05
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 6011998991.03,
+    "revenue_yoy": 17.3,
+    "net_profit": 1263178600.37,
+    "net_profit_yoy": 57.17,
+    "net_profit_deducted": 1136358033.6,
+    "gross_margin": 59.67,
+    "net_margin": 28.3,
+    "selling_expense_ratio": 1.85,
+    "admin_expense_ratio": 2.23,
+    "finance_expense_ratio": -4.43,
+    "rd_expense": 1992422100.78,
+    "rd_ratio": 33.14,
+    "eps": 0.54,
+    "bvps": 8.05,
+    "roe": 7.11,
+    "roa": 7.59,
+    "total_assets": 22902547952.79,
+    "total_liab": 2582427563.85,
+    "debt_ratio": 11.28,
+    "cash": 10321487491.79,
+    "receivables": 1490810565.69,
+    "inventory": 1074129712.66,
+    "goodwill": null,
+    "interest_debt": 1284737078.78,
+    "equity_parent": 18705083962.67,
+    "ocf": 813705258.76,
+    "capex": 918113300.67,
+    "fcf": -104408041.91,
+    "ocf_to_np": 0.64
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 9162148135.92,
+    "revenue_yoy": 52.4,
+    "net_profit": 1930990510.51,
+    "net_profit_yoy": 52.87,
+    "net_profit_deducted": 1815777649.92,
+    "gross_margin": 63.72,
+    "net_margin": 29.65,
+    "selling_expense_ratio": 1.92,
+    "admin_expense_ratio": 1.55,
+    "finance_expense_ratio": -1.99,
+    "rd_expense": 2910003455.21,
+    "rd_ratio": 31.76,
+    "eps": 0.83,
+    "bvps": 8.71,
+    "roe": 9.92,
+    "roa": 10.56,
+    "total_assets": 28559492036.59,
+    "total_liab": 5907529891.71,
+    "debt_ratio": 20.68,
+    "cash": 8797388047.45,
+    "receivables": 2275297346.91,
+    "inventory": 5425282266.87,
+    "goodwill": null,
+    "interest_debt": 2902119057.52,
+    "equity_parent": 20250959179.95,
+    "ocf": 977081091.31,
+    "capex": 945249705.02,
+    "fcf": 31831386.29,
+    "ocf_to_np": 0.51
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 14376889476.95,
+    "revenue_yoy": 56.92,
+    "net_profit": 2544890905.62,
+    "net_profit_yoy": 31.79,
+    "net_profit_deducted": 2304668898.5,
+    "gross_margin": 57.83,
+    "net_margin": 25.17,
+    "selling_expense_ratio": 4.4,
+    "admin_expense_ratio": 0.93,
+    "finance_expense_ratio": -1.22,
+    "rd_expense": 4145328307.4,
+    "rd_ratio": 28.83,
+    "eps": 1.1,
+    "bvps": 9.68,
+    "roe": 11.87,
+    "roa": 11.27,
+    "total_assets": 35638165817.46,
+    "total_liab": 9669769257.43,
+    "debt_ratio": 27.13,
+    "cash": 8873660235.75,
+    "receivables": 4033794964.38,
+    "inventory": 6406063056.89,
+    "goodwill": null,
+    "interest_debt": 4464983814.21,
+    "equity_parent": 22493222807.4,
+    "ocf": 2096939063.47,
+    "capex": 1169990765.56,
+    "fcf": 926948297.91,
+    "ocf_to_np": 0.82
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 9099020774.81,
+   "revenue_yoy": 66.52,
+   "net_profit": 1798467918.03,
+   "net_profit_yoy": 49.69,
+   "net_profit_deducted": 1631411695.35,
+   "gross_margin": 55.21,
+   "net_margin": 22.69,
+   "roe": 7.56,
+   "eps": 0.78,
+   "debt_ratio": 19.2,
+   "ocf": -427541001.36
+  },
+  "derived": {
+   "revenue_cagr_3y": 41.03,
+   "net_profit_cagr_3y": 46.84,
+   "receivables_to_revenue": 28.06,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "无实际控制人",
+  "controlling_shareholder": "曙光信息产业股份有限公司",
+  "controlling_ratio": 27.96,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "曙光信息产业股份有限公司",
+    "hold_num": 649900000,
+    "hold_ratio": 27.96,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "天津海富天鼎科技合伙企业(有限合伙)",
+    "hold_num": 251194546,
+    "hold_ratio": 10.81,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "成都产业投资集团有限公司",
+    "hold_num": 167600000,
+    "hold_ratio": 7.21,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "成都高新投资集团有限公司",
+    "hold_num": 137600000,
+    "hold_ratio": 5.92,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "成都蓝海轻舟企业管理合伙企业(有限合伙)",
+    "hold_num": 129866364,
+    "hold_ratio": 5.59,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "成都高新集萃科技有限公司",
+    "hold_num": 90000000,
+    "hold_ratio": 3.87,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "李金阳",
+    "hold_num": 65732946,
+    "hold_ratio": 2.83,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "香港中央结算有限公司",
+    "hold_num": 59006591,
+    "hold_ratio": 2.54,
+    "hold_num_change": 1797598
+   },
+   {
+    "rank": 9,
+    "name": "招商银行股份有限公司-华夏上证科创板50成份交易型开放式指数证券投资基金",
+    "hold_num": 28510876,
+    "hold_ratio": 1.23,
+    "hold_num_change": 13713057
+   },
+   {
+    "rank": 10,
+    "name": "国新投资有限公司",
+    "hold_num": 21209636,
+    "hold_ratio": 0.91,
+    "hold_num_change": 6185820
+   }
+  ],
+  "holder_num": 127221,
+  "holder_num_change_pct": -4.47,
+  "holder_num_date": "2026-09-30",
+  "inst_hold_ratio": 11.63,
+  "northbound_ratio": 2.54,
+  "executives": [
+   {
+    "name": "历军",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "沙超群",
+    "title": "总经理",
+    "pay": 1809500.0
+   },
+   {
+    "name": "徐文超",
+    "title": "董事会秘书",
+    "pay": 1509600.0
+   }
+  ],
+  "pledge_ratio_total": 0.0,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": 0.0,
+    "dividend_yield": 0.0,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.04,
+    "total_amount": 92973523.64,
+    "payout_ratio": 11.57,
+    "dividend_yield": 0.05,
+    "ex_date": "2023-06-15"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.1101,
+    "total_amount": 255909623.82,
+    "payout_ratio": 20.26,
+    "dividend_yield": 0.15,
+    "ex_date": "2024-06-18"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.17,
+    "total_amount": 395137475.47,
+    "payout_ratio": 20.46,
+    "dividend_yield": 0.12,
+    "ex_date": "2025-05-16"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.24,
+    "total_amount": 557841141.84,
+    "payout_ratio": 21.92,
+    "dividend_yield": 0.04,
+    "ex_date": "2026-01-29"
+   }
+  ],
+  "consecutive_years": 4,
+  "cum_dividend_5y": 1301861764.77,
+  "cum_netprofit_5y": 6869867635.51,
+  "payout_5y": 18.95,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [
+   "688825.SH",
+   "688981.SH",
+   "688256.SH",
+   "002371.SZ"
+  ],
+  "segments": [
+   {
+    "name": "高端处理器",
+    "revenue": 14361846484.49,
+    "ratio": 99.9,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 15042992.46,
+    "ratio": 0.1,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "境内(含港澳台地区)",
+    "revenue": 14361846484.49,
+    "ratio": 99.9,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 15042992.46,
+    "ratio": 0.1,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "海光信息技术股份有限公司2026年第三季度报告",
+    "date": "2026-10-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-20/1225611145.PDF",
+    "type": null
+   },
+   {
+    "title": "海光信息技术股份有限公司关于公司董事长提议回购股份的公告",
+    "date": "2026-10-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-19/1225609999.PDF",
+    "type": null
+   },
+   {
+    "title": "海光信息技术股份有限公司关于公司对外投资暨关联交易的公告",
+    "date": "2026-10-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607430.PDF",
+    "type": null
+   },
+   {
+    "title": "海光信息技术股份有限公司关于2026年前三季度业绩预告的自愿性披露公告",
+    "date": "2026-10-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607428.PDF",
+    "type": null
+   },
+   {
+    "title": "海光信息技术股份有限公司关于召开2026年第三季度业绩说明会的公告",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225604886.PDF",
+    "type": null
+   },
+   {
+    "title": "海光信息技术股份有限公司2026年第二次临时股东会决议公告",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225585704.PDF",
+    "type": null
+   },
+   {
+    "title": "海光信息技术股份有限公司关于董事会完成换届选举及聘任高级管理人员、证券事务代表的公告",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225585703.PDF",
+    "type": null
+   },
+   {
+    "title": "海光信息技术股份有限公司关于注销公司部分回购股份并减少注册资本暨通知债权人的公告",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225585702.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市中伦律师事务所关于海光信息技术股份有限公司2026年第二次临时股东会的法律意见书",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225585701.PDF",
+    "type": null
+   },
+   {
+    "title": "海光信息技术股份有限公司关于选举第三届董事会职工代表董事的公告",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225585698.PDF",
+    "type": null
+   },
+   {
+    "title": "海光信息技术股份有限公司2026年第二次临时股东会会议资料",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225574241.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市中伦律师事务所关于海光信息技术股份有限公司股票激励计划授予预留限制性股票相关事项的法律意见书",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225574230.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市中伦律师事务所关于海光信息技术股份有限公司股票激励计划授予预留限制性股票相关事项的法律意见书",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225574220.PDF",
+    "type": null
+   },
+   {
+    "title": "海光信息技术股份有限公司第二届董事会第二十六次会议决议公告",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225574204.PDF",
+    "type": null
+   },
+   {
+    "title": "海光信息技术股份有限公司董事会薪酬与考核委员会关于公司2025年限制性股票激励计划预留授予激励对象名单的审核意见（截至预留授予日）",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225574190.PDF",
+    "type": null
+   },
+   {
+    "title": "海光信息技术股份有限公司关于向2025年限制性股票激励计划激励对象授予预留限制性股票的公告",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225574163.PDF",
+    "type": null
+   },
+   {
+    "title": "海光信息技术股份有限公司关于调整2025年限制性股票激励计划授予价格的公告",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225574157.PDF",
+    "type": null
+   },
+   {
+    "title": "海光信息技术股份有限公司2025年限制性股票激励计划预留授予激励对象名单（截至预留授予日）",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225574151.PDF",
+    "type": null
+   },
+   {
+    "title": "海光信息技术股份有限公司关于董事会换届选举的公告",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225560808.PDF",
+    "type": null
+   },
+   {
+    "title": "海光信息技术股份有限公司关于修订《公司章程》并办理工商变更登记及修订部分公司治理制度的公告",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225560806.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 113
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "贵公司的董秘在此平台上回复问题非常缓慢，经常打三个月才回答一次，请问贵公司针对此类情况是否有改善方案？是否考虑更换董秘?",
+    "answer": "尊敬的投资者，您好！感谢您的关注！",
+    "ask_date": "2026-09-17",
+    "answer_date": "2026-09-29",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=257283"
+   },
+   {
+    "question": "已经三季度末了，请问贵公司的DCU产品深算四号是否已经量产，并开始交付？",
+    "answer": "尊敬的投资者，您好。深算四号研发进展顺利。感谢您的关注，谢谢！",
+    "ask_date": "2026-09-10",
+    "answer_date": "2026-09-29",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=257283"
+   },
+   {
+    "question": "請問把带有时间和姓名的股票交易软件持仓截图和身份证一并扫描发送至公司邮箱，可以获知 非定期报告相关时点的股东人数吗？盼你们具体，明确答复。顺祝健康，快乐 【比如截至到2026年8月20日贵公司的股东人数是多少?",
+    "answer": "尊敬的投资者，您好！截至2026年6月30日，持有公司股份的普通股股东总数(户)为133,170户。公司在定期报告中披露股东数量，感谢您的关注！",
+    "ask_date": "2026-08-25",
+    "answer_date": "2026-09-29",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=257283"
+   },
+   {
+    "question": "贵公司一直答复DCU深算四号进展顺利，请问深算四号顺利到具体哪一阶段？是否已经量产并交付客户？",
+    "answer": "尊敬的投资者，您好。深算四号研发进展顺利。感谢您的关注，谢谢！",
+    "ask_date": "2026-08-21",
+    "answer_date": "2026-09-29",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=257283"
+   },
+   {
+    "question": "公司在近一年应收账款为何增长这么多？库存量增加是提前备货吗？",
+    "answer": "尊敬的投资者，您好。公司业务增长较快，应收账款增长与公司业务规模扩张相匹配。公司主要客户资质良好，还款能力较强。存货方面，根据市场需求和在手以及预测订单情况，公司制定了备货计划，采取“产能规划、半成品备货”的策略，准备相应物料，制定排产计划，以满足市场需求，实现更大的市场份额。谢谢！",
+    "ask_date": "2026-07-30",
+    "answer_date": "2026-09-29",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=257283"
+   },
+   {
+    "question": "请问公司2026年上半年最新业绩预告什么时候发布？",
+    "answer": "尊敬的投资者，您好！公司2026年的上半年业绩情况已经披露，欢迎查阅相关公告。谢谢！",
+    "ask_date": "2026-07-15",
+    "answer_date": "2026-09-29",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=257283"
+   },
+   {
+    "question": "董秘您好。公司新一代通用处理器（CPU）和协处理器（DCU）的研发进度一直受到市场高度关注。请问目前最新一代产品的研发是否符合预期？是否已进入关键的商业化准备阶段？鉴于近期科创板市场波动剧烈，公司股价出现大幅回撤，管理层及大股东是否考虑实施股份回购或增持计划，以向市场传递对公司底层技术研发及长期价值的坚定信心？",
+    "answer": "尊敬的投资者，您好。新一代通用处理器与协处理器研发按计划推进，整体符合预期。二级市场股价受多重因素影响。如涉及股份回购、大股东增持等事项，公司将严格按照监管要求及时公告。公司将持续深耕技术研发，扎实经营，以长期价值回报投资者。",
+    "ask_date": "2026-07-13",
+    "answer_date": "2026-09-29",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=257283"
+   },
+   {
+    "question": "董秘您好。公司作为国产 CPU 和 DCU 的领军企业，前期充分受益于行业信息化建设的刚性需求。随着部分核心行业第一阶段示范性替换的推进，请问公司第二阶段面向更广泛的下沉市场及政企信息化升级时，目前的市场渗透率和订单能见度如何？在当前宏观环境下，公司将采取哪些措施来确保供应链成本控制与核心产品毛利率的稳定增长？",
+    "answer": "尊敬的投资者，您好。公司CPU、DCU持续拓展下沉政企信息化升级场景，市场渗透率稳步提升，订单能见度随行业项目推进持续改善；产品端依托技术迭代、规模化交付、光合生态建设等抓手，维持毛利率水平，相关经营数据请以定期报告为准。",
+    "ask_date": "2026-07-13",
+    "answer_date": "2026-09-29",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=257283"
+   }
+  ],
+  "count_12m": null
+ }
+}

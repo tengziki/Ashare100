@@ -1,0 +1,601 @@
+{
+ "identity": {
+  "code": "600025",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "华能澜沧江水电股份有限公司",
+  "name_abbr": "华能水电",
+  "aliases": [
+   "hnsd"
+  ],
+  "name_en": "Huaneng Lancang River Hydropower Inc.",
+  "pinyin_abbr": "HNSD",
+  "former_names": [],
+  "industry_sw1": "公用事业",
+  "industry_sw2": "电力",
+  "list_date": "2017-12-15",
+  "province": "云南",
+  "city": "昆明",
+  "website": "www.hnlcj.cn",
+  "chairman": "孙卫",
+  "employees": 5351,
+  "business_summary": "水力和新能源发电项目的开发、建设、运营与管理",
+  "profile": "华能澜沧江水电股份有限公司是由中国华能集团有限公司控股和管理的大型流域水电企业,是培育云南水电支柱产业和实施“西电东送”“云电外送”的核心企业和龙头企业,“藏电外送”的主要参与者。主要从事澜沧江流域及周边地区水电资源的开发与运营,积极开展太阳能光伏、风电等可再生能源建设运营,拥有大型水电工程建设和大规模水电站集群运营管理丰富经验,坚定不移实施“走出去”战略,参与周边国家清洁能源开发。华能澜沧江公司初建于1999年6月,作为华能集团水电业务最终整合的唯一平台,于2017年12月15日在上海证券交易所上市(股票简称“华能水电”,股票代码600025)。所辖企业有漫湾电厂、景洪电厂、小湾电厂、糯扎渡电厂、苗尾·功果桥电厂、黄登·大华桥电厂、乌弄龙·里底电厂、龙开口公司、能源销售公司、集控中心、国际能源公司、新能源公司等30余家基层单位。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 10.26,
+  "change_pct": -0.97,
+  "total_mv": 191155027076.82,
+  "float_mv": 191155027076.82,
+  "total_shares": 18631094257,
+  "float_shares": 18631094257,
+  "pe_ttm": 23.11,
+  "pe_static": 22.48,
+  "pb": 2.73,
+  "ps_ttm": 7.14,
+  "turnover_rate": 0.13,
+  "amount": 244082880.0,
+  "high_52w": 10.65,
+  "low_52w": 8.64,
+  "ytd_return": 15.61,
+  "return_1y": 4.53,
+  "return_3y": 47.31,
+  "dividend_yield": 2.0,
+  "index_members": [
+   "沪深300"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 20201630492.14,
+    "revenue_yoy": 4.93,
+    "net_profit": 5837544928.1,
+    "net_profit_yoy": 20.75,
+    "net_profit_deducted": 5377377181.91,
+    "gross_margin": 54.63,
+    "net_margin": 31.09,
+    "selling_expense_ratio": 0.19,
+    "admin_expense_ratio": 1.87,
+    "finance_expense_ratio": 16.71,
+    "rd_expense": 130652451.98,
+    "rd_ratio": 0.65,
+    "eps": 0.32,
+    "bvps": 3.07,
+    "roe": 9.4,
+    "roa": 3.86,
+    "total_assets": 160654274783.46,
+    "total_liab": 94427569009.57,
+    "debt_ratio": 58.78,
+    "cash": 1509775413.77,
+    "receivables": 1898603884.12,
+    "inventory": 44026773.02,
+    "goodwill": null,
+    "interest_debt": 81357677362.41,
+    "equity_parent": 64363538536.83,
+    "ocf": 16493973143.36,
+    "capex": 6019752964.2,
+    "fcf": 10474220179.16,
+    "ocf_to_np": 2.83
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 23580998432.01,
+    "revenue_yoy": 16.73,
+    "net_profit": 7234378068.82,
+    "net_profit_yoy": 23.93,
+    "net_profit_deducted": 6571210587.69,
+    "gross_margin": 55.71,
+    "net_margin": 33.77,
+    "selling_expense_ratio": 0.23,
+    "admin_expense_ratio": 2.16,
+    "finance_expense_ratio": 13.49,
+    "rd_expense": 184769623.64,
+    "rd_ratio": 0.78,
+    "eps": 0.37,
+    "bvps": 3.04,
+    "roe": 10.54,
+    "roa": 4.65,
+    "total_assets": 181631020380.19,
+    "total_liab": 106525914149.48,
+    "debt_ratio": 58.65,
+    "cash": 2509278688.33,
+    "receivables": 1771846913.88,
+    "inventory": 49532223.89,
+    "goodwill": null,
+    "interest_debt": 93473292596.49,
+    "equity_parent": 71787193415.32,
+    "ocf": 17760023958.47,
+    "capex": 9799342967.11,
+    "fcf": 7960680991.36,
+    "ocf_to_np": 2.45
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 23461331621.17,
+    "revenue_yoy": -0.51,
+    "net_profit": 7638074711.0,
+    "net_profit_yoy": 5.58,
+    "net_profit_deducted": 7119747458.11,
+    "gross_margin": 56.36,
+    "net_margin": 35.14,
+    "selling_expense_ratio": 0.26,
+    "admin_expense_ratio": 2.31,
+    "finance_expense_ratio": 11.64,
+    "rd_expense": 187179302.6,
+    "rd_ratio": 0.8,
+    "eps": 0.4,
+    "bvps": 3.02,
+    "roe": 10.5,
+    "roa": 4.37,
+    "total_assets": 195239265297.35,
+    "total_liab": 124515921783.57,
+    "debt_ratio": 63.78,
+    "cash": 1760308144.83,
+    "receivables": 1967359584.05,
+    "inventory": 44096684.92,
+    "goodwill": null,
+    "interest_debt": 110097849244.89,
+    "equity_parent": 67329060271.14,
+    "ocf": 17062571354.07,
+    "capex": 18129063740.1,
+    "fcf": -1066492386.03,
+    "ocf_to_np": 2.23
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 24881606852.66,
+    "revenue_yoy": 6.05,
+    "net_profit": 8297028967.06,
+    "net_profit_yoy": 8.63,
+    "net_profit_deducted": 8303697031.98,
+    "gross_margin": 56.13,
+    "net_margin": 35.82,
+    "selling_expense_ratio": 0.26,
+    "admin_expense_ratio": 2.16,
+    "finance_expense_ratio": 10.75,
+    "rd_expense": 150694801.64,
+    "rd_ratio": 0.61,
+    "eps": 0.44,
+    "bvps": 3.28,
+    "roe": 11.85,
+    "roa": 4.35,
+    "total_assets": 214607123371.44,
+    "total_liab": 135438631299.02,
+    "debt_ratio": 63.11,
+    "cash": 3093114296.74,
+    "receivables": 1960759118.54,
+    "inventory": 40259999.81,
+    "goodwill": null,
+    "interest_debt": 118510175867.83,
+    "equity_parent": 73601150226.64,
+    "ocf": 17553802019.74,
+    "capex": 20381179999.85,
+    "fcf": -2827377980.11,
+    "ocf_to_np": 2.12
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 26595330703.95,
+    "revenue_yoy": 6.89,
+    "net_profit": 8504138221.82,
+    "net_profit_yoy": 2.5,
+    "net_profit_deducted": 8523634319.24,
+    "gross_margin": 56.98,
+    "net_margin": 34.66,
+    "selling_expense_ratio": 0.25,
+    "admin_expense_ratio": 2.3,
+    "finance_expense_ratio": 9.87,
+    "rd_expense": 96810055.96,
+    "rd_ratio": 0.36,
+    "eps": 0.45,
+    "bvps": 3.73,
+    "roe": 12.93,
+    "roa": 4.18,
+    "total_assets": 226717001711.92,
+    "total_liab": 138602226982.82,
+    "debt_ratio": 61.13,
+    "cash": 3942623884.9,
+    "receivables": 2582134392.05,
+    "inventory": 46196011.79,
+    "goodwill": null,
+    "interest_debt": 118571931917.82,
+    "equity_parent": 81959909489.75,
+    "ocf": 19048606224.95,
+    "capex": 16460608570.71,
+    "fcf": 2587997654.24,
+    "ocf_to_np": 2.24
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 13147380567.23,
+   "revenue_yoy": 1.45,
+   "net_profit": 4376290594.5,
+   "net_profit_yoy": -5.05,
+   "net_profit_deducted": 4334037394.16,
+   "gross_margin": 57.19,
+   "net_margin": 37.1,
+   "roe": 5.91,
+   "eps": 0.23,
+   "debt_ratio": 60.16,
+   "ocf": 9087367706.39
+  },
+  "derived": {
+   "revenue_cagr_3y": 4.09,
+   "net_profit_cagr_3y": 5.54,
+   "receivables_to_revenue": 9.71,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "国务院国有资产监督管理委员会",
+  "controlling_shareholder": "中国华能集团有限公司",
+  "controlling_ratio": 48.69,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "中国华能集团有限公司",
+    "hold_num": 9072000000,
+    "hold_ratio": 48.69,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "云南省能源集团有限公司",
+    "hold_num": 4086800000,
+    "hold_ratio": 21.94,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "云南合和(集团)股份有限公司",
+    "hold_num": 2186487107,
+    "hold_ratio": 11.74,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "昆明云能产融有限公司",
+    "hold_num": 720000000,
+    "hold_ratio": 3.86,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "昆明云能产业有限公司",
+    "hold_num": 280000000,
+    "hold_ratio": 1.5,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "云南融聚发展投资有限公司",
+    "hold_num": 205850487,
+    "hold_ratio": 1.1,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "北京远通鑫海商贸有限公司",
+    "hold_num": 143000072,
+    "hold_ratio": 0.77,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "北京大地远通(集团)有限公司",
+    "hold_num": 122900090,
+    "hold_ratio": 0.66,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "国新宏盛投资(北京)有限公司",
+    "hold_num": 117064356,
+    "hold_ratio": 0.63,
+    "hold_num_change": 33580791
+   },
+   {
+    "rank": 10,
+    "name": "香港中央结算有限公司",
+    "hold_num": 90747414,
+    "hold_ratio": 0.49,
+    "hold_num_change": 15830565
+   }
+  ],
+  "holder_num": 87829,
+  "holder_num_change_pct": 12.49,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 0.65,
+  "northbound_ratio": 0.49,
+  "executives": [
+   {
+    "name": "孙卫",
+    "title": "董事长",
+    "pay": 1602600.0
+   },
+   {
+    "name": "尹述红",
+    "title": "总经理",
+    "pay": 1054900.0
+   },
+   {
+    "name": "赵虎",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.14,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.17,
+    "total_amount": 3060000000.0,
+    "payout_ratio": 52.42,
+    "dividend_yield": 2.43,
+    "ex_date": "2022-06-20"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.175,
+    "total_amount": 3150000000.0,
+    "payout_ratio": 43.54,
+    "dividend_yield": 2.49,
+    "ex_date": "2023-06-19"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.18,
+    "total_amount": 3240000000.0,
+    "payout_ratio": 42.42,
+    "dividend_yield": 1.72,
+    "ex_date": "2024-06-19"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.2,
+    "total_amount": 3600000000.0,
+    "payout_ratio": 43.39,
+    "dividend_yield": 1.99,
+    "ex_date": "2025-06-19"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.205,
+    "total_amount": 3819374322.68,
+    "payout_ratio": 44.91,
+    "dividend_yield": 2.28,
+    "ex_date": "2026-06-29"
+   }
+  ],
+  "consecutive_years": 5,
+  "cum_dividend_5y": 16869374322.68,
+  "cum_netprofit_5y": 37511164896.8,
+  "payout_5y": 44.97,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "600900.SH",
+   "003816.SZ",
+   "601985.SH",
+   "600930.SH"
+  ],
+  "segments": [
+   {
+    "name": "水力发电",
+    "revenue": 24813566406.1,
+    "ratio": 93.3,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "太阳能光伏发电",
+    "revenue": 1447618109.09,
+    "ratio": 5.44,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "风力发电",
+    "revenue": 161166300.45,
+    "ratio": 0.61,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 130911261.22,
+    "ratio": 0.49,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "储能",
+    "revenue": 40011667.48,
+    "ratio": 0.15,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "云南",
+    "revenue": 21922940547.71,
+    "ratio": 82.43,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "四川",
+    "revenue": 3041315249.6,
+    "ratio": 11.44,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "柬埔寨",
+    "revenue": 996255874.61,
+    "ratio": 3.75,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "缅甸",
+    "revenue": 497700489.8,
+    "ratio": 1.87,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 130911261.22,
+    "ratio": 0.49,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "2026年前三季度发电量完成情况公告",
+    "date": "2026-10-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225600745.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年度第十一期超短期融资券发行公告",
+    "date": "2026-09-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-17/1225567914.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年度第十一期绿色超短期融资券（乡村振兴）和第十二期绿色中期票据发行公告",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225511315.PDF",
+    "type": null
+   },
+   {
+    "title": "关于使用部分暂时闲置募集资金进行现金管理的公告",
+    "date": "2026-08-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225506172.PDF",
+    "type": null
+   },
+   {
+    "title": "关于公司对中国华能财务有限责任公司风险持续评估报告的公告",
+    "date": "2026-08-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225506126.PDF",
+    "type": null
+   },
+   {
+    "title": "关于更换公司非独立董事的公告",
+    "date": "2026-08-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225506061.PDF",
+    "type": null
+   },
+   {
+    "title": "关于公司2026年半年度募集资金存放、管理与实际使用情况的专项报告",
+    "date": "2026-08-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225506031.PDF",
+    "type": null
+   },
+   {
+    "title": "中信证券股份有限公司关于华能澜沧江水电股份有限公司使用部分暂时闲置募集资金进行现金管理的核查意见",
+    "date": "2026-08-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505999.PDF",
+    "type": null
+   },
+   {
+    "title": "关于第四届董事会第十八次会议决议公告",
+    "date": "2026-08-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505803.PDF",
+    "type": null
+   },
+   {
+    "title": "关于召开2026年半年度业绩说明会的公告",
+    "date": "2026-08-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505738.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度报告摘要",
+    "date": "2026-08-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505276.PDF",
+    "type": null
+   },
+   {
+    "title": "关于公司对中国华能集团香港财资管理有限公司风险持续评估报告的公告",
+    "date": "2026-08-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505144.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度报告",
+    "date": "2026-08-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225504979.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市中盛律师事务所关于华能结构1号基金增持华能水电股份专项核查意见",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225488778.PDF",
+    "type": null
+   },
+   {
+    "title": "关于控股股东之一致行动人增持公司股份实施结果的公告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225488761.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年度第九期超短期融资券和第十期超短期融资券发行公告",
+    "date": "2026-08-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225479943.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年度第八期超短期融资券和第十期绿色中期票据发行公告",
+    "date": "2026-07-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-29/1225444947.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年度第九期绿色中期票据发行公告",
+    "date": "2026-07-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-08/1225413356.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年上半年发电量完成情况公告",
+    "date": "2026-07-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-08/1225413349.PDF",
+    "type": null
+   },
+   {
+    "title": "2025年年度权益分派实施公告",
+    "date": "2026-06-23",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-23/1225380903.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 95
+ },
+ "qa": {
+  "items": [],
+  "count_12m": null
+ }
+}

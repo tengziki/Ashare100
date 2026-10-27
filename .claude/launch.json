@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "web", "runtimeExecutable": "python", "runtimeArgs": ["-m", "http.server", "8765", "-d", "ashare100/ashare100/web"], "port": 8765 }
+  ]
+}

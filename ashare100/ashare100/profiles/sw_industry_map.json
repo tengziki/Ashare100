@@ -1,0 +1,678 @@
+{
+ "codes": {
+  "000001.SZ": {
+   "source": "verified_profile",
+   "sw1": "银行",
+   "sw2": "股份制银行Ⅱ",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "000333.SZ": {
+   "source": "verified_profile",
+   "sw1": "家用电器",
+   "sw2": "白色家电",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "000338.SZ": {
+   "source": "verified_profile",
+   "sw1": "汽车",
+   "sw2": "汽车零部件",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "000651.SZ": {
+   "source": "verified_profile",
+   "sw1": "家用电器",
+   "sw2": "白色家电",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "000725.SZ": {
+   "source": "verified_profile",
+   "sw1": "电子",
+   "sw2": "光学光电子",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "000776.SZ": {
+   "em2016": "金融-非银行金融-证券",
+   "source": "em2016_mapped",
+   "sw1": "非银金融",
+   "sw2": "证券Ⅱ",
+   "updated": "2026-10-27T18:15:51+08:00"
+  },
+  "000858.SZ": {
+   "source": "verified_profile",
+   "sw1": "食品饮料",
+   "sw2": "白酒Ⅱ",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "001248.SZ": {
+   "em2016": "公用事业-电力-新能源发电",
+   "source": "em2016_mapped",
+   "sw1": "公用事业",
+   "sw2": null,
+   "updated": "2026-10-27T18:15:57+08:00"
+  },
+  "002050.SZ": {
+   "em2016": "机械设备-通用设备-其他通用机械",
+   "source": "em2016_mapped",
+   "sw1": "机械设备",
+   "sw2": null,
+   "updated": "2026-10-27T18:15:54+08:00"
+  },
+  "002142.SZ": {
+   "source": "verified_profile",
+   "sw1": "银行",
+   "sw2": "城商行Ⅱ",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "002352.SZ": {
+   "source": "verified_profile",
+   "sw1": "交通运输",
+   "sw2": "物流",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "002371.SZ": {
+   "source": "verified_profile",
+   "sw1": "电子",
+   "sw2": "半导体",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "002379.SZ": {
+   "source": "verified_profile",
+   "sw1": "有色金属",
+   "sw2": "工业金属",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "002384.SZ": {
+   "source": "verified_profile",
+   "sw1": "电子",
+   "sw2": "元件",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "002415.SZ": {
+   "source": "verified_profile",
+   "sw1": "计算机",
+   "sw2": "计算机设备",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "002463.SZ": {
+   "source": "verified_profile",
+   "sw1": "电子",
+   "sw2": "元件",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "002475.SZ": {
+   "source": "verified_profile",
+   "sw1": "电子",
+   "sw2": "消费电子",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "002594.SZ": {
+   "source": "verified_profile",
+   "sw1": "汽车",
+   "sw2": "乘用车",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "002714.SZ": {
+   "source": "verified_profile",
+   "sw1": "农林牧渔",
+   "sw2": "养殖业",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "002916.SZ": {
+   "source": "verified_profile",
+   "sw1": "电子",
+   "sw2": "元件",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "002938.SZ": {
+   "source": "verified_profile",
+   "sw1": "电子",
+   "sw2": "元件",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "003816.SZ": {
+   "source": "verified_profile",
+   "sw1": "公用事业",
+   "sw2": "电力",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "300033.SZ": {
+   "source": "verified_profile",
+   "sw1": "计算机",
+   "sw2": "软件开发",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "300059.SZ": {
+   "source": "verified_profile",
+   "sw1": "非银金融",
+   "sw2": "证券Ⅱ",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "300124.SZ": {
+   "em2016": "机械设备-机器人-工业机器人",
+   "source": "em2016_mapped",
+   "sw1": "机械设备",
+   "sw2": null,
+   "updated": "2026-10-27T18:15:48+08:00"
+  },
+  "300274.SZ": {
+   "source": "verified_profile",
+   "sw1": "电力设备",
+   "sw2": "光伏设备",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "300308.SZ": {
+   "source": "verified_profile",
+   "sw1": "通信",
+   "sw2": "通信设备",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "300394.SZ": {
+   "source": "verified_profile",
+   "sw1": "通信",
+   "sw2": "通信设备",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "300408.SZ": {
+   "source": "verified_profile",
+   "sw1": "电子",
+   "sw2": "元件",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "300476.SZ": {
+   "source": "verified_profile",
+   "sw1": "电子",
+   "sw2": "元件",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "300502.SZ": {
+   "source": "verified_profile",
+   "sw1": "通信",
+   "sw2": "通信设备",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "300750.SZ": {
+   "source": "verified_profile",
+   "sw1": "电力设备",
+   "sw2": "电池",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "300760.SZ": {
+   "source": "verified_profile",
+   "sw1": "医药生物",
+   "sw2": "医疗器械",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "302132.SZ": {
+   "source": "verified_profile",
+   "sw1": "国防军工",
+   "sw2": "航空装备Ⅱ",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "600000.SH": {
+   "source": "verified_profile",
+   "sw1": "银行",
+   "sw2": "股份制银行Ⅱ",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "600016.SH": {
+   "em2016": "金融-银行-股份制与城商行",
+   "source": "em2016_mapped",
+   "sw1": "银行",
+   "sw2": "股份制银行Ⅱ",
+   "updated": "2026-10-27T16:06:22+08:00"
+  },
+  "600025.SH": {
+   "source": "verified_profile",
+   "sw1": "公用事业",
+   "sw2": "电力",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "600028.SH": {
+   "source": "verified_profile",
+   "sw1": "石油石化",
+   "sw2": "炼化及贸易",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "600030.SH": {
+   "source": "verified_profile",
+   "sw1": "非银金融",
+   "sw2": "证券Ⅱ",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "600031.SH": {
+   "source": "verified_profile",
+   "sw1": "机械设备",
+   "sw2": "工程机械",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "600036.SH": {
+   "source": "verified_profile",
+   "sw1": "银行",
+   "sw2": "股份制银行Ⅱ",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "600150.SH": {
+   "source": "verified_profile",
+   "sw1": "国防军工",
+   "sw2": "航海装备Ⅱ",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "600183.SH": {
+   "source": "verified_profile",
+   "sw1": "电子",
+   "sw2": "元件",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "600188.SH": {
+   "source": "verified_profile",
+   "sw1": "煤炭",
+   "sw2": "煤炭开采",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "600276.SH": {
+   "source": "verified_profile",
+   "sw1": "医药生物",
+   "sw2": "化学制药",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "600309.SH": {
+   "source": "verified_profile",
+   "sw1": "基础化工",
+   "sw2": "化学制品",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "600406.SH": {
+   "source": "verified_profile",
+   "sw1": "电力设备",
+   "sw2": "电网设备",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "600519.SH": {
+   "source": "verified_profile",
+   "sw1": "食品饮料",
+   "sw2": "白酒Ⅱ",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "600690.SH": {
+   "source": "verified_profile",
+   "sw1": "家用电器",
+   "sw2": "白色家电",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "600887.SH": {
+   "source": "verified_profile",
+   "sw1": "食品饮料",
+   "sw2": "饮料乳品",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "600900.SH": {
+   "source": "verified_profile",
+   "sw1": "公用事业",
+   "sw2": "电力",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "600919.SH": {
+   "source": "verified_profile",
+   "sw1": "银行",
+   "sw2": "城商行Ⅱ",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "600930.SH": {
+   "source": "verified_profile",
+   "sw1": "公用事业",
+   "sw2": "电力",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "600938.SH": {
+   "source": "verified_profile",
+   "sw1": "石油石化",
+   "sw2": "油气开采Ⅱ",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "600941.SH": {
+   "source": "verified_profile",
+   "sw1": "通信",
+   "sw2": "通信服务",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "600989.SH": {
+   "source": "verified_profile",
+   "sw1": "基础化工",
+   "sw2": "化学原料",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "601009.SH": {
+   "em2016": "金融-银行-股份制与城商行",
+   "source": "em2016_mapped",
+   "sw1": "银行",
+   "sw2": null,
+   "updated": "2026-10-27T18:15:40+08:00"
+  },
+  "601066.SH": {
+   "source": "verified_profile",
+   "sw1": "非银金融",
+   "sw2": "证券Ⅱ",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "601088.SH": {
+   "source": "verified_profile",
+   "sw1": "煤炭",
+   "sw2": "煤炭开采",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "601138.SH": {
+   "source": "verified_profile",
+   "sw1": "电子",
+   "sw2": "消费电子",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "601166.SH": {
+   "source": "verified_profile",
+   "sw1": "银行",
+   "sw2": "股份制银行Ⅱ",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "601211.SH": {
+   "source": "verified_profile",
+   "sw1": "非银金融",
+   "sw2": "证券Ⅱ",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "601225.SH": {
+   "source": "verified_profile",
+   "sw1": "煤炭",
+   "sw2": "煤炭开采",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "601288.SH": {
+   "source": "verified_profile",
+   "sw1": "银行",
+   "sw2": "国有大型银行Ⅱ",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "601318.SH": {
+   "source": "verified_profile",
+   "sw1": "非银金融",
+   "sw2": "保险Ⅱ",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "601319.SH": {
+   "source": "verified_profile",
+   "sw1": "非银金融",
+   "sw2": "保险Ⅱ",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "601328.SH": {
+   "source": "verified_profile",
+   "sw1": "银行",
+   "sw2": "国有大型银行Ⅱ",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "601336.SH": {
+   "em2016": "金融-非银行金融-保险",
+   "source": "em2016_mapped",
+   "sw1": "非银金融",
+   "sw2": "保险Ⅱ",
+   "updated": "2026-10-27T16:06:24+08:00"
+  },
+  "601398.SH": {
+   "source": "verified_profile",
+   "sw1": "银行",
+   "sw2": "国有大型银行Ⅱ",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "601600.SH": {
+   "em2016": "有色金属-基本金属-铝",
+   "source": "em2016_mapped",
+   "sw1": "有色金属",
+   "sw2": "工业金属",
+   "updated": "2026-10-27T16:06:26+08:00"
+  },
+  "601601.SH": {
+   "source": "verified_profile",
+   "sw1": "非银金融",
+   "sw2": "保险Ⅱ",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "601628.SH": {
+   "source": "verified_profile",
+   "sw1": "非银金融",
+   "sw2": "保险Ⅱ",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "601658.SH": {
+   "source": "verified_profile",
+   "sw1": "银行",
+   "sw2": "国有大型银行Ⅱ",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "601668.SH": {
+   "source": "verified_profile",
+   "sw1": "建筑装饰",
+   "sw2": "房屋建设Ⅱ",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "601688.SH": {
+   "source": "verified_profile",
+   "sw1": "非银金融",
+   "sw2": "证券Ⅱ",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "601728.SH": {
+   "source": "verified_profile",
+   "sw1": "通信",
+   "sw2": "通信服务",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "601766.SH": {
+   "source": "verified_profile",
+   "sw1": "机械设备",
+   "sw2": "轨交设备Ⅱ",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "601816.SH": {
+   "source": "verified_profile",
+   "sw1": "交通运输",
+   "sw2": "铁路公路",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "601818.SH": {
+   "source": "verified_profile",
+   "sw1": "银行",
+   "sw2": "股份制银行Ⅱ",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "601857.SH": {
+   "source": "verified_profile",
+   "sw1": "石油石化",
+   "sw2": "炼化及贸易",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "601869.SH": {
+   "source": "verified_profile",
+   "sw1": "通信",
+   "sw2": "通信设备",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "601872.SH": {
+   "em2016": "交通运输-港口航运-航运",
+   "source": "em2016_mapped",
+   "sw1": "交通运输",
+   "sw2": null,
+   "updated": "2026-10-27T18:16:01+08:00"
+  },
+  "601898.SH": {
+   "source": "verified_profile",
+   "sw1": "煤炭",
+   "sw2": "煤炭开采",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "601899.SH": {
+   "source": "verified_profile",
+   "sw1": "有色金属",
+   "sw2": "工业金属",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "601919.SH": {
+   "source": "verified_profile",
+   "sw1": "交通运输",
+   "sw2": "航运港口",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "601939.SH": {
+   "source": "verified_profile",
+   "sw1": "银行",
+   "sw2": "国有大型银行Ⅱ",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "601985.SH": {
+   "source": "verified_profile",
+   "sw1": "公用事业",
+   "sw2": "电力",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "601988.SH": {
+   "source": "verified_profile",
+   "sw1": "银行",
+   "sw2": "国有大型银行Ⅱ",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "601995.SH": {
+   "em2016": "金融-非银行金融-证券",
+   "source": "em2016_mapped",
+   "sw1": "非银金融",
+   "sw2": "证券Ⅱ",
+   "updated": "2026-10-27T16:06:27+08:00"
+  },
+  "601998.SH": {
+   "source": "verified_profile",
+   "sw1": "银行",
+   "sw2": "股份制银行Ⅱ",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "603259.SH": {
+   "source": "verified_profile",
+   "sw1": "医药生物",
+   "sw2": "医疗服务",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "603268.SH": {
+   "source": "verified_profile",
+   "sw1": "国防军工",
+   "sw2": "航海装备Ⅱ",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "603288.SH": {
+   "source": "verified_profile",
+   "sw1": "食品饮料",
+   "sw2": "调味发酵品Ⅱ",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "603986.SH": {
+   "source": "verified_profile",
+   "sw1": "电子",
+   "sw2": "半导体",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "603993.SH": {
+   "source": "verified_profile",
+   "sw1": "有色金属",
+   "sw2": "工业金属",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "688008.SH": {
+   "source": "verified_profile",
+   "sw1": "电子",
+   "sw2": "半导体",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "688012.SH": {
+   "source": "verified_profile",
+   "sw1": "电子",
+   "sw2": "半导体",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "688041.SH": {
+   "source": "verified_profile",
+   "sw1": "电子",
+   "sw2": "半导体",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "688072.SH": {
+   "source": "verified_profile",
+   "sw1": "电子",
+   "sw2": "半导体",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "688235.SH": {
+   "source": "verified_profile",
+   "sw1": "医药生物",
+   "sw2": "化学制药",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "688256.SH": {
+   "source": "verified_profile",
+   "sw1": "电子",
+   "sw2": "半导体",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "688347.SH": {
+   "source": "verified_profile",
+   "sw1": "电子",
+   "sw2": "半导体",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "688795.SH": {
+   "source": "verified_profile",
+   "sw1": "电子",
+   "sw2": "半导体",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "688801.SH": {
+   "source": "verified_profile",
+   "sw1": "电子",
+   "sw2": "半导体",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "688802.SH": {
+   "source": "verified_profile",
+   "sw1": "电子",
+   "sw2": "半导体",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "688808.SH": {
+   "source": "verified_profile",
+   "sw1": "机械设备",
+   "sw2": "通用设备",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "688820.SH": {
+   "source": "verified_profile",
+   "sw1": "电子",
+   "sw2": "半导体",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "688825.SH": {
+   "source": "verified_profile",
+   "sw1": "电子",
+   "sw2": "半导体",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "688836.SH": {
+   "source": "verified_profile",
+   "sw1": "机械设备",
+   "sw2": "自动化设备",
+   "updated": "2026-10-27T16:06:19+08:00"
+  },
+  "688981.SH": {
+   "source": "verified_profile",
+   "sw1": "电子",
+   "sw2": "半导体",
+   "updated": "2026-10-27T16:06:19+08:00"
+  }
+ },
+ "meta": {
+  "sw_version": "申万 2021",
+  "updated": "2026-10-27T18:16:01+08:00"
+ }
+}

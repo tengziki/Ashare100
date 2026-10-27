@@ -1,0 +1,636 @@
+{
+ "identity": {
+  "code": "688802",
+  "exchange": "SH",
+  "board": "科创板",
+  "name_full": "沐曦集成电路(上海)股份有限公司",
+  "name_abbr": "沐曦股份-U",
+  "aliases": [
+   "mxgf",
+   "沐曦股份"
+  ],
+  "name_en": "MetaX Integrated Circuits (Shanghai) Co., Ltd.",
+  "pinyin_abbr": "MXGF",
+  "former_names": [],
+  "industry_sw1": "电子",
+  "industry_sw2": "半导体",
+  "list_date": "2025-12-17",
+  "province": "上海",
+  "city": "上海",
+  "website": "www.metax-tech.com",
+  "chairman": "陈维良",
+  "employees": 925,
+  "business_summary": "研发、设计和销售应用于人工智能训练和推理、通用计算(包括科学计算)与图形渲染领域的全栈GPU产品",
+  "profile": "沐曦集成电路(上海)股份有限公司,于2020年9月成立于上海,并在北京、南京、成都、杭州、深圳、武汉和长沙等地建立了全资子公司暨研发中心。沐曦股份拥有技术完备、设计和产业化经验丰富的团队,核心成员平均拥有近20年高性能GPU产品端到端研发经验,曾主导过十多款世界主流高性能GPU产品研发及量产,包括GPU架构定义、GPUIP设计、GPUSoC设计及GPU系统解决方案的量产交付全流程。 沐曦股份致力于为异构计算提供全栈GPU芯片及解决方案,可广泛应用于智算、智慧城市、云计算、自动驾驶、数字孪生、元宇宙等前沿领域,为数字经济发展提供强大的算力支撑。 沐曦股份打造全栈GPU芯片产品,推出曦思N系列GPU产品用于智算推理,曦云C系列GPU产品用于通用计算,以及曦彩G系列GPU产品用于图形渲染,满足“高能效”和“高通用性”的算力需求。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 430.09,
+  "change_pct": -3.86,
+  "total_mv": 172079009000.0,
+  "float_mv": 13975594342.29,
+  "total_shares": 400100000,
+  "float_shares": 32494581,
+  "pe_ttm": 19342.26,
+  "pe_static": -217.97,
+  "pb": 12.41,
+  "ps_ttm": 83.83,
+  "turnover_rate": 9.53,
+  "amount": 1360626819.0,
+  "high_52w": 1033.0,
+  "low_52w": 392.2,
+  "ytd_return": -25.86,
+  "return_1y": null,
+  "return_3y": null,
+  "dividend_yield": 0.0,
+  "index_members": [
+   "科创50"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": null,
+    "revenue_yoy": null,
+    "net_profit": null,
+    "net_profit_yoy": null,
+    "net_profit_deducted": null,
+    "gross_margin": null,
+    "net_margin": null,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": null,
+    "bvps": null,
+    "roe": null,
+    "roa": null,
+    "total_assets": null,
+    "total_liab": null,
+    "debt_ratio": null,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": null,
+    "ocf": null,
+    "capex": null,
+    "fcf": null,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 426400.0,
+    "revenue_yoy": null,
+    "net_profit": -776965202.5,
+    "net_profit_yoy": null,
+    "net_profit_deducted": -784305600.0,
+    "gross_margin": 24.1,
+    "net_margin": -182215.1,
+    "selling_expense_ratio": 10696.94,
+    "admin_expense_ratio": 22532.42,
+    "finance_expense_ratio": -1321.72,
+    "rd_expense": 647520931.63,
+    "rd_ratio": 151857.63,
+    "eps": null,
+    "bvps": 177.23,
+    "roe": -96.58,
+    "roa": -148.74,
+    "total_assets": 1044742959.14,
+    "total_liab": 120513728.45,
+    "debt_ratio": 11.54,
+    "cash": 229506438.0,
+    "receivables": null,
+    "inventory": 17674364.33,
+    "goodwill": null,
+    "interest_debt": 23491179.67,
+    "equity_parent": 924229230.69,
+    "ocf": -665142907.52,
+    "capex": 231681171.71,
+    "fcf": -896824079.23,
+    "ocf_to_np": 0.86
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 53021153.18,
+    "revenue_yoy": 12334.6,
+    "net_profit": -871158174.36,
+    "net_profit_yoy": -12.12,
+    "net_profit_deducted": -889875328.69,
+    "gross_margin": 62.88,
+    "net_margin": -1643.04,
+    "selling_expense_ratio": 118.62,
+    "admin_expense_ratio": 239.25,
+    "finance_expense_ratio": -5.17,
+    "rd_expense": 698620383.87,
+    "rd_ratio": 1317.63,
+    "eps": null,
+    "bvps": 196.32,
+    "roe": -99.81,
+    "roa": -65.08,
+    "total_assets": 1632422126.87,
+    "total_liab": 421545052.91,
+    "debt_ratio": 25.82,
+    "cash": 240227539.17,
+    "receivables": 37099364.73,
+    "inventory": 187304974.55,
+    "goodwill": null,
+    "interest_debt": 211554639.42,
+    "equity_parent": 1210877073.96,
+    "ocf": -1017318873.7,
+    "capex": 167054077.28,
+    "fcf": -1184372950.98,
+    "ocf_to_np": 1.17
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 743071582.31,
+    "revenue_yoy": 1301.46,
+    "net_profit": -1408879390.54,
+    "net_profit_yoy": -61.72,
+    "net_profit_deducted": -1043872001.84,
+    "gross_margin": 53.43,
+    "net_margin": -189.6,
+    "selling_expense_ratio": 16.34,
+    "admin_expense_ratio": 78.27,
+    "finance_expense_ratio": 3.38,
+    "rd_expense": 900890443.26,
+    "rd_ratio": 121.24,
+    "eps": -7.01,
+    "bvps": 137.26,
+    "roe": -99.7,
+    "roa": -51.03,
+    "total_assets": 3889582463.11,
+    "total_liab": 2711278388.2,
+    "debt_ratio": 69.71,
+    "cash": 1029191174.67,
+    "receivables": 479443256.24,
+    "inventory": 776784252.57,
+    "goodwill": null,
+    "interest_debt": 552008722.57,
+    "equity_parent": 1178304074.91,
+    "ocf": -2148023305.92,
+    "capex": 393626620.02,
+    "fcf": -2541649925.94,
+    "ocf_to_np": 1.52
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 1644085465.86,
+    "revenue_yoy": 121.26,
+    "net_profit": -789446296.82,
+    "net_profit_yoy": 43.97,
+    "net_profit_deducted": -829700534.04,
+    "gross_margin": 56.51,
+    "net_margin": -48.02,
+    "selling_expense_ratio": 12.43,
+    "admin_expense_ratio": 22.58,
+    "finance_expense_ratio": 0.03,
+    "rd_expense": 1027392905.89,
+    "rd_ratio": 62.49,
+    "eps": -2.44,
+    "bvps": 32.91,
+    "roe": -9.61,
+    "roa": -8.99,
+    "total_assets": 13674877631.76,
+    "total_liab": 509406835.7,
+    "debt_ratio": 3.73,
+    "cash": 6720710058.83,
+    "receivables": 725724747.16,
+    "inventory": 1496093418.86,
+    "goodwill": null,
+    "interest_debt": 58616187.65,
+    "equity_parent": 13165470796.06,
+    "ocf": -1260071793.82,
+    "capex": 195352942.08,
+    "fcf": -1455424735.9,
+    "ocf_to_np": 1.6
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 1323593726.74,
+   "revenue_yoy": 44.67,
+   "net_profit": 612449523.3,
+   "net_profit_yoy": 429.46,
+   "net_profit_deducted": -48859468.32,
+   "gross_margin": 57.22,
+   "net_margin": 46.27,
+   "roe": 4.53,
+   "eps": 1.53,
+   "debt_ratio": 5.71,
+   "ocf": -1296860816.31
+  },
+  "derived": {
+   "revenue_cagr_3y": 1468.08,
+   "net_profit_cagr_3y": null,
+   "receivables_to_revenue": 44.14,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "陈维良",
+  "controlling_shareholder": "上海骄迈企业咨询合伙企业(有限合伙)",
+  "controlling_ratio": 11.96,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "上海骄迈企业咨询合伙企业(有限合伙)",
+    "hold_num": 47871181,
+    "hold_ratio": 11.96,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "陈维良",
+    "hold_num": 20129832,
+    "hold_ratio": 5.03,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "上海曦骥企业咨询合伙企业(有限合伙)",
+    "hold_num": 14567737,
+    "hold_ratio": 3.64,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "南京和利国信智芯股权投资合伙企业(有限合伙)",
+    "hold_num": 14378866,
+    "hold_ratio": 3.59,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "葛卫东",
+    "hold_num": 14338176,
+    "hold_ratio": 3.58,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "上海混沌投资(集团)有限公司",
+    "hold_num": 12599744,
+    "hold_ratio": 3.15,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "深圳市瀚辰创业投资基金合伙企业(有限合伙)",
+    "hold_num": 12504050,
+    "hold_ratio": 3.13,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "上海浦东引领区投资中心(有限合伙)",
+    "hold_num": 9659452,
+    "hold_ratio": 2.41,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "南京经乾二号股权投资合伙企业(有限合伙)",
+    "hold_num": 8333860,
+    "hold_ratio": 2.08,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 10,
+    "name": "中国国有企业结构调整基金股份有限公司",
+    "hold_num": 7040507,
+    "hold_ratio": 1.76,
+    "hold_num_change": 0
+   }
+  ],
+  "holder_num": 21578,
+  "holder_num_change_pct": -24.81,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 1.82,
+  "northbound_ratio": null,
+  "executives": [
+   {
+    "name": "陈维良",
+    "title": "董事长",
+    "pay": 3203300.0
+   },
+   {
+    "name": "陈维良",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "魏忠伟",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.55,
+  "unlock_12m": [
+   {
+    "date": "2026-12-17",
+    "shares": 10919241,
+    "ratio": 2.73
+   },
+   {
+    "date": "2027-08-23",
+    "shares": 395489,
+    "ratio": 0.1
+   }
+  ]
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   }
+  ],
+  "consecutive_years": 0,
+  "cum_dividend_5y": 0.0,
+  "cum_netprofit_5y": -3846449064.22,
+  "payout_5y": null,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "688825.SH",
+   "688981.SH",
+   "688256.SH",
+   "688041.SH"
+  ],
+  "segments": [
+   {
+    "name": "GPU产品及配件",
+    "revenue": 1630746470.51,
+    "ratio": 99.19,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "IP、技术服务及其他",
+    "revenue": 13338995.35,
+    "ratio": 0.81,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "中国内地",
+    "revenue": 1641609625.7,
+    "ratio": 99.85,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "中国香港",
+    "revenue": 2475840.16,
+    "ratio": 0.15,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "关于沐曦集成电路（上海）股份有限公司2026年前三季度业绩预告的自愿性披露公告",
+    "date": "2026-10-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607704.PDF",
+    "type": null
+   },
+   {
+    "title": "华泰联合证券有限责任公司关于沐曦集成电路（上海）股份有限公司首次公开发行网下配售限售股上市流通的核查意见",
+    "date": "2026-09-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-10/1225555445.PDF",
+    "type": null
+   },
+   {
+    "title": "沐曦股份首次公开发行网下配售限售股上市流通公告",
+    "date": "2026-09-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-10/1225555439.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度报告",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225535168.PDF",
+    "type": null
+   },
+   {
+    "title": "第一届董事会第二十六次会议决议公告",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534937.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度报告摘要",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534893.PDF",
+    "type": null
+   },
+   {
+    "title": "关于召开2026年半年度业绩说明会的公告",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534839.PDF",
+    "type": null
+   },
+   {
+    "title": "华泰联合证券有限责任公司关于沐曦集成电路（上海）股份有限公司使用自有资金支付募投项目所需资金并以募集资金等额置换的核查意见",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534753.PDF",
+    "type": null
+   },
+   {
+    "title": "关于使用自有资金支付募投项目所需资金并以募集资金等额置换的公告",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534671.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度募集资金存放、管理与实际使用情况的专项报告",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534408.PDF",
+    "type": null
+   },
+   {
+    "title": "华泰联合证券有限责任公司关于沐曦集成电路（上海）股份有限公司2026年半年度持续督导跟踪报告",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534378.PDF",
+    "type": null
+   },
+   {
+    "title": "澄清公告",
+    "date": "2026-07-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-09/1225416343.PDF",
+    "type": null
+   },
+   {
+    "title": "沐曦集成电路（上海）股份有限公司2026年第一次临时股东会法律意见书",
+    "date": "2026-06-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-30/1225396587.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年第一次临时股东会决议公告",
+    "date": "2026-06-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-30/1225396578.PDF",
+    "type": null
+   },
+   {
+    "title": "沐曦股份2026年第一次临时股东会会议材料",
+    "date": "2026-06-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-24/1225383464.PDF",
+    "type": null
+   },
+   {
+    "title": "关于筹划发行H股股票并在香港联合交易所有限公司上市的提示性公告",
+    "date": "2026-06-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-13/1225369321.PDF",
+    "type": null
+   },
+   {
+    "title": "独立董事候选人声明与承诺-高博",
+    "date": "2026-06-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-13/1225369320.PDF",
+    "type": null
+   },
+   {
+    "title": "沐曦集成电路（上海）股份有限公司董事会薪酬与考核委员会工作细则（草案）（H股发行并上市后适用）",
+    "date": "2026-06-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-13/1225369319.PDF",
+    "type": null
+   },
+   {
+    "title": "关于变更独立董事及调整董事会专门委员会委员的公告",
+    "date": "2026-06-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-13/1225369318.PDF",
+    "type": null
+   },
+   {
+    "title": "关于聘请H股发行及上市的审计机构的公告",
+    "date": "2026-06-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-13/1225369317.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 116
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "沐曦的核心竞争优势如何体现在商业价值上？全栈自研、生态兼容、成本优势等如何转化为市场竞争力？",
+    "answer": "尊敬的投资者您好，公司的核心竞争优势通过产品性能、生态兼容转化为市场竞争力，全栈自研保障自主可控，成本优势提升性价比，助力抢占国产替代市场份额。感谢您的关注，请注意投资风险！",
+    "ask_date": "2025-12-22",
+    "answer_date": "2026-01-19",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=323111"
+   },
+   {
+    "question": "沐曦在前沿技术探索方面有什么布局？量子计算、光计算、神经形态计算等新技术的研发进展如何？",
+    "answer": "尊敬的投资者您好，公司将根据相关规定，对达到披露标准的事项及时履行信息披露义务，保障投资者的知情权。感谢您的关注，请注意投资风险！",
+    "ask_date": "2025-12-22",
+    "answer_date": "2026-01-19",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=323111"
+   },
+   {
+    "question": "公司在光计算等前沿技术方面有什么布局？",
+    "answer": "尊敬的投资者您好，公司将根据相关规定，对达到披露标准的事项及时履行信息披露义务，保障投资者的知情权。感谢您的关注，请注意投资风险！",
+    "ask_date": "2025-12-22",
+    "answer_date": "2026-01-19",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=323111"
+   },
+   {
+    "question": "公司在互联网大厂客户拓展方面进展如何？",
+    "answer": "尊敬的投资者您好，公司目前正在大力开拓互联网企业和运营商两类关键客户，稳步推进相关产品测试、导入及商务洽谈，并已取得一定成效。 感谢您的关注，请注意投资风险！",
+    "ask_date": "2025-12-22",
+    "answer_date": "2026-01-19",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=323111"
+   },
+   {
+    "question": "沐曦的MXMACA 指令集包含 600 条计算指令和 800 条渲染指令，这套自主指令集相比 CUDA 在性能优化和生态兼容方面有什么独特优势？​​",
+    "answer": "尊敬的投资者您好，MXMACA软件栈具有较强的易用性、可编程性和可扩展性，功能丰富全面。在编程语言方面，MXMACA软件栈提供了一种简单易用的编程语言（MXMACA C++/MXMACA Fortran异构编程语言），大幅降低用户的应用门槛。开发者可基于主流编程框架编写代码，在软件驱动层的支持下高效运行于公司各款芯片产品之上。同时，该运算平台能够兼容主流的C/C++/Python异构计算语言，使得客户可以根据自身需求，高效推进算子开发。在CUDA生态兼容上，根据公司公开披露的数据，MXMACA软件栈实现了对GPU行业国际主流CUDA生态的高度兼容，支持6,000多个CUDA应用。在开源技术支持度上，MXMACA软件栈支持多种开源技术，包括AI训练框架（PyTorch/PaddlePaddle等）、AI推理框架（vLLM/SGLang等）、算子库（BLAS/DNN等）和开源模型等，通过不断优化实现更高的性能和可扩展性。在云端运维方面，MXMACA软件栈内置的智能资源管理引擎和协同计算框架，实现了对云边端异构硬件资源的统一管理、动态调度和高效协同，大幅提高计算资源利用率，降低开发复杂度，助力人工智能应用在多元化场景中的快速落地与规模化部署。此外，MXMACA软件栈提供了丰富的系统和应用管理工具，助力开发者更高效、灵活地开发、验证、环境部署及质量监控等。感谢您的关注，请注意投资风险！",
+    "ask_date": "2025-12-22",
+    "answer_date": "2026-01-19",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=323111"
+   },
+   {
+    "question": "曦云 C500 系列芯片性能对标国际主流产品，该优势是否已转化为实际市场竞争力，未来在高端 AI 芯片市场的突破方向是什么？",
+    "answer": "尊敬的投资者您好，基于自主研发的GPU IP核心XCORE架构，公司推出的训推一体GPU算力处于国内第一梯队。以行业内通常用来衡量GPU芯片在人工智能训练场景下的算力性能指标FP16/BF16为例，公司曦云C500/C550芯片处于A100的算力区间。 随着模型参数量的不断提升，更低数据位宽的训练和推理算力可以有效提升计算效率，引导着GPU芯片设计向更高效支撑低位宽的方向演进。公司将在保证计算精度的同时大幅提高大模型的计算性能。感谢您的关注，请注意投资风险！",
+    "ask_date": "2025-12-22",
+    "answer_date": "2026-01-19",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=323111"
+   },
+   {
+    "question": "中国 AI 芯片市场规模预计从 2024 年 1425 亿元增长到 2029 年 13368 亿元，公司在国产替代市场的机遇如何？",
+    "answer": "尊敬的投资者您好，受益于加速国产替代的行业趋势，公司未来业务增长空间较大。从公司自身来看，凭借突出的技术优势和较强的产品竞争力，沐曦股份产品已在人工智能下游各主要行业得到广泛应用，存量客户持续复购、新客户不断开拓，公司收入规模呈快速增长，目前在手订单及潜在商机充足；公司以各类型算力底座客户为基本盘，同时大力开拓互联网和运营商客户并已初现成效，未来亦将成为重要的业务增长极，提供发展动能。感谢您的关注，请注意投资风险！",
+    "ask_date": "2025-12-22",
+    "answer_date": "2026-01-19",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=323111"
+   },
+   {
+    "question": "沐曦在生态伙伴建设方面有什么进展？与软件开发商、系统集成商的合作模式如何？",
+    "answer": "尊敬的投资者您好，公司致力于自主研发全栈高性能GPU芯片及计算平台，为人工智能计算、通用计算、图形渲染等前沿领域提供高能效、高通用性的算力支撑，直接上游是芯片制造、封测厂商及IP授权、EDA软件供应商等；直接下游为服务器厂商、集成商或智算中心建设方，下游最终使用方包括教科研、金融、交通、能源、医疗健康、大文娱等领域。 公司深度构建“1+6+X”生态与商业布局，基础算力底座方面，截止到2025年3月底，公司产品相继应用部署于 10余个智算集群，算力网络覆盖国家人工智能公共算力平台、运营商智算平台和商业化智算中心，区域横跨北京、上海、杭州、长沙、中国香港等地区，并逐渐向更多区域延伸。公司GPU产品深度赋能众多行业应用场景，已率先布局教科研、金融、交通、能源、医疗健康、大文娱等行业，产品赋能真实应用场景的竞争力和交付能力得到充分验证。感谢您的关注，请注意投资风险！",
+    "ask_date": "2025-12-22",
+    "answer_date": "2026-01-19",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=323111"
+   }
+  ],
+  "count_12m": null
+ }
+}

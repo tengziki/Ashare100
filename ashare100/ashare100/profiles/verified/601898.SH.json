@@ -1,0 +1,628 @@
+{
+ "identity": {
+  "code": "601898",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "中国中煤能源股份有限公司",
+  "name_abbr": "中煤能源",
+  "aliases": [
+   "zmny"
+  ],
+  "name_en": "China Coal Energy Company Limited",
+  "pinyin_abbr": "ZMNY",
+  "former_names": [],
+  "industry_sw1": "煤炭",
+  "industry_sw2": "煤炭开采",
+  "list_date": "2008-02-01",
+  "province": "北京",
+  "city": "北京",
+  "website": "www.chinacoalenergy.com",
+  "chairman": "王树东",
+  "employees": 46585,
+  "business_summary": "煤炭、煤化工、煤矿装备、金融以及包括发电、铝加工、设备及配件进口",
+  "profile": "中国中煤能源股份有限公司是中国中煤能源集团有限公司于2006年8月22日发起设立的股份制公司,总部设于中国北京。2006年12月公司在香港成功上市,2008年2月发行A股。 公司是集煤炭生产和贸易、煤化工、发电、煤矿装备制造四大主业于一体的大型能源企业。 煤炭产业 公司拥有丰富的煤炭资源、多样化的煤炭产品以及现代化煤炭开采、洗选和混配生产技术工艺;公司主体开发的山西平朔矿区、内蒙古鄂尔多斯呼吉尔特矿区是国内重要的动力煤生产基地,王家岭煤矿所在的山西乡宁矿区是国内低硫、特低磷优质炼焦煤基地,里必煤矿所在的山西晋城矿区是国内优质无烟煤基地;公司主要煤炭生产基地均配备畅通的运煤通道,并与煤炭港口连接,为公司赢得竞争优势、实现持续发展提供有利条件。 煤化工产业 公司重点发展煤制烯烃、煤制尿素等现代煤化工产业。主要分布在内蒙古、陕西、山西等省区。装置长期保持“安稳长满优”运行,主要生产运营指标保持行业领先。 发电产业 公司以优化产业结构、消纳自产煤为目标,积极发展环保型坑口电厂和劣质煤综合利用电厂,参股建设下游电厂项目,推进煤电联营和煤电一体化,积极打造低成本、高效率、资源综合利用的特色优势。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 14.55,
+  "change_pct": -1.89,
+  "total_mv": 192913552470.0,
+  "float_mv": 133161605820.0,
+  "total_shares": 13258663400,
+  "float_shares": 9152000400,
+  "pe_ttm": 10.52,
+  "pe_static": 10.79,
+  "pb": 1.15,
+  "ps_ttm": 1.31,
+  "turnover_rate": 0.33,
+  "amount": 438304962.0,
+  "high_52w": 19.37,
+  "low_52w": 11.56,
+  "ytd_return": 20.86,
+  "return_1y": 14.22,
+  "return_3y": 104.38,
+  "dividend_yield": 2.63,
+  "index_members": [
+   "沪深300"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 239828439000.0,
+    "revenue_yoy": 70.13,
+    "net_profit": 13739271000.0,
+    "net_profit_yoy": 132.59,
+    "net_profit_deducted": 13505791000.0,
+    "gross_margin": 17.76,
+    "net_margin": 8.13,
+    "selling_expense_ratio": 0.34,
+    "admin_expense_ratio": 1.86,
+    "finance_expense_ratio": 1.65,
+    "rd_expense": 665662000.0,
+    "rd_ratio": 0.28,
+    "eps": 1.04,
+    "bvps": 8.58,
+    "roe": 12.71,
+    "roa": 6.44,
+    "total_assets": 322610395000.0,
+    "total_liab": 179539134000.0,
+    "debt_ratio": 55.65,
+    "cash": 72924794000.0,
+    "receivables": 7768165000.0,
+    "inventory": 8322812000.0,
+    "goodwill": 6084000.0,
+    "interest_debt": 97406021000.0,
+    "equity_parent": 114345615000.0,
+    "ocf": 48096562000.0,
+    "capex": 10427450000.0,
+    "fcf": 37669112000.0,
+    "ocf_to_np": 3.5
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 220576859000.0,
+    "revenue_yoy": -8.03,
+    "net_profit": 18259055000.0,
+    "net_profit_yoy": 32.9,
+    "net_profit_deducted": 18130827000.0,
+    "gross_margin": 25.12,
+    "net_margin": 11.51,
+    "selling_expense_ratio": 0.42,
+    "admin_expense_ratio": 2.38,
+    "finance_expense_ratio": 1.69,
+    "rd_expense": 771490000.0,
+    "rd_ratio": 0.35,
+    "eps": 1.38,
+    "bvps": 9.86,
+    "roe": 14.89,
+    "roa": 7.66,
+    "total_assets": 340223173000.0,
+    "total_liab": 175055030000.0,
+    "debt_ratio": 51.45,
+    "cash": 91025520000.0,
+    "receivables": 8239265000.0,
+    "inventory": 9350026000.0,
+    "goodwill": 6084000.0,
+    "interest_debt": 84229826000.0,
+    "equity_parent": 130864820000.0,
+    "ocf": 43634064000.0,
+    "capex": 9756238000.0,
+    "fcf": 33877826000.0,
+    "ocf_to_np": 2.39
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 192968833000.0,
+    "revenue_yoy": -12.52,
+    "net_profit": 19534049000.0,
+    "net_profit_yoy": 6.98,
+    "net_profit_deducted": 19363619000.0,
+    "gross_margin": 25.07,
+    "net_margin": 13.34,
+    "selling_expense_ratio": 0.54,
+    "admin_expense_ratio": 2.83,
+    "finance_expense_ratio": 1.55,
+    "rd_expense": 916187000.0,
+    "rd_ratio": 0.47,
+    "eps": 1.47,
+    "bvps": 10.87,
+    "roe": 14.21,
+    "roa": 7.47,
+    "total_assets": 349359919000.0,
+    "total_liab": 166577778000.0,
+    "debt_ratio": 47.68,
+    "cash": 91542752000.0,
+    "receivables": 7116996000.0,
+    "inventory": 8734988000.0,
+    "goodwill": 6084000.0,
+    "interest_debt": 72944260000.0,
+    "equity_parent": 144121015000.0,
+    "ocf": 42965340000.0,
+    "capex": 17574916000.0,
+    "fcf": 25390424000.0,
+    "ocf_to_np": 2.2
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 189396004000.0,
+    "revenue_yoy": -1.85,
+    "net_profit": 19285785000.0,
+    "net_profit_yoy": -1.27,
+    "net_profit_deducted": 19103749000.0,
+    "gross_margin": 24.86,
+    "net_margin": 13.16,
+    "selling_expense_ratio": 0.57,
+    "admin_expense_ratio": 2.91,
+    "finance_expense_ratio": 1.26,
+    "rd_expense": 801048000.0,
+    "rd_ratio": 0.42,
+    "eps": 1.45,
+    "bvps": 11.46,
+    "roe": 12.98,
+    "roa": 7.04,
+    "total_assets": 358079152000.0,
+    "total_liab": 165751389000.0,
+    "debt_ratio": 46.29,
+    "cash": 84353168000.0,
+    "receivables": 8402926000.0,
+    "inventory": 7743353000.0,
+    "goodwill": 6084000.0,
+    "interest_debt": 64170604000.0,
+    "equity_parent": 151992797000.0,
+    "ocf": 34143372000.0,
+    "capex": 18081906000.0,
+    "fcf": 16061466000.0,
+    "ocf_to_np": 1.77
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 148056698000.0,
+    "revenue_yoy": -21.83,
+    "net_profit": 17883577000.0,
+    "net_profit_yoy": -7.27,
+    "net_profit_deducted": 17717041000.0,
+    "gross_margin": 27.49,
+    "net_margin": 14.75,
+    "selling_expense_ratio": 0.72,
+    "admin_expense_ratio": 3.58,
+    "finance_expense_ratio": 1.35,
+    "rd_expense": 885996000.0,
+    "rd_ratio": 0.6,
+    "eps": 1.35,
+    "bvps": 12.08,
+    "roe": 11.43,
+    "roa": 6.0,
+    "total_assets": 370254237000.0,
+    "total_liab": 169638408000.0,
+    "debt_ratio": 45.82,
+    "cash": 88717371000.0,
+    "receivables": 7251488000.0,
+    "inventory": 6995004000.0,
+    "goodwill": 6084000.0,
+    "interest_debt": 71040438000.0,
+    "equity_parent": 160133083000.0,
+    "ocf": 29791934000.0,
+    "capex": 21787133000.0,
+    "fcf": 8004801000.0,
+    "ocf_to_np": 1.67
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 73136057000.0,
+   "revenue_yoy": -1.76,
+   "net_profit": 8149301000.0,
+   "net_profit_yoy": 5.83,
+   "net_profit_deducted": 8543567000.0,
+   "gross_margin": 26.92,
+   "net_margin": 13.11,
+   "roe": 4.95,
+   "eps": 0.61,
+   "debt_ratio": 46.54,
+   "ocf": 9864100000.0
+  },
+  "derived": {
+   "revenue_cagr_3y": -12.44,
+   "net_profit_cagr_3y": -0.69,
+   "receivables_to_revenue": 4.9,
+   "goodwill_to_equity": 0.0
+  }
+ },
+ "shareholders": {
+  "controller": "国务院国有资产监督管理委员会",
+  "controlling_shareholder": "中国中煤能源集团有限公司",
+  "controlling_ratio": 57.44,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "中国中煤能源集团有限公司",
+    "hold_num": 7615522208,
+    "hold_ratio": 57.44,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "HKSCC NOMINEES LIMITED",
+    "hold_num": 3962682843,
+    "hold_ratio": 29.89,
+    "hold_num_change": 371000
+   },
+   {
+    "rank": 3,
+    "name": "中国证券金融股份有限公司",
+    "hold_num": 204293132,
+    "hold_ratio": 1.54,
+    "hold_num_change": -81646981
+   },
+   {
+    "rank": 4,
+    "name": "中煤能源香港有限公司",
+    "hold_num": 132351000,
+    "hold_ratio": 1.0,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "香港中央结算有限公司",
+    "hold_num": 75805624,
+    "hold_ratio": 0.57,
+    "hold_num_change": 43278132
+   },
+   {
+    "rank": 6,
+    "name": "中国工商银行股份有限公司-国泰中证煤炭交易型开放式指数证券投资基金",
+    "hold_num": 62398565,
+    "hold_ratio": 0.47,
+    "hold_num_change": 8714611
+   },
+   {
+    "rank": 7,
+    "name": "北京银行股份有限公司-景顺长城景颐双利债券型证券投资基金",
+    "hold_num": 36527205,
+    "hold_ratio": 0.28,
+    "hold_num_change": 3605100
+   },
+   {
+    "rank": 8,
+    "name": "中国工商银行股份有限公司-景顺长城景盛双息收益债券型证券投资基金",
+    "hold_num": 35114804,
+    "hold_ratio": 0.26,
+    "hold_num_change": null
+   },
+   {
+    "rank": 9,
+    "name": "国新宏盛投资(北京)有限公司",
+    "hold_num": 34395817,
+    "hold_ratio": 0.26,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "太保致远(上海)私募基金管理有限公司-太保致远1号私募证券投资基金",
+    "hold_num": 20720200,
+    "hold_ratio": 0.16,
+    "hold_num_change": 0
+   }
+  ],
+  "holder_num": 80755,
+  "holder_num_change_pct": 7.96,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 4.27,
+  "northbound_ratio": 0.57,
+  "executives": [
+   {
+    "name": "王树东",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "高士岗",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "姜群",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.1,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.301,
+    "total_amount": 3990857683.4,
+    "payout_ratio": 29.05,
+    "dividend_yield": 3.26,
+    "ex_date": "2022-07-29"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.413,
+    "total_amount": 5475827984.2,
+    "payout_ratio": 29.99,
+    "dividend_yield": 4.67,
+    "ex_date": "2023-07-26"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.442,
+    "total_amount": 5860329222.8,
+    "payout_ratio": 30.0,
+    "dividend_yield": 3.27,
+    "ex_date": "2024-08-20"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.479,
+    "total_amount": 6350899768.6,
+    "payout_ratio": 32.93,
+    "dividend_yield": 1.91,
+    "ex_date": "2024-10-23"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.383,
+    "total_amount": 5078068082.2,
+    "payout_ratio": 28.4,
+    "dividend_yield": 1.36,
+    "ex_date": "2025-10-22"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 26755982741.2,
+  "cum_netprofit_5y": 88701737000.0,
+  "payout_5y": 30.16,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "601088.SH",
+   "601225.SH",
+   "600188.SH",
+   "002128.SZ"
+  ],
+  "segments": [
+   {
+    "name": "煤炭分部",
+    "revenue": 120397028000.0,
+    "ratio": 81.32,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "煤化工分部",
+    "revenue": 18658201000.0,
+    "ratio": 12.6,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他分部",
+    "revenue": 10111285000.0,
+    "ratio": 6.83,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "煤矿装备分部",
+    "revenue": 9393837000.0,
+    "ratio": 6.34,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "分部间抵销",
+    "revenue": -12710825000.0,
+    "ratio": -8.59,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "国内地区",
+    "revenue": 146301274000.0,
+    "ratio": 98.81,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 935714000.0,
+    "ratio": 0.63,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "国外地区",
+    "revenue": 819710000.0,
+    "ratio": 0.55,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "中国中煤能源股份有限公司关于召开2026年第三季度业绩说明会的预告公告",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225608057.PDF",
+    "type": null
+   },
+   {
+    "title": "中国中煤能源股份有限公司2026年9月份主要生产经营数据公告",
+    "date": "2026-10-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225601086.PDF",
+    "type": null
+   },
+   {
+    "title": "中国中煤能源股份有限公司2026年中期A股利润分派实施公告",
+    "date": "2026-10-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225601059.PDF",
+    "type": null
+   },
+   {
+    "title": "中国中煤能源股份有限公司关于证券事务代表辞任的公告",
+    "date": "2026-09-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-15/1225562733.PDF",
+    "type": null
+   },
+   {
+    "title": "中国中煤能源股份有限公司2026年8月份主要生产经营数据公告",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225559339.PDF",
+    "type": null
+   },
+   {
+    "title": "中国中煤能源股份有限公司关于控股股东首次增持公司股份暨增持计划进展的公告",
+    "date": "2026-09-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-10/1225555312.PDF",
+    "type": null
+   },
+   {
+    "title": "截至2026年6月30日止6个月之中期业绩公告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225489734.PDF",
+    "type": null
+   },
+   {
+    "title": "中国中煤能源股份有限公司2026年半年度报告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225488919.PDF",
+    "type": null
+   },
+   {
+    "title": "中国中煤能源股份有限公司第五届董事会2026年第四次会议决议公告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225488918.PDF",
+    "type": null
+   },
+   {
+    "title": "中国中煤能源股份有限公司2026年度“提质增效重回报”2.0行动方案",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225488915.PDF",
+    "type": null
+   },
+   {
+    "title": "中国中煤能源股份有限公司2026年半年度报告摘要",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225488914.PDF",
+    "type": null
+   },
+   {
+    "title": "中国中煤能源股份有限公司关于中煤财务有限责任公司2026年半年度风险持续评估报告的公告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225488912.PDF",
+    "type": null
+   },
+   {
+    "title": "中国中煤能源股份有限公司2026年中期利润分配方案公告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225488911.PDF",
+    "type": null
+   },
+   {
+    "title": "中国中煤能源股份有限公司2025年年度A股利润分派实施公告",
+    "date": "2026-08-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225479557.PDF",
+    "type": null
+   },
+   {
+    "title": "中国中煤能源股份有限公司2026年7月份主要生产经营数据公告",
+    "date": "2026-08-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-18/1225476493.PDF",
+    "type": null
+   },
+   {
+    "title": "中国中煤能源股份有限公司关于召开2026年半年度业绩说明会的预告公告",
+    "date": "2026-08-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-18/1225476492.PDF",
+    "type": null
+   },
+   {
+    "title": "中国中煤能源股份有限公司关于控股股东获得股票增持专项贷款承诺函的公告",
+    "date": "2026-08-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-01/1225450968.PDF",
+    "type": null
+   },
+   {
+    "title": "中国中煤能源股份有限公司关于控股股东增持公司股份计划的公告",
+    "date": "2026-07-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-20/1225431557.PDF",
+    "type": null
+   },
+   {
+    "title": "中国中煤能源股份有限公司2026年6月份主要生产经营数据公告",
+    "date": "2026-07-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-16/1225425746.PDF",
+    "type": null
+   },
+   {
+    "title": "关于中国中煤能源股份有限公司2025年度股东会的法律意见书",
+    "date": "2026-06-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-27/1225391530.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 82
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "您好！请问截至10月9日收盘公司股东人数是多少，谢谢！",
+    "answer": "感谢您对中煤能源的关注。截至2026年10月9日，中煤能源A股股东80904户。",
+    "ask_date": "2026-10-09",
+    "answer_date": "2026-10-12",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1898"
+   },
+   {
+    "question": "您好！请问截至9月30日公司股东人数是多少，谢谢",
+    "answer": "感谢您对中煤能源的关注。截至2026年9月30日，中煤能源A股股东80551户。",
+    "ask_date": "2026-10-08",
+    "answer_date": "2026-10-08",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1898"
+   },
+   {
+    "question": "您好！请问截至9月底公司股东人数是多少，谢谢！",
+    "answer": "感谢您对中煤能源的关注。截至2026年9月30日，中煤能源A股股东80551户。",
+    "ask_date": "2026-09-30",
+    "answer_date": "2026-10-08",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1898"
+   },
+   {
+    "question": "董秘您好，根据贵司2026年中报，自产动力煤价格494元/吨（同比+13.3%）。对比同期市场半年度均价涨幅，2026年上半年秦皇岛5500大卡动力煤平均长协价686.17元（同比仅+0.6%）、平均现货价767.45元（同比+11.6%）、平均平仓价828.70元（+13.2%），以此来看，公司的动力煤价格变化似乎与现货价和平仓价更加同步，而非长协价，但贵司不是80%左右的动力煤为长协价吗，但走势好像和现货价更同步匹配而非长协价？",
+    "answer": "感谢您对中煤能源的关注。2026年上半年公司自产商品煤中的动力煤平均售价是公司不同矿区、不同热值、不同交付方式（以坑口和铁路直达为主）下动力煤的综合售价，秦皇岛港5500大卡动力煤相关价格主要针对港口下水价，两者基数与口径不同，涨跌幅不宜直接对比。按照有关规定，公司2026年长协比例是自有资源的75%，上半年公司动力煤售价同比提升主要受灵活调整销售策略、优化煤种结构、动力煤平均热值提升等因素综合影响。",
+    "ask_date": "2026-09-28",
+    "answer_date": "2026-09-28",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1898"
+   },
+   {
+    "question": "董秘您好，请问贵司与亚信科技在5G专网方面的合作是一次性项目制还是长期由对方负责运维的持续合作？是否有大幅降低运营成本、显著提高效率？亚信科技另有整套AI数智运营平台，双方是否会拓展合作以实现公司进一步降本增效？",
+    "answer": "感谢您对中煤能源的关注。经核实，目前，公司与相关公司的业务规模非常小。公司及所属单位的信息化、智能化项目，均依照国家法律法规和公司采购管理制度，通过公开招标等市场化方式择优确定供应商，具体项目的合作范围和合作期限等以双方合同约定为准。智能化是公司提质增效的重要手段，公司持续推进煤矿智能化改造和新一代信息技术等在生产场景的应用，有关信息请以公司在法定信息披露媒体披露的内容为准。",
+    "ask_date": "2026-09-17",
+    "answer_date": "2026-09-28",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1898"
+   }
+  ],
+  "count_12m": null
+ }
+}

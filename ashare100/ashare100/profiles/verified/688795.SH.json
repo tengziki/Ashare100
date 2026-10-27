@@ -1,0 +1,606 @@
+{
+ "identity": {
+  "code": "688795",
+  "exchange": "SH",
+  "board": "科创板",
+  "name_full": "摩尔线程智能科技(北京)股份有限公司",
+  "name_abbr": "摩尔线程-U",
+  "aliases": [
+   "mecx",
+   "摩尔线程"
+  ],
+  "name_en": "Moore Threads Technology Co., Ltd.",
+  "pinyin_abbr": "MECX",
+  "former_names": [],
+  "industry_sw1": "电子",
+  "industry_sw2": "半导体",
+  "list_date": "2025-12-05",
+  "province": "北京",
+  "city": "北京",
+  "website": "www.mthreads.com",
+  "chairman": "张建中",
+  "employees": 1274,
+  "business_summary": "GPU及相关产品的研发、设计和销售",
+  "profile": "摩尔线程智能科技(北京)股份有限公司成立于2020年6月,以全功能GPU为核心,致力于向全球提供加速计算的基础设施和一站式解决方案,为各行各业的数智化转型提供强大的AI计算支持。 我们的目标是成为具备国际竞争力的GPU领军企业,为融合人工智能和数字孪生的数智世界打造先进的加速计算平台。我们的愿景是为美好世界加速。 主营业务：GPU及相关产品的研发、设计和销售。 经营范围包括：一般项目:集成电路设计;技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广;集成电路芯片设。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 344.99,
+  "change_pct": -4.57,
+  "total_mv": 162155034582.83,
+  "float_mv": 19319440000.0,
+  "total_shares": 470028217,
+  "float_shares": 56000000,
+  "pe_ttm": -218.71,
+  "pe_static": -162.03,
+  "pb": 13.32,
+  "ps_ttm": 63.84,
+  "turnover_rate": 6.52,
+  "amount": 1282495725.0,
+  "high_52w": 941.08,
+  "low_52w": 315.0,
+  "ytd_return": -41.32,
+  "return_1y": null,
+  "return_3y": null,
+  "dividend_yield": 0.0,
+  "index_members": [
+   "科创50"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": null,
+    "revenue_yoy": null,
+    "net_profit": null,
+    "net_profit_yoy": null,
+    "net_profit_deducted": null,
+    "gross_margin": null,
+    "net_margin": null,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": null,
+    "bvps": null,
+    "roe": null,
+    "roa": null,
+    "total_assets": null,
+    "total_liab": null,
+    "debt_ratio": null,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": null,
+    "ocf": null,
+    "capex": null,
+    "fcf": null,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 46088285.95,
+    "revenue_yoy": null,
+    "net_profit": -1894154689.39,
+    "net_profit_yoy": null,
+    "net_profit_deducted": -1466605400.0,
+    "gross_margin": -70.08,
+    "net_margin": -4109.84,
+    "selling_expense_ratio": 181.49,
+    "admin_expense_ratio": 1425.16,
+    "finance_expense_ratio": 5.36,
+    "rd_expense": 1116493729.26,
+    "rd_ratio": 2422.51,
+    "eps": -10.76,
+    "bvps": 5.28,
+    "roe": -141.75,
+    "roa": -182.59,
+    "total_assets": 2074764497.67,
+    "total_liab": 375115352.71,
+    "debt_ratio": 18.08,
+    "cash": 558164761.14,
+    "receivables": null,
+    "inventory": 251332348.16,
+    "goodwill": null,
+    "interest_debt": 33958764.1,
+    "equity_parent": 1699649144.96,
+    "ocf": -1489514319.19,
+    "capex": 166181246.24,
+    "fcf": -1655695565.43,
+    "ocf_to_np": 0.79
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 123981887.28,
+    "revenue_yoy": 169.01,
+    "net_profit": -1702905815.22,
+    "net_profit_yoy": 10.1,
+    "net_profit_deducted": -1720257707.63,
+    "gross_margin": 25.87,
+    "net_margin": -1373.51,
+    "selling_expense_ratio": 91.59,
+    "admin_expense_ratio": 193.46,
+    "finance_expense_ratio": 2.5,
+    "rd_expense": 1334425728.65,
+    "rd_ratio": 1076.31,
+    "eps": -8.79,
+    "bvps": 2.29,
+    "roe": -158.24,
+    "roa": -83.7,
+    "total_assets": 1994330533.61,
+    "total_liab": 1239429001.05,
+    "debt_ratio": 62.15,
+    "cash": 794150418.38,
+    "receivables": 14077127.83,
+    "inventory": 274974589.51,
+    "goodwill": null,
+    "interest_debt": 628849093.42,
+    "equity_parent": 754901532.56,
+    "ocf": -1158133479.67,
+    "capex": 65068212.91,
+    "fcf": -1223201692.58,
+    "ocf_to_np": 0.68
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 438459518.72,
+    "revenue_yoy": 253.65,
+    "net_profit": -1618288299.52,
+    "net_profit_yoy": 4.97,
+    "net_profit_deducted": -1633257722.48,
+    "gross_margin": 70.71,
+    "net_margin": -369.08,
+    "selling_expense_ratio": 30.71,
+    "admin_expense_ratio": 93.53,
+    "finance_expense_ratio": 5.09,
+    "rd_expense": 1358689034.08,
+    "rd_ratio": 309.88,
+    "eps": -4.99,
+    "bvps": 11.22,
+    "roe": -632.64,
+    "roa": -35.66,
+    "total_assets": 7082396352.66,
+    "total_liab": 2592420027.62,
+    "debt_ratio": 36.6,
+    "cash": 4895721469.4,
+    "receivables": 78169503.11,
+    "inventory": 647037679.19,
+    "goodwill": null,
+    "interest_debt": 1603539643.75,
+    "equity_parent": 4489976325.04,
+    "ocf": -1954508849.62,
+    "capex": 91839132.12,
+    "fcf": -2046347981.74,
+    "ocf_to_np": 1.21
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 1505525060.52,
+    "revenue_yoy": 243.37,
+    "net_profit": -1000786499.6,
+    "net_profit_yoy": 38.16,
+    "net_profit_deducted": -1088029876.39,
+    "gross_margin": 65.57,
+    "net_margin": -66.47,
+    "selling_expense_ratio": 15.44,
+    "admin_expense_ratio": 25.57,
+    "finance_expense_ratio": 2.98,
+    "rd_expense": 1305026191.16,
+    "rd_ratio": 86.68,
+    "eps": -2.47,
+    "bvps": 24.38,
+    "roe": -22.0,
+    "roa": -8.93,
+    "total_assets": 15338632663.4,
+    "total_liab": 3879618403.02,
+    "debt_ratio": 25.29,
+    "cash": 9175752530.27,
+    "receivables": 433894745.87,
+    "inventory": 1332068478.65,
+    "goodwill": null,
+    "interest_debt": 2941417914.07,
+    "equity_parent": 11459014260.38,
+    "ocf": -2956389729.92,
+    "capex": 637211501.99,
+    "fcf": -3593601231.91,
+    "ocf_to_np": 2.95
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 1736309066.25,
+   "revenue_yoy": 147.42,
+   "net_profit": -11563095.44,
+   "net_profit_yoy": 95.73,
+   "net_profit_deducted": -150821800.29,
+   "gross_margin": 56.95,
+   "net_margin": -0.67,
+   "roe": -0.1,
+   "eps": -0.02,
+   "debt_ratio": 28.05,
+   "ocf": -2168986796.01
+  },
+  "derived": {
+   "revenue_cagr_3y": 219.67,
+   "net_profit_cagr_3y": null,
+   "receivables_to_revenue": 28.82,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "张建中",
+  "controlling_shareholder": "南京神傲管理咨询合伙企业(有限合伙)",
+  "controlling_ratio": 12.38,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "南京神傲管理咨询合伙企业(有限合伙)",
+    "hold_num": 58186082,
+    "hold_ratio": 12.38,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "张建中",
+    "hold_num": 44242122,
+    "hold_ratio": 9.41,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "杭州华傲管理咨询合伙企业(有限合伙)",
+    "hold_num": 26927569,
+    "hold_ratio": 5.73,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "明皓创业投资(宿迁)合伙企业(有限合伙)",
+    "hold_num": 19922698,
+    "hold_ratio": 4.24,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "上海国盛资本管理有限公司-盛芯启程私募投资基金(上海)合伙企业(有限合伙)",
+    "hold_num": 19588689,
+    "hold_ratio": 4.17,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "宁波梅山保税港区红杉优品投资管理合伙企业(有限合伙)",
+    "hold_num": 19154406,
+    "hold_ratio": 4.08,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "沛县乾曜兴科技合伙企业(有限合伙)",
+    "hold_num": 16998680,
+    "hold_ratio": 3.62,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "芜湖闻名泉丰创业投资合伙企业(有限合伙)",
+    "hold_num": 11555696,
+    "hold_ratio": 2.46,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "和创数字私募股权基金管理(北京)有限公司-北京中移数字新经济产业基金合伙企业(有限合伙)",
+    "hold_num": 8495555,
+    "hold_ratio": 1.81,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 10,
+    "name": "杭州京傲管理咨询合伙企业(有限合伙)",
+    "hold_num": 8042239,
+    "hold_ratio": 1.71,
+    "hold_num_change": 0
+   }
+  ],
+  "holder_num": 35520,
+  "holder_num_change_pct": -17.03,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 4.44,
+  "northbound_ratio": null,
+  "executives": [
+   {
+    "name": "张建中",
+    "title": "董事长",
+    "pay": 7200000.0
+   },
+   {
+    "name": "张建中",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "薛岩松",
+    "title": "董事会秘书",
+    "pay": 1999700.0
+   }
+  ],
+  "pledge_ratio_total": 1.14,
+  "unlock_12m": [
+   {
+    "date": "2026-12-07",
+    "shares": 185906357,
+    "ratio": 39.55
+   }
+  ]
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   }
+  ],
+  "consecutive_years": 0,
+  "cum_dividend_5y": 0.0,
+  "cum_netprofit_5y": -6216135303.73,
+  "payout_5y": null,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "688825.SH",
+   "688981.SH",
+   "688256.SH",
+   "688041.SH"
+  ],
+  "segments": [
+   {
+    "name": "云端产品",
+    "revenue": 1460967821.07,
+    "ratio": 97.04,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "边缘与终端产品",
+    "revenue": 25505519.58,
+    "ratio": 1.69,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他",
+    "revenue": 19051719.87,
+    "ratio": 1.27,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "境内",
+    "revenue": 1503619643.97,
+    "ratio": 99.87,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "境外",
+    "revenue": 1905416.55,
+    "ratio": 0.13,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "中信证券股份有限公司关于摩尔线程智能科技（北京）股份有限公司首次公开发行网下配售限售股上市流通的核查意见",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225530780.PDF",
+    "type": null
+   },
+   {
+    "title": "摩尔线程2026年第二次临时股东会决议公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225530720.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市中伦律师事务所关于摩尔线程智能科技（北京）股份有限公司2026年第二次临时股东会的法律意见书",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225530699.PDF",
+    "type": null
+   },
+   {
+    "title": "摩尔线程首次公开发行网下配售限售股上市流通公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225530684.PDF",
+    "type": null
+   },
+   {
+    "title": "中信证券股份有限公司关于摩尔线程智能科技（北京）股份有限公司2026年半年度持续督导跟踪报告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225530679.PDF",
+    "type": null
+   },
+   {
+    "title": "摩尔线程关于召开2026年半年度业绩说明会的公告",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225507928.PDF",
+    "type": null
+   },
+   {
+    "title": "摩尔线程2026年第二次临时股东会会议资料",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225490976.PDF",
+    "type": null
+   },
+   {
+    "title": "摩尔线程2026年半年度报告摘要",
+    "date": "2026-08-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-10/1225465348.PDF",
+    "type": null
+   },
+   {
+    "title": "摩尔线程公司章程",
+    "date": "2026-08-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-10/1225465347.PDF",
+    "type": null
+   },
+   {
+    "title": "摩尔线程关联（连）交易管理办法",
+    "date": "2026-08-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-10/1225465346.PDF",
+    "type": null
+   },
+   {
+    "title": "摩尔线程股东会议事规则",
+    "date": "2026-08-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-10/1225465345.PDF",
+    "type": null
+   },
+   {
+    "title": "摩尔线程第一届董事会第十九次会议决议公告",
+    "date": "2026-08-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-10/1225465342.PDF",
+    "type": null
+   },
+   {
+    "title": "摩尔线程关于筹划发行H股股票并在香港联合交易所有限公司主板上市的提示性公告",
+    "date": "2026-08-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-10/1225465337.PDF",
+    "type": null
+   },
+   {
+    "title": "摩尔线程2026年半年度报告",
+    "date": "2026-08-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-10/1225465335.PDF",
+    "type": null
+   },
+   {
+    "title": "摩尔线程董事、高级管理人员所持本公司股份及其变动管理办法",
+    "date": "2026-08-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-10/1225465333.PDF",
+    "type": null
+   },
+   {
+    "title": "摩尔线程信息披露管理办法",
+    "date": "2026-08-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-10/1225465330.PDF",
+    "type": null
+   },
+   {
+    "title": "摩尔线程2026年半年度募集资金存放、管理与实际使用情况的专项报告",
+    "date": "2026-08-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-10/1225465326.PDF",
+    "type": null
+   },
+   {
+    "title": "摩尔线程关于修订于H股发行并上市后生效的《公司章程》及其附件、修订及制定部分公司治理制度的公告",
+    "date": "2026-08-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-10/1225465324.PDF",
+    "type": null
+   },
+   {
+    "title": "摩尔线程关于召开2026年第二次临时股东会的通知",
+    "date": "2026-08-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-10/1225465323.PDF",
+    "type": null
+   },
+   {
+    "title": "摩尔线程董事会议事规则",
+    "date": "2026-08-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-10/1225465322.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 131
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "請問把带有时间和姓名的股票交易软件持仓截图和身份证一并扫描发送至公司邮箱，可以获知 非定期报告相关时点的股东人数吗？盼你们具体，明确答复。【比如截至到2026年10月9日(星期五）贵公司的股东人数是多少?",
+    "answer": null,
+    "ask_date": "2026-10-19",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=323108"
+   },
+   {
+    "question": "摩尔线程：1.请问贵司投资者专线为什么永远是转移呼叫？这是你们作为一家上市公司对待投资者的态度吗？2.给贵司邮箱发送邮件，也无回复，请问证监会提倡的与投资者交流你们落到实处了吗？3.公司大额解禁后，股价暴跌，投资者损失惨重，公司无任何维护股价稳定的措施，请问你们作为上市公司的责任和担当呢？4.上证E互动平台对投资者提问不能做到及时回复，懈怠的工作态度就是贵司管理不作为的体现，你们有具体的整改措施吗？",
+    "answer": null,
+    "ask_date": "2026-10-12",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=323108"
+   },
+   {
+    "question": "庐山芯片Q 4上市，现在已经是10月份了请问能如期上市吗？性能可以达到发布的水平吗谢谢！—- 一个游戏玩家。",
+    "answer": null,
+    "ask_date": "2026-10-12",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=323108"
+   },
+   {
+    "question": "董秘您好，美国拟限制云端算力，端侧模型兴起。请问： 企业端：MTT S5000及夸娥集群能否承接溢出需求？与英伟达在单卡及集群扩展上差距如何？MUSA生态如何降低迁移成本、追赶CUDA？ 消费端：Q4将上市的“庐山”GPU，本地AI推理相比S80及英伟达同代产品有何优劣势？MUSA对Ollama等消费级框架适配深度如何，能否满足“买回家跑模型”？ 下一代“花港”及“华山”芯片何时量产？",
+    "answer": null,
+    "ask_date": "2026-10-09",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=323108"
+   }
+  ],
+  "count_12m": null
+ }
+}

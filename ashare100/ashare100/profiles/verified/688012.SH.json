@@ -1,0 +1,643 @@
+{
+ "identity": {
+  "code": "688012",
+  "exchange": "SH",
+  "board": "科创板",
+  "name_full": "中微半导体设备(上海)股份有限公司",
+  "name_abbr": "中微公司",
+  "aliases": [
+   "zwgs"
+  ],
+  "name_en": "Advanced Micro-Fabrication Equipment Inc. China",
+  "pinyin_abbr": "ZWGS",
+  "former_names": [],
+  "industry_sw1": "电子",
+  "industry_sw2": "半导体",
+  "list_date": "2019-07-22",
+  "province": "上海",
+  "city": "上海",
+  "website": "www.amec-inc.com",
+  "chairman": "GERALD ZHEYAO YIN(尹志尧)",
+  "employees": 2963,
+  "business_summary": "高端半导体设备及泛半导体设备的研发、生产和销售",
+  "profile": "中微半导体设备(上海)股份有限公司(证券简称“中微公司”,证券代码“688012”)是一家以中国为基地、面向全球的微观加工高端设备公司,为集成电路和泛半导体行业提供极具竞争力的高端设备和高质量的服务。中微开发的等离子体刻蚀设备和化学薄膜设备是制造各种微观器件的关键设备,可加工微米级和纳米级的各种器件。这些微观器件是现代数码产业的基础,它们正在彻底改变人类的生产方式和生活方式。中微总部位于上海,聚焦亚洲,并为全球的客户提供技术和设备的解决方案。作为制造和创新的中心,中国和亚洲具有得天独厚的优势和高速成长的市场,而这使中微有无限广阔的发展前景。在中微员工的创新激情、多年的齐心奋斗和合作共赢的精神指引下,中微已经成为一家快速成长的微观加工设备公司,在技术创新、产品优化和市场准入方面取得了重大突破,赢得了众多客户和供应厂商的信任和支持,成为国际半导体微观加工设备产业极具竞争力的一颗新星。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 264.18,
+  "change_pct": -3.58,
+  "total_mv": 253042791494.64,
+  "float_mv": 248909613498.84,
+  "total_shares": 957842348,
+  "float_shares": 942197038,
+  "pe_ttm": 59.81,
+  "pe_static": 119.84,
+  "pb": 8.42,
+  "ps_ttm": 17.93,
+  "turnover_rate": 1.85,
+  "amount": 4674668103.0,
+  "high_52w": 500.0,
+  "low_52w": 171.72,
+  "ytd_return": 44.52,
+  "return_1y": 47.74,
+  "return_3y": 148.26,
+  "dividend_yield": 0.13,
+  "index_members": [
+   "上证50",
+   "沪深300",
+   "中证A500",
+   "科创50"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 3108134730.67,
+    "revenue_yoy": 36.72,
+    "net_profit": 1011423670.06,
+    "net_profit_yoy": 105.49,
+    "net_profit_deducted": 324395998.31,
+    "gross_margin": 43.36,
+    "net_margin": 32.54,
+    "selling_expense_ratio": 9.53,
+    "admin_expense_ratio": 6.52,
+    "finance_expense_ratio": -2.28,
+    "rd_expense": 397587143.31,
+    "rd_ratio": 12.79,
+    "eps": 1.76,
+    "bvps": 22.62,
+    "roe": 11.09,
+    "roa": 8.98,
+    "total_assets": 16732989003.95,
+    "total_liab": 2792788758.18,
+    "debt_ratio": 16.69,
+    "cash": 8658859679.52,
+    "receivables": 508609562.73,
+    "inventory": 1762247518.36,
+    "goodwill": null,
+    "interest_debt": 16677896.68,
+    "equity_parent": 13940019843.26,
+    "ocf": 1016256088.4,
+    "capex": 496530685.95,
+    "fcf": 519725402.45,
+    "ocf_to_np": 1.0
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 4739830997.55,
+    "revenue_yoy": 52.5,
+    "net_profit": 1169792388.77,
+    "net_profit_yoy": 15.66,
+    "net_profit_deducted": 919458510.64,
+    "gross_margin": 45.74,
+    "net_margin": 24.64,
+    "selling_expense_ratio": 8.62,
+    "admin_expense_ratio": 4.98,
+    "finance_expense_ratio": -3.19,
+    "rd_expense": 605343887.13,
+    "rd_ratio": 12.77,
+    "eps": 1.9,
+    "bvps": 25.13,
+    "roe": 7.94,
+    "roa": 6.35,
+    "total_assets": 20034781468.88,
+    "total_liab": 4552280216.8,
+    "debt_ratio": 22.72,
+    "cash": 7326008282.76,
+    "receivables": 618770212.45,
+    "inventory": 3401914351.15,
+    "goodwill": null,
+    "interest_debt": 523871590.26,
+    "equity_parent": 15483931875.39,
+    "ocf": 617523432.12,
+    "capex": 1505117266.22,
+    "fcf": -887593834.1,
+    "ocf_to_np": 0.53
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 6263513581.37,
+    "revenue_yoy": 32.15,
+    "net_profit": 1785907974.46,
+    "net_profit_yoy": 52.67,
+    "net_profit_deducted": 1191434841.55,
+    "gross_margin": 43.81,
+    "net_margin": 28.48,
+    "selling_expense_ratio": 5.84,
+    "admin_expense_ratio": 5.49,
+    "finance_expense_ratio": -1.39,
+    "rd_expense": 816652948.28,
+    "rd_ratio": 13.04,
+    "eps": 2.89,
+    "bvps": 28.79,
+    "roe": 10.72,
+    "roa": 8.59,
+    "total_assets": 21525546561.69,
+    "total_liab": 3702441375.24,
+    "debt_ratio": 17.2,
+    "cash": 7090409172.79,
+    "receivables": 1164908187.07,
+    "inventory": 4260340245.57,
+    "goodwill": null,
+    "interest_debt": 526603742.16,
+    "equity_parent": 17826122876.82,
+    "ocf": -976926439.66,
+    "capex": 870455803.24,
+    "fcf": -1847382242.9,
+    "ocf_to_np": -0.55
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 9065165097.69,
+    "revenue_yoy": 44.73,
+    "net_profit": 1615675746.81,
+    "net_profit_yoy": -9.53,
+    "net_profit_deducted": 1388153354.14,
+    "gross_margin": 41.06,
+    "net_margin": 17.81,
+    "selling_expense_ratio": 5.28,
+    "admin_expense_ratio": 5.31,
+    "finance_expense_ratio": -0.96,
+    "rd_expense": 1417657501.11,
+    "rd_ratio": 15.64,
+    "eps": 2.61,
+    "bvps": 31.71,
+    "roe": 8.66,
+    "roa": 6.76,
+    "total_assets": 26217544719.07,
+    "total_liab": 6482002827.11,
+    "debt_ratio": 24.72,
+    "cash": 7761617180.32,
+    "receivables": 1352336466.74,
+    "inventory": 7038518704.32,
+    "goodwill": null,
+    "interest_debt": 768419835.18,
+    "equity_parent": 19736912284.36,
+    "ocf": 1458401788.71,
+    "capex": 895062082.75,
+    "fcf": 563339705.96,
+    "ocf_to_np": 0.9
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 12384638268.11,
+    "revenue_yoy": 36.62,
+    "net_profit": 2111472990.43,
+    "net_profit_yoy": 30.69,
+    "net_profit_deducted": 1549796388.43,
+    "gross_margin": 39.17,
+    "net_margin": 16.67,
+    "selling_expense_ratio": 4.03,
+    "admin_expense_ratio": 3.86,
+    "finance_expense_ratio": -0.38,
+    "rd_expense": 2475424032.16,
+    "rd_ratio": 19.99,
+    "eps": 3.4,
+    "bvps": 36.24,
+    "roe": 9.97,
+    "roa": 7.36,
+    "total_assets": 29846018981.43,
+    "total_liab": 7117178471.34,
+    "debt_ratio": 23.85,
+    "cash": 7951400258.31,
+    "receivables": 1986842828.78,
+    "inventory": 7169972235.39,
+    "goodwill": null,
+    "interest_debt": 754385571.35,
+    "equity_parent": 22694616797.16,
+    "ocf": 2295352919.08,
+    "capex": 854927009.6,
+    "fcf": 1440425909.48,
+    "ocf_to_np": 1.09
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 6691287327.67,
+   "revenue_yoy": 34.89,
+   "net_profit": 2825194624.91,
+   "net_profit_yoy": 300.22,
+   "net_profit_deducted": 1122590335.26,
+   "gross_margin": 39.74,
+   "net_margin": 41.8,
+   "roe": 11.56,
+   "eps": 4.33,
+   "debt_ratio": 19.73,
+   "ocf": 684553490.6
+  },
+  "derived": {
+   "revenue_cagr_3y": 37.73,
+   "net_profit_cagr_3y": 21.76,
+   "receivables_to_revenue": 16.04,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "无实际控制人",
+  "controlling_shareholder": "上海创业投资有限公司",
+  "controlling_ratio": 13.64,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "上海创业投资有限公司",
+    "hold_num": 129960899,
+    "hold_ratio": 13.64,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "香港中央结算有限公司",
+    "hold_num": 126046718,
+    "hold_ratio": 13.23,
+    "hold_num_change": 1198165
+   },
+   {
+    "rank": 3,
+    "name": "巽鑫(上海)投资有限公司",
+    "hold_num": 78717005,
+    "hold_ratio": 8.26,
+    "hold_num_change": -4650000
+   },
+   {
+    "rank": 4,
+    "name": "华芯投资管理有限责任公司-国家集成电路产业投资基金二期股份有限公司",
+    "hold_num": 28314016,
+    "hold_ratio": 2.97,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "广发证券股份有限公司-国泰中证半导体材料设备主题交易型开放式指数证券投资基金",
+    "hold_num": 14236111,
+    "hold_ratio": 1.49,
+    "hold_num_change": 2403600
+   },
+   {
+    "rank": 6,
+    "name": "招商银行股份有限公司-华夏上证科创板50成份交易型开放式指数证券投资基金",
+    "hold_num": 11895379,
+    "hold_ratio": 1.25,
+    "hold_num_change": -541805
+   },
+   {
+    "rank": 7,
+    "name": "中信证券股份有限公司-嘉实上证科创板芯片交易型开放式指数证券投资基金",
+    "hold_num": 11312565,
+    "hold_ratio": 1.19,
+    "hold_num_change": 870303
+   },
+   {
+    "rank": 8,
+    "name": "中国工商银行股份有限公司-易方达上证科创板50成份交易型开放式指数证券投资基金",
+    "hold_num": 7402327,
+    "hold_ratio": 0.78,
+    "hold_num_change": -163635
+   },
+   {
+    "rank": 9,
+    "name": "中国农业银行股份有限公司-东方人工智能主题混合型证券投资基金",
+    "hold_num": 6840031,
+    "hold_ratio": 0.72,
+    "hold_num_change": -464214
+   },
+   {
+    "rank": 10,
+    "name": "尹志尧",
+    "hold_num": 5998877,
+    "hold_ratio": 0.63,
+    "hold_num_change": 65298
+   }
+  ],
+  "holder_num": 89848,
+  "holder_num_change_pct": 75.75,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 23.99,
+  "northbound_ratio": 13.23,
+  "executives": [
+   {
+    "name": "GERALD ZHEYAO YIN(尹志尧)",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "GERALD ZHEYAO YIN(尹志尧)",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "刘方",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.0,
+  "unlock_12m": [
+   {
+    "date": "2026-12-18",
+    "shares": 515643,
+    "ratio": 0.05
+   },
+   {
+    "date": "2027-01-04",
+    "shares": 5156765,
+    "ratio": 0.54
+   },
+   {
+    "date": "2027-06-18",
+    "shares": 8298423,
+    "ratio": 0.87
+   }
+  ]
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": 0.0,
+    "dividend_yield": 0.0,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": 0.0,
+    "dividend_yield": 0.0,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.5,
+    "total_amount": 309661680.5,
+    "payout_ratio": 17.34,
+    "dividend_yield": 0.19,
+    "ex_date": "2023-09-26"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.3,
+    "total_amount": 187843592.1,
+    "payout_ratio": 11.63,
+    "dividend_yield": 0.16,
+    "ex_date": "2025-07-10"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.35,
+    "total_amount": 220094325.85,
+    "payout_ratio": 10.42,
+    "dividend_yield": 0.08,
+    "ex_date": "2026-05-29"
+   }
+  ],
+  "consecutive_years": 3,
+  "cum_dividend_5y": 717599598.45,
+  "cum_netprofit_5y": 7694272770.53,
+  "payout_5y": 9.33,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [
+   "688825.SH",
+   "688981.SH",
+   "688256.SH",
+   "688041.SH"
+  ],
+  "segments": [
+   {
+    "name": "半导体设备相关产品",
+    "revenue": 12384638268.11,
+    "ratio": 100.0,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "大陆地区",
+    "revenue": 12058314866.56,
+    "ratio": 97.37,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "台湾地区",
+    "revenue": 215350813.57,
+    "ratio": 1.74,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他国家和地区",
+    "revenue": 110972587.98,
+    "ratio": 0.9,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "关于公司对外投资暨关联交易的公告",
+    "date": "2026-10-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225601964.PDF",
+    "type": null
+   },
+   {
+    "title": "关于参与设立私募投资基金暨关联交易进展的公告",
+    "date": "2026-09-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-25/1225582793.PDF",
+    "type": null
+   },
+   {
+    "title": "董事、高级管理人员减持股份结果公告",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225561867.PDF",
+    "type": null
+   },
+   {
+    "title": "关于持股5%以上股东权益变动触及1%刻度暨减持股份结果公告",
+    "date": "2026-09-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-10/1225556622.PDF",
+    "type": null
+   },
+   {
+    "title": "关于参加科创板2026年半年度半导体制造、设备及材料行业集体业绩说明会的公告",
+    "date": "2026-09-02",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-02/1225540276.PDF",
+    "type": null
+   },
+   {
+    "title": "关于使用部分募集资金向子公司提供借款以实施募投项目的公告",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482918.PDF",
+    "type": null
+   },
+   {
+    "title": "关于增加2026年度日常关联交易预计额度的公告",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482917.PDF",
+    "type": null
+   },
+   {
+    "title": "国泰海通证券股份有限公司关于中微半导体设备（上海）股份有限公司部分募投项目结项并将节余募集资金永久补充流动资金及部分募投项目延期的核查意见",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482916.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度报告摘要",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482915.PDF",
+    "type": null
+   },
+   {
+    "title": "关于公司部分募投项目结项并将节余募集资金永久补充流动资金及部分募投项目延期的公告",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482911.PDF",
+    "type": null
+   },
+   {
+    "title": "中信证券股份有限公司关于中微半导体设备（上海）股份有限公司使用募集资金置换预先投入募投项目及已支付发行费用的自筹资金的核查意见",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482906.PDF",
+    "type": null
+   },
+   {
+    "title": "普华永道中天会计师事务所(特殊普通合伙)关于中微半导体设备（上海）股份有限公司以自筹资金预先投入募集资金投资项目及支付发行费用情况报告及鉴证报告",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482905.PDF",
+    "type": null
+   },
+   {
+    "title": "中信证券股份有限公司关于中微半导体设备（上海）股份有限公司使用闲置募集资金进行现金管理的核查意见",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482897.PDF",
+    "type": null
+   },
+   {
+    "title": "中信证券股份有限公司关于中微半导体设备（上海）股份有限公司使用部分募集资金向子公司提供借款以实施募投项目的核查意见",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482896.PDF",
+    "type": null
+   },
+   {
+    "title": "关于对外投资的公告",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482894.PDF",
+    "type": null
+   },
+   {
+    "title": "关于使用募集资金置换预先投入募投项目及支付发行费用的自筹资金的公告",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482893.PDF",
+    "type": null
+   },
+   {
+    "title": "关于使用闲置募集资金进行现金管理的公告",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482891.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度报告",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482884.PDF",
+    "type": null
+   },
+   {
+    "title": "关于公司募集资金存放、管理与实际使用情况的专项报告",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482882.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年度“提质增效重回报”专项行动方案的半年度评估报告",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482880.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 219
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "请问贵司MOCVD产品是否可以用于磷化铟工艺？如果不行后续是否有相关产品的研发计划？",
+    "answer": "您好，针对光通讯等新兴应用需求，公司积极与行业领先客户开展合作，启动磷化铟（InP）材料体系专用MOCVD设备的开发，实验室已取得良好进展。下半年将结合客户反馈意见，加快产品开发，尽早付运样机至客户端开展生产验证。谢谢您的关注。",
+    "ask_date": "2026-06-22",
+    "answer_date": "2026-08-21",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=145565"
+   },
+   {
+    "question": "請問把带有时间和姓名的股票交易软件持仓截图和身份证一并扫描发送至公司邮箱，可以获知 非定期报告相关时点的股东人数吗？盼你们具体，明确答复。顺祝健康，快乐 【比如截至到2026年7月31日贵公司的股东人数是多少?",
+    "answer": "您好，为保障全体股东公平获取信息，公司严格按照证监会及上交所规则，在定期报告中面向所有投资者统一披露截至报告期末的股东人数。如需查询其他非报告期末时间节点的股东总数情况，请携带本人持股证明及身份证到公司，公司核实股东身份并履行内幕信息知情人登记手续后，将依法合规提供相关信息。感谢您对公司的关注和支持。",
+    "ask_date": "2026-08-06",
+    "answer_date": "2026-08-20",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=145565"
+   },
+   {
+    "question": "请问证代Q2扣非净利润仅10~20亿据此测算对应TTM约150倍左右，即使未来5年保持30%以上增长也透支未来数年业绩存，同比85%~122%但归母利润高达27~29亿（ 282%~310%）这部分主要是由拓荆科技权益投资贡献”纸面富贵“若下半年股价大幅下跌是否会重创全年归母利润亏损？另外贵司属于重资产在行业周期衰退时折旧摊销会加剧亏损作为管理层对于中小投资者如何尽到风险提示的责任？请反馈给总经理",
+    "answer": "您好，公司出售持有的拓荆科技股票实现的投资收益属于非流动性资产处置损益，公司按照《公开发行证券的公司信息披露解释性公告第1号——非经常性损益》界定为非经常性损益项目。按照会计准则规定，公司持有拓荆科技股权的会计处理为权益法计量的长期股权投资，公司将按照持股比例分摊被投资公司的利润或亏损，与股价的波动无关。谢谢您的关注。",
+    "ask_date": "2026-08-05",
+    "answer_date": "2026-08-20",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=145565"
+   },
+   {
+    "question": "董秘：你好！咱们公司股价近期波动较大，是不是有什么没有公布的信息？能否预告一下上半年的业绩（利润情况）？谢谢！",
+    "answer": "您好，二级市场股票的价格波动受国际环境、宏观经济、行业发展阶段、投资者偏好等诸多因素的综合影响。公司生产经营情况一切正常，公司已于2026年8月4日发布《中微公司：2026年半年度业绩预告的自愿性披露公告》，具体业绩情况请关注公司指定信息披露渠道。谢谢您的关注。",
+    "ask_date": "2026-07-31",
+    "answer_date": "2026-08-20",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=145565"
+   },
+   {
+    "question": "鉴于当前的市场形势，公司理应效仿诸多同类上市公司的做法，积极采取股份回购、中期分红等措施维护股价稳定，以负责任的行动回报投资者。请问公司是否有这样的意愿？谢谢！",
+    "answer": "您好，感谢您的宝贵建议，谢谢您的关注。",
+    "ask_date": "2026-07-23",
+    "answer_date": "2026-08-20",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=145565"
+   },
+   {
+    "question": "董秘：能否预告一下咱们公司上半年的业绩（利润）情况？",
+    "answer": "您好，公司已于2026年8月4日发布《中微公司：2026年半年度业绩预告的自愿性披露公告》，具体业绩情况请关注公司指定信息披露渠道。谢谢您的关注。",
+    "ask_date": "2026-07-17",
+    "answer_date": "2026-08-20",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=145565"
+   },
+   {
+    "question": "請問把带有时间和姓名的股票交易软件持仓截图和身份证一并扫描发送至公司邮箱，可以获知 非定期报告相关时点的股东人数吗？盼你们具体，明确答复。顺祝健康，快乐 【比如截至到2026年6月10日贵公司的股东人数是多少?",
+    "answer": "您好，为保障全体股东公平获取信息，公司严格按照证监会及上交所规则，在定期报告中面向所有投资者统一披露截至报告期末的股东人数。如需查询其他非报告期末时间节点的股东总数情况，请携带本人持股证明及身份证到公司，公司核实股东身份并履行内幕信息知情人登记手续后，将依法合规提供相关信息。感谢您对公司的关注和支持。",
+    "ask_date": "2026-06-15",
+    "answer_date": "2026-06-30",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=145565"
+   },
+   {
+    "question": "请问SK海力士向贵司采购设备吗？ 贵司和Sk海力士是否有长期供货协议？ 麻烦解答，谢谢",
+    "answer": "您好，公司注重海外业务拓展，持续支持海外内客户的扩产需求。具体情况请以公开披露信息为准。谢谢您的关注。",
+    "ask_date": "2026-06-04",
+    "answer_date": "2026-06-30",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=145565"
+   }
+  ],
+  "count_12m": null
+ }
+}

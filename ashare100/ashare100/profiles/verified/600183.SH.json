@@ -1,0 +1,614 @@
+{
+ "identity": {
+  "code": "600183",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "广东生益科技股份有限公司",
+  "name_abbr": "生益科技",
+  "aliases": [
+   "sykj"
+  ],
+  "name_en": "SHENGYI TECHNOLOGY CO.,LTD.",
+  "pinyin_abbr": "SYKJ",
+  "former_names": [
+   "生益股份→生益科技→G生益"
+  ],
+  "industry_sw1": "电子",
+  "industry_sw2": "元件",
+  "list_date": "1998-10-28",
+  "province": "广东",
+  "city": "东莞",
+  "website": "www.syst.com.cn",
+  "chairman": "陈仁喜",
+  "employees": 14523,
+  "business_summary": "设计、生产和销售覆铜板和粘结片、印制线路板",
+  "profile": "广东生益科技股份有限公司创始于1985年,是集研发、生产、销售、服务为一体的全球电子电路基材核心供应商。经过三十余年的发展,通过生益人的不断努力,生益覆铜板板材产量从建厂之初的年产60万平方米发展到2023年度的1.2亿平方米。根据美国Prismark调研机构对于全球硬质覆铜板的统计和排名,从2013年至今,生益科技硬质覆铜板销售总额已持续保持全球第二。生益科技集团总部坐落于中国最具经济活力的城市--广东东莞。先后在咸阳、苏州、香港、台湾、常熟、南通和九江等地建立了全资子公司和控股子公司,集团员工10000余人。生益科技始终立足于高标准、高品质、高性能、高可靠性,自主生产覆铜板、半固化片、绝缘层压板、金属基覆铜箔板、涂树脂铜箔、覆盖膜类等高端电子材料。产品主要供制作单、双面线路板及高多层线路板,广泛应用于高算力、AI服务器、5G天线、新一代通讯基站、大型计算机、高端服务器、航空航天工业、芯片封装、汽车电子、智能家居、工控医疗设备、家电、消费类终端以及各种中高档电子产品中。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 110.26,
+  "change_pct": -7.34,
+  "total_mv": 267821944654.2,
+  "float_mv": 265919428972.82,
+  "total_shares": 2429003670,
+  "float_shares": 2411748857,
+  "pe_ttm": 51.56,
+  "pe_static": 80.33,
+  "pb": 14.48,
+  "ps_ttm": 7.7,
+  "turnover_rate": 2.36,
+  "amount": 6453595897.0,
+  "high_52w": 191.88,
+  "low_52w": 50.4,
+  "ytd_return": 56.15,
+  "return_1y": 90.93,
+  "return_3y": 696.68,
+  "dividend_yield": 1.09,
+  "index_members": [
+   "上证50",
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 20274262977.87,
+    "revenue_yoy": 38.04,
+    "net_profit": 2829683547.57,
+    "net_profit_yoy": 68.38,
+    "net_profit_deducted": 2528258242.57,
+    "gross_margin": 26.82,
+    "net_margin": 14.43,
+    "selling_expense_ratio": 1.14,
+    "admin_expense_ratio": 4.49,
+    "finance_expense_ratio": 0.5,
+    "rd_expense": 964472947.1,
+    "rd_ratio": 4.76,
+    "eps": 1.23,
+    "bvps": 5.67,
+    "roe": 24.34,
+    "roa": 13.67,
+    "total_assets": 24431164539.25,
+    "total_liab": 9564943800.26,
+    "debt_ratio": 39.15,
+    "cash": 2286605004.56,
+    "receivables": 6119700686.74,
+    "inventory": 4520328850.84,
+    "goodwill": 18846801.11,
+    "interest_debt": 3982602225.75,
+    "equity_parent": 13096413999.03,
+    "ocf": 1775653273.05,
+    "capex": 1786817704.75,
+    "fcf": -11164431.7,
+    "ocf_to_np": 0.63
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 18014442222.42,
+    "revenue_yoy": -11.15,
+    "net_profit": 1530789704.01,
+    "net_profit_yoy": -45.9,
+    "net_profit_deducted": 1428470542.87,
+    "gross_margin": 22.03,
+    "net_margin": 9.06,
+    "selling_expense_ratio": 1.3,
+    "admin_expense_ratio": 4.42,
+    "finance_expense_ratio": 0.66,
+    "rd_expense": 943229755.81,
+    "rd_ratio": 5.24,
+    "eps": 0.66,
+    "bvps": 5.8,
+    "roe": 11.71,
+    "roa": 6.58,
+    "total_assets": 25195631347.65,
+    "total_liab": 9899466838.62,
+    "debt_ratio": 39.29,
+    "cash": 3105848398.61,
+    "receivables": 5582193927.21,
+    "inventory": 4083834827.67,
+    "goodwill": null,
+    "interest_debt": 4807612960.31,
+    "equity_parent": 13498100115.95,
+    "ocf": 2820006673.26,
+    "capex": 1534151960.4,
+    "fcf": 1285854712.86,
+    "ocf_to_np": 1.84
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 16586072808.8,
+    "revenue_yoy": -7.93,
+    "net_profit": 1163995300.44,
+    "net_profit_yoy": -23.96,
+    "net_profit_deducted": 1091822919.48,
+    "gross_margin": 19.19,
+    "net_margin": 6.93,
+    "selling_expense_ratio": 1.48,
+    "admin_expense_ratio": 4.23,
+    "finance_expense_ratio": 0.67,
+    "rd_expense": 840788838.28,
+    "rd_ratio": 5.07,
+    "eps": 0.5,
+    "bvps": 5.94,
+    "roe": 8.57,
+    "roa": 4.58,
+    "total_assets": 24956644491.86,
+    "total_liab": 9256451786.53,
+    "debt_ratio": 37.09,
+    "cash": 2774667745.03,
+    "receivables": 5520136050.0,
+    "inventory": 4271232412.18,
+    "goodwill": null,
+    "interest_debt": 3858390792.03,
+    "equity_parent": 13983415852.98,
+    "ocf": 2743136883.19,
+    "capex": 1108818008.54,
+    "fcf": 1634318874.65,
+    "ocf_to_np": 2.36
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 20388330213.56,
+    "revenue_yoy": 22.92,
+    "net_profit": 1738669517.06,
+    "net_profit_yoy": 49.37,
+    "net_profit_deducted": 1675096520.26,
+    "gross_margin": 22.04,
+    "net_margin": 9.16,
+    "selling_expense_ratio": 1.83,
+    "admin_expense_ratio": 4.13,
+    "finance_expense_ratio": 0.34,
+    "rd_expense": 1156638789.08,
+    "rd_ratio": 5.67,
+    "eps": 0.74,
+    "bvps": 6.14,
+    "roe": 12.17,
+    "roa": 7.1,
+    "total_assets": 27643247046.83,
+    "total_liab": 11138288223.06,
+    "debt_ratio": 40.29,
+    "cash": 2015811792.92,
+    "receivables": 7305467518.99,
+    "inventory": 5119492461.54,
+    "goodwill": null,
+    "interest_debt": 3583523376.82,
+    "equity_parent": 14904781423.6,
+    "ocf": 1456120554.83,
+    "capex": 925920921.79,
+    "fcf": 530199633.04,
+    "ocf_to_np": 0.84
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 28431138459.44,
+    "revenue_yoy": 39.45,
+    "net_profit": 3333954377.92,
+    "net_profit_yoy": 91.75,
+    "net_profit_deducted": 3174916620.66,
+    "gross_margin": 26.47,
+    "net_margin": 13.69,
+    "selling_expense_ratio": 1.89,
+    "admin_expense_ratio": 3.83,
+    "finance_expense_ratio": 0.34,
+    "rd_expense": 1450078250.35,
+    "rd_ratio": 5.1,
+    "eps": 1.39,
+    "bvps": 6.88,
+    "roe": 21.25,
+    "roa": 12.88,
+    "total_assets": 32769563621.37,
+    "total_liab": 13859467654.75,
+    "debt_ratio": 42.29,
+    "cash": 1743976591.79,
+    "receivables": 9525607711.46,
+    "inventory": 5786018859.23,
+    "goodwill": null,
+    "interest_debt": 3676930770.8,
+    "equity_parent": 16723501226.33,
+    "ocf": 5273633309.36,
+    "capex": 2375659280.28,
+    "fcf": 2897974029.08,
+    "ocf_to_np": 1.58
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 19025611766.13,
+   "revenue_yoy": 50.05,
+   "net_profit": 3286977278.33,
+   "net_profit_yoy": 130.42,
+   "net_profit_deducted": 2907702351.56,
+   "gross_margin": 30.69,
+   "net_margin": 19.54,
+   "roe": 18.17,
+   "eps": 1.36,
+   "debt_ratio": 50.33,
+   "ocf": 2983205422.39
+  },
+  "derived": {
+   "revenue_cagr_3y": 16.43,
+   "net_profit_cagr_3y": 29.62,
+   "receivables_to_revenue": 33.5,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "无实际控制人",
+  "controlling_shareholder": "广东省广新控股集团有限公司",
+  "controlling_ratio": 22.56,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "广东省广新控股集团有限公司",
+    "hold_num": 547979502,
+    "hold_ratio": 22.56,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "东莞市国弘投资有限公司",
+    "hold_num": 322740539,
+    "hold_ratio": 13.29,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "伟华电子有限公司",
+    "hold_num": 295010353,
+    "hold_ratio": 12.14,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "香港中央结算有限公司",
+    "hold_num": 120637469,
+    "hold_ratio": 4.97,
+    "hold_num_change": -30386089
+   },
+   {
+    "rank": 5,
+    "name": "广新集团-中信证券-26GXKEB1担保及信托财产专户",
+    "hold_num": 20000000,
+    "hold_ratio": 0.82,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "中国农业银行股份有限公司-大成科技创新混合型证券投资基金",
+    "hold_num": 11527802,
+    "hold_ratio": 0.47,
+    "hold_num_change": null
+   },
+   {
+    "rank": 7,
+    "name": "全国社保基金一一三组合",
+    "hold_num": 9544918,
+    "hold_ratio": 0.39,
+    "hold_num_change": null
+   },
+   {
+    "rank": 8,
+    "name": "中国建设银行股份有限公司-华泰柏瑞质量成长混合型证券投资基金",
+    "hold_num": 9153760,
+    "hold_ratio": 0.38,
+    "hold_num_change": null
+   },
+   {
+    "rank": 9,
+    "name": "江苏银行股份有限公司-中航机遇领航混合型发起式证券投资基金",
+    "hold_num": 8751000,
+    "hold_ratio": 0.36,
+    "hold_num_change": 751000
+   },
+   {
+    "rank": 10,
+    "name": "东莞市科创资本产业发展投资有限公司",
+    "hold_num": 8692132,
+    "hold_ratio": 0.36,
+    "hold_num_change": 0
+   }
+  ],
+  "holder_num": 343008,
+  "holder_num_change_pct": 99.85,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 25.74,
+  "northbound_ratio": 4.97,
+  "executives": [
+   {
+    "name": "陈仁喜",
+    "title": "董事长",
+    "pay": 15733800.0
+   },
+   {
+    "name": "曾红慧",
+    "title": "总经理",
+    "pay": 16425500.0
+   },
+   {
+    "name": "唐芙云",
+    "title": "董事会秘书",
+    "pay": 6109500.0
+   }
+  ],
+  "pledge_ratio_total": 0.0,
+  "unlock_12m": [
+   {
+    "date": "2027-07-05",
+    "shares": 17448093,
+    "ratio": 0.72
+   }
+  ]
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.6,
+    "total_amount": 1389158764.8,
+    "payout_ratio": 49.09,
+    "dividend_yield": 3.63,
+    "ex_date": "2022-05-26"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.45,
+    "total_amount": 1053464178.15,
+    "payout_ratio": 68.82,
+    "dividend_yield": 2.99,
+    "ex_date": "2023-05-26"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.45,
+    "total_amount": 1064048620.5,
+    "payout_ratio": 91.41,
+    "dividend_yield": 2.2,
+    "ex_date": "2024-05-24"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.6,
+    "total_amount": 1457616318.0,
+    "payout_ratio": 83.84,
+    "dividend_yield": 2.21,
+    "ex_date": "2025-05-23"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 1.2,
+    "total_amount": 2915000556.0,
+    "payout_ratio": 87.43,
+    "dividend_yield": 0.61,
+    "ex_date": "2025-09-25"
+   }
+  ],
+  "consecutive_years": 5,
+  "cum_dividend_5y": 7879288437.45,
+  "cum_netprofit_5y": 10597092447.0,
+  "payout_5y": 74.35,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [
+   "002384.SZ",
+   "002463.SZ",
+   "002916.SZ",
+   "300408.SZ"
+  ],
+  "segments": [
+   {
+    "name": "覆铜板业务",
+    "revenue": 18796475297.19,
+    "ratio": 66.11,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "线路板业务",
+    "revenue": 9485343220.78,
+    "ratio": 33.36,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他业务",
+    "revenue": 901103337.34,
+    "ratio": 3.17,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "地产业务",
+    "revenue": 93840211.06,
+    "ratio": 0.33,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "分部间抵销",
+    "revenue": -845623606.93,
+    "ratio": -2.97,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "内销",
+    "revenue": 21059050261.66,
+    "ratio": 74.07,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "外销",
+    "revenue": 6808382125.69,
+    "ratio": 23.95,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 563706072.09,
+    "ratio": 1.98,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "生益科技关于以集中竞价交易方式回购股份方案的公告",
+    "date": "2026-10-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-22/1225614171.PDF",
+    "type": null
+   },
+   {
+    "title": "生益科技第十一届董事会第二十一次会议决议公告",
+    "date": "2026-10-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-22/1225614167.PDF",
+    "type": null
+   },
+   {
+    "title": "生益科技关于董事长提议公司回购股份的提示性公告",
+    "date": "2026-10-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-19/1225610004.PDF",
+    "type": null
+   },
+   {
+    "title": "生益科技2026年前三季度业绩预增的自愿性披露公告",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225608514.PDF",
+    "type": null
+   },
+   {
+    "title": "生益科技关于持股5%以上股东权益变动触及1%刻度的提示性公告",
+    "date": "2026-10-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-10/1225599516.PDF",
+    "type": null
+   },
+   {
+    "title": "生益科技董事减持股份结果公告",
+    "date": "2026-09-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225578856.PDF",
+    "type": null
+   },
+   {
+    "title": "生益科技关于湖南绿晟环保股份有限公司及其下属公司互相提供担保的进展公告",
+    "date": "2026-08-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505932.PDF",
+    "type": null
+   },
+   {
+    "title": "生益科技2026年半年度报告摘要",
+    "date": "2026-08-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225475827.PDF",
+    "type": null
+   },
+   {
+    "title": "生益科技关于召开2026年半年度业绩说明会的公告",
+    "date": "2026-08-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225475803.PDF",
+    "type": null
+   },
+   {
+    "title": "生益科技关于2026年半年度日常关联交易情况及增加2026年度日常关联交易预计额度的公告",
+    "date": "2026-08-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225475789.PDF",
+    "type": null
+   },
+   {
+    "title": "生益科技2026年半年度报告",
+    "date": "2026-08-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225475783.PDF",
+    "type": null
+   },
+   {
+    "title": "生益科技第十一届董事会第二十次会议决议公告",
+    "date": "2026-08-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225475714.PDF",
+    "type": null
+   },
+   {
+    "title": "生益科技股票交易风险提示公告",
+    "date": "2026-08-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-08/1225463839.PDF",
+    "type": null
+   },
+   {
+    "title": "生益科技股票交易异常波动公告",
+    "date": "2026-08-07",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-07/1225462224.PDF",
+    "type": null
+   },
+   {
+    "title": "生益科技关于湖南绿晟环保股份有限公司及其下属公司互相提供担保的进展公告",
+    "date": "2026-08-07",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-07/1225462223.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市康达（广州）律师事务所关于生益科技2026年第一次临时股东会的法律意见书",
+    "date": "2026-07-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-25/1225441495.PDF",
+    "type": null
+   },
+   {
+    "title": "生益科技2026年第一次临时股东会决议公告",
+    "date": "2026-07-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-25/1225441493.PDF",
+    "type": null
+   },
+   {
+    "title": "生益科技关于2024年度限制性股票激励计划第二个解除限售期解除限售暨上市的公告",
+    "date": "2026-07-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-17/1225428540.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市康达（广州）律师事务所关于生益科技2024年度限制性股票激励计划第二个解除限售期解除限售条件成就的法律意见书",
+    "date": "2026-07-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-17/1225428528.PDF",
+    "type": null
+   },
+   {
+    "title": "生益科技关于拟处置持有的江苏联瑞新材料股份有限公司可转换公司债券的公告",
+    "date": "2026-07-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-15/1225424289.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 140
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "董秘您好，公司 2026 年中报显示，本期净利润 37.18 亿元，去年同期 16.23 亿元，同比大幅增长 129.11%，创下近 10 年中报净利润新高。碧湾 APP 分析，利润大增由两大板块共同驱动：一是主营业务利润本期 38.01 亿元，去年同期 17.44 亿元，主业盈利大幅抬升；二是公允价值变动收益本期 4.10 亿元，去年同期仅 64.52 万元，该科目实现爆发式增长。想请问董秘，本次公允价值变动收益大幅增长，主要对应的是哪些资产的价值变动？",
+    "answer": "公司2026年半年度报告，公允价值变动收益增长较大的原因主要系确认联瑞新材可转债公允价值变动所致。谢谢关注。",
+    "ask_date": "2026-09-24",
+    "answer_date": "2026-10-08",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=183"
+   },
+   {
+    "question": "尊敬的董秘您好， AI 算力 FC‑BGA 载板领域，味之素 Build‑up Film 材料供给紧张，国产类 ABF 积层绝缘膜存在较大国产替代空间。请问公司自研的对标该方向的 SIF 系列积层绝缘膜，目前处于中试、试样还是客户端送样验证阶段？是否已经向国内 IC 载板厂商开展送样工作？另外公司 BT 树脂与该类膜材料是否具备协同配套能力？感谢解答。",
+    "answer": "公司在较早期就在封装载板用基板材料方面做了相关技术布局，对标该领域内的国际标杆企业，覆盖了不同材料技术路线，并和终端进行专属基板材料开发应用。公司有开发对标味之素系列增层胶膜的产品，即SIF系列增层胶膜，公司BT载板材料与该类膜材料具备协同配套能力。具体经营情况请关注公司定期报告。谢谢关注。",
+    "ask_date": "2026-08-17",
+    "answer_date": "2026-10-08",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=183"
+   }
+  ],
+  "count_12m": null
+ }
+}

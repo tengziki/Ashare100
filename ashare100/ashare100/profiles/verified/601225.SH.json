@@ -1,0 +1,629 @@
+{
+ "identity": {
+  "code": "601225",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "陕西煤业股份有限公司",
+  "name_abbr": "陕西煤业",
+  "aliases": [
+   "sxmy"
+  ],
+  "name_en": "SHAANXI COAL INDUSTRY COMPANY LIMITED",
+  "pinyin_abbr": "SXMY",
+  "former_names": [
+   "N陕煤"
+  ],
+  "industry_sw1": "煤炭",
+  "industry_sw2": "煤炭开采",
+  "list_date": "2014-01-28",
+  "province": "陕西",
+  "city": "西安",
+  "website": "www.shxcoal.com",
+  "chairman": "赵福堂",
+  "employees": 43455,
+  "business_summary": "煤炭、电力的生产和销售以及生产服务等业务,煤炭产品主要用于电力、化工及冶金等行业",
+  "profile": "陕西煤业股份有限公司(以下简称“陕西煤业”或“公司”)是陕西煤业化工集团公司以煤炭主业资产出资,联合三峡集团、华能开发、陕西有色、陕鼓集团于2008年12月23日共同发起设立的股份有限公司。2014年元月28日,陕西煤业在上海证券交易所挂牌上市,股票代码601225。公司具有较强的资源优势、产品优势、区位优势、政策优势和专业化管理优势。截至2024年末,公司拥有煤炭储量179.31亿吨、可开采储量102.46亿吨,可开采年限70年以上,煤炭资源储量位于中国煤炭上市公司前列。97%以上的煤炭资源位于陕北矿区(神府、榆横)、彬黄(彬长、黄陵)等优质采煤区,特别是陕北地区煤炭赋存条件好,埋藏浅,开采技术条件优越,矿井均为大型现代化矿井,开采成本低,生产成本优势明显。产煤区90%以上的煤炭储量属于优质煤,煤质优良,属特低灰、特低磷、特低硫、中高发热量的优质动力煤、气化煤和理想的化工用煤,在全国范围内具有较强竞争优势。公司主营业务为煤炭开采、洗选、加工、销售以及生产服务等。主要产品为煤炭,具有低灰、低硫、低磷、高发热量等特点,是优质的动力、化工及冶金用煤。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 26.86,
+  "change_pct": -2.79,
+  "total_mv": 260407700000.0,
+  "float_mv": 260407700000.0,
+  "total_shares": 9695000000,
+  "float_shares": 9695000000,
+  "pe_ttm": 12.77,
+  "pe_static": 15.53,
+  "pb": 2.57,
+  "ps_ttm": 1.64,
+  "turnover_rate": 0.42,
+  "amount": 1104523063.0,
+  "high_52w": 28.54,
+  "low_52w": 19.67,
+  "ytd_return": 31.97,
+  "return_1y": 25.32,
+  "return_3y": 84.85,
+  "dividend_yield": 3.53,
+  "index_members": [
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 152307544839.6,
+    "revenue_yoy": 60.22,
+    "net_profit": 21419341833.26,
+    "net_profit_yoy": 44.14,
+    "net_profit_deducted": 20127823200.0,
+    "gross_margin": 36.84,
+    "net_margin": 22.34,
+    "selling_expense_ratio": 0.68,
+    "admin_expense_ratio": 4.99,
+    "finance_expense_ratio": 0.05,
+    "rd_expense": 152948170.07,
+    "rd_ratio": 0.1,
+    "eps": 2.21,
+    "bvps": 8.81,
+    "roe": 21.5,
+    "roa": 19.36,
+    "total_assets": 202318883223.89,
+    "total_liab": 76094635175.86,
+    "debt_ratio": 37.61,
+    "cash": 54194878248.68,
+    "receivables": 7104170362.05,
+    "inventory": 3616580660.31,
+    "goodwill": null,
+    "interest_debt": 10769622416.31,
+    "equity_parent": 96928443029.63,
+    "ocf": 52607638599.15,
+    "capex": 8404521441.6,
+    "fcf": 44203117157.55,
+    "ocf_to_np": 2.46
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 166847725959.23,
+    "revenue_yoy": 9.55,
+    "net_profit": 35202426118.18,
+    "net_profit_yoy": 64.35,
+    "net_profit_deducted": 29697306100.0,
+    "gross_margin": 44.99,
+    "net_margin": 31.89,
+    "selling_expense_ratio": 0.5,
+    "admin_expense_ratio": 4.27,
+    "finance_expense_ratio": -0.25,
+    "rd_expense": 578521085.94,
+    "rd_ratio": 0.35,
+    "eps": 3.63,
+    "bvps": 10.59,
+    "roe": 32.47,
+    "roa": 25.0,
+    "total_assets": 223333172234.55,
+    "total_liab": 78896396594.96,
+    "debt_ratio": 35.33,
+    "cash": 47937838481.62,
+    "receivables": 2598420205.32,
+    "inventory": 2678317729.35,
+    "goodwill": null,
+    "interest_debt": 7252508711.2,
+    "equity_parent": 108888518412.74,
+    "ocf": 56124572642.78,
+    "capex": 10176392337.27,
+    "fcf": 45948180305.51,
+    "ocf_to_np": 1.59
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 181471814714.54,
+    "revenue_yoy": 8.76,
+    "net_profit": 23100170491.31,
+    "net_profit_yoy": -34.38,
+    "net_profit_deducted": 24680065500.0,
+    "gross_margin": 37.33,
+    "net_margin": 21.13,
+    "selling_expense_ratio": 0.48,
+    "admin_expense_ratio": 4.61,
+    "finance_expense_ratio": 0.13,
+    "rd_expense": 806174027.68,
+    "rd_ratio": 0.44,
+    "eps": 2.38,
+    "bvps": 9.21,
+    "roe": 20.64,
+    "roa": 16.7,
+    "total_assets": 235967384969.73,
+    "total_liab": 96892031484.34,
+    "debt_ratio": 41.06,
+    "cash": 27231800900.77,
+    "receivables": 4767080292.18,
+    "inventory": 3000781096.64,
+    "goodwill": null,
+    "interest_debt": 23782004895.7,
+    "equity_parent": 99778308767.79,
+    "ocf": 41985514662.55,
+    "capex": 12957917660.47,
+    "fcf": 29027597002.08,
+    "ocf_to_np": 1.82
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 184144845071.05,
+    "revenue_yoy": 1.47,
+    "net_profit": 22359786564.16,
+    "net_profit_yoy": -3.21,
+    "net_profit_deducted": 21162409500.0,
+    "gross_margin": 32.69,
+    "net_margin": 19.85,
+    "selling_expense_ratio": 0.5,
+    "admin_expense_ratio": 3.77,
+    "finance_expense_ratio": 0.19,
+    "rd_expense": 645349956.19,
+    "rd_ratio": 0.35,
+    "eps": 2.31,
+    "bvps": 9.34,
+    "roe": 21.32,
+    "roa": 15.74,
+    "total_assets": 228552861117.95,
+    "total_liab": 99905953361.35,
+    "debt_ratio": 43.71,
+    "cash": 29701196404.91,
+    "receivables": 4659065448.2,
+    "inventory": 4144235193.6,
+    "goodwill": null,
+    "interest_debt": 18723746488.58,
+    "equity_parent": 90586273601.68,
+    "ocf": 42350239402.91,
+    "capex": 13893188369.12,
+    "fcf": 28457051033.79,
+    "ocf_to_np": 1.89
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 158178519718.2,
+    "revenue_yoy": -14.1,
+    "net_profit": 16764763168.36,
+    "net_profit_yoy": -25.02,
+    "net_profit_deducted": 15345253400.0,
+    "gross_margin": 29.06,
+    "net_margin": 16.82,
+    "selling_expense_ratio": 0.56,
+    "admin_expense_ratio": 4.19,
+    "finance_expense_ratio": 0.11,
+    "rd_expense": 502101573.5,
+    "rd_ratio": 0.32,
+    "eps": 1.73,
+    "bvps": 10.0,
+    "roe": 17.88,
+    "roa": 11.45,
+    "total_assets": 236269289914.48,
+    "total_liab": 98861860139.25,
+    "debt_ratio": 41.84,
+    "cash": 31797840554.32,
+    "receivables": 5925066139.19,
+    "inventory": 3687653811.36,
+    "goodwill": 40969118.74,
+    "interest_debt": 25591437620.42,
+    "equity_parent": 96928701432.05,
+    "ocf": 35269272762.06,
+    "capex": 17059636816.82,
+    "fcf": 18209635945.24,
+    "ocf_to_np": 2.1
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 78894514047.07,
+   "revenue_yoy": 1.17,
+   "net_profit": 11272422101.47,
+   "net_profit_yoy": 47.57,
+   "net_profit_deducted": 9736398200.0,
+   "gross_margin": 33.36,
+   "net_margin": 21.93,
+   "roe": 10.9,
+   "eps": 1.16,
+   "debt_ratio": 40.26,
+   "ocf": 20536917361.36
+  },
+  "derived": {
+   "revenue_cagr_3y": -1.76,
+   "net_profit_cagr_3y": -21.91,
+   "receivables_to_revenue": 3.75,
+   "goodwill_to_equity": 0.04
+  }
+ },
+ "shareholders": {
+  "controller": "陕西省人民政府国有资产监督管理委员会",
+  "controlling_shareholder": "陕西煤业化工集团有限责任公司",
+  "controlling_ratio": 65.25,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "陕西煤业化工集团有限责任公司",
+    "hold_num": 6325960665,
+    "hold_ratio": 65.25,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+    "hold_num": 169974027,
+    "hold_ratio": 1.75,
+    "hold_num_change": null
+   },
+   {
+    "rank": 3,
+    "name": "香港中央结算有限公司",
+    "hold_num": 158619954,
+    "hold_ratio": 1.64,
+    "hold_num_change": -5384520
+   },
+   {
+    "rank": 4,
+    "name": "国丰兴华(北京)私募基金管理有限公司-鸿鹄志远(上海)私募投资基金有限公司",
+    "hold_num": 116338895,
+    "hold_ratio": 1.2,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "唐亮",
+    "hold_num": 116044800,
+    "hold_ratio": 1.2,
+    "hold_num_change": 1244800
+   },
+   {
+    "rank": 6,
+    "name": "太平人寿保险有限公司",
+    "hold_num": 114246983,
+    "hold_ratio": 1.18,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "陕西有色金属控股集团有限责任公司",
+    "hold_num": 79999900,
+    "hold_ratio": 0.83,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "华能国际电力开发公司",
+    "hold_num": 60883903,
+    "hold_ratio": 0.63,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "中国工商银行股份有限公司-国泰中证煤炭交易型开放式指数证券投资基金",
+    "hold_num": 53005645,
+    "hold_ratio": 0.55,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "国丰兴华(北京)私募基金管理有限公司-国丰兴华鸿鹄志远三期私募证券投资基金1号",
+    "hold_num": 52308054,
+    "hold_ratio": 0.54,
+    "hold_num_change": 0
+   }
+  ],
+  "holder_num": 73101,
+  "holder_num_change_pct": 3.62,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 7.16,
+  "northbound_ratio": 1.64,
+  "executives": [
+   {
+    "name": "赵福堂",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "赵文革",
+    "title": "总经理",
+    "pay": 364300.0
+   },
+   {
+    "name": "李晓光",
+    "title": "董事会秘书",
+    "pay": 345500.0
+   }
+  ],
+  "pledge_ratio_total": 0.38,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 1.35,
+    "total_amount": 13088250000.0,
+    "payout_ratio": 61.1,
+    "dividend_yield": 6.16,
+    "ex_date": "2022-07-08"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 2.18,
+    "total_amount": 21135100000.0,
+    "payout_ratio": 60.04,
+    "dividend_yield": 11.45,
+    "ex_date": "2023-07-12"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 1.315,
+    "total_amount": 12748925000.0,
+    "payout_ratio": 55.19,
+    "dividend_yield": 4.94,
+    "ex_date": "2024-06-28"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 1.348,
+    "total_amount": 13068860000.0,
+    "payout_ratio": 58.45,
+    "dividend_yield": 4.69,
+    "ex_date": "2024-10-23"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.948,
+    "total_amount": 9190860000.0,
+    "payout_ratio": 54.82,
+    "dividend_yield": 4.04,
+    "ex_date": "2025-09-26"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 69231995000.0,
+  "cum_netprofit_5y": 118846488175.27,
+  "payout_5y": 58.25,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [
+   "601088.SH",
+   "601898.SH",
+   "600188.SH",
+   "002128.SZ"
+  ],
+  "segments": [
+   {
+    "name": "自产煤",
+    "revenue": 87894366400.0,
+    "ratio": 55.57,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "贸易煤",
+    "revenue": 50909074600.0,
+    "ratio": 32.18,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "电力",
+    "revenue": 15545284500.0,
+    "ratio": 9.83,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他",
+    "revenue": 3549703800.0,
+    "ratio": 2.24,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "运输",
+    "revenue": 280090300.0,
+    "ratio": 0.18,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "西北地区",
+    "revenue": 93432756400.0,
+    "ratio": 59.07,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "华中地区",
+    "revenue": 21217395900.0,
+    "ratio": 13.41,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "华东地区",
+    "revenue": 17902518100.0,
+    "ratio": 11.32,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "华北地区",
+    "revenue": 12125123000.0,
+    "ratio": 7.67,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "西南地区",
+    "revenue": 11553457100.0,
+    "ratio": 7.3,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "陕西煤业股份有限公司2026年半年度权益分派实施公告",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225604932.PDF",
+    "type": null
+   },
+   {
+    "title": "陕西煤业股份有限公司2026年9月主要运营数据公告",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225596167.PDF",
+    "type": null
+   },
+   {
+    "title": "陕西煤业股份有限公司关于召开2026年半年度业绩说明会的公告",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225583984.PDF",
+    "type": null
+   },
+   {
+    "title": "陕西煤业股份有限公司2026年8月主要运营数据公告",
+    "date": "2026-09-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-08/1225550492.PDF",
+    "type": null
+   },
+   {
+    "title": "陕西煤业化工集团财务有限公司的风险评估报告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225516391.PDF",
+    "type": null
+   },
+   {
+    "title": "陕西煤业股份有限公司2026年半年度报告摘要",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225516377.PDF",
+    "type": null
+   },
+   {
+    "title": "陕西煤业股份有限公司第四届董事会第九次会议决议公告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225516368.PDF",
+    "type": null
+   },
+   {
+    "title": "陕西煤业股份有限公司关于2026年中期利润分配方案的公告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225516365.PDF",
+    "type": null
+   },
+   {
+    "title": "陕西煤业股份有限公司2026年半年度报告全文",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225516359.PDF",
+    "type": null
+   },
+   {
+    "title": "陕西煤业股份有限公司2026年7月主要运营数据公告",
+    "date": "2026-08-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-11/1225465461.PDF",
+    "type": null
+   },
+   {
+    "title": "陕西煤业股份有限公司2026年半年度业绩预增公告",
+    "date": "2026-07-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-11/1225418940.PDF",
+    "type": null
+   },
+   {
+    "title": "陕西煤业股份有限公司2026年6月主要运营数据公告",
+    "date": "2026-07-07",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-07/1225410544.PDF",
+    "type": null
+   },
+   {
+    "title": "陕西煤业股份有限公司2025年年度权益分派实施公告",
+    "date": "2026-06-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-19/1225377622.PDF",
+    "type": null
+   },
+   {
+    "title": "陕西煤业股份有限公司关于公司独立董事离任的公告",
+    "date": "2026-06-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-19/1225377604.PDF",
+    "type": null
+   },
+   {
+    "title": "陕西煤业股份有限公司2025年年度股东会决议公告",
+    "date": "2026-06-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-12/1225364963.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市嘉源律师事务所关于陕西煤业股份有限公司2025年年度股东会的法律意见书",
+    "date": "2026-06-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-12/1225364961.PDF",
+    "type": null
+   },
+   {
+    "title": "陕西煤业股份有限公司2026年5月主要运营数据公告",
+    "date": "2026-06-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-09/1225356510.PDF",
+    "type": null
+   },
+   {
+    "title": "陕西煤业股份有限公司第四届董事会第八次会议决议公告",
+    "date": "2026-06-02",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-02/1225341672.PDF",
+    "type": null
+   },
+   {
+    "title": "陕西煤业2025年年度股东会会议材料",
+    "date": "2026-06-02",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-02/1225341667.PDF",
+    "type": null
+   },
+   {
+    "title": "陕西煤业股份有限公司关于子公司所属企业办理融资租赁业务暨关联交易的公告",
+    "date": "2026-06-02",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-02/1225341661.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 65
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "陕西煤业控股矿井及电力机组有具体明细吗，包含具体产能",
+    "answer": "尊敬的投资者您好！上述相关事宜请查阅公司2026年半年度报告。感谢您的关注！",
+    "ask_date": "2026-10-15",
+    "answer_date": "2026-10-16",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=15299"
+   },
+   {
+    "question": "26年半年报19页中陕西省煤炭运销（集团）有限责任公司上半年营业收入733亿，但整个上市公司营业收入也才788亿，733亿这个数字错了吧？",
+    "answer": "尊敬的投资者您好！涉及公司合并报表的内部销售收入抵消，具体是：各矿业公司的煤炭通过运销集团销售，合并报表将重复的收入抵消，才是上市公司最终的营业收入。感谢您的关注！",
+    "ask_date": "2026-10-08",
+    "answer_date": "2026-10-12",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=15299"
+   },
+   {
+    "question": "董秘您好，公司是否有评估过和亚信科技之类具备丰富的能源矿产行业FDE大模型部署、AI数智运营和5G专网复杂运维经验的厂商合作，来进一步利用AI和5G专网降本增效？",
+    "answer": "尊敬的投资者您好！公司近年来一直致力于智能化矿井建设工作，通过井下视觉、工业环网等技术应用，以远程控制、机器人替代等途径，把人员从高风险采掘、巡检岗位解放出来，降低安全风险，同时通过智能化采掘装备的应用，提高采掘单进水平，提升资源利用效率。目前公司智能化矿井产能已达到总产能95%以上。感谢您的关注！",
+    "ask_date": "2026-09-17",
+    "answer_date": "2026-09-30",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=15299"
+   }
+  ],
+  "count_12m": null
+ }
+}

@@ -1,0 +1,595 @@
+{
+ "identity": {
+  "code": "600519",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "贵州茅台酒股份有限公司",
+  "name_abbr": "贵州茅台",
+  "aliases": [
+   "gzmt",
+   "茅台"
+  ],
+  "name_en": "Kweichow Moutai Co.,Ltd.",
+  "pinyin_abbr": "GZMT",
+  "former_names": [
+   "贵州茅台→G茅台"
+  ],
+  "industry_sw1": "食品饮料",
+  "industry_sw2": "白酒Ⅱ",
+  "list_date": "2001-08-27",
+  "province": "贵州",
+  "city": "仁怀",
+  "website": "www.moutaichina.com",
+  "chairman": "陈华",
+  "employees": 34992,
+  "business_summary": "茅台酒及系列酒的生产与销售",
+  "profile": "贵州茅台酒股份有限公司(以下简称“公司”)成立于1999年11月20日,由中国贵州茅台酒厂(集团)有限责任公司(以下简称“茅台集团”)作为主发起人,联合另外七家单位共同发起设立,目前控股股东为茅台集团。公司总部位于贵州省北部风光旖旎的赤水河畔茅台镇,主营茅台酒及茅台酱香系列酒的生产与销售,主导产品贵州茅台酒是我国大曲酱香型白酒的鼻祖和典型代表,是有机食品和国家地理标志保护产品,是香飘世界的中国名片。2001年8月27日,公司股票在上海证券交易所上市交易。据“BrandZ最具价值全球品牌排行榜”显示,是全球最具价值的酒类品牌。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 1318.49,
+  "change_pct": 0.67,
+  "total_mv": 1648220090102.49,
+  "float_mv": 1648220090102.49,
+  "total_shares": 1250081601,
+  "float_shares": 1250081601,
+  "pe_ttm": 20.24,
+  "pe_static": 20.02,
+  "pb": 6.56,
+  "ps_ttm": 9.51,
+  "turnover_rate": 0.34,
+  "amount": 5576216948.0,
+  "high_52w": 1539.98,
+  "low_52w": 1151.01,
+  "ytd_return": -2.27,
+  "return_1y": -6.27,
+  "return_3y": -11.6,
+  "dividend_yield": 3.94,
+  "index_members": [
+   "上证50",
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 109464278563.89,
+    "revenue_yoy": 11.71,
+    "net_profit": 52460144378.16,
+    "net_profit_yoy": 12.34,
+    "net_profit_deducted": 52556464900.24,
+    "gross_margin": 91.54,
+    "net_margin": 52.47,
+    "selling_expense_ratio": 2.5,
+    "admin_expense_ratio": 7.72,
+    "finance_expense_ratio": -0.85,
+    "rd_expense": 61923213.59,
+    "rd_ratio": 0.06,
+    "eps": 41.76,
+    "bvps": 150.88,
+    "roe": 29.89,
+    "roa": 23.78,
+    "total_assets": 255168195159.9,
+    "total_liab": 58210688454.56,
+    "debt_ratio": 22.81,
+    "cash": 51810243607.11,
+    "receivables": null,
+    "inventory": 33394365084.83,
+    "goodwill": null,
+    "interest_debt": 400786086.61,
+    "equity_parent": 189539368797.29,
+    "ocf": 64028676147.37,
+    "capex": 3408784532.01,
+    "fcf": 60619891615.36,
+    "ocf_to_np": 1.22
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 127553959355.97,
+    "revenue_yoy": 16.53,
+    "net_profit": 62717467870.12,
+    "net_profit_yoy": 19.55,
+    "net_profit_deducted": 62792896829.57,
+    "gross_margin": 91.87,
+    "net_margin": 52.68,
+    "selling_expense_ratio": 2.59,
+    "admin_expense_ratio": 7.07,
+    "finance_expense_ratio": -1.09,
+    "rd_expense": 135185680.4,
+    "rd_ratio": 0.11,
+    "eps": 49.93,
+    "bvps": 157.23,
+    "roe": 30.26,
+    "roa": 25.65,
+    "total_assets": 254500826096.02,
+    "total_liab": 49562744832.16,
+    "debt_ratio": 19.47,
+    "cash": 58274318733.23,
+    "receivables": 20937144.0,
+    "inventory": 38824374236.24,
+    "goodwill": null,
+    "interest_debt": 443799098.07,
+    "equity_parent": 197480041239.46,
+    "ocf": 36698595830.03,
+    "capex": 5306546416.54,
+    "fcf": 31392049413.49,
+    "ocf_to_np": 0.59
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 150560330316.45,
+    "revenue_yoy": 18.04,
+    "net_profit": 74734071550.75,
+    "net_profit_yoy": 19.16,
+    "net_profit_deducted": 74752564425.52,
+    "gross_margin": 91.96,
+    "net_margin": 52.49,
+    "selling_expense_ratio": 3.09,
+    "admin_expense_ratio": 6.46,
+    "finance_expense_ratio": -1.19,
+    "rd_expense": 157371873.01,
+    "rd_ratio": 0.1,
+    "eps": 59.49,
+    "bvps": 171.68,
+    "roe": 34.19,
+    "roa": 29.41,
+    "total_assets": 272699660092.25,
+    "total_liab": 49043190797.43,
+    "debt_ratio": 17.98,
+    "cash": 69070136376.12,
+    "receivables": 60373410.41,
+    "inventory": 46435185061.53,
+    "goodwill": null,
+    "interest_debt": 323691113.52,
+    "equity_parent": 215668571607.43,
+    "ocf": 66593247721.09,
+    "capex": 2619755888.79,
+    "fcf": 63973491832.3,
+    "ocf_to_np": 0.89
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 174144069958.25,
+    "revenue_yoy": 15.66,
+    "net_profit": 86228146421.62,
+    "net_profit_yoy": 15.38,
+    "net_profit_deducted": 86240905977.42,
+    "gross_margin": 91.93,
+    "net_margin": 52.27,
+    "selling_expense_ratio": 3.24,
+    "admin_expense_ratio": 5.35,
+    "finance_expense_ratio": -0.84,
+    "rd_expense": 218375472.87,
+    "rd_ratio": 0.13,
+    "eps": 68.64,
+    "bvps": 185.56,
+    "roe": 36.02,
+    "roa": 31.26,
+    "total_assets": 298944579918.7,
+    "total_liab": 56933264798.1,
+    "debt_ratio": 19.04,
+    "cash": 59295822956.89,
+    "receivables": 18974192.75,
+    "inventory": 54343285157.47,
+    "goodwill": null,
+    "interest_debt": 425857527.96,
+    "equity_parent": 233105984399.47,
+    "ocf": 92463692168.43,
+    "capex": 4678712053.56,
+    "fcf": 87784980114.87,
+    "ocf_to_np": 1.07
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 172054171890.91,
+    "revenue_yoy": -1.2,
+    "net_profit": 82320067101.68,
+    "net_profit_yoy": -4.53,
+    "net_profit_deducted": 82293107655.25,
+    "gross_margin": 91.18,
+    "net_margin": 50.53,
+    "selling_expense_ratio": 4.22,
+    "admin_expense_ratio": 4.84,
+    "finance_expense_ratio": -0.47,
+    "rd_expense": 190112246.58,
+    "rd_ratio": 0.11,
+    "eps": 65.66,
+    "bvps": 195.36,
+    "roe": 32.53,
+    "roa": 28.31,
+    "total_assets": 303834844021.44,
+    "total_liab": 49875590112.37,
+    "debt_ratio": 16.42,
+    "cash": 51690610946.5,
+    "receivables": 2609048.49,
+    "inventory": 61427421796.18,
+    "goodwill": null,
+    "interest_debt": 233711179.82,
+    "equity_parent": 244637811032.18,
+    "ocf": 61522204989.35,
+    "capex": 3127594916.41,
+    "fcf": 58394610072.94,
+    "ocf_to_np": 0.75
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 92278072083.21,
+   "revenue_yoy": 1.3,
+   "net_profit": 44516880421.86,
+   "net_profit_yoy": -1.95,
+   "net_profit_deducted": 44464207646.01,
+   "gross_margin": 89.56,
+   "net_margin": 50.75,
+   "roe": 16.75,
+   "eps": 35.57,
+   "debt_ratio": 15.19,
+   "ocf": 70690750119.06
+  },
+  "derived": {
+   "revenue_cagr_3y": 10.49,
+   "net_profit_cagr_3y": 9.49,
+   "receivables_to_revenue": 0.0,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "贵州省人民政府国有资产监督管理委员会",
+  "controlling_shareholder": "中国贵州茅台酒厂(集团)有限责任公司",
+  "controlling_ratio": 54.5,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "中国贵州茅台酒厂(集团)有限责任公司",
+    "hold_num": 681282935,
+    "hold_ratio": 54.5,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "贵州省国有资本运营有限责任公司",
+    "hold_num": 56996777,
+    "hold_ratio": 4.56,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "香港中央结算有限公司",
+    "hold_num": 53711656,
+    "hold_ratio": 4.3,
+    "hold_num_change": -5021413
+   },
+   {
+    "rank": 4,
+    "name": "贵州茅台酒厂(集团)技术开发有限公司",
+    "hold_num": 27849688,
+    "hold_ratio": 2.23,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+    "hold_num": 5583897,
+    "hold_ratio": 0.45,
+    "hold_num_change": null
+   },
+   {
+    "rank": 6,
+    "name": "中国银行股份有限公司-招商中证白酒指数分级证券投资基金",
+    "hold_num": 4562459,
+    "hold_ratio": 0.36,
+    "hold_num_change": -520897
+   },
+   {
+    "rank": 7,
+    "name": "国丰兴华(北京)私募基金管理有限公司-鸿鹄志远(上海)私募投资基金有限公司",
+    "hold_num": 4073882,
+    "hold_ratio": 0.33,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "华泰证券资管-华泰新启元FOF单一资产管理计划-华泰价值睿远单一资产管理计划",
+    "hold_num": 4028852,
+    "hold_ratio": 0.32,
+    "hold_num_change": null
+   },
+   {
+    "rank": 9,
+    "name": "大成基金-大成基金启盛FOF单一资产管理计划-大成基金恒鑫单一资产管理计划",
+    "hold_num": 3715997,
+    "hold_ratio": 0.3,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "贵州金融控股集团有限责任公司(贵州贵民投资集团有限责任公司)",
+    "hold_num": 3487220,
+    "hold_ratio": 0.28,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 296404,
+  "holder_num_change_pct": 21.9,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 4.06,
+  "northbound_ratio": 4.3,
+  "executives": [
+   {
+    "name": "陈华",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "王莉(代)",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "余思明",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.06,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 21.675,
+    "total_amount": 27228087315.0,
+    "payout_ratio": 51.9,
+    "dividend_yield": 1.07,
+    "ex_date": "2022-06-30"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 25.911,
+    "total_amount": 32549341195.8,
+    "payout_ratio": 51.9,
+    "dividend_yield": 1.51,
+    "ex_date": "2023-06-30"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 30.876,
+    "total_amount": 38786363272.8,
+    "payout_ratio": 51.9,
+    "dividend_yield": 2.03,
+    "ex_date": "2024-06-19"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 51.555,
+    "total_amount": 64763277579.0,
+    "payout_ratio": 75.11,
+    "dividend_yield": 1.75,
+    "ex_date": "2024-12-20"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 51.9812,
+    "total_amount": 65033211845.95,
+    "payout_ratio": 79.0,
+    "dividend_yield": 2.02,
+    "ex_date": "2025-12-19"
+   }
+  ],
+  "consecutive_years": 5,
+  "cum_dividend_5y": 228360281208.55,
+  "cum_netprofit_5y": 358459897322.33,
+  "payout_5y": 63.71,
+  "buyback_3y": 8999919716.52
+ },
+ "peers": {
+  "peer_codes": [
+   "000858.SZ",
+   "600809.SH",
+   "000568.SZ",
+   "002304.SZ"
+  ],
+  "segments": [
+   {
+    "name": "茅台酒",
+    "revenue": 146499906480.49,
+    "ratio": 86.77,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他系列酒",
+    "revenue": 22274678707.16,
+    "ratio": 13.19,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 63517327.14,
+    "ratio": 0.04,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "国内",
+    "revenue": 163924442864.97,
+    "ratio": 97.09,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "国外",
+    "revenue": 4850142322.68,
+    "ratio": 2.87,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 63517327.14,
+    "ratio": 0.04,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "贵州茅台2026年半年度报告",
+    "date": "2026-08-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225475868.PDF",
+    "type": null
+   },
+   {
+    "title": "贵州茅台关于会计政策变更的公告",
+    "date": "2026-08-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225475864.PDF",
+    "type": null
+   },
+   {
+    "title": "贵州茅台关于贵州茅台集团财务有限公司的风险评估报告",
+    "date": "2026-08-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225475863.PDF",
+    "type": null
+   },
+   {
+    "title": "贵州茅台第五届董事会2026年度第三次会议决议公告",
+    "date": "2026-08-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225475862.PDF",
+    "type": null
+   },
+   {
+    "title": "贵州茅台2026年半年度报告摘要",
+    "date": "2026-08-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225475860.PDF",
+    "type": null
+   },
+   {
+    "title": "贵州茅台关于召开2026年半年度业绩说明会的公告",
+    "date": "2026-08-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225475856.PDF",
+    "type": null
+   },
+   {
+    "title": "贵州茅台重大事项公告",
+    "date": "2026-07-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-18/1225431263.PDF",
+    "type": null
+   },
+   {
+    "title": "贵州茅台2025年年度权益分派实施公告",
+    "date": "2026-06-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-22/1225379934.PDF",
+    "type": null
+   },
+   {
+    "title": "贵州茅台关于职工董事选举结果的公告",
+    "date": "2026-06-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-12/1225366265.PDF",
+    "type": null
+   },
+   {
+    "title": "贵州茅台2025年度股东会决议公告",
+    "date": "2026-06-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-12/1225366264.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市金杜律师事务所关于贵州茅台酒股份有限公司2025年度股东会之法律意见书",
+    "date": "2026-06-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-12/1225366263.PDF",
+    "type": null
+   },
+   {
+    "title": "贵州茅台第五届董事会2026年度第一次会议决议公告",
+    "date": "2026-06-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-12/1225366262.PDF",
+    "type": null
+   },
+   {
+    "title": "贵州茅台董事、高级管理人员考核和薪酬管理办法",
+    "date": "2026-06-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-12/1225366261.PDF",
+    "type": null
+   },
+   {
+    "title": "贵州茅台关于聘任董事会秘书的公告",
+    "date": "2026-06-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-12/1225366259.PDF",
+    "type": null
+   },
+   {
+    "title": "贵州茅台关于调整2025年年度利润分配方案每股分红金额的公告",
+    "date": "2026-06-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-03/1225347653.PDF",
+    "type": null
+   },
+   {
+    "title": "贵州茅台2025年度股东会会议资料",
+    "date": "2026-06-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-03/1225347482.PDF",
+    "type": null
+   },
+   {
+    "title": "贵州茅台关于回购股份实施结果暨股份变动的公告",
+    "date": "2026-05-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-05-28/1225333825.PDF",
+    "type": null
+   },
+   {
+    "title": "贵州茅台关于召开2025年度股东会的通知",
+    "date": "2026-05-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-05-22/1225324469.PDF",
+    "type": null
+   },
+   {
+    "title": "贵州茅台独立董事候选人声明与承诺（王鑫）",
+    "date": "2026-05-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-05-22/1225324468.PDF",
+    "type": null
+   },
+   {
+    "title": "贵州茅台独立董事候选人声明与承诺（郭田勇）",
+    "date": "2026-05-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-05-22/1225324467.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 94
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "持有贵司股票多年了，但目前股价连连下跌，而公司现金流依然是充沛的，能否考虑提升一下分红比例，以鼓励股东继续长期持有呢？",
+    "answer": null,
+    "ask_date": "2026-10-12",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=519"
+   },
+   {
+    "question": "请问目前的股东人数？",
+    "answer": null,
+    "ask_date": "2026-09-29",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=519"
+   }
+  ],
+  "count_12m": null
+ }
+}

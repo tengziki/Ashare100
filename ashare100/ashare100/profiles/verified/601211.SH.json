@@ -1,0 +1,609 @@
+{
+ "identity": {
+  "code": "601211",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "国泰海通证券股份有限公司",
+  "name_abbr": "国泰海通",
+  "aliases": [
+   "gtht"
+  ],
+  "name_en": "GUOTAI HAITONG SECURITIES CO., LTD.",
+  "pinyin_abbr": "GTHT",
+  "former_names": [
+   "N国君→国泰君安"
+  ],
+  "industry_sw1": "非银金融",
+  "industry_sw2": "证券Ⅱ",
+  "list_date": "2015-06-26",
+  "province": "上海",
+  "city": "上海",
+  "website": "www.gtht.com",
+  "chairman": "朱健",
+  "employees": 26228,
+  "business_summary": "以客户需求为驱动,打造了零售、机构及企业客户服务体系,形成包括财富管理业务、投资银行业务",
+  "profile": "国泰海通证券股份有限公司(简称“国泰海通”或“公司”)由国泰君安与海通证券合并而成,是中国资本市场长期、持续、全面领先的综合金融服务商。作为中国证券行业最早的一批探索者,海通证券成立于1988年,国泰证券、君安证券均成立于1992年,并于1999年8月合并成立国泰君安。2024年9月,国泰君安与海通证券积极响应国家战略,基于“强强联合、优势互补、对等合并”原则实施合并重组,并于2025年4月正式更名为国泰海通,开启了公司发展的崭新一页。国泰君安与海通证券的合并是2024年新“国九条”发布以来首例头部券商合并重组、中国资本市场史上规模最大的A+H双边市场吸收合并和上市券商最大整合案例。合并重组后的国泰海通,具备更雄厚、稳健的资本实力。经纪业务收入、股基交易额、两融余额、IPO承销及年末在审家数等多项业务指标位居行业第一,服务能力更为专业综合;合规风控能力业内领先,保持中资券商最高国际信用评级,成功入选中证A500、上证50、富时中国A50和富时中国50等重要指数,运营管理更为集约高效。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 15.91,
+  "change_pct": -0.06,
+  "total_mv": 279714631952.68,
+  "float_mv": 213975563221.84,
+  "total_shares": 17581057948,
+  "float_shares": 13449124024,
+  "pe_ttm": 8.65,
+  "pe_static": 10.06,
+  "pb": 0.84,
+  "ps_ttm": 3.24,
+  "turnover_rate": 0.68,
+  "amount": 1450726615.0,
+  "high_52w": 21.7,
+  "low_52w": 14.26,
+  "ytd_return": -20.05,
+  "return_1y": -10.77,
+  "return_3y": 24.39,
+  "dividend_yield": 3.14,
+  "index_members": [
+   "上证50",
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 42817138705.0,
+    "revenue_yoy": 21.64,
+    "net_profit": 15013479630.0,
+    "net_profit_yoy": 34.99,
+    "net_profit_deducted": 13531044928.0,
+    "gross_margin": null,
+    "net_margin": 35.74,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.65,
+    "bvps": 15.27,
+    "roe": 11.05,
+    "roa": 2.05,
+    "total_assets": 791272814529.0,
+    "total_liab": 640636222642.0,
+    "debt_ratio": 80.96,
+    "cash": 170178885399.0,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 20896184.0,
+    "interest_debt": null,
+    "equity_parent": 147123664991.0,
+    "ocf": 10365806426.0,
+    "capex": 853838850.0,
+    "fcf": 9511967576.0,
+    "ocf_to_np": 0.69
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 35471284791.0,
+    "revenue_yoy": -17.16,
+    "net_profit": 11508784658.0,
+    "net_profit_yoy": -23.34,
+    "net_profit_deducted": 9508192200.0,
+    "gross_margin": null,
+    "net_margin": 32.77,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.25,
+    "bvps": 15.9,
+    "roe": 7.88,
+    "roa": 1.41,
+    "total_assets": 860707916925.0,
+    "total_liab": 696862457135.0,
+    "debt_ratio": 80.96,
+    "cash": 179065406430.0,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 4070761462.0,
+    "interest_debt": null,
+    "equity_parent": 157718339007.0,
+    "ocf": 50732458119.0,
+    "capex": 1784313295.0,
+    "fcf": 48948144824.0,
+    "ocf_to_np": 4.41
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 36141292021.0,
+    "revenue_yoy": 1.89,
+    "net_profit": 9374143632.0,
+    "net_profit_yoy": -18.55,
+    "net_profit_deducted": 8717649895.0,
+    "gross_margin": null,
+    "net_margin": 27.35,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 0.98,
+    "bvps": 16.51,
+    "roe": 6.02,
+    "roa": 1.11,
+    "total_assets": 925402484366.0,
+    "total_liab": 752024473921.0,
+    "debt_ratio": 81.26,
+    "cash": 161875853168.0,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 4070761462.0,
+    "interest_debt": null,
+    "equity_parent": 166969253616.0,
+    "ocf": 7203619058.0,
+    "capex": 1165431636.0,
+    "fcf": 6038187422.0,
+    "ocf_to_np": 0.77
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 33675485600.0,
+    "revenue_yoy": -6.82,
+    "net_profit": 13024084673.0,
+    "net_profit_yoy": 38.94,
+    "net_profit_deducted": 12439955582.0,
+    "gross_margin": null,
+    "net_margin": 40.23,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.39,
+    "bvps": 17.5,
+    "roe": 8.14,
+    "roa": 1.37,
+    "total_assets": 1047745412851.0,
+    "total_liab": 870271715318.0,
+    "debt_ratio": 83.06,
+    "cash": 211019554181.0,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 4070761462.0,
+    "interest_debt": null,
+    "equity_parent": 170775389621.0,
+    "ocf": 56105124362.0,
+    "capex": 1159994977.0,
+    "fcf": 54945129385.0,
+    "ocf_to_np": 4.31
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 63107440954.0,
+    "revenue_yoy": 87.4,
+    "net_profit": 27809205680.0,
+    "net_profit_yoy": 113.52,
+    "net_profit_deducted": 21388466654.0,
+    "gross_margin": null,
+    "net_margin": 46.22,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.74,
+    "bvps": 18.3,
+    "roe": 9.78,
+    "roa": 1.84,
+    "total_assets": 2114338135017.0,
+    "total_liab": 1768135150450.0,
+    "debt_ratio": 83.63,
+    "cash": 460461649300.0,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 4052356186.0,
+    "interest_debt": null,
+    "equity_parent": 330416848728.0,
+    "ocf": 81138252377.0,
+    "capex": 1644869442.0,
+    "fcf": 79493382935.0,
+    "ocf_to_np": 2.92
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 47163077753.0,
+   "revenue_yoy": 97.56,
+   "net_profit": 20259526242.0,
+   "net_profit_yoy": 28.74,
+   "net_profit_deducted": 19510164100.0,
+   "gross_margin": null,
+   "net_margin": 44.43,
+   "roe": 6.12,
+   "eps": 1.14,
+   "debt_ratio": 84.49,
+   "ocf": 67921371666.0
+  },
+  "derived": {
+   "revenue_cagr_3y": 21.17,
+   "net_profit_cagr_3y": 34.19,
+   "receivables_to_revenue": null,
+   "goodwill_to_equity": 1.23
+  }
+ },
+ "shareholders": {
+  "controller": "上海国际集团有限公司",
+  "controlling_shareholder": "上海国有资产经营有限公司",
+  "controlling_ratio": 14.34,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "香港中央结算(代理人)有限公司",
+    "hold_num": 3505377239,
+    "hold_ratio": 19.88,
+    "hold_num_change": 1392
+   },
+   {
+    "rank": 2,
+    "name": "上海国有资产经营有限公司",
+    "hold_num": 2527137824,
+    "hold_ratio": 14.34,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "上海国际集团有限公司",
+    "hold_num": 682215791,
+    "hold_ratio": 3.87,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "深圳市投资控股有限公司",
+    "hold_num": 609428357,
+    "hold_ratio": 3.46,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "上海国盛(集团)有限公司",
+    "hold_num": 534743216,
+    "hold_ratio": 3.03,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "上海海烟投资管理有限公司",
+    "hold_num": 393752466,
+    "hold_ratio": 2.23,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "中国建设银行股份有限公司-国泰中证全指证券公司交易型开放式指数证券投资基金",
+    "hold_num": 346576569,
+    "hold_ratio": 1.97,
+    "hold_num_change": 15039377
+   },
+   {
+    "rank": 8,
+    "name": "光明食品(集团)有限公司",
+    "hold_num": 295875200,
+    "hold_ratio": 1.68,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "香港中央结算有限公司",
+    "hold_num": 275612003,
+    "hold_ratio": 1.56,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "上海城投(集团)有限公司",
+    "hold_num": 246566512,
+    "hold_ratio": 1.4,
+    "hold_num_change": 0
+   }
+  ],
+  "holder_num": 307056,
+  "holder_num_change_pct": -2.17,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 12.71,
+  "northbound_ratio": 1.56,
+  "executives": [
+   {
+    "name": "朱健",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "朱健(代)",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "徐岚",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.0,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.68,
+    "total_amount": 6056536819.24,
+    "payout_ratio": 40.34,
+    "dividend_yield": 4.53,
+    "ex_date": "2022-07-15"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.53,
+    "total_amount": 4719401530.7,
+    "payout_ratio": 41.01,
+    "dividend_yield": 3.71,
+    "ex_date": "2023-06-29"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.4,
+    "total_amount": 3561492248.0,
+    "payout_ratio": 37.99,
+    "dividend_yield": 2.85,
+    "ex_date": "2024-06-28"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.43,
+    "total_amount": 6271878027.88,
+    "payout_ratio": 48.16,
+    "dividend_yield": 1.23,
+    "ex_date": "2024-10-21"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.5,
+    "total_amount": 8814462914.5,
+    "payout_ratio": 31.7,
+    "dividend_yield": 1.59,
+    "ex_date": "2025-10-28"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 29423771540.32,
+  "cum_netprofit_5y": 76729698273.0,
+  "payout_5y": 38.35,
+  "buyback_3y": 1210734496.98
+ },
+ "peers": {
+  "peer_codes": [
+   "600030.SH",
+   "300059.SZ",
+   "601066.SH",
+   "601688.SH"
+  ],
+  "segments": [
+   {
+    "name": "财富管理",
+    "revenue": 24949618551.0,
+    "ratio": 39.54,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "机构及交易",
+    "revenue": 19594461418.0,
+    "ratio": 31.05,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "投资管理",
+    "revenue": 7615891734.0,
+    "ratio": 12.07,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "融资租赁",
+    "revenue": 5490588613.0,
+    "ratio": 8.7,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "投资银行",
+    "revenue": 4746946908.0,
+    "ratio": 7.52,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "境内",
+    "revenue": 53521591714.0,
+    "ratio": 84.81,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "境外子公司及分支机构",
+    "revenue": 9585849240.0,
+    "ratio": 15.19,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "国泰海通证券股份有限公司H股公告（董事会会议通知）",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225609166.PDF",
+    "type": null
+   },
+   {
+    "title": "国泰海通证券股份有限公司关于向专业投资者公开发行永续次级债券获得中国证券监督管理委员会注册批复的公告",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225605487.PDF",
+    "type": null
+   },
+   {
+    "title": "国泰海通证券股份有限公司第七届董事会第二十次会议（临时会议）决议公告",
+    "date": "2026-10-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225602783.PDF",
+    "type": null
+   },
+   {
+    "title": "国泰海通证券股份有限公司关于公司首席风险官变动的公告",
+    "date": "2026-10-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225602775.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市海问律师事务所关于国泰海通证券股份有限公司差异化分红的专项法律意见书",
+    "date": "2026-10-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-10/1225599145.PDF",
+    "type": null
+   },
+   {
+    "title": "国泰海通证券股份有限公司2026年半年度权益分派实施公告",
+    "date": "2026-10-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-10/1225599137.PDF",
+    "type": null
+   },
+   {
+    "title": "国泰海通证券股份有限公司H股公告（2026年9月证券变动月报表）",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597212.PDF",
+    "type": null
+   },
+   {
+    "title": "国泰海通证券股份有限公司关于完成注册资本市场主体变更登记的公告",
+    "date": "2026-10-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225591444.PDF",
+    "type": null
+   },
+   {
+    "title": "国泰海通证券股份有限公司章程",
+    "date": "2026-10-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225591442.PDF",
+    "type": null
+   },
+   {
+    "title": "国泰海通证券股份有限公司关于公司副总裁辞职的公告",
+    "date": "2026-10-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225591433.PDF",
+    "type": null
+   },
+   {
+    "title": "国泰海通证券股份有限公司H股公告（2026年8月证券变动月报表）",
+    "date": "2026-09-02",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-02/1225540834.PDF",
+    "type": null
+   },
+   {
+    "title": "国泰海通证券股份有限公司关于间接全资子公司发行中期票据并由全资子公司提供担保的公告",
+    "date": "2026-08-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225480565.PDF",
+    "type": null
+   },
+   {
+    "title": "国泰海通证券股份有限公司2026年半年度报告摘要",
+    "date": "2026-08-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225480562.PDF",
+    "type": null
+   },
+   {
+    "title": "国泰海通证券股份有限公司2026年半年度报告",
+    "date": "2026-08-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225480560.PDF",
+    "type": null
+   },
+   {
+    "title": "国泰海通证券股份有限公司2026年中期利润分配方案公告",
+    "date": "2026-08-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225480559.PDF",
+    "type": null
+   },
+   {
+    "title": "国泰海通证券股份有限公司2026年度“提质增效重回报”行动方案落实情况半年度报告",
+    "date": "2026-08-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225480558.PDF",
+    "type": null
+   },
+   {
+    "title": "国泰海通证券股份有限公司关于2026年半年度募集资金存放、管理与实际使用情况的专项报告",
+    "date": "2026-08-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225480556.PDF",
+    "type": null
+   },
+   {
+    "title": "国泰海通证券股份有限公司第七届董事会第十九次会议决议公告",
+    "date": "2026-08-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225480555.PDF",
+    "type": null
+   },
+   {
+    "title": "国泰海通证券股份有限公司H股公告（翌日披露报表）",
+    "date": "2026-08-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-13/1225469908.PDF",
+    "type": null
+   },
+   {
+    "title": "国泰海通证券股份有限公司关于召开2026年半年度业绩说明会的公告",
+    "date": "2026-08-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-12/1225468816.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 124
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "一是交易日历错配，长假期间港股开市而港股通关闭，投资者多个交易日无法交易，难以及时管理持仓风险；二是交易工具相对单一，境外机构可运用多种工具管理风险，港股通投资者以单向交易为主，缺少风险对冲手段；三是产品体系有待丰富，新股认购等业务尚未覆盖。 请问：公司是否就交易日历优化、研究丰富双向交易及风险管理工具、完善可交易产品体系等事项，代表客户向监管部门及交易所反映诉求并提出建议？",
+    "answer": "尊敬的投资者，您好！感谢您的建议！",
+    "ask_date": "2026-10-12",
+    "answer_date": "2026-10-15",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=44072"
+   },
+   {
+    "question": "司作为行业龙头券商，在服务投资者与建言监管方面具有引领作用。现提问如下： 一、目前内地投资者通过港股通参与港股可享受T+0回转交易，而北交所仍实行T+1，且交易时长与境外成熟市场存在差距，一定程度上影响了市场定价效率与流动性。 二、请问公司是否就\"北交所试点T+0交易制度\"\"延长北交所交易时长、与国际市场接轨\"等议题，与中国证监会或北交所进行过沟通或提交过政策建议",
+    "answer": "尊敬的投资者，您好！感谢您的建议！",
+    "ask_date": "2026-10-12",
+    "answer_date": "2026-10-15",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=44072"
+   },
+   {
+    "question": "请问公司中期分红什么时候实施？",
+    "answer": "尊敬的投资者，您好！公司2026年中期现金红利发放日​为2026年10月16日，详情请见公司《2026年半年度权益分派实施公告》，感谢您的关注！",
+    "ask_date": "2026-09-28",
+    "answer_date": "2026-10-09",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=44072"
+   }
+  ],
+  "count_12m": null
+ }
+}

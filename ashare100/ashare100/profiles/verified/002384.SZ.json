@@ -1,0 +1,646 @@
+{
+ "identity": {
+  "code": "002384",
+  "exchange": "SZ",
+  "board": "主板",
+  "name_full": "苏州东山精密制造股份有限公司",
+  "name_abbr": "东山精密",
+  "aliases": [
+   "dsjm"
+  ],
+  "name_en": "Suzhou Dongshan Precision Manufacturing Co.,Ltd.",
+  "pinyin_abbr": "DSJM",
+  "former_names": [],
+  "industry_sw1": "电子",
+  "industry_sw2": "元件",
+  "list_date": "2010-04-09",
+  "province": "江苏",
+  "city": "苏州",
+  "website": "www.dsbj.com",
+  "chairman": "袁永刚",
+  "employees": 39245,
+  "business_summary": "电子电路、光模块(含光芯片)、精密组件、光电显示模组的全球设计、生产和销售",
+  "profile": "苏州东山精密制造股份有限公司(DSBJ)始建于1998年,前身为1980年创立于苏州东山镇的一家小型钣金和冲压工厂。公司于2010年在深交所上市,现已在全球拥有全资、控股、参股企业70余家,与众多行业顶级客户建立了深厚且广泛的合作关系。DSBJ围绕电子电路、光电显示和精密制造三大业务板块,构建起高度协同的多元化产业矩阵。公司秉持\"创建更互联互通的新世界\"的使命,以\"成为全球领先的智能互连方案解决商\"为愿景,不断开拓创新,形成以算力基础设施、消费电子、新能源汽车为核心的产业发展格局。公司主要产品包括光模块、柔性/刚性印刷电路板、新能源汽车金属结构件、LED背光、LCM模组、触控产品等。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 113.51,
+  "change_pct": -7.84,
+  "total_mv": 207905770957.32,
+  "float_mv": 157361378777.73,
+  "total_shares": 1831607532,
+  "float_shares": 1386321723,
+  "pe_ttm": 57.99,
+  "pe_static": 150.0,
+  "pb": 8.53,
+  "ps_ttm": 4.08,
+  "turnover_rate": 4.74,
+  "amount": 7630271209.23,
+  "high_52w": 280.08,
+  "low_52w": 61.71,
+  "ytd_return": 34.09,
+  "return_1y": 65.39,
+  "return_3y": 597.15,
+  "dividend_yield": 0.0,
+  "index_members": [
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 31793147908.12,
+    "revenue_yoy": 13.17,
+    "net_profit": 1862481138.84,
+    "net_profit_yoy": 21.72,
+    "net_profit_deducted": 1576650669.18,
+    "gross_margin": 14.67,
+    "net_margin": 5.85,
+    "selling_expense_ratio": 1.07,
+    "admin_expense_ratio": 2.46,
+    "finance_expense_ratio": 1.37,
+    "rd_expense": 1028567206.95,
+    "rd_ratio": 3.24,
+    "eps": 1.09,
+    "bvps": 8.52,
+    "roe": 13.46,
+    "roa": 4.93,
+    "total_assets": 37951408787.25,
+    "total_liab": 23281066248.07,
+    "debt_ratio": 61.34,
+    "cash": 5400837392.47,
+    "receivables": 7666079765.82,
+    "inventory": 6451712389.82,
+    "goodwill": 2211722774.04,
+    "interest_debt": 12716049800.61,
+    "equity_parent": 14576500325.15,
+    "ocf": 3209544484.21,
+    "capex": 3049208456.95,
+    "fcf": 160336027.26,
+    "ocf_to_np": 1.72
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 31580146732.58,
+    "revenue_yoy": -0.67,
+    "net_profit": 2368347970.02,
+    "net_profit_yoy": 27.16,
+    "net_profit_deducted": 2126582862.82,
+    "gross_margin": 17.6,
+    "net_margin": 7.5,
+    "selling_expense_ratio": 1.12,
+    "admin_expense_ratio": 2.58,
+    "finance_expense_ratio": 0.63,
+    "rd_expense": 940085451.98,
+    "rd_ratio": 2.98,
+    "eps": 1.39,
+    "bvps": 9.57,
+    "roe": 15.33,
+    "roa": 6.01,
+    "total_assets": 40802606803.61,
+    "total_liab": 24377048306.87,
+    "debt_ratio": 59.74,
+    "cash": 7131202817.72,
+    "receivables": 7006411466.74,
+    "inventory": 6165738409.09,
+    "goodwill": 2191939940.6,
+    "interest_debt": 13829295500.5,
+    "equity_parent": 16378630871.35,
+    "ocf": 4629884011.38,
+    "capex": 3375029627.94,
+    "fcf": 1254854383.44,
+    "ocf_to_np": 1.95
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 33651205468.8,
+    "revenue_yoy": 6.56,
+    "net_profit": 1964525269.65,
+    "net_profit_yoy": -17.05,
+    "net_profit_deducted": 1614534226.22,
+    "gross_margin": 15.18,
+    "net_margin": 5.84,
+    "selling_expense_ratio": 1.08,
+    "admin_expense_ratio": 2.84,
+    "finance_expense_ratio": 0.56,
+    "rd_expense": 1161190274.48,
+    "rd_ratio": 3.45,
+    "eps": 1.15,
+    "bvps": 10.61,
+    "roe": 11.38,
+    "roa": 4.61,
+    "total_assets": 44371719028.28,
+    "total_liab": 26181362431.02,
+    "debt_ratio": 59.0,
+    "cash": 7190036231.06,
+    "receivables": 7713164772.05,
+    "inventory": 6293879276.54,
+    "goodwill": 2209199500.98,
+    "interest_debt": 14201896655.92,
+    "equity_parent": 18143026745.54,
+    "ocf": 5172419470.2,
+    "capex": 3466863364.13,
+    "fcf": 1705556106.07,
+    "ocf_to_np": 2.63
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 36770374347.58,
+    "revenue_yoy": 9.27,
+    "net_profit": 1085641847.89,
+    "net_profit_yoy": -44.74,
+    "net_profit_deducted": 898627278.48,
+    "gross_margin": 14.02,
+    "net_margin": 2.95,
+    "selling_expense_ratio": 1.23,
+    "admin_expense_ratio": 3.03,
+    "finance_expense_ratio": -0.16,
+    "rd_expense": 1266812544.23,
+    "rd_ratio": 3.45,
+    "eps": 0.64,
+    "bvps": 11.04,
+    "roe": 5.89,
+    "roa": 2.4,
+    "total_assets": 46014173064.47,
+    "total_liab": 27128069831.24,
+    "debt_ratio": 58.96,
+    "cash": 7172331252.29,
+    "receivables": 7663458025.49,
+    "inventory": 6152655607.85,
+    "goodwill": 2119612220.47,
+    "interest_debt": 13910648160.56,
+    "equity_parent": 18826387269.38,
+    "ocf": 4986018688.48,
+    "capex": 3792143747.46,
+    "fcf": 1193874941.02,
+    "ocf_to_np": 4.59
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 40124858839.52,
+    "revenue_yoy": 9.12,
+    "net_profit": 1386066705.56,
+    "net_profit_yoy": 27.67,
+    "net_profit_deducted": 965995066.64,
+    "gross_margin": 14.09,
+    "net_margin": 3.47,
+    "selling_expense_ratio": 1.11,
+    "admin_expense_ratio": 3.53,
+    "finance_expense_ratio": 0.65,
+    "rd_expense": 1417226723.87,
+    "rd_ratio": 3.53,
+    "eps": 0.79,
+    "bvps": 11.72,
+    "roe": 6.89,
+    "roa": 2.62,
+    "total_assets": 60250537094.98,
+    "total_liab": 38548698855.19,
+    "debt_ratio": 63.98,
+    "cash": 7650283509.1,
+    "receivables": 9792745060.06,
+    "inventory": 8928944182.01,
+    "goodwill": 4769259362.01,
+    "interest_debt": 19664921962.25,
+    "equity_parent": 21461147972.59,
+    "ocf": 5307141746.99,
+    "capex": 4383254216.35,
+    "fcf": 923887530.64,
+    "ocf_to_np": 3.83
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 27797683972.88,
+   "revenue_yoy": 63.95,
+   "net_profit": 2956898811.04,
+   "net_profit_yoy": 290.09,
+   "net_profit_deducted": 2479581522.26,
+   "gross_margin": 20.15,
+   "net_margin": 10.74,
+   "roe": 12.88,
+   "eps": 1.62,
+   "debt_ratio": 64.51,
+   "ocf": 2383887276.1
+  },
+  "derived": {
+   "revenue_cagr_3y": 8.31,
+   "net_profit_cagr_3y": -16.35,
+   "receivables_to_revenue": 24.41,
+   "goodwill_to_equity": 22.22
+  }
+ },
+ "shareholders": {
+  "controller": "袁永刚,袁永峰,袁富根",
+  "controlling_shareholder": "袁永刚",
+  "controlling_ratio": 16.53,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "袁永刚",
+    "hold_num": 302781254,
+    "hold_ratio": 16.53,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "袁永峰",
+    "hold_num": 247526917,
+    "hold_ratio": 13.51,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "香港中央结算有限公司",
+    "hold_num": 69090247,
+    "hold_ratio": 3.77,
+    "hold_num_change": -390628
+   },
+   {
+    "rank": 4,
+    "name": "袁富根",
+    "hold_num": 58796052,
+    "hold_ratio": 3.21,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+    "hold_num": 10675141,
+    "hold_ratio": 0.58,
+    "hold_num_change": -9742271
+   },
+   {
+    "rank": 6,
+    "name": "招商银行股份有限公司-睿远成长价值混合型证券投资基金",
+    "hold_num": 7414800,
+    "hold_ratio": 0.4,
+    "hold_num_change": -9677610
+   },
+   {
+    "rank": 7,
+    "name": "锐方(上海)私募基金管理有限公司-锐方红岸三号私募证券投资基金",
+    "hold_num": 7236854,
+    "hold_ratio": 0.4,
+    "hold_num_change": null
+   },
+   {
+    "rank": 8,
+    "name": "中国工商银行股份有限公司-富国创新科技混合型证券投资基金",
+    "hold_num": 7000000,
+    "hold_ratio": 0.38,
+    "hold_num_change": null
+   },
+   {
+    "rank": 9,
+    "name": "中国建设银行股份有限公司-华泰柏瑞质量成长混合型证券投资基金",
+    "hold_num": 6872604,
+    "hold_ratio": 0.38,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "中国银行股份有限公司-摩根士丹利数字经济混合型证券投资基金",
+    "hold_num": 6194686,
+    "hold_ratio": 0.34,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 389315,
+  "holder_num_change_pct": 27.21,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 26.63,
+  "northbound_ratio": 3.77,
+  "executives": [
+   {
+    "name": "袁永刚",
+    "title": "董事长",
+    "pay": 3442700
+   },
+   {
+    "name": "袁永峰",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "冒小燕",
+    "title": "董事会秘书",
+    "pay": 1629000
+   }
+  ],
+  "pledge_ratio_total": 8.27,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.2004,
+    "total_amount": 342585597.9,
+    "payout_ratio": 18.39,
+    "dividend_yield": 0.85,
+    "ex_date": "2022-06-27"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.11,
+    "total_amount": 188085405.97,
+    "payout_ratio": 7.94,
+    "dividend_yield": 0.43,
+    "ex_date": "2023-07-04"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.25,
+    "total_amount": 427466831.75,
+    "payout_ratio": 21.76,
+    "dividend_yield": 1.62,
+    "ex_date": "2024-05-30"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.07,
+    "total_amount": 119413959.7,
+    "payout_ratio": 11.0,
+    "dividend_yield": 0.25,
+    "ex_date": "2025-05-27"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": 0.0,
+    "dividend_yield": 0.0,
+    "ex_date": null
+   }
+  ],
+  "consecutive_years": 0,
+  "cum_dividend_5y": 1077551795.32,
+  "cum_netprofit_5y": 8667062931.96,
+  "payout_5y": 12.43,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [
+   "600183.SH",
+   "002463.SZ",
+   "002916.SZ",
+   "300408.SZ"
+  ],
+  "segments": [
+   {
+    "name": "电子电路产品",
+    "revenue": 25620292915.99,
+    "ratio": 63.85,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "光电显示模组",
+    "revenue": 5985629058.48,
+    "ratio": 14.92,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "精密组件产品",
+    "revenue": 5930242495.99,
+    "ratio": 14.78,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "光模块",
+    "revenue": 1435534921.96,
+    "ratio": 3.58,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他",
+    "revenue": 1153159447.1,
+    "ratio": 2.87,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "外销",
+    "revenue": 32665186404.4,
+    "ratio": 81.41,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "内销",
+    "revenue": 7459672435.12,
+    "ratio": 18.59,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "关于刊发H股招股说明书、H股发行价格上限及H股香港公开发售等事宜的公告",
+    "date": "2026-10-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-20/1225611578.PDF",
+    "type": null
+   },
+   {
+    "title": "公司章程（草案）（H股发行上市后适用）",
+    "date": "2026-10-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225600733.PDF",
+    "type": null
+   },
+   {
+    "title": "关于修订公司于H股发行上市后适用的《公司章程（草案）》的公告",
+    "date": "2026-10-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225600732.PDF",
+    "type": null
+   },
+   {
+    "title": "关于刊发H股发行聆讯后资料集的公告",
+    "date": "2026-10-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225600731.PDF",
+    "type": null
+   },
+   {
+    "title": "第七届董事会第五次会议决议公告",
+    "date": "2026-10-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225600730.PDF",
+    "type": null
+   },
+   {
+    "title": "关于回购公司股份的进展公告",
+    "date": "2026-10-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-10/1225600029.PDF",
+    "type": null
+   },
+   {
+    "title": "关于香港联合交易所审议公司发行H股的公告",
+    "date": "2026-10-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-10/1225599936.PDF",
+    "type": null
+   },
+   {
+    "title": "关于发行境外上市股份（H股）获得中国证监会备案的公告",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225586156.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度报告（英文版）",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225560184.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年度第二次临时股东会法律意见书",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225560183.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年度第二次临时股东会决议公告",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225560182.PDF",
+    "type": null
+   },
+   {
+    "title": "关于回购公司股份的进展公告",
+    "date": "2026-09-02",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-02/1225541745.PDF",
+    "type": null
+   },
+   {
+    "title": "关于对全资子公司增资的公告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225492198.PDF",
+    "type": null
+   },
+   {
+    "title": "关于增加对外投资额度的公告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225492197.PDF",
+    "type": null
+   },
+   {
+    "title": "关于召开2026年半年度业绩网上说明会通知的公告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225491190.PDF",
+    "type": null
+   },
+   {
+    "title": "关于2026年半年度资产核销的公告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225491189.PDF",
+    "type": null
+   },
+   {
+    "title": "国泰海通证券股份有限公司关于苏州东山精密制造股份有限公司2026年度日常关联交易额度预计的核查意见",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225491188.PDF",
+    "type": null
+   },
+   {
+    "title": "关于2026年度日常关联交易额度预计的公告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225491187.PDF",
+    "type": null
+   },
+   {
+    "title": "关于2026年度新增对外担保额度的公告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225491186.PDF",
+    "type": null
+   },
+   {
+    "title": "关于召开2026年度第二次临时股东会的通知",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225491185.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 132
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "关注到公司通过对外投资控股江苏华存电子科技有限公司，其在存储控制芯片及存储模组领域有国产替代技术积累。想请教：公司是基于怎样的产业逻辑布局华存？未来在AI服务器、高速存储、光模块+PCB一体化方案上，是否会与现有电子电路及光模块业务形成协同？如何看待本次布局对中长期的竞争力提升？",
+    "answer": "感谢您对公司的关注和支持！",
+    "ask_date": "2026-10-20",
+    "answer_date": "2026-10-20",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2385626743977631744"
+   },
+   {
+    "question": "Meta、谷歌等北美云巨头和Marvell签长期锁产能协议，优先拿DSP芯片,咱们公司无法拿到足够的 DSP芯片，将直接影响 1.6T 光模块出货，请问公司在这方面有什么应对措施？",
+    "answer": "公司高度重视核心物料的供应安全，已针对相关上游物料建立了多策略的保障体系，持续推进供应链多元化布局，以应对外部环境变化，保障生产经营的稳定。感谢您对公司的关注与支持。",
+    "ask_date": "2026-10-19",
+    "answer_date": "2026-10-19",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2384994430454464512"
+   },
+   {
+    "question": "中际旭创今晚发公告拟注销回购股份，天孚通信也发公告拟回购股份并注销，请问贵公司是否也能回购的股份予以注销而不是用来股权激励，给广大股东和投资者信心",
+    "answer": "感谢您对公司的关注与支持。公司回购股份将按照已披露的回购方案确定的用途实施，具体情况详见公司相关公告。谢谢。",
+    "ask_date": "2026-10-15",
+    "answer_date": "2026-10-17",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2382298402021122048"
+   },
+   {
+    "question": "您好，请问贵公司在编制2025年年度报告、特别是“管理层讨论与分析”等文字章节时，是否使用过DeepSeek、豆包等生成式人工智能工具（包括使用内部系统集成的生成式AI功能），来辅助信息搜集、文字起草、修改或润色？如有，烦请说明主要使用环节；如未使用，也烦请明确说明。谢谢！",
+    "answer": "您好，公司严格按照国家有关法律法规及中国证监会、深圳证券交易所相关规定开展定期报告编制工作，保障定期报告内容真实、准确、完整。后续公司仍将依规开展相关工作。感谢您的关注!",
+    "ask_date": "2026-10-15",
+    "answer_date": "2026-10-17",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2382277648770678784"
+   },
+   {
+    "question": "索尔思光电股权交割后，目前工商办理过户了吗",
+    "answer": "您好，公司已回复过类似问题，烦请您查阅此前发布的相关回复内容。感谢您的关注。",
+    "ask_date": "2026-10-15",
+    "answer_date": "2026-10-17",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2381957751203217408"
+   },
+   {
+    "question": "三季报财务数据有了吗？能否尽快发个预告？",
+    "answer": "感谢您对公司的关注与支持，公司2026年三季度报告正有序编制中，公司将严格依照《深圳证券交易所股票上市规则》等相关规定履行信息披露义务。谢谢。",
+    "ask_date": "2026-10-13",
+    "answer_date": "2026-10-13",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2380583688020033536"
+   },
+   {
+    "question": "在光模块的下一代技术路线上，公司最看好哪些方向？已经做了哪些前瞻性的技术储备？",
+    "answer": "公司持续跟踪行业技术发展趋势，结合自身战略规划与技术储备审慎评估核心技术的布局方向，目前公司正并行推进硅光方案与自研EML两条光模块技术路线。",
+    "ask_date": "2026-10-09",
+    "answer_date": "2026-10-13",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2377638671742607360"
+   },
+   {
+    "question": "公司的光芯片是否实现自研自供？光芯片产品有哪些别人没有的核心优势？对公司光模块产品的成本下降和供应链自主可控带来了多大的提升？",
+    "answer": "公司具备AI PCB、光模块（含光芯片）从研发、设计到量产全流程能力，同时具备光芯片与光模块协同迭代优势。公司自研光芯片可在一定程度上优化光模块的成本结构，提升公司供应链自主可控能力，增强产品盈利能力。",
+    "ask_date": "2026-10-09",
+    "answer_date": "2026-10-13",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2377638431224438784"
+   }
+  ],
+  "count_12m": null
+ }
+}

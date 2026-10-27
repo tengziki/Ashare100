@@ -1,0 +1,586 @@
+{
+ "identity": {
+  "code": "601088",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "中国神华能源股份有限公司",
+  "name_abbr": "中国神华",
+  "aliases": [
+   "zgsh"
+  ],
+  "name_en": "China Shenhua Energy Company Limited",
+  "pinyin_abbr": "ZGSH",
+  "former_names": [],
+  "industry_sw1": "煤炭",
+  "industry_sw2": "煤炭开采",
+  "list_date": "2007-10-09",
+  "province": "北京",
+  "city": "北京",
+  "website": "www.csec.com",
+  "chairman": null,
+  "employees": 91392,
+  "business_summary": "煤炭、电力的生产和销售,铁路、港口和船舶运输,煤制烯烃等业务",
+  "profile": "中国神华能源股份有限公司(简称中国神华)成立于2004年11月8日,是国家能源投资集团有限责任公司(简称国家能源集团)旗下A+H股旗舰上市公司,H股和A股股票分别于2005年6月15日、2007年10月9日在香港联交所、上海证交所上市,连续12年荣获上交所信息披露工作评价A级。中国神华是全球领先的以煤炭为基础的综合能源上市公司,主要经营煤炭、电力、煤化工、铁路、港口、航运六大板块业务,以煤炭采掘业务为起点,利用自有运输和销售网络,以及下游电力和煤化工产业,实行跨行业、跨产业纵向一体化发展和运营模式。入选中国ESG上市公司先锋100、福布斯中国ESG50、主板上市公司价值百强等榜单,获评“金牛最具投资价值奖”“中国道德企业”等多项荣誉称号,蝉联中国品牌价值评价信息能源类上市公司第一名。煤炭核定产能3.5亿吨/年,建成千万吨级矿井群和国内首个2亿吨煤炭生产基地,各项生产、技术、质量、能耗、环保等指标保持世界先进水平。打造智能化矿山示范典型,研发应用智能一体化应用平台等关键核心技术,建成24座省级以上智能化煤矿。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 49.94,
+  "change_pct": 1.36,
+  "total_mv": 1083170349141.76,
+  "float_mv": 846418270668.52,
+  "total_shares": 21689434304,
+  "float_shares": 16948703858,
+  "pe_ttm": 20.07,
+  "pe_static": 20.5,
+  "pb": 2.44,
+  "ps_ttm": 3.51,
+  "turnover_rate": 0.21,
+  "amount": 1733259066.0,
+  "high_52w": 51.94,
+  "low_52w": 37.7,
+  "ytd_return": 26.53,
+  "return_1y": 24.45,
+  "return_3y": 105.94,
+  "dividend_yield": 4.02,
+  "index_members": [
+   "上证50",
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 335640000000.0,
+    "revenue_yoy": 43.89,
+    "net_profit": 50084000000.0,
+    "net_profit_yoy": 27.86,
+    "net_profit_deducted": 49875000000.0,
+    "gross_margin": 32.93,
+    "net_margin": 17.62,
+    "selling_expense_ratio": 0.17,
+    "admin_expense_ratio": 2.72,
+    "finance_expense_ratio": 0.03,
+    "rd_expense": 2499000000.0,
+    "rd_ratio": 0.74,
+    "eps": 2.52,
+    "bvps": 18.97,
+    "roe": 13.6,
+    "roa": 10.15,
+    "total_assets": 606827000000.0,
+    "total_liab": 161376000000.0,
+    "debt_ratio": 26.59,
+    "cash": 162886000000.0,
+    "receivables": 10258000000.0,
+    "inventory": 12633000000.0,
+    "goodwill": null,
+    "interest_debt": 65406000000.0,
+    "equity_parent": 376690000000.0,
+    "ocf": 94350000000.0,
+    "capex": 23638000000.0,
+    "fcf": 70712000000.0,
+    "ocf_to_np": 1.88
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 344533000000.0,
+    "revenue_yoy": 2.65,
+    "net_profit": 69648000000.0,
+    "net_profit_yoy": 39.06,
+    "net_profit_deducted": 70359000000.0,
+    "gross_margin": 39.03,
+    "net_margin": 23.71,
+    "selling_expense_ratio": 0.12,
+    "admin_expense_ratio": 2.88,
+    "finance_expense_ratio": 0.25,
+    "rd_expense": 3722000000.0,
+    "rd_ratio": 1.08,
+    "eps": 3.5,
+    "bvps": 19.82,
+    "roe": 18.08,
+    "roa": 13.3,
+    "total_assets": 621843000000.0,
+    "total_liab": 162524000000.0,
+    "debt_ratio": 26.14,
+    "cash": 170503000000.0,
+    "receivables": 10968000000.0,
+    "inventory": 12096000000.0,
+    "goodwill": null,
+    "interest_debt": 56937000000.0,
+    "equity_parent": 393900000000.0,
+    "ocf": 109734000000.0,
+    "capex": 28684000000.0,
+    "fcf": 81050000000.0,
+    "ocf_to_np": 1.58
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 343074000000.0,
+    "revenue_yoy": -0.42,
+    "net_profit": 59694000000.0,
+    "net_profit_yoy": -14.29,
+    "net_profit_deducted": 62868000000.0,
+    "gross_margin": 35.9,
+    "net_margin": 20.29,
+    "selling_expense_ratio": 0.12,
+    "admin_expense_ratio": 2.86,
+    "finance_expense_ratio": 0.15,
+    "rd_expense": 3007000000.0,
+    "rd_ratio": 0.88,
+    "eps": 3.0,
+    "bvps": 20.57,
+    "roe": 14.52,
+    "roa": 11.12,
+    "total_assets": 630131000000.0,
+    "total_liab": 151761000000.0,
+    "debt_ratio": 24.08,
+    "cash": 149986000000.0,
+    "receivables": 11875000000.0,
+    "inventory": 12846000000.0,
+    "goodwill": null,
+    "interest_debt": 44046000000.0,
+    "equity_parent": 408692000000.0,
+    "ocf": 89687000000.0,
+    "capex": 37084000000.0,
+    "fcf": 52603000000.0,
+    "ocf_to_np": 1.5
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 339788000000.0,
+    "revenue_yoy": -0.96,
+    "net_profit": 55805000000.0,
+    "net_profit_yoy": -6.51,
+    "net_profit_deducted": 60125000000.0,
+    "gross_margin": 34.1,
+    "net_margin": 19.42,
+    "selling_expense_ratio": 0.17,
+    "admin_expense_ratio": 3.21,
+    "finance_expense_ratio": 0.11,
+    "rd_expense": 2740000000.0,
+    "rd_ratio": 0.81,
+    "eps": 2.81,
+    "bvps": 21.48,
+    "roe": 13.55,
+    "roa": 10.17,
+    "total_assets": 668022000000.0,
+    "total_liab": 171377000000.0,
+    "debt_ratio": 25.65,
+    "cash": 143845000000.0,
+    "receivables": 12569000000.0,
+    "inventory": 12666000000.0,
+    "goodwill": null,
+    "interest_debt": 56146000000.0,
+    "equity_parent": 419559000000.0,
+    "ocf": 91086000000.0,
+    "capex": 37708000000.0,
+    "fcf": 53378000000.0,
+    "ocf_to_np": 1.63
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 294916000000.0,
+    "revenue_yoy": -13.21,
+    "net_profit": 52849000000.0,
+    "net_profit_yoy": -5.3,
+    "net_profit_deducted": 48589000000.0,
+    "gross_margin": 35.08,
+    "net_margin": 21.29,
+    "selling_expense_ratio": 0.18,
+    "admin_expense_ratio": 3.86,
+    "finance_expense_ratio": 0.15,
+    "rd_expense": 2854000000.0,
+    "rd_ratio": 0.97,
+    "eps": 2.66,
+    "bvps": 20.59,
+    "roe": 12.76,
+    "roa": 7.99,
+    "total_assets": 903830000000.0,
+    "total_liab": 300203000000.0,
+    "debt_ratio": 33.21,
+    "cash": 141013000000.0,
+    "receivables": 16566000000.0,
+    "inventory": 15280000000.0,
+    "goodwill": null,
+    "interest_debt": 117296000000.0,
+    "equity_parent": 512016000000.0,
+    "ocf": 75059000000.0,
+    "capex": 48398000000.0,
+    "fcf": 26661000000.0,
+    "ocf_to_np": 1.42
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 189338000000.0,
+   "revenue_yoy": 7.93,
+   "net_profit": 28715000000.0,
+   "net_profit_yoy": 4.1,
+   "net_profit_deducted": 26895000000.0,
+   "gross_margin": 35.48,
+   "net_margin": 18.76,
+   "roe": 5.83,
+   "eps": 1.34,
+   "debt_ratio": 40.27,
+   "ocf": 54664000000.0
+  },
+  "derived": {
+   "revenue_cagr_3y": -5.05,
+   "net_profit_cagr_3y": -8.79,
+   "receivables_to_revenue": 5.62,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "国务院国有资产监督管理委员会",
+  "controlling_shareholder": "国家能源投资集团有限责任公司",
+  "controlling_ratio": 69.97,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "国家能源投资集团有限责任公司",
+    "hold_num": 15175957642,
+    "hold_ratio": 69.97,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "HKSCC NOMINEES LIMITED",
+    "hold_num": 3370652088,
+    "hold_ratio": 15.54,
+    "hold_num_change": 88000
+   },
+   {
+    "rank": 3,
+    "name": "中国证券金融股份有限公司",
+    "hold_num": 436687905,
+    "hold_ratio": 2.01,
+    "hold_num_change": -146591451
+   },
+   {
+    "rank": 4,
+    "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+    "hold_num": 251481395,
+    "hold_ratio": 1.16,
+    "hold_num_change": 73266528
+   },
+   {
+    "rank": 5,
+    "name": "国新投资有限公司",
+    "hold_num": 190842454,
+    "hold_ratio": 0.88,
+    "hold_num_change": 58133772
+   },
+   {
+    "rank": 6,
+    "name": "太平人寿保险有限公司-传统-普通保险产品-022L-CT001沪",
+    "hold_num": 114321009,
+    "hold_ratio": 0.53,
+    "hold_num_change": -4177500
+   },
+   {
+    "rank": 7,
+    "name": "国新宏盛投资(北京)有限公司",
+    "hold_num": 114264767,
+    "hold_ratio": 0.53,
+    "hold_num_change": 26583044
+   },
+   {
+    "rank": 8,
+    "name": "香港中央结算有限公司",
+    "hold_num": 83486775,
+    "hold_ratio": 0.38,
+    "hold_num_change": -1096337
+   },
+   {
+    "rank": 9,
+    "name": "国丰兴华(北京)私募基金管理有限公司-鸿鹄志远(上海)私募投资基金有限公司",
+    "hold_num": 55987298,
+    "hold_ratio": 0.26,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 10,
+    "name": "太平人寿保险有限公司",
+    "hold_num": 55031845,
+    "hold_ratio": 0.25,
+    "hold_num_change": -2081600
+   }
+  ],
+  "holder_num": 233355,
+  "holder_num_change_pct": 24.02,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 2.79,
+  "northbound_ratio": 0.38,
+  "executives": [
+   {
+    "name": "张长岩",
+    "title": "总经理",
+    "pay": 762400.0
+   },
+   {
+    "name": "张长岩(代)",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.14,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 2.54,
+    "total_amount": 50466040685.7,
+    "payout_ratio": 100.76,
+    "dividend_yield": 7.59,
+    "ex_date": "2022-07-11"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 2.55,
+    "total_amount": 50664725885.25,
+    "payout_ratio": 72.74,
+    "dividend_yield": 8.2,
+    "ex_date": "2023-07-05"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 2.26,
+    "total_amount": 44902855098.3,
+    "payout_ratio": 75.22,
+    "dividend_yield": 5.01,
+    "ex_date": "2024-07-08"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 2.26,
+    "total_amount": 44902855098.3,
+    "payout_ratio": 80.46,
+    "dividend_yield": 5.51,
+    "ex_date": "2025-07-07"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 2.01,
+    "total_amount": 41811266889.02,
+    "payout_ratio": 79.11,
+    "dividend_yield": 2.35,
+    "ex_date": "2025-11-10"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 232747743656.57,
+  "cum_netprofit_5y": 288080000000.0,
+  "payout_5y": 80.79,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "601225.SH",
+   "601898.SH",
+   "600188.SH",
+   "002128.SZ"
+  ],
+  "segments": [
+   {
+    "name": "煤炭收入",
+    "revenue": 178342000000.0,
+    "ratio": 60.47,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "发电收入",
+    "revenue": 82708000000.0,
+    "ratio": 28.04,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "运输收入",
+    "revenue": 15102000000.0,
+    "ratio": 5.12,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 13677000000.0,
+    "ratio": 4.64,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "煤化工收入",
+    "revenue": 5087000000.0,
+    "ratio": 1.72,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "境内",
+    "revenue": 286561000000.0,
+    "ratio": 97.17,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "境外",
+    "revenue": 8355000000.0,
+    "ratio": 2.83,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "中国神华2026年半年度权益分派实施公告",
+    "date": "2026-10-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225606806.PDF",
+    "type": null
+   },
+   {
+    "title": "中国神华2026年9月份主要运营数据公告",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225605126.PDF",
+    "type": null
+   },
+   {
+    "title": "中国神华关于总会计师、董事会秘书离任的公告",
+    "date": "2026-10-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-10/1225599340.PDF",
+    "type": null
+   },
+   {
+    "title": "中国神华2026年第三次临时股东会决议公告",
+    "date": "2026-09-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225579981.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市金杜律师事务所关于中国神华能源股份有限公司2026年第三次临时股东会的法律意见书",
+    "date": "2026-09-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225579978.PDF",
+    "type": null
+   },
+   {
+    "title": "中国神华关于第六届董事会第二十二次会议决议的公告",
+    "date": "2026-09-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225579977.PDF",
+    "type": null
+   },
+   {
+    "title": "中信证券股份有限公司关于中国神华能源股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易之部分限售股份解除限售上市流通的核查意见",
+    "date": "2026-09-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225579959.PDF",
+    "type": null
+   },
+   {
+    "title": "中国神华关于发行股份及支付现金购买资产并募集配套资金暨关联交易之部分限售股解除限售上市流通的公告",
+    "date": "2026-09-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225579956.PDF",
+    "type": null
+   },
+   {
+    "title": "中国神华关于变更办公地址的公告",
+    "date": "2026-09-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-17/1225567741.PDF",
+    "type": null
+   },
+   {
+    "title": "中国神华2026年8月份主要运营数据公告",
+    "date": "2026-09-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-16/1225565223.PDF",
+    "type": null
+   },
+   {
+    "title": "中国神华2026年第三次临时股东会会议资料",
+    "date": "2026-09-04",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-04/1225546779.PDF",
+    "type": null
+   },
+   {
+    "title": "中国神华关于召开 2026 年第三次临时股东会的通知",
+    "date": "2026-09-04",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-04/1225546775.PDF",
+    "type": null
+   },
+   {
+    "title": "中国神华关于第六届董事会第二十一次会议决议的公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531780.PDF",
+    "type": null
+   },
+   {
+    "title": "中国神华2026年半年度报告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531759.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年上半年中国神华能源股份有限公司关于国家能源集团财务有限公司的风险持续评估报告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531758.PDF",
+    "type": null
+   },
+   {
+    "title": "中国神华2026年半年度报告摘要",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531754.PDF",
+    "type": null
+   },
+   {
+    "title": "中国神华2026年中期利润分配方案公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531753.PDF",
+    "type": null
+   },
+   {
+    "title": "中国神华关于举办2026年半年度业绩说明会的公告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225520528.PDF",
+    "type": null
+   },
+   {
+    "title": "中国神华2026年7月份主要运营数据公告",
+    "date": "2026-08-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-14/1225471783.PDF",
+    "type": null
+   },
+   {
+    "title": "中国神华关于第六届董事会第二十次会议决议的公告",
+    "date": "2026-07-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-24/1225439796.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 239
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "据朔黄铁路公司及国铁原平车务段、原平工务段消息，链接国铁忻河支线和朔黄线的河东联络线近期进行了整修。该线将承担何种业务？是否会开行旅客列车？",
+    "answer": null,
+    "ask_date": "2026-10-22",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1088"
+   }
+  ],
+  "count_12m": null
+ }
+}

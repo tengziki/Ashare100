@@ -627,5 +627,33 @@
   "source": "https://www.smics.com/images/title-logo.png",
   "bytes": 1856,
   "via": "official"
+ },
+ "600016.SH": {
+  "file": "600016.SH.png",
+  "source": "https://www.google.com/s2/favicons?domain=www.cmbc.com.cn&sz=128",
+  "bytes": 15642,
+  "via": "google-s2",
+  "px": 128
+ },
+ "601995.SH": {
+  "file": "601995.SH.png",
+  "source": "https://sns.sseinfo.com/resources/images/avatar/company/601995.png",
+  "bytes": 3050,
+  "via": "sse-e-avatar",
+  "px": 78
+ },
+ "601336.SH": {
+  "file": "601336.SH.png",
+  "source": "https://sns.sseinfo.com/resources/images/avatar/company/601336.png",
+  "bytes": 8808,
+  "via": "sse-e-avatar",
+  "px": 78
+ },
+ "601600.SH": {
+  "file": "601600.SH.png",
+  "source": "https://sns.sseinfo.com/resources/images/avatar/company/601600.png",
+  "bytes": 3465,
+  "via": "sse-e-avatar",
+  "px": 78
  }
 }

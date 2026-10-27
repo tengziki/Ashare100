@@ -1,0 +1,662 @@
+{
+ "identity": {
+  "code": "600887",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "内蒙古伊利实业集团股份有限公司",
+  "name_abbr": "伊利股份",
+  "aliases": [
+   "ylgf"
+  ],
+  "name_en": "Inner Mongolia Yili Industrial Group Co.,Ltd.",
+  "pinyin_abbr": "YLGF",
+  "former_names": [
+   "伊利股份→G伊利→伊利股份→*ST伊利"
+  ],
+  "industry_sw1": "食品饮料",
+  "industry_sw2": "饮料乳品",
+  "list_date": "1996-03-12",
+  "province": "内蒙古",
+  "city": "呼和浩特",
+  "website": "www.yili.com",
+  "chairman": "潘刚",
+  "employees": 62666,
+  "business_summary": "各类乳品及健康饮品的生产与销售",
+  "profile": "内蒙古伊利实业集团股份有限公司位居全球乳业五强,连续十一年蝉联亚洲乳业第一,也是中国规模最大、产品品类最全的乳制品企业。最优的产品品质、领先的综合服务能力和全面的可持续发展能力,让伊利一直深受全球顶级盛会、赛事以及各级政府和社会各界的信赖与认可。从2008年北京奥运会到2019武汉军运会、2022年北京冬奥会、2023年杭州亚运会,从2010年上海世博会到2016年杭州G20峰会,伊利作为唯一一家提供服务的乳制品企业频频亮相。同时伊利也是博鳌亚洲论坛、世界互联网大会等顶级峰会的合作伙伴。站在全球乳业五强的新起点,伊利已正式发布2030年实现“全球乳业第一”的长期战略目标。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 27.8,
+  "change_pct": 0.72,
+  "total_mv": 175845026542.6,
+  "float_mv": 174971246243.8,
+  "total_shares": 6325360667,
+  "float_shares": 6293929721,
+  "pe_ttm": 17.37,
+  "pe_static": 15.2,
+  "pb": 3.27,
+  "ps_ttm": 1.48,
+  "turnover_rate": 0.93,
+  "amount": 1618881025.0,
+  "high_52w": 28.6,
+  "low_52w": 23.76,
+  "ytd_return": 0.36,
+  "return_1y": 7.46,
+  "return_3y": 25.45,
+  "dividend_yield": 4.96,
+  "index_members": [
+   "上证50",
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 110595203162.81,
+    "revenue_yoy": 14.15,
+    "net_profit": 8704915103.95,
+    "net_profit_yoy": 22.98,
+    "net_profit_deducted": 7943784753.5,
+    "gross_margin": 30.62,
+    "net_margin": 7.93,
+    "selling_expense_ratio": 17.46,
+    "admin_expense_ratio": 3.82,
+    "finance_expense_ratio": -0.03,
+    "rd_expense": 601017082.0,
+    "rd_ratio": 0.54,
+    "eps": 1.43,
+    "bvps": 7.45,
+    "roe": 25.59,
+    "roa": 10.09,
+    "total_assets": 101962339842.65,
+    "total_liab": 53171321535.65,
+    "debt_ratio": 52.15,
+    "cash": 31742370910.8,
+    "receivables": 1958977857.43,
+    "inventory": 8917195638.88,
+    "goodwill": 306286708.57,
+    "interest_debt": 22248491350.45,
+    "equity_parent": 47708310432.24,
+    "ocf": 15527519680.07,
+    "capex": 6682734083.34,
+    "fcf": 8844785596.73,
+    "ocf_to_np": 1.78
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 123171044056.27,
+    "revenue_yoy": 11.37,
+    "net_profit": 9431064679.78,
+    "net_profit_yoy": 8.34,
+    "net_profit_deducted": 8585692731.44,
+    "gross_margin": 32.26,
+    "net_margin": 7.59,
+    "selling_expense_ratio": 18.6,
+    "admin_expense_ratio": 4.34,
+    "finance_expense_ratio": -0.21,
+    "rd_expense": 821551260.99,
+    "rd_ratio": 0.67,
+    "eps": 1.48,
+    "bvps": 7.86,
+    "roe": 19.23,
+    "roa": 8.0,
+    "total_assets": 130965302299.22,
+    "total_liab": 76822199099.56,
+    "debt_ratio": 58.66,
+    "cash": 33853332020.3,
+    "receivables": 3088345121.78,
+    "inventory": 14836164803.32,
+    "goodwill": 4953829125.44,
+    "interest_debt": 40886638231.51,
+    "equity_parent": 50267883832.15,
+    "ocf": 13420320580.36,
+    "capex": 6646107588.62,
+    "fcf": 6774212991.74,
+    "ocf_to_np": 1.42
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 126179458590.36,
+    "revenue_yoy": 2.44,
+    "net_profit": 10428540457.94,
+    "net_profit_yoy": 10.58,
+    "net_profit_deducted": 10026171076.03,
+    "gross_margin": 32.58,
+    "net_margin": 8.18,
+    "selling_expense_ratio": 17.89,
+    "admin_expense_ratio": 4.08,
+    "finance_expense_ratio": -0.12,
+    "rd_expense": 850146147.17,
+    "rd_ratio": 0.67,
+    "eps": 1.64,
+    "bvps": 8.41,
+    "roe": 20.2,
+    "roa": 7.28,
+    "total_assets": 151620252657.98,
+    "total_liab": 94299895215.57,
+    "debt_ratio": 62.19,
+    "cash": 43371541992.39,
+    "receivables": 3084668398.14,
+    "inventory": 12511775911.77,
+    "goodwill": 5160099488.23,
+    "interest_debt": 57674065884.11,
+    "equity_parent": 53539331413.16,
+    "ocf": 18290357650.56,
+    "capex": 6955597704.25,
+    "fcf": 11334759946.31,
+    "ocf_to_np": 1.75
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 115779554649.3,
+    "revenue_yoy": -8.24,
+    "net_profit": 8452859993.18,
+    "net_profit_yoy": -18.94,
+    "net_profit_deducted": 6011274945.92,
+    "gross_margin": 33.88,
+    "net_margin": 7.33,
+    "selling_expense_ratio": 18.99,
+    "admin_expense_ratio": 3.86,
+    "finance_expense_ratio": -0.51,
+    "rd_expense": 869976531.8,
+    "rd_ratio": 0.75,
+    "eps": 1.33,
+    "bvps": 8.35,
+    "roe": 15.81,
+    "roa": 5.54,
+    "total_assets": 153718003927.97,
+    "total_liab": 96710353251.06,
+    "debt_ratio": 62.91,
+    "cash": 25404255558.6,
+    "receivables": 2878402047.44,
+    "inventory": 10744674420.37,
+    "goodwill": 2336555144.44,
+    "interest_debt": 50533644364.35,
+    "equity_parent": 53179935140.8,
+    "ocf": 21739740393.38,
+    "capex": 3978318320.96,
+    "fcf": 17761422072.42,
+    "ocf_to_np": 2.57
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 115931105774.99,
+    "revenue_yoy": 0.13,
+    "net_profit": 11565166497.81,
+    "net_profit_yoy": 36.82,
+    "net_profit_deducted": 11068321695.12,
+    "gross_margin": 34.58,
+    "net_margin": 9.96,
+    "selling_expense_ratio": 18.58,
+    "admin_expense_ratio": 4.05,
+    "finance_expense_ratio": -0.6,
+    "rd_expense": 915007208.81,
+    "rd_ratio": 0.79,
+    "eps": 1.83,
+    "bvps": 8.64,
+    "roe": 20.87,
+    "roa": 7.53,
+    "total_assets": 152098516632.34,
+    "total_liab": 93554239954.18,
+    "debt_ratio": 61.51,
+    "cash": 19494920358.0,
+    "receivables": 2987426531.59,
+    "inventory": 10823125184.53,
+    "goodwill": 2181530707.86,
+    "interest_debt": 50806333185.57,
+    "equity_parent": 54655690475.89,
+    "ocf": 14343920490.32,
+    "capex": 3036644156.68,
+    "fcf": 11307276333.64,
+    "ocf_to_np": 1.24
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 64489715236.16,
+   "revenue_yoy": 4.13,
+   "net_profit": 5758628097.79,
+   "net_profit_yoy": -20.02,
+   "net_profit_deducted": 5595762517.76,
+   "gross_margin": 36.43,
+   "net_margin": 8.59,
+   "roe": 10.09,
+   "eps": 0.91,
+   "debt_ratio": 63.56,
+   "ocf": 9759147483.18
+  },
+  "derived": {
+   "revenue_cagr_3y": -2.0,
+   "net_profit_cagr_3y": 7.04,
+   "receivables_to_revenue": 2.58,
+   "goodwill_to_equity": 3.99
+  }
+ },
+ "shareholders": {
+  "controller": "无实际控制人",
+  "controlling_shareholder": "无控股股东",
+  "controlling_ratio": null,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "呼和浩特投资有限责任公司",
+    "hold_num": 538535826,
+    "hold_ratio": 8.51,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "香港中央结算有限公司",
+    "hold_num": 535404997,
+    "hold_ratio": 8.46,
+    "hold_num_change": 96243214
+   },
+   {
+    "rank": 3,
+    "name": "潘刚",
+    "hold_num": 224756319,
+    "hold_ratio": 3.55,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+    "hold_num": 224572373,
+    "hold_ratio": 3.55,
+    "hold_num_change": -8832330
+   },
+   {
+    "rank": 5,
+    "name": "国丰兴华(北京)私募基金管理有限公司-鸿鹄志远(上海)私募投资基金有限公司",
+    "hold_num": 156045797,
+    "hold_ratio": 2.47,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "赵成霞",
+    "hold_num": 92420140,
+    "hold_ratio": 1.46,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "陈发树",
+    "hold_num": 62438092,
+    "hold_ratio": 0.99,
+    "hold_num_change": 2000000
+   },
+   {
+    "rank": 8,
+    "name": "太平人寿保险有限公司-传统-普通保险产品-022L-CT001沪",
+    "hold_num": 59658640,
+    "hold_ratio": 0.94,
+    "hold_num_change": null
+   },
+   {
+    "rank": 9,
+    "name": "中国工商银行股份有限公司-中证主要消费交易型开放式指数证券投资基金",
+    "hold_num": 59466674,
+    "hold_ratio": 0.94,
+    "hold_num_change": -15147600
+   },
+   {
+    "rank": 10,
+    "name": "太平人寿保险有限公司",
+    "hold_num": 54384336,
+    "hold_ratio": 0.86,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 412539,
+  "holder_num_change_pct": -0.42,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 18.68,
+  "northbound_ratio": 8.46,
+  "executives": [
+   {
+    "name": "潘刚",
+    "title": "董事长",
+    "pay": 19658589.0
+   },
+   {
+    "name": "潘刚",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "邱向敏",
+    "title": "董事会秘书",
+    "pay": 885650.0
+   }
+  ],
+  "pledge_ratio_total": 6.29,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.96,
+    "total_amount": 6144125681.28,
+    "payout_ratio": 70.58,
+    "dividend_yield": 2.53,
+    "ex_date": "2022-06-01"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 1.04,
+    "total_amount": 6621108317.2,
+    "payout_ratio": 70.21,
+    "dividend_yield": 3.48,
+    "ex_date": "2023-06-13"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 1.2,
+    "total_amount": 7639318446.0,
+    "payout_ratio": 73.25,
+    "dividend_yield": 4.19,
+    "ex_date": "2024-06-05"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 1.22,
+    "total_amount": 7716940013.74,
+    "payout_ratio": 91.29,
+    "dividend_yield": 4.04,
+    "ex_date": "2025-06-06"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 1.38,
+    "total_amount": 8728997720.46,
+    "payout_ratio": 75.48,
+    "dividend_yield": 2.79,
+    "ex_date": "2025-12-17"
+   }
+  ],
+  "consecutive_years": 5,
+  "cum_dividend_5y": 36850490178.68,
+  "cum_netprofit_5y": 48582546732.66,
+  "payout_5y": 75.85,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [
+   "605499.SH",
+   "603156.SH",
+   "600519.SH",
+   "000858.SZ"
+  ],
+  "segments": [
+   {
+    "name": "液体乳",
+    "revenue": 70422480013.97,
+    "ratio": 60.9,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "奶粉及奶制品",
+    "revenue": 32768634710.63,
+    "ratio": 28.34,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "冷饮产品",
+    "revenue": 9822498669.85,
+    "ratio": 8.49,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他",
+    "revenue": 1531679442.94,
+    "ratio": 1.32,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 1090938412.66,
+    "ratio": 0.94,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "华北",
+    "revenue": 32466185606.83,
+    "ratio": 28.08,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "华南",
+    "revenue": 28022574295.56,
+    "ratio": 24.23,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "华中",
+    "revenue": 21231139222.69,
+    "ratio": 18.36,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "华东",
+    "revenue": 16431940725.1,
+    "ratio": 14.21,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他",
+    "revenue": 16393452987.21,
+    "ratio": 14.18,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "内蒙古伊利实业集团股份有限公司关于为控股子公司提供担保的进展公告",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225608261.PDF",
+    "type": null
+   },
+   {
+    "title": "内蒙古伊利实业集团股份有限公司关于2026年度第十五、十六、十七、十八、十九期超短期融资券发行结果的公告",
+    "date": "2026-10-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225603138.PDF",
+    "type": null
+   },
+   {
+    "title": "内蒙古伊利实业集团股份有限公司关于全资子公司内蒙古惠商融资担保有限公司2026年第三季度对外担保情况公告",
+    "date": "2026-10-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225600810.PDF",
+    "type": null
+   },
+   {
+    "title": "内蒙古伊利实业集团股份有限公司关于股份回购进展公告",
+    "date": "2026-10-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-10/1225598746.PDF",
+    "type": null
+   },
+   {
+    "title": "内蒙古伊利实业集团股份有限公司关于出资设立风险投资基金相关事项变更的公告",
+    "date": "2026-10-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-10/1225598739.PDF",
+    "type": null
+   },
+   {
+    "title": "内蒙古伊利实业集团股份有限公司关于2026年度第十、十一期超短期融资券兑付完成的公告",
+    "date": "2026-10-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225591152.PDF",
+    "type": null
+   },
+   {
+    "title": "内蒙古伊利实业集团股份有限公司关于为全资子公司提供担保的进展公告",
+    "date": "2026-10-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225591147.PDF",
+    "type": null
+   },
+   {
+    "title": "内蒙古伊利实业集团股份有限公司关于2026年度第十二、十三、十四期超短期融资券兑付完成的公告",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225584526.PDF",
+    "type": null
+   },
+   {
+    "title": "内蒙古伊利实业集团股份有限公司关于2023年持股计划（第三期）完成股票购买的公告",
+    "date": "2026-09-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225578520.PDF",
+    "type": null
+   },
+   {
+    "title": "内蒙古伊利实业集团股份有限公司2026年第一次临时股东会决议公告",
+    "date": "2026-09-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-17/1225568026.PDF",
+    "type": null
+   },
+   {
+    "title": "北京天驰君泰律师事务所关于内蒙古伊利实业集团股份有限公司2026年第一次临时股东会的法律意见书",
+    "date": "2026-09-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-17/1225568025.PDF",
+    "type": null
+   },
+   {
+    "title": "内蒙古伊利实业集团股份有限公司关于以集中竞价交易方式回购公司股份的回购报告书",
+    "date": "2026-09-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-17/1225568022.PDF",
+    "type": null
+   },
+   {
+    "title": "内蒙古伊利实业集团股份有限公司关于回购股份减少注册资本通知债权人的公告",
+    "date": "2026-09-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-17/1225568017.PDF",
+    "type": null
+   },
+   {
+    "title": "内蒙古伊利实业集团股份有限公司关于为控股子公司提供担保的进展公告",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225559652.PDF",
+    "type": null
+   },
+   {
+    "title": "内蒙古伊利实业集团股份有限公司关于回购股份事项前十名股东持股情况的公告",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225559649.PDF",
+    "type": null
+   },
+   {
+    "title": "内蒙古伊利实业集团股份有限公司2026年第一次临时股东会会议资料",
+    "date": "2026-09-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-09/1225552949.PDF",
+    "type": null
+   },
+   {
+    "title": "内蒙古伊利实业集团股份有限公司2023年持股计划（第三期）第二次持有人会议决议公告",
+    "date": "2026-09-05",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-05/1225547701.PDF",
+    "type": null
+   },
+   {
+    "title": "内蒙古伊利实业集团股份有限公司第六期长期服务计划第二次持有人会议决议公告",
+    "date": "2026-09-05",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-05/1225547678.PDF",
+    "type": null
+   },
+   {
+    "title": "内蒙古伊利实业集团股份有限公司关于回购股份事项前十名股东持股情况的公告",
+    "date": "2026-09-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-01/1225536213.PDF",
+    "type": null
+   },
+   {
+    "title": "内蒙古伊利实业集团股份有限公司2026年半年度报告摘要",
+    "date": "2026-08-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225511505.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 142
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "金领冠是公司婴幼儿奶粉的核心品牌，未来在品牌发展和市场拓展方面，公司有哪些战略考虑和重点布局？",
+    "answer": null,
+    "ask_date": "2026-10-21",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=887"
+   },
+   {
+    "question": "请问公司海外业务发展如何，如何能够管理好海外产品质量和国内一样好呢？",
+    "answer": null,
+    "ask_date": "2026-10-21",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=887"
+   },
+   {
+    "question": "印尼是东南亚人口大国，市场潜力不小。公司目前在印尼有哪些业务布局？未来还有哪些发展规划？",
+    "answer": null,
+    "ask_date": "2026-10-21",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=887"
+   },
+   {
+    "question": "董秘你好，我想问一下贵公司今年中报中\"其他流动资产\"和\"其他非流动资产\"这两部分增速较快，而且本身数值也比较大，对于这两部分资金有什么计划吗？这两部分都是大额存单和定期存款吗？综合下来，存款收益率有多少？",
+    "answer": null,
+    "ask_date": "2026-10-14",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=887"
+   },
+   {
+    "question": "管理层有没有想过给予中老年人奶粉给予补贴，中国目前有三亿退休金老人，而2000万人中位数6700每月（这部分人无需补贴）而1.34亿企事业退休职工只有3050元，这部分人如果有补贴我想销量会突破数倍，而逛到80-90后随着健康意识增强喝中老年奶粉的人也越来越多，这部分人如果能适应喝奶粉习惯未来十年的增长是有保障的，但这部分人跟退休金一样也是薪资差距巨大，如果能在国家倾向性政策出台以前抓住消费者心",
+    "answer": null,
+    "ask_date": "2026-10-14",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=887"
+   },
+   {
+    "question": "请问现在伊利股份股东人数是多少？",
+    "answer": null,
+    "ask_date": "2026-09-24",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=887"
+   },
+   {
+    "question": "尊敬的董秘，您好！ “2026中国民营企业500强”最新发布，公司是否位列排行之中？谢谢回复！",
+    "answer": null,
+    "ask_date": "2026-09-23",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=887"
+   }
+  ],
+  "count_12m": null
+ }
+}

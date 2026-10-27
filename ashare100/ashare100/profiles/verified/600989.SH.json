@@ -1,0 +1,636 @@
+{
+ "identity": {
+  "code": "600989",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "宁夏宝丰能源集团股份有限公司",
+  "name_abbr": "宝丰能源",
+  "aliases": [
+   "bfny"
+  ],
+  "name_en": "Ningxia Baofeng Energy Group Co., Ltd.",
+  "pinyin_abbr": "BFNY",
+  "former_names": [],
+  "industry_sw1": "基础化工",
+  "industry_sw2": "化学原料",
+  "list_date": "2019-05-16",
+  "province": "宁夏",
+  "city": "银川",
+  "website": "www.baofengenergy.com",
+  "chairman": "党彦宝",
+  "employees": 22037,
+  "business_summary": "煤制烯烃",
+  "profile": "宁夏宝丰能源集团股份有限公司是高端煤基新材料全产业链领军企业,A股主板上市公司(股票代码600989)。公司坚守实业报国,主动服务和融入国家及自治区重大战略部署,秉持“资源节约、环境友好”的绿色发展理念,积极投身国家最需要的产业,大力发展新质生产力,为保障国家能源安全作出有益贡献。公司致力打造“科技创新、技术领先、行业领军、世界一流”的科技型绿色智造企业,应用全球领先的工艺、技术和装备,在宁东和鄂尔多斯国家能源基地,以煤替代石油、以新能源替代化石能源生产高端化工产品实现进口替代,助力国家“碳中和”目标实现。产业链上下游紧密衔接、相互联动,可生产100多种化工产品,实现资源节约集约、清洁高效利用,树立了行业绿色低碳发展标杆。公司锚定“双碳”战略,采用“风光融合”发“绿电”制取绿氢,用绿氢生产绿色甲醇、绿氨、绿色烯烃,建成全球最大的太阳能电解水制氢厂,是全球唯一一家用绿氢替代化石能源规模化生产绿甲醇、绿氨的绿色化工企业。未来将形成年产1000万吨绿色甲醇、500万吨绿氨产能,成为全球最大的绿色能源企业。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 20.31,
+  "change_pct": -8.43,
+  "total_mv": 148940541600.0,
+  "float_mv": 148940541600.0,
+  "total_shares": 7333360000,
+  "float_shares": 7333360000,
+  "pe_ttm": 8.91,
+  "pe_static": 13.12,
+  "pb": 2.62,
+  "ps_ttm": 2.5,
+  "turnover_rate": 1.35,
+  "amount": 2045679230.0,
+  "high_52w": 35.65,
+  "low_52w": 15.84,
+  "ytd_return": 8.09,
+  "return_1y": 26.07,
+  "return_3y": 68.97,
+  "dividend_yield": 3.45,
+  "index_members": [
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 23299935290.2,
+    "revenue_yoy": 46.29,
+    "net_profit": 7070425862.77,
+    "net_profit_yoy": 52.95,
+    "net_profit_deducted": 7335511226.86,
+    "gross_margin": 42.21,
+    "net_margin": 30.35,
+    "selling_expense_ratio": 0.26,
+    "admin_expense_ratio": 2.57,
+    "finance_expense_ratio": 1.11,
+    "rd_expense": 132538540.98,
+    "rd_ratio": 0.57,
+    "eps": 0.97,
+    "bvps": 4.18,
+    "roe": 25.33,
+    "roa": 17.14,
+    "total_assets": 44373765410.12,
+    "total_liab": 13683800846.26,
+    "debt_ratio": 30.84,
+    "cash": 1450702212.93,
+    "receivables": 38334917.78,
+    "inventory": 940393067.25,
+    "goodwill": 1123507836.71,
+    "interest_debt": 7411696763.14,
+    "equity_parent": 30689964563.86,
+    "ocf": 6487817727.0,
+    "capex": 5357162620.72,
+    "fcf": 1130655106.28,
+    "ocf_to_np": 0.92
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 28429848345.48,
+    "revenue_yoy": 22.02,
+    "net_profit": 6302502368.25,
+    "net_profit_yoy": -10.86,
+    "net_profit_deducted": 6718586779.15,
+    "gross_margin": 32.87,
+    "net_margin": 22.17,
+    "selling_expense_ratio": 0.25,
+    "admin_expense_ratio": 2.38,
+    "finance_expense_ratio": 0.82,
+    "rd_expense": 150852673.91,
+    "rd_ratio": 0.53,
+    "eps": 0.86,
+    "bvps": 4.62,
+    "roe": 19.57,
+    "roa": 12.36,
+    "total_assets": 57578314322.1,
+    "total_liab": 23703680350.42,
+    "debt_ratio": 41.17,
+    "cash": 2158034417.02,
+    "receivables": 70869058.42,
+    "inventory": 1347682806.69,
+    "goodwill": 1123507836.71,
+    "interest_debt": 14690964494.97,
+    "equity_parent": 33874633971.68,
+    "ocf": 6626183529.41,
+    "capex": 9977171908.33,
+    "fcf": -3350988378.92,
+    "ocf_to_np": 1.05
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 29135511197.96,
+    "revenue_yoy": 2.48,
+    "net_profit": 5650614862.71,
+    "net_profit_yoy": -10.34,
+    "net_profit_deducted": 5948882923.98,
+    "gross_margin": 30.4,
+    "net_margin": 19.39,
+    "selling_expense_ratio": 0.29,
+    "admin_expense_ratio": 2.64,
+    "finance_expense_ratio": 1.12,
+    "rd_expense": 431071595.72,
+    "rd_ratio": 1.48,
+    "eps": 0.77,
+    "bvps": 5.25,
+    "roe": 15.72,
+    "roa": 8.75,
+    "total_assets": 71630299331.58,
+    "total_liab": 33093594556.2,
+    "debt_ratio": 46.2,
+    "cash": 1283409365.57,
+    "receivables": 26383931.11,
+    "inventory": 1292155809.0,
+    "goodwill": 1123507836.71,
+    "interest_debt": 20995057186.88,
+    "equity_parent": 38536704775.38,
+    "ocf": 8692623772.83,
+    "capex": 12842160367.9,
+    "fcf": -4149536595.07,
+    "ocf_to_np": 1.54
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 32982889902.49,
+    "revenue_yoy": 13.21,
+    "net_profit": 6337676311.63,
+    "net_profit_yoy": 12.16,
+    "net_profit_deducted": 6780001656.42,
+    "gross_margin": 33.15,
+    "net_margin": 19.22,
+    "selling_expense_ratio": 0.36,
+    "admin_expense_ratio": 2.65,
+    "finance_expense_ratio": 2.26,
+    "rd_expense": 756142096.71,
+    "rd_ratio": 2.29,
+    "eps": 0.87,
+    "bvps": 5.86,
+    "roe": 15.55,
+    "roa": 7.86,
+    "total_assets": 89566217563.17,
+    "total_liab": 46559996654.97,
+    "debt_ratio": 51.98,
+    "cash": 2477011135.69,
+    "receivables": 20246151.32,
+    "inventory": 1575171490.53,
+    "goodwill": 1123507836.71,
+    "interest_debt": 31053309847.26,
+    "equity_parent": 43006220908.2,
+    "ocf": 8897635369.03,
+    "capex": 11529080272.76,
+    "fcf": -2631444903.73,
+    "ocf_to_np": 1.4
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 48037593136.78,
+    "revenue_yoy": 45.64,
+    "net_profit": 11350295509.65,
+    "net_profit_yoy": 79.09,
+    "net_profit_deducted": 11519983716.43,
+    "gross_margin": 35.92,
+    "net_margin": 23.63,
+    "selling_expense_ratio": 0.26,
+    "admin_expense_ratio": 2.74,
+    "finance_expense_ratio": 2.37,
+    "rd_expense": 961150998.87,
+    "rd_ratio": 2.0,
+    "eps": 1.56,
+    "bvps": 6.6,
+    "roe": 24.84,
+    "roa": 12.63,
+    "total_assets": 90152489325.37,
+    "total_liab": 41762569552.36,
+    "debt_ratio": 46.32,
+    "cash": 1344970558.87,
+    "receivables": 37000363.32,
+    "inventory": 1966414684.91,
+    "goodwill": 1123507836.71,
+    "interest_debt": 30073677972.35,
+    "equity_parent": 48389919773.01,
+    "ocf": 16851078343.67,
+    "capex": 6643088695.58,
+    "fcf": 10207989648.09,
+    "ocf_to_np": 1.48
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 30197583541.33,
+   "revenue_yoy": 32.33,
+   "net_profit": 9727818696.5,
+   "net_profit_yoy": 70.14,
+   "net_profit_deducted": 9209887019.74,
+   "gross_margin": 43.56,
+   "net_margin": 32.21,
+   "roe": 18.61,
+   "eps": 1.33,
+   "debt_ratio": 41.84,
+   "ocf": 11964338495.35
+  },
+  "derived": {
+   "revenue_cagr_3y": 19.11,
+   "net_profit_cagr_3y": 21.66,
+   "receivables_to_revenue": 0.08,
+   "goodwill_to_equity": 2.32
+  }
+ },
+ "shareholders": {
+  "controller": "党彦宝",
+  "controlling_shareholder": "宁夏宝丰集团有限公司",
+  "controlling_ratio": 35.65,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "宁夏宝丰集团有限公司",
+    "hold_num": 2614211270,
+    "hold_ratio": 35.65,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "东毅国际集团有限公司",
+    "hold_num": 2000000000,
+    "hold_ratio": 27.27,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "党彦宝",
+    "hold_num": 552000000,
+    "hold_ratio": 7.53,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "香港中央结算有限公司",
+    "hold_num": 198219415,
+    "hold_ratio": 2.7,
+    "hold_num_change": -30399296
+   },
+   {
+    "rank": 5,
+    "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+    "hold_num": 77705569,
+    "hold_ratio": 1.06,
+    "hold_num_change": 52148558
+   },
+   {
+    "rank": 6,
+    "name": "张龙",
+    "hold_num": 45544146,
+    "hold_ratio": 0.62,
+    "hold_num_change": 50000
+   },
+   {
+    "rank": 7,
+    "name": "杭州恒逸投资有限公司",
+    "hold_num": 26400000,
+    "hold_ratio": 0.36,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "申万宏源证券有限公司",
+    "hold_num": 20826429,
+    "hold_ratio": 0.28,
+    "hold_num_change": null
+   },
+   {
+    "rank": 9,
+    "name": "中国人寿保险股份有限公司-分红-个人分红-005L-FH002沪",
+    "hold_num": 20816980,
+    "hold_ratio": 0.28,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "招商银行股份有限公司-中欧周期优选混合型发起式证券投资基金",
+    "hold_num": 20116217,
+    "hold_ratio": 0.27,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 158221,
+  "holder_num_change_pct": -3.0,
+  "holder_num_date": "2026-09-30",
+  "inst_hold_ratio": 6.23,
+  "northbound_ratio": 2.7,
+  "executives": [
+   {
+    "name": "党彦宝",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "刘元管",
+    "title": "总经理",
+    "pay": 5834400.0
+   },
+   {
+    "name": "黄爱军",
+    "title": "董事会秘书",
+    "pay": 1813200.0
+   }
+  ],
+  "pledge_ratio_total": 11.82,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.2648,
+    "total_amount": 1941873728.0,
+    "payout_ratio": 27.46,
+    "dividend_yield": 1.86,
+    "ex_date": "2022-05-12"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.2616,
+    "total_amount": 1918406976.0,
+    "payout_ratio": 30.44,
+    "dividend_yield": 1.06,
+    "ex_date": "2022-12-27"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.28,
+    "total_amount": 2053340800.0,
+    "payout_ratio": 36.34,
+    "dividend_yield": 1.72,
+    "ex_date": "2024-07-24"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.41,
+    "total_amount": 3006627733.15,
+    "payout_ratio": 47.44,
+    "dividend_yield": 2.59,
+    "ex_date": "2025-05-13"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.7,
+    "total_amount": 5133352000.0,
+    "payout_ratio": 45.23,
+    "dividend_yield": 1.47,
+    "ex_date": "2025-09-08"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 14053601237.15,
+  "cum_netprofit_5y": 36711514915.01,
+  "payout_5y": 38.28,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [
+   "002648.SZ",
+   "601216.SH",
+   "600309.SH",
+   "000792.SZ"
+  ],
+  "segments": [
+   {
+    "name": "烯烃产品",
+    "revenue": 37605569211.45,
+    "ratio": 78.28,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "焦化产品",
+    "revenue": 7493599857.85,
+    "ratio": 15.6,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "精细化工产品",
+    "revenue": 2720014725.27,
+    "ratio": 5.66,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 218409342.21,
+    "ratio": 0.45,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "华北",
+    "revenue": 15262203335.37,
+    "ratio": 31.77,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "华东",
+    "revenue": 14844004451.2,
+    "ratio": 30.9,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "西北",
+    "revenue": 8675369558.71,
+    "ratio": 18.06,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "华中",
+    "revenue": 4019061599.16,
+    "ratio": 8.37,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "西南",
+    "revenue": 3387050913.57,
+    "ratio": 7.05,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "宁夏宝丰能源集团股份有限公司关于召开2026年第三季度业绩说明会的公告",
+    "date": "2026-10-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-22/1225614694.PDF",
+    "type": null
+   },
+   {
+    "title": "宁夏宝丰能源集团股份有限公司2026年三季度主要经营数据公告",
+    "date": "2026-10-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-22/1225614693.PDF",
+    "type": null
+   },
+   {
+    "title": "宁夏宝丰能源集团股份有限公司第五届董事会第七次会议决议公告",
+    "date": "2026-10-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-22/1225614692.PDF",
+    "type": null
+   },
+   {
+    "title": "宁夏宝丰能源集团股份有限公司2026年第三季度报告",
+    "date": "2026-10-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-22/1225614691.PDF",
+    "type": null
+   },
+   {
+    "title": "宁夏宝丰能源集团股份有限公司2026年半年度权益分派实施公告",
+    "date": "2026-08-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225506148.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市嘉源律师事务所关于宁夏宝丰能源集团股份有限公司差异化分红事项的核查意见",
+    "date": "2026-08-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505410.PDF",
+    "type": null
+   },
+   {
+    "title": "宁夏宝丰能源集团股份有限公司关于召开2026年半年度业绩说明会的公告",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225481289.PDF",
+    "type": null
+   },
+   {
+    "title": "宁夏宝丰能源集团股份有限公司2026年半年度利润分配方案公告",
+    "date": "2026-08-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-13/1225470238.PDF",
+    "type": null
+   },
+   {
+    "title": "宁夏宝丰能源集团股份有限公司第五届董事会第六次会议决议公告",
+    "date": "2026-08-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-13/1225470233.PDF",
+    "type": null
+   },
+   {
+    "title": "宁夏宝丰能源集团股份有限公司2026年半年度报告摘要",
+    "date": "2026-08-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-13/1225470232.PDF",
+    "type": null
+   },
+   {
+    "title": "宁夏宝丰能源集团股份有限公司2026年上半年主要经营数据公告",
+    "date": "2026-08-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-13/1225470231.PDF",
+    "type": null
+   },
+   {
+    "title": "宁夏宝丰能源集团股份有限公司2026年半年度报告",
+    "date": "2026-08-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-13/1225470229.PDF",
+    "type": null
+   },
+   {
+    "title": "宁夏宝丰能源集团股份有限公司2026年第一次临时股东会法律意见书",
+    "date": "2026-07-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-28/1225442914.PDF",
+    "type": null
+   },
+   {
+    "title": "宁夏宝丰能源集团股份有限有限公司2026年第一次临时股东会决议公告",
+    "date": "2026-07-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-28/1225442885.PDF",
+    "type": null
+   },
+   {
+    "title": "宁夏宝丰能源集团股份有限公司2026年第一次临时股东会会议资料",
+    "date": "2026-07-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-17/1225427510.PDF",
+    "type": null
+   },
+   {
+    "title": "宁夏宝丰能源集团股份有限公司2026年半年度业绩预增公告",
+    "date": "2026-07-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-14/1225420709.PDF",
+    "type": null
+   },
+   {
+    "title": "宁夏宝丰能源集团股份有限公司关于修改《公司章程》的公告",
+    "date": "2026-07-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-11/1225419688.PDF",
+    "type": null
+   },
+   {
+    "title": "公司章程（2026年7月）",
+    "date": "2026-07-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-11/1225419687.PDF",
+    "type": null
+   },
+   {
+    "title": "宁夏宝丰能源集团股份有限公司第五届董事会第五次会议决议公告",
+    "date": "2026-07-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-11/1225419684.PDF",
+    "type": null
+   },
+   {
+    "title": "宁夏宝丰能源集团股份有限公司关于公司董事、高级管理人员2026年度薪酬方案的公告",
+    "date": "2026-07-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-11/1225419679.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 94
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "你好，请问新疆准东项目目前进展如何？何时能投入运营？目前公司的实际产能利用率是多少？",
+    "answer": "尊敬的投资者您好！新疆烯烃项目已上报国家有关审批部门，公司也在同步做好各项准备工作，争取项目早日获批落地实施。目前公司满产满销。感谢关注！",
+    "ask_date": "2026-09-24",
+    "answer_date": "2026-09-24",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=139997"
+   },
+   {
+    "question": "公司目前的产品是否实现满产满销？",
+    "answer": "尊敬的投资者您好！目前公司满产满销。感谢关注！",
+    "ask_date": "2026-09-23",
+    "answer_date": "2026-09-24",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=139997"
+   },
+   {
+    "question": "董秘您好，对于跨区域、多工厂、多产品线的数据治理以及智能体在研发/制造/供应链/售后场景的规模化落地，公司是否考虑与亚信科技之类的具备FDE大模型部署、大型复杂企业5G专网建设和数据运营、工业机器人高精度视觉定位落地生产线的厂商进行合作，从而进一步降低生产、运维、检修等成本，提高运营效率？",
+    "answer": "尊敬的投资者您好！公司一直在推动智能体、工业大模型、5G专网、工业视觉等技术在各业务场景落地。公司与具备相关技术实施能力的服务商开展合作和自主研发相结合，研发宝丰AI工业大脑垂直大模型，创新将大模型认知能力与工业专业算法、生产业务系统、海量工业数据深度耦合，落地47个全场景智能体应用，全面覆盖生产调控、质量管控、设备运维、安全环保、供应链管理、经营决策等核心领域，构建起“全感知、全连接、全场景”的数智化工厂，赋能数字化转型、助力降本增效，未来，公司将持续深化布局，在数智化转型及先进智能制造方面不断创新，助力企业不断向高端化、智能化、绿色化转型 。感谢关注！",
+    "ask_date": "2026-09-21",
+    "answer_date": "2026-09-24",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=139997"
+   },
+   {
+    "question": "请问，现在的股东人数是多少？",
+    "answer": "尊敬的投资者您好，由于上证e互动是上市公司与投资者及其他市场参与主体公开交流的平台，而非监管机构指定的公告发布平台，所以公司有义务与责任维护信息披露的合法及公平。根据信息披露公平原则及相关法规规定，对公司股东人数的披露和查询采取以下方式：第一，为保证所有投资者可以平等获悉同一信息，公司会在定期报告中按要求披露对应时点的股东人数信息；第二，其余时间的股东查询，需由股东提供持有公司股份的相关证明文件（包括身份证复印件、持股证明文件）、查询要求及联系方式，经公司核实后，在中国证券登记结算有限责任公司定期发布的股东名册范围内，按照监管要求提供。如确需查询，请您将上述文件发送至公司，公司核实后将尽快给予回复。感谢关注！",
+    "ask_date": "2026-09-11",
+    "answer_date": "2026-09-24",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=139997"
+   },
+   {
+    "question": "公司产品出厂价与上一季度比，同比增加了多少？",
+    "answer": "回复：尊敬的投资者您好！三季度的相关经营数据请您关注公司的三季度报告。感谢关注！",
+    "ask_date": "2026-09-10",
+    "answer_date": "2026-09-24",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=139997"
+   }
+  ],
+  "count_12m": null
+ }
+}

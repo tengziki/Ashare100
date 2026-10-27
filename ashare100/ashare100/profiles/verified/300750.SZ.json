@@ -1,0 +1,648 @@
+{
+ "identity": {
+  "code": "300750",
+  "exchange": "SZ",
+  "board": "创业板",
+  "name_full": "宁德时代新能源科技股份有限公司",
+  "name_abbr": "宁德时代",
+  "aliases": [
+   "ndsd",
+   "宁王"
+  ],
+  "name_en": "Contemporary Amperex Technology Co., Ltd.",
+  "pinyin_abbr": "NDSD",
+  "former_names": [],
+  "industry_sw1": "电力设备",
+  "industry_sw2": "电池",
+  "list_date": "2018-06-11",
+  "province": "福建",
+  "city": "宁德",
+  "website": "www.catl.com",
+  "chairman": "曾毓群",
+  "employees": 185839,
+  "business_summary": "从事动力电池、储能电池的研发、生产、销售,以推动固定式化石能源替代、移动式化石能源替代",
+  "profile": "宁德时代新能源科技股份有限公司是全球领先的零碳新能源科技公司,致力于为全球新能源应用提供一流解决方案和服务,以全域增量战略构建零碳能源生态,推动能源转型与可持续发展。 主营业务：从事动力电池、储能电池的研发、生产、销售,以推动固定式化石能源替代、移动式化石能源替代,并通过电动化和智能化实现市场应用的集成创新。 经营范围包括：锂离子电池、锂聚合物电池、燃料电池、动力电池、超大容量储能电池、超级电容器、电池管理系统及可充电电池包、风光电储能系统、相关设备仪器的开发、生产和销售。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 220.41,
+  "change_pct": -3.29,
+  "total_mv": 1019892103291.26,
+  "float_mv": 939082611264.03,
+  "total_shares": 4627249686,
+  "float_shares": 4260617083,
+  "pe_ttm": 11.63,
+  "pe_static": 14.13,
+  "pb": 2.64,
+  "ps_ttm": 1.75,
+  "turnover_rate": 2.16,
+  "amount": 20391849825.0,
+  "high_52w": 467.35,
+  "low_52w": 218.45,
+  "ytd_return": -38.6,
+  "return_1y": -39.54,
+  "return_3y": 36.97,
+  "dividend_yield": 3.61,
+  "index_members": [
+   "沪深300",
+   "中证A500",
+   "创业板指"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 130355796400.0,
+    "revenue_yoy": 159.06,
+    "net_profit": 15931317900.0,
+    "net_profit_yoy": 185.34,
+    "net_profit_deducted": 13442364300.0,
+    "gross_margin": 26.28,
+    "net_margin": 13.7,
+    "selling_expense_ratio": 3.35,
+    "admin_expense_ratio": 2.58,
+    "finance_expense_ratio": -0.49,
+    "rd_expense": 7691427600.0,
+    "rd_ratio": 5.9,
+    "eps": 6.88,
+    "bvps": 36.26,
+    "roe": 21.52,
+    "roa": 7.69,
+    "total_assets": 307666860900.0,
+    "total_liab": 215044686400.0,
+    "debt_ratio": 69.9,
+    "cash": 89071889700.0,
+    "receivables": 23753548200.0,
+    "inventory": 40199691900.0,
+    "goodwill": 527850700.0,
+    "interest_debt": 54041024500.0,
+    "equity_parent": 84513271300.0,
+    "ocf": 42908008700.0,
+    "capex": 43767770800.0,
+    "fcf": -859762100.0,
+    "ocf_to_np": 2.69
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 328593987500.0,
+    "revenue_yoy": 152.07,
+    "net_profit": 30729163500.0,
+    "net_profit_yoy": 92.89,
+    "net_profit_deducted": 28213098000.0,
+    "gross_margin": 20.25,
+    "net_margin": 10.18,
+    "selling_expense_ratio": 3.38,
+    "admin_expense_ratio": 2.12,
+    "finance_expense_ratio": -0.85,
+    "rd_expense": 15510453500.0,
+    "rd_ratio": 4.72,
+    "eps": 7.18,
+    "bvps": 67.34,
+    "roe": 24.67,
+    "roa": 7.36,
+    "total_assets": 600952351900.0,
+    "total_liab": 424043189900.0,
+    "debt_ratio": 70.56,
+    "cash": 191043409500.0,
+    "receivables": 57966516900.0,
+    "inventory": 76668898800.0,
+    "goodwill": 704065200.0,
+    "interest_debt": 100497224100.0,
+    "equity_parent": 164481251600.0,
+    "ocf": 61208843300.0,
+    "capex": 48215268100.0,
+    "fcf": 12993575200.0,
+    "ocf_to_np": 1.99
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 400917045000.0,
+    "revenue_yoy": 22.01,
+    "net_profit": 44121248000.0,
+    "net_profit_yoy": 43.58,
+    "net_profit_deducted": 40091674000.0,
+    "gross_margin": 19.19,
+    "net_margin": 11.66,
+    "selling_expense_ratio": 0.76,
+    "admin_expense_ratio": 2.11,
+    "finance_expense_ratio": -1.23,
+    "rd_expense": 18356108000.0,
+    "rd_ratio": 4.58,
+    "eps": 10.06,
+    "bvps": 44.94,
+    "roe": 24.04,
+    "roa": 7.1,
+    "total_assets": 717168041000.0,
+    "total_liab": 497284890000.0,
+    "debt_ratio": 69.34,
+    "cash": 264306515000.0,
+    "receivables": 64020533000.0,
+    "inventory": 45433890000.0,
+    "goodwill": 707882000.0,
+    "interest_debt": 125159178000.0,
+    "equity_parent": 197708052000.0,
+    "ocf": 92826124000.0,
+    "capex": 33624897000.0,
+    "fcf": 59201227000.0,
+    "ocf_to_np": 2.1
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 362012554000.0,
+    "revenue_yoy": -9.7,
+    "net_profit": 50744682000.0,
+    "net_profit_yoy": 15.01,
+    "net_profit_deducted": 44992919000.0,
+    "gross_margin": 24.44,
+    "net_margin": 14.92,
+    "selling_expense_ratio": 0.98,
+    "admin_expense_ratio": 2.68,
+    "finance_expense_ratio": -1.14,
+    "rd_expense": 18606756000.0,
+    "rd_ratio": 5.14,
+    "eps": 11.58,
+    "bvps": 56.08,
+    "roe": 24.13,
+    "roa": 7.18,
+    "total_assets": 786658123000.0,
+    "total_liab": 513201949000.0,
+    "debt_ratio": 65.24,
+    "cash": 303511993000.0,
+    "receivables": 64135510000.0,
+    "inventory": 59835533000.0,
+    "goodwill": 894757000.0,
+    "interest_debt": 136401592000.0,
+    "equity_parent": 246930033000.0,
+    "ocf": 96990345000.0,
+    "capex": 31179943000.0,
+    "fcf": 65810402000.0,
+    "ocf_to_np": 1.91
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 423701834000.0,
+    "revenue_yoy": 17.04,
+    "net_profit": 72201282000.0,
+    "net_profit_yoy": 42.28,
+    "net_profit_deducted": 64507864000.0,
+    "gross_margin": 26.27,
+    "net_margin": 18.12,
+    "selling_expense_ratio": 0.88,
+    "admin_expense_ratio": 2.75,
+    "finance_expense_ratio": -1.87,
+    "rd_expense": 22146581000.0,
+    "rd_ratio": 5.23,
+    "eps": 16.14,
+    "bvps": 73.87,
+    "roe": 24.91,
+    "roa": 8.72,
+    "total_assets": 974827544000.0,
+    "total_liab": 603801220000.0,
+    "debt_ratio": 61.94,
+    "cash": 333512927000.0,
+    "receivables": 76403264000.0,
+    "inventory": 94526239000.0,
+    "goodwill": 837328000.0,
+    "interest_debt": 119656488000.0,
+    "equity_parent": 337107747000.0,
+    "ocf": 133219982000.0,
+    "capex": 42344558000.0,
+    "fcf": 90875424000.0,
+    "ocf_to_np": 1.85
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 276916580000.0,
+   "revenue_yoy": 54.8,
+   "net_profit": 43284002000.0,
+   "net_profit_yoy": 41.98,
+   "net_profit_deducted": 39013300000.0,
+   "gross_margin": 23.93,
+   "net_margin": 16.98,
+   "roe": 12.08,
+   "eps": 9.51,
+   "debt_ratio": 63.65,
+   "ocf": 60216851000.0
+  },
+  "derived": {
+   "revenue_cagr_3y": 8.84,
+   "net_profit_cagr_3y": 32.94,
+   "receivables_to_revenue": 18.03,
+   "goodwill_to_equity": 0.25
+  }
+ },
+ "shareholders": {
+  "controller": "曾毓群",
+  "controlling_shareholder": "厦门瑞庭投资有限公司",
+  "controlling_ratio": 22.04,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "厦门瑞庭投资有限公司",
+    "hold_num": 1019704949,
+    "hold_ratio": 22.04,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "香港中央结算有限公司",
+    "hold_num": 800682980,
+    "hold_ratio": 17.3,
+    "hold_num_change": -73766226
+   },
+   {
+    "rank": 3,
+    "name": "黄世霖",
+    "hold_num": 420388947,
+    "hold_ratio": 9.09,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "宁波联合创新新能源投资管理合伙企业(有限合伙)",
+    "hold_num": 226220608,
+    "hold_ratio": 4.89,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "HKSCC NOMINEES LIMITED",
+    "hold_num": 218288807,
+    "hold_ratio": 4.72,
+    "hold_num_change": -2200
+   },
+   {
+    "rank": 6,
+    "name": "李平",
+    "hold_num": 197460277,
+    "hold_ratio": 4.27,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "中国工商银行股份有限公司-易方达创业板交易型开放式指数证券投资基金",
+    "hold_num": 30952850,
+    "hold_ratio": 0.67,
+    "hold_num_change": 2333461
+   },
+   {
+    "rank": 8,
+    "name": "富泰华工业(深圳)有限公司",
+    "hold_num": 28707235,
+    "hold_ratio": 0.62,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+    "hold_num": 26401728,
+    "hold_ratio": 0.57,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "北京华鼎新动力股权投资基金(有限合伙)",
+    "hold_num": 23892840,
+    "hold_ratio": 0.52,
+    "hold_num_change": 0
+   }
+  ],
+  "holder_num": 345175,
+  "holder_num_change_pct": 27.83,
+  "holder_num_date": "2026-09-30",
+  "inst_hold_ratio": 7.97,
+  "northbound_ratio": 17.3,
+  "executives": [
+   {
+    "name": "曾毓群",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "曾毓群",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "蒋理",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.57,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": 0.0,
+    "dividend_yield": 0.0,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 3.1728,
+    "total_amount": 7747949582.65,
+    "payout_ratio": 25.21,
+    "dividend_yield": 0.55,
+    "ex_date": "2022-09-28"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 2.011,
+    "total_amount": 8846471925.6,
+    "payout_ratio": 20.05,
+    "dividend_yield": 0.96,
+    "ex_date": "2024-04-30"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 4.553,
+    "total_amount": 20048657029.78,
+    "payout_ratio": 39.51,
+    "dividend_yield": 1.97,
+    "ex_date": "2025-04-22"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 7.964,
+    "total_amount": 36343530953.81,
+    "payout_ratio": 50.34,
+    "dividend_yield": 1.4,
+    "ex_date": "2025-08-20"
+   }
+  ],
+  "consecutive_years": 5,
+  "cum_dividend_5y": 72986609491.84,
+  "cum_netprofit_5y": 213727693400.0,
+  "payout_5y": 34.15,
+  "buyback_3y": 10399373733.38
+ },
+ "peers": {
+  "peer_codes": [
+   "300014.SZ",
+   "301217.SZ",
+   "002709.SZ",
+   "002074.SZ"
+  ],
+  "segments": [
+   {
+    "name": "动力电池系统",
+    "revenue": 316506369000.0,
+    "ratio": 74.7,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "储能电池系统",
+    "revenue": 62439820000.0,
+    "ratio": 14.74,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "电池材料及回收",
+    "revenue": 21860936000.0,
+    "ratio": 5.16,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他业务",
+    "revenue": 16916612000.0,
+    "ratio": 3.99,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "电池矿产资源",
+    "revenue": 5978096000.0,
+    "ratio": 1.41,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "境内",
+    "revenue": 294060576000.0,
+    "ratio": 69.4,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "境外",
+    "revenue": 129641258000.0,
+    "ratio": 30.6,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "H股公告（翌日披露报表）",
+    "date": "2026-10-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225614696.PDF",
+    "type": null
+   },
+   {
+    "title": "第四届董事会第二十一次会议决议公告",
+    "date": "2026-10-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225613177.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年三季度报告",
+    "date": "2026-10-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225613175.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告（翌日披露报表）",
+    "date": "2026-10-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-19/1225611272.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告（翌日披露报表）",
+    "date": "2026-10-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225608843.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告（翌日披露报表）",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225607499.PDF",
+    "type": null
+   },
+   {
+    "title": "关于参与投资的基金完成私募投资基金备案的公告",
+    "date": "2026-10-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225605239.PDF",
+    "type": null
+   },
+   {
+    "title": "关于参与投资上海时代宸远创业投资合伙企业（有限合伙）的公告",
+    "date": "2026-10-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225603557.PDF",
+    "type": null
+   },
+   {
+    "title": "关于参与投资的基金完成私募投资基金备案的公告",
+    "date": "2026-10-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-12/1225600435.PDF",
+    "type": null
+   },
+   {
+    "title": "关于回购公司A股股份的进展公告",
+    "date": "2026-10-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225597751.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告（翌日披露报表）",
+    "date": "2026-10-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225597755.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告（董事会会议召开日期）",
+    "date": "2026-10-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225595386.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告（截至2026年9月30日止股份发行人的证券变动月报表)",
+    "date": "2026-10-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225595385.PDF",
+    "type": null
+   },
+   {
+    "title": "关于接受关联方担保的公告",
+    "date": "2026-10-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225592063.PDF",
+    "type": null
+   },
+   {
+    "title": "关于日常关联采购的公告",
+    "date": "2026-10-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225592062.PDF",
+    "type": null
+   },
+   {
+    "title": "关于向控股子公司提供财务资助的公告",
+    "date": "2026-10-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225592061.PDF",
+    "type": null
+   },
+   {
+    "title": "关于召开2026年第二次临时股东会的通知",
+    "date": "2026-10-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225592060.PDF",
+    "type": null
+   },
+   {
+    "title": "第四届董事会第二十次会议决议公告",
+    "date": "2026-10-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225592059.PDF",
+    "type": null
+   },
+   {
+    "title": "上海市通力律师事务所关于宁德时代新能源科技股份有限公司2026年A股第二期员工持股计划相关事宜的法律意见书",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225591994.PDF",
+    "type": null
+   },
+   {
+    "title": "董事会关于2026年A股第二期员工持股计划草案合规性说明",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225591993.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 245
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "董秘您好。前三季度储能电池销量占比已达约四分之一，同比增速接近60%，成为重要增量。请问目前储能业务（尤其是交流侧系统）的毛利率水平与动力电池相比如何？AIDC零碳能源方案的订单落地情况怎样，是否已形成独立收入贡献？钠电储能签约欧洲客户后，预计何时开始规模化出货？",
+    "answer": null,
+    "ask_date": "2026-10-22",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2387476895092793344"
+   },
+   {
+    "question": "董秘您好。匈牙利德布勒森电芯工厂已启动试生产，请问目前产能爬坡进度如何？西班牙工厂预计何时投产？面对部分车企寻求多源供应的趋势，公司海外本土化产能是否已锁定足够订单，欧洲市占率是否有进一步提升的空间？",
+    "answer": null,
+    "ask_date": "2026-10-22",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2387476577265213440"
+   },
+   {
+    "question": "董秘您好。公司三季报显示Q3归母净利润同比增长14.54%，但单季毛利率降至20.69%，单位盈利环比有所下滑。管理层提到受产品结构变化、消费税及出口退税影响，请问目前与下游客户就税费分担的协商进展如何？预计四季度单位盈利能否环比改善？另外，200亿—400亿元回购方案目前已累计回购约46亿元，后续回购节奏是否会加快，是否考虑在回购完成后进一步增加分红比例？",
+    "answer": null,
+    "ask_date": "2026-10-22",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2387476310977241088"
+   },
+   {
+    "question": "请问2026年三季报中，供应链中锂矿等长协订单，对当期利润影响占比有多大？",
+    "answer": null,
+    "ask_date": "2026-10-22",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2387175319887200256"
+   },
+   {
+    "question": "董秘您好，AI算力中心用电需求快速增长，算力储能场景和传统风光储能差异明显。请问公司算力储能专用产品研发、项目落地进展如何？算力储能业务中长期的规划以及市场空间怎么判断？",
+    "answer": null,
+    "ask_date": "2026-10-22",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2387132155366453248"
+   },
+   {
+    "question": "董秘您好，请问公司面向AI移动物理机器人、人形机器人赛道，机器人专用电池的研发、定点和客户拓展进展如何？机器人电池相比车用电池在技术路线上有哪些差异化考量，该业务中长期的发展规划是怎样的？",
+    "answer": null,
+    "ask_date": "2026-10-22",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2387131579874279424"
+   },
+   {
+    "question": "请问，如何参加贵公司的业绩交流电话会？",
+    "answer": null,
+    "ask_date": "2026-10-22",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2387118342664372224"
+   },
+   {
+    "question": "董秘你好：目前市场高度关注贵司的盈利能力而非单独收入的增长，三季度业绩说明会贵司表示毛利率下滑主要是产品结构以及税费等主要因素影响。1:请问贵司26年四季度预计毛利率会不会环比有所提升？2:另外贵司表示已经在与客户谈消费税及退税的分摊问题，请问进展如何？预计什么时间完成客户的覆盖？",
+    "answer": null,
+    "ask_date": "2026-10-22",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2387103937464762368"
+   }
+  ],
+  "count_12m": null
+ }
+}

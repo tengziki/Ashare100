@@ -1,0 +1,663 @@
+{
+ "identity": {
+  "code": "600276",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "江苏恒瑞医药股份有限公司",
+  "name_abbr": "恒瑞医药",
+  "aliases": [
+   "hryy"
+  ],
+  "name_en": "Jiangsu Hengrui Pharmaceuticals Co.,Ltd.",
+  "pinyin_abbr": "HRYY",
+  "former_names": [
+   "恒瑞医药→G恒瑞"
+  ],
+  "industry_sw1": "医药生物",
+  "industry_sw2": "化学制药",
+  "list_date": "2000-10-18",
+  "province": "江苏",
+  "city": "连云港",
+  "website": "www.hengrui.com",
+  "chairman": "孙飘扬",
+  "employees": 20602,
+  "business_summary": "药品研发、生产和销售",
+  "profile": "江苏恒瑞医药股份有限公司(股票代码:600276.SH,01276.HK)创立于1970年,分别于2000年、2025年在上海证券交易所和香港联合交易所挂牌上市,成为“A+H”两地上市企业。作为一家专注研发、生产及推广高品质药物的创新型国际化制药企业,恒瑞医药在五十多年的发展历程中,始终坚持“以患者为中心”的初心,聚焦肿瘤、代谢和心血管疾病、免疫和呼吸系统疾病以及神经科学等领域,持续攻坚药物研发,为了攻克疾病、改善生活质量和延长生命,公司不断拓展可能的疆域,致力于运用科技的力量造福全球患者。恒瑞医药连续7年上榜美国《制药经理人》杂志公布的全球制药企业TOP50榜单;国际知名咨询机构Citeline发布全球TOP25管线规模制药公司榜单,恒瑞连续5年上榜,自研管线数量位居全球第二。用创新守护生命健康——恒瑞医药始终把科技创新作为第一发展战略,持续加码研发,公司研发投入占营业收入比重连续多年保持在25%以上,位居全国医药行业前列。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 46.0,
+  "change_pct": -2.91,
+  "total_mv": 305311194204.0,
+  "float_mv": 293434104604.0,
+  "total_shares": 6637199874,
+  "float_shares": 6379002274,
+  "pe_ttm": 39.52,
+  "pe_static": 39.59,
+  "pb": 4.74,
+  "ps_ttm": 9.75,
+  "turnover_rate": 0.96,
+  "amount": 2850619821.0,
+  "high_52w": 67.65,
+  "low_52w": 41.89,
+  "ytd_return": -22.52,
+  "return_1y": -29.3,
+  "return_3y": 9.21,
+  "dividend_yield": 0.43,
+  "index_members": [
+   "上证50",
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 25905526375.8,
+    "revenue_yoy": -6.59,
+    "net_profit": 4530217550.47,
+    "net_profit_yoy": -28.41,
+    "net_profit_deducted": 4200699248.35,
+    "gross_margin": 85.56,
+    "net_margin": 17.31,
+    "selling_expense_ratio": 36.22,
+    "admin_expense_ratio": 11.04,
+    "finance_expense_ratio": -1.3,
+    "rd_expense": 5943306005.11,
+    "rd_ratio": 22.94,
+    "eps": 0.71,
+    "bvps": 5.47,
+    "roe": 13.96,
+    "roa": 12.12,
+    "total_assets": 39266221700.14,
+    "total_liab": 3694413772.82,
+    "debt_ratio": 9.41,
+    "cash": 13630819615.77,
+    "receivables": 4632515377.95,
+    "inventory": 2402673360.01,
+    "goodwill": null,
+    "interest_debt": 151588887.72,
+    "equity_parent": 35002961303.86,
+    "ocf": 4218816053.27,
+    "capex": 1664635232.23,
+    "fcf": 2554180821.04,
+    "ocf_to_np": 0.93
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 21275270681.52,
+    "revenue_yoy": -17.87,
+    "net_profit": 3906375067.36,
+    "net_profit_yoy": -13.77,
+    "net_profit_deducted": 3409628644.01,
+    "gross_margin": 83.61,
+    "net_margin": 17.93,
+    "selling_expense_ratio": 34.54,
+    "admin_expense_ratio": 10.84,
+    "finance_expense_ratio": -2.21,
+    "rd_expense": 4886552651.32,
+    "rd_ratio": 22.97,
+    "eps": 0.61,
+    "bvps": 5.93,
+    "roe": 10.89,
+    "roa": 9.35,
+    "total_assets": 42370875897.96,
+    "total_liab": 3957967302.84,
+    "debt_ratio": 9.34,
+    "cash": 15110680633.68,
+    "receivables": 5891397327.62,
+    "inventory": 2450574758.45,
+    "goodwill": null,
+    "interest_debt": 1359804096.05,
+    "equity_parent": 37823560699.44,
+    "ocf": 1265264631.93,
+    "capex": 1992177711.16,
+    "fcf": -726913079.23,
+    "ocf_to_np": 0.32
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 22819784741.31,
+    "revenue_yoy": 7.26,
+    "net_profit": 4302435930.05,
+    "net_profit_yoy": 10.14,
+    "net_profit_deducted": 4141262764.05,
+    "gross_margin": 84.55,
+    "net_margin": 18.75,
+    "selling_expense_ratio": 33.2,
+    "admin_expense_ratio": 10.59,
+    "finance_expense_ratio": -2.1,
+    "rd_expense": 4953887105.16,
+    "rd_ratio": 21.71,
+    "eps": 0.68,
+    "bvps": 6.34,
+    "roe": 10.99,
+    "roa": 9.93,
+    "total_assets": 43784506635.76,
+    "total_liab": 2751420194.43,
+    "debt_ratio": 6.28,
+    "cash": 20746104943.19,
+    "receivables": 5194493562.58,
+    "inventory": 2314026002.52,
+    "goodwill": null,
+    "interest_debt": 75176390.32,
+    "equity_parent": 40465795358.69,
+    "ocf": 7643665074.52,
+    "capex": 1483791745.29,
+    "fcf": 6159873329.23,
+    "ocf_to_np": 1.78
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 27984605342.06,
+    "revenue_yoy": 22.63,
+    "net_profit": 6336527014.75,
+    "net_profit_yoy": 47.28,
+    "net_profit_deducted": 6177966481.3,
+    "gross_margin": 86.25,
+    "net_margin": 22.64,
+    "selling_expense_ratio": 29.79,
+    "admin_expense_ratio": 9.13,
+    "finance_expense_ratio": -2.05,
+    "rd_expense": 6582915544.87,
+    "rd_ratio": 23.52,
+    "eps": 1.0,
+    "bvps": 7.14,
+    "roe": 14.73,
+    "roa": 13.49,
+    "total_assets": 50135645304.1,
+    "total_liab": 4045394570.79,
+    "debt_ratio": 8.07,
+    "cash": 24815905657.75,
+    "receivables": 4914872611.28,
+    "inventory": 2417118478.12,
+    "goodwill": null,
+    "interest_debt": 110162063.21,
+    "equity_parent": 45519861860.32,
+    "ocf": 7422753038.71,
+    "capex": 1969197487.86,
+    "fcf": 5453555550.85,
+    "ocf_to_np": 1.17
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 31629416193.83,
+    "revenue_yoy": 13.02,
+    "net_profit": 7711054811.98,
+    "net_profit_yoy": 21.69,
+    "net_profit_deducted": 7413405567.05,
+    "gross_margin": 86.21,
+    "net_margin": 24.4,
+    "selling_expense_ratio": 28.79,
+    "admin_expense_ratio": 8.87,
+    "finance_expense_ratio": -1.29,
+    "rd_expense": 6961155413.23,
+    "rd_ratio": 22.01,
+    "eps": 1.19,
+    "bvps": 9.23,
+    "roe": 14.26,
+    "roa": 12.86,
+    "total_assets": 69867315773.74,
+    "total_liab": 8070492359.49,
+    "debt_ratio": 11.55,
+    "cash": 40955482467.79,
+    "receivables": 5146562124.0,
+    "inventory": 2878412496.88,
+    "goodwill": null,
+    "interest_debt": 74233076.53,
+    "equity_parent": 61272068641.41,
+    "ocf": 11235378130.63,
+    "capex": 2961906284.58,
+    "fcf": 8273471846.05,
+    "ocf_to_np": 1.46
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 15455583728.11,
+   "revenue_yoy": -1.94,
+   "net_profit": 4465439428.1,
+   "net_profit_yoy": 0.34,
+   "net_profit_deducted": 3729589028.7,
+   "gross_margin": 86.33,
+   "net_margin": 28.89,
+   "roe": 8.04,
+   "eps": 0.68,
+   "debt_ratio": 8.17,
+   "ocf": 1987003872.34
+  },
+  "derived": {
+   "revenue_cagr_3y": 14.13,
+   "net_profit_cagr_3y": 25.44,
+   "receivables_to_revenue": 16.27,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "孙飘扬",
+  "controlling_shareholder": "江苏恒瑞医药集团有限公司",
+  "controlling_ratio": 23.18,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "江苏恒瑞医药集团有限公司",
+    "hold_num": 1538184187,
+    "hold_ratio": 23.18,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "上海启创达远企业管理有限公司",
+    "hold_num": 952752304,
+    "hold_ratio": 14.35,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "香港中央结算有限公司",
+    "hold_num": 363532839,
+    "hold_ratio": 5.48,
+    "hold_num_change": -73091399
+   },
+   {
+    "rank": 4,
+    "name": "HKSCC NOMINEES LIMITED",
+    "hold_num": 258195850,
+    "hold_ratio": 3.89,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "中国医药投资有限公司",
+    "hold_num": 167061634,
+    "hold_ratio": 2.52,
+    "hold_num_change": -16318600
+   },
+   {
+    "rank": 6,
+    "name": "上海汇智联成科技有限公司",
+    "hold_num": 159511156,
+    "hold_ratio": 2.4,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "连云港市金融控股集团有限公司",
+    "hold_num": 113294619,
+    "hold_ratio": 1.71,
+    "hold_num_change": 16400
+   },
+   {
+    "rank": 8,
+    "name": "中国建设银行股份有限公司-易方达沪深300医药卫生交易型开放式指数证券投资基金",
+    "hold_num": 72534506,
+    "hold_ratio": 1.09,
+    "hold_num_change": 9656257
+   },
+   {
+    "rank": 9,
+    "name": "中国工商银行股份有限公司-中欧医疗健康混合型证券投资基金",
+    "hold_num": 46919092,
+    "hold_ratio": 0.71,
+    "hold_num_change": 2352932
+   },
+   {
+    "rank": 10,
+    "name": "太白投资有限公司-自有资金(R)",
+    "hold_num": 34754414,
+    "hold_ratio": 0.52,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 539160,
+  "holder_num_change_pct": 17.64,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 14.2,
+  "northbound_ratio": 5.48,
+  "executives": [
+   {
+    "name": "孙飘扬",
+    "title": "董事长",
+    "pay": 2014700.0
+   },
+   {
+    "name": "冯佶",
+    "title": "总经理",
+    "pay": 6536200.0
+   },
+   {
+    "name": "田飞",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.9,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.16,
+    "total_amount": 1020640363.84,
+    "payout_ratio": 22.53,
+    "dividend_yield": 0.39,
+    "ex_date": "2022-07-05"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.16,
+    "total_amount": 1020640363.84,
+    "payout_ratio": 26.13,
+    "dividend_yield": 0.35,
+    "ex_date": "2023-06-08"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.2,
+    "total_amount": 1275800454.8,
+    "payout_ratio": 29.65,
+    "dividend_yield": 0.49,
+    "ex_date": "2024-07-12"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.2,
+    "total_amount": 1275800454.8,
+    "payout_ratio": 20.13,
+    "dividend_yield": 0.36,
+    "ex_date": "2025-05-23"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.2,
+    "total_amount": 1327439974.8,
+    "payout_ratio": 17.21,
+    "dividend_yield": 0.41,
+    "ex_date": "2026-05-27"
+   }
+  ],
+  "consecutive_years": 5,
+  "cum_dividend_5y": 5920321612.08,
+  "cum_netprofit_5y": 26786610374.61,
+  "payout_5y": 22.1,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [
+   "688235.SH",
+   "688506.SH",
+   "002653.SZ",
+   "002422.SZ"
+  ],
+  "segments": [
+   {
+    "name": "肿瘤",
+    "revenue": 16671093834.94,
+    "ratio": 52.71,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "神经科学",
+    "revenue": 4291837529.76,
+    "ratio": 13.57,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 3615967846.15,
+    "ratio": 11.43,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "造影剂",
+    "revenue": 2993172992.99,
+    "ratio": 9.46,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "代谢和心血管",
+    "revenue": 2436392215.39,
+    "ratio": 7.7,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "免疫和呼吸系统",
+    "revenue": 861722595.87,
+    "ratio": 2.72,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "国内",
+    "revenue": 26665508213.69,
+    "ratio": 84.31,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 3615967846.15,
+    "ratio": 11.43,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "国外",
+    "revenue": 1347940133.99,
+    "ratio": 4.26,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-10-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-20/1225611030.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225608630.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225604673.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-董事会会议通告",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225604669.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-10-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225603025.PDF",
+    "type": null
+   },
+   {
+    "title": "恒瑞医药关于获得药物临床试验批准通知书的公告",
+    "date": "2026-10-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225602914.PDF",
+    "type": null
+   },
+   {
+    "title": "恒瑞医药关于回购公司A股股份的进展公告",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597121.PDF",
+    "type": null
+   },
+   {
+    "title": "恒瑞医药关于药品上市许可申请获EMA受理的提示性公告",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225596986.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-证券变动月报表",
+    "date": "2026-10-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225595595.PDF",
+    "type": null
+   },
+   {
+    "title": "恒瑞医药关于与Novo Nordisk A/S签署HRS-1596项目授权许可协议的公告",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225586487.PDF",
+    "type": null
+   },
+   {
+    "title": "恒瑞医药2026年第一次临时股东会决议公告",
+    "date": "2026-09-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-25/1225582847.PDF",
+    "type": null
+   },
+   {
+    "title": "恒瑞医药2026年第一次临时股东会法律意见书",
+    "date": "2026-09-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-25/1225582846.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225579557.PDF",
+    "type": null
+   },
+   {
+    "title": "恒瑞医药关于获得药物临床试验批准通知书的公告",
+    "date": "2026-09-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225578539.PDF",
+    "type": null
+   },
+   {
+    "title": "恒瑞医药关于获得药物临床试验批准通知书的公告",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225574300.PDF",
+    "type": null
+   },
+   {
+    "title": "恒瑞医药关于获得药物临床试验批准通知书的公告",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225574288.PDF",
+    "type": null
+   },
+   {
+    "title": "恒瑞医药关于获得药物临床试验批准通知书的公告",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225574278.PDF",
+    "type": null
+   },
+   {
+    "title": "恒瑞医药2026年第一次临时股东会会议资料",
+    "date": "2026-09-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-19/1225572358.PDF",
+    "type": null
+   },
+   {
+    "title": "恒瑞医药关于首次回购公司A股股份的公告",
+    "date": "2026-09-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-18/1225569834.PDF",
+    "type": null
+   },
+   {
+    "title": "恒瑞医药关于获得药物临床试验批准通知书的公告",
+    "date": "2026-09-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-16/1225564909.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 315
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "贵司是药企，大小股东是贵司的潜在消费者，也就是衣食父母，为低价回购股份去做股权激励，伤害衣食父母的利益，贵司管理层是否搞清楚自己的市场定位？谁是大小王？",
+    "answer": "尊敬的投资者您好。公司实施员工持股计划旨在建立和完善公司、股东和员工的利益共享机制，调动员工的积极性和创造性，提高员工凝聚力和公司竞争力，促进公司长期、持续、健康发展。员工持股计划在公司回购成本的基础上给予部分折让，有利于提高员工参与本员工持股计划的积极性，提升员工持股的参与度和覆盖面，实现员工利益与公司利益的深度绑定，充分发挥激励效果。公司在依法合规的基础上，通过综合考量公司所处行业、当前面临的人才竞争状况、激励成本及员工的参与意愿等因素，最终确定了该受让价格。同时，结合激励与约束相匹配的原则，公司设置了三年业绩目标与锁定期，有效地统一激励对象和公司及公司股东的利益，从而推动公司的长远发展。",
+    "ask_date": "2026-10-21",
+    "answer_date": "2026-10-22",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=276"
+   },
+   {
+    "question": "公司以很低价格进行股权激励，这样是对自身发展没有信心还是低价授予，这叫投资者怎么看呢，考虑过投资利益受损吗？",
+    "answer": "尊敬的投资者您好。公司实施员工持股计划旨在建立和完善公司、股东和员工的利益共享机制，调动员工的积极性和创造性，提高员工凝聚力和公司竞争力，促进公司长期、持续、健康发展。员工持股计划在公司回购成本的基础上给予部分折让，有利于提高员工参与本员工持股计划的积极性，提升员工持股的参与度和覆盖面，实现员工利益与公司利益的深度绑定，充分发挥激励效果。公司在依法合规的基础上，通过综合考量公司所处行业、当前面临的人才竞争状况、激励成本及员工的参与意愿等因素，最终确定了该受让价格。同时，结合激励与约束相匹配的原则，公司设置了三年业绩目标与锁定期，有效地统一激励对象和公司及公司股东的利益，从而推动公司的长远发展。",
+    "ask_date": "2026-09-14",
+    "answer_date": "2026-10-22",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=276"
+   },
+   {
+    "question": "公司国外营业收入占销售收几比重仅仅12%左右，扣除授权许可收入后产品出口销售收入仅占销售收入3%左右，占比极低，而国内医药市场内卷严重，年年降价。国外医药市场是国内市场的数倍，公司为何不大力拓展国际市场药品销售，这等于再造一个恒瑞？拓展国外市场主要主要遇到什么困难？公司是否有拓展国际市场的计划？",
+    "answer": "尊敬的投资者您好。公司坚持国际化战略，目前产品已进入50余个国家，在海外获得包括注射剂、口服制剂和吸入性麻醉剂在内的约20个注册批件。在创新药出海方面，公司坚持自主研发与开放合作并重的国际化战略，持续推动创新药出海。三年来公司已达成14笔创新药海外业务拓展交易，包括对外许可、NewCo和战略联盟等不同模式，交易对方包括诺和、BMS、GSK、MSD等知名跨国制药企业，极大地提升了公司的全球影响力和业界认可度，2025年公司创新药对外许可业务收入达33.92亿元；同时公司加速自主出海步伐，持续打造海外团队，提升全球临床开发和商业化能力，在亚洲、欧美及澳大利亚设立15个研发中心，多个创新药启动首项海外临床试验，创新药瑞维鲁胺片及氟唑帕利胶囊在欧洲的上市申请已获EMA受理。",
+    "ask_date": "2026-09-11",
+    "answer_date": "2026-10-22",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=276"
+   },
+   {
+    "question": "您好董秘，公司有没有其他稳定股价的措施和回购计划，详细的点介绍。",
+    "answer": "尊敬的投资者您好。 第一，公司立足主业，坚定实施科技创新和国际化战略，持续改善业绩，推动高质量发展，提升投资者信心。目前公司已在国内获批上市27款一类创新药，创新成果稳居行业领先地位。 第二，公司持续加强信息披露及投资者关系管理能力建设，提高上市公司信息透明度，助力投资者价值发现。公司连续五年发布ESG报告，公司MSCI ESG评级被评为“AA”级，达全球医药行业领先水平；2025年公司信息披露质量继续被上交所评定为A级。同时，公司通过召开业绩说明会、参加路演活动等方式不断加强与投资者的交流。 第三，不断完善公司治理结构，规范公司运作，增强经营稳健性，持续提升投资者回报。自上市以来，公司严格按照《公司章程》制定的利润分配政策进行稳定、可持续的现金分红。截至目前，公司累计现金分红总额约106亿元，切实提高投资者获得感。 第四，公司董事会8月19日审议通过新一期A股回购方案，计划以自有资金回购公司A股股份用于员工持股计划，拟使用资金总额不低于人民币10亿元且不超过20亿元，回购期限为自董事会审议通过回购股份方案之日起12个月以内。公司已启动本期A股回购，具体已回购情况请见在交易所网站发布的回购进展公告及翌日披露报表。公司将持续在回购期限内根据市场情况择机做出回购决策并予以实施，同时根据回购股份事项进展情况及时履行信息披露义务。",
+    "ask_date": "2026-09-11",
+    "answer_date": "2026-10-22",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=276"
+   },
+   {
+    "question": "9月5日至9日的医保谈判公司有何进展？对公司今后业绩会带来增涨还是打压？公司有何应对办法，提升业绩？",
+    "answer": "尊敬的投资者您好，医保谈判结果待国家医保局公示后公司将按规定及时履行信息披露义务，具体请关注公司后续公告。",
+    "ask_date": "2026-09-10",
+    "answer_date": "2026-10-22",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=276"
+   },
+   {
+    "question": "2026年5月，恒瑞医药与百时美施贵宝达成最高152亿美元的全球战略合作，请问首付款6亿美元，何时能够到账？该首付款预计会增加2026年净利润多少？",
+    "answer": "尊敬的投资者您好，相关款项的收款/收入确认情况公司会在2026年第三季度报告中披露，敬请您关注后续公司在交易所网站发布的报告。",
+    "ask_date": "2026-09-10",
+    "answer_date": "2026-10-22",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=276"
+   },
+   {
+    "question": "懂秘:公司一年内回购20亿元，今天你们公司一次性回购才260多万元这么一个小量资金回购有什么意义，严重伤害股民信心，只能用脚投你们公司票了。",
+    "answer": "尊敬的投资者您好。公司董事会8月19日审议通过新一期A股回购方案，计划以自有资金回购公司A股股份用于员工持股计划，拟使用资金总额不低于人民币10亿元且不超过20亿元，回购期限为自董事会审议通过回购股份方案之日起12个月以内。公司已启动本期A股回购，具体已回购情况请见在交易所网站发布的回购进展公告及翌日披露报表。公司将持续在回购期限内根据市场情况择机做出回购决策并予以实施，同时根据回购股份事项进展情况及时履行信息披露义务。",
+    "ask_date": "2026-10-15",
+    "answer_date": "2026-10-16",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=276"
+   },
+   {
+    "question": "怎么不发业绩预告呢？",
+    "answer": "尊敬的投资者您好，公司严格按照《上海证券交易所股票上市规则》及行业指引等相关规定进行公告，及时履行信息披露义务，具体以公司在上交所网站披露的公告为准。",
+    "ask_date": "2026-10-15",
+    "answer_date": "2026-10-16",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=276"
+   }
+  ],
+  "count_12m": null
+ }
+}

@@ -57,17 +57,26 @@ jobs:
           done
           exit 1
 
+      # 公告与问答：失败不影响榜单发布（沿用上一版，页面数据状态面板会提示）
+      - name: Update announcements and investor Q&A
+        continue-on-error: true
+        run: python scripts/update_disclosures.py
+
       - name: Validate site bundle
         run: python scripts/validate_pages_bundle.py
+
+      # 已核实档案违反硬规则时不提交；自动补档的问题只打印 warning
+      - name: Validate company profiles
+        run: python scripts/validate_profiles.py
 
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if [ -z "$(git status --porcelain -- ashare100/ashare100/web/live)" ]; then
+          if [ -z "$(git status --porcelain -- ashare100/ashare100/web/live ashare100/ashare100/profiles)" ]; then
             echo "no change"
           else
-            git add ashare100/ashare100/web/live
+            git add ashare100/ashare100/web/live ashare100/ashare100/profiles
             git commit -m "data: update dynamic A-share top 100 $(date -u +%Y-%m-%dT%H:%M:%SZ)"
             git push
           fi
@@ -91,3 +100,27 @@ jobs:
       - name: Deploy the validated site
         id: deployment
         uses: actions/deploy-pages@v4
+
+  # 失败告警：任一步失败时开一个 data-alert issue；已有未关闭的同类 issue 则追加评论，避免刷屏
+  alert:
+    needs: [fetch, deploy]
+    if: failure()
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Open or update alert issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          title="数据更新失败：动态百强榜单"
+          body="$(date -u +%Y-%m-%dT%H:%M:%SZ) 运行失败，页面保留上一版数据。日志：$RUN_URL"
+          gh label create data-alert --color B42318 --description "数据任务失败告警" 2>/dev/null || true
+          number=$(gh issue list --label data-alert --state open --search "in:title $title" --json number --jq '.[0].number')
+          if [ -n "$number" ]; then
+            gh issue comment "$number" --body "$body"
+          else
+            gh issue create --title "$title" --label data-alert --body "$body"
+          fi

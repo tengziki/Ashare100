@@ -1,0 +1,644 @@
+{
+ "identity": {
+  "code": "603288",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "佛山市海天调味食品股份有限公司",
+  "name_abbr": "海天味业",
+  "aliases": [
+   "htwy"
+  ],
+  "name_en": "Foshan Haitian Flavouring and Food Company Ltd.",
+  "pinyin_abbr": "HTWY",
+  "former_names": [
+   "N海天"
+  ],
+  "industry_sw1": "食品饮料",
+  "industry_sw2": "调味发酵品Ⅱ",
+  "list_date": "2014-02-11",
+  "province": "广东",
+  "city": "佛山",
+  "website": "www.haday.com",
+  "chairman": "程雪",
+  "employees": 9160,
+  "business_summary": "调味品的生产与销售",
+  "profile": "佛山市海天调味食品股份有限公司是中国调味品行业的优秀企业,专业的调味品生产和营销企业,历史悠久,是中华人民共和国商务部公布的首批“中华老字号”企业之一。目前生产的产品涵盖酱油、蚝油、酱、醋等超1000SKU。以“传扬美味事业,酿造美满生活”为己任,海天一直致力于用现代科研技术对传统酿造工艺的传承和创新,建有规模超大,玻璃晒池和发酵大罐,专门用于高品质酱油的阳光酿晒。拥有多条世界先进的全自动包装生产线,以及行业先进的国家认可实验室,更严格地执行质量标准。并从国外引进成套科研检测设备,努力打造具有世界先进水平的调味品生产基地。安全、美味、高品质,海天产品不但畅销于国内市场,还遍布全球100多个国家与地区。传扬美食文化,调出生活百味。海天致力于向全球传扬中国美食文化,提供优质产品,让更多人享受美味的欢乐,让更多家庭感受生活的美满。海天味业也是上海证券交易所上市的上市公司(股票代码603288)。凯度消费者指数《2024年全球品牌足迹报告》中国快速消费品市场报告中,海天荣登中国快速消费品品牌第4位。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 33.47,
+  "change_pct": 0.03,
+  "total_mv": 195597791170.68,
+  "float_mv": 186087196954.68,
+  "total_shares": 5843973444,
+  "float_shares": 5559820644,
+  "pe_ttm": 26.73,
+  "pe_static": 27.79,
+  "pb": 5.0,
+  "ps_ttm": 6.57,
+  "turnover_rate": 0.22,
+  "amount": 407662155.0,
+  "high_52w": 41.65,
+  "low_52w": 31.6,
+  "ytd_return": -6.82,
+  "return_1y": -10.87,
+  "return_3y": 3.91,
+  "dividend_yield": 3.17,
+  "index_members": [
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 25004031043.49,
+    "revenue_yoy": 9.71,
+    "net_profit": 6670757811.72,
+    "net_profit_yoy": 4.18,
+    "net_profit_deducted": 6429852856.56,
+    "gross_margin": 38.66,
+    "net_margin": 26.68,
+    "selling_expense_ratio": 5.43,
+    "admin_expense_ratio": 1.58,
+    "finance_expense_ratio": -2.34,
+    "rd_expense": 771919701.92,
+    "rd_ratio": 3.09,
+    "eps": 1.44,
+    "bvps": 5.56,
+    "roe": 31.63,
+    "roa": 21.22,
+    "total_assets": 33337724549.58,
+    "total_liab": 9837875983.2,
+    "debt_ratio": 29.51,
+    "cash": 19813767427.18,
+    "receivables": 56045139.23,
+    "inventory": 2226818960.68,
+    "goodwill": 30578355.42,
+    "interest_debt": 180065615.52,
+    "equity_parent": 23401517470.83,
+    "ocf": 6323508784.06,
+    "capex": 1030736119.27,
+    "fcf": 5292772664.79,
+    "ocf_to_np": 0.95
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 25609651543.29,
+    "revenue_yoy": 2.42,
+    "net_profit": 6197716943.78,
+    "net_profit_yoy": -7.09,
+    "net_profit_deducted": 5965755875.29,
+    "gross_margin": 35.68,
+    "net_margin": 24.22,
+    "selling_expense_ratio": 5.38,
+    "admin_expense_ratio": 1.72,
+    "finance_expense_ratio": -2.86,
+    "rd_expense": 751338973.38,
+    "rd_ratio": 2.93,
+    "eps": 1.11,
+    "bvps": 5.7,
+    "roe": 25.52,
+    "roa": 18.41,
+    "total_assets": 34059175850.3,
+    "total_liab": 7174696439.08,
+    "debt_ratio": 21.07,
+    "cash": 18223307402.03,
+    "receivables": 188395321.48,
+    "inventory": 2391641182.47,
+    "goodwill": 210428426.24,
+    "interest_debt": 275384874.79,
+    "equity_parent": 26397676525.41,
+    "ocf": 3830314321.72,
+    "capex": 1517900662.63,
+    "fcf": 2312413659.09,
+    "ocf_to_np": 0.62
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 24559312356.59,
+    "revenue_yoy": -4.1,
+    "net_profit": 5626626091.97,
+    "net_profit_yoy": -9.21,
+    "net_profit_deducted": 5394663934.17,
+    "gross_margin": 34.74,
+    "net_margin": 22.97,
+    "selling_expense_ratio": 5.32,
+    "admin_expense_ratio": 2.14,
+    "finance_expense_ratio": -2.38,
+    "rd_expense": 715417649.71,
+    "rd_ratio": 2.91,
+    "eps": 1.01,
+    "bvps": 5.13,
+    "roe": 20.72,
+    "roa": 15.57,
+    "total_assets": 38423518405.62,
+    "total_liab": 9390542813.5,
+    "debt_ratio": 24.44,
+    "cash": 21689385461.71,
+    "receivables": 223149082.18,
+    "inventory": 2618773147.0,
+    "goodwill": 210428426.24,
+    "interest_debt": 494446497.95,
+    "equity_parent": 28530612036.85,
+    "ocf": 7355650997.74,
+    "capex": 1924147446.25,
+    "fcf": 5431503551.49,
+    "ocf_to_np": 1.31
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 26904508894.01,
+    "revenue_yoy": 9.55,
+    "net_profit": 6343626494.69,
+    "net_profit_yoy": 12.74,
+    "net_profit_deducted": 6068167468.37,
+    "gross_margin": 36.97,
+    "net_margin": 23.62,
+    "selling_expense_ratio": 6.05,
+    "admin_expense_ratio": 2.16,
+    "finance_expense_ratio": -1.89,
+    "rd_expense": 846815791.26,
+    "rd_ratio": 3.15,
+    "eps": 1.14,
+    "bvps": 5.56,
+    "roe": 21.77,
+    "roa": 16.03,
+    "total_assets": 40875062220.95,
+    "total_liab": 9479053899.65,
+    "debt_ratio": 23.19,
+    "cash": 22123657928.03,
+    "receivables": 242260969.75,
+    "inventory": 2525279032.45,
+    "goodwill": 112937041.73,
+    "interest_debt": 386026295.76,
+    "equity_parent": 30889472594.61,
+    "ocf": 6840201569.11,
+    "capex": 1576229554.19,
+    "fcf": 5263972014.92,
+    "ocf_to_np": 1.08
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 28873380466.76,
+    "revenue_yoy": 7.32,
+    "net_profit": 7038465194.15,
+    "net_profit_yoy": 10.95,
+    "net_profit_deducted": 6845473101.28,
+    "gross_margin": 40.22,
+    "net_margin": 24.4,
+    "selling_expense_ratio": 6.7,
+    "admin_expense_ratio": 2.42,
+    "finance_expense_ratio": -1.58,
+    "rd_expense": 914986298.3,
+    "rd_ratio": 3.17,
+    "eps": 1.23,
+    "bvps": 7.06,
+    "roe": 19.59,
+    "roa": 15.14,
+    "total_assets": 52183944926.12,
+    "total_liab": 10344267800.4,
+    "debt_ratio": 19.82,
+    "cash": 24603677724.73,
+    "receivables": 295624145.05,
+    "inventory": 2407715424.0,
+    "goodwill": 112937041.73,
+    "interest_debt": 279157259.98,
+    "equity_parent": 41329564456.48,
+    "ocf": 7745950953.79,
+    "capex": 1283601482.19,
+    "fcf": 6462349471.6,
+    "ocf_to_np": 1.1
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 16146273837.53,
+   "revenue_yoy": 6.01,
+   "net_profit": 4190156263.0,
+   "net_profit_yoy": 7.13,
+   "net_profit_deducted": 3960405507.28,
+   "gross_margin": 41.04,
+   "net_margin": 25.95,
+   "roe": 10.07,
+   "eps": 0.72,
+   "debt_ratio": 15.99,
+   "ocf": 1224226577.61
+  },
+  "derived": {
+   "revenue_cagr_3y": 4.08,
+   "net_profit_cagr_3y": 4.33,
+   "receivables_to_revenue": 1.02,
+   "goodwill_to_equity": 0.27
+  }
+ },
+ "shareholders": {
+  "controller": "庞康,程雪,管江华,陈军阳,文志州,廖长辉",
+  "controlling_shareholder": "广东海天集团股份有限公司",
+  "controlling_ratio": 55.36,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "广东海天集团股份有限公司",
+    "hold_num": 3239509183,
+    "hold_ratio": 55.36,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "庞康",
+    "hold_num": 532115177,
+    "hold_ratio": 9.09,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "HKSCC NOMINEES LIMITED",
+    "hold_num": 291221475,
+    "hold_ratio": 4.98,
+    "hold_num_change": 135400
+   },
+   {
+    "rank": 4,
+    "name": "程雪",
+    "hold_num": 176365478,
+    "hold_ratio": 3.01,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "香港中央结算有限公司",
+    "hold_num": 135976920,
+    "hold_ratio": 2.32,
+    "hold_num_change": -2669459
+   },
+   {
+    "rank": 6,
+    "name": "黎旭晖",
+    "hold_num": 89999306,
+    "hold_ratio": 1.54,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "潘来灿",
+    "hold_num": 85425468,
+    "hold_ratio": 1.46,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "赖建平",
+    "hold_num": 44465759,
+    "hold_ratio": 0.76,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "黄文彪",
+    "hold_num": 28984921,
+    "hold_ratio": 0.5,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 10,
+    "name": "廖忻愉",
+    "hold_num": 26081036,
+    "hold_ratio": 0.45,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 211365,
+  "holder_num_change_pct": 10.34,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 2.52,
+  "northbound_ratio": 2.32,
+  "executives": [
+   {
+    "name": "程雪",
+    "title": "董事长",
+    "pay": 9962600.0
+   },
+   {
+    "name": "管江华",
+    "title": "总经理",
+    "pay": 6553000.0
+   },
+   {
+    "name": "柯莹",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.17,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.76,
+    "total_amount": 3201557889.2,
+    "payout_ratio": 47.99,
+    "dividend_yield": 0.84,
+    "ex_date": "2022-04-29"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.7,
+    "total_amount": 3243683650.9,
+    "payout_ratio": 52.34,
+    "dividend_yield": 1.16,
+    "ex_date": "2023-06-01"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.66,
+    "total_amount": 3669996359.04,
+    "payout_ratio": 65.23,
+    "dividend_yield": 1.83,
+    "ex_date": "2024-06-19"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.86,
+    "total_amount": 4782116467.84,
+    "payout_ratio": 75.38,
+    "dividend_yield": 1.95,
+    "ex_date": "2025-06-05"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 1.06,
+    "total_amount": 6202934440.64,
+    "payout_ratio": 88.13,
+    "dividend_yield": 1.86,
+    "ex_date": "2025-09-24"
+   }
+  ],
+  "consecutive_years": 5,
+  "cum_dividend_5y": 21100288807.62,
+  "cum_netprofit_5y": 31877192536.31,
+  "payout_5y": 66.19,
+  "buyback_3y": 1318342782.77
+ },
+ "peers": {
+  "peer_codes": [
+   "600519.SH",
+   "000858.SZ",
+   "600887.SH",
+   "600809.SH"
+  ],
+  "segments": [
+   {
+    "name": "酱油",
+    "revenue": 14933723263.8,
+    "ratio": 51.72,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "蚝油",
+    "revenue": 4868203700.76,
+    "ratio": 16.86,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他",
+    "revenue": 4680376982.27,
+    "ratio": 16.21,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "调味酱",
+    "revenue": 2917010525.19,
+    "ratio": 10.1,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 1474065994.74,
+    "ratio": 5.11,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "北部区域",
+    "revenue": 6771111674.61,
+    "ratio": 23.45,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "中部区域",
+    "revenue": 6051169013.53,
+    "ratio": 20.96,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "南部区域",
+    "revenue": 5711966058.13,
+    "ratio": 19.78,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "东部区域",
+    "revenue": 5445768089.71,
+    "ratio": 18.86,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "西部区域",
+    "revenue": 3419299636.04,
+    "ratio": 11.84,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 1474065994.74,
+    "ratio": 5.11,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "H股公告-董事会会议召开日期",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225608634.PDF",
+    "type": null
+   },
+   {
+    "title": "海天味业关于回购公司A股股份的进展公告",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225596538.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-截至二零二六年九月三十日止之股份发行人的证券变动月报表",
+    "date": "2026-10-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225595528.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-10-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225590890.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225585382.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-25/1225582726.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225579811.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-23",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-23/1225577343.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575549.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-19/1225573004.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-18/1225570549.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-17/1225568301.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-16/1225566214.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-15/1225563645.PDF",
+    "type": null
+   },
+   {
+    "title": "海天味业关于回购公司A股股份的进展公告",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225561199.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225560936.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-11/1225558528.PDF",
+    "type": null
+   },
+   {
+    "title": "海天味业关于召开2026年半年度业绩说明会的公告",
+    "date": "2026-09-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-11/1225556889.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-10",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-10/1225556193.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-09/1225554310.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 138
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "目前零添加、薄盐高端赛道竞争激烈，中小品牌低端价格内卷,公司高端产品心智与溢价能力亟需加强，高端产品营收占比提升速度偏慢。请问管理层，未来高端化落地的核心打法是怎样的，是品牌教育、产品迭代还是渠道优先？落地效果如何？公司如何平衡“大众基础盘规模稳固”与“高端健康赛道利润提升”的资源分配？如何快速补齐高端品牌心智短板？",
+    "answer": "感谢您的关注。公司始终坚持用户满意至上，围绕消费者多元化需求，已经构建了丰富立体的产品矩阵，覆盖各价格带、各类口味和场景，能够满足消费者从日常基础到营养健康的各类细分需求。公司将充分利用自身优势，做好现有产品的迭代升级，同时持续捕捉消费趋势变化，提升产品在不同场景中的竞争力。除品类优势外，公司在多年发展中亦积累了渠道、技术、供应链、品牌等诸多优势，未来将进一步通过三大基础品类与醋酒、健康、复调等新品类的相互促进，传统线下流通渠道与线上、工业等新兴渠道的相互补充，国内市场与海外市场的相互驱动，实现固本强基、固本培优双发展。",
+    "ask_date": "2026-09-21",
+    "answer_date": "2026-09-29",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=15546"
+   },
+   {
+    "question": "贵司目前的股价已经跌到不可思议的地步，哪怕大盘指数上涨贵司股价照样下跌。在年中财报依然上涨的情况下贵股一泻千里，贵司是否存在未披露的重大食品安全事件，或产品质量问题事件？贵司管理层是否有注意到目前的股价，贵司是否有在认真做市值管理？",
+    "answer": "感谢您的关注。公司始终将食品安全与产品的高质量放在首位，不存在您所关注的食品安全或产品质量相关事项。 影响股价的因素是多方面的，公司高度重视市值管理工作，近年来通过高比例分红、回购股份等多元方式，提高股东回报、加强市值管理。",
+    "ask_date": "2026-09-16",
+    "answer_date": "2026-09-29",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=15546"
+   },
+   {
+    "question": "董秘你好：2026年中报里，应付票据激增17亿是什么原因？",
+    "answer": "感谢您的关注。应付票据的变动主要为增加票据结算所致，系公司日常经营活动中的正常结算安排。具体财务明细请详见公司2026年半年度报告相关内容。",
+    "ask_date": "2026-09-03",
+    "answer_date": "2026-09-29",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=15546"
+   },
+   {
+    "question": "什么原因导致你们海天26年中期不分红？其次你们有海外业务吗？汇损能亏4.8亿！为什么不做套保？",
+    "answer": "感谢您的关注。公司将按照股东回报规划的公告内容，保障2025-2027年现金分红比率不低于80%，最终分红方案将以董事会和股东会审议为准。公司始终高度重视股东回报，将继续做好自身经营，并通过分红、回购等多元化的方式持续回馈股东。 公司海外业务正处于有序发展阶段，产品矩阵与渠道网络不断拓展。公司已开展外汇衍生品业务，相关进展请参见公司定期报告。汇率变动受多因素影响，未来公司将持续关注汇率市场变化，不断加强资金管理与风险管控。",
+    "ask_date": "2026-08-27",
+    "answer_date": "2026-09-29",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=15546"
+   }
+  ],
+  "count_12m": null
+ }
+}

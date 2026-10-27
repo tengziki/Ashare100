@@ -1,0 +1,644 @@
+{
+ "identity": {
+  "code": "601318",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "中国平安保险(集团)股份有限公司",
+  "name_abbr": "中国平安",
+  "aliases": [
+   "zgpa",
+   "平安"
+  ],
+  "name_en": "Ping An Insurance (Group) Company of China, Ltd.",
+  "pinyin_abbr": "ZGPA",
+  "former_names": [],
+  "industry_sw1": "非银金融",
+  "industry_sw2": "保险Ⅱ",
+  "list_date": "2007-03-01",
+  "province": "广东",
+  "city": "深圳",
+  "website": "www.pingan.cn",
+  "chairman": "马明哲",
+  "employees": 258806,
+  "business_summary": "从事金融业,提供多元化的金融产品及服务",
+  "profile": "中国平安保险(集团)股份有限公司于1988年诞生于深圳蛇口,是中国第一家股份制保险企业,在各级政府及监管部门、广大客户和社会各界的支持下,中国平安成长为国内金融牌照最齐全、业务范围最广泛的综合金融集团之一,致力于成为国际领先的综合金融、医疗养老服务提供商。中国平安在香港联合交易所主板(2318.HK)及上海证券交易所(601318.SH)两地上市。平安集团旗下专业公司主要包括以保险、银行、资管为代表的综合金融业务和以平安健康、北大国际医院为代表的的医疗健康业务,涵盖金融、医疗、养老的各个领域。中国平安深化“综合金融+医疗养老”服务体系,提供专业的“金融顾问、家庭医生、养老管家”服务,让客户享有“省心、省时、又省钱”的综合金融、医疗养老消费体验。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 50.94,
+  "change_pct": -0.51,
+  "total_mv": 922403283225.3,
+  "float_mv": 543023715328.02,
+  "total_shares": 18107641995,
+  "float_shares": 10660065083,
+  "pe_ttm": 5.79,
+  "pe_static": 6.84,
+  "pb": 0.9,
+  "ps_ttm": 0.82,
+  "turnover_rate": 0.8,
+  "amount": 4331233559.0,
+  "high_52w": 72.15,
+  "low_52w": 45.92,
+  "ytd_return": -22.43,
+  "return_1y": -6.58,
+  "return_3y": 36.83,
+  "dividend_yield": 5.3,
+  "index_members": [
+   "上证50",
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 1180444000000.0,
+    "revenue_yoy": -3.11,
+    "net_profit": 101618000000.0,
+    "net_profit_yoy": -28.99,
+    "net_profit_deducted": 101731000000.0,
+    "gross_margin": null,
+    "net_margin": 10.32,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 5.77,
+    "bvps": 44.44,
+    "roe": 13.0,
+    "roa": 1.24,
+    "total_assets": 10142026000000.0,
+    "total_liab": 9064303000000.0,
+    "debt_ratio": 89.37,
+    "cash": 535067000000.0,
+    "receivables": 26628000000.0,
+    "inventory": null,
+    "goodwill": 23175000000.0,
+    "interest_debt": null,
+    "equity_parent": 812405000000.0,
+    "ocf": 90116000000.0,
+    "capex": 12186000000.0,
+    "fcf": 77930000000.0,
+    "ocf_to_np": 0.89
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 880355000000.0,
+    "revenue_yoy": -25.42,
+    "net_profit": 111008000000.0,
+    "net_profit_yoy": 9.24,
+    "net_profit_deducted": 111397000000.0,
+    "gross_margin": null,
+    "net_margin": 15.31,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 6.36,
+    "bvps": 46.97,
+    "roe": 13.2,
+    "roa": 1.27,
+    "total_assets": 11009940000000.0,
+    "total_liab": 9823944000000.0,
+    "debt_ratio": 89.23,
+    "cash": 613737000000.0,
+    "receivables": 36118000000.0,
+    "inventory": null,
+    "goodwill": 44060000000.0,
+    "interest_debt": null,
+    "equity_parent": 869191000000.0,
+    "ocf": 476776000000.0,
+    "capex": 8871000000.0,
+    "fcf": 467905000000.0,
+    "ocf_to_np": 4.29
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 913789000000.0,
+    "revenue_yoy": 3.8,
+    "net_profit": 85665000000.0,
+    "net_profit_yoy": -22.83,
+    "net_profit_deducted": 86240000000.0,
+    "gross_margin": null,
+    "net_margin": 11.96,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 4.84,
+    "bvps": 49.37,
+    "roe": 9.7,
+    "roa": 0.97,
+    "total_assets": 11583417000000.0,
+    "total_liab": 10354453000000.0,
+    "debt_ratio": 89.39,
+    "cash": 577212000000.0,
+    "receivables": 35636000000.0,
+    "inventory": null,
+    "goodwill": 44116000000.0,
+    "interest_debt": null,
+    "equity_parent": 899011000000.0,
+    "ocf": 360403000000.0,
+    "capex": 7810000000.0,
+    "fcf": 352593000000.0,
+    "ocf_to_np": 4.21
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 1028925000000.0,
+    "revenue_yoy": 12.6,
+    "net_profit": 126607000000.0,
+    "net_profit_yoy": 47.79,
+    "net_profit_deducted": 117392000000.0,
+    "gross_margin": null,
+    "net_margin": 14.26,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 7.16,
+    "bvps": 50.99,
+    "roe": 13.8,
+    "roa": 1.2,
+    "total_assets": 12957827000000.0,
+    "total_liab": 11653115000000.0,
+    "debt_ratio": 89.93,
+    "cash": 683433000000.0,
+    "receivables": 36006000000.0,
+    "inventory": null,
+    "goodwill": 43539000000.0,
+    "interest_debt": null,
+    "equity_parent": 928600000000.0,
+    "ocf": 382474000000.0,
+    "capex": 6678000000.0,
+    "fcf": 375796000000.0,
+    "ocf_to_np": 3.02
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 1050506000000.0,
+    "revenue_yoy": 2.1,
+    "net_profit": 134778000000.0,
+    "net_profit_yoy": 6.45,
+    "net_profit_deducted": 143773000000.0,
+    "gross_margin": null,
+    "net_margin": 15.07,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 7.68,
+    "bvps": 55.25,
+    "roe": 14.0,
+    "roa": 1.18,
+    "total_assets": 13898471000000.0,
+    "total_liab": 12482483000000.0,
+    "debt_ratio": 89.81,
+    "cash": 745679000000.0,
+    "receivables": 43678000000.0,
+    "inventory": null,
+    "goodwill": 38130000000.0,
+    "interest_debt": null,
+    "equity_parent": 1000419000000.0,
+    "ocf": 658632000000.0,
+    "capex": 8355000000.0,
+    "fcf": 650277000000.0,
+    "ocf_to_np": 4.89
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 575138000000.0,
+   "revenue_yoy": 15.01,
+   "net_profit": 92585000000.0,
+   "net_profit_yoy": 36.06,
+   "net_profit_deducted": 87712000000.0,
+   "gross_margin": null,
+   "net_margin": 18.69,
+   "roe": 9.0,
+   "eps": 5.3,
+   "debt_ratio": 89.83,
+   "ocf": 368037000000.0
+  },
+  "derived": {
+   "revenue_cagr_3y": 6.07,
+   "net_profit_cagr_3y": 6.68,
+   "receivables_to_revenue": 4.16,
+   "goodwill_to_equity": 3.81
+  }
+ },
+ "shareholders": {
+  "controller": "无实际控制人",
+  "controlling_shareholder": "无控股股东",
+  "controlling_ratio": null,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "香港中央结算(代理人)有限公司",
+    "hold_num": 6510052437,
+    "hold_ratio": 35.95,
+    "hold_num_change": -44128230
+   },
+   {
+    "rank": 2,
+    "name": "深圳市投资控股有限公司",
+    "hold_num": 962719102,
+    "hold_ratio": 5.32,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "中国平安保险(集团)股份有限公司长期服务计划",
+    "hold_num": 645350889,
+    "hold_ratio": 3.56,
+    "hold_num_change": 43583015
+   },
+   {
+    "rank": 4,
+    "name": "中央汇金资产管理有限责任公司",
+    "hold_num": 470302252,
+    "hold_ratio": 2.6,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "商发控股有限公司",
+    "hold_num": 459466189,
+    "hold_ratio": 2.54,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "香港中央结算有限公司",
+    "hold_num": 430026669,
+    "hold_ratio": 2.37,
+    "hold_num_change": -74863360
+   },
+   {
+    "rank": 7,
+    "name": "嘉实基金-农业银行-嘉实中证金融资产管理计划",
+    "hold_num": 325602039,
+    "hold_ratio": 1.8,
+    "hold_num_change": -46284221
+   },
+   {
+    "rank": 8,
+    "name": "工银瑞信基金-农业银行-工银瑞信中证金融资产管理计划",
+    "hold_num": 315148484,
+    "hold_ratio": 1.74,
+    "hold_num_change": -61155900
+   },
+   {
+    "rank": 9,
+    "name": "深业集团有限公司",
+    "hold_num": 257728008,
+    "hold_ratio": 1.42,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 10,
+    "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+    "hold_num": 239620969,
+    "hold_ratio": 1.32,
+    "hold_num_change": -9610416
+   }
+  ],
+  "holder_num": 785141,
+  "holder_num_change_pct": 14.6,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 23.28,
+  "northbound_ratio": 2.37,
+  "executives": [
+   {
+    "name": "马明哲",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "谢永林",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "盛瑞生",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.22,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 2.38,
+    "total_amount": 43506974555.8,
+    "payout_ratio": 42.81,
+    "dividend_yield": 2.61,
+    "ex_date": "2021-10-25"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 2.42,
+    "total_amount": 44238184212.2,
+    "payout_ratio": 39.85,
+    "dividend_yield": 2.72,
+    "ex_date": "2022-10-20"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 2.43,
+    "total_amount": 44250870095.01,
+    "payout_ratio": 51.66,
+    "dividend_yield": 2.95,
+    "ex_date": "2023-10-25"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 2.55,
+    "total_amount": 46436098247.85,
+    "payout_ratio": 36.68,
+    "dividend_yield": 2.4,
+    "ex_date": "2024-10-18"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 2.7,
+    "total_amount": 48890633386.5,
+    "payout_ratio": 36.27,
+    "dividend_yield": 2.67,
+    "ex_date": "2025-10-24"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 227322760497.36,
+  "cum_netprofit_5y": 559676000000.0,
+  "payout_5y": 40.62,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [
+   "601628.SH",
+   "601319.SH",
+   "601601.SH",
+   "601336.SH"
+  ],
+  "segments": [
+   {
+    "name": "寿险及健康险",
+    "revenue": 502171000000.0,
+    "ratio": 47.8,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "财产保险",
+    "revenue": 353272000000.0,
+    "ratio": 33.63,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "银行",
+    "revenue": 131442000000.0,
+    "ratio": 12.51,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "资产管理",
+    "revenue": 51346000000.0,
+    "ratio": 4.89,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他业务及合并抵销",
+    "revenue": -37083000000.0,
+    "ratio": -3.53,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他主营业务",
+    "revenue": 611257000000.0,
+    "ratio": 58.19,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "广东",
+    "revenue": 174566000000.0,
+    "ratio": 16.62,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "浙江",
+    "revenue": 71339000000.0,
+    "ratio": 6.79,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "江苏",
+    "revenue": 67391000000.0,
+    "ratio": 6.42,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "北京",
+    "revenue": 45657000000.0,
+    "ratio": 4.35,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "山东",
+    "revenue": 41854000000.0,
+    "ratio": 3.98,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "中国平安关于召开2026年第三季度业绩说明会的公告",
+    "date": "2026-10-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612223.PDF",
+    "type": null
+   },
+   {
+    "title": "中国平安H股公告",
+    "date": "2026-10-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607661.PDF",
+    "type": null
+   },
+   {
+    "title": "中国平安非执行董事辞任公告",
+    "date": "2026-10-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225606984.PDF",
+    "type": null
+   },
+   {
+    "title": "中国平安H股公告",
+    "date": "2026-10-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225590976.PDF",
+    "type": null
+   },
+   {
+    "title": "中国平安H股公告",
+    "date": "2026-09-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-25/1225582006.PDF",
+    "type": null
+   },
+   {
+    "title": "中国平安H股公告",
+    "date": "2026-09-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-25/1225581974.PDF",
+    "type": null
+   },
+   {
+    "title": "中国平安关于选举第十三届董事会职工董事的公告",
+    "date": "2026-09-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-08/1225551900.PDF",
+    "type": null
+   },
+   {
+    "title": "中国平安2026年半年度权益分派实施公告",
+    "date": "2026-09-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225543317.PDF",
+    "type": null
+   },
+   {
+    "title": "中国平安H股公告",
+    "date": "2026-09-02",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-02/1225541592.PDF",
+    "type": null
+   },
+   {
+    "title": "中国平安2026年中期投资者保护工作报告暨“提质增效重回报”执行情况报告",
+    "date": "2026-08-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-21/1225487487.PDF",
+    "type": null
+   },
+   {
+    "title": "中国平安内幕信息知情人登记管理规定（2026版）",
+    "date": "2026-08-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-21/1225487484.PDF",
+    "type": null
+   },
+   {
+    "title": "中国平安信息披露事务管理制度（2026版）",
+    "date": "2026-08-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-21/1225487483.PDF",
+    "type": null
+   },
+   {
+    "title": "中国平安2026年中期报告",
+    "date": "2026-08-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-21/1225487480.PDF",
+    "type": null
+   },
+   {
+    "title": "中国平安投资者关系管理工作办法（2026版）",
+    "date": "2026-08-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-21/1225487478.PDF",
+    "type": null
+   },
+   {
+    "title": "中国平安2026年中期报告摘要",
+    "date": "2026-08-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-21/1225487477.PDF",
+    "type": null
+   },
+   {
+    "title": "中国平安信息披露暂缓与豁免事务管理制度（2026版）",
+    "date": "2026-08-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-21/1225487476.PDF",
+    "type": null
+   },
+   {
+    "title": "中国平安第十三届董事会第十五次会议决议公告",
+    "date": "2026-08-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-21/1225487474.PDF",
+    "type": null
+   },
+   {
+    "title": "中国平安2026年中期业绩报告",
+    "date": "2026-08-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-21/1225487472.PDF",
+    "type": null
+   },
+   {
+    "title": "中国平安2026年中期利润分配方案公告",
+    "date": "2026-08-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-21/1225487468.PDF",
+    "type": null
+   },
+   {
+    "title": "中国平安：平安银行股份有限公司2026年半年度报告摘要",
+    "date": "2026-08-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225475808.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 102
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "董秘您好！欣喜看到公司业绩强劲复苏，但当前估值仍处低位。请问： 1. 响应监管市值管理号召，公司在维持高分红的基础上，是否有计划利用最新政策工具推出“注销式回购”，以实质性提振每股收益与市场信心？ 2. 随着近期地产优化政策落地及股市回暖，公司险资涉房风险是否已实质性出清？近期资产端投资收益是否已迎来显著修复？期待回复！",
+    "answer": null,
+    "ask_date": "2026-10-22",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1318"
+   },
+   {
+    "question": "请问贵司还认为自己股价低股吗？今年以来证监会鼓励市场主动回购报答投资者，贵司是否考虑也进行一定回购注销？",
+    "answer": null,
+    "ask_date": "2026-10-19",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1318"
+   },
+   {
+    "question": "董秘您好，请问企业当下的困境跟风险点是什么？后续如何应对？第二，企业未来的发展方向怎么走？具体怎么做？",
+    "answer": null,
+    "ask_date": "2026-10-12",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1318"
+   },
+   {
+    "question": "尊敬的董秘：您好，截止三季度9月30日，公司的前十大股东和前十大流通股东是否发生变化？请详细说明，谢谢。",
+    "answer": null,
+    "ask_date": "2026-10-12",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1318"
+   }
+  ],
+  "count_12m": null
+ }
+}

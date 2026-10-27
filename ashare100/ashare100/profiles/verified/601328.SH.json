@@ -1,0 +1,649 @@
+{
+ "identity": {
+  "code": "601328",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "交通银行股份有限公司",
+  "name_abbr": "交通银行",
+  "aliases": [
+   "jtyh"
+  ],
+  "name_en": "Bank of Communications Co.,Ltd.",
+  "pinyin_abbr": "JTYH",
+  "former_names": [],
+  "industry_sw1": "银行",
+  "industry_sw2": "国有大型银行Ⅱ",
+  "list_date": "2007-05-15",
+  "province": "上海",
+  "city": "上海",
+  "website": "www.bankcomm.com",
+  "chairman": "任德奇",
+  "employees": 97932,
+  "business_summary": "银行和相关金融业务,包括公司金融业务、个人金融业务、资金业务和其他类别业务",
+  "profile": "交通银行股份有限公司始建于1908年,是中国历史最悠久的银行之一。1987年4月1日,本行重新组建后正式对外营业,成为中国第一家全国性国有股份制商业银行,总部设在上海。2005年6月在香港联交所挂牌上市,2007年5月在上交所挂牌上市,2023年入选全球系统重要性银行。按一级资本排名,本行居全球银行第7位。本行以“建设具有特色优势的世界一流银行集团”为目标,以绿色为全集团业务经营发展底色,着力打造普惠金融、贸易金融、科技金融、财富金融四大业务特色,持续提升客户经营、科技引领、风险管理、协同作战、资源配置五大专业能力,以“上海主场”建设、数字化转型的创新突破引领全行高质量发展。经金融监管总局批准,本行通过手机银行、网上银行等线上服务渠道,以及境内2,800余家网点、境外24家分(子)行及代表处,为284万公司客户和1.99亿零售客户提供综合金融服务,包括存贷款、产业链金融、现金管理、国际结算与贸易融资、投资银行、资产托管、财富管理、银行卡、私人银行、资金业务等。本集团通过全资或控股子公司,涉足金融租赁、基金、理财、信托、保险、境外证券和债转股等业务领域。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 8.21,
+  "change_pct": -0.48,
+  "total_mv": 725466668470.83,
+  "float_mv": 214054728861.49,
+  "total_shares": 88363784223,
+  "float_shares": 26072439569,
+  "pe_ttm": 7.44,
+  "pe_static": 7.59,
+  "pb": 0.62,
+  "ps_ttm": 2.65,
+  "turnover_rate": 1.02,
+  "amount": 2175716832.0,
+  "high_52w": 8.3,
+  "low_52w": 6.2,
+  "ytd_return": 15.93,
+  "return_1y": 20.47,
+  "return_3y": 73.9,
+  "dividend_yield": 3.95,
+  "index_members": [
+   "上证50",
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 269390000000.0,
+    "revenue_yoy": 9.42,
+    "net_profit": 87581000000.0,
+    "net_profit_yoy": 11.89,
+    "net_profit_deducted": 86991000000.0,
+    "gross_margin": null,
+    "net_margin": 33.01,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.1,
+    "bvps": 10.64,
+    "roe": 10.76,
+    "roa": 0.8,
+    "total_assets": 11665757000000.0,
+    "total_liab": 10688521000000.0,
+    "debt_ratio": 91.62,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": 964647000000.0,
+    "ocf": -34775000000.0,
+    "capex": 22947000000.0,
+    "fcf": -57722000000.0,
+    "ocf_to_np": -0.4
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 256796000000.0,
+    "revenue_yoy": -4.68,
+    "net_profit": 92102000000.0,
+    "net_profit_yoy": 5.16,
+    "net_profit_deducted": 91021000000.0,
+    "gross_margin": null,
+    "net_margin": 35.81,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.14,
+    "bvps": 11.43,
+    "roe": 10.34,
+    "roa": 0.75,
+    "total_assets": 12991571000000.0,
+    "total_liab": 11958049000000.0,
+    "debt_ratio": 92.04,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": 1022024000000.0,
+    "ocf": 368221000000.0,
+    "capex": 31655000000.0,
+    "fcf": 336566000000.0,
+    "ocf_to_np": 4.0
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 257595000000.0,
+    "revenue_yoy": 0.31,
+    "net_profit": 92728000000.0,
+    "net_profit_yoy": 0.68,
+    "net_profit_deducted": 91826000000.0,
+    "gross_margin": null,
+    "net_margin": 36.2,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.15,
+    "bvps": 12.3,
+    "roe": 9.68,
+    "roa": 0.69,
+    "total_assets": 14060472000000.0,
+    "total_liab": 12961022000000.0,
+    "debt_ratio": 92.18,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": 1088030000000.0,
+    "ocf": 137323000000.0,
+    "capex": 47591000000.0,
+    "fcf": 89732000000.0,
+    "ocf_to_np": 1.48
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 259826000000.0,
+    "revenue_yoy": 0.87,
+    "net_profit": 93586000000.0,
+    "net_profit_yoy": 0.93,
+    "net_profit_deducted": 92726000000.0,
+    "gross_margin": null,
+    "net_margin": 36.27,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.16,
+    "bvps": 13.06,
+    "roe": 9.08,
+    "roa": 0.65,
+    "total_assets": 14900717000000.0,
+    "total_liab": 13745120000000.0,
+    "debt_ratio": 92.24,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": 1144306000000.0,
+    "ocf": -57348000000.0,
+    "capex": 42175000000.0,
+    "fcf": -99523000000.0,
+    "ocf_to_np": -0.61
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 265071000000.0,
+    "revenue_yoy": 2.02,
+    "net_profit": 95622000000.0,
+    "net_profit_yoy": 2.18,
+    "net_profit_deducted": 95282000000.0,
+    "gross_margin": null,
+    "net_margin": 36.41,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.08,
+    "bvps": 12.93,
+    "roe": 8.38,
+    "roa": 0.63,
+    "total_assets": 15548388000000.0,
+    "total_liab": 14268106000000.0,
+    "debt_ratio": 91.77,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": 1269232000000.0,
+    "ocf": 132441000000.0,
+    "capex": 43197000000.0,
+    "fcf": 89244000000.0,
+    "ocf_to_np": 1.39
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 142343000000.0,
+   "revenue_yoy": 6.73,
+   "net_profit": 47874000000.0,
+   "net_profit_yoy": 4.04,
+   "net_profit_deducted": 47600000000.0,
+   "gross_margin": null,
+   "net_margin": 34.15,
+   "roe": 4.04,
+   "eps": 0.52,
+   "debt_ratio": 91.98,
+   "ocf": 94943000000.0
+  },
+  "derived": {
+   "revenue_cagr_3y": 1.06,
+   "net_profit_cagr_3y": 1.26,
+   "receivables_to_revenue": null,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "无实际控制人",
+  "controlling_shareholder": "中华人民共和国财政部",
+  "controlling_ratio": 35.01,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "中华人民共和国财政部",
+    "hold_num": 30942772271,
+    "hold_ratio": 35.01,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "香港上海汇丰银行有限公司",
+    "hold_num": 14135636613,
+    "hold_ratio": 16.0,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "全国社会保障基金理事会",
+    "hold_num": 11538488900,
+    "hold_ratio": 13.05,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "香港中央结算(代理人)有限公司",
+    "hold_num": 7731554305,
+    "hold_ratio": 8.75,
+    "hold_num_change": 1778787
+   },
+   {
+    "rank": 5,
+    "name": "中国证券金融股份有限公司",
+    "hold_num": 1891651202,
+    "hold_ratio": 2.14,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "首都机场集团有限公司",
+    "hold_num": 1246591087,
+    "hold_ratio": 1.41,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "上海海烟投资管理有限公司",
+    "hold_num": 808145417,
+    "hold_ratio": 0.91,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "香港中央结算有限公司",
+    "hold_num": 768175707,
+    "hold_ratio": 0.87,
+    "hold_num_change": -125530061
+   },
+   {
+    "rank": 9,
+    "name": "云南合和(集团)股份有限公司",
+    "hold_num": 745305404,
+    "hold_ratio": 0.84,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 10,
+    "name": "一汽股权投资(天津)有限公司",
+    "hold_num": 663941711,
+    "hold_ratio": 0.75,
+    "hold_num_change": 0
+   }
+  ],
+  "holder_num": 337632,
+  "holder_num_change_pct": 3.11,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 14.07,
+  "northbound_ratio": 0.87,
+  "executives": [
+   {
+    "name": "任德奇",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "张宝江",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "何兆斌",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.37,
+  "unlock_12m": [
+   {
+    "date": "2026-12-17",
+    "shares": 13178424446,
+    "ratio": 14.91
+   }
+  ]
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.355,
+    "total_amount": 26363267958.97,
+    "payout_ratio": 30.1,
+    "dividend_yield": 7.11,
+    "ex_date": "2022-07-12"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.373,
+    "total_amount": 27699997038.58,
+    "payout_ratio": 30.08,
+    "dividend_yield": 6.43,
+    "ex_date": "2023-07-12"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.375,
+    "total_amount": 27848522491.88,
+    "payout_ratio": 30.03,
+    "dividend_yield": 4.84,
+    "ex_date": "2024-07-10"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.379,
+    "total_amount": 28145573398.46,
+    "payout_ratio": 30.07,
+    "dividend_yield": 2.51,
+    "ex_date": "2025-01-24"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.3247,
+    "total_amount": 28691720737.21,
+    "payout_ratio": 30.01,
+    "dividend_yield": 2.33,
+    "ex_date": "2025-12-25"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 138749081625.1,
+  "cum_netprofit_5y": 461619000000.0,
+  "payout_5y": 30.06,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "601398.SH",
+   "601939.SH",
+   "601288.SH",
+   "601988.SH"
+  ],
+  "segments": [
+   {
+    "name": "公司金融业务",
+    "revenue": 132749000000.0,
+    "ratio": 50.08,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "个人金融业务",
+    "revenue": 96724000000.0,
+    "ratio": 36.49,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "资金业务",
+    "revenue": 34377000000.0,
+    "ratio": 12.97,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他业务",
+    "revenue": 1221000000.0,
+    "ratio": 0.46,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "长江三角洲",
+    "revenue": 100978000000.0,
+    "ratio": 38.09,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "中部地区",
+    "revenue": 35343000000.0,
+    "ratio": 13.33,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "环渤海地区",
+    "revenue": 32844000000.0,
+    "ratio": 12.39,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "珠江三角洲",
+    "revenue": 25005000000.0,
+    "ratio": 9.43,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "西部地区",
+    "revenue": 23099000000.0,
+    "ratio": 8.71,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "总行",
+    "revenue": 21006000000.0,
+    "ratio": 7.92,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "境外",
+    "revenue": 19559000000.0,
+    "ratio": 7.38,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "交通银行H股公告",
+    "date": "2026-10-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225613069.PDF",
+    "type": null
+   },
+   {
+    "title": "交通银行H股公告",
+    "date": "2026-10-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612910.PDF",
+    "type": null
+   },
+   {
+    "title": "交通银行关于董事任职资格获监管机构核准的公告",
+    "date": "2026-10-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612585.PDF",
+    "type": null
+   },
+   {
+    "title": "交通银行H股公告",
+    "date": "2026-10-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225595452.PDF",
+    "type": null
+   },
+   {
+    "title": "交通银行H股公告-2026中期报告",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225588140.PDF",
+    "type": null
+   },
+   {
+    "title": "交通银行关于对2021年二级资本债券行使赎回权的公告",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225584116.PDF",
+    "type": null
+   },
+   {
+    "title": "交通银行：国泰海通证券股份有限公司关于《交通银行股份有限公司收购报告书》之2026年半年度持续督导意见暨持续督导总结报告",
+    "date": "2026-09-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-11/1225557373.PDF",
+    "type": null
+   },
+   {
+    "title": "交通银行关于参加2026年上海辖区上市公司集体接待日暨中报业绩说明会活动的公告",
+    "date": "2026-09-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-11/1225556864.PDF",
+    "type": null
+   },
+   {
+    "title": "交通银行关于调整境内优先股票面股息率的公告",
+    "date": "2026-09-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225544702.PDF",
+    "type": null
+   },
+   {
+    "title": "交通银行H股公告",
+    "date": "2026-09-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225544166.PDF",
+    "type": null
+   },
+   {
+    "title": "交通银行境内优先股股息派发实施公告",
+    "date": "2026-09-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-01/1225538964.PDF",
+    "type": null
+   },
+   {
+    "title": "交通银行H股公告-2026年中期业绩公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531648.PDF",
+    "type": null
+   },
+   {
+    "title": "交通银行H股公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531535.PDF",
+    "type": null
+   },
+   {
+    "title": "交通银行2026年半年度报告摘要",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225530241.PDF",
+    "type": null
+   },
+   {
+    "title": "交通银行2026年半年度报告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225530238.PDF",
+    "type": null
+   },
+   {
+    "title": "交通银行第十一届董事会第八次会议决议公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225530234.PDF",
+    "type": null
+   },
+   {
+    "title": "交通银行2026年半年度利润分配方案公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225530229.PDF",
+    "type": null
+   },
+   {
+    "title": "交通银行关于召开2026年半年度业绩说明会的公告",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482345.PDF",
+    "type": null
+   },
+   {
+    "title": "交通银行H股公告",
+    "date": "2026-08-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225480036.PDF",
+    "type": null
+   },
+   {
+    "title": "截至二零二六年七月三十一日止股份发行人的证券变动月报表",
+    "date": "2026-08-04",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-04/1225454662.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 110
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "交通银行，你公司2025年定增结束，2025年年报业绩同比下降，2026年一季报业绩同比也下降，交通银行2025年分红大降，股民利益实实在在受损，交通银行你公司定增怎么回事？你公司怎么说？怎么做？",
+    "answer": "尊敬的投资者您好，感谢您的关注。交行2025全年实现归母净利润956.22亿元，同比增长2.18%；2026年一季度归母净利润同比增长3.11%，今年上半年归母净利润同比增长4.04%，经营业绩呈现逐季提升态势。 交行始终秉持投资者价值最大化理念，现金分红率连续多年保持在30%以上，2026年中期分红比例拟由上年的30%提升至31%。2025年定增为交行在“十五五”时期实施战略规划、推进高质量发展提供了资本支撑。未来，交行将持续以稳定的分红政策和较高的现金分红比例，与股东共同分享经营发展成果，不断提升投资者综合回报。",
+    "ask_date": "2026-09-03",
+    "answer_date": "2026-09-24",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1328"
+   },
+   {
+    "question": "董秘好：交通银行近期获央行授权开展上海自贸区离岸人民币外汇交易试点，8月又作为主承销团成员，助力上海电气发行全市场首单企业自贸离岸债，以上说明了交通银行正在依托总部区位优势，在建设上海国际金融中心中发挥重要作用。在《离岸金融行动方案》指引下，交通银行下一步还有哪些关键布局，持续服务上海国际金融中心建设？",
+    "answer": "尊敬的投资者您好，感谢您的关注。交行高度重视上海国际金融中心建设及离岸金融发展，将围绕该方案重点做好以下工作：一是推动离岸金融首批试点业务拓面增量。聚焦离岸贸易、自贸离岸债、离岸再保险、财资中心、离岸人民币外汇交易和非居民个人金融服务等重点离岸金融试点，持续优化业务结构，推动各项创新试点业务做大做强。二是积极探索发展离岸金融创新试点。优化FT、OSA等离岸金融账户功能，进一步完善离岸金融产品体系，推动离岸创新试点业务落地。 三是优化完善离岸金融业务推动机制。加强总分行协同联动。建立离岸金融业务发展规划、发展目标、协同联动、考核激励等机制，强化顶层统筹和目标引领。",
+    "ask_date": "2026-08-17",
+    "answer_date": "2026-09-24",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1328"
+   },
+   {
+    "question": "8月4日央行上海总部下半年工作会议，明确推动临港新片区离岸贸易金融服务综合改革试点扩展为综合性离岸业务，交行作为国内四家离岸金融持牌机构之一，也是唯一同时具有外币和人民币离岸经营资质的国有商业银行，但尚未进入临港新片区离岸贸易金融服务综合改革首批“持证”试点名单。请问：公司是否已着手申请相关业务资质？在离岸资金管理、离岸投融资等新增业务场景中，交行将如何依托“上海主场”优势实现差异化布局？",
+    "answer": "尊敬的投资者您好，感谢您的关注。交行充分运用上海地区“白名单+FT账户”模式为离岸贸易企业提供跨境结算、汇兑和融资等离岸贸易金融服务。同时，正在积极申请临港新片区离岸贸易金融服务综合改革试点银行。交行将充分依托“上海主场”优势，进一步发挥交行国际化、综合化优势，推动相关离岸金融试点落地：一是充分运用交行多元化账户体系优势，为客户量身定制跨境结算、汇兑、融资等综合金融服务方案。二是持续发挥“五位一体”（投资、承销、信托、清算和结算）自贸离岸债综合金融服务体系优势，积极参与市场标志性创新项目。三是把握人民币国际化市场机遇，推动离岸贷款稳健增长。",
+    "ask_date": "2026-08-06",
+    "answer_date": "2026-09-24",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1328"
+   },
+   {
+    "question": "董秘好：7月上旬，在包括交通银行参与的多方协同下，由“全仓登”发起，基于国家区块链网络的“仓登链”正式上线，并同步落地首批有色金属区块链数字仓单业务，“仓登链”为整个大宗商品生态提供了可信的数字资产基础设施，让“货权”变得透明、可追溯。请问交通银行深耕上海主场，能从中明显增加信贷业务量吗？",
+    "answer": "尊敬的投资者您好，感谢您的关注。交行参与了由全仓登发起的“仓登链”首批有色金属数字仓单业务试点。基于区块链实现仓单唯一性确认与全生命周期管理，将有效提升仓单信息的可追溯性，形成金融服务“物的”融资更为有效的途径。交行在这一领域的先行先试，与“上海主场”战略高度契合，也将助力信贷业务可持续发展。",
+    "ask_date": "2026-08-03",
+    "answer_date": "2026-09-24",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1328"
+   }
+  ],
+  "count_12m": null
+ }
+}

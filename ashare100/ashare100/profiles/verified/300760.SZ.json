@@ -1,0 +1,646 @@
+{
+ "identity": {
+  "code": "300760",
+  "exchange": "SZ",
+  "board": "创业板",
+  "name_full": "深圳迈瑞生物医疗电子股份有限公司",
+  "name_abbr": "迈瑞医疗",
+  "aliases": [
+   "mryl"
+  ],
+  "name_en": "Shenzhen Mindray Bio-Medical Electronics Co., Ltd.",
+  "pinyin_abbr": "MRYL",
+  "former_names": [],
+  "industry_sw1": "医药生物",
+  "industry_sw2": "医疗器械",
+  "list_date": "2018-10-16",
+  "province": "广东",
+  "city": "深圳",
+  "website": "www.mindray.com",
+  "chairman": "李西廷",
+  "employees": 21288,
+  "business_summary": "医疗器械的研发、制造、营销及服务,始终以客户需求为导向,致力于为全球医疗机构提供优质的产品",
+  "profile": "深圳迈瑞生物医疗电子股份有限公司主要从事医疗器械的研发、制造、营销及服务,始终以客户需求为导向,致力于为全球医疗机构提供优质产品和服务。公司融合创新,紧贴临床需求,支持医疗机构提供优质的医疗服务,从而帮助世界各地改善医疗条件、降低医疗成本。历经多年的发展,公司已经成为中国最大、全球领先的医疗器械以及解决方案供应商。公司总部设在中国深圳,在北美、欧洲、亚洲、非洲、拉美等地区的超过30个国家设有超过40家境外子公司;在中国超过30个省市自治区设有分公司;已建立起基于全球资源配置的研发创新平台,设有10大研发中心,分布在深圳、武汉、南京、北京、西安、成都、硅谷、新泽西、西雅图和欧洲,形成了庞大的全球化研发、营销及服务网络。公司自成立以来,深耕医疗器械领域,走内生式和外延式发展并重的道路,不断拓展产品线与地域,经历了由单一产品拓展到多产品线,由国内市场打入全球市场,由低端产品延伸至高端产品的发展历程。目前公司产品已经覆盖三大主要领域:生命信息与支持、体外诊断以及医学影像,拥有国内同行业中最全的产品线,以安全、高效、易用的“一站式”整体解决方案满足临床需求。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 171.06,
+  "change_pct": 0.58,
+  "total_mv": 207290410666.86,
+  "float_mv": 207095866523.7,
+  "total_shares": 1211799431,
+  "float_shares": 1210662145,
+  "pe_ttm": 26.36,
+  "pe_static": 25.48,
+  "pb": 5.11,
+  "ps_ttm": 6.05,
+  "turnover_rate": 1.0,
+  "amount": 2089566860.0,
+  "high_52w": 222.12,
+  "low_52w": 129.33,
+  "ytd_return": -8.8,
+  "return_1y": -20.79,
+  "return_3y": -28.24,
+  "dividend_yield": 2.56,
+  "index_members": [
+   "沪深300",
+   "中证A500",
+   "创业板指"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 25269580818.0,
+    "revenue_yoy": 20.18,
+    "net_profit": 8001553606.0,
+    "net_profit_yoy": 20.19,
+    "net_profit_deducted": 7850417234.0,
+    "gross_margin": 65.01,
+    "net_margin": 31.67,
+    "selling_expense_ratio": 15.83,
+    "admin_expense_ratio": 4.38,
+    "finance_expense_ratio": -0.34,
+    "rd_expense": 2524177625.0,
+    "rd_ratio": 9.99,
+    "eps": 6.59,
+    "bvps": 22.17,
+    "roe": 31.92,
+    "roa": 22.42,
+    "total_assets": 38103022990.0,
+    "total_liab": 11134976999.0,
+    "debt_ratio": 29.22,
+    "cash": 15361062758.0,
+    "receivables": 1658675548.0,
+    "inventory": 3565329699.0,
+    "goodwill": 4218327427.0,
+    "interest_debt": 237237504.0,
+    "equity_parent": 26952803219.0,
+    "ocf": 8998649175.0,
+    "capex": 1402493907.0,
+    "fcf": 7596155268.0,
+    "ocf_to_np": 1.12
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 30365643811.0,
+    "revenue_yoy": 20.17,
+    "net_profit": 9607174094.0,
+    "net_profit_yoy": 20.07,
+    "net_profit_deducted": 9525117528.0,
+    "gross_margin": 64.15,
+    "net_margin": 31.65,
+    "selling_expense_ratio": 15.81,
+    "admin_expense_ratio": 4.35,
+    "finance_expense_ratio": -1.49,
+    "rd_expense": 2922614427.0,
+    "rd_ratio": 9.62,
+    "eps": 7.94,
+    "bvps": 26.38,
+    "roe": 33.38,
+    "roa": 22.65,
+    "total_assets": 46745236809.0,
+    "total_liab": 14746124646.0,
+    "debt_ratio": 31.55,
+    "cash": 23185663305.0,
+    "receivables": 2658711527.0,
+    "inventory": 4024915834.0,
+    "goodwill": 4403193037.0,
+    "interest_debt": 236524489.0,
+    "equity_parent": 31980825123.0,
+    "ocf": 12141147876.0,
+    "capex": 1915528356.0,
+    "fcf": 10225619520.0,
+    "ocf_to_np": 1.26
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 34931900884.0,
+    "revenue_yoy": 15.04,
+    "net_profit": 11582226085.0,
+    "net_profit_yoy": 20.56,
+    "net_profit_deducted": 11433734957.0,
+    "gross_margin": 64.18,
+    "net_margin": 33.15,
+    "selling_expense_ratio": 14.34,
+    "admin_expense_ratio": 4.36,
+    "finance_expense_ratio": -2.45,
+    "rd_expense": 3432658732.0,
+    "rd_ratio": 9.83,
+    "eps": 9.56,
+    "bvps": 27.29,
+    "roe": 33.64,
+    "roa": 24.46,
+    "total_assets": 47940003061.0,
+    "total_liab": 14593963297.0,
+    "debt_ratio": 30.44,
+    "cash": 18787180188.0,
+    "receivables": 3295124769.0,
+    "inventory": 3978631580.0,
+    "goodwill": 5061690541.0,
+    "interest_debt": 294931139.0,
+    "equity_parent": 33085389686.0,
+    "ocf": 11062025295.0,
+    "capex": 2688667990.0,
+    "fcf": 8373357305.0,
+    "ocf_to_np": 0.96
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 36725749548.0,
+    "revenue_yoy": 5.14,
+    "net_profit": 11668487164.0,
+    "net_profit_yoy": 0.74,
+    "net_profit_deducted": 11442036083.0,
+    "gross_margin": 63.11,
+    "net_margin": 31.97,
+    "selling_expense_ratio": 14.38,
+    "admin_expense_ratio": 4.36,
+    "finance_expense_ratio": -1.09,
+    "rd_expense": 3665860585.0,
+    "rd_ratio": 9.98,
+    "eps": 9.64,
+    "bvps": 29.57,
+    "roe": 32.58,
+    "roa": 22.45,
+    "total_assets": 56643545143.0,
+    "total_liab": 15885367579.0,
+    "debt_ratio": 28.04,
+    "cash": 16644066286.0,
+    "receivables": 3219300494.0,
+    "inventory": 4757425283.0,
+    "goodwill": 11093184471.0,
+    "interest_debt": 298486475.0,
+    "equity_parent": 35856358850.0,
+    "ocf": 12432041281.0,
+    "capex": 1959448254.0,
+    "fcf": 10472593027.0,
+    "ocf_to_np": 1.07
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 33282159404.0,
+    "revenue_yoy": -9.38,
+    "net_profit": 8135775409.0,
+    "net_profit_yoy": -30.28,
+    "net_profit_deducted": 8068550808.0,
+    "gross_margin": 60.32,
+    "net_margin": 25.39,
+    "selling_expense_ratio": 15.46,
+    "admin_expense_ratio": 4.66,
+    "finance_expense_ratio": -0.79,
+    "rd_expense": 3578692207.0,
+    "rd_ratio": 10.75,
+    "eps": 6.71,
+    "bvps": 31.42,
+    "roe": 21.58,
+    "roa": 14.58,
+    "total_assets": 59266767707.0,
+    "total_liab": 16255447654.0,
+    "debt_ratio": 27.43,
+    "cash": 17690372308.0,
+    "receivables": 3408119891.0,
+    "inventory": 5003717480.0,
+    "goodwill": 11404095043.0,
+    "interest_debt": 349283522.0,
+    "equity_parent": 38093330471.0,
+    "ocf": 10144968535.0,
+    "capex": 2037744137.0,
+    "fcf": 8107224398.0,
+    "ocf_to_np": 1.25
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 17746969604.0,
+   "revenue_yoy": 6.0,
+   "net_profit": 4796791800.0,
+   "net_profit_yoy": -5.37,
+   "net_profit_deducted": 4784797726.0,
+   "gross_margin": 60.83,
+   "net_margin": 28.44,
+   "roe": 12.01,
+   "eps": 3.96,
+   "debt_ratio": 25.47,
+   "ocf": 4876986709.0
+  },
+  "derived": {
+   "revenue_cagr_3y": 3.1,
+   "net_profit_cagr_3y": -5.39,
+   "receivables_to_revenue": 10.24,
+   "goodwill_to_equity": 29.94
+  }
+ },
+ "shareholders": {
+  "controller": "李西廷,徐航",
+  "controlling_shareholder": "Smartco Development Limited",
+  "controlling_ratio": 26.98,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "Smartco Development Limited",
+    "hold_num": 327072335,
+    "hold_ratio": 26.98,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "Magnifice (HK) Limited",
+    "hold_num": 296951000,
+    "hold_ratio": 24.49,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "香港中央结算有限公司",
+    "hold_num": 86000462,
+    "hold_ratio": 7.09,
+    "hold_num_change": -5553078
+   },
+   {
+    "rank": 4,
+    "name": "Ever Union(H.K.) Limited",
+    "hold_num": 46482379,
+    "hold_ratio": 3.83,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "中国银行股份有限公司-华宝中证医疗交易型开放式指数证券投资基金",
+    "hold_num": 16939354,
+    "hold_ratio": 1.4,
+    "hold_num_change": 2437113
+   },
+   {
+    "rank": 6,
+    "name": "中国建设银行股份有限公司-易方达沪深300医药卫生交易型开放式指数证券投资基金",
+    "hold_num": 9854719,
+    "hold_ratio": 0.81,
+    "hold_num_change": 1322477
+   },
+   {
+    "rank": 7,
+    "name": "全国社保基金一一三组合",
+    "hold_num": 7700035,
+    "hold_ratio": 0.64,
+    "hold_num_change": 700000
+   },
+   {
+    "rank": 8,
+    "name": "基本养老保险基金八零二组合",
+    "hold_num": 5805482,
+    "hold_ratio": 0.48,
+    "hold_num_change": 805400
+   },
+   {
+    "rank": 9,
+    "name": "太白投资有限公司-自有资金(R)",
+    "hold_num": 4145657,
+    "hold_ratio": 0.34,
+    "hold_num_change": -2067700
+   },
+   {
+    "rank": 10,
+    "name": "李莉",
+    "hold_num": 4061385,
+    "hold_ratio": 0.33,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 153200,
+  "holder_num_change_pct": 0.74,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 11.87,
+  "northbound_ratio": 7.09,
+  "executives": [
+   {
+    "name": "李西廷",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "吴昊",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "李文楣",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 6.07,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 3.5,
+    "total_amount": 4243544879.0,
+    "payout_ratio": 53.03,
+    "dividend_yield": 1.16,
+    "ex_date": "2022-05-19"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 4.5,
+    "total_amount": 5455986273.0,
+    "payout_ratio": 56.79,
+    "dividend_yield": 1.42,
+    "ex_date": "2023-05-29"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 5.8,
+    "total_amount": 7032160085.2,
+    "payout_ratio": 60.72,
+    "dividend_yield": 1.24,
+    "ex_date": "2023-11-22"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 6.27,
+    "total_amount": 7602007540.38,
+    "payout_ratio": 65.15,
+    "dividend_yield": 1.27,
+    "ex_date": "2024-09-09"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 4.38,
+    "total_amount": 5310493305.72,
+    "payout_ratio": 65.27,
+    "dividend_yield": 0.58,
+    "ex_date": "2025-05-29"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 29644192083.3,
+  "cum_netprofit_5y": 48995216358.0,
+  "payout_5y": 60.5,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [
+   "688271.SH",
+   "300832.SZ",
+   "688617.SH"
+  ],
+  "segments": [
+   {
+    "name": "体外诊断类产品",
+    "revenue": 12240656910.0,
+    "ratio": 36.78,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "生命信息与支持类产品",
+    "revenue": 9836723709.0,
+    "ratio": 29.56,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "医学影像类产品",
+    "revenue": 5716705579.0,
+    "ratio": 17.18,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "新兴业务类产品",
+    "revenue": 5377961114.0,
+    "ratio": 16.16,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 110112092.0,
+    "ratio": 0.33,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "境外",
+    "revenue": 17650375236.0,
+    "ratio": 53.03,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "境内",
+    "revenue": 15631784168.0,
+    "ratio": 46.97,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "关于控股股东部分股份质押的公告",
+    "date": "2026-10-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-12/1225600769.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年第二次中期权益分派实施公告",
+    "date": "2026-08-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225537035.PDF",
+    "type": null
+   },
+   {
+    "title": "关于开展外汇套期保值类衍生品交易业务的可行性分析报告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225529860.PDF",
+    "type": null
+   },
+   {
+    "title": "关于开展外汇套期保值业务的公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225529859.PDF",
+    "type": null
+   },
+   {
+    "title": "第九届董事会第二次会议决议公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225529858.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度非经营性资金占用及其他关联资金往来情况汇总表",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225529857.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度报告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225529856.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度报告摘要",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225529855.PDF",
+    "type": null
+   },
+   {
+    "title": "关于2026年第二次中期利润分配方案公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225529854.PDF",
+    "type": null
+   },
+   {
+    "title": "关于2022年员工持股计划处置完毕暨终止公告",
+    "date": "2026-08-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-11/1225466191.PDF",
+    "type": null
+   },
+   {
+    "title": "关于库存股注销完成暨股份变动的公告",
+    "date": "2026-08-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-11/1225466190.PDF",
+    "type": null
+   },
+   {
+    "title": "关于控股股东部分股份解除质押的公告",
+    "date": "2026-07-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-13/1225421642.PDF",
+    "type": null
+   },
+   {
+    "title": "关于控股股东部分股份质押的公告",
+    "date": "2026-07-02",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-02/1225405249.PDF",
+    "type": null
+   },
+   {
+    "title": "关于控股股东部分股份质押的公告",
+    "date": "2026-06-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-24/1225385610.PDF",
+    "type": null
+   },
+   {
+    "title": "关于控股股东部分股份解除质押的公告",
+    "date": "2026-05-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-05-29/1225337835.PDF",
+    "type": null
+   },
+   {
+    "title": "关于控股股东部分股份质押的公告",
+    "date": "2026-05-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-05-22/1225325171.PDF",
+    "type": null
+   },
+   {
+    "title": "2025年度及2026年第一次中期权益分派实施公告",
+    "date": "2026-05-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-05-20/1225320390.PDF",
+    "type": null
+   },
+   {
+    "title": "关于注销库存股通知债权人的公告",
+    "date": "2026-05-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-05-19/1225318288.PDF",
+    "type": null
+   },
+   {
+    "title": "关于选举产生第九届董事会职工代表董事的公告",
+    "date": "2026-05-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-05-19/1225318287.PDF",
+    "type": null
+   },
+   {
+    "title": "关于公司董事会完成换届选举及聘任高级管理人员的公告",
+    "date": "2026-05-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-05-19/1225318286.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 86
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "我想知道你们几号发布三季报？期待你的好消息",
+    "answer": null,
+    "ask_date": "2026-10-21",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2386618709474521088"
+   },
+   {
+    "question": "公司研发投入一直很大，上半年占了营收 10% 以上，像 \"瑞检\"\" 瑞智 \" 这些生态还有启元大模型都在推。就想问问这些数智化业务现在到底挣不挣钱、贡献多少收入了？这么大投入，啥时候能变成实实在在的利润和增长点？",
+    "answer": null,
+    "ask_date": "2026-10-20",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2385785305463914496"
+   },
+   {
+    "question": "董秘您好，IVD业务是迈瑞支柱业务之一，而化学发光是IVD行业中的明星市场，今年CACLP上迈瑞发布了宽线性化学发光CL9000i和流水线平台产品，想了解迈瑞宽线性化学发光产品目前的销售台数和产能，未来是否对业绩有重大驱动业务？迈瑞如何看待宽线性产品如CL9000i的市场潜力，对于化学发光业务的影响？未来是否会有新的宽线性产品发布？谢谢",
+    "answer": null,
+    "ask_date": "2026-10-13",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2380571172216897536"
+   },
+   {
+    "question": "公司收购的惠泰医疗整个原始团队都在减持套现，他们的精力是否还在惠泰医疗未来发展上，公司使用这么多资金控股惠泰医疗是否值得，如果其原创团队都不看好惠泰医疗未来，迈瑞医疗是否面临巨大的商誉减值风险",
+    "answer": null,
+    "ask_date": "2026-09-21",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2364438089670180864"
+   },
+   {
+    "question": "董秘你好。公司提出未来十年跻身全球医疗器械前十，并明确＂流水化、国际化、数智化＂三大战略方向。其中手术机器人已进入注册阶段，启元大模型等AI数智化已推向临床应用。 请问针对手术机器人、骨科耗材、AI数智化商业化这三个方向，公司分别倾向于自研、合作还是并购切入？特别是手术机器人的核心部件与专用耗材、AI相关业务的营收占比及收费模式，未来3-5年并购的优先赛道排序是怎样的？恳请说明，谢谢。",
+    "answer": null,
+    "ask_date": "2026-09-16",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2360520924842373120"
+   },
+   {
+    "question": "您好！请回答：一、25年公司净利润下滑约30%，高管薪酬仅下降约19%，降幅明显低于业绩，如何解释？是否建立了业绩不达预期时薪酬下调机制？如何将薪酬和业绩挂钩，达到管理层与股东“风险共担”的效果？二、薪酬方案制是否对标了行业国际龙头？薪酬结构和股权激励占比处于什么水平和范围？三、是否建立了薪酬递延支付和追索扣回机制？有什么核心条款保证效果？四、薪酬与考核委员会的对高管薪酬的审议意见能否进一步公开？",
+    "answer": "您好，谢谢关注。2025年，公司董高薪酬总额较2024年下降17.7%，其中2024年中期聘任的4位高管已还原为2024年全年薪酬。自2025年12月以来，公司董事、高管合计增持公司股票逾2.8亿元。公司已跻身全球顶尖医疗器械企业前30名，作为一家全球型医疗器械企业，与主要全球竞争对手相比，公司董事及高管薪酬水平处于合理区间。公司薪酬制度遵循以下原则：（一）按岗位确定薪酬原则：公司内部各岗位薪酬体现各岗位对公司的价值，体现“责、权、利”的统一；（二）按绩效评价标准、程序及主要评价体系的原则；（三）个人薪酬与公司长远利益相结合的原则；（四）激励与约束并重、奖罚对等的原则。高管薪酬严格按照公司《董事及高级管理人员薪酬管理制度》规定和公司内部薪酬制度执行。根据《董事及高级管理人员薪酬管理制度》，公司高级管理人员的薪酬由基本薪酬和绩效薪酬组成。绩效薪酬占比原则上不低于基本薪酬与绩效薪酬总额的百分之五十。公司已建立董事、高级管理人员绩效薪酬追索扣回机制。 公司《董事及高级管理人员薪酬管理制度（2026年3月）》制订与高管薪酬审议批准程序符合《公司法》《深圳证券交易所创业板股票上市规则》《深圳证券交易所上市公司自律监管指引第2号——创业板上市公司规范运作》等有关法律、法规规定。谢谢。",
+    "ask_date": "2026-09-07",
+    "answer_date": "2026-09-11",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2354139007034380288"
+   },
+   {
+    "question": "董秘你好。公司提出未来十年跻身全球医疗器械前十，并明确＂流水化、国际化、数智化＂三大战略方向。其中手术机器人已进入注册阶段，启元大模型等AI数智化已推向临床应用。 请问针对手术机器人、骨科耗材、AI数智化商业化这三个方向，公司分别倾向于自研、合作还是并购切入？特别是手术机器人的核心部件与专用耗材、AI相关业务的营收占比及收费模式，未来3-5年并购的优先赛道排序是怎样的？恳请说明，谢谢。",
+    "answer": "您好，谢谢关注。迈瑞正在推动设备数智化转型，这其中包括启元AI大模型、手术机器人、可穿戴监护等等，都不是为了单纯地“卖更好的产品”，而是为了重塑患者生命周期的临床管理范式。我们正在将医疗器械从“被动、碎片化、院内”的孤立工具，升维成“主动、一体化、联通院内外”的生命守护智能体，并帮助医护人员大幅提升工作效率、减少人为失误。未来，医疗设备和配套耗材将成为拥有“感知、思考、决策、执行”等能力的具身智能。它能在患者状态恶化发生前，通过可穿戴设备对身处院外的患者进行精准预警，并将预警实时传回院内；在手术台上，通过机器人和AI协助外科医生实现超越人类极限的微创精准操作；在重症监护室里，通过床旁设备和启元大模型为重症医护人员提供全天候的临床决策辅助。迈瑞正在跨越传统医疗器械的边界，成为一家“定义未来临床工作流”的生态型企业，真正实现全面赋能医院提质增效、降低人力和运营成本。对迈瑞而言，我们创造的将不再是单纯的产品溢价，而是颠覆性、高使用粘性、高复购率的完整解决方案。而这才是迈瑞在未来十年乃至更长周期里，保持高维度竞争优势、真正引领全球医疗行业数智化发展的核心密码。以上内容不构成业绩承诺，市场有风险，投资需谨慎，谢谢。",
+    "ask_date": "2026-09-07",
+    "answer_date": "2026-09-11",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2353841589139066880"
+   },
+   {
+    "question": "建议公司可以考虑并购002932，该股目前股价跌破每股现金资产且无负债，控制权实施后可以0成本获得上市公司控制权和富余现金资产，建议公司加以研究考虑。",
+    "answer": "您好，谢谢关注，谢谢。",
+    "ask_date": "2026-09-07",
+    "answer_date": "2026-09-11",
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2353746000346927104"
+   }
+  ],
+  "count_12m": null
+ }
+}

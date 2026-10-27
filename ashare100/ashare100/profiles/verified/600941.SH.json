@@ -1,0 +1,585 @@
+{
+ "identity": {
+  "code": "600941",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "中国移动有限公司",
+  "name_abbr": "中国移动",
+  "aliases": [
+   "zgyd"
+  ],
+  "name_en": "China Mobile Limited",
+  "pinyin_abbr": "ZGYD",
+  "former_names": [],
+  "industry_sw1": "通信",
+  "industry_sw2": "通信服务",
+  "list_date": "2022-01-05",
+  "province": "香港",
+  "city": "香港",
+  "website": "www.chinamobileltd.com",
+  "chairman": "陈忠岳",
+  "employees": 461345,
+  "business_summary": "涵盖包括移动通信、宽带网络、蜂窝物联和卫星互联的通信服务,数据中心、移动云和移动云应用的算力服务",
+  "profile": "中国移动有限公司(「本公司」,包括子公司合称为「本集团」)于1997年9月3日在香港成立。本公司股票于1997年10月23日在香港联合交易所有限公司(「香港联交所」)上市,并在1998年1月27日成为香港恒生指数成份股。2022年1月5日,本公司人民币普通股(「人民币股份」或「A股」)于上海证券交易所(「上海交易所」)主板挂牌上市。2023年6月19日,本公司于香港联交所主板上市的股份(「香港股份」)增设人民币柜台交易。本集团在中国内地所有三十一个省、自治区、直辖市以及香港特别行政区提供通信服务、算力服务及智能服务,同时面向全球超过200个国家和地区提供国际漫游及信息服务,主营业务涵盖包括移动通信、宽带网络、蜂窝物联和卫星互联的通信服务,数据中心、移动云和移动云应用的算力服务,以及数据算法、具身智能、数智文化、数智电商和行业数智服务的智能服务。目前,本公司的债信评级等同于中国国家主权评级,为标普A+/前景稳定和穆迪评级A1/前景稳定。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 99.0,
+  "change_pct": 2.5,
+  "total_mv": 2147893154154.0,
+  "float_mv": 89374018833.0,
+  "total_shares": 21695890446,
+  "float_shares": 902767867,
+  "pe_ttm": 16.79,
+  "pe_static": 15.67,
+  "pb": 1.54,
+  "ps_ttm": 2.07,
+  "turnover_rate": 2.21,
+  "amount": 1958472831.0,
+  "high_52w": 104.9,
+  "low_52w": 82.87,
+  "ytd_return": 2.76,
+  "return_1y": -2.45,
+  "return_3y": 17.27,
+  "dividend_yield": 4.75,
+  "index_members": [
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 848258000000.0,
+    "revenue_yoy": 10.44,
+    "net_profit": 115937000000.0,
+    "net_profit_yoy": 7.51,
+    "net_profit_deducted": 107418000000.0,
+    "gross_margin": 28.81,
+    "net_margin": 13.69,
+    "selling_expense_ratio": 5.69,
+    "admin_expense_ratio": 6.27,
+    "finance_expense_ratio": -0.95,
+    "rd_expense": 15577000000.0,
+    "rd_ratio": 1.84,
+    "eps": 5.66,
+    "bvps": null,
+    "roe": 10.1,
+    "roa": 6.64,
+    "total_assets": 1806027000000.0,
+    "total_liab": 631035000000.0,
+    "debt_ratio": 34.94,
+    "cash": 335155000000.0,
+    "receivables": 37185000000.0,
+    "inventory": 10203000000.0,
+    "goodwill": 44000000.0,
+    "interest_debt": 56981000000.0,
+    "equity_parent": 1171050000000.0,
+    "ocf": 314764000000.0,
+    "capex": 207311000000.0,
+    "fcf": 107453000000.0,
+    "ocf_to_np": 2.71
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 937259000000.0,
+    "revenue_yoy": 10.49,
+    "net_profit": 125459000000.0,
+    "net_profit_yoy": 8.21,
+    "net_profit_deducted": 115429000000.0,
+    "gross_margin": 27.78,
+    "net_margin": 13.4,
+    "selling_expense_ratio": 5.29,
+    "admin_expense_ratio": 5.82,
+    "finance_expense_ratio": -0.92,
+    "rd_expense": 18091000000.0,
+    "rd_ratio": 1.93,
+    "eps": 5.88,
+    "bvps": 59.08,
+    "roe": 10.1,
+    "roa": 6.78,
+    "total_assets": 1900238000000.0,
+    "total_liab": 634115000000.0,
+    "debt_ratio": 33.37,
+    "cash": 223483000000.0,
+    "receivables": 42757000000.0,
+    "inventory": 11696000000.0,
+    "goodwill": 1000000.0,
+    "interest_debt": 112660000000.0,
+    "equity_parent": 1262048000000.0,
+    "ocf": 280750000000.0,
+    "capex": 189588000000.0,
+    "fcf": 91162000000.0,
+    "ocf_to_np": 2.24
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 1009309000000.0,
+    "revenue_yoy": 7.69,
+    "net_profit": 131766000000.0,
+    "net_profit_yoy": 5.03,
+    "net_profit_deducted": 117980000000.0,
+    "gross_margin": 28.23,
+    "net_margin": 13.07,
+    "selling_expense_ratio": 5.2,
+    "admin_expense_ratio": 5.55,
+    "finance_expense_ratio": -0.34,
+    "rd_expense": 28711000000.0,
+    "rd_ratio": 2.84,
+    "eps": 6.16,
+    "bvps": 61.07,
+    "roe": 10.2,
+    "roa": 6.84,
+    "total_assets": 1957357000000.0,
+    "total_liab": 646672000000.0,
+    "debt_ratio": 33.04,
+    "cash": 178772000000.0,
+    "receivables": 54881000000.0,
+    "inventory": 12026000000.0,
+    "goodwill": 1000000.0,
+    "interest_debt": 102934000000.0,
+    "equity_parent": 1306432000000.0,
+    "ocf": 303780000000.0,
+    "capex": 181263000000.0,
+    "fcf": 122517000000.0,
+    "ocf_to_np": 2.31
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 1040759000000.0,
+    "revenue_yoy": 3.12,
+    "net_profit": 138373000000.0,
+    "net_profit_yoy": 5.01,
+    "net_profit_deducted": 122715000000.0,
+    "gross_margin": 29.02,
+    "net_margin": 13.31,
+    "selling_expense_ratio": 5.24,
+    "admin_expense_ratio": 5.47,
+    "finance_expense_ratio": -0.24,
+    "rd_expense": 28163000000.0,
+    "rd_ratio": 2.71,
+    "eps": 6.45,
+    "bvps": 63.05,
+    "roe": 10.4,
+    "roa": 6.87,
+    "total_assets": 2072827000000.0,
+    "total_liab": 711588000000.0,
+    "debt_ratio": 34.33,
+    "cash": 242275000000.0,
+    "receivables": 75741000000.0,
+    "inventory": 11229000000.0,
+    "goodwill": 1000000.0,
+    "interest_debt": 88442000000.0,
+    "equity_parent": 1356732000000.0,
+    "ocf": 315741000000.0,
+    "capex": 155979000000.0,
+    "fcf": 159762000000.0,
+    "ocf_to_np": 2.28
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 1050187000000.0,
+    "revenue_yoy": 0.91,
+    "net_profit": 137095000000.0,
+    "net_profit_yoy": -0.92,
+    "net_profit_deducted": 127961000000.0,
+    "gross_margin": 28.87,
+    "net_margin": 13.07,
+    "selling_expense_ratio": 5.35,
+    "admin_expense_ratio": 5.32,
+    "finance_expense_ratio": -0.15,
+    "rd_expense": 29253000000.0,
+    "rd_ratio": 2.79,
+    "eps": 6.35,
+    "bvps": 64.37,
+    "roe": 9.9,
+    "roa": 6.59,
+    "total_assets": 2092882000000.0,
+    "total_liab": 695331000000.0,
+    "debt_ratio": 33.22,
+    "cash": 171094000000.0,
+    "receivables": 99762000000.0,
+    "inventory": 16613000000.0,
+    "goodwill": 3964000000.0,
+    "interest_debt": 101197000000.0,
+    "equity_parent": 1393175000000.0,
+    "ocf": 232919000000.0,
+    "capex": 156951000000.0,
+    "fcf": 75968000000.0,
+    "ocf_to_np": 1.7
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 538035000000.0,
+   "revenue_yoy": -1.05,
+   "net_profit": 78934000000.0,
+   "net_profit_yoy": -6.29,
+   "net_profit_deducted": 69733000000.0,
+   "gross_margin": 29.51,
+   "net_margin": 14.68,
+   "roe": 5.6,
+   "eps": 3.64,
+   "debt_ratio": 32.79,
+   "ocf": 114854000000.0
+  },
+  "derived": {
+   "revenue_cagr_3y": 3.86,
+   "net_profit_cagr_3y": 3.0,
+   "receivables_to_revenue": 9.5,
+   "goodwill_to_equity": 0.28
+  }
+ },
+ "shareholders": {
+  "controller": "中国移动通信集团有限公司",
+  "controlling_shareholder": "中国移动香港(BVI)有限公司",
+  "controlling_ratio": 68.63,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "中国移动香港(BVI)有限公司",
+    "hold_num": 14890116842,
+    "hold_ratio": 68.63,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "香港中央结算(代理人)有限公司",
+    "hold_num": 5651185702,
+    "hold_ratio": 26.05,
+    "hold_num_change": 12878004
+   },
+   {
+    "rank": 3,
+    "name": "港股股东A",
+    "hold_num": 63709500,
+    "hold_ratio": 0.29,
+    "hold_num_change": -10500000
+   },
+   {
+    "rank": 4,
+    "name": "中国石油天然气集团有限公司",
+    "hold_num": 41981348,
+    "hold_ratio": 0.19,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "国家能源集团资本控股有限公司",
+    "hold_num": 34734000,
+    "hold_ratio": 0.16,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+    "hold_num": 26132589,
+    "hold_ratio": 0.12,
+    "hold_num_change": -2341588
+   },
+   {
+    "rank": 7,
+    "name": "国网英大国际控股集团有限公司",
+    "hold_num": 25147215,
+    "hold_ratio": 0.12,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "太平人寿保险有限公司-传统-普通保险产品-022L-CT001沪",
+    "hold_num": 19430382,
+    "hold_ratio": 0.09,
+    "hold_num_change": -7935630
+   },
+   {
+    "rank": 9,
+    "name": "港股股东B",
+    "hold_num": 17000000,
+    "hold_ratio": 0.08,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 10,
+    "name": "一汽股权投资(天津)有限公司",
+    "hold_num": 13886300,
+    "hold_ratio": 0.06,
+    "hold_num_change": 0
+   }
+  ],
+  "holder_num": 168977,
+  "holder_num_change_pct": -16.39,
+  "holder_num_date": "2026-09-30",
+  "inst_hold_ratio": 16.96,
+  "northbound_ratio": 0.02,
+  "executives": [
+   {
+    "name": "陈忠岳",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "陈扬帆",
+    "title": "总经理",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 1.8,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 2.0939,
+    "total_amount": 44731622961.14,
+    "payout_ratio": 38.58,
+    "dividend_yield": 3.16,
+    "ex_date": "2022-06-01"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 3.8738,
+    "total_amount": 82775242430.18,
+    "payout_ratio": 65.98,
+    "dividend_yield": 2.45,
+    "ex_date": "2022-09-06"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 4.4096,
+    "total_amount": 94389351035.34,
+    "payout_ratio": 71.63,
+    "dividend_yield": 2.18,
+    "ex_date": "2023-09-01"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 4.6705,
+    "total_amount": 100539884869.64,
+    "payout_ratio": 72.66,
+    "dividend_yield": 2.1,
+    "ex_date": "2024-09-02"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 4.7037,
+    "total_amount": 101808148787.36,
+    "payout_ratio": 74.26,
+    "dividend_yield": 2.24,
+    "ex_date": "2025-09-01"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 424244250083.66,
+  "cum_netprofit_5y": 648630000000.0,
+  "payout_5y": 65.41,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "601728.SH",
+   "600050.SH",
+   "300442.SZ"
+  ],
+  "segments": [
+   {
+    "name": "无线上网业务",
+    "revenue": 369092000000.0,
+    "ratio": 35.15,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "应用及信息服务",
+    "revenue": 258761000000.0,
+    "ratio": 24.64,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他主营业务",
+    "revenue": 154657000000.0,
+    "ratio": 14.73,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "有线宽带业务",
+    "revenue": 141569000000.0,
+    "ratio": 13.48,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "语音业务",
+    "revenue": 66633000000.0,
+    "ratio": 6.34,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他",
+    "revenue": 29873000000.0,
+    "ratio": 2.84,
+    "type": "product",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "中国移动：2026年第三季度客户数据公告",
+    "date": "2026-10-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225613029.PDF",
+    "type": null
+   },
+   {
+    "title": "中国移动：2026年第三季度报告",
+    "date": "2026-10-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225613028.PDF",
+    "type": null
+   },
+   {
+    "title": "中国移动：月报表",
+    "date": "2026-10-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225595593.PDF",
+    "type": null
+   },
+   {
+    "title": "中国移动：2026年中期利润分派A股实施公告",
+    "date": "2026-09-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-21/1225573518.PDF",
+    "type": null
+   },
+   {
+    "title": "中国移动：月报表",
+    "date": "2026-09-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225543658.PDF",
+    "type": null
+   },
+   {
+    "title": "中国移动：2026年半年度报告",
+    "date": "2026-08-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-14/1225472195.PDF",
+    "type": null
+   },
+   {
+    "title": "中国移动：2026年半年度报告摘要",
+    "date": "2026-08-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-14/1225472194.PDF",
+    "type": null
+   },
+   {
+    "title": "中国移动：2026年第五次董事会决议公告",
+    "date": "2026-08-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-14/1225472193.PDF",
+    "type": null
+   },
+   {
+    "title": "中国移动：2026年中期利润分配方案的公告",
+    "date": "2026-08-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-14/1225472191.PDF",
+    "type": null
+   },
+   {
+    "title": "中国移动：关于中国移动通信集团财务有限公司的风险持续评估报告",
+    "date": "2026-08-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-14/1225472185.PDF",
+    "type": null
+   },
+   {
+    "title": "中国移动：2026年第二季度客户数据公告",
+    "date": "2026-08-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-14/1225472184.PDF",
+    "type": null
+   },
+   {
+    "title": "中国移动：月报表",
+    "date": "2026-08-05",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-05/1225457498.PDF",
+    "type": null
+   },
+   {
+    "title": "港股公告：董事会会议召开日期",
+    "date": "2026-08-04",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-04/1225453822.PDF",
+    "type": null
+   },
+   {
+    "title": "中国移动：关于召开2026年半年度业绩说明会的公告",
+    "date": "2026-08-04",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-04/1225453726.PDF",
+    "type": null
+   },
+   {
+    "title": "中国移动：月报表",
+    "date": "2026-07-04",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-04/1225409110.PDF",
+    "type": null
+   },
+   {
+    "title": "港股公告：董事名单与其角色和职能",
+    "date": "2026-06-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-25/1225385881.PDF",
+    "type": null
+   },
+   {
+    "title": "中国移动：关于执行董事辞任的公告",
+    "date": "2026-06-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-25/1225385226.PDF",
+    "type": null
+   },
+   {
+    "title": "中国移动：关于委任执行董事兼首席执行官的公告",
+    "date": "2026-06-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-17/1225373406.PDF",
+    "type": null
+   },
+   {
+    "title": "港股公告：董事名单与其角色和职能",
+    "date": "2026-06-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-17/1225373402.PDF",
+    "type": null
+   },
+   {
+    "title": "中国移动：月报表",
+    "date": "2026-06-05",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-05/1225351350.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 70
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "董秘您好，请问企业当下的困境跟风险点是什么？后续如何应对？第二，企业未来的发展方向怎么走？具体怎么做？",
+    "answer": null,
+    "ask_date": "2026-10-12",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=236809"
+   },
+   {
+    "question": "尊敬的董秘：建议贵公司在移动云盘里增加用人工智能写小说、编曲和制作漫剧的功能，以有利于全民创作。",
+    "answer": null,
+    "ask_date": "2026-09-28",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=236809"
+   }
+  ],
+  "count_12m": null
+ }
+}

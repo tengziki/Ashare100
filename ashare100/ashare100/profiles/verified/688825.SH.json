@@ -1,0 +1,606 @@
+{
+ "identity": {
+  "code": "688825",
+  "exchange": "SH",
+  "board": "科创板",
+  "name_full": "长鑫科技集团股份有限公司",
+  "name_abbr": "长鑫科技",
+  "aliases": [
+   "cxkj"
+  ],
+  "name_en": "CXMT Corporation",
+  "pinyin_abbr": "CXKJ",
+  "former_names": [],
+  "industry_sw1": "电子",
+  "industry_sw2": "半导体",
+  "list_date": "2026-07-27",
+  "province": "安徽",
+  "city": "合肥",
+  "website": "www.cxmt.com",
+  "chairman": "朱一明",
+  "employees": 19298,
+  "business_summary": "DRAM产品的研发、设计、生产及销售",
+  "profile": "长鑫科技集团股份有限公司是一家一体化存储器制造公司,专注于动态随机存取存储芯片(DRAM)的设计、研发、生产和销售。创立于2016年,长鑫存储总部位于安徽合肥,在国内外拥有多个研发中心和分支机构。长鑫存储的技术团队拥有丰富的技术研发经验和创新能力,已推出多款DRAM商用产品,广泛应用于移动终端、电脑、服务器、虚拟现实和物联网等领域。我们将凭借值得信赖的产品和服务满足不断增长的市场需求,致力于成为技术领先的人工智能时代的核心制造商,以先进技术,赋能智能社会,改善人类生活。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 39.7,
+  "change_pct": -3.1,
+  "total_mv": 2694998733356.9,
+  "float_mv": 178770647148.7,
+  "total_shares": 67884099077,
+  "float_shares": 4503038971,
+  "pe_ttm": 32.94,
+  "pe_static": 1437.44,
+  "pb": 20.0,
+  "ps_ttm": 13.7,
+  "turnover_rate": 6.74,
+  "amount": 12112667547.0,
+  "high_52w": 61.8,
+  "low_52w": 38.11,
+  "ytd_return": null,
+  "return_1y": null,
+  "return_3y": null,
+  "dividend_yield": 0.0,
+  "index_members": []
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": null,
+    "revenue_yoy": null,
+    "net_profit": null,
+    "net_profit_yoy": null,
+    "net_profit_deducted": null,
+    "gross_margin": null,
+    "net_margin": null,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": null,
+    "bvps": null,
+    "roe": null,
+    "roa": null,
+    "total_assets": null,
+    "total_liab": null,
+    "debt_ratio": null,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": null,
+    "ocf": null,
+    "capex": null,
+    "fcf": null,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 8286544724.63,
+    "revenue_yoy": null,
+    "net_profit": -8328003920.35,
+    "net_profit_yoy": null,
+    "net_profit_deducted": -8625860000.0,
+    "gross_margin": -3.13,
+    "net_margin": -110.67,
+    "selling_expense_ratio": 1.28,
+    "admin_expense_ratio": 10.52,
+    "finance_expense_ratio": 21.67,
+    "rd_expense": 2486388251.61,
+    "rd_ratio": 30.01,
+    "eps": -0.16,
+    "bvps": 0.93,
+    "roe": -15.79,
+    "roa": -12.42,
+    "total_assets": 147693939179.29,
+    "total_liab": 83477602778.77,
+    "debt_ratio": 56.52,
+    "cash": 32072404149.51,
+    "receivables": 123502998.4,
+    "inventory": 6916736143.01,
+    "goodwill": null,
+    "interest_debt": 69058281563.28,
+    "equity_parent": 49671675996.48,
+    "ocf": -1957166487.63,
+    "capex": 35430730427.64,
+    "fcf": -37387896915.27,
+    "ocf_to_np": 0.24
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 9087147184.13,
+    "revenue_yoy": 9.66,
+    "net_profit": -16339777193.36,
+    "net_profit_yoy": -96.2,
+    "net_profit_deducted": -16752003800.0,
+    "gross_margin": -1.93,
+    "net_margin": -211.56,
+    "selling_expense_ratio": 1.88,
+    "admin_expense_ratio": 25.03,
+    "finance_expense_ratio": 21.29,
+    "rd_expense": 4520470733.55,
+    "rd_ratio": 49.75,
+    "eps": -0.3,
+    "bvps": 0.66,
+    "roe": -38.28,
+    "roa": -11.29,
+    "total_assets": 192756332790.52,
+    "total_liab": 127642949977.86,
+    "debt_ratio": 66.22,
+    "cash": 31373547153.52,
+    "receivables": 398716292.54,
+    "inventory": 10736177312.42,
+    "goodwill": null,
+    "interest_debt": 101241480921.94,
+    "equity_parent": 35595349947.4,
+    "ocf": -7271620729.31,
+    "capex": 43658339783.92,
+    "fcf": -50929960513.23,
+    "ocf_to_np": 0.45
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 24178248674.03,
+    "revenue_yoy": 166.07,
+    "net_profit": -7144887248.88,
+    "net_profit_yoy": 56.27,
+    "net_profit_deducted": -7870032300.0,
+    "gross_margin": 5.58,
+    "net_margin": -37.43,
+    "selling_expense_ratio": 0.93,
+    "admin_expense_ratio": 9.75,
+    "finance_expense_ratio": 9.12,
+    "rd_expense": 4607283459.75,
+    "rd_ratio": 19.06,
+    "eps": -0.13,
+    "bvps": 0.72,
+    "roe": -17.54,
+    "roa": -3.9,
+    "total_assets": 271598831026.52,
+    "total_liab": 167341953553.94,
+    "debt_ratio": 61.61,
+    "cash": 42698683658.53,
+    "receivables": 1845888030.46,
+    "inventory": 18549529584.42,
+    "goodwill": null,
+    "interest_debt": 129159451802.48,
+    "equity_parent": 41419661577.96,
+    "ocf": 6897458532.98,
+    "capex": 71229681134.8,
+    "fcf": -64332222601.82,
+    "ocf_to_np": -0.97
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 61799321546.81,
+    "revenue_yoy": 155.6,
+    "net_profit": 1874859379.01,
+    "net_profit_yoy": 126.24,
+    "net_profit_deducted": 5315886200.0,
+    "gross_margin": 40.99,
+    "net_margin": 11.56,
+    "selling_expense_ratio": 0.55,
+    "admin_expense_ratio": 10.73,
+    "finance_expense_ratio": 4.78,
+    "rd_expense": 9593254617.13,
+    "rd_ratio": 15.52,
+    "eps": 0.03,
+    "bvps": 0.94,
+    "roe": 3.83,
+    "roa": 2.35,
+    "total_assets": 336784922216.18,
+    "total_liab": 182684982794.1,
+    "debt_ratio": 54.24,
+    "cash": 51990220162.31,
+    "receivables": 1523740591.27,
+    "inventory": 28567686719.81,
+    "goodwill": null,
+    "interest_debt": 146532578330.02,
+    "equity_parent": 56753704224.63,
+    "ocf": 36519813259.82,
+    "capex": 49739203349.94,
+    "fcf": -13219390090.12,
+    "ocf_to_np": 19.48
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 150310076758.0,
+   "revenue_yoy": 873.64,
+   "net_profit": 77605227520.0,
+   "net_profit_yoy": 3427.76,
+   "net_profit_deducted": 78793025367.21,
+   "gross_margin": 84.74,
+   "net_margin": 71.55,
+   "roe": 81.06,
+   "eps": 1.29,
+   "debt_ratio": 42.16,
+   "ocf": 131155666051.14
+  },
+  "derived": {
+   "revenue_cagr_3y": 95.38,
+   "net_profit_cagr_3y": null,
+   "receivables_to_revenue": 2.47,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "无实际控制人",
+  "controlling_shareholder": "合肥清辉集电企业管理合伙企业(有限合伙)",
+  "controlling_ratio": 21.67,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "合肥清辉集电企业管理合伙企业(有限合伙)",
+    "hold_num": 13043754927,
+    "hold_ratio": 21.67,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "合肥长鑫集成电路有限责任公司",
+    "hold_num": 7047835098,
+    "hold_ratio": 11.71,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "华芯投资管理有限责任公司-国家集成电路产业投资基金二期股份有限公司",
+    "hold_num": 5256073841,
+    "hold_ratio": 8.73,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "合肥集鑫企业管理合伙企业(有限合伙)",
+    "hold_num": 5037363842,
+    "hold_ratio": 8.37,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "安徽省投资集团控股有限公司",
+    "hold_num": 4760494499,
+    "hold_ratio": 7.91,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "浙江阿里巴巴云计算有限公司",
+    "hold_num": 2319202025,
+    "hold_ratio": 3.85,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "合肥产投壹号股权投资合伙企业(有限合伙)",
+    "hold_num": 1111114120,
+    "hold_ratio": 1.85,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "兆易创新科技集团股份有限公司",
+    "hold_num": 1085672415,
+    "hold_ratio": 1.8,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "招银国际资本管理(深圳)有限公司-深圳市招银云亭成长股权投资基金合伙企业(有限合伙)",
+    "hold_num": 952098900,
+    "hold_ratio": 1.58,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 10,
+    "name": "合肥建长股权投资合伙企业(有限合伙)",
+    "hold_num": 901314180,
+    "hold_ratio": 1.5,
+    "hold_num_change": 0
+   }
+  ],
+  "holder_num": 60,
+  "holder_num_change_pct": 0.0,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 0.1,
+  "northbound_ratio": null,
+  "executives": [
+   {
+    "name": "朱一明",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "赵纶",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "袁园",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.0,
+  "unlock_12m": [
+   {
+    "date": "2027-01-27",
+    "shares": 1521197917,
+    "ratio": 2.24
+   },
+   {
+    "date": "2027-07-27",
+    "shares": 22277045440,
+    "ratio": 32.82
+   }
+  ]
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": 0.0,
+    "dividend_yield": 0.0,
+    "ex_date": null
+   }
+  ],
+  "consecutive_years": 0,
+  "cum_dividend_5y": 0.0,
+  "cum_netprofit_5y": -29937808983.58,
+  "payout_5y": null,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [
+   "688981.SH",
+   "688256.SH",
+   "688041.SH",
+   "002371.SZ"
+  ],
+  "segments": [
+   {
+    "name": "LPDDR系列",
+    "revenue": 40703545008.2,
+    "ratio": 65.86,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "DDR系列",
+    "revenue": 19531285569.6,
+    "ratio": 31.6,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他产品及服务",
+    "revenue": 1040541499.97,
+    "ratio": 1.68,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 523949469.04,
+    "ratio": 0.85,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "境外",
+    "revenue": 35053542100.0,
+    "ratio": 56.72,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "境内",
+    "revenue": 26221830000.0,
+    "ratio": 42.43,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 523949500.0,
+    "ratio": 0.85,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "2026年第二次临时股东会决议公告",
+    "date": "2026-10-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-20/1225611371.PDF",
+    "type": null
+   },
+   {
+    "title": "上海市锦天城律师事务所关于长鑫科技集团股份有限公司2026年第二次临时股东会之法律意见书",
+    "date": "2026-10-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-20/1225611369.PDF",
+    "type": null
+   },
+   {
+    "title": "关于收到公司董事长提议回购公司股份的提示性公告",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225609861.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年前三季度业绩预告的自愿性披露公告",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225609860.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年第二次临时股东会会议资料",
+    "date": "2026-10-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225601869.PDF",
+    "type": null
+   },
+   {
+    "title": "对外担保管理制度",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225586349.PDF",
+    "type": null
+   },
+   {
+    "title": "募集资金管理制度",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225586348.PDF",
+    "type": null
+   },
+   {
+    "title": "关于部分募集资金投资项目新增实施主体及调整内部投资结构的公告",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225586347.PDF",
+    "type": null
+   },
+   {
+    "title": "关于修订《公司章程》并办理工商变更登记及修订、制定部分公司治理制度的公告",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225586346.PDF",
+    "type": null
+   },
+   {
+    "title": "关于使用部分超募资金投资建设新项目的公告",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225586345.PDF",
+    "type": null
+   },
+   {
+    "title": "中国国际金融股份有限公司、中信建投证券股份有限公司关于长鑫科技集团股份有限公司关于使用部分超募资金投资建设新项目的核查意见",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225586344.PDF",
+    "type": null
+   },
+   {
+    "title": "董事和高级管理人员薪酬管理制度",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225586343.PDF",
+    "type": null
+   },
+   {
+    "title": "对外投资管理制度",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225586342.PDF",
+    "type": null
+   },
+   {
+    "title": "关于增加2026年度日常关联交易预计额度及预计2027年1-4月日常关联交易额度公告",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225586341.PDF",
+    "type": null
+   },
+   {
+    "title": "股东会议事规则",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225586340.PDF",
+    "type": null
+   },
+   {
+    "title": "关联交易管理制度",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225586339.PDF",
+    "type": null
+   },
+   {
+    "title": "中国国际金融股份有限公司、中信建投证券股份有限公司关于长鑫科技集团股份有限公司关于使用募集资金置换预先投入募投项目及已支付发行费用的自筹资金的核查意见",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225586338.PDF",
+    "type": null
+   },
+   {
+    "title": "中国国际金融股份有限公司、中信建投证券股份有限公司关于长鑫科技集团股份有限公司关于使用自有资金支付募投项目所需资金并以募集资金等额置换的核查意见",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225586337.PDF",
+    "type": null
+   },
+   {
+    "title": "长鑫科技集团股份有限公司章程",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225586336.PDF",
+    "type": null
+   },
+   {
+    "title": "董事和高级管理人员所持公司股份及其变动管理制度",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225586335.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 58
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "请问公司二季度末合同负债环比减少了24亿元，降幅达到70%，是否预示着订单相应减少相近的幅度？谢谢！",
+    "answer": null,
+    "ask_date": "2026-10-20",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=343138"
+   },
+   {
+    "question": "尊敬的董秘：您好！首先恭喜LPDDR6研发成功上线，请问该产品在AI手机、端侧智能等领域的客户导入与放量节奏如何？对产品结构升级、毛利率提升及长期竞争格局有哪些积极影响？另外，市场关注三季报，若业绩超预期并触及预告标准，公司是否会提前发布业绩预告？望答复，谢谢！",
+    "answer": null,
+    "ask_date": "2026-10-09",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=343138"
+   }
+  ],
+  "count_12m": null
+ }
+}

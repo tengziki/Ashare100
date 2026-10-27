@@ -1,0 +1,628 @@
+{
+ "identity": {
+  "code": "601288",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "中国农业银行股份有限公司",
+  "name_abbr": "农业银行",
+  "aliases": [
+   "nyyh",
+   "农行"
+  ],
+  "name_en": "AGRICULTURAL BANK OF CHINA LIMITED",
+  "pinyin_abbr": "NYYH",
+  "former_names": [],
+  "industry_sw1": "银行",
+  "industry_sw2": "国有大型银行Ⅱ",
+  "list_date": "2010-07-15",
+  "province": "北京",
+  "city": "北京",
+  "website": "www.abchina.com.cn",
+  "chairman": "谷澍",
+  "employees": 457835,
+  "business_summary": "吸收公众存款；发放短期、中期和长期贷款；办理国内外结算",
+  "profile": "中国农业银行股份有限公司的前身最早可追溯至1951年成立的农业合作银行。自1979年2月恢复成立以来,本行相继经历了国家专业银行、国有独资商业银行和国有控股商业银行等不同发展阶段。2009年1月,本行整体改制为股份有限公司。2010年7月,本行分别在上海证券交易所和香港联合交易所挂牌上市。 本行是中国主要的综合性金融服务提供商之一,以高质量发展为主题,突出“服务乡村振兴的领军银行”和“服务实体经济的主力银行”两大定位,全面实施“三农”普惠、绿色金融、数字经营三大战略。本行凭借全面的业务组合、庞大的分销网络和领先的技术平台,向广大客户提供各种公司银行和零售银行产品和服务,同时开展金融市场业务及资产管理业务,业务范围还涵盖投资银行、基金管理、金融租赁、人寿保险等领域。本行控股子公司主要包括综合化经营子公司、境外子行等。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 7.4,
+  "change_pct": 1.51,
+  "total_mv": 2589874450660.2,
+  "float_mv": 2362407159749.8,
+  "total_shares": 349983033873,
+  "float_shares": 319244210777,
+  "pe_ttm": 8.69,
+  "pe_static": 8.9,
+  "pb": 0.91,
+  "ps_ttm": 3.38,
+  "turnover_rate": 0.15,
+  "amount": 3504339102.0,
+  "high_52w": 8.3,
+  "low_52w": 5.66,
+  "ytd_return": -0.27,
+  "return_1y": -4.03,
+  "return_3y": 163.53,
+  "dividend_yield": 3.37,
+  "index_members": [
+   "上证50",
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 719915000000.0,
+    "revenue_yoy": 9.42,
+    "net_profit": 241183000000.0,
+    "net_profit_yoy": 11.7,
+    "net_profit_deducted": 241148000000.0,
+    "gross_margin": null,
+    "net_margin": 33.61,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 0.65,
+    "bvps": 5.87,
+    "roe": 11.57,
+    "roa": 0.86,
+    "total_assets": 29069155000000.0,
+    "total_liab": 26647796000000.0,
+    "debt_ratio": 91.67,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 1381000000.0,
+    "interest_debt": null,
+    "equity_parent": 2414605000000.0,
+    "ocf": 239615000000.0,
+    "capex": 26033000000.0,
+    "fcf": 213582000000.0,
+    "ocf_to_np": 0.99
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 694652000000.0,
+    "revenue_yoy": -3.51,
+    "net_profit": 259232000000.0,
+    "net_profit_yoy": 7.48,
+    "net_profit_deducted": 259654000000.0,
+    "gross_margin": null,
+    "net_margin": 37.27,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 0.69,
+    "bvps": 6.37,
+    "roe": 11.29,
+    "roa": 0.82,
+    "total_assets": 33925488000000.0,
+    "total_liab": 31251728000000.0,
+    "debt_ratio": 92.12,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 1381000000.0,
+    "interest_debt": null,
+    "equity_parent": 2668063000000.0,
+    "ocf": 1322003000000.0,
+    "capex": 22092000000.0,
+    "fcf": 1299911000000.0,
+    "ocf_to_np": 5.1
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 694828000000.0,
+    "revenue_yoy": 0.03,
+    "net_profit": 269356000000.0,
+    "net_profit_yoy": 3.91,
+    "net_profit_deducted": 269286000000.0,
+    "gross_margin": null,
+    "net_margin": 38.83,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 0.72,
+    "bvps": 6.88,
+    "roe": 10.91,
+    "roa": 0.73,
+    "total_assets": 39872989000000.0,
+    "total_liab": 36976122000000.0,
+    "debt_ratio": 92.73,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 1381000000.0,
+    "interest_debt": null,
+    "equity_parent": 2889248000000.0,
+    "ocf": 1825282000000.0,
+    "capex": 28827000000.0,
+    "fcf": 1796455000000.0,
+    "ocf_to_np": 6.78
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 710555000000.0,
+    "revenue_yoy": 2.26,
+    "net_profit": 282083000000.0,
+    "net_profit_yoy": 4.72,
+    "net_profit_deducted": 281561000000.0,
+    "gross_margin": null,
+    "net_margin": 39.78,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 0.75,
+    "bvps": 7.4,
+    "roe": 10.46,
+    "roa": 0.68,
+    "total_assets": 43238135000000.0,
+    "total_liab": 40140862000000.0,
+    "debt_ratio": 92.84,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 1381000000.0,
+    "interest_debt": null,
+    "equity_parent": 3090808000000.0,
+    "ocf": 1353042000000.0,
+    "capex": 24223000000.0,
+    "fcf": 1328819000000.0,
+    "ocf_to_np": 4.8
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 725306000000.0,
+    "revenue_yoy": 2.08,
+    "net_profit": 291041000000.0,
+    "net_profit_yoy": 3.18,
+    "net_profit_deducted": 291366000000.0,
+    "gross_margin": null,
+    "net_margin": 40.26,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 0.78,
+    "bvps": 7.91,
+    "roe": 10.16,
+    "roa": 0.63,
+    "total_assets": 48784674000000.0,
+    "total_liab": 45541303000000.0,
+    "debt_ratio": 93.35,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 10921000000.0,
+    "interest_debt": null,
+    "equity_parent": 3237182000000.0,
+    "ocf": 2112907000000.0,
+    "capex": 27348000000.0,
+    "fcf": 2085559000000.0,
+    "ocf_to_np": 7.26
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 410871000000.0,
+   "revenue_yoy": 11.07,
+   "net_profit": 146381000000.0,
+   "net_profit_yoy": 4.93,
+   "net_profit_deducted": 146449000000.0,
+   "gross_margin": null,
+   "net_margin": 36.04,
+   "roe": 5.07,
+   "eps": 0.4,
+   "debt_ratio": 93.47,
+   "ocf": 287612000000.0
+  },
+  "derived": {
+   "revenue_cagr_3y": 1.45,
+   "net_profit_cagr_3y": 3.93,
+   "receivables_to_revenue": null,
+   "goodwill_to_equity": 0.34
+  }
+ },
+ "shareholders": {
+  "controller": "无实际控制人",
+  "controlling_shareholder": "中央汇金投资有限责任公司",
+  "controlling_ratio": 40.14,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "中央汇金投资有限责任公司",
+    "hold_num": 140488809651,
+    "hold_ratio": 40.14,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "中华人民共和国财政部",
+    "hold_num": 123515185240,
+    "hold_ratio": 35.29,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "香港中央结算(代理人)有限公司",
+    "hold_num": 30564242858,
+    "hold_ratio": 8.73,
+    "hold_num_change": 1440132
+   },
+   {
+    "rank": 4,
+    "name": "全国社会保障基金理事会",
+    "hold_num": 23520968297,
+    "hold_ratio": 6.72,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "中国平安人寿保险股份有限公司",
+    "hold_num": 5850671870,
+    "hold_ratio": 1.67,
+    "hold_num_change": -4276000
+   },
+   {
+    "rank": 6,
+    "name": "中国烟草总公司",
+    "hold_num": 2518891687,
+    "hold_ratio": 0.72,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "中国证券金融股份有限公司",
+    "hold_num": 1842751177,
+    "hold_ratio": 0.53,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "上海海烟投资管理有限公司",
+    "hold_num": 1259445843,
+    "hold_ratio": 0.36,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "中央汇金资产管理有限责任公司",
+    "hold_num": 1255434700,
+    "hold_ratio": 0.36,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 10,
+    "name": "香港中央结算有限公司",
+    "hold_num": 1150947129,
+    "hold_ratio": 0.33,
+    "hold_num_change": -58446769
+   }
+  ],
+  "holder_num": 657732,
+  "holder_num_change_pct": -1.33,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 2.32,
+  "northbound_ratio": 0.33,
+  "executives": [
+   {
+    "name": "谷澍",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "王志恒",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "刘清",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.02,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.2068,
+    "total_amount": 72376491404.94,
+    "payout_ratio": 30.01,
+    "dividend_yield": 7.01,
+    "ex_date": "2022-07-15"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.2222,
+    "total_amount": 77766230126.58,
+    "payout_ratio": 30.0,
+    "dividend_yield": 6.14,
+    "ex_date": "2023-07-18"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.2309,
+    "total_amount": 80811082521.28,
+    "payout_ratio": 30.0,
+    "dividend_yield": 5.21,
+    "ex_date": "2024-06-07"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.2419,
+    "total_amount": 84660895893.88,
+    "payout_ratio": 30.01,
+    "dividend_yield": 2.1,
+    "ex_date": "2025-01-08"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.2495,
+    "total_amount": 87320766951.31,
+    "payout_ratio": 30.0,
+    "dividend_yield": 1.74,
+    "ex_date": "2025-12-15"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 402935466897.99,
+  "cum_netprofit_5y": 1342895000000.0,
+  "payout_5y": 30.0,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "601398.SH",
+   "601939.SH",
+   "601988.SH",
+   "601328.SH"
+  ],
+  "segments": [
+   {
+    "name": "个人银行业务",
+    "revenue": 383297000000.0,
+    "ratio": 52.85,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "公司银行业务",
+    "revenue": 263574000000.0,
+    "ratio": 36.34,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "资金运营业务",
+    "revenue": 52055000000.0,
+    "ratio": 7.18,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他业务",
+    "revenue": 26380000000.0,
+    "ratio": 3.64,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "长江三角洲地区",
+    "revenue": 171406000000.0,
+    "ratio": 23.63,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "西部地区",
+    "revenue": 162854000000.0,
+    "ratio": 22.45,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "中部地区",
+    "revenue": 129406000000.0,
+    "ratio": 17.84,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "环渤海地区",
+    "revenue": 113013000000.0,
+    "ratio": 15.58,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "珠江三角洲地区",
+    "revenue": 107170000000.0,
+    "ratio": 14.78,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "境外及其他",
+    "revenue": 32642000000.0,
+    "ratio": 4.5,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "总行",
+    "revenue": -17900000000.0,
+    "ratio": -2.47,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "农业银行H股公告",
+    "date": "2026-10-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-22/1225614840.PDF",
+    "type": null
+   },
+   {
+    "title": "农业银行H股公告",
+    "date": "2026-10-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612275.PDF",
+    "type": null
+   },
+   {
+    "title": "农业银行关于2026年总损失吸收能力非资本债券（第三期）（债券通）发行完毕的公告",
+    "date": "2026-10-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225606718.PDF",
+    "type": null
+   },
+   {
+    "title": "毕马威华振会计师事务所（特殊普通合伙）关于中国农业银行股份有限公司向特定对象发行股票申请文件的审核问询函回复的专项说明",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225605186.PDF",
+    "type": null
+   },
+   {
+    "title": "农业银行关于向特定对象发行股票申请文件的审核问询函回复的提示性公告",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225605177.PDF",
+    "type": null
+   },
+   {
+    "title": "关于中国农业银行股份有限公司向特定对象发行股票申请文件的审核问询函的回复",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225605155.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市金杜律师事务所关于中国农业银行股份有限公司向特定对象发行A股股票之补充法律意见书（一）",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225605153.PDF",
+    "type": null
+   },
+   {
+    "title": "农业银行2026年半年度A股分红派息实施公告",
+    "date": "2026-10-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225603308.PDF",
+    "type": null
+   },
+   {
+    "title": "农业银行关于向特定对象发行A股股票申请获得上海证券交易所受理的公告",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597697.PDF",
+    "type": null
+   },
+   {
+    "title": "中国农业银行股份有限公司向特定对象发行A股股票募集说明书（申报稿）",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597693.PDF",
+    "type": null
+   },
+   {
+    "title": "中信证券股份有限公司、中国国际金融股份有限公司关于中国农业银行股份有限公司向特定对象发行A股股票之上市保荐书",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597692.PDF",
+    "type": null
+   },
+   {
+    "title": "毕马威华振会计师事务所（特殊普通合伙）关于中国农业银行股份有限公司向特定对象发行A股股票的财务报告及其审计报告",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597688.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市金杜律师事务所关于中国农业银行股份有限公司向特定对象发行A股股票之法律意见书",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597671.PDF",
+    "type": null
+   },
+   {
+    "title": "中信证券股份有限公司、中国国际金融股份有限公司关于中国农业银行股份有限公司向特定对象发行A股股票之发行保荐书",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597662.PDF",
+    "type": null
+   },
+   {
+    "title": "农业银行H股公告",
+    "date": "2026-10-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225591139.PDF",
+    "type": null
+   },
+   {
+    "title": "农业银行2026年度第二次临时股东会决议公告",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225589491.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市金杜律师事务所关于中国农业银行股份有限公司2026年度第二次临时股东会的法律意见书",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225589490.PDF",
+    "type": null
+   },
+   {
+    "title": "农业银行关于2026年二级资本债券（第三期）（债券通）发行完毕的公告",
+    "date": "2026-09-25",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-25/1225582526.PDF",
+    "type": null
+   },
+   {
+    "title": "农业银行关于非执行董事任职的公告",
+    "date": "2026-09-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225579851.PDF",
+    "type": null
+   },
+   {
+    "title": "农业银行关于召开2026年度第二次临时股东会的通知",
+    "date": "2026-09-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-11/1225557532.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 116
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "根据2025年年报，农业银行“主营业务税金及附加”高达78.4亿元。在银行业整体面临息差收窄、营收增长承压的背景下，这笔巨额税金及附加的具体构成是什么？是否存在通过大量开展高税负业务（如金融商品买卖）来虚增规模，以掩盖主业增长乏力的嫌疑？管理层对此有无优化业务结构、降低税负成本的具体举措？",
+    "answer": "感谢您对农业银行发展的关心！ 我行2025年度税金及附加78.4亿元，包括城市维护建设税、教育费附加、房产税等，是我行根据业务发展情况，按照国家税收政策法规，依法合规计提缴纳，整体税负水平同业可比。我行始终坚持服务实体经济导向，强化税务精细化管理，同时，积极落实国家各项税收优惠政策，通过持续优化业务结构、用足用好税收优惠政策，推进税务赋能业务发展动力。",
+    "ask_date": "2026-08-05",
+    "answer_date": "2026-09-23",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1288"
+   },
+   {
+    "question": "公司2025年信息科技资金投入高达256.47亿元，科技与数字化运行管理人员达28411人。在如此巨额投入之下，这些资源究竟转化为了哪些具有行业竞争力的核心技术或专利？与工行科技人员占全行9.8%、交行占9.99%相比，公司科技人员仅占总人数6.2%，投入产出比是否严重偏低？",
+    "answer": "感谢您对农业银行发展的关心！ 本行高度重视信息科技工作，制定《中国农业银行信息化建设“十五五”发展规划》，构建信息科技投入的长效管理机制，不断加快科技人才培养，深入推进智慧银行建设。截至2026年6月末，在客户服务方面，个人手机银行月活客户超2.82亿户，移动端月活客户2.95亿户，均同业领先；“农银惠农云”平台入驻机构44.5万个，覆盖2,703个县（区）。在基层减负方面，在业内率先推出企业级数字助手“一明”，将AI能力嵌入客户服务、业务管理、日常办公等场景。在风险防控方面，创新落地贷后情况跟踪和续贷帮扶两款AI风控智能体，推动普惠风控全流程智能化升级。本行将持续推进科技赋能业务发展，不断提升金融服务质效。",
+    "ask_date": "2026-08-05",
+    "answer_date": "2026-09-23",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1288"
+   }
+  ],
+  "count_12m": null
+ }
+}

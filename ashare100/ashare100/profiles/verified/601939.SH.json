@@ -1,0 +1,618 @@
+{
+ "identity": {
+  "code": "601939",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "中国建设银行股份有限公司",
+  "name_abbr": "建设银行",
+  "aliases": [
+   "jsyh",
+   "建行"
+  ],
+  "name_en": "China Construction Bank Corporation",
+  "pinyin_abbr": "JSYH",
+  "former_names": [],
+  "industry_sw1": "银行",
+  "industry_sw2": "国有大型银行Ⅱ",
+  "list_date": "2007-09-25",
+  "province": "北京",
+  "city": "北京",
+  "website": "www.ccb.cn",
+  "chairman": "张金良",
+  "employees": 378344,
+  "business_summary": "公司金融业务、个人金融业务、资金资管业务和包括境外业务在内的其他业务",
+  "profile": "中国建设银行股份有限公司是一家中国领先的大型商业银行,总部设在北京,其前身中国人民建设银行成立于1954年10月。本行2005年10月在香港联合交易所挂牌上市(股票代码939),2007年9月在上海证券交易所挂牌上市(股票代码601939)。位列英国《银行家》杂志“2024年全球银行1000强榜单”第二名和英国BrandFinance“全球银行品牌价值500强”第二名。本行为客户提供公司金融业务、个人金融业务、资金资管业务等全面的金融服务,服务个人客户和公司类客户,并在基金、租赁、信托、保险、期货、养老金、投行等多个行业拥有子公司。本集团自觉践行金融工作的政治性、人民性,加强对国家重大战略、重点领域和薄弱环节的优质金融服务,全力做好科技金融、绿色金融、普惠金融、养老金融、数字金融“五篇大文章”,积极支持新质生产力发展,有力服务实体经济,助力高水平对外开放和区域协调发展,坚守主责主业,锚定做优做强,不断增强“三个能力”,自觉融入进一步全面深化改革大局,坚定不移推进高质量发展。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 11.66,
+  "change_pct": 1.48,
+  "total_mv": 3050260447811.94,
+  "float_mv": 111862047685.96,
+  "total_shares": 261600381459,
+  "float_shares": 9593657606,
+  "pe_ttm": 8.81,
+  "pe_static": 9.0,
+  "pb": 0.85,
+  "ps_ttm": 3.8,
+  "turnover_rate": 1.59,
+  "amount": 1763166571.0,
+  "high_52w": 11.74,
+  "low_52w": 8.32,
+  "ytd_return": 28.46,
+  "return_1y": 29.69,
+  "return_3y": 117.62,
+  "dividend_yield": 3.33,
+  "index_members": [
+   "沪深300"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 824246000000.0,
+    "revenue_yoy": 9.05,
+    "net_profit": 302513000000.0,
+    "net_profit_yoy": 11.61,
+    "net_profit_deducted": 302694000000.0,
+    "gross_margin": null,
+    "net_margin": 36.87,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.19,
+    "bvps": 9.95,
+    "roe": 12.55,
+    "roa": 1.04,
+    "total_assets": 30253979000000.0,
+    "total_liab": 27639857000000.0,
+    "debt_ratio": 91.36,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 2141000000.0,
+    "interest_debt": null,
+    "equity_parent": 2588231000000.0,
+    "ocf": 436718000000.0,
+    "capex": 21235000000.0,
+    "fcf": 415483000000.0,
+    "ocf_to_np": 1.44
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 783760000000.0,
+    "revenue_yoy": -4.91,
+    "net_profit": 324727000000.0,
+    "net_profit_yoy": 7.34,
+    "net_profit_deducted": 324569000000.0,
+    "gross_margin": null,
+    "net_margin": 41.45,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.28,
+    "bvps": 10.87,
+    "roe": 12.3,
+    "roa": 1.0,
+    "total_assets": 34600711000000.0,
+    "total_liab": 31724467000000.0,
+    "debt_ratio": 91.69,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 2256000000.0,
+    "interest_debt": null,
+    "equity_parent": 2855450000000.0,
+    "ocf": 978419000000.0,
+    "capex": 23751000000.0,
+    "fcf": 954668000000.0,
+    "ocf_to_np": 3.01
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 769736000000.0,
+    "revenue_yoy": -1.79,
+    "net_profit": 332653000000.0,
+    "net_profit_yoy": 2.44,
+    "net_profit_deducted": 332291000000.0,
+    "gross_margin": null,
+    "net_margin": 43.19,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.31,
+    "bvps": 11.8,
+    "roe": 11.56,
+    "roa": 0.91,
+    "total_assets": 38324826000000.0,
+    "total_liab": 35152752000000.0,
+    "debt_ratio": 91.72,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 2456000000.0,
+    "interest_debt": null,
+    "equity_parent": 3150145000000.0,
+    "ocf": 642850000000.0,
+    "capex": 25093000000.0,
+    "fcf": 617757000000.0,
+    "ocf_to_np": 1.93
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 746970000000.0,
+    "revenue_yoy": -2.96,
+    "net_profit": 335577000000.0,
+    "net_profit_yoy": 0.88,
+    "net_profit_deducted": 335323000000.0,
+    "gross_margin": null,
+    "net_margin": 45.02,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.31,
+    "bvps": 12.65,
+    "roe": 10.69,
+    "roa": 0.85,
+    "total_assets": 40571149000000.0,
+    "total_liab": 37227184000000.0,
+    "debt_ratio": 91.76,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 2522000000.0,
+    "interest_debt": null,
+    "equity_parent": 3322127000000.0,
+    "ocf": 338023000000.0,
+    "capex": 29172000000.0,
+    "fcf": 308851000000.0,
+    "ocf_to_np": 1.01
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 761049000000.0,
+    "revenue_yoy": 1.88,
+    "net_profit": 338906000000.0,
+    "net_profit_yoy": 0.99,
+    "net_profit_deducted": 338783000000.0,
+    "gross_margin": null,
+    "net_margin": 44.65,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 1.3,
+    "bvps": 13.24,
+    "roe": 10.04,
+    "roa": 0.79,
+    "total_assets": 45631818000000.0,
+    "total_liab": 41945741000000.0,
+    "debt_ratio": 91.92,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 2416000000.0,
+    "interest_debt": null,
+    "equity_parent": 3663411000000.0,
+    "ocf": 2101242000000.0,
+    "capex": 23564000000.0,
+    "fcf": 2077678000000.0,
+    "ocf_to_np": 6.2
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 436529000000.0,
+   "revenue_yoy": 10.72,
+   "net_profit": 169564000000.0,
+   "net_profit_yoy": 4.62,
+   "net_profit_deducted": 168269000000.0,
+   "gross_margin": null,
+   "net_margin": 39.33,
+   "roe": 4.76,
+   "eps": 0.65,
+   "debt_ratio": 91.9,
+   "ocf": 350683000000.0
+  },
+  "derived": {
+   "revenue_cagr_3y": -0.98,
+   "net_profit_cagr_3y": 1.43,
+   "receivables_to_revenue": null,
+   "goodwill_to_equity": 0.07
+  }
+ },
+ "shareholders": {
+  "controller": "中国投资有限责任公司",
+  "controlling_shareholder": "中央汇金投资有限责任公司",
+  "controlling_ratio": 54.61,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "中央汇金投资有限责任公司",
+    "hold_num": 142857887595,
+    "hold_ratio": 54.61,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "香港中央结算(代理人)有限公司",
+    "hold_num": 85953826041,
+    "hold_ratio": 32.86,
+    "hold_num_change": 11354472
+   },
+   {
+    "rank": 3,
+    "name": "中华人民共和国财政部",
+    "hold_num": 11589403973,
+    "hold_ratio": 4.43,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "中国长城资产管理股份有限公司",
+    "hold_num": 7865000000,
+    "hold_ratio": 3.01,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "中国证券金融股份有限公司",
+    "hold_num": 2189259672,
+    "hold_ratio": 0.84,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "国家电网有限公司",
+    "hold_num": 1611413730,
+    "hold_ratio": 0.62,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "益嘉投资有限责任公司",
+    "hold_num": 856000000,
+    "hold_ratio": 0.33,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "中国长江电力股份有限公司",
+    "hold_num": 648993000,
+    "hold_ratio": 0.25,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "香港中央结算有限公司",
+    "hold_num": 628582239,
+    "hold_ratio": 0.24,
+    "hold_num_change": -57744761
+   },
+   {
+    "rank": 10,
+    "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+    "hold_num": 542588282,
+    "hold_ratio": 0.21,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 292731,
+  "holder_num_change_pct": -1.17,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 12.52,
+  "northbound_ratio": 0.24,
+  "executives": [
+   {
+    "name": "张金良",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "张毅",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "纪志宏",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.96,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.364,
+    "total_amount": 91003995804.9,
+    "payout_ratio": 30.08,
+    "dividend_yield": 5.98,
+    "ex_date": "2022-07-08"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.389,
+    "total_amount": 97254270242.05,
+    "payout_ratio": 29.95,
+    "dividend_yield": 6.1,
+    "ex_date": "2023-07-14"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.4,
+    "total_amount": 100004390994.4,
+    "payout_ratio": 30.06,
+    "dividend_yield": 5.2,
+    "ex_date": "2024-07-12"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.403,
+    "total_amount": 100754423926.86,
+    "payout_ratio": 30.02,
+    "dividend_yield": 2.23,
+    "ex_date": "2025-01-10"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.3887,
+    "total_amount": 101684068273.11,
+    "payout_ratio": 30.0,
+    "dividend_yield": 2.02,
+    "ex_date": "2025-12-11"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 490701149241.32,
+  "cum_netprofit_5y": 1634376000000.0,
+  "payout_5y": 30.02,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "601398.SH",
+   "601288.SH",
+   "601988.SH",
+   "601328.SH"
+  ],
+  "segments": [
+   {
+    "name": "个人金融业务",
+    "revenue": 358418000000.0,
+    "ratio": 47.1,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "公司金融业务",
+    "revenue": 229635000000.0,
+    "ratio": 30.17,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "资金资管业务",
+    "revenue": 144507000000.0,
+    "ratio": 18.99,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他业务",
+    "revenue": 28489000000.0,
+    "ratio": 3.74,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "长江三角洲",
+    "revenue": 136456000000.0,
+    "ratio": 17.93,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "环渤海地区",
+    "revenue": 123727000000.0,
+    "ratio": 16.26,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "总行",
+    "revenue": 123710000000.0,
+    "ratio": 16.26,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "西部地区",
+    "revenue": 115568000000.0,
+    "ratio": 15.19,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "中部地区",
+    "revenue": 108823000000.0,
+    "ratio": 14.3,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "珠江三角洲",
+    "revenue": 98601000000.0,
+    "ratio": 12.96,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "境外",
+    "revenue": 27510000000.0,
+    "ratio": 3.61,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "建设银行董事会会议通告",
+    "date": "2026-10-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225611975.PDF",
+    "type": null
+   },
+   {
+    "title": "建设银行H股公告-2026年半年度报告",
+    "date": "2026-09-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225585148.PDF",
+    "type": null
+   },
+   {
+    "title": "建设银行关于境内2026年无固定期限资本债券（第二期）（债券通）发行完毕的公告",
+    "date": "2026-09-24",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225579817.PDF",
+    "type": null
+   },
+   {
+    "title": "建设银行2026年半年度资本管理第三支柱信息披露报告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531679.PDF",
+    "type": null
+   },
+   {
+    "title": "建设银行2026年半年度报告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531678.PDF",
+    "type": null
+   },
+   {
+    "title": "建设银行董事会会议决议公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531672.PDF",
+    "type": null
+   },
+   {
+    "title": "建设银行2026年半年度报告摘要",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531671.PDF",
+    "type": null
+   },
+   {
+    "title": "建设银行2026年中期利润分配方案公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531666.PDF",
+    "type": null
+   },
+   {
+    "title": "建设银行H股-2026年中期业绩公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225530039.PDF",
+    "type": null
+   },
+   {
+    "title": "建设银行关于杨强独立董事任职的公告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225520554.PDF",
+    "type": null
+   },
+   {
+    "title": "建设银行关于境内2026年总损失吸收能力非资本债券（第二期）（债券通）发行完毕的公告",
+    "date": "2026-08-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505794.PDF",
+    "type": null
+   },
+   {
+    "title": "建设银行关于召开2026年中期业绩发布会的公告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225493352.PDF",
+    "type": null
+   },
+   {
+    "title": "建设银行董事会会议通告",
+    "date": "2026-08-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225480048.PDF",
+    "type": null
+   },
+   {
+    "title": "建设银行关于境内2021年二级资本债券（第一期）（品种一）赎回完成的公告",
+    "date": "2026-08-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-12/1225468634.PDF",
+    "type": null
+   },
+   {
+    "title": "建设银行关于境内2026年二级资本债券（第二期）（债券通）发行完毕的公告",
+    "date": "2026-07-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-28/1225442984.PDF",
+    "type": null
+   },
+   {
+    "title": "建设银行2025年年度A股分红派息实施公告",
+    "date": "2026-07-07",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-07/1225411863.PDF",
+    "type": null
+   },
+   {
+    "title": "建设银行关于境内2026年总损失吸收能力非资本债券（第一期）（债券通）发行完毕的公告",
+    "date": "2026-07-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-01/1225399960.PDF",
+    "type": null
+   },
+   {
+    "title": "建设银行2025年度股东会会议决议公告",
+    "date": "2026-06-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-27/1225393391.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市通商律师事务所关于中国建设银行股份有限公司2025年度股东会会议的法律意见书",
+    "date": "2026-06-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-27/1225393389.PDF",
+    "type": null
+   },
+   {
+    "title": "建设银行董事会会议决议公告",
+    "date": "2026-06-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-27/1225393387.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 88
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "贵行股票是沪港通目标股票，我想不明白在这种情况下，两地股票仍存在较大价差，是两地股票不同权吗？",
+    "answer": "感谢您对我行的关注。我行A股和H股是同股同权的。两地股价存在价差，主要因为A股和H股是独立市场，投资者结构、市场流动性、税收政策以及定价锚等方面存在差异，沪股通只是打通投资渠道，但并未完全消除这些根本性差异，这也是A+H上市公司的共性情况。",
+    "ask_date": "2026-08-31",
+    "answer_date": "2026-10-12",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1939"
+   }
+  ],
+  "count_12m": null
+ }
+}

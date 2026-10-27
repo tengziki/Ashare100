@@ -1,0 +1,631 @@
+{
+ "identity": {
+  "code": "601668",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "中国建筑股份有限公司",
+  "name_abbr": "中国建筑",
+  "aliases": [
+   "zgjz"
+  ],
+  "name_en": "China State Construction Engineering Corporation Limited",
+  "pinyin_abbr": "ZGJZ",
+  "former_names": [],
+  "industry_sw1": "建筑装饰",
+  "industry_sw2": "房屋建设Ⅱ",
+  "list_date": "2009-07-29",
+  "province": "北京",
+  "city": "北京",
+  "website": "www.cscec.com",
+  "chairman": "郑学选",
+  "employees": 370272,
+  "business_summary": "主要投资方向为房地产开发、融投资建造、城镇综合建设等领域。公司强化内部资源整合与业务协同",
+  "profile": "中国建筑股份有限公司主要以上市企业中国建筑股份有限公司(股票简称:中国建筑,股票代码601668.SH)为平台开展经营管理活动,公司位列2024年《财富》世界500强第14位,中国企业500强第4位,稳居ENR“全球最大250家工程承包商”首位,保持行业全球最高信用评级,价值创造力、国际竞争力、行业引领力、品牌影响力、文化软实力持续提升。中国建筑的经营区域覆盖我国各省区市以及海外近百个国家和地区,业务布局涵盖房屋建筑、基础设施、地产开发、勘察设计以及新业务(绿色低碳、数字化等)五大板块,具有设计规划、工程建设、投资开发、运营管理、科技创新、设备制造全产业链优势。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 4.5,
+  "change_pct": -0.22,
+  "total_mv": 185941756998.0,
+  "float_mv": 185941756998.0,
+  "total_shares": 41320390444,
+  "float_shares": 41320390444,
+  "pe_ttm": 5.87,
+  "pe_static": 4.76,
+  "pb": 0.38,
+  "ps_ttm": 0.1,
+  "turnover_rate": 0.75,
+  "amount": 1396795559.0,
+  "high_52w": 5.53,
+  "low_52w": 4.01,
+  "ytd_return": -7.37,
+  "return_1y": -16.64,
+  "return_3y": 4.05,
+  "dividend_yield": 6.04,
+  "index_members": [
+   "上证50",
+   "沪深300",
+   "中证A500"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 1892706307000.0,
+    "revenue_yoy": 17.19,
+    "net_profit": 51548576000.0,
+    "net_profit_yoy": 14.74,
+    "net_profit_deducted": 49521361000.0,
+    "gross_margin": 11.35,
+    "net_margin": 4.11,
+    "selling_expense_ratio": 0.33,
+    "admin_expense_ratio": 1.83,
+    "finance_expense_ratio": 0.6,
+    "rd_expense": 40019753000.0,
+    "rd_ratio": 2.11,
+    "eps": 1.25,
+    "bvps": 7.96,
+    "roe": 15.9,
+    "roa": 3.39,
+    "total_assets": 2395321862000.0,
+    "total_liab": 1753642804000.0,
+    "debt_ratio": 73.21,
+    "cash": 328008557000.0,
+    "receivables": 180598582000.0,
+    "inventory": 703452109000.0,
+    "goodwill": 2237894000.0,
+    "interest_debt": 583332071000.0,
+    "equity_parent": 345627781000.0,
+    "ocf": 13989638000.0,
+    "capex": 31370174000.0,
+    "fcf": -17380536000.0,
+    "ocf_to_np": 0.27
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 2055052070000.0,
+    "revenue_yoy": 8.58,
+    "net_profit": 50950301000.0,
+    "net_profit_yoy": -1.16,
+    "net_profit_deducted": 45233864000.0,
+    "gross_margin": 10.46,
+    "net_margin": 3.37,
+    "selling_expense_ratio": 0.32,
+    "admin_expense_ratio": 1.65,
+    "finance_expense_ratio": 0.96,
+    "rd_expense": 49753236000.0,
+    "rd_ratio": 2.42,
+    "eps": 1.23,
+    "bvps": 8.93,
+    "roe": 13.94,
+    "roa": 2.74,
+    "total_assets": 2652903306000.0,
+    "total_liab": 1972516396000.0,
+    "debt_ratio": 74.35,
+    "cash": 335254102000.0,
+    "receivables": 210431620000.0,
+    "inventory": 771548600000.0,
+    "goodwill": 2339280000.0,
+    "interest_debt": 703946698000.0,
+    "equity_parent": 384322141000.0,
+    "ocf": 3828927000.0,
+    "capex": 25948593000.0,
+    "fcf": -22119666000.0,
+    "ocf_to_np": 0.08
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 2265529244000.0,
+    "revenue_yoy": 10.24,
+    "net_profit": 54264173000.0,
+    "net_profit_yoy": 6.5,
+    "net_profit_deducted": 48538669000.0,
+    "gross_margin": 9.83,
+    "net_margin": 3.25,
+    "selling_expense_ratio": 0.34,
+    "admin_expense_ratio": 1.52,
+    "finance_expense_ratio": 0.82,
+    "rd_expense": 46073572000.0,
+    "rd_ratio": 2.03,
+    "eps": 1.31,
+    "bvps": 9.98,
+    "roe": 13.36,
+    "roa": 2.65,
+    "total_assets": 2903322519000.0,
+    "total_liab": 2172252410000.0,
+    "debt_ratio": 74.82,
+    "cash": 358790899000.0,
+    "receivables": 257698659000.0,
+    "inventory": 796342895000.0,
+    "goodwill": 2387960000.0,
+    "interest_debt": 807318082000.0,
+    "equity_parent": 427609892000.0,
+    "ocf": 11030123000.0,
+    "capex": 34055554000.0,
+    "fcf": -23025431000.0,
+    "ocf_to_np": 0.2
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 2187334286000.0,
+    "revenue_yoy": -3.45,
+    "net_profit": 46193694000.0,
+    "net_profit_yoy": -14.87,
+    "net_profit_deducted": 41579271000.0,
+    "gross_margin": 9.86,
+    "net_margin": 2.87,
+    "selling_expense_ratio": 0.4,
+    "admin_expense_ratio": 1.58,
+    "finance_expense_ratio": 0.89,
+    "rd_expense": 45464667000.0,
+    "rd_ratio": 2.08,
+    "eps": 1.11,
+    "bvps": 10.89,
+    "roe": 10.36,
+    "roa": 2.06,
+    "total_assets": 3189774343000.0,
+    "total_liab": 2417792878000.0,
+    "debt_ratio": 75.8,
+    "cash": 424425658000.0,
+    "receivables": 317144080000.0,
+    "inventory": 772168289000.0,
+    "goodwill": 2437609000.0,
+    "interest_debt": 863437112000.0,
+    "equity_parent": 462498099000.0,
+    "ocf": 15825793000.0,
+    "capex": 19825295000.0,
+    "fcf": -3999502000.0,
+    "ocf_to_np": 0.34
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 2082141811000.0,
+    "revenue_yoy": -4.81,
+    "net_profit": 39069002000.0,
+    "net_profit_yoy": -15.42,
+    "net_profit_deducted": 31934462000.0,
+    "gross_margin": 9.9,
+    "net_margin": 2.57,
+    "selling_expense_ratio": 0.43,
+    "admin_expense_ratio": 1.63,
+    "finance_expense_ratio": 0.85,
+    "rd_expense": 44009417000.0,
+    "rd_ratio": 2.11,
+    "eps": 0.94,
+    "bvps": 11.68,
+    "roe": 8.15,
+    "roa": 1.59,
+    "total_assets": 3560679818000.0,
+    "total_liab": 2738171656000.0,
+    "debt_ratio": 76.9,
+    "cash": 411670207000.0,
+    "receivables": 415558761000.0,
+    "inventory": 815866130000.0,
+    "goodwill": 2367054000.0,
+    "interest_debt": 940529957000.0,
+    "equity_parent": 491555607000.0,
+    "ocf": 20537132000.0,
+    "capex": 26226719000.0,
+    "fcf": -5689587000.0,
+    "ocf_to_np": 0.53
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 975837283000.0,
+   "revenue_yoy": -11.96,
+   "net_profit": 23000277000.0,
+   "net_profit_yoy": -24.34,
+   "net_profit_deducted": 19922491000.0,
+   "gross_margin": 10.29,
+   "net_margin": 3.14,
+   "roe": 4.61,
+   "eps": 0.55,
+   "debt_ratio": 77.13,
+   "ocf": -28461271000.0
+  },
+  "derived": {
+   "revenue_cagr_3y": 0.44,
+   "net_profit_cagr_3y": -8.47,
+   "receivables_to_revenue": 19.96,
+   "goodwill_to_equity": 0.48
+  }
+ },
+ "shareholders": {
+  "controller": "国务院国有资产监督管理委员会",
+  "controlling_shareholder": "中国建筑集团有限公司",
+  "controlling_ratio": 57.7,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "中国建筑集团有限公司",
+    "hold_num": 23843727325,
+    "hold_ratio": 57.7,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "香港中央结算有限公司",
+    "hold_num": 646990599,
+    "hold_ratio": 1.57,
+    "hold_num_change": -174479368
+   },
+   {
+    "rank": 3,
+    "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+    "hold_num": 585529966,
+    "hold_ratio": 1.42,
+    "hold_num_change": -5463419
+   },
+   {
+    "rank": 4,
+    "name": "中央汇金资产管理有限责任公司",
+    "hold_num": 583327120,
+    "hold_ratio": 1.41,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "国新宏盛投资(北京)有限公司",
+    "hold_num": 243899142,
+    "hold_ratio": 0.59,
+    "hold_num_change": 54537300
+   },
+   {
+    "rank": 6,
+    "name": "中国建设银行股份有限公司-华泰柏瑞中证红利低波动交易型开放式指数证券投资基金",
+    "hold_num": 122459219,
+    "hold_ratio": 0.3,
+    "hold_num_change": null
+   },
+   {
+    "rank": 7,
+    "name": "国丰兴华(北京)私募基金管理有限公司-国丰兴华鸿鹄志远三期私募证券投资基金1号",
+    "hold_num": 122351780,
+    "hold_ratio": 0.3,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "周宇",
+    "hold_num": 115310280,
+    "hold_ratio": 0.28,
+    "hold_num_change": null
+   },
+   {
+    "rank": 9,
+    "name": "中国农业银行股份有限公司-南方标普中国A股大盘红利低波50交易型开放式指数证券投资基金",
+    "hold_num": 108624600,
+    "hold_ratio": 0.26,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "国新投资有限公司",
+    "hold_num": 98590700,
+    "hold_ratio": 0.24,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 431800,
+  "holder_num_change_pct": 2.73,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 8.36,
+  "northbound_ratio": 1.57,
+  "executives": [
+   {
+    "name": "郑学选",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "文兵",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "刘立新",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.18,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.25,
+    "total_amount": 10485214711.0,
+    "payout_ratio": 20.34,
+    "dividend_yield": 4.52,
+    "ex_date": "2022-06-30"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.2527,
+    "total_amount": 10596831179.68,
+    "payout_ratio": 20.8,
+    "dividend_yield": 4.23,
+    "ex_date": "2023-06-30"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.2715,
+    "total_amount": 11297736090.92,
+    "payout_ratio": 20.82,
+    "dividend_yield": 4.97,
+    "ex_date": "2024-06-27"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.2715,
+    "total_amount": 11218486005.55,
+    "payout_ratio": 24.29,
+    "dividend_yield": 4.46,
+    "ex_date": "2025-07-17"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.2718,
+    "total_amount": 11230882122.68,
+    "payout_ratio": 28.75,
+    "dividend_yield": 5.76,
+    "ex_date": "2026-07-16"
+   }
+  ],
+  "consecutive_years": 5,
+  "cum_dividend_5y": 54829150109.83,
+  "cum_netprofit_5y": 242025746000.0,
+  "payout_5y": 22.65,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [
+   "601390.SH",
+   "601868.SH",
+   "601800.SH",
+   "601186.SH"
+  ],
+  "segments": [
+   {
+    "name": "房屋建筑工程",
+    "revenue": 1213589480000.0,
+    "ratio": 58.29,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "基础设施建设与投资",
+    "revenue": 538571922000.0,
+    "ratio": 25.87,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "房地产开发与投资",
+    "revenue": 283839707000.0,
+    "ratio": 13.63,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他",
+    "revenue": 27199484000.0,
+    "ratio": 1.31,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "设计勘察",
+    "revenue": 9608209000.0,
+    "ratio": 0.46,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "境内",
+    "revenue": 1940443514000.0,
+    "ratio": 93.19,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "境外",
+    "revenue": 141698297000.0,
+    "ratio": 6.81,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "中国建筑2026年1-9月经营情况简报",
+    "date": "2026-10-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225611775.PDF",
+    "type": null
+   },
+   {
+    "title": "中国建筑关于控股股东增持公司股份进展的公告",
+    "date": "2026-10-17",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225608016.PDF",
+    "type": null
+   },
+   {
+    "title": "中国建筑重大项目公告",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225586799.PDF",
+    "type": null
+   },
+   {
+    "title": "中国建筑2026年1-8月经营情况简报",
+    "date": "2026-09-19",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-19/1225571294.PDF",
+    "type": null
+   },
+   {
+    "title": "中国建筑国际信用评级结果公告",
+    "date": "2026-09-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-09/1225554107.PDF",
+    "type": null
+   },
+   {
+    "title": "中国建筑第四届董事会第四十二次会议决议公告",
+    "date": "2026-09-07",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-07/1225550275.PDF",
+    "type": null
+   },
+   {
+    "title": "中国建筑关于公司高级管理人员离任的公告",
+    "date": "2026-09-07",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-07/1225550248.PDF",
+    "type": null
+   },
+   {
+    "title": "中国建筑关于控股股东增持公司股份进展暨首次增持公司股份的公告",
+    "date": "2026-09-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225544401.PDF",
+    "type": null
+   },
+   {
+    "title": "中国建筑关于下属子公司投资上海市普陀区房地产开发项目的公告",
+    "date": "2026-09-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-01/1225539095.PDF",
+    "type": null
+   },
+   {
+    "title": "中国建筑关于2026年半年度计提资产减值准备的公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225529766.PDF",
+    "type": null
+   },
+   {
+    "title": "中国建筑股份有限公司对中建财务有限公司2026年上半年风险持续评估报告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225529602.PDF",
+    "type": null
+   },
+   {
+    "title": "中国建筑第四届董事会第四十一次会议决议公告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225529589.PDF",
+    "type": null
+   },
+   {
+    "title": "中国建筑股份有限公司2026年半年度报告",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225529574.PDF",
+    "type": null
+   },
+   {
+    "title": "中国建筑股份有限公司2026年半年度报告摘要",
+    "date": "2026-08-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225529554.PDF",
+    "type": null
+   },
+   {
+    "title": "中国建筑重大项目公告",
+    "date": "2026-08-28",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225522326.PDF",
+    "type": null
+   },
+   {
+    "title": "中国建筑2026年1-7月经营情况简报",
+    "date": "2026-08-26",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505838.PDF",
+    "type": null
+   },
+   {
+    "title": "中国建筑关于召开2026年半年度业绩说明会的公告",
+    "date": "2026-08-22",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225491205.PDF",
+    "type": null
+   },
+   {
+    "title": "中国建筑关于控股股东获得增持资金贷款支持的公告",
+    "date": "2026-08-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-08/1225463970.PDF",
+    "type": null
+   },
+   {
+    "title": "中国建筑重大项目公告",
+    "date": "2026-07-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-30/1225446764.PDF",
+    "type": null
+   },
+   {
+    "title": "中国建筑关于签约海外重大项目的公告",
+    "date": "2026-07-29",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-29/1225444866.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 132
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "建议在投建运项目中强化业态融合，以“人活在项目中”为核心。商业嵌入生活动线，实现出门即上班、下班即生活；产业与居住消费闭环，打造内容创作者社区；文化塑造归属感，新业态让人即商业。项目应从物理空间开发转向生活方式运营，提升长期活力。",
+    "answer": "感谢您的建议。公司将充分发挥“咨投建运”一体化优势，加快发展城市运营等新兴业务，持续为客户提供优质产品与服务。",
+    "ask_date": "2026-10-16",
+    "answer_date": "2026-10-20",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1668"
+   },
+   {
+    "question": "公司是否考虑切入物业赛道，这是稳稳的人头现金流。如已切入，当前营收如何？",
+    "answer": "您好。公司旗下中海物业等涉及物业业务。其中，中海物业为港股上市公司，2025年营业收入149.60亿元，2026年上半年营业收入74.85亿元。",
+    "ask_date": "2026-10-12",
+    "answer_date": "2026-10-20",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1668"
+   },
+   {
+    "question": "众所周知当们房地产行业普遍面临寒冬时刻，请问公司管理层怎么看待，以及面对未来的展望，和可行性分析，未来有哪些高确定性的业绩增长点？公司是否有足够能力占据绝对主导地位回馈股东，一起分享企业的发展。",
+    "answer": "您好。随着各项稳增长、稳楼市政策加快落地，市场信心有望进一步修复，但城市与项目分化将延续，“高能级城市+好地段+好房子”仍具结构性机会。公司将坚守核心城市核心板块，强化“好房子”产品力，持续强化商业服务品牌建设，推动地产业务行稳致远。",
+    "ask_date": "2026-10-08",
+    "answer_date": "2026-10-09",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1668"
+   },
+   {
+    "question": "胖东来的梦之城是公司或者旗下子公司承接建设的？",
+    "answer": "您好。目前公司子企业承建了胖东来梦之城商业综合体项目，将持续做好项目履约管理，确保工程质量和施工进度。",
+    "ask_date": "2026-09-23",
+    "answer_date": "2026-10-09",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1668"
+   },
+   {
+    "question": "董秘您好，国资委持续推进央企拖欠中小企业账款专项治理，要求保障中小供应商款项及时结算。公司工程业务存在上游回款周期长的问题，由此带来现金流紧张。请问管理层： 1、公司是否已就资金压力问题与国资委沟通，有无申请资本金注入的相关计划？ 2、若无法获得资本金注入，公司将采取哪些具体措施，保障中小供应商款项按时足额支付？",
+    "answer": "您好。公司多措并举保障中小企业款项支付。强化市场源头管控，坚持“两优两重”市场策略，抢抓“六张网”、城市更新等发展机遇，严守项目承接底线。加大力度催收回款，开展负流项目专项整治，积极盘活存量资产，加强资金集约管控，为支付提供可持续的资金来源。",
+    "ask_date": "2026-09-24",
+    "answer_date": "2026-09-30",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1668"
+   },
+   {
+    "question": "尊敬的董秘，您好。按照销售规模，公司是不是国内最大的房地产公司？",
+    "answer": "感谢您的关注。公司地产业务聚焦核心城市、核心区域，深入推进“好房子”建设，以品质升级引领行业发展。2026年上半年，公司地产业务实现合同销售额1,736亿元，位于行业前列，旗下中海地产权益销售额保持行业第一，6家局院地产位列全国百强。",
+    "ask_date": "2026-09-21",
+    "answer_date": "2026-09-30",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=1668"
+   }
+  ],
+  "count_12m": null
+ }
+}

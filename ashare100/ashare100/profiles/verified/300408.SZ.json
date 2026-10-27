@@ -1,0 +1,635 @@
+{
+ "identity": {
+  "code": "300408",
+  "exchange": "SZ",
+  "board": "创业板",
+  "name_full": "潮州三环(集团)股份有限公司",
+  "name_abbr": "三环集团",
+  "aliases": [
+   "shjt"
+  ],
+  "name_en": "CHAOZHOU THREE-CIRCLE (GROUP) CO.,LTD.",
+  "pinyin_abbr": "SHJT",
+  "former_names": [
+   "N三环"
+  ],
+  "industry_sw1": "电子",
+  "industry_sw2": "元件",
+  "list_date": "2014-12-03",
+  "province": "广东",
+  "city": "潮州",
+  "website": "www.cctc.cc",
+  "chairman": "李钢",
+  "employees": 17352,
+  "business_summary": "从事电子元件及其基础材料的研发、生产和销售",
+  "profile": "潮州三环(集团)股份有限公司成立于1970年,2014年在深交所上市(股票简称:三环集团,股票代码:300408),在潮州、深圳、成都、德阳、南充、苏州、武汉、香港、德国、泰国等地均设有公司,是一家专注于先进材料研发、生产及销售的综合性高新技术企业。半个世纪以来,公司秉承“‘材料+’构筑美好生活”的愿景,聚焦“材料”基因,以“材料+结构+功能”为发展方向,产品覆盖通信、电子、新能源、半导体、移动智能终端等众多应用领域。其中,光通信用陶瓷插芯、片式电阻用氧化铝陶瓷基板、半导体陶瓷封装基座等产品产销量均居全球前列,多项产品先后荣获国家优质产品金奖。公司被认定为国家高新技术企业、国家技术创新示范企业、国家企业技术中心、中国制造业单项冠军示范企业,连续多年入选中国电子元件百强企业。三环集团始终践行“诚信勤勉、科技创新、成就人才、开放融合、行稳致远、追求卓越”的企业价值观,致力于为客户需求提供解决方案,为员工成长搭建发展平台,为股东投资创造增值回报,为社会发展贡献企业价值。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 91.97,
+  "change_pct": -4.17,
+  "total_mv": 183638206974.87,
+  "float_mv": 171964923553.99,
+  "total_shares": 1996718571,
+  "float_shares": 1869793667,
+  "pe_ttm": 55.42,
+  "pe_static": 70.13,
+  "pb": 8.11,
+  "ps_ttm": 16.28,
+  "turnover_rate": 1.86,
+  "amount": 3259801684.0,
+  "high_52w": 180.35,
+  "low_52w": 40.79,
+  "ytd_return": 103.02,
+  "return_1y": 93.17,
+  "return_3y": 206.85,
+  "dividend_yield": 0.49,
+  "index_members": [
+   "沪深300",
+   "中证A500",
+   "创业板指"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 6218042006.78,
+    "revenue_yoy": 55.69,
+    "net_profit": 2010811421.49,
+    "net_profit_yoy": 39.68,
+    "net_profit_deducted": 1828156777.2,
+    "gross_margin": 48.75,
+    "net_margin": 32.38,
+    "selling_expense_ratio": 0.83,
+    "admin_expense_ratio": 7.29,
+    "finance_expense_ratio": -1.55,
+    "rd_expense": 418538775.12,
+    "rd_ratio": 6.73,
+    "eps": 1.1,
+    "bvps": 8.45,
+    "roe": 16.92,
+    "roa": 13.0,
+    "total_assets": 18620049198.4,
+    "total_liab": 2428475707.32,
+    "debt_ratio": 13.04,
+    "cash": 5552411989.88,
+    "receivables": 1528326747.57,
+    "inventory": 1796541113.41,
+    "goodwill": 218034397.23,
+    "interest_debt": 51686360.99,
+    "equity_parent": 16190296603.57,
+    "ocf": 1154322229.5,
+    "capex": 1910365165.97,
+    "fcf": -756042936.47,
+    "ocf_to_np": 0.57
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 5149386936.28,
+    "revenue_yoy": -17.19,
+    "net_profit": 1504705950.9,
+    "net_profit_yoy": -25.17,
+    "net_profit_deducted": 1220560953.01,
+    "gross_margin": 44.1,
+    "net_margin": 29.25,
+    "selling_expense_ratio": 1.11,
+    "admin_expense_ratio": 9.31,
+    "finance_expense_ratio": -3.38,
+    "rd_expense": 452172418.65,
+    "rd_ratio": 8.78,
+    "eps": 0.79,
+    "bvps": 8.92,
+    "roe": 9.04,
+    "roa": 7.88,
+    "total_assets": 19593376618.49,
+    "total_liab": 2489964744.18,
+    "debt_ratio": 12.71,
+    "cash": 4509429158.52,
+    "receivables": 1197581935.14,
+    "inventory": 1885851162.83,
+    "goodwill": 224171021.94,
+    "interest_debt": 216076812.54,
+    "equity_parent": 17099673627.01,
+    "ocf": 2073873553.34,
+    "capex": 1124809077.02,
+    "fcf": 949064476.32,
+    "ocf_to_np": 1.38
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 5726688546.9,
+    "revenue_yoy": 11.21,
+    "net_profit": 1580985985.13,
+    "net_profit_yoy": 5.07,
+    "net_profit_deducted": 1221203459.6,
+    "gross_margin": 39.83,
+    "net_margin": 27.65,
+    "selling_expense_ratio": 1.3,
+    "admin_expense_ratio": 7.5,
+    "finance_expense_ratio": -2.82,
+    "rd_expense": 545806226.49,
+    "rd_ratio": 9.53,
+    "eps": 0.82,
+    "bvps": 9.51,
+    "roe": 8.95,
+    "roa": 7.64,
+    "total_assets": 21826964874.91,
+    "total_liab": 3587864384.36,
+    "debt_ratio": 16.44,
+    "cash": 2841614932.78,
+    "receivables": 1626598024.69,
+    "inventory": 1753597800.43,
+    "goodwill": 237347249.15,
+    "interest_debt": 771852710.42,
+    "equity_parent": 18233197637.76,
+    "ocf": 1718967962.8,
+    "capex": 545884685.5,
+    "fcf": 1173083277.3,
+    "ocf_to_np": 1.09
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 7374990821.2,
+    "revenue_yoy": 28.78,
+    "net_profit": 2190449376.24,
+    "net_profit_yoy": 38.55,
+    "net_profit_deducted": 1932207242.08,
+    "gross_margin": 42.98,
+    "net_margin": 29.7,
+    "selling_expense_ratio": 1.08,
+    "admin_expense_ratio": 5.56,
+    "finance_expense_ratio": -2.34,
+    "rd_expense": 583072364.37,
+    "rd_ratio": 7.91,
+    "eps": 1.14,
+    "bvps": 10.37,
+    "roe": 11.5,
+    "roa": 9.58,
+    "total_assets": 23915803052.17,
+    "total_liab": 4044034756.59,
+    "debt_ratio": 16.91,
+    "cash": 3062845248.47,
+    "receivables": 1871750717.87,
+    "inventory": 2180711489.49,
+    "goodwill": 227275574.22,
+    "interest_debt": 501593207.23,
+    "equity_parent": 19866081060.45,
+    "ocf": 2403122345.06,
+    "capex": 639035150.37,
+    "fcf": 1764087194.69,
+    "ocf_to_np": 1.1
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 9007153894.11,
+    "revenue_yoy": 22.13,
+    "net_profit": 2618384303.84,
+    "net_profit_yoy": 19.54,
+    "net_profit_deducted": 2248942354.95,
+    "gross_margin": 42.14,
+    "net_margin": 29.05,
+    "selling_expense_ratio": 1.03,
+    "admin_expense_ratio": 5.34,
+    "finance_expense_ratio": -1.42,
+    "rd_expense": 653436680.1,
+    "rd_ratio": 7.25,
+    "eps": 1.37,
+    "bvps": 11.3,
+    "roe": 12.62,
+    "roa": 10.38,
+    "total_assets": 26506087917.56,
+    "total_liab": 4843045483.1,
+    "debt_ratio": 18.27,
+    "cash": 3057778568.16,
+    "receivables": 2159447994.75,
+    "inventory": 2391722373.47,
+    "goodwill": 248711480.85,
+    "interest_debt": 586437204.27,
+    "equity_parent": 21658759348.68,
+    "ocf": 2877609076.65,
+    "capex": 580091972.02,
+    "fcf": 2297517104.63,
+    "ocf_to_np": 1.1
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 6423331756.2,
+   "revenue_yoy": 54.82,
+   "net_profit": 1932118240.71,
+   "net_profit_yoy": 56.18,
+   "net_profit_deducted": 1809384693.79,
+   "gross_margin": 44.32,
+   "net_margin": 30.08,
+   "roe": 8.61,
+   "eps": 1.01,
+   "debt_ratio": 20.36,
+   "ocf": 1297319594.91
+  },
+  "derived": {
+   "revenue_cagr_3y": 20.49,
+   "net_profit_cagr_3y": 20.28,
+   "receivables_to_revenue": 23.97,
+   "goodwill_to_equity": 1.15
+  }
+ },
+ "shareholders": {
+  "controller": "张万镇",
+  "controlling_shareholder": "潮州市三江投资有限公司",
+  "controlling_ratio": 33.67,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "潮州市三江投资有限公司",
+    "hold_num": 645357856,
+    "hold_ratio": 33.67,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "香港中央结算有限公司",
+    "hold_num": 90448798,
+    "hold_ratio": 4.72,
+    "hold_num_change": -78271549
+   },
+   {
+    "rank": 3,
+    "name": "张万镇",
+    "hold_num": 53592000,
+    "hold_ratio": 2.8,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "徐瑞英",
+    "hold_num": 19676480,
+    "hold_ratio": 1.03,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "谢灿生",
+    "hold_num": 11515600,
+    "hold_ratio": 0.6,
+    "hold_num_change": -40000
+   },
+   {
+    "rank": 6,
+    "name": "中国工商银行股份有限公司-财通成长优选混合型证券投资基金",
+    "hold_num": 9906266,
+    "hold_ratio": 0.52,
+    "hold_num_change": null
+   },
+   {
+    "rank": 7,
+    "name": "易方达基金管理有限公司-社保基金2106组合",
+    "hold_num": 9334476,
+    "hold_ratio": 0.49,
+    "hold_num_change": null
+   },
+   {
+    "rank": 8,
+    "name": "魏敏",
+    "hold_num": 8807000,
+    "hold_ratio": 0.46,
+    "hold_num_change": null
+   },
+   {
+    "rank": 9,
+    "name": "徐淑婉",
+    "hold_num": 8582020,
+    "hold_ratio": 0.45,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "中国建设银行股份有限公司-华商均衡成长混合型证券投资基金",
+    "hold_num": 8332694,
+    "hold_ratio": 0.43,
+    "hold_num_change": null
+   }
+  ],
+  "holder_num": 127113,
+  "holder_num_change_pct": 226.69,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 20.8,
+  "northbound_ratio": 4.72,
+  "executives": [
+   {
+    "name": "李钢",
+    "title": "董事长",
+    "pay": 3396900.0
+   },
+   {
+    "name": "马艳红",
+    "title": "总经理",
+    "pay": 2885400.0
+   },
+   {
+    "name": "吴晓淳",
+    "title": "董事会秘书",
+    "pay": 801500.0
+   }
+  ],
+  "pledge_ratio_total": 0.0,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.32,
+    "total_amount": 613279158.72,
+    "payout_ratio": 30.5,
+    "dividend_yield": 1.09,
+    "ex_date": "2022-06-10"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.25,
+    "total_amount": 479124342.75,
+    "payout_ratio": 31.84,
+    "dividend_yield": 0.79,
+    "ex_date": "2023-07-17"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.28,
+    "total_amount": 536619263.88,
+    "payout_ratio": 33.94,
+    "dividend_yield": 0.99,
+    "ex_date": "2024-07-09"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.38,
+    "total_amount": 728269000.98,
+    "payout_ratio": 33.25,
+    "dividend_yield": 1.18,
+    "ex_date": "2025-06-25"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.45,
+    "total_amount": 862423816.95,
+    "payout_ratio": 32.94,
+    "dividend_yield": 0.52,
+    "ex_date": "2026-05-11"
+   }
+  ],
+  "consecutive_years": 5,
+  "cum_dividend_5y": 3219715583.28,
+  "cum_netprofit_5y": 9905337037.6,
+  "payout_5y": 32.5,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [
+   "600183.SH",
+   "002384.SZ",
+   "002463.SZ",
+   "002916.SZ"
+  ],
+  "segments": [
+   {
+    "name": "电子元件",
+    "revenue": 3308089586.22,
+    "ratio": 36.73,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "通信器件",
+    "revenue": 2594309892.31,
+    "ratio": 28.8,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "电子及陶瓷材料",
+    "revenue": 1959378016.92,
+    "ratio": 21.75,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "设备组件",
+    "revenue": 601753409.61,
+    "ratio": 6.68,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他",
+    "revenue": 404996373.28,
+    "ratio": 4.5,
+    "type": "product",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-10-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-20/1225611819.PDF",
+    "type": null
+   },
+   {
+    "title": "关于回购股份事项前十名股东和前十名无限售条件股东持股情况的公告",
+    "date": "2026-10-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-20/1225610316.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-10-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225609155.PDF",
+    "type": null
+   },
+   {
+    "title": "关于首次回购公司股份的公告",
+    "date": "2026-10-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225606437.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-董事会会议召开日期",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225607046.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225607047.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225605529.PDF",
+    "type": null
+   },
+   {
+    "title": "第十二届董事会第四次会议决议公告",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225605528.PDF",
+    "type": null
+   },
+   {
+    "title": "关于股份回购完成结果暨股份变动的公告",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225605527.PDF",
+    "type": null
+   },
+   {
+    "title": "关于2026年第三期回购公司股份方案的公告暨回购股份报告书",
+    "date": "2026-10-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225605526.PDF",
+    "type": null
+   },
+   {
+    "title": "关于2026年A股员工持股计划开户完成的公告",
+    "date": "2026-10-13",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225603481.PDF",
+    "type": null
+   },
+   {
+    "title": "关于回购公司股份进展情况的公告",
+    "date": "2026-10-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225598801.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-证券变动月报表",
+    "date": "2026-10-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225596054.PDF",
+    "type": null
+   },
+   {
+    "title": "关于选举2026年A股员工持股计划管理委员会委员的公告",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225589698.PDF",
+    "type": null
+   },
+   {
+    "title": "关于2026年第二次临时股东会决议公告",
+    "date": "2026-09-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-21/1225575673.PDF",
+    "type": null
+   },
+   {
+    "title": "君合律师事务所上海分所关于潮州三环（集团）股份有限公司2026年第二次临时股东会的法律意见书",
+    "date": "2026-09-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-21/1225575674.PDF",
+    "type": null
+   },
+   {
+    "title": "君合律师事务所上海分所关于潮州三环（集团）股份有限公司2026年A股员工持股计划（草案）的法律意见书",
+    "date": "2026-09-16",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-16/1225565590.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-证券变动月报表",
+    "date": "2026-09-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225546222.PDF",
+    "type": null
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-09-02",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-02/1225541874.PDF",
+    "type": null
+   },
+   {
+    "title": "关于回购股份比例达到1%暨回购进展的公告",
+    "date": "2026-09-02",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-02/1225541873.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 168
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "9月以来，mlcc一小时一个价，部分热门型号一个月涨了7/8倍，请问三环的出货价格有无提高？产能情况如何？",
+    "answer": null,
+    "ask_date": "2026-09-21",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2364078789507047424"
+   },
+   {
+    "question": "您好，咨询本次员工持股计划三个问题： 1、公司是否引导员工使用贷款资金参与认购本次员工持股计划？ 2、各部门对员工开展动员约谈动员认购，是否是公司统一安排的工作？ 3、员工仅持有持股计划份额、享有收益权，并非直接登记为上市公司股东，该理解是否正确？ 盼复，感谢。",
+    "answer": null,
+    "ask_date": "2026-09-19",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2362885656257703936"
+   },
+   {
+    "question": "请问董秘，查询一下最新的股东人数是多少？",
+    "answer": null,
+    "ask_date": "2026-09-10",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2355970844843864064"
+   },
+   {
+    "question": "董秘好，请问目前高端算力和车规mlcc产能占比多少？最近报价是随行就市还是长协不变？",
+    "answer": null,
+    "ask_date": "2026-08-18",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2339002262200111104"
+   },
+   {
+    "question": "董秘：您好！到目前为止三环集团有多少股东？",
+    "answer": null,
+    "ask_date": "2026-08-13",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2335397848222740480"
+   },
+   {
+    "question": "你好，我观察MLCC上游原材料价格有所波动，比如公司供应商天马新材（21年年报显示公司为其第一大客户），请问，公司是否考虑根据市场波动进行价格调整？谢谢",
+    "answer": null,
+    "ask_date": "2026-08-12",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2334557580820951040"
+   },
+   {
+    "question": "你好 公司mlcc供应商联瑞新材、天马新材近期有无涨价，",
+    "answer": null,
+    "ask_date": "2026-08-07",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2330748855362465793"
+   },
+   {
+    "question": "请问目前公司的mlcc一年总产量是多少",
+    "answer": null,
+    "ask_date": "2026-08-04",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2328547177930280960"
+   }
+  ],
+  "count_12m": null
+ }
+}

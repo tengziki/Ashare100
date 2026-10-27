@@ -1,0 +1,662 @@
+{
+ "identity": {
+  "code": "688836",
+  "exchange": "SH",
+  "board": "科创板",
+  "name_full": "宇树科技股份有限公司",
+  "name_abbr": "宇树科技-W",
+  "aliases": [
+   "yskj",
+   "宇树科技"
+  ],
+  "name_en": "Yushu Technology Co., Ltd.",
+  "pinyin_abbr": "YSKJ",
+  "former_names": [],
+  "industry_sw1": "机械设备",
+  "industry_sw2": "自动化设备",
+  "list_date": "2026-08-19",
+  "province": "浙江",
+  "city": "杭州",
+  "website": "www.unitree.com",
+  "chairman": "王兴兴",
+  "employees": 516,
+  "business_summary": "高性能通用人形机器人、四足机器人、机器人组件及具身智能模型的研发、生产和销售业务",
+  "profile": "宇树科技股份有限公司是一家世界知名的民用机器人公司,专注于消费级及工业级高性能通用腿式和类人机器人、六轴机械臂等的研发、生产和销售。联合树机器人曾受邀出席2021年央视春节盛典、2022年冬奥会开幕式、2023年超级碗、第十九届亚运会和第四届亚运会,以及2025年蛇之年央视春节晚宴,并多次接受央视及其他知名媒体的采访和报道。宇树科技是全球首家开始高性能四足机器人公开零售的公司,也是首家实现行业进军的公司,多年来全球销售领先。宇树科技在核心机器人零件、运动控制、机器人传感及其他综合领域拥有卓越的领导力。宇树科技高度重视独立研发和技术创新,全面自主研发关键核心机器人部件,如电机、减速器、控制器、激光雷达及高性能感知与运动控制算法,整合整个机器人产业链,实现四足机器人领域的全球技术领先。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 520.0,
+  "change_pct": 0.97,
+  "total_mv": 210321456800.0,
+  "float_mv": 15645614400.0,
+  "total_shares": 404464340,
+  "float_shares": 30087720,
+  "pe_ttm": 359.99,
+  "pe_static": 755.98,
+  "pb": 73.03,
+  "ps_ttm": 101.32,
+  "turnover_rate": 18.2,
+  "amount": 2893614478.0,
+  "high_52w": 1100.0,
+  "low_52w": 404.03,
+  "ytd_return": null,
+  "return_1y": null,
+  "return_3y": null,
+  "dividend_yield": 0.0,
+  "index_members": []
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": null,
+    "revenue_yoy": null,
+    "net_profit": null,
+    "net_profit_yoy": null,
+    "net_profit_deducted": null,
+    "gross_margin": null,
+    "net_margin": null,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": null,
+    "bvps": null,
+    "roe": null,
+    "roa": null,
+    "total_assets": null,
+    "total_liab": null,
+    "debt_ratio": null,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": null,
+    "ocf": null,
+    "capex": null,
+    "fcf": null,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 122919512.07,
+    "revenue_yoy": null,
+    "net_profit": -22100496.98,
+    "net_profit_yoy": null,
+    "net_profit_deducted": -8070800.0,
+    "gross_margin": 44.94,
+    "net_margin": -17.98,
+    "selling_expense_ratio": 21.02,
+    "admin_expense_ratio": 24.98,
+    "finance_expense_ratio": -2.62,
+    "rd_expense": 29984767.54,
+    "rd_ratio": 24.39,
+    "eps": null,
+    "bvps": 160.89,
+    "roe": -8.57,
+    "roa": -12.07,
+    "total_assets": 366184339.51,
+    "total_liab": 56492289.45,
+    "debt_ratio": 15.43,
+    "cash": 135654987.88,
+    "receivables": 7429733.91,
+    "inventory": 77537397.61,
+    "goodwill": null,
+    "interest_debt": 15901881.33,
+    "equity_parent": 309692050.06,
+    "ocf": -30197329.36,
+    "capex": 4372627.25,
+    "fcf": -34569956.61,
+    "ocf_to_np": 1.37
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 159134384.11,
+    "revenue_yoy": 29.46,
+    "net_profit": -11145126.25,
+    "net_profit_yoy": 49.57,
+    "net_profit_deducted": -18019100.0,
+    "gross_margin": 44.75,
+    "net_margin": -7.0,
+    "selling_expense_ratio": 23.7,
+    "admin_expense_ratio": 8.38,
+    "finance_expense_ratio": -4.6,
+    "rd_expense": 49951750.61,
+    "rd_ratio": 31.39,
+    "eps": null,
+    "bvps": 155.36,
+    "roe": -3.66,
+    "roa": -2.94,
+    "total_assets": 391271498.49,
+    "total_liab": 92226596.4,
+    "debt_ratio": 23.57,
+    "cash": 222293124.19,
+    "receivables": 10388253.18,
+    "inventory": 78957733.95,
+    "goodwill": null,
+    "interest_debt": 21301429.63,
+    "equity_parent": 299044902.09,
+    "ocf": 4942534.51,
+    "capex": 5113285.61,
+    "fcf": -170751.1,
+    "ocf_to_np": -0.44
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 392770657.05,
+    "revenue_yoy": 146.82,
+    "net_profit": 95474703.69,
+    "net_profit_yoy": 956.65,
+    "net_profit_deducted": 78476500.0,
+    "gross_margin": 57.22,
+    "net_margin": 24.31,
+    "selling_expense_ratio": 15.06,
+    "admin_expense_ratio": 6.37,
+    "finance_expense_ratio": -4.38,
+    "rd_expense": 70017026.87,
+    "rd_ratio": 17.83,
+    "eps": null,
+    "bvps": 495.46,
+    "roe": 10.46,
+    "roa": 9.95,
+    "total_assets": 1527869407.95,
+    "total_liab": 247320358.81,
+    "debt_ratio": 16.19,
+    "cash": 565942754.66,
+    "receivables": 20566036.92,
+    "inventory": 141334091.77,
+    "goodwill": null,
+    "interest_debt": 6292465.78,
+    "equity_parent": 1280549049.14,
+    "ocf": 192391298.83,
+    "capex": 9695265.43,
+    "fcf": 182696033.4,
+    "ocf_to_np": 2.02
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 1699269304.88,
+    "revenue_yoy": 332.64,
+    "net_profit": 278210460.61,
+    "net_profit_yoy": 191.4,
+    "net_profit_deducted": 590752769.5,
+    "gross_margin": 60.44,
+    "net_margin": 16.37,
+    "selling_expense_ratio": 8.31,
+    "admin_expense_ratio": 23.52,
+    "finance_expense_ratio": 0.06,
+    "rd_expense": 144965625.41,
+    "rd_ratio": 8.53,
+    "eps": 0.76,
+    "bvps": 7.16,
+    "roe": 13.52,
+    "roa": 11.75,
+    "total_assets": 3208538343.92,
+    "total_liab": 603879856.12,
+    "debt_ratio": 18.82,
+    "cash": 1419257902.61,
+    "receivables": 58733610.53,
+    "inventory": 367753386.46,
+    "goodwill": null,
+    "interest_debt": 30247214.54,
+    "equity_parent": 2604658487.8,
+    "ocf": 669981753.43,
+    "capex": 50362728.2,
+    "fcf": 619619025.23,
+    "ocf_to_np": 2.41
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 1152245550.58,
+   "revenue_yoy": 48.54,
+   "net_profit": 273999911.92,
+   "net_profit_yoy": 955.59,
+   "net_profit_deducted": 243930300.0,
+   "gross_margin": 56.01,
+   "net_margin": 23.78,
+   "roe": 9.99,
+   "eps": 0.75,
+   "debt_ratio": 25.11,
+   "ocf": 231545298.96
+  },
+  "derived": {
+   "revenue_cagr_3y": 140.0,
+   "net_profit_cagr_3y": null,
+   "receivables_to_revenue": 3.46,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "王兴兴",
+  "controlling_shareholder": "王兴兴",
+  "controlling_ratio": 21.44,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "王兴兴",
+    "hold_num": 86714964,
+    "hold_ratio": 21.44,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "上海宇翼企业管理咨询合伙企业(有限合伙)",
+    "hold_num": 39828600,
+    "hold_ratio": 9.85,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "汉海信息技术(上海)有限公司",
+    "hold_num": 27706770,
+    "hold_ratio": 6.85,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "宁波红杉科盛股权投资合伙企业(有限合伙)",
+    "hold_num": 22605408,
+    "hold_ratio": 5.59,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "Astrend IV (Hong Kong) Alpha Limited",
+    "hold_num": 16105950,
+    "hold_ratio": 3.98,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "南京经纬创壹号投资合伙企业(有限合伙)",
+    "hold_num": 15506316,
+    "hold_ratio": 3.83,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "金石成长股权投资(杭州)合伙企业(有限合伙)",
+    "hold_num": 15114204,
+    "hold_ratio": 3.74,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "北京机器人产业发展投资基金(有限合伙)",
+    "hold_num": 13928040,
+    "hold_ratio": 3.44,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "嘉兴骅茂股权投资合伙企业(有限合伙)",
+    "hold_num": 11602332,
+    "hold_ratio": 2.87,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 10,
+    "name": "天津君万弘毅企业管理咨询合伙企业(有限合伙)",
+    "hold_num": 11174940,
+    "hold_ratio": 2.76,
+    "hold_num_change": 0
+   }
+  ],
+  "holder_num": 27666,
+  "holder_num_change_pct": 60043.48,
+  "holder_num_date": "2026-08-19",
+  "inst_hold_ratio": null,
+  "northbound_ratio": null,
+  "executives": [
+   {
+    "name": "王兴兴",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "王兴兴",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "傅风华",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.0,
+  "unlock_12m": [
+   {
+    "date": "2027-02-19",
+    "shares": 2269428,
+    "ratio": 0.56
+   },
+   {
+    "date": "2027-08-19",
+    "shares": 228745132,
+    "ratio": 56.56
+   }
+  ]
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": 0.0,
+    "dividend_yield": 0.0,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0,
+    "total_amount": 0,
+    "payout_ratio": 0.0,
+    "dividend_yield": 0.0,
+    "ex_date": null
+   }
+  ],
+  "consecutive_years": 0,
+  "cum_dividend_5y": 0.0,
+  "cum_netprofit_5y": 340439541.07,
+  "payout_5y": 0.0,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "300124.SZ",
+   "300757.SZ",
+   "000988.SZ",
+   "002008.SZ"
+  ],
+  "segments": [
+   {
+    "name": "人形机器人",
+    "revenue": 867831946.33,
+    "ratio": 51.07,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "四足机器人",
+    "revenue": 697625579.94,
+    "ratio": 41.05,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "机器人组件",
+    "revenue": 103736729.87,
+    "ratio": 6.1,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 23158365.12,
+    "ratio": 1.36,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他",
+    "revenue": 6916683.62,
+    "ratio": 0.41,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "境内",
+    "revenue": 944455603.38,
+    "ratio": 55.58,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "境外",
+    "revenue": 731655336.38,
+    "ratio": 43.06,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 23158365.12,
+    "ratio": 1.36,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "股票交易异常波动公告",
+    "date": "2026-10-21",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225613088.PDF",
+    "type": null
+   },
+   {
+    "title": "中信证券股份有限公司关于宇树科技股份有限公司新增2026年度日常关联交易预计额度的核查意见",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225588586.PDF",
+    "type": null
+   },
+   {
+    "title": "关于新增2026年度日常关联交易预计额度的公告",
+    "date": "2026-09-30",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225588574.PDF",
+    "type": null
+   },
+   {
+    "title": "公司章程",
+    "date": "2026-09-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225544788.PDF",
+    "type": null
+   },
+   {
+    "title": "关于变更注册资本、公司类型及修订《公司章程》 并办理工商变更登记的公告",
+    "date": "2026-09-03",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225544776.PDF",
+    "type": null
+   },
+   {
+    "title": "宇树科技首次公开发行股票科创板上市公告书提示性公告",
+    "date": "2026-08-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-18/1225478669.PDF",
+    "type": null
+   },
+   {
+    "title": "宇树科技公司章程",
+    "date": "2026-08-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-18/1225478664.PDF",
+    "type": null
+   },
+   {
+    "title": "宇树科技首次公开发行股票科创板上市公告书",
+    "date": "2026-08-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-18/1225478658.PDF",
+    "type": null
+   },
+   {
+    "title": "宇树科技首次公开发行股票并在科创板上市招股说明书提示性公告",
+    "date": "2026-08-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-14/1225472625.PDF",
+    "type": null
+   },
+   {
+    "title": "宇树科技首次公开发行股票并在科创板上市发行结果公告",
+    "date": "2026-08-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-14/1225472623.PDF",
+    "type": null
+   },
+   {
+    "title": "宇树科技首次公开发行股票并在科创板上市招股说明书",
+    "date": "2026-08-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-14/1225472621.PDF",
+    "type": null
+   },
+   {
+    "title": "宇树科技首次公开发行股票并在科创板上市网下初步配售结果及网上中签结果公告",
+    "date": "2026-08-12",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-12/1225469078.PDF",
+    "type": null
+   },
+   {
+    "title": "宇树科技首次公开发行股票并在科创板上市网上发行申购情况及中签率公告",
+    "date": "2026-08-11",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-11/1225467045.PDF",
+    "type": null
+   },
+   {
+    "title": "北京市君泽君律师事务所关于宇树科技股份有限公司首次公开发行股票并在科创板上市参与战略配售的投资者专项核查法律意见书",
+    "date": "2026-08-07",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-07/1225462423.PDF",
+    "type": null
+   },
+   {
+    "title": "中信证券股份有限公司关于宇树科技股份有限公司首次公开发行股票并在科创板上市参与战略配售的投资者的专项核查报告",
+    "date": "2026-08-07",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-07/1225462420.PDF",
+    "type": null
+   },
+   {
+    "title": "宇树科技首次公开发行股票并在科创板上市发行公告",
+    "date": "2026-08-07",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-07/1225462419.PDF",
+    "type": null
+   },
+   {
+    "title": "宇树科技首次公开发行股票并在科创板上市投资风险特别公告",
+    "date": "2026-08-07",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-07/1225462415.PDF",
+    "type": null
+   },
+   {
+    "title": "宇树科技首次公开发行股票并在科创板上市网上路演公告",
+    "date": "2026-08-06",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-06/1225460407.PDF",
+    "type": null
+   },
+   {
+    "title": "宇树科技首次公开发行股票并在科创板上市招股意向书附录",
+    "date": "2026-07-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-31/1225449788.PDF",
+    "type": null
+   },
+   {
+    "title": "宇树科技首次公开发行股票并在科创板上市招股意向书提示性公告",
+    "date": "2026-07-31",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-31/1225449785.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 22
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "贵公司现在每股净资产是多少元？",
+    "answer": "您好，截止2026年6月30日，公司每股净资产为7.91元（上市前数据）。每股净资产属于公司定期报告披露的财务数据，请关注公司后续定期报告，感谢您的理解。",
+    "ask_date": "2026-08-21",
+    "answer_date": "2026-10-20",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=343142"
+   },
+   {
+    "question": "请问，公司企业文化，是否能充分吸引并发挥全球AI行业领军人才的作业？是否会阻碍公司从成为一家伟大的企业/？",
+    "answer": "您好，公司重视人才队伍建设和企业文化建设，致力于营造有利于技术创新和人才发展的环境，持续提升对优秀人才的吸引力。",
+    "ask_date": "2026-09-09",
+    "answer_date": "2026-10-19",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=343142"
+   },
+   {
+    "question": "董秘您好：公司什么时候能推出 物理ai机器人自进化V1.0模型？谢谢。",
+    "answer": "您好，感谢您的关注。相关产品及模型的研发与发布计划，公司将根据实际进展通过正式渠道披露。",
+    "ask_date": "2026-08-27",
+    "answer_date": "2026-10-19",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=343142"
+   },
+   {
+    "question": "董秘您好：公司机器狗和机器人的零部件，自研自产的比例多少了？能否做个简要介绍？灵巧手 减速器 电机 激光雷达 还有一系列其他部件。",
+    "answer": "您好，公司持续关注核心零部件的自主可控与供应链优化，具体自研自产比例等经营数据，请以公司公开披露的信息为准。",
+    "ask_date": "2026-08-27",
+    "answer_date": "2026-10-19",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=343142"
+   },
+   {
+    "question": "作为股东，我们建议公司除了通过内生增长做大做强公司基本盘，强烈建议通过外延式并购，比如通过并购大晓机器人，做大做强公司，只有大脑的公司才是未来",
+    "answer": "您好，感谢您的关注与建议。公司将结合自身发展战略、业务协同性及监管要求，审慎评估各类发展路径。如未来涉及需披露的重大事项，公司将严格按照相关规定及时履行信息披露义务。",
+    "ask_date": "2026-08-24",
+    "answer_date": "2026-10-19",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=343142"
+   },
+   {
+    "question": "董秘，请问如果宇树机器人+手机平板能通话视频等功能， 家用实用性更强， 注定能大卖，这个提议怎么样？",
+    "answer": "您好，感谢您的建议，公司已将相关建议转达至产品和业务部门参考。产品功能规划需综合考虑技术可行性、成本、用户需求及商业化节奏，如有相关产品信息，公司将按信息披露要求通过正式渠道发布。",
+    "ask_date": "2026-08-24",
+    "answer_date": "2026-10-19",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=343142"
+   },
+   {
+    "question": "宇树科技，证券法说证券发行公平公正公开，据网上资料，你公司宇树科技新股发行办法，战略配售占新股发行总量的20%，新股余下的量网下机构占70%，网上散户占余下的30%，现在有一个问题，股民问宇树科技新股发行比例合理吗？",
+    "answer": "您好，公司首次公开发行股票的相关安排，均严格按照《证券法》《上海证券交易所首次公开发行证券发行与承销业务实施细则》等法律法规及监管规则执行，发行方案、战略配售、网下及网上发行比例等均在发行公告中明确披露，并已履行相应审议及备案程序。相关发行安排合法合规，具体比例请您查阅公司披露的发行公告。",
+    "ask_date": "2026-08-24",
+    "answer_date": "2026-10-19",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=343142"
+   },
+   {
+    "question": "董秘您好：能否简要介绍下公司机器人物理AI方向大模型的进展？谢谢。",
+    "answer": "您好，公司围绕具身智能相关方向持续开展研发投入，具体技术进展、研发节点及成果情况，请关注公司后续定期报告及官方发布，感谢您的理解。",
+    "ask_date": "2026-08-20",
+    "answer_date": "2026-10-19",
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=343142"
+   }
+  ],
+  "count_12m": null
+ }
+}

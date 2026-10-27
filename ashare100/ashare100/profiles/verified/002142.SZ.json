@@ -1,0 +1,590 @@
+{
+ "identity": {
+  "code": "002142",
+  "exchange": "SZ",
+  "board": "主板",
+  "name_full": "宁波银行股份有限公司",
+  "name_abbr": "宁波银行",
+  "aliases": [
+   "nbyh"
+  ],
+  "name_en": "Bank Of Ningbo Co.,Ltd.",
+  "pinyin_abbr": "NBYH",
+  "former_names": [],
+  "industry_sw1": "银行",
+  "industry_sw2": "城商行Ⅱ",
+  "list_date": "2007-07-19",
+  "province": "浙江",
+  "city": "宁波",
+  "website": "www.nbcb.com.cn",
+  "chairman": "庄灵君",
+  "employees": 24857,
+  "business_summary": "对公及对私存款、贷款、支付结算、资金业务、并提供资产管理及其他金融业务",
+  "profile": "宁波银行股份有限公司是一家中外合资的区域性上市银行,是全国20家系统重要性银行之一。目前,在北京、上海、深圳、杭州、南京、苏州、无锡、温州等地设有16家分行,开设永赢基金、永赢金租、宁银理财、宁银消金4家子公司。在英国《银行家》杂志“2025年度全球银行1000强”最新榜单中,宁波银行排名第72位,百强位次稳步向前。宁波银行坚持“经营银行就是经营风险”的风险理念,不断完善全面、全员、全流程的风险管理体系,风险管理能力持续增强。近年来,宁波银行的经营管理能力和发展前景得到了监管和业界的广泛认可。国际知名评级机构穆迪最新给予宁波银行长期存款评级为Baa2,基础信用评估为ba1,这一评级与国内比较优秀的全国性股份制商业银行是一样的。在银监会对商业银行的综合评级中,宁波银行屡次获得城商行最高评级。英国《银行家》杂志按照一级资本发布的2025年全球1000强银行排行榜中,宁波银行排名位列全球72位,较上一年度上升8位。英国品牌咨询公司BrandFinance发布“2024年全球银行品牌500强排行榜”,宁波银行位居全球银行第93位,品牌价值33.21亿美元,品牌评级“A+”。",
+  "st_status": "正常",
+  "audit_opinion": "标准无保留意见"
+ },
+ "market": {
+  "as_of_date": "2026-10-22",
+  "price": 34.06,
+  "change_pct": -1.7,
+  "total_mv": 224918302375.52,
+  "float_mv": 224905171530.26,
+  "total_shares": 6603590792,
+  "float_shares": 6603205271,
+  "pe_ttm": 7.23,
+  "pe_static": 7.67,
+  "pb": 0.93,
+  "ps_ttm": 2.95,
+  "turnover_rate": 0.67,
+  "amount": 1511817960.22,
+  "high_52w": 36.49,
+  "low_52w": 26.0,
+  "ytd_return": 25.27,
+  "return_1y": 29.6,
+  "return_3y": 59.01,
+  "dividend_yield": 3.52,
+  "index_members": [
+   "沪深300"
+  ]
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 52774000000.0,
+    "revenue_yoy": 28.37,
+    "net_profit": 19546000000.0,
+    "net_profit_yoy": 29.87,
+    "net_profit_deducted": 19511000000.0,
+    "gross_margin": null,
+    "net_margin": 37.16,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 3.13,
+    "bvps": 20.38,
+    "roe": 16.64,
+    "roa": 1.08,
+    "total_assets": 2015548000000.0,
+    "total_liab": 1865613000000.0,
+    "debt_ratio": 92.56,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": null,
+    "interest_debt": null,
+    "equity_parent": 149359000000.0,
+    "ocf": -44549000000.0,
+    "capex": 2583000000.0,
+    "fcf": -47132000000.0,
+    "ocf_to_np": -2.28
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 57879000000.0,
+    "revenue_yoy": 9.67,
+    "net_profit": 23075000000.0,
+    "net_profit_yoy": 18.05,
+    "net_profit_deducted": 23143000000.0,
+    "gross_margin": null,
+    "net_margin": 39.97,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 3.38,
+    "bvps": 23.14,
+    "roe": 15.56,
+    "roa": 1.06,
+    "total_assets": 2366097000000.0,
+    "total_liab": 2197571000000.0,
+    "debt_ratio": 92.88,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 293000000.0,
+    "interest_debt": null,
+    "equity_parent": 167626000000.0,
+    "ocf": 94768000000.0,
+    "capex": 2873000000.0,
+    "fcf": 91895000000.0,
+    "ocf_to_np": 4.11
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 61585000000.0,
+    "revenue_yoy": 6.4,
+    "net_profit": 25535000000.0,
+    "net_profit_yoy": 10.66,
+    "net_profit_deducted": 25426000000.0,
+    "gross_margin": null,
+    "net_margin": 41.58,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 3.75,
+    "bvps": 26.71,
+    "roe": 15.08,
+    "roa": 1.01,
+    "total_assets": 2711662000000.0,
+    "total_liab": 2509452000000.0,
+    "debt_ratio": 92.54,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 293000000.0,
+    "interest_debt": null,
+    "equity_parent": 201195000000.0,
+    "ocf": 173372000000.0,
+    "capex": 3707000000.0,
+    "fcf": 169665000000.0,
+    "ocf_to_np": 6.79
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 66631000000.0,
+    "revenue_yoy": 8.19,
+    "net_profit": 27127000000.0,
+    "net_profit_yoy": 6.23,
+    "net_profit_deducted": 27302000000.0,
+    "gross_margin": null,
+    "net_margin": 40.85,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 3.95,
+    "bvps": 31.55,
+    "roe": 13.59,
+    "roa": 0.93,
+    "total_assets": 3125232000000.0,
+    "total_liab": 2890972000000.0,
+    "debt_ratio": 92.5,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 293000000.0,
+    "interest_debt": null,
+    "equity_parent": 233151000000.0,
+    "ocf": 85005000000.0,
+    "capex": 3832000000.0,
+    "fcf": 81173000000.0,
+    "ocf_to_np": 3.13
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 71969000000.0,
+    "revenue_yoy": 8.01,
+    "net_profit": 29333000000.0,
+    "net_profit_yoy": 8.13,
+    "net_profit_deducted": 29434000000.0,
+    "gross_margin": null,
+    "net_margin": 41.03,
+    "selling_expense_ratio": null,
+    "admin_expense_ratio": null,
+    "finance_expense_ratio": null,
+    "rd_expense": null,
+    "rd_ratio": null,
+    "eps": 4.29,
+    "bvps": 33.69,
+    "roe": 13.11,
+    "roa": 0.87,
+    "total_assets": 3628671000000.0,
+    "total_liab": 3380042000000.0,
+    "debt_ratio": 93.15,
+    "cash": null,
+    "receivables": null,
+    "inventory": null,
+    "goodwill": 293000000.0,
+    "interest_debt": null,
+    "equity_parent": 247324000000.0,
+    "ocf": 235516000000.0,
+    "capex": 3436000000.0,
+    "fcf": 232080000000.0,
+    "ocf_to_np": 8.03
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 41450000000.0,
+   "revenue_yoy": 11.54,
+   "net_profit": 16562000000.0,
+   "net_profit_yoy": 12.12,
+   "net_profit_deducted": 16593000000.0,
+   "gross_margin": null,
+   "net_margin": 40.35,
+   "roe": 7.12,
+   "eps": 2.51,
+   "debt_ratio": 92.78,
+   "ocf": 33234000000.0
+  },
+  "derived": {
+   "revenue_cagr_3y": 7.53,
+   "net_profit_cagr_3y": 8.33,
+   "receivables_to_revenue": null,
+   "goodwill_to_equity": 0.12
+  }
+ },
+ "shareholders": {
+  "controller": "无实际控制人",
+  "controlling_shareholder": "宁波开发投资集团有限公司",
+  "controlling_ratio": 18.74,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "宁波开发投资集团有限公司",
+    "hold_num": 1237489845,
+    "hold_ratio": 18.74,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "新加坡华侨银行股份有限公司",
+    "hold_num": 1233993375,
+    "hold_ratio": 18.69,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "雅戈尔时尚股份有限公司",
+    "hold_num": 660360057,
+    "hold_ratio": 10.0,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "香港中央结算有限公司",
+    "hold_num": 406636132,
+    "hold_ratio": 6.16,
+    "hold_num_change": 80848299
+   },
+   {
+    "rank": 5,
+    "name": "华茂集团股份有限公司",
+    "hold_num": 159068973,
+    "hold_ratio": 2.41,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "宁波富邦控股集团有限公司",
+    "hold_num": 120493979,
+    "hold_ratio": 1.82,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "新加坡华侨银行股份有限公司(QFII)",
+    "hold_num": 87770208,
+    "hold_ratio": 1.33,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "宁兴(宁波)资产管理有限公司",
+    "hold_num": 85348203,
+    "hold_ratio": 1.29,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "宁波市轨道交通集团有限公司",
+    "hold_num": 78310394,
+    "hold_ratio": 1.19,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 10,
+    "name": "中央汇金资产管理有限责任公司",
+    "hold_num": 75496366,
+    "hold_ratio": 1.14,
+    "hold_num_change": 0
+   }
+  ],
+  "holder_num": 93139,
+  "holder_num_change_pct": 6.84,
+  "holder_num_date": "2026-06-30",
+  "inst_hold_ratio": 26.09,
+  "northbound_ratio": 6.16,
+  "executives": [
+   {
+    "name": "庄灵君",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "冯培炯",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "俞罡",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": 0.0,
+  "unlock_12m": [
+   {
+    "date": "2026-10-23",
+    "shares": 3588,
+    "ratio": 0.0
+   }
+  ]
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.5,
+    "total_amount": 3301795396.0,
+    "payout_ratio": 16.89,
+    "dividend_yield": 1.5,
+    "ex_date": "2022-07-12"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.5,
+    "total_amount": 3301795396.0,
+    "payout_ratio": 14.31,
+    "dividend_yield": 2.02,
+    "ex_date": "2023-07-12"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.6,
+    "total_amount": 3962154475.2,
+    "payout_ratio": 15.52,
+    "dividend_yield": 2.76,
+    "ex_date": "2024-07-10"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.9,
+    "total_amount": 5943231712.8,
+    "payout_ratio": 21.91,
+    "dividend_yield": 3.22,
+    "ex_date": "2025-07-16"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 1.2,
+    "total_amount": 7924308950.4,
+    "payout_ratio": 27.01,
+    "dividend_yield": 2.34,
+    "ex_date": "2025-12-17"
+   }
+  ],
+  "consecutive_years": 6,
+  "cum_dividend_5y": 24433285930.4,
+  "cum_netprofit_5y": 124616000000.0,
+  "payout_5y": 19.61,
+  "buyback_3y": 0.0
+ },
+ "peers": {
+  "peer_codes": [
+   "600919.SH",
+   "601009.SH",
+   "601229.SH",
+   "600926.SH"
+  ],
+  "segments": [
+   {
+    "name": "公司业务",
+    "revenue": 30330000000.0,
+    "ratio": 42.14,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "资金业务",
+    "revenue": 20654000000.0,
+    "ratio": 28.7,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "个人业务",
+    "revenue": 20509000000.0,
+    "ratio": 28.5,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他业务",
+    "revenue": 476000000.0,
+    "ratio": 0.66,
+    "type": "product",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "中信建投证券股份有限公司关于宁波银行股份有限公司首次公开发行前已发行股份上市流通的核查意见",
+    "date": "2026-10-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-20/1225611224.PDF",
+    "type": null
+   },
+   {
+    "title": "宁波银行股份有限公司首次公开发行前已发行股份上市流通提示性公告",
+    "date": "2026-10-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-20/1225611223.PDF",
+    "type": null
+   },
+   {
+    "title": "北京大成（宁波）律师事务所关于宁波银行股份有限公司2026年第二次临时股东会的法律意见书",
+    "date": "2026-09-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-08/1225551596.PDF",
+    "type": null
+   },
+   {
+    "title": "宁波银行股份有限公司2026年第二次临时股东会决议公告",
+    "date": "2026-09-08",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-08/1225551595.PDF",
+    "type": null
+   },
+   {
+    "title": "宁波银行股份有限公司2026年中期利润分配方案公告",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482246.PDF",
+    "type": null
+   },
+   {
+    "title": "宁波银行股份有限公司2026年第二次临时股东会会议材料",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482245.PDF",
+    "type": null
+   },
+   {
+    "title": "宁波银行股份有限公司关于召开2026年第二次临时股东会的通知",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482244.PDF",
+    "type": null
+   },
+   {
+    "title": "宁波银行股份有限公司2026年半年度第三支柱报告",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482243.PDF",
+    "type": null
+   },
+   {
+    "title": "宁波银行股份有限公司第九届董事会第五次会议决议公告",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482242.PDF",
+    "type": null
+   },
+   {
+    "title": "宁波银行股份有限公司2026年半年度非经营性资金占用及其他关联资金往来情况汇总表",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482241.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度报告",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482240.PDF",
+    "type": null
+   },
+   {
+    "title": "2026年半年度报告摘要",
+    "date": "2026-08-20",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-20/1225482239.PDF",
+    "type": null
+   },
+   {
+    "title": "宁波银行股份有限公司第九届董事会第四次会议决议公告",
+    "date": "2026-08-18",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-18/1225477325.PDF",
+    "type": null
+   },
+   {
+    "title": "宁波银行股份有限公司关于独立董事任职资格获核准的公告",
+    "date": "2026-08-07",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-07/1225461069.PDF",
+    "type": null
+   },
+   {
+    "title": "宁波银行股份有限公司关于独立董事任职资格获核准的公告",
+    "date": "2026-08-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-01/1225451276.PDF",
+    "type": null
+   },
+   {
+    "title": "宁波银行股份有限公司第九届董事会第三次会议决议公告",
+    "date": "2026-08-01",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-01/1225451275.PDF",
+    "type": null
+   },
+   {
+    "title": "宁波银行股份有限公司关于董事任职资格获核准的公告",
+    "date": "2026-07-15",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-15/1225423903.PDF",
+    "type": null
+   },
+   {
+    "title": "宁波银行股份有限公司关于赎回二级资本债券的公告",
+    "date": "2026-07-14",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-14/1225422067.PDF",
+    "type": null
+   },
+   {
+    "title": "宁波银行股份有限公司2025年年度权益分派实施公告",
+    "date": "2026-07-09",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-09/1225415753.PDF",
+    "type": null
+   },
+   {
+    "title": "宁波银行股份有限公司关于董事任职资格获核准的公告",
+    "date": "2026-06-27",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-06-27/1225390705.PDF",
+    "type": null
+   }
+  ],
+  "count_12m": 105
+ },
+ "qa": {
+  "items": [
+   {
+    "question": "尊敬的董秘您好，贵公司2026半年报，第145页“发放贷款和垫款按行业分类”表格中2025年末的金额和占比有误，按照从大到小排列了，不仔细看只简单摘录数据的话很容易发生错误，请知悉更正。",
+    "answer": null,
+    "ask_date": "2026-09-23",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2365721186074779648"
+   },
+   {
+    "question": "尊敬的董秘： 贵司ESG报告包含金融消费者保护。请问贵行对豆豆钱助贷合作业务如何管控？该模式存在合同仅显示银行低名义利率，担保费由第三方另行扣收，未完整披露全部综合融资成本的风险，已产生多起消费者纠纷。豆豆钱平台助贷模式下，已有部分消费者进入监管投诉与司法程序。 请问公司对助贷合作方是否落实全口径成本披露管控？纠纷是否存在全部转交第三方平台处置的情况？ESG是否会披露相关管控措施？",
+    "answer": null,
+    "ask_date": "2026-08-30",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2347948637231624192"
+   },
+   {
+    "question": "贵公司是否在天津这种首套房屋贷款利率高达3.10%城市开展房屋贷款业务？是否在当地开展房贷置换业务？",
+    "answer": null,
+    "ask_date": "2026-08-01",
+    "answer_date": null,
+    "source": "irm",
+    "url": "https://irm.cninfo.com.cn/ircs/question/questionDetail?questionId=2325978479323369472"
+   }
+  ],
+  "count_12m": null
+ }
+}

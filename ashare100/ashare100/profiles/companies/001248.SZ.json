@@ -1,0 +1,346 @@
+{
+ "identity": {
+  "code": "001248",
+  "exchange": "SZ",
+  "board": "主板",
+  "name_full": "华润新能源控股有限公司",
+  "name_abbr": "华润新能源",
+  "aliases": [],
+  "name_en": "China Resources New Energy Holdings Company Limited",
+  "former_names": [],
+  "industry_sw1": "公用事业",
+  "industry_sw2": null,
+  "list_date": "2026-07-02",
+  "province": "香港",
+  "city": null,
+  "website": "www.cr-newenergy.com",
+  "chairman": "史宝峰",
+  "employees": 5853,
+  "business_summary": "风力发电、太阳能发电的电力销售。",
+  "profile": "华润新能源控股有限公司的主营业务为投资、开发、运营和管理风力、太阳能发电站,主要产品为电力。历经十余年发展,华润新能源已成为中国领先的大型新能源发电运营商,业务遍布国内31个省(自治区、直辖市、特别行政区)。截至2025年底,华润新能源并网装机规模达到4,159万千瓦,其中风力发电2,763万千瓦,太阳能发电1,396万千瓦。",
+  "st_status": null,
+  "audit_opinion": null
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 17134153179.0,
+    "revenue_yoy": null,
+    "net_profit": 6451023293.0,
+    "net_profit_yoy": null,
+    "net_profit_deducted": 4032641300.0,
+    "gross_margin": 62.88,
+    "net_margin": 38.38,
+    "eps": 3.23,
+    "bvps": 11.84,
+    "roe": 29.66,
+    "roa": 10.97,
+    "debt_ratio": 79.55,
+    "total_liab": 95328437456.0,
+    "total_assets": 119834616538,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 18197696351.0,
+    "revenue_yoy": 6.21,
+    "net_profit": 6295837034.0,
+    "net_profit_yoy": -2.41,
+    "net_profit_deducted": 5233689700.0,
+    "gross_margin": 60.97,
+    "net_margin": 35.49,
+    "eps": 1.49,
+    "bvps": 6.32,
+    "roe": 17.25,
+    "roa": 4.99,
+    "debt_ratio": 49.55,
+    "total_liab": 68824936045.0,
+    "total_assets": 138899971837,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 20511709366.0,
+    "revenue_yoy": 12.72,
+    "net_profit": 8280202789.0,
+    "net_profit_yoy": 31.52,
+    "net_profit_deducted": 8229081400.0,
+    "gross_margin": 60.75,
+    "net_margin": 41.24,
+    "eps": 0.76,
+    "bvps": 7.04,
+    "roe": 11.34,
+    "roa": 5.41,
+    "debt_ratio": 54.8,
+    "total_liab": 95252938476.0,
+    "total_assets": 173819230796,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 22873610771.0,
+    "revenue_yoy": 11.51,
+    "net_profit": 7953291063.0,
+    "net_profit_yoy": -3.95,
+    "net_profit_deducted": 7845287600.0,
+    "gross_margin": 56.35,
+    "net_margin": 35.6,
+    "eps": 0.73,
+    "bvps": 7.78,
+    "roe": 9.85,
+    "roa": 4.29,
+    "debt_ratio": 57.5,
+    "total_liab": 118146869113.0,
+    "total_assets": 205472815849,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 22909052050.0,
+    "revenue_yoy": 0.15,
+    "net_profit": 6101808398.0,
+    "net_profit_yoy": -23.28,
+    "net_profit_deducted": 5980124400.0,
+    "gross_margin": 48.84,
+    "net_margin": 27.62,
+    "eps": 0.56,
+    "bvps": 8.35,
+    "roe": 6.94,
+    "roa": 2.87,
+    "debt_ratio": 59.98,
+    "total_liab": 141112090086.0,
+    "total_assets": 235265238556,
+    "ocf_to_np": null
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 12631997493.0,
+   "revenue_yoy": -2.94,
+   "net_profit": 3312374308.0,
+   "net_profit_yoy": -29.55,
+   "net_profit_deducted": 3249910320.0,
+   "gross_margin": 47.39,
+   "net_margin": 27.35,
+   "eps": 0.3,
+   "roe": 3.57,
+   "debt_ratio": 54.88
+  },
+  "derived": {
+   "revenue_cagr_3y": 7.98,
+   "net_profit_cagr_3y": -1.04,
+   "receivables_to_revenue": null,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "中国华润有限公司",
+  "controlling_shareholder": null,
+  "controlling_ratio": null,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "华润电力控股有限公司",
+    "hold_num": 10898269860.0,
+    "hold_ratio": 81.81,
+    "hold_num_change": null
+   },
+   {
+    "rank": 2,
+    "name": "蜀道(四川)创新投资发展有限公司",
+    "hold_num": 116491192.0,
+    "hold_ratio": 0.87,
+    "hold_num_change": null
+   },
+   {
+    "rank": 3,
+    "name": "内蒙古蒙能元启产业投资有限公司",
+    "hold_num": 88250900.0,
+    "hold_ratio": 0.66,
+    "hold_num_change": null
+   },
+   {
+    "rank": 4,
+    "name": "中国诚通控股集团有限公司",
+    "hold_num": 76248778.0,
+    "hold_ratio": 0.57,
+    "hold_num_change": null
+   },
+   {
+    "rank": 5,
+    "name": "广东恒健资产管理有限公司",
+    "hold_num": 70600720.0,
+    "hold_ratio": 0.53,
+    "hold_num_change": null
+   },
+   {
+    "rank": 6,
+    "name": "中国人寿保险股份有限公司",
+    "hold_num": 61775630.0,
+    "hold_ratio": 0.46,
+    "hold_num_change": null
+   },
+   {
+    "rank": 7,
+    "name": "陕西投资集团有限公司",
+    "hold_num": 52950540.0,
+    "hold_ratio": 0.4,
+    "hold_num_change": null
+   },
+   {
+    "rank": 8,
+    "name": "甘肃电投资本管理有限责任公司",
+    "hold_num": 44125450.0,
+    "hold_ratio": 0.33,
+    "hold_num_change": null
+   },
+   {
+    "rank": 8,
+    "name": "国风投创新投资基金股份有限公司",
+    "hold_num": 44125450.0,
+    "hold_ratio": 0.33,
+    "hold_num_change": null
+   },
+   {
+    "rank": 8,
+    "name": "国新发展投资管理有限公司",
+    "hold_num": 44125450.0,
+    "hold_ratio": 0.33,
+    "hold_num_change": null
+   },
+   {
+    "rank": 8,
+    "name": "深圳市燃气集团股份有限公司",
+    "hold_num": 44125450.0,
+    "hold_ratio": 0.33,
+    "hold_num_change": null
+   },
+   {
+    "rank": 8,
+    "name": "新疆投资发展(集团)有限责任公司",
+    "hold_num": 44125450.0,
+    "hold_ratio": 0.33,
+    "hold_num_change": null
+   },
+   {
+    "rank": 8,
+    "name": "中国保险投资基金(有限合伙)",
+    "hold_num": 44125450.0,
+    "hold_ratio": 0.33,
+    "hold_num_change": null
+   },
+   {
+    "rank": 8,
+    "name": "中国人民健康保险股份有限公司",
+    "hold_num": 44125450.0,
+    "hold_ratio": 0.33,
+    "hold_num_change": null
+   },
+   {
+    "rank": 8,
+    "name": "中央企业乡村产业投资基金股份有限公司",
+    "hold_num": 44125450.0,
+    "hold_ratio": 0.33,
+    "hold_num_change": null
+   }
+  ],
+  "top10_date": "2026-07-31",
+  "holder_num": 1634154.0,
+  "holder_num_change_pct": 0.0,
+  "holder_num_date": "2026-07-02",
+  "inst_hold_ratio": null,
+  "northbound_ratio": null,
+  "executives": [
+   {
+    "name": "史宝峰",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "左学群",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "刘倩影",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": null,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": null,
+    "total_amount": null,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": null,
+    "total_amount": null,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": null,
+    "total_amount": null,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": null,
+    "total_amount": null,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": null,
+    "total_amount": null,
+    "payout_ratio": null,
+    "dividend_yield": null,
+    "ex_date": null
+   }
+  ],
+  "consecutive_years": null,
+  "cum_dividend_5y": null,
+  "cum_netprofit_5y": 35082162577.0,
+  "payout_5y": null,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [],
+  "segments": []
+ },
+ "announcements": {
+  "items": [],
+  "count_12m": null
+ },
+ "qa": {
+  "items": []
+ },
+ "_meta": {
+  "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
+  "fetched_at": "2026-10-27T16:28:45+08:00",
+  "errors": {}
+ }
+}
