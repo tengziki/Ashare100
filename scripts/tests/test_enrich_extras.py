@@ -50,6 +50,24 @@ class ExtrasTests(unittest.TestCase):
         with self.assertRaises(ex.Unsupported):
             ex.fetch_qa("300124.SZ", NOW)
 
+    def test_irm_rows(self):
+        day = lambda s: int(datetime.fromisoformat(s + "T10:00:00+08:00").timestamp() * 1000)
+        doc = {"total": 50, "rows": [
+            {"mainContent": "请问储能&amp;出货？", "pubDate": day("2026-10-20"), "attachedContent": None},
+            {"mainContent": "分红计划？", "pubDate": day("2026-10-25"), "attachedContent": "<p>感谢关注。</p>",
+             "attachedPubDate": day("2026-10-27")},
+            {"mainContent": "", "pubDate": day("2026-10-26")}]}
+        original, ex.post = ex.post, lambda url, data, timeout=20: doc
+        try:
+            qa = ex.fetch_qa("300750.SZ", NOW, org_id="GD165627")
+        finally:
+            ex.post = original
+        self.assertEqual(qa["count_12m"], 50)
+        self.assertEqual([(q["ask_date"], q["answer"], q["answer_date"]) for q in qa["items"]],
+                         [("2026-10-25", "感谢关注。", "2026-10-27"), ("2026-10-20", None, None)])
+        self.assertEqual(qa["items"][1]["question"], "请问储能&出货？")
+        self.assertEqual(qa["items"][0]["source"], "irm")
+
     def test_image_size(self):
         self.assertEqual(ex.image_size(png(128, 64)), 128)
         ico = b"\x00\x00\x01\x00" + struct.pack("<H", 2) + bytes([16, 16]) + b"\x00" * 14 + bytes([0, 0]) + b"\x00" * 14

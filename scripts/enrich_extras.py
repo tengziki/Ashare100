@@ -1,8 +1,8 @@
 """新进公司的附加资料：logo、近 12 个月公告、投资者问答。首次出现时获取一次。
 
 - 公告：巨潮资讯公告查询，近 12 个月，存最新 20 条与 12 个月总数（与已核实档案同结构）。
-- 问答：沪市取上证 e 互动（已回复 + 待回复，合并取最新 8 条）；深市互动易在本机网络不可达，
-  暂不抓取，记为附加问题，等网络可达时再补。北交所同。
+- 问答：沪市取上证 e 互动（已回复 + 待回复，合并取最新 8 条）；深市/北交所取互动易（需巨潮 orgId，
+  本机网络不可达，只在 GitHub Actions 上可抓）。
 - logo：先试上证 e 互动的公司头像（沪市，公司自己上传，78px）与 Google 图标服务（128px），
   已有 ≥64px 的就不再访问官网；否则再取官网图标。取边长 ≥32px 的最大一张；都不合格就不放文件，
   页面显示首字图标，并在 logos.json 记 missing 等人工补。
@@ -39,6 +39,7 @@ UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0 Safa
 CNINFO_QUERY = "https://www.cninfo.com.cn/new/hisAnnouncement/query"
 CNINFO_SEARCH = "https://www.cninfo.com.cn/new/information/topSearch/query"
 SSE_E = "https://sns.sseinfo.com/"
+IRM = "https://irm.cninfo.com.cn/"
 ANN_N, QA_N, MIN_LOGO_PX = 20, 8, 32
 
 
@@ -172,11 +173,40 @@ class Unsupported(ValueError):
     """来源已知不可用（不是临时失败）：只计数，不当作问题告警。"""
 
 
-def fetch_qa(code, now=None, uid=None):
+def irm_day(ms):
+    return datetime.fromtimestamp(ms / 1000, CN_TZ).date().isoformat() if ms else None
+
+
+def fetch_irm(code, org_id):
+    """深市/北交所互动易：company/question 按提问时间倒序，含已回复与待回复。
+    本机网络不可达，只在 GitHub Actions 上跑；orgId 与巨潮公告共用。"""
+    num = code.split(".")[0]
+    doc = post(f"{IRM}newircs/company/question?_t={int(time.time())}",
+               {"stockcode": num, "orgId": org_id, "pageSize": QA_N, "pageNum": 1, "keyWord": "",
+                "startDay": "", "endDay": ""})
+    rows = doc.get("rows")
+    if not isinstance(rows, list):
+        raise ValueError(f"互动易返回格式异常：{str(doc)[:80]}")
+    items = []
+    for r in rows:
+        question = clean(r.get("mainContent") or "")
+        if not question:
+            continue
+        answer = clean(r.get("attachedContent") or "") or None
+        items.append({"question": question, "answer": answer, "ask_date": irm_day(r.get("pubDate")),
+                      "answer_date": irm_day(r.get("attachedPubDate") or r.get("updateDate")) if answer else None,
+                      "source": "irm", "url": f"{IRM}views/interactiveAnswer?stockcode={num}&orgId={org_id}"})
+    items.sort(key=lambda q: q["ask_date"] or "", reverse=True)
+    return {"items": items[:QA_N], "count_12m": doc.get("total")}
+
+
+def fetch_qa(code, now=None, uid=None, org_id=None):
     now = now or datetime.now(CN_TZ)
     exchange = code.split(".")[1]
     if exchange != "SH":
-        raise Unsupported("深市/北交所互动易（irm.cninfo.com.cn）在本机网络不可达，暂未抓取")
+        if not org_id:
+            raise Unsupported("互动易需要巨潮 orgId")
+        return fetch_irm(code, org_id)
     uid = uid or sse_uid(code)
     rows = {}
     for kind in (11, 10):  # 11 = 已回复，10 = 待回复

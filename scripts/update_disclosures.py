@@ -3,7 +3,7 @@
 公告与问答是会变的数据，不写进已核实档案（profiles/verified/）。
 - 公告：巨潮近 12 个月，最新 20 条与 12 个月总数，每次整体重取。
 - 问答：沪市上证 e 互动（已回复 + 待回复），与上一版按问题合并：新问题加入、原问题出现回复时更新，取最新 8 条。
-  深市/北交所互动易在本机网络不可达，沿用档案原有问答并记为问题。
+  深市/北交所取互动易（本机网络不可达，只在 GitHub Actions 上抓），合并规则相同；失败时沿用上一版。
 单家失败沿用上一版该公司的数据；覆盖率低于 80% 时不切换 latest.json。
 巨潮 orgId 与 e 互动 uid 缓存在 profiles/disclosure_ids.json。
 
@@ -54,9 +54,10 @@ def one(code, previous, ids, now):
     try:
         if code.endswith(".SH") and num not in ids.get("sse_uid", {}):
             ids.setdefault("sse_uid", {})[num] = ex.sse_uid(code)
-        fresh = ex.fetch_qa(code, now, ids.get("sse_uid", {}).get(num))
+        fresh = ex.fetch_qa(code, now, ids.get("sse_uid", {}).get(num), ids.get("cninfo", {}).get(code))
         entry["qa"] = {"items": merge_qa((entry.get("qa") or {}).get("items"), fresh["items"]), "count_12m": None}
         entry["qa_at"] = now.isoformat(timespec="seconds")
+        entry.pop("qa_unsupported", None)
     except ex.Unsupported:
         entry["qa_unsupported"] = True  # 已知缺口，不告警；页面沿用档案原有问答
     except Exception as exc:
