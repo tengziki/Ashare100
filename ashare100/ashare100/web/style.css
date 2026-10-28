@@ -1160,6 +1160,14 @@ footer{margin-top:96px;padding-top:var(--sp-6);border-top:1px solid var(--color-
 .wrap.aboutpage{max-width:960px}
 .ab-lead{font-size:16px;line-height:1.85;color:var(--color-text-primary);margin:14px 0 0;max-width:46em}
 .ab-sec{margin-top:44px}
+.cl-day{margin-top:36px}
+.cl-day h2{font-size:15px;font-weight:600;color:var(--color-text-primary);margin:0 0 10px;padding-bottom:8px;border-bottom:1px solid var(--color-border)}
+.cl-day ul{list-style:none;margin:0;padding:0}
+.cl-day li{display:flex;gap:12px;align-items:baseline;padding:9px 0;font-size:14px;line-height:1.75;color:var(--color-text-primary)}
+.cl-tag{flex:none;font-size:12px;font-weight:600;padding:0 8px;border-radius:4px;line-height:20px}
+.cl-new{background:#E7F5EE;color:#0E7A50}
+.cl-fix{background:#FDF3E1;color:#9A5B00}
+.cl-chg{background:#EEF0F3;color:#4A5568}
 .ab-sec h2{margin:0 0 14px;padding-bottom:8px;font-size:20px;border-bottom:2px solid var(--color-brand)}
 .ab-sec p{line-height:1.8;margin:0 0 12px}
 .ab-note{font-size:var(--fs-sm);color:var(--color-text-secondary)}

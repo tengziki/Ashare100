@@ -679,7 +679,7 @@
       ${statusPanel()}
       <span>榜单与行情 ${esc(MARKET_ASOF)}${liveMode === 'fallback' ? ' · 联网失败，显示静态备份' : ''}</span><span>财务/机构为历史披露档案，未补档公司不计入相关合计</span>
       <span>行情来源：${esc(MARKET_SOURCE)} · 档案来源：东方财富、巨潮资讯、交易所等</span>
-      <span>本站为课程作业，仅整理公开信息，不构成投资建议 · <a href="#/about">关于本项目</a></span></footer>`;
+      <span>本站为课程作业，仅整理公开信息，不构成投资建议 · <a href="#/about">关于本项目</a> · <a href="#/changelog">更新日志</a></span></footer>`;
 
   function bindHome() {
     bindJump();
@@ -1691,6 +1691,22 @@
           <a href="#/timeline"><b>④ 时间轴</b><span>在同一时间轴上观察百强公司的成立、上市与资本市场制度的演进</span></a>
         </div>
       </section>
+      ${pageFoot()}
+    </div>`;
+  }
+
+  /* 更新日志：数据在 changelog.js，最新在前 */
+  function changelogView() {
+    const log = window.__CHANGELOG__ || [];
+    return `
+    ${siteHeader('')}
+    <div class="wrap aboutpage">
+      <div class="kicker">更新日志</div>
+      <h1 class="ptitle">网页更新与修复记录</h1>
+      <p class="ab-lead">记录网页功能、数据处理方式的改动与问题修复；每个交易日的数据自动刷新不在此列。</p>
+      ${log.length ? log.map((d) => `<section class="cl-day"><h2>${esc(d.date)}</h2><ul>${d.items.map((x) =>
+        `<li><span class="cl-tag cl-${x.type === '新增' ? 'new' : x.type === '修复' ? 'fix' : 'chg'}">${esc(x.type)}</span><span>${esc(x.text)}</span></li>`).join('')}</ul></section>`).join('')
+        : '<div class="empty">暂无记录</div>'}
       ${pageFoot()}
     </div>`;
   }
@@ -3000,6 +3016,10 @@
       document.title = '关于 · Ashare100';
       window.scrollTo(0, 0);
       bindJump();
+    } else if (code === 'changelog') {
+      app.innerHTML = changelogView();
+      document.title = '更新日志 · Ashare100';
+      window.scrollTo(0, 0);
     } else if (code === 'timeline') {
       app.innerHTML = timelineView();
       document.title = '时间轴 · Ashare100';
