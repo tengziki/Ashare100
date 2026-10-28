@@ -2,9 +2,12 @@ name: Daily price metrics
 
 on:
   schedule:
-    # UTC 07:40 = 北京时间工作日 15:40，在 15:00 收盘快照之后。
-    # GitHub 定时触发可能延迟；页面只在指标与快照同一交易日时采用。
-    - cron: "40 7 * * 1-5"
+    # 兜底：UTC 08:20 = 北京时间工作日 16:20。正常情况由下面的 workflow_run 在收盘榜单成功后立即接力，
+    # 不再依赖固定时刻（收盘任务若被 GitHub 推迟，固定 15:40 会算到旧榜单上）。
+    - cron: "20 8 * * 1-5"
+  workflow_run:
+    workflows: ["Update dynamic A-share top 100"]
+    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -17,6 +20,8 @@ concurrency:
 
 jobs:
   metrics:
+    # 接力只在榜单任务成功时进行；午间那次也接力，收盘后会再算一次覆盖
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     permissions:
       contents: write

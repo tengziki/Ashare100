@@ -20,6 +20,7 @@ import re
 import socket
 import struct
 import sys
+import threading
 import time
 import urllib.parse
 import urllib.request
@@ -74,24 +75,42 @@ def prefer_ipv6(host):
         socket.getaddrinfo = original
 
 
+SSE_LOCK = threading.Lock()
+SSE_GAP = 0.6  # 2026-10-28：6 线程并发时每次约 20 家沪市问答被拒，e 互动请求改为串行并留间隔
+_sse_last = [0.0]
+
+
 def get_bytes(url, timeout=20, referer=None, attempts=2):
     req = urllib.request.Request(url, headers={**UA, **({"Referer": referer} if referer else {})})
+    sse = url.startswith(SSE_E)
+    if sse:
+        attempts = max(attempts, 3)
 
     def once():
         with urllib.request.urlopen(req, timeout=timeout) as r:
             return r.read(), r.headers.get("Content-Type", ""), r.geturl()
 
+    def throttled():
+        if not sse:
+            return once()
+        with SSE_LOCK:
+            time.sleep(max(0.0, _sse_last[0] + SSE_GAP - time.monotonic()))
+            try:
+                return once()
+            finally:
+                _sse_last[0] = time.monotonic()
+
     for attempt in range(attempts):
         try:
-            return once()
-        except OSError:
+            return throttled()
+        except OSError as first:
             try:  # 默认路径失败：改走 IPv6 再试一次
                 with prefer_ipv6(urllib.parse.urlparse(url).hostname):
-                    return once()
+                    return throttled()
             except OSError:
                 if attempt + 1 == attempts:
-                    raise
-                time.sleep(2)
+                    raise first  # 报默认路径的错误；无 IPv6 时后者只会是 Network is unreachable
+                time.sleep(5 * (attempt + 1) if sse else 2)
 
 
 # ---------- 公告 ----------
