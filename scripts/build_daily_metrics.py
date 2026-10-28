@@ -153,6 +153,15 @@ def build(snapshot, fetch_one=one, workers=5):
                 metrics[code] = value
             else:
                 errors[code] = error
+    # 偶发超时（每轮约 1 家）：并发结束后串行补试一次
+    for code in list(errors):
+        _skip.clear()
+        _, value, error = job(code)
+        if value is not None:
+            metrics[code] = value
+            del errors[code]
+        else:
+            errors[code] = error
     return {
         "meta": {"quote_date": asof, "generated_at": datetime.now(CN_TZ).isoformat(timespec="seconds"),
                  "snapshot_generated_at": snapshot["meta"]["generated_at"],
