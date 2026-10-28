@@ -1,0 +1,312 @@
+{
+ "identity": {
+  "code": "300999",
+  "exchange": "SZ",
+  "board": "创业板",
+  "name_full": "益海嘉里金龙鱼食品集团股份有限公司",
+  "name_abbr": "金龙鱼",
+  "aliases": [],
+  "name_en": "Yihai Kerry Arawana Holdings Co., Ltd",
+  "former_names": [],
+  "industry_sw1": "农林牧渔",
+  "industry_sw2": null,
+  "list_date": "2020-10-15",
+  "found_date": "2005-06-17",
+  "province": "上海",
+  "city": null,
+  "website": "www.yihaikerry.net.cn",
+  "chairman": "Kuok Khoon Hong(郭孔丰)",
+  "employees": 36565,
+  "business_summary": "(一)从事食用和工业用动植物油脂、油料、及其它们的副产品和深加工产品、饲料用油脂、饲料及添加剂、包装材料、日用化工合成洗涤剂和相关技术的进出口、批发、佣金代理(…",
+  "profile": "益海嘉里金龙鱼食品集团股份有限公司是中国重要的农产品和食品加工企业,创始人为著名爱国华侨郭鹤年先生和他的侄子郭孔丰先生。公司主要涉足油籽压榨、油脂精炼、油脂灌装、专用油脂、油脂科技、水稻循环经济、玉米、小麦、大豆加工及其延伸产业链、食品原辅料、粮油科技研发、中央厨房、大健康产品等产业。益海嘉里金龙鱼旗下拥有“金龙鱼”“欧丽薇兰”“胡姬花”“香满园”“金龙鱼丰益堂”“海皇”“金味”“丰苑”“锐龙”“洁劲100”等知名品牌,建立了覆盖零售、餐饮、食品工业等全渠道的营销网络,产品涵盖食用油、大米、面粉及挂面、调味品、专用油脂、食品原辅料等家庭、餐饮及食品工业用厨房食品;豆粕、麸皮、米糠粕等饲料原料;以棕榈油等油脂为原料生产的油脂基础化学品、油脂衍生化学品、营养品、日化用品等油脂科技产品。与此同时集团在国内建立了网点广泛、点面结合、渠道畅通的营销网络,为广大消费者提供全方位服务。展望未来,益海嘉里将继续响应国家产业和经济政策,发挥自身的品牌、规模、研发、人才等优势,秉承营养、健康、安全的研发理念,把国内外食品、营养等学科的最新研究成果与中国人民的膳食特点相结合,持续不断地为国人提供更营养、更健康、更安全的优质粮油产品,以实业报国,为推动中国粮油食品行业发展做贡献。",
+  "st_status": null,
+  "audit_opinion": null
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 226225162000.0,
+    "revenue_yoy": 16.06,
+    "net_profit": 4131620000.0,
+    "net_profit_yoy": -31.15,
+    "net_profit_deducted": 4996278000.0,
+    "gross_margin": 8.18,
+    "net_margin": 1.98,
+    "eps": 0.76,
+    "bvps": 15.99,
+    "roe": 4.85,
+    "roa": 2.32,
+    "debt_ratio": 56.04,
+    "total_liab": 116141509000.0,
+    "total_assets": 207247517844,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 257485444000.0,
+    "revenue_yoy": 13.82,
+    "net_profit": 3011143000.0,
+    "net_profit_yoy": -27.12,
+    "net_profit_deducted": 3184242000.0,
+    "gross_margin": 5.68,
+    "net_margin": 1.21,
+    "eps": 0.56,
+    "bvps": 16.36,
+    "roe": 3.43,
+    "roa": 1.44,
+    "debt_ratio": 59.08,
+    "total_liab": 134659803000.0,
+    "total_assets": 227927899458,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 251523736000.0,
+    "revenue_yoy": -2.32,
+    "net_profit": 2847749000.0,
+    "net_profit_yoy": -5.43,
+    "net_profit_deducted": 1321335000.0,
+    "gross_margin": 4.83,
+    "net_margin": 1.11,
+    "eps": 0.53,
+    "bvps": 16.88,
+    "roe": 3.16,
+    "roa": 1.19,
+    "debt_ratio": 59.76,
+    "total_liab": 142535143000.0,
+    "total_assets": 238512622155,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 238279409000.0,
+    "revenue_yoy": -5.27,
+    "net_profit": 2502020000.0,
+    "net_profit_yoy": -12.14,
+    "net_profit_deducted": 968638000.0,
+    "gross_margin": 5.36,
+    "net_margin": 1.04,
+    "eps": 0.46,
+    "bvps": 17.29,
+    "roe": 2.7,
+    "roa": 1.07,
+    "debt_ratio": 56.36,
+    "total_liab": 126853839000.0,
+    "total_assets": 225077783889,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 245125575000.0,
+    "revenue_yoy": 2.87,
+    "net_profit": 3152894000.0,
+    "net_profit_yoy": 26.01,
+    "net_profit_deducted": 2844654000.0,
+    "gross_margin": 6.43,
+    "net_margin": 1.38,
+    "eps": 0.58,
+    "bvps": 17.79,
+    "roe": 3.32,
+    "roa": 1.49,
+    "debt_ratio": 55.86,
+    "total_liab": 127770444000.0,
+    "total_assets": 228733340494,
+    "ocf_to_np": null
+   }
+  ],
+  "latest": {
+   "report_period": "2026-06-30",
+   "report_type": "2026年中报",
+   "revenue": 122851600000.0,
+   "revenue_yoy": 6.2,
+   "net_profit": 2294374000.0,
+   "net_profit_yoy": 30.69,
+   "net_profit_deducted": 1480606000.0,
+   "gross_margin": 6.31,
+   "net_margin": 1.94,
+   "eps": 0.42,
+   "roe": 2.36,
+   "debt_ratio": 56.24
+  },
+  "derived": {
+   "revenue_cagr_3y": -1.63,
+   "net_profit_cagr_3y": 1.55,
+   "receivables_to_revenue": null,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": null,
+  "controlling_shareholder": null,
+  "controlling_ratio": null,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "豐益營銷(香港)有限公司",
+    "hold_num": 4878944439.0,
+    "hold_ratio": 89.99,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "香港中央结算有限公司",
+    "hold_num": 10027979.0,
+    "hold_ratio": 0.18,
+    "hold_num_change": 685337.0
+   },
+   {
+    "rank": 3,
+    "name": "刘大鹏",
+    "hold_num": 9066900.0,
+    "hold_ratio": 0.17,
+    "hold_num_change": -155000.0
+   },
+   {
+    "rank": 4,
+    "name": "中国工商银行股份有限公司-中证主要消费交易型开放式指数证券投资基金",
+    "hold_num": 8149235.0,
+    "hold_ratio": 0.15,
+    "hold_num_change": -649935.0
+   },
+   {
+    "rank": 5,
+    "name": "中国工商银行股份有限公司-易方达创业板交易型开放式指数证券投资基金",
+    "hold_num": 3442124.0,
+    "hold_ratio": 0.06,
+    "hold_num_change": -1999952.0
+   },
+   {
+    "rank": 6,
+    "name": "蔡玉栋",
+    "hold_num": 3273091.0,
+    "hold_ratio": 0.06,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "张斌",
+    "hold_num": 2908545.0,
+    "hold_ratio": 0.05,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "祁玉峰",
+    "hold_num": 2736700.0,
+    "hold_ratio": 0.05,
+    "hold_num_change": 25500.0
+   },
+   {
+    "rank": 9,
+    "name": "中信证券股份有限公司-天弘中证食品饮料交易型开放式指数证券投资基金",
+    "hold_num": 2334600.0,
+    "hold_ratio": 0.04,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "张华国",
+    "hold_num": 2300000.0,
+    "hold_ratio": 0.04,
+    "hold_num_change": null
+   }
+  ],
+  "top10_date": "2026-06-30",
+  "holder_num": 106679.0,
+  "holder_num_change_pct": -2.13,
+  "holder_num_date": "2026-10-20",
+  "inst_hold_ratio": null,
+  "northbound_ratio": 0.18,
+  "executives": [
+   {
+    "name": "Kuok Khoon Hong(郭孔丰)",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "穆彦魁",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "Ang Bee Ling(洪美玲)",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": null,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.077,
+    "total_amount": 417462548.27,
+    "payout_ratio": 10.1,
+    "dividend_yield": null,
+    "ex_date": "2022-08-05"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.077,
+    "total_amount": 417462548.27,
+    "payout_ratio": 13.86,
+    "dividend_yield": null,
+    "ex_date": "2023-06-21"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.111,
+    "total_amount": 601796660.5,
+    "payout_ratio": 21.13,
+    "dividend_yield": null,
+    "ex_date": "2024-05-08"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.111,
+    "total_amount": 601796660.5,
+    "payout_ratio": 24.05,
+    "dividend_yield": null,
+    "ex_date": "2025-04-29"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.23,
+    "total_amount": 1246966053.28,
+    "payout_ratio": 39.55,
+    "dividend_yield": null,
+    "ex_date": "2026-05-26"
+   }
+  ],
+  "consecutive_years": 5,
+  "cum_dividend_5y": 3285484470.8199997,
+  "cum_netprofit_5y": 15645426000.0,
+  "payout_5y": 21.0,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [],
+  "segments": []
+ },
+ "announcements": {
+  "items": [],
+  "count_12m": null
+ },
+ "qa": {
+  "items": []
+ },
+ "_meta": {
+  "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
+  "fetched_at": "2026-10-28T18:22:27+08:00",
+  "errors": {}
+ }
+}

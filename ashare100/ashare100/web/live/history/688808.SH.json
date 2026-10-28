@@ -4,8 +4,8 @@
  "exited_on": "2026-10-27",
  "exited_vs": "2026-10-26 收盘（东方财富日估值）",
  "last_rank": 97,
- "now_rank": 101,
- "now_total_mv": 149971000000.0,
+ "now_rank": 96,
+ "now_total_mv": 158936000000.0,
  "profile_status": "verified_snapshot",
  "market": {
   "as_of_date": "2026-10-22",
@@ -668,5 +668,5 @@
    "count_12m": null
   }
  },
- "now_at": "2026-10-27"
+ "now_at": "2026-10-28"
 }

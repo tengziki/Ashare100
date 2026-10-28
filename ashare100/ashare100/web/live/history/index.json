@@ -1,10 +1,4 @@
 {
- "688808.SH": {
-  "name": "联讯仪器",
-  "exited_on": "2026-10-27",
-  "last_rank": 97,
-  "profile_status": "verified_snapshot"
- },
  "688072.SH": {
   "name": "拓荆科技",
   "exited_on": "2026-10-26",
@@ -21,6 +15,12 @@
   "name": "同花顺",
   "exited_on": "2026-10-27",
   "last_rank": 99,
+  "profile_status": "verified_snapshot"
+ },
+ "601600.SH": {
+  "name": "中国铝业",
+  "exited_on": "2026-10-28",
+  "last_rank": 100,
   "profile_status": "verified_snapshot"
  }
 }
