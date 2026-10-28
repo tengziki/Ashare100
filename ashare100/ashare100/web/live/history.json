@@ -26,5 +26,13 @@
     "exited": [
       "601600.SH"
     ]
+  },
+  {
+    "snapshot": "snapshots/20261028T102915Z.json",
+    "quote_date": "2026-10-28",
+    "slot": "noon",
+    "base_label": "2026-10-28 收盘",
+    "entered": [],
+    "exited": []
   }
 ]
