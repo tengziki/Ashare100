@@ -341,6 +341,11 @@ def main():
     snapshot = build_snapshot(codes, quotes, old, known, args.slot, now, bases)
     if snapshot is None:
         print("非交易日或行情仍为上一交易日：保留现有快照")
+        # 工作日 10:00 后行情仍非今日 = 节假日休市（开盘前的运行不能据此判断）
+        if now.weekday() < 5 and now.hour >= 10:
+            import task_status
+            task_status.mark_closed(now.date(), live_dir=args.output_dir)
+            print(f"已记为休市：{now.date()}")
         return
     # 行业补档失败不阻塞发布：缺的公司保持 null，下次运行重试
     profile_problems = []

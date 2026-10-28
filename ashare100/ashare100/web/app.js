@@ -646,11 +646,14 @@
   }
   /* ---------- 数据状态面板：各任务上次成功时间，按工作日小时判断是否过期 ---------- */
   // 只计周一至周五的小时，周末不算延误
+  // 只计交易日的小时：跳过周末与脚本据行情确认的节假日（status.json 的 closed_days）
   const weekdayHours = (from, to) => {
+    const closed = new Set(DATA.meta.task_status?.closed_days || []);
     let h = 0;
     for (let t = from.getTime(); t < to.getTime(); t += 3600e3) {
-      const day = new Date(t + 8 * 3600e3).getUTCDay(); // 按北京时间判断星期
-      if (day !== 0 && day !== 6) h += Math.min(1, (to.getTime() - t) / 3600e3);
+      const bj = new Date(t + 8 * 3600e3); // 按北京时间判断星期与日期
+      const day = bj.getUTCDay();
+      if (day !== 0 && day !== 6 && !closed.has(bj.toISOString().slice(0, 10))) h += Math.min(1, (to.getTime() - t) / 3600e3);
     }
     return h;
   };
