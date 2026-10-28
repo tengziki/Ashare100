@@ -43,10 +43,13 @@ jobs:
           SCHEDULE: ${{ github.event.schedule }}
           MANUAL_SLOT: ${{ inputs.slot }}
         run: |
-          if [ "$SCHEDULE" = "35 3 * * 1-5" ]; then
-            slot=noon
-          elif [ "$SCHEDULE" = "10 7 * * 1-5" ]; then
-            slot=close
+          # 定时任务按实际开跑的北京时间定时段，不按是哪条 cron：2026-10-28 的 12:00 任务被 GitHub 推迟到 18:28 才跑，
+          # 按 cron 记成了午间，收盘数据被标成「午间暂定」
+          if [ -n "$SCHEDULE" ]; then
+            hm=$(TZ=Asia/Shanghai date +%H%M)
+            if [ "$hm" -ge 1500 ]; then slot=close
+            elif [ "$hm" -ge 1130 ] && [ "$hm" -lt 1300 ]; then slot=noon
+            else slot=intraday; fi
           else
             slot="${MANUAL_SLOT:-intraday}"
           fi
