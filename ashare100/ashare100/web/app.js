@@ -317,7 +317,7 @@
     if (j) { e.preventDefault(); j.focus(); }
   });
 
-  /* ---------- 进出榜：默认较上一交易日收盘，可切换较今日上一版 ---------- */
+  /* ---------- 进出榜：较上一交易日收盘（「较今日上一版」切换已于 2026-10-28 去掉） ---------- */
   const CHG_SETS = [DATA.meta.live_changes, DATA.meta.live_changes_run].filter(Boolean);
   const CHG = CHG_SETS[0] || null;
   const shortBase = (label) => String(label || '').replace(/^\d{4}-(\d{2})-(\d{2})/, (_, m, d) => `${+m}/${+d}`);
@@ -347,11 +347,9 @@
     if (!set) return '';
     const same = !set.entered.length && !set.exited.length;
     return `<span class="chgsum" data-set="${i}" title="对比基准：${esc(set.base_label)}"><span>${esc(baseName(set.base_label))}${same ? ' · 成员不变</span>'
-      : `</span><button class="chgbadge up" data-tip-fn="chg" data-set="${i}">新进 ${set.entered.length} 家</button><button class="chgbadge down" data-tip-fn="chg" data-set="${i}">退出 ${set.exited.length} 家</button>`}${CHG_SETS.length > 1 ? `<button class="chgswitch" data-set="${i}" title="切换对比基准">⇄ ${esc(baseName(CHG_SETS[1 - i].base_label))}</button>` : ''}</span>`;
+      : `</span><button class="chgbadge up" data-tip-fn="chg" data-set="${i}">新进 ${set.entered.length} 家</button><button class="chgbadge down" data-tip-fn="chg" data-set="${i}">退出 ${set.exited.length} 家</button>`}</span>`;
   };
   document.addEventListener('click', (e) => {
-    const sw = e.target.closest('.chgswitch');
-    if (sw) { const host = sw.closest('.chgsum'); host.outerHTML = chgSummary(1 - +sw.dataset.set); document.getElementById('chgpop')?.remove(); return; }
     const b = e.target.closest('.chgbadge');
     const pop = document.getElementById('chgpop');
     if (!b) { if (pop && !e.target.closest('#chgpop')) pop.remove(); return; }
@@ -1705,7 +1703,7 @@
       <h1 class="ptitle">网页更新与修复记录</h1>
       <p class="ab-lead">记录网页功能、数据处理方式的改动与问题修复；每个交易日的数据自动刷新不在此列。</p>
       ${log.length ? log.map((d) => `<section class="cl-day"><h2>${esc(d.date)}</h2><ul>${d.items.map((x) =>
-        `<li><span class="cl-tag cl-${x.type === '新增' ? 'new' : x.type === '修复' ? 'fix' : 'chg'}">${esc(x.type)}</span><span>${esc(x.text)}</span></li>`).join('')}</ul></section>`).join('')
+        `<li>${x.time ? `<time class="cl-time">${esc(x.time)}</time>` : ''}<span class="cl-tag cl-${x.type === '新增' ? 'new' : x.type === '修复' ? 'fix' : 'chg'}">${esc(x.type)}</span><span>${esc(x.text)}</span></li>`).join('')}</ul></section>`).join('')
         : '<div class="empty">暂无记录</div>'}
       ${pageFoot()}
     </div>`;

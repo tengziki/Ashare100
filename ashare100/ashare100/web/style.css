@@ -1164,6 +1164,7 @@ footer{margin-top:96px;padding-top:var(--sp-6);border-top:1px solid var(--color-
 .cl-day h2{font-size:15px;font-weight:600;color:var(--color-text-primary);margin:0 0 10px;padding-bottom:8px;border-bottom:1px solid var(--color-border)}
 .cl-day ul{list-style:none;margin:0;padding:0}
 .cl-day li{display:flex;gap:12px;align-items:baseline;padding:9px 0;font-size:14px;line-height:1.75;color:var(--color-text-primary)}
+.cl-time{flex:none;width:3em;font-size:13px;color:var(--color-text-faint);font-variant-numeric:tabular-nums}
 .cl-tag{flex:none;font-size:12px;font-weight:600;padding:0 8px;border-radius:4px;line-height:20px}
 .cl-new{background:#E7F5EE;color:#0E7A50}
 .cl-fix{background:#FDF3E1;color:#9A5B00}
@@ -1262,6 +1263,7 @@ a.chg-row:hover span{text-decoration:underline}
 .dash .ind-panel{display:flex;flex-direction:column;max-height:640px}
 .dash .ind-panel .indlist{flex:1;min-height:0;overflow:auto}
 .chgsum{padding:2px 4px 2px 10px;border:1px solid var(--color-border);border-radius:14px;background:var(--color-surface);letter-spacing:0;text-transform:none;font-weight:500;color:var(--color-text-secondary)}
+.kicker.asofline:has(.chgsum)+.ptitle{margin-top:14px}
 
 /* 出榜公司页：留白为主，名次变化做视觉重心 */
 .ex2{max-width:960px;padding-top:56px;padding-bottom:80px}
