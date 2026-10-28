@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated_at": "2026-10-28T18:51:51+08:00",
+  "generated_at": "2026-10-28T19:03:55+08:00",
   "member_count": 100,
   "announcements_fresh": 100,
   "problems": 63,
-  "qa_unsupported": 28,
-  "snapshot": "snapshots/20261028T105150Z.json"
+  "qa_unsupported": 0,
+  "snapshot": "snapshots/20261028T110355Z.json"
  },
  "companies": {
   "601939.SH": {
@@ -134,7 +134,7 @@
     ],
     "count_12m": 89
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -164,7 +164,7 @@
     ],
     "count_12m": null
    },
-   "qa_at": "2026-10-28T18:51:51+08:00"
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "601398.SH": {
    "announcements": {
@@ -292,7 +292,7 @@
     ],
     "count_12m": 143
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -354,7 +354,7 @@
     ],
     "count_12m": null
    },
-   "qa_at": "2026-10-28T18:51:51+08:00"
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "688825.SH": {
    "announcements": {
@@ -482,7 +482,7 @@
     ],
     "count_12m": 58
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -512,7 +512,7 @@
     ],
     "count_12m": null
    },
-   "qa_at": "2026-10-28T18:51:51+08:00"
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "601288.SH": {
    "announcements": {
@@ -640,7 +640,7 @@
     ],
     "count_12m": 117
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [],
     "count_12m": null
@@ -773,12 +773,12 @@
     ],
     "count_12m": 95
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [],
     "count_12m": null
    },
-   "qa_at": "2026-10-28T18:51:51+08:00"
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "601988.SH": {
    "announcements": {
@@ -906,7 +906,7 @@
     ],
     "count_12m": 121
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -936,7 +936,7 @@
     ],
     "count_12m": null
    },
-   "qa_at": "2026-10-28T18:51:51+08:00"
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "600941.SH": {
    "announcements": {
@@ -1064,7 +1064,7 @@
     ],
     "count_12m": 69
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -1086,7 +1086,7 @@
     ],
     "count_12m": null
    },
-   "qa_at": "2026-10-28T18:51:51+08:00"
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "600519.SH": {
    "announcements": {
@@ -1214,7 +1214,7 @@
     ],
     "count_12m": 94
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -1252,7 +1252,7 @@
     ],
     "count_12m": null
    },
-   "qa_at": "2026-10-28T18:51:51+08:00"
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "600938.SH": {
    "announcements": {
@@ -1380,7 +1380,7 @@
     ],
     "count_12m": 69
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -1402,7 +1402,7 @@
     ],
     "count_12m": null
    },
-   "qa_at": "2026-10-28T18:22:30+08:00"
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "601088.SH": {
    "announcements": {
@@ -1530,7 +1530,7 @@
     ],
     "count_12m": 235
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -1544,7 +1544,7 @@
     ],
     "count_12m": null
    },
-   "qa_at": "2026-10-28T18:51:51+08:00"
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "600036.SH": {
    "announcements": {
@@ -1672,7 +1672,7 @@
     ],
     "count_12m": 99
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -1822,8 +1822,77 @@
     ],
     "count_12m": 247
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
-   "qa_unsupported": true
+   "announcements_at": "2026-10-28T19:03:55+08:00",
+   "qa": {
+    "items": [
+     {
+      "question": "请问公司七月抛出A股最大规模的200-400亿回购，在三季报后公司股价大跌，逆市孤独大跌的时候公司居然停止回购了，是因为现金流紧张吗？谢谢",
+      "answer": null,
+      "ask_date": "2026-10-28",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300750&orgId=GD165627"
+     },
+     {
+      "question": "请问，公司本次有无清晰的回购策略和实施进度方案，公司股价已经跌到设定最高回购价的40%左右了，但公司仍未急于完成本次回购，主要考虑是什么呢？",
+      "answer": null,
+      "ask_date": "2026-10-28",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300750&orgId=GD165627"
+     },
+     {
+      "question": "您好，公司董事长曾毓群之前称2030年前固态电池商业化可能性小，而到10月27日贵公司提出全固态电池技术处于行业领先水平，2027年有望实现小批量生产，这次回复是否和董事长的回复冲突？是否披露信息有误或者误导投资者？望贵司做出明确解释。",
+      "answer": null,
+      "ask_date": "2026-10-28",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300750&orgId=GD165627"
+     },
+     {
+      "question": "董秘您好，请咨询一下贵司电动汽车换电项目中有通过采用货车架构建立“移动式箱式换电站”的思路吗？ 即通过以“充电保养总站”与“货车移动换电分站”的形式进行换电站的灵活化部署，根据车流情况灵活进行“移动换电站”的精准部署，依托地图导航软件做好相关的导航指引，进一步降低换电体系的总体构建及电池的集中维护成本，提升电池及电池充电站的使用效率，解决传统定点资产使用率偏低问题，为换电站的规模化建设建立空间",
+      "answer": null,
+      "ask_date": "2026-10-28",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300750&orgId=GD165627"
+     },
+     {
+      "question": "动力电池，目前存在很多挑战，公司在第三季度利润增长较缓慢，请问公司如何应对挑战？汽车智能化，公司储备了哪些技术？",
+      "answer": null,
+      "ask_date": "2026-10-27",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300750&orgId=GD165627"
+     },
+     {
+      "question": "董秘你好，贵司一直强调在与客户沟通消费税分担的问题，但目前车企本身就面临着竞争激烈价格战频发的状况，这是否对公司谈判消费税及出口退税分担造成了一定的阻力？",
+      "answer": null,
+      "ask_date": "2026-10-27",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300750&orgId=GD165627"
+     },
+     {
+      "question": "您好，公司作为行业头部，售后和质量也是顶尖的，但是行业质量售后稀烂，建议公司售后直播日常化，接受大众监督和品牌推广，带头把行业售后服务卷起来，作为消费者是愿意为质量和服务买单的",
+      "answer": "投资者您好，感谢您的关注和建议。",
+      "ask_date": "2026-09-25",
+      "answer_date": "2026-10-27",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300750&orgId=GD165627"
+     },
+     {
+      "question": "您好，大范围战乱或灾害时会伴随大范围断电，​建议公司在建设储能或换电时适当接入人防工程，非常看好公司换电模式，加油！",
+      "answer": "投资者您好，感谢您的关注和建议。",
+      "ask_date": "2026-09-25",
+      "answer_date": "2026-10-27",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300750&orgId=GD165627"
+     }
+    ],
+    "count_12m": null
+   },
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "601628.SH": {
    "announcements": {
@@ -1951,7 +2020,7 @@
     ],
     "count_12m": 102
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -2093,7 +2162,7 @@
     ],
     "count_12m": 104
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -2283,7 +2352,7 @@
     ],
     "count_12m": 101
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -2457,7 +2526,7 @@
     ],
     "count_12m": 186
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -2599,8 +2668,77 @@
     ],
     "count_12m": 143
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
-   "qa_unsupported": true
+   "announcements_at": "2026-10-28T19:03:55+08:00",
+   "qa": {
+    "items": [
+     {
+      "question": "董秘你好 两点 ：一 BYD车标太丑 二 车外观设计太丑 不管是王朝系 方程豹 仰望 腾势 设计的都太丑 除了个腾势还有点年轻情人买 公司这么多研发设计人员不能设计几款年轻时尚点的车吗？",
+      "answer": "感谢您坦诚的反馈。不同用户审美偏好存在差异，王朝、海洋、腾势、方程豹、仰望各品牌均建立独立设计语言，面向不同圈层用户。设计团队持续研判年轻群体审美趋势，迭代造型方案、丰富产品序列，后续会推出更多贴合年轻用户喜好的车型，欢迎持续关注新品动态。",
+      "ask_date": "2026-10-28",
+      "answer_date": "2026-10-28",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002594&orgId=gshk0001211"
+     },
+     {
+      "question": "董秘，您好：买矿泉水与饮料的毛利都比整车毛利高两倍多，建议贵司多开展高毛利项目，谢谢回复",
+      "answer": null,
+      "ask_date": "2026-10-28",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002594&orgId=gshk0001211"
+     },
+     {
+      "question": "听说你们要发布一款鼎曜，可以用最好的钢材，增加防弹性，作为卖点。你们如果给车弄点差异化，比如更坚固，无论玻璃，还是钢材，都是增加卖点的。现在同质化内卷太严重了，你们要重视",
+      "answer": "感谢您的关注与建议。仰望品牌即将推出全新车型，新车将依托仰望成熟的车身安全技术体系打造，在车身材料、结构安全等方面进行专项打磨。关于车型详细配置、设计亮点，敬请期待后续上市发布会。我们会持续挖掘差异化产品卖点，为用户带来更丰富的选择。",
+      "ask_date": "2026-10-27",
+      "answer_date": "2026-10-28",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002594&orgId=gshk0001211"
+     },
+     {
+      "question": "今年以来，人民币价格持续上涨 前两个季度比亚迪汇兑损益在逐渐扩大 请问现在比亚迪财务方面有没有做好外汇套保？缓解汇兑损失",
+      "answer": "感谢您的关注。公司开展外汇衍生品交易与日常经营需求紧密相关，是基于外币资产、负债状况以及外汇收支业务情况进行，目的为积极开展外汇风险管理，提高应对汇率波动风险的能力，增强财务稳健性。相关事项已经董事会审议，衍生品品种包括远期、掉期、期权及相关组合产品，交易不以投机为目的。外汇衍生品交易合约汇率、利率与到期日实际汇率、利率的差异将产生交易损益；在外汇衍生品的存续期内，以公允价值进行计量，每一会计期间将产生重估损益，至到期日重估损益的累计值等于交易损益。交易合约公允价值的变动与其对应的风险资产的价值变动形成一定的对冲，但仍有亏损的可能性。",
+      "ask_date": "2026-10-27",
+      "answer_date": "2026-10-27",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002594&orgId=gshk0001211"
+     },
+     {
+      "question": "董秘，你好：贵司在新能源汽车、储能等产业取得了全球top的成就，而智驾与机器人技术贵司在新能源汽车的成就高度相似，所以也将会成为全球top的业务，苟富贵，勿相忘啊，要带带我们这些长期持有的散户。",
+      "answer": "感谢您长期的信任与陪伴！公司在新能源汽车、储能领域的发展，根植于长期持续的技术研发与产业链积累。遵循 “技术为王、创新为本” 的理念，智驾等创新业务也将稳步推进，相关业务尚处在发展阶段，挑战与机遇并存。公司将踏实做好经营，努力以良好的经营回报回馈广大投资者。",
+      "ask_date": "2026-10-27",
+      "answer_date": "2026-10-27",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002594&orgId=gshk0001211"
+     },
+     {
+      "question": "希望公司出新车的时候，可以考虑露营需求。出一款像小米鹏程N90探索版一样的新车。",
+      "answer": "感谢您的建议！",
+      "ask_date": "2026-10-27",
+      "answer_date": "2026-10-27",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002594&orgId=gshk0001211"
+     },
+     {
+      "question": "现在宁德时代在大力推进换电模式，而对公司的闪充明里暗里说闪充伤电池，包括可以想象得到的等他们换电车型上市，换电站大规模铺开，固态电池越来越近之后，肯定会加大声量说公司的闪充伤电池，说他们可以保护好电池，说以后他们都车可以换固态电池，请问公司如何应对？在“闪充伤电池”一事上能否更多的发声，消除普通老百姓的疑虑，让这种真正突破性的技术更好的服务消费者，更好的促进公司经营！",
+      "answer": "您好！公司始终秉持用技术创新，满足人们对美好生活的向往，持续深耕消费者核心需求，适时推出兼具市场竞争力与用户价值的产品及技术方案。后续相关动态，敬请关注公司官方发布的权威信息。感谢您对公司的关注与支持！",
+      "ask_date": "2026-10-26",
+      "answer_date": "2026-10-27",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002594&orgId=gshk0001211"
+     },
+     {
+      "question": "董秘您好，请问截至2025年末兼任董事长和总经理的王传福毕业于哪所高校？贵公司是否与该校开展过人才培养或产学研合作？如任职情况已有调整，烦请指正。",
+      "answer": "感谢您的关注。比亚迪董事长兼总裁王传福先生本科毕业于中南工业大学（现中南大学），硕士毕业于北京有色金属研究总院。公司与中南大学长期开展产学研、人才培养等校企合作，包括课题联合研发、人才输送、学术交流等。比亚迪感恩国家科教兴国战略，感恩各大高校培养卓越人才。比亚迪捐资30亿聚焦教育慈善，用于高校奖学金及新能源技术科普，为中国科教事业发展注入动力，培育更多卓越科技人才。截至2025年12月，比亚迪30亿教育慈善基金已携手清华大学、北京大学、中南大学等127 所高校，搭建起覆盖全国的教育协作体系，相关奖学（教）项目年度累计激励优秀本科生、研究生超6000名。",
+      "ask_date": "2026-10-23",
+      "answer_date": "2026-10-28",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002594&orgId=gshk0001211"
+     }
+    ],
+    "count_12m": null
+   },
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "300308.SZ": {
    "announcements": {
@@ -2728,8 +2866,77 @@
     ],
     "count_12m": 216
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
-   "qa_unsupported": true
+   "announcements_at": "2026-10-28T19:03:55+08:00",
+   "qa": {
+    "items": [
+     {
+      "question": "目前公司大部分营收来自海外厂商，国内光模块营收占比相对较小，国内光模块需求主要受制于算力卡供应紧张的影响，如果国内后期能解决算力卡供应的问题，大规模开始部署算力柜机，公司针对国内客户需求有相应的措施布局吗？公司对于国内光模块需求规模与海外规模大小判断是怎么样的？谢谢。",
+      "answer": null,
+      "ask_date": "2026-10-28",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300308&orgId=9900022016"
+     },
+     {
+      "question": "1、市场有机构预测全球高速数通光模块2027年增速接近翻倍、2028年增速放缓，但是增长接力从1.6T转向3.2T。请问从公司拿到的客户指引、订单能见度来看，公司对2027、2028年自身高速光模块营收增速如何判断？800G/1.6T/3.2T出货结构、ASP变化是否符合上述机构假设？从800G到1.6T以及3.2T，从产品毛利率来看会有变化吗？谢谢。",
+      "answer": null,
+      "ask_date": "2026-10-28",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300308&orgId=9900022016"
+     },
+     {
+      "question": "董秘您好！想了解公司内部AI应用的实际进展：1）目前AI应用处于什么阶段——已融入核心业务流程、个别部门应用，还是以员工零散使用为主？2）AI能力主要来自自主研发、采购第三方模型或API，还是直接使用桌面或网页端DeepSeek、豆包等外部工具？3）目前覆盖最广或最重要的AI工具主要用于哪些场景，已持续使用多久？烦请在方便披露的范围内简要说明；如尚未形成系统性应用，也请告知。感谢解答！",
+      "answer": null,
+      "ask_date": "2026-10-28",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300308&orgId=9900022016"
+     },
+     {
+      "question": "有人说：上纬Q1、T1具身智能体，就像儿童版的“手机”，未来，全球儿童应该每人一个，相当于是儿童自己的分身。未来发展空间巨大。请问，公司产品在这方面的应用具体场景有个发展路线吗？",
+      "answer": null,
+      "ask_date": "2026-10-26",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300308&orgId=9900022016"
+     },
+     {
+      "question": "董秘您好！公司股价自高点持续大幅回调，明显弱于通信设备及CPO板块。市场担忧北美出口管制、海外云厂商资本开支放缓、1.6T光模块降价、新技术替代等风险，特此求证： 1、海外核心大客户订单是否稳定，有无客户削减、推迟采购？ 2、针对美国管制风险，公司有哪些预案对冲？ 3、1.6T产品价格、毛利率是否明显下滑？ 4、回购注销后，还有哪些稳定市值、维护投资者信心的举措？ 辛苦解答，谢谢！",
+      "answer": null,
+      "ask_date": "2026-10-22",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300308&orgId=9900022016"
+     },
+     {
+      "question": "董秘您好，请教一下： 1、当前1.6T DR8与800G DR4主流长协价格溢价大概在什么区间？行业预期后续溢价中枢是维持2.5倍左右，还是会逐步收敛至2倍附近？ 2、1.6T相比800G，成本抬升主要来自DSP电芯片还是光芯片、封装环节？ 3、云厂商采购的时候，是优先看单模块ASP，还是从整个算力集群TCO角度评估800G和1.6T的切换节奏？",
+      "answer": null,
+      "ask_date": "2026-10-22",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300308&orgId=9900022016"
+     },
+     {
+      "question": "针对股价连续下跌情况，请问公司如何应对？计划采取哪些积极措施？公司是否会开展多种业务比如算力业务来平衡业绩波动？",
+      "answer": null,
+      "ask_date": "2026-10-21",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300308&orgId=9900022016"
+     },
+     {
+      "question": "请介绍下公司目前产能利用率情况",
+      "answer": "投资者您好，公司目前生产经营一切正常，供应链稳定，产能利用率充足，能够正常获取订单并保质保量交付。感谢关注！",
+      "ask_date": "2026-10-10",
+      "answer_date": "2026-10-22",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300308&orgId=9900022016"
+     }
+    ],
+    "count_12m": null
+   },
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "601899.SH": {
    "announcements": {
@@ -2857,7 +3064,7 @@
     ],
     "count_12m": 154
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -3023,7 +3230,7 @@
     ],
     "count_12m": 112
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [],
     "count_12m": null
@@ -3156,7 +3363,7 @@
     ],
     "count_12m": 90
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -3322,7 +3529,7 @@
     ],
     "count_12m": 96
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [],
     "count_12m": null
@@ -3455,7 +3662,7 @@
     ],
     "count_12m": 222
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -3605,8 +3812,77 @@
     ],
     "count_12m": 134
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
-   "qa_unsupported": true
+   "announcements_at": "2026-10-28T19:03:55+08:00",
+   "qa": {
+    "items": [
+     {
+      "question": "男士电动剃须刀存在一定市场，可否研究迎合消费者需求、具有美的特色和优势的电动剃须刀，助力实现一定业绩和利润增长，也有助于提高美的品牌在男士客户群体的影响力、美誉度和知名度，妥否，请美的集团及旗下相关公司、部门的的优秀管理层考虑此事，谢谢。",
+      "answer": "尊敬的投资者，您好，感谢您的建议！祝节日快乐！",
+      "ask_date": "2026-09-29",
+      "answer_date": "2026-09-30",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000333&orgId=9900005965"
+     },
+     {
+      "question": "为什么美的高端品牌colmo没有中文名字，消费者记都记不住，更别说发音，怎么能推广呢",
+      "answer": "尊敬的投资者，您好，COLMO寓意“攀登”，诞生于欧洲之巅勃朗峰。中文名字科慕。品牌秉持“生而非凡”的精髓，践行“科技服务生活本源，设计释放理性空间”的理念，汇聚全球前沿科技与高端智造能力，为消费者带来兼具至臻品质与自主学习能力的AI科技家电品牌。 目前COLMO已覆盖洗衣机、冰箱、空调、厨热等全品类高端产品，在国内高端家电市场积累了良好的品牌认知与用户口碑。公司将持续打磨产品力、优化服务体验上，持续夯实品牌美誉度与市场声量。 感谢对公司的关注，祝节日快乐！",
+      "ask_date": "2026-09-16",
+      "answer_date": "2026-10-08",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000333&orgId=9900005965"
+     },
+     {
+      "question": "董秘您好，欧美市场时常对国内大型企业发起各类监管调查。近期美的家电在海外市场影响力持续提升，请问公司若遭遇海外监管刁难，是否有相应的应对预案？",
+      "answer": "尊敬的投资者，您好，公司高度重视全球化合规经营。公司聚焦贸易合规、关务合规、数据隐私合规、竞争合规等领域等领域，常态化监测、识别各业务运营领域的风险，积极引入数字化筛查工具，并组织各经营单位参与全球合规管理体系建设，形成监管合力。感谢对公司的关注，祝节日快乐！",
+      "ask_date": "2026-09-16",
+      "answer_date": "2026-09-30",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000333&orgId=9900005965"
+     },
+     {
+      "question": "请问东芝品牌是否有授权时间？授权到期后是否可以展期？品牌使用费的定价基础是什么？",
+      "answer": null,
+      "ask_date": "2026-09-16",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000333&orgId=9900005965"
+     },
+     {
+      "question": "董秘你好，近期市场传闻美的集团要将库卡机器人业务单独剥离借壳上市，请问是否董事会有此打算。如果确实有这个打算，作为贵公司股票持有者表示不认可这种举措。工业机器人业务刚开始为美的投资者创造价值就要剥离，虽然仍在美的旗下但对美的集团个股投资人明显属于利空，会削弱了美的集团上市公司股票的成长性预期，美的集团个股会沦为普通白电股而不是具有成长预期的个股，和投资贵公司股票的小投资人初衷完全背离。",
+      "answer": null,
+      "ask_date": "2026-09-08",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000333&orgId=9900005965"
+     },
+     {
+      "question": "关于半年报有如下问题，望能解答：1、10.96亿元的商誉减值对象是什么？2、工业技术中的业务拆分以及每个业务板块上半年的营收？或者告知哪个业务板块造成了工业技术业绩两位数下滑？3、Kuka上半年订单或者ebit能否透露？4、海外毛利下降的原因是什么？",
+      "answer": "尊敬的投资者，您好 ！ 1、关于商誉减值，公司严格按照《企业会计准则》及相关规定，对存在减值迹象的资产进行减值测试。 2、关于工业技术，该板块聚焦暖通家电、数据中心/储能热管理、新能源汽车、机器人核心部件领域。2026年上半年，工业技术业务板块收入131.38亿元，同比下降12.72%，主要受家电市场需求偏弱影响。奥维云网（AVC）推总数据显示，2026 年上半年国内家电零售市场规模为 4,250 亿元，同比下滑 9.9%。 3、关于库卡，2026年上半年，库卡集团收入同比增长超过10%，其中库卡中国的收入贡献占比超过30%。2026年上半年，根据MIR 睿工业统计，库卡工业机器人在国内市场出货量超过18,000 台，国内市场销量份额达到 9.7%，升至行业第二位；并在重载机器人领域具有显著优势，库卡 300kg 以上负载机器人国内市场销量份额突破 50%。 4、关于海外毛利率，2026年上半年，公司海外收入达1,131.27亿元，同比增长5.54%，占总营收比例升至43.5%。海外毛利率的变动主要受人民币汇率波动带来的汇兑扰动。公司正通过推进海外本地化运营、产品结构优化及外汇套保工具等方式积极应对。 感谢对公司的关注，祝节日快乐！",
+      "ask_date": "2026-08-31",
+      "answer_date": "2026-10-08",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000333&orgId=9900005965"
+     },
+     {
+      "question": "美的旗下高端品牌colom应该改个名字，colom这个名字（我不确定有没有拼错），又难记又难推广，还没有中文名，连卡萨帝都比这个好宣传，瓜子二手车都还朗朗上口呢， colom这些年打不开高端市场可见一斑， 连外国品牌进中国都要有中文名比如西门子siemens， colmo有几个人看到会读呢，听说colom在广东那边还是骂人的话 作为美的小股东，希望董秘能把这个意见往上传达",
+      "answer": "尊敬的投资者，您好，COLMO寓意“攀登”，诞生于欧洲之巅勃朗峰。中文名字科慕。品牌秉持“生而非凡”的精髓，践行“科技服务生活本源，设计释放理性空间”的理念，汇聚全球前沿科技与高端智造能力，为消费者带来兼具至臻品质与自主学习能力的AI科技家电品牌。 目前COLMO已覆盖洗衣机、冰箱、空调、厨热等全品类高端产品，在国内高端家电市场积累了良好的品牌认知与用户口碑。公司将持续打磨产品力、优化服务体验上，持续夯实品牌美誉度与市场声量。 感谢对公司的关注，祝节日快乐！",
+      "ask_date": "2026-08-19",
+      "answer_date": "2026-10-08",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000333&orgId=9900005965"
+     },
+     {
+      "question": "请问库卡机器人目前市占率情况如何，在集团体系内是怎样的定位？",
+      "answer": "尊敬的投资者，您好，美的是一家覆盖智能家居、工业技术、楼宇科技、机器人与自动化、新能源、健康医疗、智慧物流等业务的全球领先的科技集团。库卡属于机器人与自动化业务。 库卡是全球知名的机器人制造商，依靠业界领先的运动算法，可确保机器人产品在全生命周期内的优越运动性能，其成熟的设计理念也不断催生出新款产品引领市场。2025年，库卡集团的收入恢复增长，在中国的业务表现尤为突出，同期库卡中国的收入贡献占比接近30%。 2025年，库卡中国持续引领工业自动化创新发展，通过产品升级、技术创新和生态建设，进一步巩固了在机器人行业的领先地位。在市场端，据MIR睿工业统计，2025库卡工业机器人在国内市场出货超3.2万台，同比增长30%以上，市场销量份额达到9.6%，稳居行业前三。",
+      "ask_date": "2026-07-03",
+      "answer_date": "2026-07-31",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000333&orgId=9900005965"
+     }
+    ],
+    "count_12m": null
+   },
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "601728.SH": {
    "announcements": {
@@ -3734,7 +4010,7 @@
     ],
     "count_12m": 88
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [],
     "count_12m": null
@@ -3867,7 +4143,7 @@
     ],
     "count_12m": 143
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -4065,7 +4341,7 @@
     ],
     "count_12m": 130
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -4207,7 +4483,7 @@
     ],
     "count_12m": 115
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -4405,7 +4681,7 @@
     ],
     "count_12m": 142
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -4579,7 +4855,7 @@
     ],
     "count_12m": 82
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -4777,7 +5053,7 @@
     ],
     "count_12m": 117
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [],
     "count_12m": null
@@ -4910,7 +5186,7 @@
     ],
     "count_12m": 181
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -5092,8 +5368,77 @@
     ],
     "count_12m": 212
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
-   "qa_unsupported": true
+   "announcements_at": "2026-10-28T19:03:55+08:00",
+   "qa": {
+    "items": [
+     {
+      "question": "董秘您好，纯属好奇，公司数据中心业务为什么会把自研平台取名为“轩辕”？这个名字总让我想到千禧年（2000年）前后的国产网游。请问命名灵感有没有可能来自熊腾芳先生年少时在网吧玩过的某款游戏？还是说“轩辕”其实另有出处和寓意？这个问题困扰我挺久了，如果方便的话还请解惑一下哈哈。",
+      "answer": null,
+      "ask_date": "2026-10-25",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002475&orgId=9900014448"
+     },
+     {
+      "question": "董秘您好！港股近期爆出IPO造假事件。公司7月H股募资242.66亿港元，8月又拟发债250亿元，发债金额与H股募资金额几乎相当。请问：1.H股募资实际使用进度如何？2.募资未用完即发债250亿，必要性和具体用途？3.如何确保H股发行合规，无虚假认购？谢谢！",
+      "answer": null,
+      "ask_date": "2026-10-19",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002475&orgId=9900014448"
+     },
+     {
+      "question": "10月9日新浪网报道了立讯拿到了戴尔 XPS13笔记本和惠普游戏笔记本的代工订单。请问预计什么时候可以出货？预计量有多少？公司目前还在争取其他品牌笔记本的代工吗？",
+      "answer": null,
+      "ask_date": "2026-10-18",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002475&orgId=9900014448"
+     },
+     {
+      "question": "请问截止2026年10月10日公司的股东人数是多少？谢谢",
+      "answer": "您好，截止10月20日，公司A股股东户数为522,215户，谢谢！",
+      "ask_date": "2026-10-16",
+      "answer_date": "2026-10-21",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002475&orgId=9900014448"
+     },
+     {
+      "question": "董秘，您好！请问公司大股东的质押股票到平仓预警线了吗？东方财富显示到平仓预警线了，截止2026年10月15号",
+      "answer": null,
+      "ask_date": "2026-10-15",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002475&orgId=9900014448"
+     },
+     {
+      "question": "董秘，你好！近期市场对AI硬件的发展前景有很强的顾虑，公司据说有一个专职的AI架构研判团队，公司对未来三年的AI发展研判有变化吗？比如光模块竞争格局，热管理竞争格局，电源竞争格局。盼早日回复，谢谢！",
+      "answer": null,
+      "ask_date": "2026-10-14",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002475&orgId=9900014448"
+     },
+     {
+      "question": "董秘，你好！请问京西什么的时候会并表！公司对京西未来的规划是？扭亏为盈有预期吗？",
+      "answer": null,
+      "ask_date": "2026-10-14",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002475&orgId=9900014448"
+     },
+     {
+      "question": "请问截止2026.10.8股东人数多少 谢谢",
+      "answer": "您好，截止10月20日，公司A股股东户数为522,215户，谢谢！",
+      "ask_date": "2026-10-08",
+      "answer_date": "2026-10-21",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002475&orgId=9900014448"
+     }
+    ],
+    "count_12m": null
+   },
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "002371.SZ": {
    "announcements": {
@@ -5221,8 +5566,77 @@
     ],
     "count_12m": 175
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
-   "qa_unsupported": true
+   "announcements_at": "2026-10-28T19:03:55+08:00",
+   "qa": {
+    "items": [
+     {
+      "question": "请问，截至2026年十月 20日公司的股东总数是多少？谢谢",
+      "answer": null,
+      "ask_date": "2026-10-20",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002371&orgId=9900006137"
+     },
+     {
+      "question": "请教公司董秘一个技术问题：长存的Xtacking 架构和长鑫未来的4F 架构，都是采用“存储单元和逻辑单元分立制造 混合键合”的模式，就是说，存储厂商扩产1万片产能，对应的逻辑晶圆厂也要扩1万片产能。那么，未来几年，两存大幅扩产，是否意味着国内28nm逻辑产线也会大规模扩产？对公司成熟逻辑设备业务有大幅带动？ 谢谢",
+      "answer": null,
+      "ask_date": "2026-10-16",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002371&orgId=9900006137"
+     },
+     {
+      "question": "请问截止2026年10月10日公司的股东人数是多少？谢谢",
+      "answer": null,
+      "ask_date": "2026-10-16",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002371&orgId=9900006137"
+     },
+     {
+      "question": "您好，请问贵公司在编制2025年年度报告、特别是“管理层讨论与分析”等文字章节时，是否使用过DeepSeek、豆包等生成式人工智能工具（包括使用内部系统集成的生成式AI功能），来辅助信息搜集、文字起草、修改或润色？如有，烦请说明主要使用环节；如未使用，也烦请明确说明。谢谢！",
+      "answer": null,
+      "ask_date": "2026-10-15",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002371&orgId=9900006137"
+     },
+     {
+      "question": "北方华创作为国产半导体设备龙头企业，股价跑输了大部分细分领域头部公司，是产品竞争力不行？公司在国产 fab 线有哪些优势产品，请具体介绍一下。不然资本市场不相信公司的实力",
+      "answer": null,
+      "ask_date": "2026-10-13",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002371&orgId=9900006137"
+     },
+     {
+      "question": "请问，截至2026年十月 9日公司的股东总数是多少？谢谢",
+      "answer": null,
+      "ask_date": "2026-10-10",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002371&orgId=9900006137"
+     },
+     {
+      "question": "PLD和MBE工艺中，臭氧是目前主流选择必须参与的吗？",
+      "answer": null,
+      "ask_date": "2026-10-09",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002371&orgId=9900006137"
+     },
+     {
+      "question": "请问，截至2026年九月 30日公司的股东总数是多少？谢谢",
+      "answer": null,
+      "ask_date": "2026-10-01",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002371&orgId=9900006137"
+     }
+    ],
+    "count_12m": null
+   },
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "300502.SZ": {
    "announcements": {
@@ -5350,8 +5764,77 @@
     ],
     "count_12m": 116
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
-   "qa_unsupported": true
+   "announcements_at": "2026-10-28T19:03:55+08:00",
+   "qa": {
+    "items": [
+     {
+      "question": "目前公司大部分营收来自海外厂商，国内光模块营收占比相对较小，国内光模块需求主要受制于算力卡供应紧张的影响，如果国内后期能解决算力卡供应的问题，大规模开始部署算力柜机，公司针对国内客户需求有相应的措施布局吗？公司对于国内光模块需求规模与海外规模大小判断是怎么样的？谢谢。",
+      "answer": null,
+      "ask_date": "2026-10-28",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300502&orgId=9900026455"
+     },
+     {
+      "question": "1、市场有机构预测全球高速数通光模块2027年增速接近翻倍、2028年增速放缓，但是增长接力从1.6T转向3.2T。请问从公司拿到的客户指引、订单能见度来看，公司对2027、2028年自身高速光模块营收增速如何判断？800G/1.6T/3.2T出货结构、ASP变化是否符合上述机构假设？从800G到1.6T以及3.2T，从产品毛利率来看会有变化吗？谢谢。",
+      "answer": null,
+      "ask_date": "2026-10-28",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300502&orgId=9900026455"
+     },
+     {
+      "question": "董秘您好，想咨询一下： 1、泰国工厂目前产能爬坡是否顺利，当前泰国工厂产出的800G、1.6T光模块，向北美头部云厂商大客户交付是否一切正常？ 2、目前是否已经遇到美国相关采购限制、合规障碍，有没有出现客户推迟订单、砍单的情况？ 3、公司如何保障后续高阶产品可以持续向北美客户稳定供货？谢谢！",
+      "answer": null,
+      "ask_date": "2026-10-27",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300502&orgId=9900026455"
+     },
+     {
+      "question": "公司是否有重大利空， 是我们投资者不知道的？ 公司的扩产进度怎么样？ 公司订单排到多少年了？排到什么时候了？是否满产？CPo对公司的光模块业务冲击是否大？",
+      "answer": null,
+      "ask_date": "2026-10-27",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300502&orgId=9900026455"
+     },
+     {
+      "question": "董秘您好，近期股价持续大跌，投资者担忧订单不及预期。请问三季度1.6T、800G交付是否符合计划，海外客户订单指引有无变化？高端产品价格、毛利率是否承压？订单情况如果正常，为何迟迟没有业绩预告、回购也未落地？谢谢。",
+      "answer": null,
+      "ask_date": "2026-10-27",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300502&orgId=9900026455"
+     },
+     {
+      "question": "董秘您好，请问公司800G光模块海外出货和国内内销大致比例？国内场景的800G在规格、毛利率上和北美订单有什么差异？伴随国内算力投入加大，1.6T内销占比是否有望持续抬升？未来国内AI算力基建加速的话，公司对于国内需求有无规划布局？谢谢。",
+      "answer": null,
+      "ask_date": "2026-10-22",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300502&orgId=9900026455"
+     },
+     {
+      "question": "董秘，您好。近期光模块板块多数标的出现止跌企稳走势，公司股价持续调整，市场较为担忧订单情况。想请问：目前800G、1.6T光模块在手订单、客户送样验证进展是否正常？海外头部云厂商、AI客户的需求指引有没有发生变化？是否存在订单推迟、客户砍单的情形？期待您的回复，谢谢",
+      "answer": null,
+      "ask_date": "2026-10-22",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300502&orgId=9900026455"
+     },
+     {
+      "question": "董秘您好！公司股价近期持续下跌，且跌幅较大，请问目前公司订单情况和出货情况，扩产情况如何？是否有未公布的利空消息？对于当前股价的大跌，公司有什么稳定股价和市值管理的措施？",
+      "answer": "您好，感谢您对公司的关注。公司生产经营情况正常，在手订单充足，公司对四季度订单需求持积极预期，预计产量及出货量有望较前期实现大幅增长。目前客户需求指引及订单情况良好，行业景气度预计维持高位，800G和1.6T作为今年交付主力产品，其中1.6T放量节奏有望进一步加快。谢谢。",
+      "ask_date": "2026-10-21",
+      "answer_date": "2026-10-27",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300502&orgId=9900026455"
+     }
+    ],
+    "count_12m": null
+   },
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "600000.SH": {
    "announcements": {
@@ -5479,7 +5962,7 @@
     ],
     "count_12m": 80
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -5629,7 +6112,7 @@
     ],
     "count_12m": 119
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -5779,7 +6262,7 @@
     ],
     "count_12m": 319
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -5977,8 +6460,77 @@
     ],
     "count_12m": 80
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
-   "qa_unsupported": true
+   "announcements_at": "2026-10-28T19:03:55+08:00",
+   "qa": {
+    "items": [
+     {
+      "question": "存货由去年末200亿元增加到如今的330亿，请说明为何增加如此之多，以及是否计入当期利润，并说明后续存货减值风险！",
+      "answer": null,
+      "ask_date": "2026-10-21",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002415&orgId=9900012688"
+     },
+     {
+      "question": "公司路演中，高管对公司的发展充满信心。但除了胡董事长，目前大部分高管持有公司股票数量均非常少，希望公司高管加大增持公司股票，增强市场信心。",
+      "answer": null,
+      "ask_date": "2026-10-21",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002415&orgId=9900012688"
+     },
+     {
+      "question": "建议公司加大回购注销力度，把提升公司内在价值作为一项长期的制度性措施。",
+      "answer": null,
+      "ask_date": "2026-10-21",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002415&orgId=9900012688"
+     },
+     {
+      "question": "你好，截止10月10日，公司最新股东人数是多少？谢谢！",
+      "answer": null,
+      "ask_date": "2026-10-10",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002415&orgId=9900012688"
+     },
+     {
+      "question": "董秘您好，公司存储芯片原材料库存通常可以使用多久？",
+      "answer": null,
+      "ask_date": "2026-10-03",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002415&orgId=9900012688"
+     },
+     {
+      "question": "请问创新业务子公司通过母公司及全资子公司对外销售的营收，归属于主业产品及服务还是创新业务？这部分营收占创新业务营收比重如何？",
+      "answer": null,
+      "ask_date": "2026-09-28",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002415&orgId=9900012688"
+     },
+     {
+      "question": "海康机器人与凤凰光学之间有无同业竞争关系？海康机器人IPO进度如何？谢谢。",
+      "answer": null,
+      "ask_date": "2026-09-26",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002415&orgId=9900012688"
+     },
+     {
+      "question": "您好，今天有自称海康威视苏州销售团队负责人，姓叶的联系我，要租门面房，交流下来感觉疑点甚多，特来提示贵公司一下。祝业绩长虹！",
+      "answer": null,
+      "ask_date": "2026-09-25",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002415&orgId=9900012688"
+     }
+    ],
+    "count_12m": null
+   },
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "603993.SH": {
    "announcements": {
@@ -6106,7 +6658,7 @@
     ],
     "count_12m": 131
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -6304,7 +6856,7 @@
     ],
     "count_12m": 218
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -6454,8 +7006,77 @@
     ],
     "count_12m": 152
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
-   "qa_unsupported": true
+   "announcements_at": "2026-10-28T19:03:55+08:00",
+   "qa": {
+    "items": [
+     {
+      "question": "请问公司有没有考虑增持自己的股份？",
+      "answer": null,
+      "ask_date": "2026-10-24",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300059&orgId=9900010488"
+     },
+     {
+      "question": "东方财富证券账户资金30万元以上可以按月赠送Choice金融终端试用期，目前已经没有这个权益了。该活动是东方财富证券有别于其他券商最突出的优势，可以提高用户黏性，为公司提供长期稳定的用户，还请公司考虑恢复该权益。",
+      "answer": "尊敬的投资者，您好，感谢您对东方财富产品与服务的关注与建议。",
+      "ask_date": "2026-10-21",
+      "answer_date": "2026-10-23",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300059&orgId=9900010488"
+     },
+     {
+      "question": "董秘您好，请问最新股东户数多少了？",
+      "answer": "尊敬的投资者，您好，公司在定期报告中披露公司季度末、半年度末以及年度末的股东人数。《公司2026年第三季度报告》于2026年10月24日披露，敬请查阅。感谢关注。",
+      "ask_date": "2026-10-19",
+      "answer_date": "2026-10-23",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300059&orgId=9900010488"
+     },
+     {
+      "question": "公司分红率显著低于传统券商的主要原因是什么？是因为高投入，高成长吗？",
+      "answer": "尊敬的投资者，您好，公司高度重视股东回报，公司在制定分红方案时，综合考虑了业务发展、经营计划安排及长远可持续发展等情况。未来，公司将继续平衡股东利益与业务拓展需求，持续优化回报机制。感谢您对公司的关注！",
+      "ask_date": "2026-10-13",
+      "answer_date": "2026-10-16",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300059&orgId=9900010488"
+     },
+     {
+      "question": "董秘好，公司股价走势持续低迷，投资者损失惨重，这与公司在业界的形象背道而驰。请问公司将采取何种措施提振投资者信心，有无回购或者大股东、高管增持计划，谢谢！",
+      "answer": "尊敬的投资者，您好，二级市场股价受多方面因素影响，公司及管理层对未来经营及长远发展有坚定的信心。公司坚定聚焦主业，保持战略定力，充分把握资本市场高质量发展及新一轮科技革命的双重机遇，着力提升研发动力、产品实力、服务能力，以创新驱动引领企业高质量发展，稳步提升企业内在价值和股东回报。如有需要披露的信息，公司将严格遵照监管规定及时履行信息披露义务。感谢您对公司的关注。",
+      "ask_date": "2026-09-19",
+      "answer_date": "2026-09-29",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300059&orgId=9900010488"
+     },
+     {
+      "question": "董秘您好！公司 2026 年半年报净利润同比增长 44.85%，达 80.64 亿元，业绩创出历史新高。但截至 2026 年 9 月 17 日，公司股价近一年下跌 31.74%，2026 年内跌幅 21.62%。请问在业绩高速增长的背景下，股价持续下行，中小股东蒙受较大损失，公司管理层如何看待这一情况？请说明公司维护中小股东权益的具体举措与方案。",
+      "answer": "尊敬的投资者，您好，二级市场股价受多方面因素影响，公司及管理层对未来经营及长远发展有坚定的信心。公司坚持长期主义，以创新驱动引领企业高质量发展，稳步提升企业内在价值和股东回报，切实增强投资者获得感。感谢您对公司的关注！",
+      "ask_date": "2026-09-17",
+      "answer_date": "2026-09-24",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300059&orgId=9900010488"
+     },
+     {
+      "question": "请问目前东方财富的股东人数？",
+      "answer": "尊敬的投资者，您好，公司在定期报告中披露公司季度末、半年度末以及年度末的股东人数。感谢您对公司的关注。",
+      "ask_date": "2026-09-12",
+      "answer_date": "2026-09-18",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300059&orgId=9900010488"
+     },
+     {
+      "question": "请问，东方财富App的用户有多少？有多少在App开户的账户？推出妙想AI后对用户数量产生了什么影响？",
+      "answer": "尊敬的投资者，您好，目前，妙想AI能力已面向广大用户开放，并应用于资讯、行情、自选、客服等多个业务场景，为用户提供更加智能、高效的财富管理服务。您提及的数据属于上市公司未公开披露的信息，不便透露。",
+      "ask_date": "2026-09-07",
+      "answer_date": "2026-09-14",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300059&orgId=9900010488"
+     }
+    ],
+    "count_12m": null
+   },
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "601601.SH": {
    "announcements": {
@@ -6583,7 +7204,7 @@
     ],
     "count_12m": 109
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -6741,7 +7362,7 @@
     ],
     "count_12m": 23
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -6939,8 +7560,77 @@
     ],
     "count_12m": 91
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
-   "qa_unsupported": true
+   "announcements_at": "2026-10-28T19:03:55+08:00",
+   "qa": {
+    "items": [
+     {
+      "question": "公司三季报董事会不用审议的吗？怎么没有相关公告。今年还有信心做到双位数增长吗？四季度营收策略思路如何？",
+      "answer": null,
+      "ask_date": "2026-10-28",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000858&orgId=gssz0000858"
+     },
+     {
+      "question": "从公司资产负债表上看，账上存在大量超额现金，而这些现金产生的回报低廉，大幅拉低了主营业务的回报率，导致近几年来，公司ROE不仅低于头部公司贵州茅台，并且也低于山西汾酒与泸州老窖，这与公司的品牌地位与挣钱能力不匹配，拉低了所有股东的股东回报，除非大股东侵占了上市公司的超额现金，否则对大股东自身也不利。为了提升股东回报，管理层应正确配置资本，加大超额现金的分红力度或者在股价明显低于公司价值时加大回购",
+      "answer": null,
+      "ask_date": "2026-10-28",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000858&orgId=gssz0000858"
+     },
+     {
+      "question": "请问公司到底什么时候才分红？三季报都出了还不分红？",
+      "answer": null,
+      "ask_date": "2026-10-28",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000858&orgId=gssz0000858"
+     },
+     {
+      "question": "您好，咱们三季报没有分红吗？",
+      "answer": null,
+      "ask_date": "2026-10-28",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000858&orgId=gssz0000858"
+     },
+     {
+      "question": "中期分红什么时候发",
+      "answer": null,
+      "ask_date": "2026-10-28",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000858&orgId=gssz0000858"
+     },
+     {
+      "question": "尊敬的公司董秘您好！建议考虑2027年分红政策继续保留保底200亿，给长期持股股东以信心，安然度过最困难阶段。并且公司也具备这个条件和能力。",
+      "answer": null,
+      "ask_date": "2026-10-28",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000858&orgId=gssz0000858"
+     },
+     {
+      "question": "整个行业都在去库存，为何公司的库存比去年还多几十亿？",
+      "answer": null,
+      "ask_date": "2026-10-28",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000858&orgId=gssz0000858"
+     },
+     {
+      "question": "今天2026年10月28日发布的三季度报告出现不一致的情况，是什么情况！",
+      "answer": null,
+      "ask_date": "2026-10-28",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000858&orgId=gssz0000858"
+     }
+    ],
+    "count_12m": null
+   },
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "601211.SH": {
    "announcements": {
@@ -7068,7 +7758,7 @@
     ],
     "count_12m": 123
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -7226,7 +7916,7 @@
     ],
     "count_12m": 69
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -7384,7 +8074,7 @@
     ],
     "count_12m": 107
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -7550,7 +8240,7 @@
     ],
     "count_12m": 76
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -7716,7 +8406,7 @@
     ],
     "count_12m": 189
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -7858,7 +8548,7 @@
     ],
     "count_12m": 142
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -8032,7 +8722,7 @@
     ],
     "count_12m": 115
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -8174,7 +8864,7 @@
     ],
     "count_12m": 223
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -8372,8 +9062,77 @@
     ],
     "count_12m": 222
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
-   "qa_unsupported": true
+   "announcements_at": "2026-10-28T19:03:55+08:00",
+   "qa": {
+    "items": [
+     {
+      "question": "董秘您好，请问公司9月份的全程成活率是多少？肥猪日增重是多少？育肥阶段料肉比是多少？",
+      "answer": null,
+      "ask_date": "2026-10-21",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002714&orgId=9900022995"
+     },
+     {
+      "question": "目前海外陆续发现猪瘟，国内猪肉供给远远大于需求（卖价远远低于成本），贵司是否考虑发展新业务-开发海外业务，减少国内内卷式竞争；",
+      "answer": null,
+      "ask_date": "2026-10-19",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002714&orgId=9900022995"
+     },
+     {
+      "question": "贵司能否把每月生猪成本披露到贵司的每月销售简报里，减少每月提问与等待回答；",
+      "answer": "您好，公司2026年9月的生猪养殖完全成本略低于11.5元/kg。月度生猪养殖成本核算完成后，公司会及时对外披露相关信息。感谢您的关注！",
+      "ask_date": "2026-10-16",
+      "answer_date": "2026-10-19",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002714&orgId=9900022995"
+     },
+     {
+      "question": "董秘你好。请问公司对27年是否有出栏数量规划？现有能繁母猪能否保证27年的正常出栏。",
+      "answer": "您好，公司会根据政策导向、外部市场环境及自身生产经营情况，合理规划出栏量。公司2027年出栏量区间指引请关注后续相关信息。感谢您的关注！",
+      "ask_date": "2026-10-14",
+      "answer_date": "2026-10-19",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002714&orgId=9900022995"
+     },
+     {
+      "question": "您好，请问公司9月成本是多少？",
+      "answer": "您好，公司2026年9月的生猪养殖完全成本略低于11.5元/kg。感谢您的关注！",
+      "ask_date": "2026-10-12",
+      "answer_date": "2026-10-19",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002714&orgId=9900022995"
+     },
+     {
+      "question": "您好，想咨询下公司当前商品猪出栏品种结构：请问出栏商品猪中，二元、三元占比多少，以及较24年及25年的变化。",
+      "answer": "您好，公司坚持独立育种二十余年，建立独特的轮回二元育种体系，通过轮回杂交实现“肉种兼用”。在此基础上，公司可根据实际需求灵活调整二元或三元商品猪的生产比例，三元占比主要根据公司生产规划及区域消费偏好动态确定。感谢您的关注！",
+      "ask_date": "2026-10-10",
+      "answer_date": "2026-10-19",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002714&orgId=9900022995"
+     },
+     {
+      "question": "请问9月的完全养殖成本是多少？谢谢！",
+      "answer": "您好，公司2026年9月的生猪养殖完全成本略低于11.5元/kg。感谢您的关注！",
+      "ask_date": "2026-10-08",
+      "answer_date": "2026-10-13",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002714&orgId=9900022995"
+     },
+     {
+      "question": "全国各地猪企亏损严重？请问贵公司有没有收购一些优质猪企的打算？贵公司的远期最大出栏规划是多少头？",
+      "answer": "您好，公司没有相关规划。公司会根据政策导向、外部市场环境及自身生产经营情况，合理规划出栏量。感谢您的关注！",
+      "ask_date": "2026-10-05",
+      "answer_date": "2026-10-13",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002714&orgId=9900022995"
+     }
+    ],
+    "count_12m": null
+   },
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "003816.SZ": {
    "announcements": {
@@ -8501,8 +9260,77 @@
     ],
     "count_12m": 157
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
-   "qa_unsupported": true
+   "announcements_at": "2026-10-28T19:03:55+08:00",
+   "qa": {
+    "items": [
+     {
+      "question": "尊敬的尹董秘，您好！作为企业在二级市场的坚定投资者，我对我国目前的核电发展未来前景充满期待，我想下基层到项目去做调研，领略“华龙一号”作为“大国重器”的创新底气与之作为“国家名片”的战略远见。请问可以通过什么方式与你们取得联系？",
+      "answer": "您好！您可以通过投资者热线0755-84430888联系公司投关团队，谢谢关注。",
+      "ask_date": "2026-10-19",
+      "answer_date": "2026-10-21",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=003816&orgId=9900027002"
+     },
+     {
+      "question": "董秘您好，此前回复称未与亚信科技合作，可公开信息查得中广核旗下广宁广北风电场由亚信科技与中国广电共同构建5G专网系统，是否属实？再确认其是否有大幅降本增效？是否可以复制到公司其它地区业务？",
+      "answer": "您好！公司主要业务是建设、运营及管理核电站，核电站电力销售，组织开发核电站的设计及科研工作，暂不涉及风电业务。中广核广宁广北风电厂属于控股股东下属相关新能源公司资产。谢谢关注。",
+      "ask_date": "2026-09-18",
+      "answer_date": "2026-09-21",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=003816&orgId=9900027002"
+     },
+     {
+      "question": "董秘您好，请问贵司与亚信科技在5G专网方面的合作是一次性项目制还是长期由对方负责运维的持续合作？是否有大幅降低运营成本、显著提高效率？亚信科技另有整套AI数智运营平台，贵司是否会有相关合作以进一步降本增效？",
+      "answer": "您好！公司未开展相关合作。谢谢关注。",
+      "ask_date": "2026-09-15",
+      "answer_date": "2026-09-17",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=003816&orgId=9900027002"
+     },
+     {
+      "question": "董秘您好，请问贵司与亚信科技在5G专网运营方面合作是一次性项目制还是长期由对方负责运维的持续合作？是否有大幅降低运营成本、显著提高效率？亚信科技另有整套AI数智运营平台，贵司是否有相关合作？",
+      "answer": "您好！公司并未开展相关合作。谢谢关注。",
+      "ask_date": "2026-09-14",
+      "answer_date": "2026-09-16",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=003816&orgId=9900027002"
+     },
+     {
+      "question": "贵公司 2026 年半年度报告披露，苍南 1 号机组于 2026 年 4 月 29 日投入商业运营，报告期上网电量 16.66 亿千瓦时，同期该机组负荷因子 98.32%、利用小时数 4,275 小时；惠州 1 号机组于 4 月 19 日商运，上网电量 17.61 亿千瓦时，负荷因子 89.64%、利用小时数 3,894 小时。按商业运营日至 6 月 30 日的可用小时数测算（分别约 1,488",
+      "answer": "您好！发电机组利用小时数=机组发电量/机组装机容量，对新投产机组，装机容量需要根据投产当年实际商运天数进行折算。因此，惠州1号机组及苍南1号机组利用小时数均高于商运日至6月30日的实际小时数。谢谢关注。",
+      "ask_date": "2026-08-26",
+      "answer_date": "2026-08-27",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=003816&orgId=9900027002"
+     },
+     {
+      "question": "董秘您好。公司2026年半年度资金占用汇总表中，中核二三同时列为＂受同一方控制＂（其他非流动资产期末10.56亿元）与＂联营企业＂。其控股股东为中国核建，中广核集团仅持股12.85%非控制方，且2025年同表仅列＂联营企业＂。请说明：认定＂受同一方控制＂的依据？两类冲突关联关系是否指向同一余额、有无重复列示？新增10.56亿元是否由上期预付款项重分类？谢谢！",
+      "answer": "您好！公司2026年上半年增加了与中核二三公司(属于其他关联方及其附属企业)有关的其他非流动资产科目，原因在于预付款重分类；经核实，汇总表中没有同一金额重复列示的情况。谢谢关注。",
+      "ask_date": "2026-08-25",
+      "answer_date": "2026-08-27",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=003816&orgId=9900027002"
+     },
+     {
+      "question": "你好，大多央企都在回购增持，请问你们什么时候回购股票？",
+      "answer": "您好！公司已于2025年度股东大会例行申请回购股份的一般性授权，后续将综合资本市场表现、公司实际情况等因素择机开展股份回购。谢谢关注。",
+      "ask_date": "2026-08-21",
+      "answer_date": "2026-08-26",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=003816&orgId=9900027002"
+     },
+     {
+      "question": "近期看到新闻，广东多家售电公司联合要求部分国有发电企业支付线下返利。 请问 1.公司在广东的2026年的实际年度长协电价是否为372元/兆瓦时。 2.此次事件对公司有影响吗。 3.2026年大量售电公司通过低价抢占市场最终导致大量亏损，会导致2026年年度长协电价上涨吗。",
+      "answer": "您好！根据广东省2026年电力市场交易方案，广东省年度交易价格下限为372元/兆瓦时，公司已于2025年末完成2026年年度长协签约，签约价格约372元/兆瓦时，公司将按照交易方案要求及已签约的相关合同约定继续执行。谢谢关注。",
+      "ask_date": "2026-08-18",
+      "answer_date": "2026-08-19",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=003816&orgId=9900027002"
+     }
+    ],
+    "count_12m": null
+   },
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "688012.SH": {
    "announcements": {
@@ -8630,7 +9458,7 @@
     ],
     "count_12m": 218
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [],
     "count_12m": null
@@ -8763,7 +9591,7 @@
     ],
     "count_12m": 63
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -8921,8 +9749,45 @@
     ],
     "count_12m": 104
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
-   "qa_unsupported": true
+   "announcements_at": "2026-10-28T19:03:55+08:00",
+   "qa": {
+    "items": [
+     {
+      "question": "请问公司有哪些估值提升的计划和安排？",
+      "answer": null,
+      "ask_date": "2026-10-28",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002142&orgId=9900003281"
+     },
+     {
+      "question": "尊敬的董秘您好，贵公司2026半年报，第145页“发放贷款和垫款按行业分类”表格中2025年末的金额和占比有误，按照从大到小排列了，不仔细看只简单摘录数据的话很容易发生错误，请知悉更正。",
+      "answer": null,
+      "ask_date": "2026-09-23",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002142&orgId=9900003281"
+     },
+     {
+      "question": "尊敬的董秘： 贵司ESG报告包含金融消费者保护。请问贵行对豆豆钱助贷合作业务如何管控？该模式存在合同仅显示银行低名义利率，担保费由第三方另行扣收，未完整披露全部综合融资成本的风险，已产生多起消费者纠纷。豆豆钱平台助贷模式下，已有部分消费者进入监管投诉与司法程序。 请问公司对助贷合作方是否落实全口径成本披露管控？纠纷是否存在全部转交第三方平台处置的情况？ESG是否会披露相关管控措施？",
+      "answer": null,
+      "ask_date": "2026-08-30",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002142&orgId=9900003281"
+     },
+     {
+      "question": "贵公司是否在天津这种首套房屋贷款利率高达3.10%城市开展房屋贷款业务？是否在当地开展房贷置换业务？",
+      "answer": null,
+      "ask_date": "2026-08-01",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002142&orgId=9900003281"
+     }
+    ],
+    "count_12m": null
+   },
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "600309.SH": {
    "announcements": {
@@ -9050,7 +9915,7 @@
     ],
     "count_12m": 108
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -9216,8 +10081,77 @@
     ],
     "count_12m": 182
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
-   "qa_unsupported": true
+   "announcements_at": "2026-10-28T19:03:55+08:00",
+   "qa": {
+    "items": [
+     {
+      "question": "机构预期高速互联2027高增、2028增速放缓，但是迭代从1.6T转向3.2T，同时NPO/OOI演进。请问公司对应800G/1.6T/3.2T的光引擎、FAU等产品，2027、2028出货与结构规划？3.2T交付进度、毛利率预判；新架构对公司产品是新增需求还是替代风险？",
+      "answer": null,
+      "ask_date": "2026-10-28",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300394&orgId=9900023911"
+     },
+     {
+      "question": "请问公司截止2026年10月20日的股东户数是多少？谢谢",
+      "answer": "截至2026年10月20日收盘，公司股东人数为237456（合并信用账户）。",
+      "ask_date": "2026-10-20",
+      "answer_date": "2026-10-27",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300394&orgId=9900023911"
+     },
+     {
+      "question": "请问如何参加贵公司投资者关系活动及半年会、年会？普通投资者可以参加吗？谢谢",
+      "answer": "尊敬的投资者你好，公司通过股东会、互动易平台、年度网上业绩说明会等多种形式，积极构建多渠道投资者沟通平台，相关会议的召开时间、地点及报名方式请关注公司在巨潮资讯网发布的相关公告，谢谢关注。",
+      "ask_date": "2026-10-11",
+      "answer_date": "2026-10-27",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300394&orgId=9900023911"
+     },
+     {
+      "question": "董秘，您好！ 请问公司有在开发DFAU吗？预计什么时候能量产？谢谢！",
+      "answer": "尊敬的投资者你好，公司近几年持续保持相对高强度研发投入，会结合客户需求，对各类新技术方向保持长期的跟踪关注，谢谢关注。",
+      "ask_date": "2026-10-06",
+      "answer_date": "2026-10-27",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300394&orgId=9900023911"
+     },
+     {
+      "question": "董秘，您好。请问现在供应1.6T光模块，CPO的FAU 自动化程度进展如何了。随着高芯FAU用量越来越多，目前关键环节的熟练工人是否成为瓶颈，公司对此有无应对措施。",
+      "answer": "尊敬的投资者你好，自动化对于保证产品的一致性、稳定性有较大的作用，对于大量产的产品，公司在持续推进产线自动化建设，通过信息化系统建设与自动化设备升级，逐步打造高效的智能制造体系，谢谢关注。",
+      "ask_date": "2026-09-25",
+      "answer_date": "2026-10-27",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300394&orgId=9900023911"
+     },
+     {
+      "question": "公司最新股东人数是多少？",
+      "answer": "截至2026年9月18日收盘，公司股东人数为242526（合并信用账户）。",
+      "ask_date": "2026-09-21",
+      "answer_date": "2026-10-27",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300394&orgId=9900023911"
+     },
+     {
+      "question": "董秘好，想问下市面上现在提到的mpc技术dfau公司是否涉及？",
+      "answer": "尊敬的投资者你好，依托在光学耦合、精密制造及规模化批量交付方面的长期积累，公司为CPO产品配套的FAU、ELS等产品在性能、良率及交付保障等方面已具备较好的基础，公司会结合客户需求，对各类新技术方向保持持续的跟踪关注和必要的研发投入，谢谢关注。",
+      "ask_date": "2026-09-18",
+      "answer_date": "2026-10-27",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300394&orgId=9900023911"
+     },
+     {
+      "question": "请问贵公司截止9月10日最新股东户数是多少？谢谢",
+      "answer": "截至2026年9月10日收盘，公司股东人数为248389（合并信用账户）。",
+      "ask_date": "2026-09-12",
+      "answer_date": "2026-10-27",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300394&orgId=9900023911"
+     }
+    ],
+    "count_12m": null
+   },
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "000001.SZ": {
    "announcements": {
@@ -9345,8 +10279,77 @@
     ],
     "count_12m": 79
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
-   "qa_unsupported": true
+   "announcements_at": "2026-10-28T19:03:55+08:00",
+   "qa": {
+    "items": [
+     {
+      "question": "最近公司是否有积极变化",
+      "answer": "您好。本行已于2026年10月24日披露三季度报告。2026年1-9月，本行实现营业收入1,031亿元，同比增长2.4%，实现净利润391.86亿元，同比增长2.2%。其他经营方面的具体情况，敬请在巨潮资讯网（http://www.cninfo.com.cn）点阅本行三季度报告。感谢您的关注。",
+      "ask_date": "2026-10-19",
+      "answer_date": "2026-10-27",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000001&orgId=gssz0000001"
+     },
+     {
+      "question": "您好，最新股东人数是？",
+      "answer": "您好。本行在定期报告中披露具体股东数。截至2026年6月末，本行普通股股东总户数为450,712户。感谢您的关注。",
+      "ask_date": "2026-10-13",
+      "answer_date": "2026-10-14",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000001&orgId=gssz0000001"
+     },
+     {
+      "question": "平安银行为何不申请设立AIC公司来增加非息收入的增长极，除国有六大行，商行中招商，兴业，中信都己完成设立，平安银行的业务结构优化方案难道要缺这一腿吗？",
+      "answer": "您好。本行暂无相关应披露而未披露的信息。感谢您的关注。",
+      "ask_date": "2026-10-12",
+      "answer_date": "2026-10-14",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000001&orgId=gssz0000001"
+     },
+     {
+      "question": "近期巴菲特加仓地产股的原因有传是美华人集体要求放宽在各州购地自建新能源房屋？请问万科作好准备迎接新一轮新型能源、防AI防核安全基建潮了吗？",
+      "answer": "您好。相关问题建议您直接咨询万科（000002）。感谢您的关注。",
+      "ask_date": "2026-10-12",
+      "answer_date": "2026-10-14",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000001&orgId=gssz0000001"
+     },
+     {
+      "question": "董秘您好！我注意到贵公司在年报中披露了数字人民币相关内容。想向您请教，贵公司目前是否已使用数字人民币？如已使用，是从什么时候开始使用的？谢谢！",
+      "answer": "您好。本行未披露相关信息。感谢您的关注。",
+      "ask_date": "2026-10-10",
+      "answer_date": "2026-10-14",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000001&orgId=gssz0000001"
+     },
+     {
+      "question": "平安集团保险、证券、信托、医养资源齐全，但客户体感仍是“各管各的”。请问管理层：银行作为集团C端转化器，是否有明确KPI衡量“集团资源转化为客户账户收益和体验”？私行“1+1+N”模式下，客户跨子公司配置率和留存率如何？何时能从“集团资源持有者”变成“客户钱包经营者”？",
+      "answer": "您好。在综合金融方面，本行积极加强与平安集团的协同协作，借助平安集团的客户、产品、品牌等优势，通过资源整合、相互协同，打造鲜明的综合金融优势。本行坚持从客户需求出发，全面完善综合金融的协作机制和服务平台，持续强化关联交易管理，强化客户信息保护，坚持公允定价，有效做好风险隔离，依法合规开展综合金融业务。目前综合金融在客户规模、管理零售客户资产（AUM）规模等方面为零售业务经营持续贡献价值。2026年上半年，综合金融贡献的新增财富客户数占比55.1%、新获客AUM占比53.3%、信用卡新增户数占比15.1%。本行将持续推进综合金融模式的迭代升级，依托平安集团“综合金融+医疗养老”生态协同优势，进一步深化客户经营体系建设。感谢您的关注。",
+      "ask_date": "2026-10-04",
+      "answer_date": "2026-10-14",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000001&orgId=gssz0000001"
+     },
+     {
+      "question": "国庆快乐，请问最新一期的股东人数是多少？",
+      "answer": "您好。本行在定期报告中披露具体股东数。截至2026年6月末，本行普通股股东总户数为450,712户。感谢您的关注。",
+      "ask_date": "2026-10-01",
+      "answer_date": "2026-10-14",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000001&orgId=gssz0000001"
+     },
+     {
+      "question": "银行不只是存，贷，建议公司抓住国内科技转型，深度参与科技，创新的投资，把投行做大，那公司将上一个台阶",
+      "answer": "您好。本行积极贯彻国家战略，充分发挥平安集团综合金融优势，聚焦支持民营经济、科技创新、绿色金融等重点领域，持续强化投行专业能力，为客户提供“商行+投行+投资”一站式综合解决方案。一是依托“产品+客户+跨境”架构优势，夯实并购及银团生态圈，2026年6月末，本行并购及银团贷款余额2,379.55亿元，较上年末增长7.2%；二是深化债券“揽、做、销”一体化运营，有序开展金融创新，以专业服务助力科技金融生态建设，2026年上半年，非金融债券承销业务发生额587.35亿元；三是发挥资金和信息的融通优势以及投资银行专业技能，构建“撮合+”生态满足企业多元化需求；四是深耕上市公司及基金生态两大客群，搭建覆盖初创培育、成长发展、上市经营、并购整合的全周期服务体系，2026年上半年，本行深度参与市场多个重大基金生态并购项目，落地多笔股票增持回购贷款及“上市贷”业务，助力实体经济高质量发展。感谢您的关注。",
+      "ask_date": "2026-09-04",
+      "answer_date": "2026-10-15",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000001&orgId=gssz0000001"
+     }
+    ],
+    "count_12m": null
+   },
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "688008.SH": {
    "announcements": {
@@ -9474,7 +10477,7 @@
     ],
     "count_12m": 149
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -9664,8 +10667,77 @@
     ],
     "count_12m": 86
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
-   "qa_unsupported": true
+   "announcements_at": "2026-10-28T19:03:55+08:00",
+   "qa": {
+    "items": [
+     {
+      "question": "您好，我是公司的小股东/投资者，想了解一下贵公司2025-2026年‘信息化建设’相关情况。请问公司目前IT/数字化团队的规模大概是多少人？年度信息化投入金额大约是多少？这些信息在财报中未单独披露，能否告知大致范围？",
+      "answer": null,
+      "ask_date": "2026-10-26",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300760&orgId=9900035304"
+     },
+     {
+      "question": "我想知道你们几号发布三季报？期待你的好消息",
+      "answer": "您好，公司将于10月30日披露2026年三季报，敬请关注，谢谢。",
+      "ask_date": "2026-10-21",
+      "answer_date": "2026-10-28",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300760&orgId=9900035304"
+     },
+     {
+      "question": "公司研发投入一直很大，上半年占了营收 10% 以上，像 \"瑞检\"\" 瑞智 \" 这些生态还有启元大模型都在推。就想问问这些数智化业务现在到底挣不挣钱、贡献多少收入了？这么大投入，啥时候能变成实实在在的利润和增长点？",
+      "answer": null,
+      "ask_date": "2026-10-20",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300760&orgId=9900035304"
+     },
+     {
+      "question": "董秘您好，IVD业务是迈瑞支柱业务之一，而化学发光是IVD行业中的明星市场，今年CACLP上迈瑞发布了宽线性化学发光CL9000i和流水线平台产品，想了解迈瑞宽线性化学发光产品目前的销售台数和产能，未来是否对业绩有重大驱动业务？迈瑞如何看待宽线性产品如CL9000i的市场潜力，对于化学发光业务的影响？未来是否会有新的宽线性产品发布？谢谢",
+      "answer": "您好，谢谢您的关注。CL-9000i是公司推出的新一代全自动化学发光免疫分析系统，具备高灵敏宽线性、高易用性、高通量特点；是迈瑞进军高端客户的核心拳头产品。自2025年12月上市以来，实现仪器快速上量。以全新一代HCG项目为例，99%以上临床样本可实现免复测，体现了高灵敏宽线性检测在减少复测、提升效率方面的应用价值。这一产品将在未来几年中持续服务大型医院及大样本量实验室，推动业务发展。迈瑞长期深耕医疗器械研发与制造，具备从产品研发、工程转化到规模化生产的综合能力，可结合市场拓展和客户需求统筹产能与供应，为业务发展提供相应保障。 CL-9000i搭载FRD全程检测技术，针对检测项目浓度跨度大、传统检测需稀释复测的场景，同时提升检测灵敏度与线性范围，也意味着化学发光免疫分析系统从易用、高速，走向检测性能和临床应用价值方面的持续升级。未来，公司将结合临床和检验需求，持续推进FRD平台技术及相关试剂项目的研发，进一步丰富化学发光产品组合。谢谢。",
+      "ask_date": "2026-10-13",
+      "answer_date": "2026-10-28",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300760&orgId=9900035304"
+     },
+     {
+      "question": "公司收购的惠泰医疗整个原始团队都在减持套现，他们的精力是否还在惠泰医疗未来发展上，公司使用这么多资金控股惠泰医疗是否值得，如果其原创团队都不看好惠泰医疗未来，迈瑞医疗是否面临巨大的商誉减值风险",
+      "answer": null,
+      "ask_date": "2026-09-21",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300760&orgId=9900035304"
+     },
+     {
+      "question": "董秘你好。公司提出未来十年跻身全球医疗器械前十，并明确＂流水化、国际化、数智化＂三大战略方向。其中手术机器人已进入注册阶段，启元大模型等AI数智化已推向临床应用。 请问针对手术机器人、骨科耗材、AI数智化商业化这三个方向，公司分别倾向于自研、合作还是并购切入？特别是手术机器人的核心部件与专用耗材、AI相关业务的营收占比及收费模式，未来3-5年并购的优先赛道排序是怎样的？恳请说明，谢谢。",
+      "answer": null,
+      "ask_date": "2026-09-16",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300760&orgId=9900035304"
+     },
+     {
+      "question": "您好！请回答：一、25年公司净利润下滑约30%，高管薪酬仅下降约19%，降幅明显低于业绩，如何解释？是否建立了业绩不达预期时薪酬下调机制？如何将薪酬和业绩挂钩，达到管理层与股东“风险共担”的效果？二、薪酬方案制是否对标了行业国际龙头？薪酬结构和股权激励占比处于什么水平和范围？三、是否建立了薪酬递延支付和追索扣回机制？有什么核心条款保证效果？四、薪酬与考核委员会的对高管薪酬的审议意见能否进一步公开？",
+      "answer": "您好，谢谢关注。2025年，公司董高薪酬总额较2024年下降17.7%，其中2024年中期聘任的4位高管已还原为2024年全年薪酬。自2025年12月以来，公司董事、高管合计增持公司股票逾2.8亿元。公司已跻身全球顶尖医疗器械企业前30名，作为一家全球型医疗器械企业，与主要全球竞争对手相比，公司董事及高管薪酬水平处于合理区间。公司薪酬制度遵循以下原则：（一）按岗位确定薪酬原则：公司内部各岗位薪酬体现各岗位对公司的价值，体现“责、权、利”的统一；（二）按绩效评价标准、程序及主要评价体系的原则；（三）个人薪酬与公司长远利益相结合的原则；（四）激励与约束并重、奖罚对等的原则。高管薪酬严格按照公司《董事及高级管理人员薪酬管理制度》规定和公司内部薪酬制度执行。根据《董事及高级管理人员薪酬管理制度》，公司高级管理人员的薪酬由基本薪酬和绩效薪酬组成。绩效薪酬占比原则上不低于基本薪酬与绩效薪酬总额的百分之五十。公司已建立董事、高级管理人员绩效薪酬追索扣回机制。 公司《董事及高级管理人员薪酬管理制度（2026年3月）》制订与高管薪酬审议批准程序符合《公司法》《深圳证券交易所创业板股票上市规则》《深圳证券交易所上市公司自律监管指引第2号——创业板上市公司规范运作》等有关法律、法规规定。谢谢。",
+      "ask_date": "2026-09-07",
+      "answer_date": "2026-09-14",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300760&orgId=9900035304"
+     },
+     {
+      "question": "董秘你好。公司提出未来十年跻身全球医疗器械前十，并明确＂流水化、国际化、数智化＂三大战略方向。其中手术机器人已进入注册阶段，启元大模型等AI数智化已推向临床应用。 请问针对手术机器人、骨科耗材、AI数智化商业化这三个方向，公司分别倾向于自研、合作还是并购切入？特别是手术机器人的核心部件与专用耗材、AI相关业务的营收占比及收费模式，未来3-5年并购的优先赛道排序是怎样的？恳请说明，谢谢。",
+      "answer": "您好，谢谢关注。迈瑞正在推动设备数智化转型，这其中包括启元AI大模型、手术机器人、可穿戴监护等等，都不是为了单纯地“卖更好的产品”，而是为了重塑患者生命周期的临床管理范式。我们正在将医疗器械从“被动、碎片化、院内”的孤立工具，升维成“主动、一体化、联通院内外”的生命守护智能体，并帮助医护人员大幅提升工作效率、减少人为失误。未来，医疗设备和配套耗材将成为拥有“感知、思考、决策、执行”等能力的具身智能。它能在患者状态恶化发生前，通过可穿戴设备对身处院外的患者进行精准预警，并将预警实时传回院内；在手术台上，通过机器人和AI协助外科医生实现超越人类极限的微创精准操作；在重症监护室里，通过床旁设备和启元大模型为重症医护人员提供全天候的临床决策辅助。迈瑞正在跨越传统医疗器械的边界，成为一家“定义未来临床工作流”的生态型企业，真正实现全面赋能医院提质增效、降低人力和运营成本。对迈瑞而言，我们创造的将不再是单纯的产品溢价，而是颠覆性、高使用粘性、高复购率的完整解决方案。而这才是迈瑞在未来十年乃至更长周期里，保持高维度竞争优势、真正引领全球医疗行业数智化发展的核心密码。以上内容不构成业绩承诺，市场有风险，投资需谨慎，谢谢。",
+      "ask_date": "2026-09-07",
+      "answer_date": "2026-09-14",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300760&orgId=9900035304"
+     }
+    ],
+    "count_12m": null
+   },
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "000651.SZ": {
    "announcements": {
@@ -9793,8 +10865,77 @@
     ],
     "count_12m": 125
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
-   "qa_unsupported": true
+   "announcements_at": "2026-10-28T19:03:55+08:00",
+   "qa": {
+    "items": [
+     {
+      "question": "到底什么是楼宇智控呢？它和传统的空调业务区别在哪里，市场空间有多大？",
+      "answer": null,
+      "ask_date": "2026-10-28",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000651&orgId=gssz0000651"
+     },
+     {
+      "question": "董秘您好，贵司先称任职信息属个人隐私，后又称代理材料已按规定提交法院，该回复未能消除疑虑，反加剧投资者对子公司合规风险的担忧。裁判文书已公开，该信息不再具备隐私属性。既然子公司委托韩青柯以员工身份应诉，请说明贵司所称\"相应资格证明材料\"具体包括哪些？是否包含劳动合同、社保缴纳记录、工资发放记录等？请列明具体材料或说明韩青柯以员工身份代理资格依据，恳请直接答复。",
+      "answer": "根据《中华人民共和国民事诉讼法》及相关司法解释，诉讼代理人应向人民法院提交授权委托书及相应资格证明材料，诉讼代理资格由受理案件的人民法院依法审查。",
+      "ask_date": "2026-10-22",
+      "answer_date": "2026-10-27",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000651&orgId=gssz0000651"
+     },
+     {
+      "question": "领导您好！请问咱们8英寸碳化硅芯片是否正常试生产？如果没有计划几月份可以试生产？谢谢！",
+      "answer": null,
+      "ask_date": "2026-10-22",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000651&orgId=gssz0000651"
+     },
+     {
+      "question": "董秘，您好！请问今年三季度分红还会兑现吗？",
+      "answer": "尊敬的投资者，您好！公司将综合考虑战略规划、经营业绩、现金流状况及未来资金需求等因素决定中期利润分配事宜，并按照相关法律法规要求履行信息披露义务。感谢您的关注！",
+      "ask_date": "2026-10-17",
+      "answer_date": "2026-10-22",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000651&orgId=gssz0000651"
+     },
+     {
+      "question": "公司能不能设计一系列AI形象玩具，买产品，积玩具，达到一定程度的消费者，本人或家庭可以和产品经理，公司科学家互动，展示公司的优秀人才，优秀产品。",
+      "answer": "尊敬的投资者，您好！非常感谢您提出的关于客户互动模式的创新建议，我们已传达至相关部门。感谢您对公司的关注与支持！",
+      "ask_date": "2026-10-14",
+      "answer_date": "2026-10-22",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000651&orgId=gssz0000651"
+     },
+     {
+      "question": "您好，格力是国内广受民众认可、具备社会责任感的企业。近期合肥生产基地废气排放问题，对周边居民生活造成较大影响。恳请公司重视该事项，开展内部核查，妥善处置废气相关问题，并向公众说明调查与整改情况，履行企业环保主体责任。",
+      "answer": "尊敬的投资者，您好！公司严格遵守污废排放相关法律法规,定期监测废气排放，监测结果均符合国家及地区排放标准，切实践行生态环境保护责任。感谢您的关注！",
+      "ask_date": "2026-10-10",
+      "answer_date": "2026-10-27",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000651&orgId=gssz0000651"
+     },
+     {
+      "question": "董秘您好，此前提问，贵司以任职信息属于受法律保护的个人信息为由回避答复，本次继续追问：辽宁省庄河市人民法院（2025）辽0283民初4180号判决书载明，子公司格力电子商务有限公司委托诉讼代理人韩青柯以员工身份应诉，该事实已通过司法文书公开，不再属于个人隐私。投资者关注核心是子公司合规运营与诉讼材料真实性，请正面回应：公司是否确认该代理人具备合法员工代理资格？直接回复是与否会更加简洁，谢谢！",
+      "answer": "尊敬的投资者，您好！ 公司及各子公司在诉讼活动中严格遵守《中华人民共和国民事诉讼法》及相关司法解释规定，委托诉讼代理人均按照规定提交相应资格证明材料，经法院审查确认后方可参与诉讼。感谢您的关注！",
+      "ask_date": "2026-10-10",
+      "answer_date": "2026-10-22",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000651&orgId=gssz0000651"
+     },
+     {
+      "question": "请问董秘，公司是否有生产无稀土电机",
+      "answer": "公司在电机领域布局了稀土和无稀土两条技术路线，可根据客户需求开展产品设计与开发，以满足多样化的市场需求。 公司于2010年首次实现无稀土电机在变频空调领域的应用，持续突破大功率无稀土磁阻电机的核心技术瓶颈，实现在商用新能源车主驱电机、工业设备驱动电机等领域进一步规模化应用。感谢您的关注！",
+      "ask_date": "2026-09-07",
+      "answer_date": "2026-10-22",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000651&orgId=gssz0000651"
+     }
+    ],
+    "count_12m": null
+   },
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "603986.SH": {
    "announcements": {
@@ -9922,7 +11063,7 @@
     ],
     "count_12m": 190
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -10120,8 +11261,77 @@
     ],
     "count_12m": 132
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
-   "qa_unsupported": true
+   "announcements_at": "2026-10-28T19:03:55+08:00",
+   "qa": {
+    "items": [
+     {
+      "question": "公司靠收购MFLX切入苹果FPC、收购Multek补齐高端PCB、再控股索尔思光电切入光芯片+光模块，成长路径明显是“外延并购驱动”。近期又控股江苏华存，布局PCIe存储控制芯片与企业级SSD。 请问董秘：本次布局是否延续“买买买”式扩张逻辑，把边界从PCB、光互联进一步扩到AI算力存储？华存如何与现有高速PCB、光模块业务形成客户与技术协同？并表节奏、研发投入及整合风险如何考量？",
+      "answer": null,
+      "ask_date": "2026-10-28",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002384&orgId=9900011647"
+     },
+     {
+      "question": "请问订单充足，业绩好，怎么股价一直跌不停",
+      "answer": null,
+      "ask_date": "2026-10-27",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002384&orgId=9900011647"
+     },
+     {
+      "question": "董秘您好！公司股价近期持续下跌，且跌幅较大，请问目前公司订单情况和出货情况，扩产情况如何？是否有未公布利空消息？对于当前股价大跌，公司有什么稳定股价和市值管理的措施？",
+      "answer": null,
+      "ask_date": "2026-10-27",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002384&orgId=9900011647"
+     },
+     {
+      "question": "你好，董秘，请问目前公司订单情况和出货情况，扩产情况如何？公司四季度订单需求如何？对于当前股价的大跌，公司有什么稳定股价和市值管理的措施？谢谢",
+      "answer": null,
+      "ask_date": "2026-10-27",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002384&orgId=9900011647"
+     },
+     {
+      "question": "关注到公司通过对外投资控股江苏华存电子科技有限公司，其在存储控制芯片及存储模组领域有国产替代技术积累。想请教：公司是基于怎样的产业逻辑布局华存？未来在AI服务器、高速存储、光模块+PCB一体化方案上，是否会与现有电子电路及光模块业务形成协同？如何看待本次布局对中长期的竞争力提升？",
+      "answer": "感谢您对公司的关注和支持！",
+      "ask_date": "2026-10-20",
+      "answer_date": "2026-10-21",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002384&orgId=9900011647"
+     },
+     {
+      "question": "Meta、谷歌等北美云巨头和Marvell签长期锁产能协议，优先拿DSP芯片,咱们公司无法拿到足够的 DSP芯片，将直接影响 1.6T 光模块出货，请问公司在这方面有什么应对措施？",
+      "answer": "公司高度重视核心物料的供应安全，已针对相关上游物料建立了多策略的保障体系，持续推进供应链多元化布局，以应对外部环境变化，保障生产经营的稳定。感谢您对公司的关注与支持。",
+      "ask_date": "2026-10-19",
+      "answer_date": "2026-10-19",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002384&orgId=9900011647"
+     },
+     {
+      "question": "中际旭创今晚发公告拟注销回购股份，天孚通信也发公告拟回购股份并注销，请问贵公司是否也能回购的股份予以注销而不是用来股权激励，给广大股东和投资者信心",
+      "answer": "感谢您对公司的关注与支持。公司回购股份将按照已披露的回购方案确定的用途实施，具体情况详见公司相关公告。谢谢。",
+      "ask_date": "2026-10-15",
+      "answer_date": "2026-10-19",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002384&orgId=9900011647"
+     },
+     {
+      "question": "您好，请问贵公司在编制2025年年度报告、特别是“管理层讨论与分析”等文字章节时，是否使用过DeepSeek、豆包等生成式人工智能工具（包括使用内部系统集成的生成式AI功能），来辅助信息搜集、文字起草、修改或润色？如有，烦请说明主要使用环节；如未使用，也烦请明确说明。谢谢！",
+      "answer": "您好，公司严格按照国家有关法律法规及中国证监会、深圳证券交易所相关规定开展定期报告编制工作，保障定期报告内容真实、准确、完整。后续公司仍将依规开展相关工作。感谢您的关注!",
+      "ask_date": "2026-10-15",
+      "answer_date": "2026-10-19",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002384&orgId=9900011647"
+     }
+    ],
+    "count_12m": null
+   },
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "002463.SZ": {
    "announcements": {
@@ -10249,8 +11459,77 @@
     ],
     "count_12m": 159
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
-   "qa_unsupported": true
+   "announcements_at": "2026-10-28T19:03:55+08:00",
+   "qa": {
+    "items": [
+     {
+      "question": "您好！请问贵公司截至2026年10月27日的股东户数是多少？谢谢。",
+      "answer": null,
+      "ask_date": "2026-10-27",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002463&orgId=9900013929"
+     },
+     {
+      "question": "您好，作为沪电股东，深知公司比较关心并维护股价，如今多家同业公司都开始回购，作为龙头企业，是否考虑回购并注销股份，提振股价？谢谢！",
+      "answer": null,
+      "ask_date": "2026-10-26",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002463&orgId=9900013929"
+     },
+     {
+      "question": "您好，作为长期持有沪电股份的股东，我十分看好公司在算力PCB赛道的长期发展。当前公司股价波动较大，估值承压。想请问公司是否考虑参考部分优质外企、国内头部上市公司的做法，推出回购股份并直接注销的方案，而不是回购后用于股权激励、员工持股等方式？ 回购注销能够直接减少总股本，增厚每股收益，实实在在回报全体股东，稳定市场信心。想了解公司对于股份回购注销这件事有没有相关规划或者考量？",
+      "answer": null,
+      "ask_date": "2026-10-23",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002463&orgId=9900013929"
+     },
+     {
+      "question": "请问贵公司有没有与英伟达合作？？？",
+      "answer": null,
+      "ask_date": "2026-10-15",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002463&orgId=9900013929"
+     },
+     {
+      "question": "请问贵公司78层PCB板什么时候能量产了？？",
+      "answer": null,
+      "ask_date": "2026-10-15",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002463&orgId=9900013929"
+     },
+     {
+      "question": "董秘您好，请问截止目前，股东户数是多少",
+      "answer": null,
+      "ask_date": "2026-10-14",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002463&orgId=9900013929"
+     },
+     {
+      "question": "请问贵公司是否和全球龙头科技公司存在合作关系",
+      "answer": "您好，出于商业政策的限制，我们不便讨论具体的厂商。公司与国内外众多终端客户展开多领域深度合作，适配多技术平台，构建广泛覆盖的技术生态，公司甄别并抓牢目标产品市场涌现的新业务机会，紧抓人工智能、高速网络等对PCB的结构性需求，大力开展相关业务，以实现更长远的发展目标，为投资者创造更多价值，谢谢！",
+      "ask_date": "2026-08-27",
+      "answer_date": "2026-10-15",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002463&orgId=9900013929"
+     },
+     {
+      "question": "请问贵公司是否和英伟达存在合作关系？",
+      "answer": "您好，出于商业政策的限制，我们不便讨论具体的厂商。公司与国内外众多终端客户展开多领域深度合作，适配多技术平台，构建广泛覆盖的技术生态，公司甄别并抓牢目标产品市场涌现的新业务机会，紧抓人工智能、高速网络等对PCB的结构性需求，大力开展相关业务，以实现更长远的发展目标，为投资者创造更多价值，谢谢！",
+      "ask_date": "2026-08-27",
+      "answer_date": "2026-10-15",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002463&orgId=9900013929"
+     }
+    ],
+    "count_12m": null
+   },
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "601985.SH": {
    "announcements": {
@@ -10378,7 +11657,7 @@
     ],
     "count_12m": 122
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -10576,7 +11855,7 @@
     ],
     "count_12m": 103
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -10726,7 +12005,7 @@
     ],
     "count_12m": 124
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -10868,7 +12147,7 @@
     ],
     "count_12m": 137
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -11058,8 +12337,37 @@
     ],
     "count_12m": 146
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
-   "qa_unsupported": true
+   "announcements_at": "2026-10-28T19:03:55+08:00",
+   "qa": {
+    "items": [
+     {
+      "question": "您好请问：公司FC-BGA产品目前的线宽/线距规格是多少？最大封装基板尺寸是多少？ FCBGA产品良率是否已达到商业化量产基准？高层的良率是多少？ 公司是否考虑在定期报告中单独披露FC-BGA业务收入？",
+      "answer": "尊敬的投资者，您好。公司FC-BGA封装基板目前已具备22层及以下产品的批量生产能力，线宽线距最小达9/12μm。公司始终将产品质量和技术创新作为核心竞争力，并通过持续优化工艺、强化生产管控，不断提升产品良率水平。封装基板业务收入包含FC-BGA封装基板相关收入，公司将严格依据监管披露要求编制定期报告。谢谢您的关注。",
+      "ask_date": "2026-10-08",
+      "answer_date": "2026-10-14",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002916&orgId=9900022488"
+     },
+     {
+      "question": "目前公司PCB和封装基板的产能是多少",
+      "answer": "尊敬的投资者，您好。公司现有深圳、无锡、南通、广州、泰国五个生产基地，其中深圳、无锡基地拥有PCB、封装基板、PCBA三项业务，南通、泰国基地主要为PCB业务，广州基地主要为封装基板业务。不同工厂面向的产品类型不同，具体产能情况与产品结构、技术改造等因素相关。谢谢您的关注。",
+      "ask_date": "2026-09-22",
+      "answer_date": "2026-09-24",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002916&orgId=9900022488"
+     },
+     {
+      "question": "深南电路已经英伟达的供应链了吗",
+      "answer": "尊敬的投资者，您好。基于商业保密原则，凡涉及与具体企业合作的问题公司均不便于回复，敬请谅解。谢谢您的关注。",
+      "ask_date": "2026-08-18",
+      "answer_date": "2026-08-20",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002916&orgId=9900022488"
+     }
+    ],
+    "count_12m": null
+   },
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "601668.SH": {
    "announcements": {
@@ -11187,7 +12495,7 @@
     ],
     "count_12m": 134
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -11385,7 +12693,7 @@
     ],
     "count_12m": 139
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -11583,8 +12891,77 @@
     ],
     "count_12m": 192
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
-   "qa_unsupported": true
+   "announcements_at": "2026-10-28T19:03:55+08:00",
+   "qa": {
+    "items": [
+     {
+      "question": "你好，请问截止到2026年10月20日公司股东人数是多少？谢谢。",
+      "answer": "感谢您对本公司的关注，截止2026年10月20日股东人数为67,533，谢谢。",
+      "ask_date": "2026-10-22",
+      "answer_date": "2026-10-22",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002379&orgId=9900011448"
+     },
+     {
+      "question": "你好，请问截至到今天，公司股东户数多少，谢谢。",
+      "answer": "感谢您对本公司的关注，2026年10月16日的股东名册中登公司尚未提供，公司暂无法获悉股东人数，截至2026年10月9日股东人数为66,639。",
+      "ask_date": "2026-10-16",
+      "answer_date": "2026-10-19",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002379&orgId=9900011448"
+     },
+     {
+      "question": "你好，请问截止到2026年9月30日公司股东户数是多少？谢谢。",
+      "answer": "感谢您对本公司的关注，截止2026年9月30日股东人数为66,724，谢谢。",
+      "ask_date": "2026-09-30",
+      "answer_date": "2026-10-08",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002379&orgId=9900011448"
+     },
+     {
+      "question": "请问截止到2026年9月18日公司股东人数是多少？谢谢。",
+      "answer": "感谢您对本公司的关注，截止2026年9月18日股东人数为66,617，谢谢。",
+      "ask_date": "2026-09-18",
+      "answer_date": "2026-09-22",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002379&orgId=9900011448"
+     },
+     {
+      "question": "你好，请问截止到9月10日公司股东人数是多少？谢谢。",
+      "answer": "感谢您对本公司的关注，截止2026年9月10日股东人数为70,677，谢谢。",
+      "ask_date": "2026-09-10",
+      "answer_date": "2026-09-14",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002379&orgId=9900011448"
+     },
+     {
+      "question": "你好，翻阅公司半年报发现公司铝深加工产品营收相比25年增长显著，但部分原因应该是铝价上行，所以我想问下上半年在山东，云南两地的铝深加工产线产能和利用率分别是多少，谢谢",
+      "answer": "尊敬的投资者，您好！目前公司山东、云南两地铝深加工产线均处于高效运行状态，相关产能及利用率详情请以公司后续披露的定期报告为准。",
+      "ask_date": "2026-09-08",
+      "answer_date": "2026-09-10",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002379&orgId=9900011448"
+     },
+     {
+      "question": "董秘你好，有关于今年公司分红方面有什么能透露的吗？是倾向于直接分红还是倾向于在母公司HK1378中国宏桥进行分红，还是尽量保证两公司股息率接近，或者公司有其他战略安排？公司目前是处于“成熟期且无重大资金支出安排”这一阶段吗？",
+      "answer": "尊敬的投资者，您好。公司一贯重视对股东的回报，在确保持续稳健发展的基础上，维护投资者的合法权益。关于分红事宜，公司将依据实际经营状况及资金规划进行综合考量与审慎决策，具体方案请留意公司后续披露的公告，感谢您的关注与支持。",
+      "ask_date": "2026-09-07",
+      "answer_date": "2026-09-10",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002379&orgId=9900011448"
+     },
+     {
+      "question": "你好，请问截止到2026年8月31日公司股东户数是多少？谢谢。",
+      "answer": "感谢您对本公司的关注，截止2026年8月31日股东人数为73,304，谢谢。",
+      "ask_date": "2026-09-01",
+      "answer_date": "2026-09-10",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002379&orgId=9900011448"
+     }
+    ],
+    "count_12m": null
+   },
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "601898.SH": {
    "announcements": {
@@ -11712,7 +13089,7 @@
     ],
     "count_12m": 84
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -11910,8 +13287,77 @@
     ],
     "count_12m": 121
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
-   "qa_unsupported": true
+   "announcements_at": "2026-10-28T19:03:55+08:00",
+   "qa": {
+    "items": [
+     {
+      "question": "董秘你好，公司股价持续下行，本人持有半年亏损严重。想咨询：对照深交所上市规则，公司当前是否存在财务类、交易类或其他退市风险？是否存在触发 ST、*ST 风险警示的情形？",
+      "answer": "二级市场股价走势受宏观环境、板块情绪、资金轮动、投资者偏好等多重因素共同影响。公司当前生产经营稳健、财务状况良好，不存在财务类、交易类及其他类退市情形，亦不存在触发退市风险警示、其他风险警示的相关情形。感谢您对公司的关注！",
+      "ask_date": "2026-10-20",
+      "answer_date": "2026-10-21",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000338&orgId=9900002961"
+     },
+     {
+      "question": "请问贵公司，截止9月30股东户数是多少？",
+      "answer": "公司按照监管的相关规定，在定期报告中统一披露截至报告期末的股东户数，请您关注公司后续三季报。感谢您对公司的关注！",
+      "ask_date": "2026-10-15",
+      "answer_date": "2026-10-19",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000338&orgId=9900002961"
+     },
+     {
+      "question": "董秘你好，公司股价持续走弱，持仓浮亏接近 30%，想请教： 1、公司目前经营层面是否存在应披露而尚未披露的重大利空事项？ 2、公司如何看待近期股价持续下行？资金持续流出，是否有机构对公司长期逻辑产生较大分歧？ 3、除了做好经营之外，管理层有没有考虑回购、增持等方式稳定股价，提振市场信心？",
+      "answer": "公司目前生产经营一切正常，不存在应披露而未披露的重大事项。二级市场股价走势受宏观环境、板块情绪、资金轮动、投资者偏好等多重因素共同影响。公司基本面稳健，各项业务按计划有序推进，持续深耕主业并加快新业务布局，同时保持与各类投资者的顺畅沟通，积极传递公司长期投资价值。公司高度重视广大投资者的利益与诉求，持续研判市场运行情况，充分考量股东的合理建议；公司已于7月22日披露控股股东增持公司A股股份的计划公告。感谢您对公司的关注！",
+      "ask_date": "2026-10-14",
+      "answer_date": "2026-10-16",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000338&orgId=9900002961"
+     },
+     {
+      "question": "你好！两个问题 1:贵司控股股东承诺的回购股份进展如何？ 2:SOFC进展如何？具体到哪一步了？ 谢谢",
+      "answer": "关于公司控股股东增持的具体进展，敬请关注公司后续公告。公司SOFC业务正按规划稳步推进，技术迭代、产能建设、市场拓展等各项工作有序开展。感谢您对公司的关注！",
+      "ask_date": "2026-10-09",
+      "answer_date": "2026-10-14",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000338&orgId=9900002961"
+     },
+     {
+      "question": "董秘您好！公司在OpenAI德州星门项目中，作为与CAT并列的核心供应商，后续是否有机会切入其主电源或其他超大规模数据中心项目？对于公司预计2026年落地的30MW产能中，预计有多少比例是用于数据中心主电源，多少用于备用电源？",
+      "answer": "公司数据中心电力产品矩阵完备，覆盖柴发、气发、SOFC等多条技术路线，可满足数据中心主电源、备用电源等不同场景需求。目前公司已与多家终端客户接洽并获得实质性进展，同时与合作伙伴的协作关系持续深化。SOFC产品主要应用于数据中心持续发电场景，并具有清洁低碳、低噪音、高发电效率等突出优势。感谢您对公司的关注！",
+      "ask_date": "2026-10-09",
+      "answer_date": "2026-10-14",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000338&orgId=9900002961"
+     },
+     {
+      "question": "公司与控股股东及其控制企业存在大量同业竞争，包括重卡同业竞争、工程机械同业竞争等等，很严重，违反证券法，如何极速解决？",
+      "answer": "基于国有股权划转原因，公司与集团下属企业在重卡业务方面存在部分重合的情况，具体情况详见公司年度报告“同业竞争”部分。公司将依法依规加快推进相关工作。感谢您对公司的关注！",
+      "ask_date": "2026-10-01",
+      "answer_date": "2026-10-12",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000338&orgId=9900002961"
+     },
+     {
+      "question": "1、大缸径柴发当前在手订单多少？北美客户交付节奏如何？若算力投资放缓，对这块业务影响怎么评估？ 2、国内重卡需求偏弱，传统动力下半年盈利能否稳住？海外出口增长持续性如何？ 3、凯傲集团盈利修复进度，降本措施效果如何，对上市公司利润拖累是否消除？ 4、大缸径柴发板块前景如何？未来3年营收、利润占比目标是多少？",
+      "answer": "大缸径柴油发动机配套市场广泛，下游涵盖数据中心、工业园区、通信基站、矿山油田及商业楼宇等诸多应用场景。上半年公司销售M系列大缸径发动机6700台，同比增长超30%；其中销售数据中心柴发产品1400余台，同比实现翻番以上增长。受益于全球AI算力需求持续爆发、数据中心建设全面提速，柴发产品长期发展前景向好，增长空间巨大。柴发产品的销量区域分布较为均衡，对单一区域或客户的依赖较低。目前公司已与全球范围内多家终端客户接洽并建立合作关系。重卡发动机业务发展稳健，公司持续开拓战略客户、大力发展新能源业务、深化成本管控，增强业务盈利韧性。海外出口有望保持持续增长态势。凯傲集团2026年上半年利润同比增长超300%，经营态势全面修复，重回稳健增长通道。感谢您对公司的关注！",
+      "ask_date": "2026-09-30",
+      "answer_date": "2026-10-12",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000338&orgId=9900002961"
+     },
+     {
+      "question": "根据巴拉德动力系统的公告，巴拉德在2025四季度对潍柴巴拉德合资公司进行了全额计提减值，退出中国市场。请问下贵公司在氢能源领域是否转向了自主研发与国产零部件的方案？",
+      "answer": "目前潍柴动力与巴拉德中国合资公司仍在正常运营中。感谢您对公司的关注！",
+      "ask_date": "2026-09-09",
+      "answer_date": "2026-09-11",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000338&orgId=9900002961"
+     }
+    ],
+    "count_12m": null
+   },
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "601766.SH": {
    "announcements": {
@@ -12039,7 +13485,7 @@
     ],
     "count_12m": 109
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [],
     "count_12m": null
@@ -12172,7 +13618,7 @@
     ],
     "count_12m": 193
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -12330,7 +13776,7 @@
     ],
     "count_12m": 106
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -12472,7 +13918,7 @@
     ],
     "count_12m": 143
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -12654,7 +14100,7 @@
     ],
     "count_12m": 114
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -12852,7 +14298,7 @@
     ],
     "count_12m": 131
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -13026,8 +14472,77 @@
     ],
     "count_12m": 167
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
-   "qa_unsupported": true
+   "announcements_at": "2026-10-28T19:03:55+08:00",
+   "qa": {
+    "items": [
+     {
+      "question": "请问贵公司设立的新子公司是为了服务新的业务玻璃基或者光互联的吗？意味着这两个赛道是不是到了突破的临界点…",
+      "answer": null,
+      "ask_date": "2026-10-28",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000725&orgId=gssz0000725"
+     },
+     {
+      "question": "三星，LGD都转入研发无FMM OLED制造工业。请问公司重金打造的G86代线是不是存在技术路线上的失败问题？公司所有的6代线至今都没有盈利，新业务还在画饼阶段。请问公司如何在未来靠业绩支撑市值？",
+      "answer": null,
+      "ask_date": "2026-10-21",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000725&orgId=gssz0000725"
+     },
+     {
+      "question": "请问贵公司截止10月10日最新股东人数？",
+      "answer": "您好！股东人数请关注公司公告。谢谢！",
+      "ask_date": "2026-10-12",
+      "answer_date": "2026-10-20",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000725&orgId=gssz0000725"
+     },
+     {
+      "question": "贵公司是否有万亿市值的目标？",
+      "answer": "您好！公司将始终坚持以“第N曲线”理论为指导，坚定“屏之物联”发展战略，遵循业务开拓“三原则”，依托三大核心优势，持续完善“1+4+N+生态链”业务发展架构，在夯实显示领先地位的同时，加快创新业务开拓，推动资源最大化复用与业务高质增长，以公司价值的稳定增长和持续的股东回报，提升公司的投资价值。谢谢！",
+      "ask_date": "2026-10-09",
+      "answer_date": "2026-10-23",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000725&orgId=gssz0000725"
+     },
+     {
+      "question": "请问目前OLED8.6代线现在稼动率怎么样？随着8.6代线下半年的量产，会对OLED整体的经营状况引来巨大的改变嘛，能实现整体的扭亏为盈嘛？",
+      "answer": "您好！公司第8.6代AMOLED生产线已于今年6月开始量产，自量产以来，正按计划稳步推进产能爬坡和良率提升，以对应客户高端中尺寸显示产品需求。 从OLED整体经营来看，受存储涨价影响，终端产品成本不断抬升，部分终端产品价格上涨，致使消费电子市场需求受到一定抑制。这一压力传导至面板端，导致2026年下半年柔性AMOLED面板需求承压明显，行业面临量、价双降的局面，公司下半年OLED业务面临较大的经营压力。在此背景下，公司持续深化与品牌客户的技术合作与定制开发，持续优化客户产品结构，积极应对行业困境。谢谢！",
+      "ask_date": "2026-09-11",
+      "answer_date": "2026-10-20",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000725&orgId=gssz0000725"
+     },
+     {
+      "question": "董秘您好！殷勇市长9月7日到京东方视察，指示加快创新成果产业化、规模化落地。请问，贵公司玻璃基封装技术是否属于新成果的范畴？玻璃基封装产业化和规模化在2026年底能否实现落地量产？请董秘正面回答，得不到正面答复，会一直追问，并致电12345热线进行询问。谢谢！",
+      "answer": "您好！玻璃基封装载板业务是公司面向人工智能时代，推动光电融合发展，将显示技术、玻璃基加工工艺和大规模集成智造三大核心能力向人工智能细分市场延伸的重要探索。公司玻璃基封装载板业务已实现全流程工艺拉通，已有超过100×100mm尺寸的24层（11-2-11）玻璃基载板产出并送样，且现已通过Pre-con、TCB 1000 cycles、UHAST、BHAST、HTSL、LTSL信赖性标准测试。目前，相关业务尚在技术探讨和验证阶段，还未量产，也未产生量产营收。谢谢！",
+      "ask_date": "2026-09-09",
+      "answer_date": "2026-10-13",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000725&orgId=gssz0000725"
+     },
+     {
+      "question": "贵司玻璃基封装载板业务目前进展如何？2026年内是否能实现规模化量产？",
+      "answer": "您好！公司目前已实现高深宽比TGV开孔、深孔填铜、低应力金属布线、高层数压合、高密度布线、低应力切割等玻璃基封装载板全流程工艺拉通，拥有完备玻璃基封装载板制造工艺能力。目前，公司试验线已实现全自动化设备通线，已有超过100×100mm尺寸的24层（11-2-11）玻璃基载板产出并送样，且现已通过Pre-con、TCB 1000 cycles、UHAST、BHAST、HTSL、LTSL信赖性标准测试。 目前，相关业务尚在技术探讨和验证阶段，还未量产，也未产生量产营收。谢谢！",
+      "ask_date": "2026-09-08",
+      "answer_date": "2026-10-13",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000725&orgId=gssz0000725"
+     },
+     {
+      "question": "董秘您好，网传，有一份调研纪要，京东方玻璃基封装，预计10月中试运行，春节前后用户验证通过，2027年Q1到Q2小批量量产，请问是否属实？请正面回答，属实或不属实。谢谢！",
+      "answer": "您好！公司目前已实现高深宽比TGV开孔、深孔填铜、低应力金属布线、高层数压合、高密度布线、低应力切割等玻璃基封装载板全流程工艺拉通，拥有完备玻璃基封装载板制造工艺能力。目前，公司试验线已实现全自动化设备通线，已有超过100×100mm尺寸的24层（11-2-11）玻璃基载板产出并送样，且现已通过Pre-con、TCB 1000 cycles、UHAST、BHAST、HTSL、LTSL信赖性标准测试。 目前，相关业务尚在技术探讨和验证阶段，还未量产，也未产生量产营收。谢谢！",
+      "ask_date": "2026-09-07",
+      "answer_date": "2026-10-13",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000725&orgId=gssz0000725"
+     }
+    ],
+    "count_12m": null
+   },
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "300476.SZ": {
    "announcements": {
@@ -13155,8 +14670,77 @@
     ],
     "count_12m": 162
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
-   "qa_unsupported": true
+   "announcements_at": "2026-10-28T19:03:55+08:00",
+   "qa": {
+    "items": [
+     {
+      "question": "请问公司截至10月23日的股东户数是多少？",
+      "answer": null,
+      "ask_date": "2026-10-26",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300476&orgId=9900024582"
+     },
+     {
+      "question": "请问朱董秘，胜宏科技近期发布的关于实控人增持股份，提振投资者信心的规划，该事件的筹划是否还是像此前的7亿元员工持股计划那样，耗费大量的时间？到底是真需要走流程，还是有意拖时间呢？谢谢",
+      "answer": null,
+      "ask_date": "2026-10-19",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300476&orgId=9900024582"
+     },
+     {
+      "question": "请问贵公司是不是在研发78层以上PCB板？？进展如何？",
+      "answer": "尊敬的投资者，您好！公司具备70层以上高多层PCB的研发与量产能力，并拥有100层以上高多层PCB的技术研发储备，产品主要应用于AI服务器及高端交换机等领域。具体产品的量产时间节点将结合技术研发进度与客户需求综合确定。谢谢关注！",
+      "ask_date": "2026-10-07",
+      "answer_date": "2026-10-19",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300476&orgId=9900024582"
+     },
+     {
+      "question": "董秘您好，请问公司AI算力卡、数据中心UBB板，下一代PCIe6、Oakstream平台相关PCB送样及认证进度如何？M9/M10高速材料验证是否顺利，预计何时批量导入？谢谢。",
+      "answer": "尊敬的投资者，您好！公司始终与客户保持密切沟通，全力配合新产品的研发、送样及认证工作，相关技术进展符合预期，具体量产导入时间节点将结合技术研发进度与客户需求综合确定。谢谢关注！",
+      "ask_date": "2026-09-18",
+      "answer_date": "2026-10-16",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300476&orgId=9900024582"
+     },
+     {
+      "question": "请问公司，新品价格大幅提高后，公司每单位产能能创造多少额外收益？公司披露新一代产品单价实现倍数级增长，同时材料升级和加工复杂度也在提高。请问，在良率稳定、进入成熟量产后，按同等关键设备工时或同等资本投入衡量，新产品创造毛利润的能力，较上一代产品是否提高？公司在扩产决策中，如何评估这种盈利能力和投资回报的变化？希望管理层作定性说明，无需披露客户价格及具体产品毛利率。",
+      "answer": "尊敬的投资者，您好！伴随着AI、高性能计算、高速通讯等应用领域的快速发展，下游硬件对于通讯频率、传输速度等方面性能要求不断提升，PCB产品材料、线宽线距、层数及阶数将伴随着下游的产品迭代不断升级，制造难度进一步提升，对企业的技术能力与品质控制能力提出更为严苛的要求，产品价值量持续增加。扩产决策方面，公司扩产产能均有确定性订单与需求做支撑，产能释放进度配合客户节奏。谢谢关注！",
+      "ask_date": "2026-09-17",
+      "answer_date": "2026-10-19",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300476&orgId=9900024582"
+     },
+     {
+      "question": "请问公司，在订单饱满的情况下，厂房四扩大交付究竟卡在哪里？公司此前表示高端订单饱满、部分排单延续至2027年，同时厂房四的产能释放仍需配合客户放量节奏。请问，目前制约厂房四扩大交付的首要因素，是客户提货安排、产品认证、良率，还是关键工序产能？如果部分项目放量推迟，公司能否通过其他客户或产品订单提高产能利用率，相关产线切换的主要限制是什么？",
+      "answer": "尊敬的投资者，您好！厂房四定位高端AI服务器PCB产线，现处于量产爬坡阶段。新建产能需经历设备安装调试、客户审厂、送样测试、订单下达及量增等阶段，产能产量逐步释放系行业必经过程，出货规模受客户节奏、市场需求等多重因素影响。目前公司在手订单充足，业务进展顺利，同时公司持续拓展其他头部科技客户合作，并正对关键瓶颈工序进行扩充。谢谢关注！",
+      "ask_date": "2026-09-17",
+      "answer_date": "2026-10-19",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300476&orgId=9900024582"
+     },
+     {
+      "question": "请介绍下惠州10号厂房的产能利用情况，是不是主要生产高阶HDI产品？11号厂房产能爬坡情况如何？是否能快速适应接下来的市场爆发的需求",
+      "answer": "尊敬的投资者，您好！厂房十、厂房十一目前尚未连线投产，后续将陆续推进试生产工作。厂房十、十一主要规划高端算力服务器领域产品，厂房初期的产线磨合和产能产量逐步释放是行业的必经过程，公司对后续的生产经营及效益实现充满信心。谢谢关注！",
+      "ask_date": "2026-09-16",
+      "answer_date": "2026-10-16",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300476&orgId=9900024582"
+     },
+     {
+      "question": "董秘您好！请问公司大客户新一代架构PCB产品是否已经已大批量出货，产品良率如果？",
+      "answer": "尊敬的投资者，您好！公司与核心客户保持密切沟通，与客户合作开发的研发迭代产品正顺利推进当中。在AI算力、数据中心、高性能计算、光模块等关键领域，多款高端产品已实现大规模量产。受商业政策限制，未经许可公司不便讨论具体客户名称及业务情况。谢谢关注！",
+      "ask_date": "2026-09-04",
+      "answer_date": "2026-10-16",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300476&orgId=9900024582"
+     }
+    ],
+    "count_12m": null
+   },
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "688801.SH": {
    "announcements": {
@@ -13266,7 +14850,7 @@
     ],
     "count_12m": 17
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [],
     "count_12m": null
@@ -13399,8 +14983,77 @@
     ],
     "count_12m": 168
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
-   "qa_unsupported": true
+   "announcements_at": "2026-10-28T19:03:55+08:00",
+   "qa": {
+    "items": [
+     {
+      "question": "公司年内已连续实施三期回购，8月单日回购约1.5亿元。目前H股已较发行价破发约20%、A/H价格出现明显价差，请问：（1）后续是否还有A股或H股回购、大股东增持的规划？（2）如有，公司选择启动回购的价格锚和资金规模大致考虑是什么？（3）在当前A/H价差背景下，回购与泰国扩产等产业投入之间，公司的资本配置优先级如何排序？",
+      "answer": null,
+      "ask_date": "2026-10-28",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300408&orgId=9900023108"
+     },
+     {
+      "question": "光通信插芯及套筒产品的主要下游客户结构如何？近期北美云厂商资本开支预期调整，对公司该业务订单节奏有无影响？1.6T升级对插芯价值量的提升幅度怎么看？",
+      "answer": null,
+      "ask_date": "2026-10-28",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300408&orgId=9900023108"
+     },
+     {
+      "question": "公司SOFC隔膜片目前的量产交付规模如何？除Bloom Energy外是否已接触其他SOFC整机客户或数据中心供电场景的潜在订单？该业务2026年的收入体量预期是多少？",
+      "answer": null,
+      "ask_date": "2026-10-28",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300408&orgId=9900023108"
+     },
+     {
+      "question": "MLCC供不应求背景下，公司对下游大客户的账期政策是否有所变化？三季度经营性现金流与净利润的匹配度是否有改善？",
+      "answer": null,
+      "ask_date": "2026-10-27",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300408&orgId=9900023108"
+     },
+     {
+      "question": "公司三季度末存货规模及结构如何，在原材料和产品涨价周期中，存货跌价准备的计提政策是否有变化？下半年是否存在大额减值风险？",
+      "answer": null,
+      "ask_date": "2026-10-27",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300408&orgId=9900023108"
+     },
+     {
+      "question": "公司H股上市后对股东回报（分红率）是否有明确的中期规划？未来A股与H股股东的回报政策是否会保持一致？",
+      "answer": null,
+      "ask_date": "2026-10-27",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300408&orgId=9900023108"
+     },
+     {
+      "question": "董秘，您好！贵司二级市场股价近几个月腰斩大半，最近更是跌得惨不忍睹，请问公司三季度生产经营是否正常？在贵司二级市场股价极端暴跌的情况下，贵司为什么不积极启动股票回购，维护自己公司的利益？！敬请尽快答复。谢谢！",
+      "answer": "感谢您的关注！公司目前生产经营活动正常有序，订单饱满且持续，订单交付及产能扩充正按业务需求推进。自2026年7月以来，公司已发布三期A股股份回购方案，第一、二期回购方案已实施完毕，第三期目前累计回购金额已达4.95亿元，2026年合计回购公司A股股份累计金额约23.90亿元，具体内容详见公司在巨潮资讯网上刊登的公告。",
+      "ask_date": "2026-10-26",
+      "answer_date": "2026-10-26",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300408&orgId=9900023108"
+     },
+     {
+      "question": "9月以来，mlcc一小时一个价，部分热门型号一个月涨了7/8倍，请问三环的出货价格有无提高？产能情况如何？",
+      "answer": null,
+      "ask_date": "2026-09-21",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300408&orgId=9900023108"
+     }
+    ],
+    "count_12m": null
+   },
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "601066.SH": {
    "announcements": {
@@ -13528,7 +15181,7 @@
     ],
     "count_12m": 116
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -13678,8 +15331,77 @@
     ],
     "count_12m": 81
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
-   "qa_unsupported": true
+   "announcements_at": "2026-10-28T19:03:55+08:00",
+   "qa": {
+    "items": [
+     {
+      "question": "请问贵司会参加今年的珠海航展吗？会携带哪些主力产品参展？",
+      "answer": "您好，感谢您对公司的关注。公司将参加今年珠海航展，航空工业集团将统筹下属公司参展活动，欢迎关注后续公开报道。",
+      "ask_date": "2026-10-20",
+      "answer_date": "2026-10-26",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=302132&orgId=9900013408"
+     },
+     {
+      "question": "您好！12月份珠海航展马上就要到了，贵司的昊龙航天飞机今年会参展吗？谢谢！",
+      "answer": "您好，感谢您对公司的关注。公司将参加今年珠海航展，航空工业集团将统筹下属公司参展活动，欢迎关注后续公开报道。",
+      "ask_date": "2026-10-20",
+      "answer_date": "2026-10-26",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=302132&orgId=9900013408"
+     },
+     {
+      "question": "印尼的90亿美元的歼十CE采购订单马上要交付是真的吗？",
+      "answer": "您好，感谢您的关注，公司严格按照信息披露有关法律法规要求履行信息披露义务，企业重大经营信息以公告为准。",
+      "ask_date": "2026-10-08",
+      "answer_date": "2026-10-10",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=302132&orgId=9900013408"
+     },
+     {
+      "question": "9月24日国防部记者会，发言人蒋斌就“乌兹别克斯坦引进歼-10CE已交付”回应：中乌正常开展军贸合作，符合国际法和国际惯例，不针对任何第三方。 请董秘说明：订单收入按交付批次还是合同节点确认？是否经中航技结算，利润归上市公司还是集团？24架预计分几年交付，收入落在哪些年度报表？首批已交付架份是否已体现在2026年半年报/三季报，还是未来报告期体现？",
+      "answer": "您好，感谢您的关注。",
+      "ask_date": "2026-09-28",
+      "answer_date": "2026-10-04",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=302132&orgId=9900013408"
+     },
+     {
+      "question": "贵公司上次基金调研之后跌跌不休，是否有基金公司发现公司存在大众所不知道的信息，公司能完成2026年全年的任务目标吗？",
+      "answer": "您好，感谢您对公司的关注。公司严格按照监管要求开展投资者关系管理活动，交流内容均以公司已公开披露的信息为基础，不存在向特定对象选择性披露未公开重大信息的情形。具体可查阅公司在指定媒体披露的《投资者关系活动记录表》。经营业绩情况敬请关注公司定期报告，谢谢。",
+      "ask_date": "2026-09-24",
+      "answer_date": "2026-10-04",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=302132&orgId=9900013408"
+     },
+     {
+      "question": "根据证监会《上市公司监管指引第10号——市值管理》第八条，公司作为主要指数成份股，市值管理制度必须明确：负责市值管理的部门/人员；董、高管职责；市值、PE/PB监测预警指标与行业对标机制；股价大幅下跌的应对措施。请逐项披露上述四项内容。如部分条款无法披露，请分项说明每一项不予披露对应的法律/保密依据，而不是笼统以涉密为由整体拒绝。",
+      "answer": "您好，感谢您对公司的关注。根据《上市公司监管指引第10号——市值管理》第八条的相关规定，主要指数成份股公司应当制定上市公司市值管理制度，主要指数成份股公司应当经董事会审议后披露市值管理制度的制定情况。公司作为主要指数成份股公司，已按前述要求制定市值管理制度，于2025年4月27日经董事会审议通过，并于2025年4月29日披露制定情况。该制度有关内容的制定符合《上市公司监管指引第10号——市值管理》的相关规定。",
+      "ask_date": "2026-09-23",
+      "answer_date": "2026-10-04",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=302132&orgId=9900013408"
+     },
+     {
+      "question": "贵司基本面是否有问题不披露，对于市值管理管理层是否有相应工作，去年的市值管理办法现在也没公布且没看到任何成果！",
+      "answer": "您好，感谢您对公司的关注。公司严格按照监管规定及时履行信息披露义务。公司已按相关法规要求制定《市值管理制度》，并于2025年4月29日披露制度制定情况，公司董事、高管人员及有关管理部门按照本办法履行相应管理职责。",
+      "ask_date": "2026-09-15",
+      "answer_date": "2026-10-04",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=302132&orgId=9900013408"
+     },
+     {
+      "question": "董秘您好，关注到公司拟续签金融服务及日常关联交易框架协议。我想请问2026年贷款授信预计由16亿元调至60亿元，而目前贷款余额仅5.55亿元，调整依据及资金需求是什么？当前存款97.68亿元，实际存贷款利率与商业银行相比如何，出现流动性风险时如何退出？截至6月末关联采购、劳务及租赁约65.19亿元，占同类业务比例多少，未来如何控制关联交易集中度？盼回复，谢谢。",
+      "answer": "您好，感谢您对公司的关注。",
+      "ask_date": "2026-08-25",
+      "answer_date": "2026-09-30",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=302132&orgId=9900013408"
+     }
+    ],
+    "count_12m": null
+   },
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "603268.SH": {
    "announcements": {
@@ -13807,7 +15529,7 @@
     ],
     "count_12m": 211
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -13957,7 +15679,7 @@
     ],
     "count_12m": 153
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -14131,7 +15853,7 @@
     ],
     "count_12m": 64
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [],
     "count_12m": null
@@ -14264,7 +15986,7 @@
     ],
     "count_12m": 112
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -14422,8 +16144,77 @@
     ],
     "count_12m": 264
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
-   "qa_unsupported": true
+   "announcements_at": "2026-10-28T19:03:55+08:00",
+   "qa": {
+    "items": [
+     {
+      "question": "请问董秘顺丰自营国际何时能独立盈利？出海已多年，能不能创造价值，建立起差异化核心竞争力？",
+      "answer": null,
+      "ask_date": "2026-10-27",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002352&orgId=9900010448"
+     },
+     {
+      "question": "你好董秘。 公司股价长期低迷，公司正在回购5亿港元港股，有计划进行注销这部分港股吗？这样可以提高每股收益。",
+      "answer": null,
+      "ask_date": "2026-10-27",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002352&orgId=9900010448"
+     },
+     {
+      "question": "请问贵公司如弱中东战乱，油价一直飙升，对公司成本的影响有多大？是否有相关措施降低风险？",
+      "answer": null,
+      "ask_date": "2026-10-23",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002352&orgId=9900010448"
+     },
+     {
+      "question": "请问管理层截止目前顺丰控股单票成本下降有多少？",
+      "answer": null,
+      "ask_date": "2026-10-23",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002352&orgId=9900010448"
+     },
+     {
+      "question": "公司管理层有没有计划开展新一轮增持和回购计划，特别是大股东每年分走巨额资金，眼下公司处于关键时刻，回护广大投资者和机构",
+      "answer": null,
+      "ask_date": "2026-10-23",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002352&orgId=9900010448"
+     },
+     {
+      "question": "请问董秘截止三季报顺丰控股AI业务收入有多少？目前为止资本支出有多少？",
+      "answer": "尊敬的投资者，您好！2026上半年公司资产类资本支出61亿元，占收入比3.9%，同比去年略有提升，主要和投入节奏有关。公司兼顾长期竞争力与结构性降本，重点围绕场地改造及无人化、智能化设备升级，飞机及发动机、新能源车、智能单驾车辆购置，AI 应用等进行了前置化投入，并确保资本支出产生合理回报。公司严格按照相关法律法规的要求，就重大事项及时通过指定信息披露平台巨潮资讯网和香港联合交易所有限公司披露易网站向所有投资者公平、公正和公开地进行披露，三季报具体数据请以公司后续披露的定期报告为准。感谢您的关注！",
+      "ask_date": "2026-10-21",
+      "answer_date": "2026-10-26",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002352&orgId=9900010448"
+     },
+     {
+      "question": "公司的无人车需要定期给第三方交费吗？",
+      "answer": "尊敬的投资者，您好！公司无人车运营模式根据业务需要灵活安排，结算模式会视具体合作模式及协议约定。公司严格按照相关法律法规的要求，就重大事项及时通过指定信息披露平台巨潮资讯网和香港联合交易所有限公司披露易网站向所有投资者公平、公正和公开地进行披露。感谢您的关注！",
+      "ask_date": "2026-10-16",
+      "answer_date": "2026-10-23",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002352&orgId=9900010448"
+     },
+     {
+      "question": "从“通达系”半年报归母净利润表现来看，今年上半年，申通快递同比增长128.31%至10.34亿元，韵达股份同比增长88.82%至9.98亿元，圆通速递同比增长73.44%至31.75亿元。对此，极兔管理层坦言，友商上半年利润情况非常好，极兔也享受了这样的红利。 作为国内快递龙头，顺丰的利润仅个位数增长，赚钱难，也导致市场用脚投票，机构投资者纷纷退场。 顺丰如何看待目前的局面？",
+      "answer": "尊敬的投资者，您好！公司始终坚持可持续健康发展，秉承“成为备受尊重全球领先的数智物流解决方案服务商”的愿景，以数智化赋能、供应链深耕、国际化拓展为经营重心，2026年上半年营业收入达成人民币1,555.1亿元，同比增长5.9%；扣非归母净利润实现人民币49.7亿元，同比增长9.3%，扣非归母净利润率为3.2%，同比提升0.1个百分点，盈利能力稳步提升，经营韧性持续凸显，公司核心竞争力和内核不断增强。二级市场股价波动受宏观经济、行业政策、市场情绪、市场资金状况等多重因素综合影响，公司将密切关注市场对公司价值的反映，综合运用股份回购、现金分红等多种方式切实提升股东回报，不断提升公司投资价值。感谢您的关注！",
+      "ask_date": "2026-10-15",
+      "answer_date": "2026-10-26",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002352&orgId=9900010448"
+     }
+    ],
+    "count_12m": null
+   },
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "600989.SH": {
    "announcements": {
@@ -14551,7 +16342,7 @@
     ],
     "count_12m": 91
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -14749,7 +16540,7 @@
     ],
     "count_12m": 124
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00"
+   "announcements_at": "2026-10-28T19:03:55+08:00"
   },
   "601336.SH": {
    "announcements": {
@@ -14877,7 +16668,7 @@
     ],
     "count_12m": 93
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [],
     "count_12m": null
@@ -15010,8 +16801,53 @@
     ],
     "count_12m": 158
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
-   "qa_unsupported": true
+   "announcements_at": "2026-10-28T19:03:55+08:00",
+   "qa": {
+    "items": [
+     {
+      "question": "公司旗下产品有无应用于机器人，物理AI等方面？",
+      "answer": null,
+      "ask_date": "2026-10-23",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002938&orgId=9900036236"
+     },
+     {
+      "question": "公司的3.2T产品是在研发阶段还是已经小批量供货了呢？",
+      "answer": "公司3.2T光模块用板目前处于研发阶段。谢谢！",
+      "ask_date": "2026-10-20",
+      "answer_date": "2026-10-23",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002938&orgId=9900036236"
+     },
+     {
+      "question": "您好，公司中报显示汽车/服务器用板营收同比增长181%，其中AI服务器和光模块PCB是主要增量。请问：1）目前AI服务器PCB业务中，苹果之外的客户比是多少？2）该业务Q3的订单能见度如何？谢谢",
+      "answer": "2026年上半年，公司汽车、服务器用板业务实现营业收入22.67亿元，较上年同期增长181.58%，其中服务器用板客户主要为全球头部光模块厂商及AI服务器厂商。客户细分占比、Q3订单能见度等细节属于未公开信息不便披露，敬请关注公司定期报告。谢谢！",
+      "ask_date": "2026-10-02",
+      "answer_date": "2026-10-12",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002938&orgId=9900036236"
+     },
+     {
+      "question": "董秘您好！请问贵公司的m-SAP领域在技术上和产能上处于什么位置？",
+      "answer": "公司自2017年便开始布局m-SAP工艺相关产品，经过多年技术迭代与量产优化，已积累成熟的技术能力、工艺能力和量产能力。在产能投放方面，公司将根据下游客户需求及项目建设进度有序推进投产，确保产能释放与市场需求相匹配。谢谢！",
+      "ask_date": "2026-07-27",
+      "answer_date": "2026-07-31",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002938&orgId=9900036236"
+     },
+     {
+      "question": "董秘您好～公司刚公告深圳第三园区AI高阶类载板及FPC智造基地拟投100亿、2026年7月启动至2033年才建成投产，重资产自建 长周期爬坡确实稳妥但释放偏慢。考虑到AI端侧/软板需求窗口紧、弘信电子已有成熟FPC产能，公司是否会考虑以收购/参股现成软板工厂替代或补充自建，来更快承接订单、平滑资本开支与爬坡风险？后续有无外延并购软板资产的规划？",
+      "answer": "公司持续结合AI产业需求、自身产能布局节奏统筹规划产能建设，深圳第三园区人工智能高阶类载板及柔性电路板智造基地项目系公司立足长期AI算力、端侧电子赛道作出的战略性投入，该项目将分期投入，扩产节奏亦会根据市场需求状况而定。公司始终开放看待产业内优质资产整合机会，若后续有相关规划，将严格根据法规要求及时对外披露。谢谢！",
+      "ask_date": "2026-07-24",
+      "answer_date": "2026-07-31",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002938&orgId=9900036236"
+     }
+    ],
+    "count_12m": null
+   },
+   "qa_at": "2026-10-28T19:03:55+08:00"
   },
   "601688.SH": {
    "announcements": {
@@ -15139,7 +16975,7 @@
     ],
     "count_12m": 134
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
@@ -15289,7 +17125,7 @@
     ],
     "count_12m": 68
    },
-   "announcements_at": "2026-10-28T18:51:51+08:00",
+   "announcements_at": "2026-10-28T19:03:55+08:00",
    "qa": {
     "items": [
      {
