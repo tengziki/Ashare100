@@ -12,15 +12,13 @@
   },
   "daily_metrics": {
    "label": "年初至今 / 52 周 / 股息率",
-   "schedule": "交易日 15:40",
+   "schedule": "收盘榜单后接力",
    "warn_hours": 28,
    "stale_hours": 52,
-   "last_success": "2026-10-28T19:57:06+08:00",
+   "last_success": "2026-10-28T20:16:05+08:00",
    "data_date": "2026-10-28",
-   "detail": "99/100 家",
-   "problems": [
-    "300750.SZ：TimeoutError The read operation timed out"
-   ]
+   "detail": "100/100 家",
+   "problems": []
   },
   "profiles": {
    "label": "新进公司补档",
@@ -43,5 +41,5 @@
    "problems": []
   }
  },
- "updated": "2026-10-28T20:14:30+08:00"
+ "updated": "2026-10-28T20:16:05+08:00"
 }
