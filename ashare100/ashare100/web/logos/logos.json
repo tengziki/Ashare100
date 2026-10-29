@@ -657,14 +657,11 @@
   "px": 78
  },
  "300124.SZ": {
-  "file": null,
-  "missing": true,
-  "tried": [
-   "google-s2 16px",
-   "duckduckgo 16px",
-   "official 16px"
-  ],
-  "website": "www.inovance.com"
+  "file": "300124.SZ.svg",
+  "source": "https://commons.wikimedia.org/wiki/File:Shenzhen_Inovance_Technology.svg",
+  "via": "manual",
+  "note": "官方字标（公有领域，署名 Shenzhen Inovance Technology），居中放入方形画布；官网与图标服务只有 16px",
+  "px": 1024
  },
  "601009.SH": {
   "file": "601009.SH.png",
