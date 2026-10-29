@@ -1,8 +1,8 @@
 {
  "meta": {
   "quote_date": "2026-10-29",
-  "generated_at": "2026-10-29T15:18:09+08:00",
-  "snapshot_generated_at": "2026-10-29T15:11:00+08:00",
+  "generated_at": "2026-10-29T18:29:22+08:00",
+  "snapshot_generated_at": "2026-10-29T18:22:52+08:00",
   "sources": {
    "kline": "腾讯前复权日 K",
    "dividends": "东方财富数据中心分红明细"
@@ -797,7 +797,7 @@
    "ytd_return": 6.32,
    "return_1y": 14.15,
    "return_3y": 27.6,
-   "high_52w": 29.45,
+   "high_52w": 29.48,
    "low_52w": 23.76,
    "dividend_yield": 4.69,
    "dps_fiscal_year": 2025,
