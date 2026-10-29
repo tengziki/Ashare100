@@ -1,9 +1,11 @@
 """为动态百强的待补档公司自动补申万行业。
 
 查找顺序：
-1. profiles/sw_industry_map.json 中已核实的代码（由 profiles/verified/ 已核实档案初始化，可人工修订）；
-2. 东方财富 F10 公司概况的 EM2016 行业，经映射表换算为申万一级（source=em2016_mapped）。
-映射不到或接口失败时保持 null，下次运行重试；不阻塞榜单发布。
+1. profiles/sw_industry_map.json 中已核实（verified_profile）或人工（manual）的代码；
+2. 东方财富 F10 「所属板块」中的申万 2021 一/二/三级（source=sw_board）。2026-10-29 抽 25 家已核实公司
+   对照，二级全部一致（银行按下方规则改名后）；
+3. 板块接口失败时，退回 EM2016 行业经映射表换算（source=em2016_mapped，只有一级较可靠）。
+都失败时保持 null，下次运行重试；不阻塞榜单发布。
 
 用法：
   python scripts/enrich_profiles.py --seed       # 用已核实档案（profiles/verified/）重建已核实部分
@@ -23,6 +25,7 @@ ROOT = Path(__file__).resolve().parent.parent
 MAP_FILE = ROOT / "ashare100" / "ashare100" / "profiles" / "sw_industry_map.json"
 LIVE_DIR = ROOT / "ashare100" / "ashare100" / "web" / "live"
 F10_URL = "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/PageAjax?code={ex}{num}"
+BOARD_URL = "https://emweb.securities.eastmoney.com/PC_HSF10/OperationsRequired/PageAjax?code={ex}{num}"
 CN_TZ = timezone(timedelta(hours=8))
 
 # 申万 2021 版 31 个一级行业
@@ -115,15 +118,45 @@ def fetch_em2016(code, timeout=15):
     return row.get("EM2016")
 
 
-def resolve(codes, doc, fetch=fetch_em2016, names=None):
+def board_to_sw(boards):
+    """F10 所属板块 → (申万一级, 申万二级)。BOARD_RANK 1/2/3 为申万一/二/三级；
+    东财银行仍用旧二级「银行Ⅱ」，新版已拆分，取三级改名（股份制银行Ⅲ → 股份制银行Ⅱ）。"""
+    level = {b.get("BOARD_RANK"): b.get("BOARD_NAME") for b in boards or []}
+    sw1, sw2 = level.get(1), level.get(2)
+    if sw2 == "银行Ⅱ" and (level.get(3) or "").endswith("Ⅲ"):
+        sw2 = level[3][:-1] + "Ⅱ"
+    return sw1, sw2
+
+
+def fetch_sw_board(code, timeout=15):
+    num, exchange = code.split(".")
+    from enrich_company import get_json
+    doc = get_json(BOARD_URL.format(ex=exchange, num=num), timeout)
+    boards = doc.get("ssbk") or []
+    if any(b.get("SECUCODE") not in (None, code) for b in boards):
+        raise ValueError("F10 所属板块代码不符")
+    return board_to_sw(boards)
+
+
+def resolve(codes, doc, fetch=fetch_em2016, names=None, board=fetch_sw_board):
     """返回 {code: {sw1, sw2, source}}；无法确定的公司不出现在结果中。names：代码 → 简称（判断股份制银行）。"""
     found, missing = {}, []
     names = names or {}
     for code in codes:
         hit = doc["codes"].get(code)
-        if hit and hit.get("sw1") in SW1:
+        if hit and hit.get("sw1") in SW1 and hit.get("source") != "em2016_mapped":
+            found[code] = hit  # 已核实、人工或已取得申万板块
+            continue
+        try:
+            sw1, sw2 = board(code)
+        except (OSError, ValueError):
+            sw1 = sw2 = None
+        if sw1 in SW1:
+            found[code] = doc["codes"][code] = {"sw1": sw1, "sw2": sw2, "source": "sw_board", "updated": now_iso()}
+            continue
+        if hit and hit.get("sw1") in SW1:  # 板块接口失败：沿用旧的 EM2016 映射
             if not hit.get("sw2") and hit.get("em2016"):
-                hit["sw2"] = em_to_sw2(hit["em2016"], names.get(code))  # 旧记录补二级
+                hit["sw2"] = em_to_sw2(hit["em2016"], names.get(code))
             found[code] = hit
             continue
         try:
@@ -140,10 +173,10 @@ def resolve(codes, doc, fetch=fetch_em2016, names=None):
     return found, missing
 
 
-def apply_to_snapshot(snapshot, doc, fetch=fetch_em2016):
+def apply_to_snapshot(snapshot, doc, fetch=fetch_em2016, board=fetch_sw_board):
     """把行业写入快照的 pending_profiles；返回仍缺行业的说明列表。"""
     pending = snapshot.get("pending_profiles", {})
-    found, missing = resolve(sorted(pending), doc, fetch, {c: p.get("name_abbr") for c, p in pending.items()})
+    found, missing = resolve(sorted(pending), doc, fetch, {c: p.get("name_abbr") for c, p in pending.items()}, board)
     for code, hit in found.items():
         pending[code].update({"industry_sw1": hit["sw1"], "industry_sw2": hit.get("sw2"),
                               "industry_source": hit["source"]})

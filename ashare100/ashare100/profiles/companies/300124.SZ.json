@@ -9,17 +9,18 @@
   "name_en": "Shenzhen Inovance Technology Co., Ltd",
   "former_names": [],
   "industry_sw1": "机械设备",
-  "industry_sw2": null,
+  "industry_sw2": "自动化设备",
   "list_date": "2010-09-28",
+  "found_date": "2003-04-10",
   "province": "广东",
   "city": null,
   "website": "www.inovance.com",
   "chairman": "朱兴明",
   "employees": 27292,
-  "business_summary": "一般项目:工业自动控制系统装置制造;工业自动控制系统装置销售;工业控制计算机及系统制造;工业控制计算机及系统销售;智能机器人研发;智能机器人销售;工业机器人制造…",
+  "business_summary": "工业自动控制系统装置制造",
   "profile": "深圳市汇川技术股份有限公司(股票代码:SZ.300124)(以下简称“汇川技术”)成立于2003年,是一家全球领先、创新驱动的工业科技集团。汇川技术依托在自动化、数字化、智能化领域的深厚技术积淀,构建起工业自动化与数字化、新能源汽车动力系统、智能机器人、数字能源四大技术同源、协同发展的业务生态,致力于为全球客户提供智能、高效、绿色、安全的综合产品和解决方案。公司总部位于深圳,生产基地位于苏州、岳阳、南京、上海、济南、嘉兴、长春、匈牙利等地,并在全球30多个国家和地区设有常驻机构和服务中心。汇川技术聚焦工业领域的自动化、数字化、智能化,在\"数字层、边缘层、控制层、驱动层、执行层、传感层\"形成贯通式布局,持续为工业客户提供\"用得起、用得好、易部署、易升级\"的数自融合解决方案。",
   "st_status": null,
-  "audit_opinion": null
+  "audit_opinion": "标准无保留意见"
  },
  "financials": {
   "unit": "CNY",
@@ -41,7 +42,8 @@
     "debt_ratio": 40.19,
     "total_liab": 10973608555.0,
     "total_assets": 27304325840,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": 1766024032.95
    },
    {
     "fiscal_year": 2022,
@@ -60,7 +62,8 @@
     "debt_ratio": 48.71,
     "total_liab": 19100064464.0,
     "total_assets": 39211793192,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": 3200830470.94
    },
    {
     "fiscal_year": 2023,
@@ -79,7 +82,8 @@
     "debt_ratio": 48.93,
     "total_liab": 23956572496.0,
     "total_assets": 48960908432,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": 3369915897.12
    },
    {
     "fiscal_year": 2024,
@@ -98,7 +102,8 @@
     "debt_ratio": 50.28,
     "total_liab": 28749693436.0,
     "total_assets": 57179183445,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": 7200440164.32
    },
    {
     "fiscal_year": 2025,
@@ -117,7 +122,8 @@
     "debt_ratio": 47.93,
     "total_liab": 34179582787.0,
     "total_assets": 71311460019,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": 6681025417.16
    }
   ],
   "latest": {
@@ -132,7 +138,8 @@
    "net_margin": 11.59,
    "eps": 1.63,
    "roe": 11.89,
-   "debt_ratio": 47.6
+   "debt_ratio": 47.6,
+   "ocf": 895481500.32
   },
   "derived": {
    "revenue_cagr_3y": 25.15,
@@ -151,7 +158,7 @@
     "name": "深圳市汇川投资有限公司",
     "hold_num": 466043804.0,
     "hold_ratio": 17.2,
-    "hold_num_change": null
+    "hold_num_change": 0
    },
    {
     "rank": 2,
@@ -172,7 +179,7 @@
     "name": "李俊田",
     "hold_num": 75919995.0,
     "hold_ratio": 2.8,
-    "hold_num_change": null
+    "hold_num_change": 0
    },
    {
     "rank": 5,
@@ -193,28 +200,28 @@
     "name": "刘迎新",
     "hold_num": 52627869.0,
     "hold_ratio": 1.94,
-    "hold_num_change": null
+    "hold_num_change": 0
    },
    {
     "rank": 8,
     "name": "李芬",
     "hold_num": 41385074.0,
     "hold_ratio": 1.53,
-    "hold_num_change": null
+    "hold_num_change": 0
    },
    {
     "rank": 9,
     "name": "杨春禄",
     "hold_num": 41322386.0,
     "hold_ratio": 1.52,
-    "hold_num_change": null
+    "hold_num_change": 0
    },
    {
     "rank": 10,
     "name": "刘宇川",
     "hold_num": 38579234.0,
     "hold_ratio": 1.42,
-    "hold_num_change": null
+    "hold_num_change": 0
    }
   ],
   "top10_date": "2026-09-30",
@@ -294,7 +301,50 @@
  },
  "peers": {
   "peer_codes": [],
-  "segments": []
+  "segments": [
+   {
+    "name": "工业自动化与数字化",
+    "revenue": 22245401986.97,
+    "ratio": 49.32,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "新能源汽车动力系统",
+    "revenue": 20322581832.31,
+    "ratio": 45.06,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "新兴产业",
+    "revenue": 1795019255.76,
+    "ratio": 3.98,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他",
+    "revenue": 741841125.09,
+    "ratio": 1.64,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "中国内地",
+    "revenue": 42455952295.1,
+    "ratio": 94.13,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "境外",
+    "revenue": 2648891905.03,
+    "ratio": 5.87,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
  },
  "announcements": {
   "items": [
@@ -426,7 +476,7 @@
  },
  "_meta": {
   "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
-  "fetched_at": "2026-10-27T16:27:37+08:00",
+  "fetched_at": "2026-10-30T00:27:05+08:00",
   "errors": {}
  },
  "_extras": {

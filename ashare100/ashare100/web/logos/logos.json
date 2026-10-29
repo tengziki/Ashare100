@@ -655,5 +655,63 @@
   "bytes": 3465,
   "via": "sse-e-avatar",
   "px": 78
+ },
+ "300124.SZ": {
+  "file": null,
+  "missing": true,
+  "tried": [
+   "google-s2 16px",
+   "duckduckgo 16px",
+   "official 16px"
+  ],
+  "website": "www.inovance.com"
+ },
+ "601009.SH": {
+  "file": "601009.SH.png",
+  "source": "https://sns.sseinfo.com/resources/images/avatar/company/601009.png",
+  "bytes": 11217,
+  "via": "sse-e-avatar",
+  "px": 78
+ },
+ "002050.SZ": {
+  "file": "002050.SZ.ico",
+  "source": "https://icons.duckduckgo.com/ip3/www.zjshc.com.ico",
+  "bytes": 16958,
+  "via": "duckduckgo",
+  "px": 64
+ },
+ "600809.SH": {
+  "file": "600809.SH.png",
+  "source": "https://sns.sseinfo.com/resources/images/avatar/company/600809.png",
+  "bytes": 7723,
+  "via": "sse-e-avatar",
+  "px": 78
+ },
+ "300433.SZ": {
+  "file": null,
+  "missing": true,
+  "tried": [
+   "google-s2 16px",
+   "duckduckgo 16px"
+  ],
+  "website": "www.hnlens.com"
+ },
+ "600660.SH": {
+  "file": "600660.SH.png",
+  "source": "https://www.google.com/s2/favicons?domain=www.fuyaogroup.com&sz=128",
+  "bytes": 4452,
+  "via": "google-s2",
+  "px": 128
+ },
+ "001248.SZ": {
+  "file": null,
+  "missing": true,
+  "tried": [
+   "google-s2 16px",
+   "duckduckgo 失败：HTTPError",
+   "official 16px",
+   "official 失败：URLError"
+  ],
+  "website": "www.cr-newenergy.com"
  }
 }

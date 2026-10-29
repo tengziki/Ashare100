@@ -1649,61 +1649,141 @@
       "code": "688808.SH",
       "name": "联讯仪器",
       "rank": 101,
-      "total_mv": 146396000000.0
+      "total_mv": 146396000000.0,
+      "price": 963.47,
+      "change_pct": -7.89,
+      "amount": 1915800000.0,
+      "turnover_rate": 6.4,
+      "pe_ttm": 70.28,
+      "pb": 30.28,
+      "float_mv": 29279000000.000004,
+      "quote_at": "20261029161500"
     },
     {
       "code": "688820.SH",
       "name": "盛合晶微",
       "rank": 102,
-      "total_mv": 145818000000.0
+      "total_mv": 145818000000.0,
+      "price": 78.28,
+      "change_pct": -10.94,
+      "amount": 1061850000.0,
+      "turnover_rate": 7.11,
+      "pe_ttm": 187.81,
+      "pb": 7.56,
+      "float_mv": 14566000000.0,
+      "quote_at": "20261029161500"
     },
     {
       "code": "002050.SZ",
       "name": "三花智控",
       "rank": 103,
-      "total_mv": 145176000000.0
+      "total_mv": 145176000000.0,
+      "price": 34.5,
+      "change_pct": -3.2,
+      "amount": 2263320000.0,
+      "turnover_rate": 1.75,
+      "pe_ttm": 37.34,
+      "pb": 4.43,
+      "float_mv": 127341000000.00002,
+      "quote_at": "20261029161454"
     },
     {
       "code": "601600.SH",
       "name": "中国铝业",
       "rank": 104,
-      "total_mv": 144615000000.0
+      "total_mv": 144615000000.0,
+      "price": 8.43,
+      "change_pct": -1.17,
+      "amount": 1109930000.0,
+      "turnover_rate": 1.0,
+      "pe_ttm": 7.33,
+      "pb": 1.69,
+      "float_mv": 111304000000.0,
+      "quote_at": "20261029161455"
     },
     {
       "code": "600809.SH",
       "name": "山西汾酒",
       "rank": 105,
-      "total_mv": 142955000000.0
+      "total_mv": 142955000000.0,
+      "price": 117.18,
+      "change_pct": 5.0,
+      "amount": 1615100000.0,
+      "turnover_rate": 1.14,
+      "pe_ttm": 15.57,
+      "pb": 3.57,
+      "float_mv": 142955000000.0,
+      "quote_at": "20261029161452"
     },
     {
       "code": "002938.SZ",
       "name": "鹏鼎控股",
       "rank": 106,
-      "total_mv": 141856000000.0
+      "total_mv": 141856000000.0,
+      "price": 61.21,
+      "change_pct": -10.0,
+      "amount": 1650660000.0,
+      "turnover_rate": 1.15,
+      "pe_ttm": 37.55,
+      "pb": 4.05,
+      "float_mv": 141606000000.0,
+      "quote_at": "20261029161445"
     },
     {
       "code": "300433.SZ",
       "name": "蓝思科技",
       "rank": 107,
-      "total_mv": 140942000000.0
+      "total_mv": 140942000000.0,
+      "price": 26.7,
+      "change_pct": -4.54,
+      "amount": 1688240000.0,
+      "turnover_rate": 1.26,
+      "pe_ttm": 54.32,
+      "pb": 2.65,
+      "float_mv": 132214000000.00002,
+      "quote_at": "20261029161445"
     },
     {
       "code": "600660.SH",
       "name": "福耀玻璃",
       "rank": 108,
-      "total_mv": 139517000000.0
+      "total_mv": 139517000000.0,
+      "price": 53.46,
+      "change_pct": 0.3,
+      "amount": 486830000.0,
+      "turnover_rate": 0.45,
+      "pe_ttm": 16.9,
+      "pb": 3.72,
+      "float_mv": 107080000000.0,
+      "quote_at": "20261029161456"
     },
     {
       "code": "001248.SZ",
       "name": "华润新能源",
       "rank": 109,
-      "total_mv": 139344000000.0
+      "total_mv": 139344000000.0,
+      "price": 10.46,
+      "change_pct": -2.33,
+      "amount": 276970000.0,
+      "turnover_rate": 2.47,
+      "pe_ttm": 31.01,
+      "pb": 1.16,
+      "float_mv": 11113000000.0,
+      "quote_at": "20261029161451"
     },
     {
       "code": "300274.SZ",
       "name": "阳光电源",
       "rank": 110,
-      "total_mv": 139341000000.0
+      "total_mv": 139341000000.0,
+      "price": 67.21,
+      "change_pct": -1.49,
+      "amount": 2256690000.0,
+      "turnover_rate": 2.09,
+      "pe_ttm": 12.68,
+      "pb": 2.85,
+      "float_mv": 106693000000.0,
+      "quote_at": "20261029161439"
     },
     {
       "code": "000776.SZ",

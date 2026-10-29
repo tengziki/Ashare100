@@ -38,6 +38,11 @@ jobs:
         with:
           python-version: "3.12"
 
+      # 自动复核读巨潮年报摘要 PDF，需要 pdftotext；装不上时自动复核记为未通过，不影响榜单
+      - name: Install pdftotext
+        continue-on-error: true
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq --no-install-recommends poppler-utils
+
       - name: Build complete market snapshot
         env:
           SCHEDULE: ${{ github.event.schedule }}
@@ -61,10 +66,7 @@ jobs:
           done
           exit 1
 
-      # 公告与问答：失败不影响榜单发布（沿用上一版，页面数据状态面板会提示）
-      - name: Update announcements and investor Q&A
-        continue-on-error: true
-        run: python scripts/update_disclosures.py
+      # 公告问答、机构持股、高管较慢（数分钟），放到下面的 extras 任务，榜单先发布
 
       - name: Validate site bundle
         run: python scripts/validate_pages_bundle.py
@@ -77,10 +79,12 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if [ -z "$(git status --porcelain -- ashare100/ashare100/web/live ashare100/ashare100/profiles)" ]; then
+          # 新进公司的 logo 也在本任务里抓取（web/logos 与 logos.js），一并提交，否则下次运行就丢了
+          paths="ashare100/ashare100/web/live ashare100/ashare100/profiles ashare100/ashare100/web/logos ashare100/ashare100/web/logos.js"
+          if [ -z "$(git status --porcelain -- $paths)" ]; then
             echo "no change"
           else
-            git add ashare100/ashare100/web/live ashare100/ashare100/profiles
+            git add $paths
             git commit -m "data: update dynamic A-share top 100 $(date -u +%Y-%m-%dT%H:%M:%SZ)"
             git push
           fi
@@ -89,6 +93,63 @@ jobs:
       - name: Upload site from this run
         uses: actions/upload-pages-artifact@v4
         with:
+          path: ashare100/ashare100/web
+
+  # 慢任务：在榜单发布后运行，完成后再发布一次。失败不影响已上线的榜单（沿用上一版，数据状态面板会提示）
+  extras:
+    needs: fetch
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      # 取 fetch 任务刚推送的最新提交，而不是触发时的旧提交
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Update announcements and investor Q&A
+        continue-on-error: true
+        run: python scripts/update_disclosures.py
+
+      # 机构持股：全站同一报告期（中报/年报）；同期已有的公司不重抓，只补新进公司
+      - name: Update institutional holdings
+        continue-on-error: true
+        run: python scripts/build_inst_hold.py
+
+      # 核心高管姓名与年报报酬：每家公司约每天重抓一次（20 小时缓存）
+      - name: Update executives
+        continue-on-error: true
+        run: python scripts/build_executives.py
+
+      - name: Validate site bundle
+        run: python scripts/validate_pages_bundle.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          paths="ashare100/ashare100/web/live ashare100/ashare100/profiles"
+          if [ -z "$(git status --porcelain -- $paths)" ]; then
+            echo "no change"
+            exit 0
+          fi
+          git add $paths
+          git commit -m "data: disclosures, holdings and executives $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          # 与其他数据提交错开：推送被拒时先拉取合并再推
+          for attempt in 1 2 3; do
+            git push && exit 0
+            git pull --rebase
+          done
+          exit 1
+
+      - name: Upload site with disclosures
+        uses: actions/upload-pages-artifact@v4
+        with:
+          name: github-pages-extras
           path: ashare100/ashare100/web
 
   deploy:
@@ -105,9 +166,25 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
+  deploy-extras:
+    needs: [extras, deploy]
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy site with disclosures
+        id: deployment
+        uses: actions/deploy-pages@v4
+        with:
+          artifact_name: github-pages-extras
+
   # 失败告警：任一步失败时开一个 data-alert issue；已有未关闭的同类 issue 则追加评论，避免刷屏
   alert:
-    needs: [fetch, deploy]
+    needs: [fetch, deploy, extras, deploy-extras]
     if: failure()
     runs-on: ubuntu-latest
     permissions:

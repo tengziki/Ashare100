@@ -9,14 +9,15 @@
   "name_en": "Aluminum Corporation of China Limited",
   "former_names": [],
   "industry_sw1": "有色金属",
-  "industry_sw2": null,
+  "industry_sw2": "工业金属",
   "list_date": "2007-04-30",
+  "found_date": "2001-09-10",
   "province": "北京",
   "city": null,
   "website": "www.chalco.com.cn",
   "chairman": "何文建",
   "employees": 60814,
-  "business_summary": "铝土矿及其他金属矿、石灰石矿、煤炭的勘探、开采;铝、镁及其他金属矿产品、冶炼产品、加工产品的生产和销售;煤炭的生产和销售;碳素制品及相关有色金属产品、水电汽、工…",
+  "business_summary": "铝土矿及其他金属矿、石灰石矿、煤炭的勘探、开采",
   "profile": "中国铝业股份有限公司(简称中铝股份)注册成立于2001年9月10日,是中铝集团核心控股子公司,为全球最大的氧化铝、电解铝、精细氧化铝、高纯铝和金属镓生产供应商。业务涵盖了矿产资源开发,氧化铝、电解铝及铝合金、炭素、煤炭生产,高新技术推广应用,国际贸易、物资供应、物流运输,能源电力等多个领域,是全球铝行业唯一拥有完整产业链的国际化大型铝业公司。股票分别在香港(2001.12,HK02600)、上海(2007.4,601600)两地上市,其中A股被美国明晟纳入中国A股在岸指数,H股被香港恒生纳入中国企业指数。国际评级机构惠誉持续给予中铝股份“A-”全球有色金属行业最高评级,连续六年获得上海证券交易所信息披露A级评价,连续四年入选“央企ESG·先锋50指数”。另外下辖云铝股份(000807)、银星能源(000862)两个上市公司。近年来,中铝股份在中铝集团党组的坚强领导下,深入贯彻落实习近平新时代中国特色社会主义思想,坚定建设世界一流铝业公司战略目标,加快布局优化和结构调整,积极培育战略新兴产业,持续提升价值创造能力,聚力打造原创技术“策源地”和现代铝产业链“链长”,形成了新型稳流节能保温电解槽、高纯超细氮化铝、5N超细氧化铝等一批核心装备和技术,竞争力、创新力、控制力、影响力、抗风险能力显著增强,引领了行业高质量发展。近年来连续保持百亿级盈利水平,为中铝集团建设世界一流优秀有色金属企业提供了有力支撑。",
   "st_status": null,
   "audit_opinion": null
@@ -41,7 +42,8 @@
     "debt_ratio": 60.11,
     "total_liab": 135165255000.0,
     "total_assets": 224863175844,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": 35232217000.0
    },
    {
     "fiscal_year": 2022,
@@ -60,7 +62,8 @@
     "debt_ratio": 58.67,
     "total_liab": 124593412000.0,
     "total_assets": 212363068007,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": 27806188000.0
    },
    {
     "fiscal_year": 2023,
@@ -79,7 +82,8 @@
     "debt_ratio": 53.27,
     "total_liab": 112866670000.0,
     "total_assets": 211876609724,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": 27030025000.0
    },
    {
     "fiscal_year": 2024,
@@ -98,7 +102,8 @@
     "debt_ratio": 48.11,
     "total_liab": 103887142000.0,
     "total_assets": 215936690917,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": 32809274000.0
    },
    {
     "fiscal_year": 2025,
@@ -117,22 +122,24 @@
     "debt_ratio": 46.01,
     "total_liab": 104450072000.0,
     "total_assets": 227016022604,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": 34092341000.0
    }
   ],
   "latest": {
-   "report_period": "2026-06-30",
-   "report_type": "2026年中报",
-   "revenue": 125413186000.0,
-   "revenue_yoy": 7.74,
-   "net_profit": 11871383000.0,
-   "net_profit_yoy": 67.91,
-   "net_profit_deducted": 11649530000.0,
-   "gross_margin": 26.94,
-   "net_margin": 17.14,
-   "eps": 0.693,
-   "roe": 14.67,
-   "debt_ratio": 42.76
+   "report_period": "2026-09-30",
+   "report_type": "2026年三季报",
+   "revenue": 186594403000.0,
+   "revenue_yoy": 5.69,
+   "net_profit": 17915685000.0,
+   "net_profit_yoy": 64.83,
+   "net_profit_deducted": 17642681000.0,
+   "gross_margin": 26.9,
+   "net_margin": 17.13,
+   "eps": 1.045,
+   "roe": 22.29,
+   "debt_ratio": 42.7,
+   "ocf": 40992175000.0
   },
   "derived": {
    "revenue_cagr_3y": -6.07,
@@ -149,80 +156,80 @@
    {
     "rank": 1,
     "name": "中国铝业集团有限公司",
-    "hold_num": 5235235416.0,
-    "hold_ratio": 30.52,
-    "hold_num_change": null
+    "hold_num": 5390104018.0,
+    "hold_ratio": 31.42,
+    "hold_num_change": 154868602.0
    },
    {
     "rank": 2,
     "name": "香港中央结算(代理人)有限公司",
-    "hold_num": 3937187589.0,
+    "hold_num": 3937247589.0,
     "hold_ratio": 22.95,
-    "hold_num_change": 619900.0
+    "hold_num_change": 60000.0
    },
    {
     "rank": 3,
     "name": "香港中央结算有限公司",
-    "hold_num": 755938955.0,
-    "hold_ratio": 4.41,
-    "hold_num_change": 276202133.0
+    "hold_num": 737490959.0,
+    "hold_ratio": 4.3,
+    "hold_num_change": -18447996.0
    },
    {
     "rank": 4,
     "name": "包头铝业(集团)有限责任公司",
     "hold_num": 238377795.0,
     "hold_ratio": 1.39,
-    "hold_num_change": null
+    "hold_num_change": 0
    },
    {
     "rank": 5,
-    "name": "中信证券-华融瑞通股权投资管理有限公司-中信证券-长风单一资产管理计划",
-    "hold_num": 224431370.0,
-    "hold_ratio": 1.31,
-    "hold_num_change": -27108446.0
-   },
-   {
-    "rank": 6,
     "name": "中铝海外控股有限公司",
     "hold_num": 178590000.0,
     "hold_ratio": 1.04,
-    "hold_num_change": null
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "中信证券-华融瑞通股权投资管理有限公司-中信证券-长风单一资产管理计划",
+    "hold_num": 156172745.0,
+    "hold_ratio": 0.91,
+    "hold_num_change": -68258625.0
    },
    {
     "rank": 7,
     "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
-    "hold_num": 164797867.0,
-    "hold_ratio": 0.96,
-    "hold_num_change": 29780078.0
+    "hold_num": 135260011.0,
+    "hold_ratio": 0.79,
+    "hold_num_change": -29537856.0
    },
    {
     "rank": 8,
-    "name": "中铝资产经营管理有限公司",
-    "hold_num": 104139337.0,
-    "hold_ratio": 0.61,
-    "hold_num_change": null
+    "name": "国新宏盛投资(北京)有限公司",
+    "hold_num": 108711478.0,
+    "hold_ratio": 0.63,
+    "hold_num_change": 35774703.0
    },
    {
     "rank": 9,
-    "name": "中国工商银行股份有限公司-南方中证申万有色金属交易型开放式指数证券投资基金",
-    "hold_num": 83194513.0,
-    "hold_ratio": 0.48,
-    "hold_num_change": -15959486.0
+    "name": "中铝资产经营管理有限公司",
+    "hold_num": 104139337.0,
+    "hold_ratio": 0.61,
+    "hold_num_change": 0
    },
    {
     "rank": 10,
-    "name": "国新宏盛投资(北京)有限公司",
-    "hold_num": 72936775.0,
-    "hold_ratio": 0.43,
-    "hold_num_change": null
+    "name": "中国工商银行股份有限公司-南方中证申万有色金属交易型开放式指数证券投资基金",
+    "hold_num": 92400822.0,
+    "hold_ratio": 0.54,
+    "hold_num_change": 9206309.0
    }
   ],
-  "top10_date": "2026-06-30",
-  "holder_num": 604675.0,
-  "holder_num_change_pct": -8.26,
-  "holder_num_date": "2026-06-30",
+  "top10_date": "2026-09-30",
+  "holder_num": 561997.0,
+  "holder_num_change_pct": -7.06,
+  "holder_num_date": "2026-09-30",
   "inst_hold_ratio": null,
-  "northbound_ratio": 4.41,
+  "northbound_ratio": 4.3,
   "executives": [
    {
     "name": "何文建",
@@ -235,7 +242,7 @@
     "pay": null
    },
    {
-    "name": "朱丹",
+    "name": "梁鸣鸿、何文建(代)",
     "title": "董事会秘书",
     "pay": null
    }
@@ -294,7 +301,71 @@
  },
  "peers": {
   "peer_codes": [],
-  "segments": []
+  "segments": [
+   {
+    "name": "原铝板块",
+    "revenue": 143197545000.0,
+    "ratio": 59.39,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "营销板块",
+    "revenue": 142003557000.0,
+    "ratio": 58.89,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "氧化铝板块",
+    "revenue": 60423894000.0,
+    "ratio": 25.06,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "能源板块",
+    "revenue": 8113900000.0,
+    "ratio": 3.36,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 3637659000.0,
+    "ratio": 1.51,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "总部及其他",
+    "revenue": 1334794000.0,
+    "ratio": 0.55,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "板块间抵销",
+    "revenue": -117586132000.0,
+    "ratio": -48.77,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "中国大陆以内",
+    "revenue": 238419532000.0,
+    "ratio": 98.88,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "中国大陆以外",
+    "revenue": 2705685000.0,
+    "ratio": 1.12,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
  },
  "announcements": {
   "items": [
@@ -436,7 +507,7 @@
  },
  "_meta": {
   "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
-  "fetched_at": "2026-10-27T16:18:20+08:00",
+  "fetched_at": "2026-10-30T00:21:20+08:00",
   "errors": {}
  },
  "_extras": {

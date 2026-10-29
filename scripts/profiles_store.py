@@ -59,8 +59,9 @@ def split(force=False, verified_dir=VERIFIED_DIR):
     return written
 
 
-def promote(code, reviewer, note=None, auto_dir=AUTO_DIR, verified_dir=VERIFIED_DIR):
-    """把复核过的自动补档转为已核实档案；去掉抓取元数据，记录复核人与时间。"""
+def promote(code, reviewer, note=None, auto_dir=AUTO_DIR, verified_dir=VERIFIED_DIR, extra=None):
+    """把复核过的自动补档转为已核实档案；去掉抓取元数据，记录复核人与时间。
+    extra：并入 review 的附加字段；脚本自动复核时为 {"method": "auto", "checks": …, "sources": …}，人工复核为 manual。"""
     from datetime import datetime, timedelta, timezone
     auto = load_auto(code, auto_dir)
     if not auto:
@@ -73,7 +74,8 @@ def promote(code, reviewer, note=None, auto_dir=AUTO_DIR, verified_dir=VERIFIED_
     profile = {k: v for k, v in auto.items() if k != "_meta"}
     profile["review"] = {"reviewer": reviewer, "note": note, "source": auto.get("_meta", {}).get("source"),
                          "fetched_at": auto.get("_meta", {}).get("fetched_at"),
-                         "reviewed_at": datetime.now(timezone(timedelta(hours=8))).isoformat(timespec="seconds")}
+                         "reviewed_at": datetime.now(timezone(timedelta(hours=8))).isoformat(timespec="seconds"),
+                         "method": "manual", **(extra or {})}
     write_json(target, profile)
     return target
 

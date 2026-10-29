@@ -1,4 +1,4 @@
-"""行业补档的离线测试：已核实优先、EM2016 映射、映射不到与接口失败均不写入错值。"""
+"""行业补档的离线测试：已核实优先、申万板块、EM2016 兜底、映射不到与接口失败均不写入错值。"""
 
 import sys
 import unittest
@@ -13,7 +13,14 @@ class IndustryEnrichTests(unittest.TestCase):
         self.doc = {"meta": {}, "codes": {"600036.SH": {"sw1": "银行", "sw2": "股份制银行Ⅱ", "source": "verified_profile"}}}
         self.em = {"600016.SH": "金融-银行-股份制与城商行", "601995.SH": "金融-非银行金融-证券",
                    "601600.SH": "有色金属-基本金属-铝", "000001.SZ": "互联网-互联网金融-x"}
+        self.boards = {}
         self.calls = []
+
+    def board(self, code):
+        self.calls.append("board:" + code)
+        if code not in self.boards:
+            raise OSError("timeout")
+        return self.boards[code]
 
     def fetch(self, code):
         self.calls.append(code)
@@ -26,13 +33,13 @@ class IndustryEnrichTests(unittest.TestCase):
 
     def test_verified_map_wins_without_network(self):
         snap = self.snapshot(["600036.SH"])
-        self.assertEqual(enrich.apply_to_snapshot(snap, self.doc, self.fetch), [])
+        self.assertEqual(enrich.apply_to_snapshot(snap, self.doc, self.fetch, self.board), [])
         self.assertEqual(snap["pending_profiles"]["600036.SH"]["industry_sw1"], "银行")
         self.assertEqual(self.calls, [])
 
     def test_em2016_maps_to_sw1_and_is_cached(self):
         snap = self.snapshot(["600016.SH", "601995.SH", "601600.SH"])
-        self.assertEqual(enrich.apply_to_snapshot(snap, self.doc, self.fetch), [])
+        self.assertEqual(enrich.apply_to_snapshot(snap, self.doc, self.fetch, self.board), [])
         got = {c: p["industry_sw1"] for c, p in snap["pending_profiles"].items()}
         self.assertEqual(got, {"600016.SH": "银行", "601995.SH": "非银金融", "601600.SH": "有色金属"})
         self.assertEqual(snap["pending_profiles"]["600016.SH"]["industry_source"], "em2016_mapped")
@@ -40,10 +47,32 @@ class IndustryEnrichTests(unittest.TestCase):
 
     def test_unmapped_or_failed_stays_null(self):
         snap = self.snapshot(["000001.SZ", "688999.SH"])
-        missing = enrich.apply_to_snapshot(snap, self.doc, self.fetch)
+        missing = enrich.apply_to_snapshot(snap, self.doc, self.fetch, self.board)
         self.assertEqual(len(missing), 2)
         self.assertTrue(all(p["industry_sw1"] is None for p in snap["pending_profiles"].values()))
         self.assertNotIn("000001.SZ", self.doc["codes"])
+
+    def test_sw_board_wins_over_em2016_and_fixes_old_mapping(self):
+        self.doc["codes"]["002050.SZ"] = {"sw1": "机械设备", "sw2": None, "source": "em2016_mapped", "em2016": "机械设备-通用设备-x"}
+        self.boards = {"002050.SZ": ("家用电器", "家电零部件Ⅱ"), "600016.SH": ("银行", "股份制银行Ⅱ")}
+        snap = self.snapshot(["002050.SZ", "600016.SH"])
+        self.assertEqual(enrich.apply_to_snapshot(snap, self.doc, self.fetch, self.board), [])
+        got = {c: (p["industry_sw1"], p["industry_sw2"], p["industry_source"]) for c, p in snap["pending_profiles"].items()}
+        self.assertEqual(got, {"002050.SZ": ("家用电器", "家电零部件Ⅱ", "sw_board"),
+                               "600016.SH": ("银行", "股份制银行Ⅱ", "sw_board")})
+        self.assertNotIn("600016.SH", self.calls)  # 板块成功就不再查 EM2016
+
+    def test_board_failure_keeps_old_em2016_mapping(self):
+        self.doc["codes"]["002050.SZ"] = {"sw1": "机械设备", "sw2": None, "source": "em2016_mapped", "em2016": "机械设备-通用设备-x"}
+        snap = self.snapshot(["002050.SZ"])
+        self.assertEqual(enrich.apply_to_snapshot(snap, self.doc, self.fetch, self.board), [])
+        self.assertEqual(snap["pending_profiles"]["002050.SZ"]["industry_source"], "em2016_mapped")
+
+    def test_board_levels_and_bank_rename(self):
+        rows = lambda *names: [{"BOARD_RANK": i + 1, "BOARD_NAME": n} for i, n in enumerate(names)] + [{"BOARD_RANK": 9, "BOARD_NAME": "沪股通"}]
+        self.assertEqual(enrich.board_to_sw(rows("食品饮料", "白酒Ⅱ", "白酒Ⅲ")), ("食品饮料", "白酒Ⅱ"))
+        self.assertEqual(enrich.board_to_sw(rows("银行", "银行Ⅱ", "城商行Ⅲ")), ("银行", "城商行Ⅱ"))
+        self.assertEqual(enrich.board_to_sw([]), (None, None))
 
     def test_mapping_targets_are_official_sw1(self):
         self.assertEqual(len(enrich.SW1), 31)

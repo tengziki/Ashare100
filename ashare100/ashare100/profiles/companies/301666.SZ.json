@@ -11,12 +11,13 @@
   "industry_sw1": null,
   "industry_sw2": null,
   "list_date": "2026-04-16",
+  "found_date": "2016-04-15",
   "province": "广东",
   "city": null,
   "website": "www.dapustor.com",
   "chairman": "杨亚飞",
   "employees": 426,
-  "business_summary": "一般经营项目是:数据存储技术产品、微电子芯片技术产品、智能系统产品、机器学习产品、软件产品、硬件产品、大数据产品、云存储产品、信息安全产品、计算机技术产品、网络…",
+  "business_summary": "数据中心企业级SSD产品的研发和销售,是业内领先、国内极少数具备企业级SSD“主…",
   "profile": "深圳大普微电子股份有限公司(DapuStor),成立于2016年,主要从事数据中心企业级SSD产品的研发和销售,是业内领先、国内极少数具备企业级SSD“主控芯片+固件算法+模组”全栈自研能力并实现批量出货的半导体存储产品提供商。大普微专注数据中心企业级SSD产品,产品代际覆盖PCIe3.0到5.0,充分满足各类型客户的产品需求。公司产品以其卓越性能及可靠性在下游互联网、云计算、通信运营商、AI模型训练&推理、金融和电力等领域的数据安全、高效、可靠存储中发挥关键作用,获得了各领域主流客户的认可并实现批量供货。\n    公司始终坚持技术和创新驱动,把握存储技术发展趋势,先发推出具有国际竞争力的产品及方案,产品性能处于国际先进水平。同时,公司持续发力前沿存储发展方向,是全球首批量产企业级PCIe5.0SSD和大容量QLCSSD的存储厂商。公司拥有一支具备前沿存储技术和丰富行业经验的数据中心企业级SSD主控芯片和模组研发团队,持续投入研发资源,为产品保持市场竞争力提供了保障。截至2024年12月31日,公司人员规模400+,其中研发人员占比68.61%,公司已申请国内外发明专利300+项、已取得发明专利156项,可计算存储、智能多流、智能故障预测等多项企业级SSD技术处于业内领先水平。\n    公司曾荣获国家级专精特新重点“小巨人”企业、国家知识产权优势企业、广东省存储芯片及系统工程技术研究中心认定、中国专利优秀奖(2022年、2023年和2024年)、深圳市专利奖、StorageReview“BESTof2022”、高新技术企业等资质及奖项,还被中国电信、百度、铠侠等上下游企业授予“生态合作伙伴”、“技术创新奖”、“杰出合作伙伴”、“最佳合作伙伴”等荣誉,在行业内具有较高的品牌知名度和认可度。",
   "st_status": null,
   "audit_opinion": null
@@ -44,7 +45,8 @@
     "debt_ratio": 58.14,
     "total_liab": 461193412.0,
     "total_assets": 793246323,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": -322381537.61
    },
    {
     "fiscal_year": 2023,
@@ -63,7 +65,8 @@
     "debt_ratio": 46.73,
     "total_liab": 359705047.0,
     "total_assets": 769751866,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": -530023284.99
    },
    {
     "fiscal_year": 2024,
@@ -82,7 +85,8 @@
     "debt_ratio": 57.0,
     "total_liab": 1073530949.0,
     "total_assets": 1883387630,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": -559735211.8
    },
    {
     "fiscal_year": 2025,
@@ -101,22 +105,24 @@
     "debt_ratio": 85.65,
     "total_liab": 2483187496.0,
     "total_assets": 2899226499,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": -878405503.83
    }
   ],
   "latest": {
-   "report_period": "2026-06-30",
-   "report_type": "2026年中报",
-   "revenue": 4722243608.0,
-   "revenue_yoy": 531.17,
-   "net_profit": 1333978843.0,
-   "net_profit_yoy": 477.08,
-   "net_profit_deducted": 1330735062.0,
-   "gross_margin": 34.9,
-   "net_margin": 28.24,
-   "eps": 3.28,
-   "roe": 77.43,
-   "debt_ratio": 51.68
+   "report_period": "2026-09-30",
+   "report_type": "2026年三季报",
+   "revenue": 9835228206.0,
+   "revenue_yoy": 678.13,
+   "net_profit": 2543372843.0,
+   "net_profit_yoy": 677.25,
+   "net_profit_deducted": 2539961999.0,
+   "gross_margin": 30.09,
+   "net_margin": 25.86,
+   "eps": 6.1,
+   "roe": 92.76,
+   "debt_ratio": 56.27,
+   "ocf": -620393450.11
   },
   "derived": {
    "revenue_cagr_3y": 60.19,
@@ -135,76 +141,76 @@
     "name": "平湖大普海德科技有限公司",
     "hold_num": 53856000.0,
     "hold_ratio": 12.35,
-    "hold_num_change": null
+    "hold_num_change": 0
    },
    {
     "rank": 2,
     "name": "深圳国中创业投资管理有限公司-深圳国中中小企业发展私募股权投资基金合伙企业(有限合伙)",
     "hold_num": 40962600.0,
     "hold_ratio": 9.39,
-    "hold_num_change": null
+    "hold_num_change": 0
    },
    {
     "rank": 3,
     "name": "南京麒麟创业投资有限公司",
     "hold_num": 20336064.0,
     "hold_ratio": 4.66,
-    "hold_num_change": null
+    "hold_num_change": 0
    },
    {
     "rank": 4,
     "name": "平湖大普友聚企业管理合伙企业(有限合伙)",
     "hold_num": 18000000.0,
     "hold_ratio": 4.13,
-    "hold_num_change": null
+    "hold_num_change": 0
    },
    {
     "rank": 5,
     "name": "共青城大普源聚投资中心(有限合伙)",
     "hold_num": 14358600.0,
     "hold_ratio": 3.29,
-    "hold_num_change": null
+    "hold_num_change": 0
    },
    {
     "rank": 6,
     "name": "深圳市国隆资本股权投资管理有限公司-深圳市启赋国隆中小微企业股权投资基金合伙企业(有限合伙)",
     "hold_num": 14247900.0,
     "hold_ratio": 3.27,
-    "hold_num_change": null
+    "hold_num_change": 0
    },
    {
     "rank": 7,
     "name": "共青城大普新聚投资中心(有限合伙)",
     "hold_num": 12544200.0,
     "hold_ratio": 2.88,
-    "hold_num_change": null
+    "hold_num_change": 0
    },
    {
     "rank": 8,
     "name": "深圳大普海聚技术中心(有限合伙)",
     "hold_num": 11756400.0,
     "hold_ratio": 2.7,
-    "hold_num_change": null
+    "hold_num_change": 0
    },
    {
     "rank": 9,
     "name": "共青城大普合聚投资中心(有限合伙)",
     "hold_num": 10885800.0,
     "hold_ratio": 2.5,
-    "hold_num_change": null
+    "hold_num_change": 0
    },
    {
     "rank": 10,
     "name": "深圳市招商国协贰号股权投资基金管理有限公司-南通招华招证股权投资合伙企业(有限合伙)",
     "hold_num": 9921102.0,
     "hold_ratio": 2.27,
-    "hold_num_change": null
+    "hold_num_change": 0
    }
   ],
-  "top10_date": "2026-06-30",
-  "holder_num": 51522.0,
-  "holder_num_change_pct": 48.23,
-  "holder_num_date": "2026-06-30",
+  "top10_date": "2026-09-30",
+  "holder_num": 41780.0,
+  "holder_num_change_pct": -18.91,
+  "holder_num_date": "2026-09-30",
   "inst_hold_ratio": null,
   "northbound_ratio": null,
   "executives": [
@@ -278,7 +284,50 @@
  },
  "peers": {
   "peer_codes": [],
-  "segments": []
+  "segments": [
+   {
+    "name": "企业级SSD",
+    "revenue": 2265288472.5,
+    "ratio": 98.98,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "技术服务",
+    "revenue": 20351112.4,
+    "ratio": 0.89,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 2205767.92,
+    "ratio": 0.1,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "RAIDCard",
+    "revenue": 843897.1,
+    "ratio": 0.04,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "中国大陆",
+    "revenue": 1223251976.24,
+    "ratio": 53.45,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "境外地区",
+    "revenue": 1065437273.68,
+    "ratio": 46.55,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
  },
  "announcements": {
   "items": [],
@@ -289,7 +338,7 @@
  },
  "_meta": {
   "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
-  "fetched_at": "2026-10-27T16:27:28+08:00",
+  "fetched_at": "2026-10-30T00:21:01+08:00",
   "errors": {}
  }
 }

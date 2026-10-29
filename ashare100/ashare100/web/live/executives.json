@@ -1,0 +1,2540 @@
+{
+ "meta": {
+  "pay_year": 2025,
+  "source": "东方财富 F10 · 公司高管",
+  "updated": "2026-10-30T01:29:15+08:00",
+  "count": 100
+ },
+ "companies": {
+  "000001.SZ": {
+   "executives": [
+    {
+     "name": "谢永林",
+     "title": "董事长",
+     "pay": null,
+     "pay_note": "未在公司领薪",
+     "since": "2016-11-07"
+    },
+    {
+     "name": "冀光恒",
+     "title": "总经理",
+     "pay": 4000100.0,
+     "pay_note": null,
+     "since": "2023-11-17"
+    },
+    {
+     "name": "周强",
+     "title": "董事会秘书",
+     "pay": 2268700.0,
+     "pay_note": null,
+     "since": "2014-06-13"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "000333.SZ": {
+   "executives": [
+    {
+     "name": "方洪波",
+     "title": "董事长",
+     "pay": 12670000.0,
+     "pay_note": null,
+     "since": "2012-08-25"
+    },
+    {
+     "name": "方洪波",
+     "title": "总经理",
+     "pay": 12670000.0,
+     "pay_note": null,
+     "since": "2012-08-25"
+    },
+    {
+     "name": "高书",
+     "title": "董事会秘书",
+     "pay": 3310000.0,
+     "pay_note": null,
+     "since": "2025-03-28"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "000338.SZ": {
+   "executives": [
+    {
+     "name": "马常海",
+     "title": "董事长",
+     "pay": null,
+     "pay_note": "未在公司领薪",
+     "since": "2024-05-10"
+    },
+    {
+     "name": "王德成",
+     "title": "总经理",
+     "pay": 2235200.0,
+     "pay_note": null,
+     "since": "2023-10-13"
+    },
+    {
+     "name": "郝庆贵",
+     "title": "董事会秘书",
+     "pay": null,
+     "pay_note": "新任",
+     "since": "2026-07-17"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "000651.SZ": {
+   "executives": [
+    {
+     "name": "董明珠",
+     "title": "董事长",
+     "pay": 12934800.0,
+     "pay_note": null,
+     "since": "2012-05-25"
+    },
+    {
+     "name": "张伟",
+     "title": "总经理",
+     "pay": 7760900.0,
+     "pay_note": null,
+     "since": "2025-04-22"
+    },
+    {
+     "name": "章周虎",
+     "title": "董事会秘书",
+     "pay": 675100.0,
+     "pay_note": null,
+     "since": "2025-01-10"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "000725.SZ": {
+   "executives": [
+    {
+     "name": "陈炎顺",
+     "title": "董事长",
+     "pay": 4728500.0,
+     "pay_note": null,
+     "since": "2019-06-28"
+    },
+    {
+     "name": "郭红",
+     "title": "董事会秘书",
+     "pay": 1938900.0,
+     "pay_note": null,
+     "since": "2025-01-14"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "000858.SZ": {
+   "executives": [
+    {
+     "name": "邓敏",
+     "title": "董事长",
+     "pay": null,
+     "pay_note": "新任",
+     "since": "2026-06-26"
+    },
+    {
+     "name": "华涛",
+     "title": "总经理",
+     "pay": 678300.0,
+     "pay_note": null,
+     "since": "2024-09-30"
+    },
+    {
+     "name": "李剑伟",
+     "title": "董事会秘书",
+     "pay": null,
+     "pay_note": "新任",
+     "since": "2026-07-28"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "002142.SZ": {
+   "executives": [
+    {
+     "name": "庄灵君",
+     "title": "董事长",
+     "pay": 2750000.0,
+     "pay_note": null,
+     "since": "2026-02-26"
+    },
+    {
+     "name": "冯培炯",
+     "title": "总经理",
+     "pay": 2475000.0,
+     "pay_note": null,
+     "since": "2026-02-26"
+    },
+    {
+     "name": "俞罡",
+     "title": "董事会秘书",
+     "pay": 2337500.0,
+     "pay_note": null,
+     "since": "2017-12-12"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "002352.SZ": {
+   "executives": [
+    {
+     "name": "王卫(代)",
+     "title": "董事长",
+     "pay": 1935000.0,
+     "pay_note": null,
+     "since": "2016-12-28"
+    },
+    {
+     "name": "王卫(代)",
+     "title": "总经理",
+     "pay": 1935000.0,
+     "pay_note": null,
+     "since": "2016-12-28"
+    },
+    {
+     "name": "王卫(代)",
+     "title": "董事会秘书",
+     "pay": 1935000.0,
+     "pay_note": null,
+     "since": "2016-12-28"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "002371.SZ": {
+   "executives": [
+    {
+     "name": "赵晋荣",
+     "title": "董事长",
+     "pay": 3760000.0,
+     "pay_note": null,
+     "since": "2019-12-06"
+    },
+    {
+     "name": "董博宇",
+     "title": "总经理",
+     "pay": 2510000.0,
+     "pay_note": null,
+     "since": "2025-08-27"
+    },
+    {
+     "name": "王晓宁",
+     "title": "董事会秘书",
+     "pay": 2180000.0,
+     "pay_note": null,
+     "since": "2019-01-04"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "002379.SZ": {
+   "executives": [
+    {
+     "name": "张波",
+     "title": "董事长",
+     "pay": null,
+     "pay_note": "新任",
+     "since": "2026-01-27"
+    },
+    {
+     "name": "杨丛森",
+     "title": "总经理",
+     "pay": 1397900.0,
+     "pay_note": null,
+     "since": "2026-01-27"
+    },
+    {
+     "name": "肖萧",
+     "title": "董事会秘书",
+     "pay": 1687600.0,
+     "pay_note": null,
+     "since": "2017-05-08"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "002384.SZ": {
+   "executives": [
+    {
+     "name": "袁永刚",
+     "title": "董事长",
+     "pay": 3442700.0,
+     "pay_note": null,
+     "since": "2010-12-10"
+    },
+    {
+     "name": "袁永峰",
+     "title": "总经理",
+     "pay": 3442700.0,
+     "pay_note": null,
+     "since": "2007-12-14"
+    },
+    {
+     "name": "冒小燕",
+     "title": "董事会秘书",
+     "pay": 1629000.0,
+     "pay_note": null,
+     "since": "2012-08-23"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "002415.SZ": {
+   "executives": [
+    {
+     "name": "胡扬忠",
+     "title": "董事长",
+     "pay": 2990000.0,
+     "pay_note": null,
+     "since": "2024-08-02"
+    },
+    {
+     "name": "徐鹏",
+     "title": "总经理",
+     "pay": 3450000.0,
+     "pay_note": null,
+     "since": "2024-08-02"
+    },
+    {
+     "name": "奉玮",
+     "title": "董事会秘书",
+     "pay": 2890000.0,
+     "pay_note": null,
+     "since": "2024-10-25"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "002463.SZ": {
+   "executives": [
+    {
+     "name": "陈梅芳",
+     "title": "董事长",
+     "pay": 360000.0,
+     "pay_note": null,
+     "since": "2024-04-03"
+    },
+    {
+     "name": "吴传彬",
+     "title": "总经理",
+     "pay": 2797700.0,
+     "pay_note": null,
+     "since": "2009-06-29"
+    },
+    {
+     "name": "李明贵",
+     "title": "董事会秘书",
+     "pay": 780300.0,
+     "pay_note": null,
+     "since": "2009-06-29"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "002475.SZ": {
+   "executives": [
+    {
+     "name": "王来春",
+     "title": "董事长",
+     "pay": 8000000.0,
+     "pay_note": null,
+     "since": "2009-02-22"
+    },
+    {
+     "name": "王来春",
+     "title": "总经理",
+     "pay": 8000000.0,
+     "pay_note": null,
+     "since": "2009-02-22"
+    },
+    {
+     "name": "肖云兮",
+     "title": "董事会秘书",
+     "pay": 330700.0,
+     "pay_note": null,
+     "since": "2024-07-05"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "002594.SZ": {
+   "executives": [
+    {
+     "name": "王传福",
+     "title": "董事长",
+     "pay": 8139000.0,
+     "pay_note": null,
+     "since": "2008-06-11"
+    },
+    {
+     "name": "王传福",
+     "title": "总经理",
+     "pay": 8139000.0,
+     "pay_note": null,
+     "since": "2008-06-11"
+    },
+    {
+     "name": "李黔",
+     "title": "董事会秘书",
+     "pay": 5651000.0,
+     "pay_note": null,
+     "since": "2014-11-18"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "002714.SZ": {
+   "executives": [
+    {
+     "name": "曹治年",
+     "title": "董事长",
+     "pay": 3441500.0,
+     "pay_note": null,
+     "since": "2024-12-12"
+    },
+    {
+     "name": "高曈",
+     "title": "总经理",
+     "pay": null,
+     "pay_note": "新任",
+     "since": "2026-01-05"
+    },
+    {
+     "name": "秦军",
+     "title": "董事会秘书",
+     "pay": 1716100.0,
+     "pay_note": null,
+     "since": "2014-07-29"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "002916.SZ": {
+   "executives": [
+    {
+     "name": "杨智勤",
+     "title": "董事长",
+     "pay": 3030400.0,
+     "pay_note": null,
+     "since": "2025-10-28"
+    },
+    {
+     "name": "杨智勤",
+     "title": "总经理",
+     "pay": 3030400.0,
+     "pay_note": null,
+     "since": "2025-10-28"
+    },
+    {
+     "name": "张丽君",
+     "title": "董事会秘书",
+     "pay": 2606000.0,
+     "pay_note": null,
+     "since": "2014-12-24"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "003816.SZ": {
+   "executives": [
+    {
+     "name": "杨长利",
+     "title": "董事长",
+     "pay": null,
+     "pay_note": "未在公司领薪",
+     "since": "2020-05-20"
+    },
+    {
+     "name": "庞松涛",
+     "title": "总经理",
+     "pay": 71000.0,
+     "pay_note": null,
+     "since": "2023-10-09"
+    },
+    {
+     "name": "尹恩刚",
+     "title": "董事会秘书",
+     "pay": 2020000.0,
+     "pay_note": null,
+     "since": "2017-10-16"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "300033.SZ": {
+   "executives": [
+    {
+     "name": "易峥",
+     "title": "董事长",
+     "pay": 1200000.0,
+     "pay_note": null,
+     "since": "2007-12-12"
+    },
+    {
+     "name": "易峥",
+     "title": "总经理",
+     "pay": 1200000.0,
+     "pay_note": null,
+     "since": "2007-12-12"
+    },
+    {
+     "name": "朱志峰",
+     "title": "董事会秘书",
+     "pay": 1566000.0,
+     "pay_note": null,
+     "since": "2007-12-12"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "300059.SZ": {
+   "executives": [
+    {
+     "name": "其实",
+     "title": "董事长",
+     "pay": 4922200.0,
+     "pay_note": null,
+     "since": "2011-01-26"
+    },
+    {
+     "name": "黄建海",
+     "title": "总经理",
+     "pay": 3817500.0,
+     "pay_note": null,
+     "since": "2025-12-15"
+    },
+    {
+     "name": "杨浩",
+     "title": "董事会秘书",
+     "pay": 1823800.0,
+     "pay_note": null,
+     "since": "2025-12-15"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "300124.SZ": {
+   "executives": [
+    {
+     "name": "朱兴明",
+     "title": "董事长",
+     "pay": 4231351.0,
+     "pay_note": null,
+     "since": "2008-05-18"
+    },
+    {
+     "name": "朱兴明",
+     "title": "总经理",
+     "pay": 4231351.0,
+     "pay_note": null,
+     "since": "2008-05-18"
+    },
+    {
+     "name": "宋君恩",
+     "title": "董事会秘书",
+     "pay": 2418174.54,
+     "pay_note": null,
+     "since": "2008-05-18"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "300308.SZ": {
+   "executives": [
+    {
+     "name": "刘圣",
+     "title": "董事长",
+     "pay": 4183400.0,
+     "pay_note": null,
+     "since": "2017-08-21"
+    },
+    {
+     "name": "刘圣",
+     "title": "总经理",
+     "pay": 4183400.0,
+     "pay_note": null,
+     "since": "2017-08-21"
+    },
+    {
+     "name": "王军",
+     "title": "董事会秘书",
+     "pay": 2416100.0,
+     "pay_note": null,
+     "since": "2018-01-22"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "300394.SZ": {
+   "executives": [
+    {
+     "name": "邹支农",
+     "title": "董事长",
+     "pay": 2269400.0,
+     "pay_note": null,
+     "since": "2011-09-21"
+    },
+    {
+     "name": "欧洋",
+     "title": "总经理",
+     "pay": 2564300.0,
+     "pay_note": null,
+     "since": "2018-01-16"
+    },
+    {
+     "name": "陈凯荣",
+     "title": "董事会秘书",
+     "pay": 2037100.0,
+     "pay_note": null,
+     "since": "2017-08-04"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "300408.SZ": {
+   "executives": [
+    {
+     "name": "李钢",
+     "title": "董事长",
+     "pay": 3396900.0,
+     "pay_note": null,
+     "since": "2026-08-05"
+    },
+    {
+     "name": "马艳红",
+     "title": "总经理",
+     "pay": 2885400.0,
+     "pay_note": null,
+     "since": "2023-06-20"
+    },
+    {
+     "name": "吴晓淳",
+     "title": "董事会秘书",
+     "pay": 801500.0,
+     "pay_note": null,
+     "since": "2023-06-20"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "300476.SZ": {
+   "executives": [
+    {
+     "name": "陈涛",
+     "title": "董事长",
+     "pay": 6394600.0,
+     "pay_note": null,
+     "since": "2012-02-20"
+    },
+    {
+     "name": "赵启祥",
+     "title": "总经理",
+     "pay": 3159100.0,
+     "pay_note": null,
+     "since": "2024-08-16"
+    },
+    {
+     "name": "朱溪瑶",
+     "title": "董事会秘书",
+     "pay": 764400.0,
+     "pay_note": null,
+     "since": "2024-08-16"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "300502.SZ": {
+   "executives": [
+    {
+     "name": "高光荣",
+     "title": "董事长",
+     "pay": 1784700.0,
+     "pay_note": null,
+     "since": "2011-11-22"
+    },
+    {
+     "name": "黄晓雷",
+     "title": "总经理",
+     "pay": 2071700.0,
+     "pay_note": null,
+     "since": "2011-11-22"
+    },
+    {
+     "name": "王诚",
+     "title": "董事会秘书",
+     "pay": 1385900.0,
+     "pay_note": null,
+     "since": "2017-12-15"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "300750.SZ": {
+   "executives": [
+    {
+     "name": "曾毓群",
+     "title": "董事长",
+     "pay": 5690000.0,
+     "pay_note": null,
+     "since": "2022-08-01"
+    },
+    {
+     "name": "曾毓群",
+     "title": "总经理",
+     "pay": 5690000.0,
+     "pay_note": null,
+     "since": "2022-08-01"
+    },
+    {
+     "name": "蒋理",
+     "title": "董事会秘书",
+     "pay": 1942000.0,
+     "pay_note": null,
+     "since": "2017-06-05"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "300760.SZ": {
+   "executives": [
+    {
+     "name": "李西廷",
+     "title": "董事长",
+     "pay": 18807100.0,
+     "pay_note": null,
+     "since": "2017-01-05"
+    },
+    {
+     "name": "吴昊",
+     "title": "总经理",
+     "pay": 15915600.0,
+     "pay_note": null,
+     "since": "2020-11-17"
+    },
+    {
+     "name": "李文楣",
+     "title": "董事会秘书",
+     "pay": 6560500.0,
+     "pay_note": null,
+     "since": "2017-01-05"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "302132.SZ": {
+   "executives": [
+    {
+     "name": "隋少春",
+     "title": "董事长",
+     "pay": 969900.0,
+     "pay_note": null,
+     "since": "2025-01-22"
+    },
+    {
+     "name": "蒋敏",
+     "title": "总经理",
+     "pay": 969900.0,
+     "pay_note": null,
+     "since": "2025-01-22"
+    },
+    {
+     "name": "肖峰",
+     "title": "董事会秘书",
+     "pay": 861300.0,
+     "pay_note": null,
+     "since": "2025-01-22"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "600000.SH": {
+   "executives": [
+    {
+     "name": "张为忠",
+     "title": "董事长",
+     "pay": 909500.0,
+     "pay_note": null,
+     "since": "2023-11-17"
+    },
+    {
+     "name": "谢伟",
+     "title": "总经理",
+     "pay": 1040000.0,
+     "pay_note": null,
+     "since": "2024-09-30"
+    },
+    {
+     "name": "张健",
+     "title": "董事会秘书",
+     "pay": 884000.0,
+     "pay_note": null,
+     "since": "2024-09-03"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "600016.SH": {
+   "executives": [
+    {
+     "name": "高迎欣",
+     "title": "董事长",
+     "pay": 3292000.0,
+     "pay_note": null,
+     "since": "2020-07-16"
+    },
+    {
+     "name": "王晓永",
+     "title": "总经理",
+     "pay": 3210800.0,
+     "pay_note": null,
+     "since": "2024-04-30"
+    },
+    {
+     "name": "李彬",
+     "title": "董事会秘书",
+     "pay": 2507400.0,
+     "pay_note": null,
+     "since": "2017-01-22"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "600025.SH": {
+   "executives": [
+    {
+     "name": "孙卫",
+     "title": "董事长",
+     "pay": 1602600.0,
+     "pay_note": null,
+     "since": "2023-04-11"
+    },
+    {
+     "name": "尹述红",
+     "title": "总经理",
+     "pay": 1417100.0,
+     "pay_note": null,
+     "since": "2025-08-28"
+    },
+    {
+     "name": "赵虎",
+     "title": "董事会秘书",
+     "pay": 1366400.0,
+     "pay_note": null,
+     "since": "2023-06-16"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "600028.SH": {
+   "executives": [
+    {
+     "name": "侯启军",
+     "title": "董事长",
+     "pay": null,
+     "pay_note": "新任",
+     "since": "2025-08-21"
+    },
+    {
+     "name": "万涛",
+     "title": "总经理",
+     "pay": null,
+     "pay_note": "未在公司领薪",
+     "since": "2024-06-28"
+    },
+    {
+     "name": "张征",
+     "title": "董事会秘书",
+     "pay": null,
+     "pay_note": "新任",
+     "since": "2026-04-28"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "600030.SH": {
+   "executives": [
+    {
+     "name": "邹迎光(代)",
+     "title": "董事长",
+     "pay": 1464400.0,
+     "pay_note": null,
+     "since": "2024-12-12"
+    },
+    {
+     "name": "邹迎光(代)",
+     "title": "总经理",
+     "pay": 1464400.0,
+     "pay_note": null,
+     "since": "2024-12-12"
+    },
+    {
+     "name": "王俊锋",
+     "title": "董事会秘书",
+     "pay": 1352100.0,
+     "pay_note": null,
+     "since": "2020-07-30"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "600031.SH": {
+   "executives": [
+    {
+     "name": "向文波",
+     "title": "董事长",
+     "pay": 1393200.0,
+     "pay_note": null,
+     "since": "2022-01-19"
+    },
+    {
+     "name": "俞宏福",
+     "title": "总经理",
+     "pay": 8100300.0,
+     "pay_note": null,
+     "since": "2022-01-19"
+    },
+    {
+     "name": "秦致妤",
+     "title": "董事会秘书",
+     "pay": 2689200.0,
+     "pay_note": null,
+     "since": "2025-01-03"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "600036.SH": {
+   "executives": [
+    {
+     "name": "缪建民",
+     "title": "董事长",
+     "pay": null,
+     "pay_note": "未在公司领薪",
+     "since": "2020-09-24"
+    },
+    {
+     "name": "王小青",
+     "title": "总经理",
+     "pay": 1742200.0,
+     "pay_note": null,
+     "since": "2026-07-28"
+    },
+    {
+     "name": "彭家文",
+     "title": "董事会秘书",
+     "pay": 2826000.0,
+     "pay_note": null,
+     "since": "2023-02-16"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "600150.SH": {
+   "executives": [
+    {
+     "name": "胡贤甫",
+     "title": "董事长",
+     "pay": null,
+     "pay_note": "新任",
+     "since": "2025-06-03"
+    },
+    {
+     "name": "施卫东",
+     "title": "总经理",
+     "pay": 1279300.0,
+     "pay_note": null,
+     "since": "2022-07-12"
+    },
+    {
+     "name": "管红",
+     "title": "董事会秘书",
+     "pay": 526600.0,
+     "pay_note": null,
+     "since": "2025-10-28"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "600183.SH": {
+   "executives": [
+    {
+     "name": "陈仁喜",
+     "title": "董事长",
+     "pay": 15733800.0,
+     "pay_note": null,
+     "since": "2024-06-05"
+    },
+    {
+     "name": "曾红慧",
+     "title": "总经理",
+     "pay": 16425500.0,
+     "pay_note": null,
+     "since": "2024-06-05"
+    },
+    {
+     "name": "唐芙云",
+     "title": "董事会秘书",
+     "pay": 6109500.0,
+     "pay_note": null,
+     "since": "2018-04-18"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "600188.SH": {
+   "executives": [
+    {
+     "name": "李伟",
+     "title": "董事长",
+     "pay": null,
+     "pay_note": "未在公司领薪",
+     "since": "2023-06-30"
+    },
+    {
+     "name": "王九红",
+     "title": "总经理",
+     "pay": 1286100.0,
+     "pay_note": null,
+     "since": "2024-11-13"
+    },
+    {
+     "name": "黄霄龙",
+     "title": "董事会秘书",
+     "pay": 974900.0,
+     "pay_note": null,
+     "since": "2021-07-30"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "600276.SH": {
+   "executives": [
+    {
+     "name": "孙飘扬(SUN Piaoyang)",
+     "title": "董事长",
+     "pay": 2014700.0,
+     "pay_note": null,
+     "since": "2021-08-04"
+    },
+    {
+     "name": "冯佶",
+     "title": "总经理",
+     "pay": 6536200.0,
+     "pay_note": null,
+     "since": "2025-04-02"
+    },
+    {
+     "name": "田飞",
+     "title": "董事会秘书",
+     "pay": null,
+     "pay_note": "新任",
+     "since": "2026-08-19"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "600309.SH": {
+   "executives": [
+    {
+     "name": "廖增太",
+     "title": "董事长",
+     "pay": 809000.0,
+     "pay_note": null,
+     "since": "2016-10-26"
+    },
+    {
+     "name": "寇光武",
+     "title": "总经理",
+     "pay": 5050900.0,
+     "pay_note": null,
+     "since": "2019-04-20"
+    },
+    {
+     "name": "李立民",
+     "title": "董事会秘书",
+     "pay": 3277500.0,
+     "pay_note": null,
+     "since": "2019-04-20"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "600406.SH": {
+   "executives": [
+    {
+     "name": "郑宗强",
+     "title": "董事长",
+     "pay": 495200.0,
+     "pay_note": null,
+     "since": "2025-01-23"
+    },
+    {
+     "name": "罗汉武",
+     "title": "总经理",
+     "pay": null,
+     "pay_note": "新任",
+     "since": "2025-12-30"
+    },
+    {
+     "name": "胡顺靖",
+     "title": "董事会秘书",
+     "pay": 866000.0,
+     "pay_note": null,
+     "since": "2025-03-20"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "600519.SH": {
+   "executives": [
+    {
+     "name": "陈华",
+     "title": "董事长",
+     "pay": null,
+     "pay_note": "新任",
+     "since": "2025-11-28"
+    },
+    {
+     "name": "王莉(代)",
+     "title": "总经理",
+     "pay": null,
+     "pay_note": "未在公司领薪",
+     "since": "2023-08-19"
+    },
+    {
+     "name": "余思明",
+     "title": "董事会秘书",
+     "pay": null,
+     "pay_note": "新任",
+     "since": "2026-04-14"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "600690.SH": {
+   "executives": [
+    {
+     "name": "李华刚",
+     "title": "董事长",
+     "pay": 3550000.0,
+     "pay_note": null,
+     "since": "2019-04-29"
+    },
+    {
+     "name": "李华刚",
+     "title": "总经理",
+     "pay": 3550000.0,
+     "pay_note": null,
+     "since": "2019-04-29"
+    },
+    {
+     "name": "刘晓梅",
+     "title": "董事会秘书",
+     "pay": 440000.0,
+     "pay_note": null,
+     "since": "2022-06-28"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "600887.SH": {
+   "executives": [
+    {
+     "name": "潘刚",
+     "title": "董事长",
+     "pay": 19658589.0,
+     "pay_note": null,
+     "since": "2005-10-16"
+    },
+    {
+     "name": "潘刚",
+     "title": "总经理",
+     "pay": 19658589.0,
+     "pay_note": null,
+     "since": "2005-10-16"
+    },
+    {
+     "name": "邱向敏",
+     "title": "董事会秘书",
+     "pay": 885650.0,
+     "pay_note": null,
+     "since": "2018-12-07"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "600900.SH": {
+   "executives": [
+    {
+     "name": "刘伟平",
+     "title": "董事长",
+     "pay": null,
+     "pay_note": "未在公司领薪",
+     "since": "2024-06-20"
+    },
+    {
+     "name": "刘海波",
+     "title": "总经理",
+     "pay": 1437400.0,
+     "pay_note": null,
+     "since": "2025-04-09"
+    },
+    {
+     "name": "薛宁",
+     "title": "董事会秘书",
+     "pay": 1197600.0,
+     "pay_note": null,
+     "since": "2022-01-27"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "600919.SH": {
+   "executives": [
+    {
+     "name": "袁军",
+     "title": "董事长",
+     "pay": 830000.0,
+     "pay_note": null,
+     "since": "2024-07-18"
+    },
+    {
+     "name": "高增银(代)",
+     "title": "总经理",
+     "pay": 740000.0,
+     "pay_note": null,
+     "since": "2023-09-26"
+    },
+    {
+     "name": "陆松圣",
+     "title": "董事会秘书",
+     "pay": 2030000.0,
+     "pay_note": null,
+     "since": "2024-02-08"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "600930.SH": {
+   "executives": [
+    {
+     "name": "侯军虎",
+     "title": "董事长",
+     "pay": 947600.0,
+     "pay_note": null,
+     "since": "2024-12-25"
+    },
+    {
+     "name": "吴豪",
+     "title": "总经理",
+     "pay": 852300.0,
+     "pay_note": null,
+     "since": "2025-12-22"
+    },
+    {
+     "name": "杨帅",
+     "title": "董事会秘书",
+     "pay": 70000.0,
+     "pay_note": null,
+     "since": "2025-12-22"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "600938.SH": {
+   "executives": [
+    {
+     "name": "张传江",
+     "title": "董事长",
+     "pay": 0.0,
+     "pay_note": null,
+     "since": "2025-07-08"
+    },
+    {
+     "name": "黄永章",
+     "title": "总经理",
+     "pay": 0.0,
+     "pay_note": null,
+     "since": "2026-03-20"
+    },
+    {
+     "name": "徐玉高",
+     "title": "董事会秘书",
+     "pay": 1250000.0,
+     "pay_note": null,
+     "since": "2021-05-21"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "600941.SH": {
+   "executives": [
+    {
+     "name": "陈忠岳",
+     "title": "董事长",
+     "pay": 147000.0,
+     "pay_note": null,
+     "since": "2025-12-22"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "600989.SH": {
+   "executives": [
+    {
+     "name": "党彦宝",
+     "title": "董事长",
+     "pay": null,
+     "pay_note": "新任",
+     "since": "2026-04-03"
+    },
+    {
+     "name": "刘元管",
+     "title": "总经理",
+     "pay": 5834400.0,
+     "pay_note": null,
+     "since": "2016-11-18"
+    },
+    {
+     "name": "黄爱军",
+     "title": "董事会秘书",
+     "pay": 1813200.0,
+     "pay_note": null,
+     "since": "2017-04-21"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "601009.SH": {
+   "executives": [
+    {
+     "name": "谢宁",
+     "title": "董事长",
+     "pay": 870000.0,
+     "pay_note": null,
+     "since": "2024-02-06"
+    },
+    {
+     "name": "朱钢",
+     "title": "总经理",
+     "pay": 720000.0,
+     "pay_note": null,
+     "since": "2022-12-09"
+    },
+    {
+     "name": "江志纯",
+     "title": "董事会秘书",
+     "pay": 2188000.0,
+     "pay_note": null,
+     "since": "2017-08-24"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "601066.SH": {
+   "executives": [
+    {
+     "name": "刘成",
+     "title": "董事长",
+     "pay": 1479400.0,
+     "pay_note": null,
+     "since": "2025-02-20"
+    },
+    {
+     "name": "金剑华(代)",
+     "title": "总经理",
+     "pay": 1417400.0,
+     "pay_note": null,
+     "since": "2024-11-08"
+    },
+    {
+     "name": "刘乃生",
+     "title": "董事会秘书",
+     "pay": 1224200.0,
+     "pay_note": null,
+     "since": "2018-04-16"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "601088.SH": {
+   "executives": [
+    {
+     "name": "张长岩(代)",
+     "title": "总经理",
+     "pay": 1018300.0,
+     "pay_note": null,
+     "since": "2024-11-29"
+    },
+    {
+     "name": "张长岩(代)",
+     "title": "董事会秘书",
+     "pay": 1018300.0,
+     "pay_note": null,
+     "since": "2024-11-29"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "601138.SH": {
+   "executives": [
+    {
+     "name": "郑弘孟",
+     "title": "董事长",
+     "pay": 7584200.0,
+     "pay_note": null,
+     "since": "2017-07-10"
+    },
+    {
+     "name": "郑弘孟",
+     "title": "总经理",
+     "pay": 7584200.0,
+     "pay_note": null,
+     "since": "2017-07-10"
+    },
+    {
+     "name": "刘宗长",
+     "title": "董事会秘书",
+     "pay": 3580700.0,
+     "pay_note": null,
+     "since": "2023-08-08"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "601166.SH": {
+   "executives": [
+    {
+     "name": "吕家进",
+     "title": "董事长",
+     "pay": 1605800.0,
+     "pay_note": null,
+     "since": "2021-06-11"
+    },
+    {
+     "name": "陈信健",
+     "title": "总经理",
+     "pay": 1605800.0,
+     "pay_note": null,
+     "since": "2023-10-11"
+    },
+    {
+     "name": "夏维淳",
+     "title": "董事会秘书",
+     "pay": 1598500.0,
+     "pay_note": null,
+     "since": "2024-03-28"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "601211.SH": {
+   "executives": [
+    {
+     "name": "朱健(代)",
+     "title": "董事长",
+     "pay": 909500.0,
+     "pay_note": null,
+     "since": "2023-12-29"
+    },
+    {
+     "name": "朱健(代)",
+     "title": "总经理",
+     "pay": 909500.0,
+     "pay_note": null,
+     "since": "2023-12-29"
+    },
+    {
+     "name": "徐岚",
+     "title": "董事会秘书",
+     "pay": null,
+     "pay_note": "新任",
+     "since": "2026-04-24"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "601225.SH": {
+   "executives": [
+    {
+     "name": "赵福堂",
+     "title": "董事长",
+     "pay": null,
+     "pay_note": "未在公司领薪",
+     "since": "2023-08-30"
+    },
+    {
+     "name": "赵文革",
+     "title": "总经理",
+     "pay": 364300.0,
+     "pay_note": null,
+     "since": "2024-08-16"
+    },
+    {
+     "name": "李晓光",
+     "title": "董事会秘书",
+     "pay": 345500.0,
+     "pay_note": null,
+     "since": "2023-10-27"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "601288.SH": {
+   "executives": [
+    {
+     "name": "谷澍",
+     "title": "董事长",
+     "pay": 927400.0,
+     "pay_note": null,
+     "since": "2021-01-28"
+    },
+    {
+     "name": "王志恒",
+     "title": "总经理",
+     "pay": 927400.0,
+     "pay_note": null,
+     "since": "2024-06-28"
+    },
+    {
+     "name": "刘清",
+     "title": "董事会秘书",
+     "pay": 892500.0,
+     "pay_note": null,
+     "since": "2024-03-28"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "601318.SH": {
+   "executives": [
+    {
+     "name": "马明哲",
+     "title": "董事长",
+     "pay": 6101600.0,
+     "pay_note": null,
+     "since": "2006-05-25"
+    },
+    {
+     "name": "谢永林",
+     "title": "总经理",
+     "pay": 7187300.0,
+     "pay_note": null,
+     "since": "2019-12-24"
+    },
+    {
+     "name": "盛瑞生",
+     "title": "董事会秘书",
+     "pay": 3955700.0,
+     "pay_note": null,
+     "since": "2017-04-26"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "601319.SH": {
+   "executives": [
+    {
+     "name": "谭炯",
+     "title": "董事长",
+     "pay": null,
+     "pay_note": "新任",
+     "since": "2026-10-12"
+    },
+    {
+     "name": "赵鹏",
+     "title": "总经理",
+     "pay": 1014100.0,
+     "pay_note": null,
+     "since": "2023-11-08"
+    },
+    {
+     "name": "曾上游",
+     "title": "董事会秘书",
+     "pay": 1132800.0,
+     "pay_note": null,
+     "since": "2023-03-15"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "601328.SH": {
+   "executives": [
+    {
+     "name": "任德奇",
+     "title": "董事长",
+     "pay": 963100.0,
+     "pay_note": null,
+     "since": "2019-12-13"
+    },
+    {
+     "name": "张宝江",
+     "title": "总经理",
+     "pay": 960700.0,
+     "pay_note": null,
+     "since": "2024-06-26"
+    },
+    {
+     "name": "何兆斌",
+     "title": "董事会秘书",
+     "pay": 878000.0,
+     "pay_note": null,
+     "since": "2023-06-06"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "601336.SH": {
+   "executives": [
+    {
+     "name": "杨玉成",
+     "title": "董事长",
+     "pay": 1918400.0,
+     "pay_note": null,
+     "since": "2023-10-10"
+    },
+    {
+     "name": "龚兴峰",
+     "title": "总经理",
+     "pay": 1661200.0,
+     "pay_note": null,
+     "since": "2024-12-24"
+    },
+    {
+     "name": "刘智勇",
+     "title": "董事会秘书",
+     "pay": 1268500.0,
+     "pay_note": null,
+     "since": "2024-01-25"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "601398.SH": {
+   "executives": [
+    {
+     "name": "廖林",
+     "title": "董事长",
+     "pay": 926400.0,
+     "pay_note": null,
+     "since": "2020-07-30"
+    },
+    {
+     "name": "刘珺",
+     "title": "总经理",
+     "pay": 926400.0,
+     "pay_note": null,
+     "since": "2024-05-22"
+    },
+    {
+     "name": "田枫林",
+     "title": "董事会秘书",
+     "pay": 906000.0,
+     "pay_note": null,
+     "since": "2023-12-18"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "601601.SH": {
+   "executives": [
+    {
+     "name": "傅帆",
+     "title": "董事长",
+     "pay": 1235000.0,
+     "pay_note": null,
+     "since": "2024-01-30"
+    },
+    {
+     "name": "赵永刚",
+     "title": "总经理",
+     "pay": 1375000.0,
+     "pay_note": null,
+     "since": "2024-01-30"
+    },
+    {
+     "name": "苏少军",
+     "title": "董事会秘书",
+     "pay": 1981000.0,
+     "pay_note": null,
+     "since": "2020-12-30"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "601628.SH": {
+   "executives": [
+    {
+     "name": "蔡希良",
+     "title": "董事长",
+     "pay": null,
+     "pay_note": "未在公司领薪",
+     "since": "2024-12-04"
+    },
+    {
+     "name": "利明光",
+     "title": "总经理",
+     "pay": null,
+     "pay_note": "未在公司领薪",
+     "since": "2023-11-10"
+    },
+    {
+     "name": "刘晖",
+     "title": "董事会秘书",
+     "pay": 1623400.0,
+     "pay_note": null,
+     "since": "2023-01-18"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "601658.SH": {
+   "executives": [
+    {
+     "name": "郑国雨",
+     "title": "董事长",
+     "pay": null,
+     "pay_note": "新任",
+     "since": "2025-02-13"
+    },
+    {
+     "name": "芦苇",
+     "title": "总经理",
+     "pay": null,
+     "pay_note": "新任",
+     "since": "2026-02-13"
+    },
+    {
+     "name": "杜春野",
+     "title": "董事会秘书",
+     "pay": 838400.0,
+     "pay_note": null,
+     "since": "2017-04-11"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "601668.SH": {
+   "executives": [
+    {
+     "name": "郑学选",
+     "title": "董事长",
+     "pay": null,
+     "pay_note": "未在公司领薪",
+     "since": "2021-11-26"
+    },
+    {
+     "name": "文兵",
+     "title": "总经理",
+     "pay": null,
+     "pay_note": "未在公司领薪",
+     "since": "2024-04-29"
+    },
+    {
+     "name": "刘立新",
+     "title": "董事会秘书",
+     "pay": 551900.0,
+     "pay_note": null,
+     "since": "2025-04-09"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "601688.SH": {
+   "executives": [
+    {
+     "name": "王会清",
+     "title": "董事长",
+     "pay": null,
+     "pay_note": "新任",
+     "since": "2026-01-23"
+    },
+    {
+     "name": "张辉",
+     "title": "董事会秘书",
+     "pay": 1152000.0,
+     "pay_note": null,
+     "since": "2017-04-26"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "601728.SH": {
+   "executives": [
+    {
+     "name": "柯瑞文",
+     "title": "董事长",
+     "pay": 751100.0,
+     "pay_note": null,
+     "since": "2019-05-22"
+    },
+    {
+     "name": "刘桂清",
+     "title": "总经理",
+     "pay": 732600.0,
+     "pay_note": null,
+     "since": "2025-05-16"
+    },
+    {
+     "name": "王立宾",
+     "title": "董事会秘书",
+     "pay": null,
+     "pay_note": "新任",
+     "since": "2026-10-22"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "601766.SH": {
+   "executives": [
+    {
+     "name": "孙永才",
+     "title": "董事长",
+     "pay": 1088200.0,
+     "pay_note": null,
+     "since": "2021-03-30"
+    },
+    {
+     "name": "王锋",
+     "title": "总经理",
+     "pay": 959100.0,
+     "pay_note": null,
+     "since": "2026-03-27"
+    },
+    {
+     "name": "王健",
+     "title": "董事会秘书",
+     "pay": 1107600.0,
+     "pay_note": null,
+     "since": "2021-10-15"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "601816.SH": {
+   "executives": [
+    {
+     "name": "李敬伟",
+     "title": "董事长",
+     "pay": 477900.0,
+     "pay_note": null,
+     "since": "2025-01-17"
+    },
+    {
+     "name": "赵非",
+     "title": "董事会秘书",
+     "pay": 658800.0,
+     "pay_note": null,
+     "since": "2019-06-28"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "601818.SH": {
+   "executives": [
+    {
+     "name": "吴利军",
+     "title": "董事长",
+     "pay": null,
+     "pay_note": "未在公司领薪",
+     "since": "2024-01-29"
+    },
+    {
+     "name": "郝成",
+     "title": "总经理",
+     "pay": null,
+     "pay_note": "未在公司领薪",
+     "since": "2024-08-23"
+    },
+    {
+     "name": "张旭阳",
+     "title": "董事会秘书",
+     "pay": 1592000.0,
+     "pay_note": null,
+     "since": "2022-08-01"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "601857.SH": {
+   "executives": [
+    {
+     "name": "戴厚良",
+     "title": "董事长",
+     "pay": null,
+     "pay_note": "未在公司领薪",
+     "since": "2020-03-25"
+    },
+    {
+     "name": "任立新",
+     "title": "总经理",
+     "pay": 1037000.0,
+     "pay_note": null,
+     "since": "2025-09-30"
+    },
+    {
+     "name": "王华",
+     "title": "董事会秘书",
+     "pay": 1752000.0,
+     "pay_note": null,
+     "since": "2022-06-17"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "601869.SH": {
+   "executives": [
+    {
+     "name": "马杰",
+     "title": "董事长",
+     "pay": null,
+     "pay_note": "未在公司领薪",
+     "since": "2017-01-24"
+    },
+    {
+     "name": "庄丹",
+     "title": "总经理",
+     "pay": 4355800.0,
+     "pay_note": null,
+     "since": "2017-01-24"
+    },
+    {
+     "name": "郑昕",
+     "title": "董事会秘书",
+     "pay": 2709100.0,
+     "pay_note": null,
+     "since": "2020-01-17"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "601898.SH": {
+   "executives": [
+    {
+     "name": "王树东",
+     "title": "董事长",
+     "pay": null,
+     "pay_note": "未在公司领薪",
+     "since": "2021-05-11"
+    },
+    {
+     "name": "高士岗",
+     "title": "总经理",
+     "pay": null,
+     "pay_note": "新任",
+     "since": "2025-12-30"
+    },
+    {
+     "name": "姜群",
+     "title": "董事会秘书",
+     "pay": 1398100.0,
+     "pay_note": null,
+     "since": "2021-10-27"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "601899.SH": {
+   "executives": [
+    {
+     "name": "邹来昌",
+     "title": "董事长",
+     "pay": 9490000.0,
+     "pay_note": null,
+     "since": "2022-12-30"
+    },
+    {
+     "name": "林泓富",
+     "title": "总经理",
+     "pay": 7200000.0,
+     "pay_note": null,
+     "since": "2025-12-31"
+    },
+    {
+     "name": "高文龙",
+     "title": "董事会秘书",
+     "pay": null,
+     "pay_note": "新任",
+     "since": "2025-12-31"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "601919.SH": {
+   "executives": [
+    {
+     "name": "万敏",
+     "title": "董事长",
+     "pay": null,
+     "pay_note": "未在公司领薪",
+     "since": "2021-12-29"
+    },
+    {
+     "name": "陶卫东",
+     "title": "总经理",
+     "pay": 3451700.0,
+     "pay_note": null,
+     "since": "2024-05-29"
+    },
+    {
+     "name": "肖俊光",
+     "title": "董事会秘书",
+     "pay": 2975800.0,
+     "pay_note": null,
+     "since": "2022-08-08"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "601939.SH": {
+   "executives": [
+    {
+     "name": "张金良",
+     "title": "董事长",
+     "pay": 934500.0,
+     "pay_note": null,
+     "since": "2022-06-23"
+    },
+    {
+     "name": "张毅",
+     "title": "总经理",
+     "pay": 934500.0,
+     "pay_note": null,
+     "since": "2024-05-16"
+    },
+    {
+     "name": "纪志宏",
+     "title": "董事会秘书",
+     "pay": 858000.0,
+     "pay_note": null,
+     "since": "2019-06-20"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "601985.SH": {
+   "executives": [
+    {
+     "name": "卢铁忠",
+     "title": "董事长",
+     "pay": 1791400.0,
+     "pay_note": null,
+     "since": "2021-07-15"
+    },
+    {
+     "name": "邹正宇",
+     "title": "总经理",
+     "pay": 1757900.0,
+     "pay_note": null,
+     "since": "2023-04-25"
+    },
+    {
+     "name": "张红军",
+     "title": "董事会秘书",
+     "pay": 1424900.0,
+     "pay_note": null,
+     "since": "2024-05-24"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "601988.SH": {
+   "executives": [
+    {
+     "name": "葛海蛟",
+     "title": "董事长",
+     "pay": 928500.0,
+     "pay_note": null,
+     "since": "2023-04-21"
+    },
+    {
+     "name": "张辉(ZHANG Hui)",
+     "title": "总经理",
+     "pay": 928500.0,
+     "pay_note": null,
+     "since": "2024-12-23"
+    },
+    {
+     "name": "刘承钢",
+     "title": "董事会秘书",
+     "pay": 213700.0,
+     "pay_note": null,
+     "since": "2025-08-29"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "601995.SH": {
+   "executives": [
+    {
+     "name": "陈亮",
+     "title": "董事长",
+     "pay": 1428000.0,
+     "pay_note": null,
+     "since": "2023-10-22"
+    },
+    {
+     "name": "王曙光",
+     "title": "总经理",
+     "pay": 1477000.0,
+     "pay_note": null,
+     "since": "2023-01-13"
+    },
+    {
+     "name": "梁东擎",
+     "title": "董事会秘书",
+     "pay": 1465000.0,
+     "pay_note": null,
+     "since": "2024-09-26"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "601998.SH": {
+   "executives": [
+    {
+     "name": "方合英(代)",
+     "title": "董事长",
+     "pay": null,
+     "pay_note": "未在公司领薪",
+     "since": "2023-08-03"
+    },
+    {
+     "name": "吕天贵",
+     "title": "总经理",
+     "pay": 385500.0,
+     "pay_note": null,
+     "since": "2026-06-15"
+    },
+    {
+     "name": "方合英(代)",
+     "title": "董事会秘书",
+     "pay": null,
+     "pay_note": "未在公司领薪",
+     "since": "2023-08-03"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "603259.SH": {
+   "executives": [
+    {
+     "name": "Ge Li(李革)",
+     "title": "董事长",
+     "pay": 39980000.0,
+     "pay_note": null,
+     "since": "2017-03-01"
+    },
+    {
+     "name": "Ge Li(李革)",
+     "title": "总经理",
+     "pay": 39980000.0,
+     "pay_note": null,
+     "since": "2017-03-01"
+    },
+    {
+     "name": "韩敏",
+     "title": "董事会秘书",
+     "pay": 1345600.0,
+     "pay_note": null,
+     "since": "2025-07-28"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "603268.SH": {
+   "executives": [
+    {
+     "name": "陈建华",
+     "title": "董事长",
+     "pay": null,
+     "pay_note": "新任",
+     "since": "2025-08-21"
+    },
+    {
+     "name": "陈汉伦",
+     "title": "总经理",
+     "pay": 1520300.0,
+     "pay_note": null,
+     "since": "2025-08-21"
+    },
+    {
+     "name": "徐慧敏",
+     "title": "董事会秘书",
+     "pay": 333200.0,
+     "pay_note": null,
+     "since": "2025-08-22"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "603288.SH": {
+   "executives": [
+    {
+     "name": "程雪",
+     "title": "董事长",
+     "pay": 9962600.0,
+     "pay_note": null,
+     "since": "2024-09-19"
+    },
+    {
+     "name": "管江华",
+     "title": "总经理",
+     "pay": 6553000.0,
+     "pay_note": null,
+     "since": "2024-09-19"
+    },
+    {
+     "name": "柯莹",
+     "title": "董事会秘书",
+     "pay": 1706500.0,
+     "pay_note": null,
+     "since": "2024-11-12"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "603986.SH": {
+   "executives": [
+    {
+     "name": "朱一明",
+     "title": "董事长",
+     "pay": 7532600.0,
+     "pay_note": null,
+     "since": "2024-12-16"
+    },
+    {
+     "name": "何卫",
+     "title": "总经理",
+     "pay": 1592500.0,
+     "pay_note": null,
+     "since": "2018-10-22"
+    },
+    {
+     "name": "谢飞旺",
+     "title": "董事会秘书",
+     "pay": null,
+     "pay_note": "新任",
+     "since": "2026-08-18"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "603993.SH": {
+   "executives": [
+    {
+     "name": "刘建锋",
+     "title": "董事长",
+     "pay": 3619700.0,
+     "pay_note": null,
+     "since": "2025-04-25"
+    },
+    {
+     "name": "彭旭辉",
+     "title": "总经理",
+     "pay": 1369800.0,
+     "pay_note": null,
+     "since": "2025-10-24"
+    },
+    {
+     "name": "徐辉",
+     "title": "董事会秘书",
+     "pay": 2992500.0,
+     "pay_note": null,
+     "since": "2022-10-08"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "688008.SH": {
+   "executives": [
+    {
+     "name": "杨崇和",
+     "title": "董事长",
+     "pay": 13114000.0,
+     "pay_note": null,
+     "since": "2018-10-28"
+    },
+    {
+     "name": "Stephen Kuong-Io Tai",
+     "title": "总经理",
+     "pay": 13121700.0,
+     "pay_note": null,
+     "since": "2018-10-28"
+    },
+    {
+     "name": "傅晓",
+     "title": "董事会秘书",
+     "pay": 2347000.0,
+     "pay_note": null,
+     "since": "2021-09-28"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "688012.SH": {
+   "executives": [
+    {
+     "name": "尹志尧(GERALD ZHEYAO YIN)",
+     "title": "董事长",
+     "pay": 6839600.0,
+     "pay_note": null,
+     "since": "2018-12-20"
+    },
+    {
+     "name": "尹志尧(GERALD ZHEYAO YIN)",
+     "title": "总经理",
+     "pay": 6839600.0,
+     "pay_note": null,
+     "since": "2018-12-20"
+    },
+    {
+     "name": "刘方",
+     "title": "董事会秘书",
+     "pay": 2527500.0,
+     "pay_note": null,
+     "since": "2025-04-17"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "688041.SH": {
+   "executives": [
+    {
+     "name": "历军",
+     "title": "董事长",
+     "pay": null,
+     "pay_note": "新任",
+     "since": "2026-09-28"
+    },
+    {
+     "name": "沙超群",
+     "title": "总经理",
+     "pay": 1809500.0,
+     "pay_note": null,
+     "since": "2020-09-27"
+    },
+    {
+     "name": "徐文超",
+     "title": "董事会秘书",
+     "pay": 1509600.0,
+     "pay_note": null,
+     "since": "2021-08-01"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "688235.SH": {
+   "executives": [
+    {
+     "name": "Xiaobin Wu(吴晓滨)",
+     "title": "总经理",
+     "pay": 14499800.0,
+     "pay_note": null,
+     "since": "2018-04-01"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "688256.SH": {
+   "executives": [
+    {
+     "name": "陈天石",
+     "title": "董事长",
+     "pay": 1464200.0,
+     "pay_note": null,
+     "since": "2019-11-29"
+    },
+    {
+     "name": "陈天石",
+     "title": "总经理",
+     "pay": 1464200.0,
+     "pay_note": null,
+     "since": "2019-11-29"
+    },
+    {
+     "name": "叶淏尹",
+     "title": "董事会秘书",
+     "pay": 1755400.0,
+     "pay_note": null,
+     "since": "2019-11-29"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "688347.SH": {
+   "executives": [
+    {
+     "name": "白鹏",
+     "title": "总经理",
+     "pay": null,
+     "pay_note": "新任",
+     "since": "2025-01-01"
+    },
+    {
+     "name": "Daniel Yu-Cheng Wang(王鼎)",
+     "title": "董事会秘书",
+     "pay": null,
+     "pay_note": "未在公司领薪",
+     "since": "2012-02-01"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "688795.SH": {
+   "executives": [
+    {
+     "name": "张建中",
+     "title": "董事长",
+     "pay": 7200000.0,
+     "pay_note": null,
+     "since": "2024-10-25"
+    },
+    {
+     "name": "张建中",
+     "title": "总经理",
+     "pay": 7200000.0,
+     "pay_note": null,
+     "since": "2024-10-25"
+    },
+    {
+     "name": "薛岩松(Xue Yansong)",
+     "title": "董事会秘书",
+     "pay": 1999700.0,
+     "pay_note": null,
+     "since": "2024-10-25"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "688801.SH": {
+   "executives": [
+    {
+     "name": "ZHAO LIDONG",
+     "title": "董事长",
+     "pay": null,
+     "pay_note": "未在公司领薪",
+     "since": "2023-12-12"
+    },
+    {
+     "name": "张亚林",
+     "title": "总经理",
+     "pay": null,
+     "pay_note": "未在公司领薪",
+     "since": "2023-12-12"
+    },
+    {
+     "name": "ZHAO LIDONG",
+     "title": "董事会秘书",
+     "pay": null,
+     "pay_note": "未在公司领薪",
+     "since": "2023-12-12"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "688802.SH": {
+   "executives": [
+    {
+     "name": "陈维良",
+     "title": "董事长",
+     "pay": 3203300.0,
+     "pay_note": null,
+     "since": "2024-12-27"
+    },
+    {
+     "name": "陈维良",
+     "title": "总经理",
+     "pay": 3203300.0,
+     "pay_note": null,
+     "since": "2024-12-27"
+    },
+    {
+     "name": "魏忠伟",
+     "title": "董事会秘书",
+     "pay": 1478100.0,
+     "pay_note": null,
+     "since": "2024-12-27"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "688825.SH": {
+   "executives": [
+    {
+     "name": "朱一明",
+     "title": "董事长",
+     "pay": null,
+     "pay_note": "新任",
+     "since": "2026-06-16"
+    },
+    {
+     "name": "赵纶",
+     "title": "总经理",
+     "pay": null,
+     "pay_note": "未在公司领薪",
+     "since": "2022-10-01"
+    },
+    {
+     "name": "袁园",
+     "title": "董事会秘书",
+     "pay": null,
+     "pay_note": "未在公司领薪",
+     "since": "2023-06-26"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "688836.SH": {
+   "executives": [
+    {
+     "name": "王兴兴",
+     "title": "董事长",
+     "pay": 2385800.0,
+     "pay_note": null,
+     "since": "2025-05-16"
+    },
+    {
+     "name": "王兴兴",
+     "title": "总经理",
+     "pay": 2385800.0,
+     "pay_note": null,
+     "since": "2025-05-16"
+    },
+    {
+     "name": "傅风华",
+     "title": "董事会秘书",
+     "pay": 701600.0,
+     "pay_note": null,
+     "since": "2025-07-01"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  },
+  "688981.SH": {
+   "executives": [
+    {
+     "name": "刘训峰",
+     "title": "董事长",
+     "pay": null,
+     "pay_note": "未在公司领薪",
+     "since": "2023-05-11"
+    },
+    {
+     "name": "郭光莉",
+     "title": "董事会秘书",
+     "pay": 1797000.0,
+     "pay_note": null,
+     "since": "2020-11-12"
+    }
+   ],
+   "fetched_at": "2026-10-30T01:29:15+08:00"
+  }
+ }
+}

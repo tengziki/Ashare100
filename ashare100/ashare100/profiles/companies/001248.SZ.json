@@ -9,14 +9,15 @@
   "name_en": "China Resources New Energy Holdings Company Limited",
   "former_names": [],
   "industry_sw1": "公用事业",
-  "industry_sw2": null,
+  "industry_sw2": "电力",
   "list_date": "2026-07-02",
+  "found_date": "2010-08-26",
   "province": "香港",
   "city": null,
   "website": "www.cr-newenergy.com",
   "chairman": "史宝峰",
   "employees": 5853,
-  "business_summary": "风力发电、太阳能发电的电力销售。",
+  "business_summary": "投资、开发、运营和管理风力、太阳能发电站,主要产品为电力",
   "profile": "华润新能源控股有限公司的主营业务为投资、开发、运营和管理风力、太阳能发电站,主要产品为电力。历经十余年发展,华润新能源已成为中国领先的大型新能源发电运营商,业务遍布国内31个省(自治区、直辖市、特别行政区)。截至2025年底,华润新能源并网装机规模达到4,159万千瓦,其中风力发电2,763万千瓦,太阳能发电1,396万千瓦。",
   "st_status": null,
   "audit_opinion": null
@@ -41,7 +42,8 @@
     "debt_ratio": 79.55,
     "total_liab": 95328437456.0,
     "total_assets": 119834616538,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": 10850044992.1
    },
    {
     "fiscal_year": 2022,
@@ -60,7 +62,8 @@
     "debt_ratio": 49.55,
     "total_liab": 68824936045.0,
     "total_assets": 138899971837,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": 16309345593.54
    },
    {
     "fiscal_year": 2023,
@@ -79,7 +82,8 @@
     "debt_ratio": 54.8,
     "total_liab": 95252938476.0,
     "total_assets": 173819230796,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": 13722089222.48
    },
    {
     "fiscal_year": 2024,
@@ -98,7 +102,8 @@
     "debt_ratio": 57.5,
     "total_liab": 118146869113.0,
     "total_assets": 205472815849,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": 15719599157.9
    },
    {
     "fiscal_year": 2025,
@@ -117,22 +122,24 @@
     "debt_ratio": 59.98,
     "total_liab": 141112090086.0,
     "total_assets": 235265238556,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": 20005910972.75
    }
   ],
   "latest": {
-   "report_period": "2026-06-30",
-   "report_type": "2026年中报",
-   "revenue": 12631997493.0,
-   "revenue_yoy": -2.94,
-   "net_profit": 3312374308.0,
-   "net_profit_yoy": -29.55,
-   "net_profit_deducted": 3249910320.0,
-   "gross_margin": 47.39,
-   "net_margin": 27.35,
-   "eps": 0.3,
-   "roe": 3.57,
-   "debt_ratio": 54.88
+   "report_period": "2026-09-30",
+   "report_type": "2026年三季报",
+   "revenue": 18627470622.0,
+   "revenue_yoy": 0.43,
+   "net_profit": 4673867732.0,
+   "net_profit_yoy": -25.6,
+   "net_profit_deducted": 4583721009.0,
+   "gross_margin": 45.08,
+   "net_margin": 26.24,
+   "eps": 0.4,
+   "roe": 4.64,
+   "debt_ratio": 50.53,
+   "ocf": 16317898757.46
   },
   "derived": {
    "revenue_cagr_3y": 7.98,
@@ -148,114 +155,79 @@
   "top10": [
    {
     "rank": 1,
-    "name": "华润电力控股有限公司",
+    "name": "華潤電力控股有限公司",
     "hold_num": 10898269860.0,
     "hold_ratio": 81.81,
-    "hold_num_change": null
+    "hold_num_change": 0
    },
    {
     "rank": 2,
     "name": "蜀道(四川)创新投资发展有限公司",
     "hold_num": 116491192.0,
     "hold_ratio": 0.87,
-    "hold_num_change": null
+    "hold_num_change": 0
    },
    {
     "rank": 3,
     "name": "内蒙古蒙能元启产业投资有限公司",
     "hold_num": 88250900.0,
     "hold_ratio": 0.66,
-    "hold_num_change": null
+    "hold_num_change": 0
    },
    {
     "rank": 4,
     "name": "中国诚通控股集团有限公司",
     "hold_num": 76248778.0,
     "hold_ratio": 0.57,
-    "hold_num_change": null
+    "hold_num_change": 0
    },
    {
     "rank": 5,
     "name": "广东恒健资产管理有限公司",
     "hold_num": 70600720.0,
     "hold_ratio": 0.53,
-    "hold_num_change": null
+    "hold_num_change": 0
    },
    {
     "rank": 6,
-    "name": "中国人寿保险股份有限公司",
+    "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
     "hold_num": 61775630.0,
     "hold_ratio": 0.46,
-    "hold_num_change": null
+    "hold_num_change": 0
    },
    {
     "rank": 7,
     "name": "陕西投资集团有限公司",
     "hold_num": 52950540.0,
     "hold_ratio": 0.4,
-    "hold_num_change": null
-   },
-   {
-    "rank": 8,
-    "name": "甘肃电投资本管理有限责任公司",
-    "hold_num": 44125450.0,
-    "hold_ratio": 0.33,
-    "hold_num_change": null
-   },
-   {
-    "rank": 8,
-    "name": "国风投创新投资基金股份有限公司",
-    "hold_num": 44125450.0,
-    "hold_ratio": 0.33,
-    "hold_num_change": null
+    "hold_num_change": 0
    },
    {
     "rank": 8,
     "name": "国新发展投资管理有限公司",
     "hold_num": 44125450.0,
     "hold_ratio": 0.33,
-    "hold_num_change": null
+    "hold_num_change": 0
    },
    {
     "rank": 8,
     "name": "深圳市燃气集团股份有限公司",
     "hold_num": 44125450.0,
     "hold_ratio": 0.33,
-    "hold_num_change": null
-   },
-   {
-    "rank": 8,
-    "name": "新疆投资发展(集团)有限责任公司",
-    "hold_num": 44125450.0,
-    "hold_ratio": 0.33,
-    "hold_num_change": null
-   },
-   {
-    "rank": 8,
-    "name": "中国保险投资基金(有限合伙)",
-    "hold_num": 44125450.0,
-    "hold_ratio": 0.33,
-    "hold_num_change": null
-   },
-   {
-    "rank": 8,
-    "name": "中国人民健康保险股份有限公司",
-    "hold_num": 44125450.0,
-    "hold_ratio": 0.33,
-    "hold_num_change": null
+    "hold_num_change": 0
    },
    {
     "rank": 8,
     "name": "中央企业乡村产业投资基金股份有限公司",
     "hold_num": 44125450.0,
     "hold_ratio": 0.33,
-    "hold_num_change": null
+    "hold_num_change": 0
    }
   ],
-  "top10_date": "2026-07-31",
-  "holder_num": 1634154.0,
-  "holder_num_change_pct": 0.0,
-  "holder_num_date": "2026-07-02",
+  "top10_date": "2026-09-30",
+  "holder_num": 361703.0,
+  "holder_num_change_pct": -77.87,
+  "holder_num_date": "2026-09-30",
   "inst_hold_ratio": null,
   "northbound_ratio": null,
   "executives": [
@@ -329,18 +301,220 @@
  },
  "peers": {
   "peer_codes": [],
-  "segments": []
+  "segments": [
+   {
+    "name": "风力发电",
+    "revenue": 18479877200.0,
+    "ratio": 80.67,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "太阳能发电",
+    "revenue": 3950939000.0,
+    "ratio": 17.25,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 478235842.44,
+    "ratio": 2.09,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "华东",
+    "revenue": 5469903000.0,
+    "ratio": 23.88,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "华中",
+    "revenue": 4456415300.0,
+    "ratio": 19.45,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "华北",
+    "revenue": 3658936500.0,
+    "ratio": 15.97,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "华南",
+    "revenue": 2999638600.0,
+    "ratio": 13.09,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "西北",
+    "revenue": 2983739900.0,
+    "ratio": 13.02,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他",
+    "revenue": 2862182800.0,
+    "ratio": 12.49,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 478235842.44,
+    "ratio": 2.09,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
  },
  "announcements": {
-  "items": [],
-  "count_12m": null
+  "items": [
+   {
+    "title": "关于聘请会计师事务所的公告",
+    "date": "2026-10-29",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636512.PDF"
+   },
+   {
+    "title": "关于董事辞任、选举董事及调整董事会下属委员会成员的公告",
+    "date": "2026-10-29",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636511.PDF"
+   },
+   {
+    "title": "关于召开2026年第一次临时股东会的通知",
+    "date": "2026-10-29",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636510.PDF"
+   },
+   {
+    "title": "2026年第八次董事会决议公告",
+    "date": "2026-10-29",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636509.PDF"
+   },
+   {
+    "title": "2026年三季度报告",
+    "date": "2026-10-29",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636507.PDF"
+   },
+   {
+    "title": "华润新能源控股有限公司关于2026年9月售电量的自愿性信息披露公告",
+    "date": "2026-10-16",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225606740.PDF"
+   },
+   {
+    "title": "华润新能源控股有限公司关于2026年8月售电量的自愿性信息披露公告",
+    "date": "2026-09-18",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-18/1225570066.PDF"
+   },
+   {
+    "title": "华润新能源控股有限公司2026年半年度财务报告",
+    "date": "2026-08-26",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505060.PDF"
+   },
+   {
+    "title": "关于聘任副总经理的公告",
+    "date": "2026-08-26",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505059.PDF"
+   },
+   {
+    "title": "中信证券股份有限公司关于华润新能源控股有限公司向控股股东申请借款展期暨关联交易的核查意见",
+    "date": "2026-08-26",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505058.PDF"
+   },
+   {
+    "title": "中国国际金融股份有限公司关于华润新能源控股有限公司向控股股东申请借款展期暨关联交易的核查意见",
+    "date": "2026-08-26",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505057.PDF"
+   },
+   {
+    "title": "关于向控股股东申请借款展期暨关联交易公告",
+    "date": "2026-08-26",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505056.PDF"
+   },
+   {
+    "title": "2026年第七次董事会决议公告",
+    "date": "2026-08-26",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505055.PDF"
+   },
+   {
+    "title": "关于2026年半年度募集资金存放、管理与使用情况的专项报告",
+    "date": "2026-08-26",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505054.PDF"
+   },
+   {
+    "title": "华润新能源控股有限公司2026年半年度非经营性资金占用及其他关联资金往来情况汇总表",
+    "date": "2026-08-26",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505053.PDF"
+   },
+   {
+    "title": "2026年半年度报告",
+    "date": "2026-08-26",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505052.PDF"
+   },
+   {
+    "title": "2026年半年度报告摘要",
+    "date": "2026-08-26",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505051.PDF"
+   },
+   {
+    "title": "华润新能源控股有限公司关于2026年7月售电量的自愿性信息披露公告",
+    "date": "2026-08-18",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-18/1225476859.PDF"
+   },
+   {
+    "title": "首次公开发行股票并在主板上市超额配售选择权实施结果公告",
+    "date": "2026-08-07",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-07/1225462294.PDF"
+   },
+   {
+    "title": "中国国际金融股份有限公司关于公司首次公开发行股票并在主板上市超额配售选择权实施情况的核查意见",
+    "date": "2026-08-04",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-04/1225453840.PDF"
+   }
+  ],
+  "count_12m": 68
  },
  "qa": {
   "items": []
  },
  "_meta": {
   "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
-  "fetched_at": "2026-10-27T16:28:45+08:00",
+  "fetched_at": "2026-10-30T00:20:12+08:00",
   "errors": {}
+ },
+ "_extras": {
+  "announcements": {
+   "fetched_at": "2026-10-30T00:03:45+08:00",
+   "error": null
+  },
+  "qa": {
+   "fetched_at": null,
+   "error": "Unsupported 互动易需要巨潮 orgId"
+  }
  }
 }

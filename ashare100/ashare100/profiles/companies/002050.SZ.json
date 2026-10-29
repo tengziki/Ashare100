@@ -10,15 +10,16 @@
   "former_names": [
    "三花股份→G三花→三花股份"
   ],
-  "industry_sw1": "机械设备",
-  "industry_sw2": null,
+  "industry_sw1": "家用电器",
+  "industry_sw2": "家电零部件Ⅱ",
   "list_date": "2005-06-07",
+  "found_date": "1994-09-10",
   "province": "浙江",
   "city": null,
   "website": "www.zjshc.com",
   "chairman": "张亚波",
   "employees": 19090,
-  "business_summary": "家用电器研发;制冷、空调设备制造;家用电器制造;普通阀门和旋塞制造(不含特种设备制造);通用零部件制造;特种设备制造;泵及真空设备制造;电机制造;风机、风扇制造…",
+  "business_summary": "家用电器研发",
   "profile": "浙江三花智能控制股份有限公司坚持“专注领先、创新超越”的经营战略,以热泵技术和热管理系统产品的研究与应用为核心,专注于冷热转换、温度智能控制的环境热管理解决方案开发,致力于建筑暖通、电器设备和新能源汽车热管理领域的专业化经营。公司业务主要分为制冷空调电器零部件业务和汽车零部件业务。制冷空调电器零部件业务致力于建筑暖通、电器设备专业化经营,主要产品包括四通换向阀、电子膨胀阀、电磁阀、微通道换热器、Omega泵等,广泛应用于空调、冰箱、冷链物流、洗碗机等领域;汽车零部件业务专注于汽车热管理领域的深入研究,主要产品包括冷媒阀、换热器、泵类、水阀,以及新能源车热管理集成组件等,广泛应用于新能源汽车和传统燃油车。",
   "st_status": null,
   "audit_opinion": null
@@ -43,7 +44,8 @@
     "debt_ratio": 52.36,
     "total_liab": 12367376151.0,
     "total_assets": 23619893337,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": 1555819103.29
    },
    {
     "fiscal_year": 2022,
@@ -62,7 +64,8 @@
     "debt_ratio": 53.08,
     "total_liab": 14841913965.0,
     "total_assets": 27961405360,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": 2509666490.56
    },
    {
     "fiscal_year": 2023,
@@ -81,7 +84,8 @@
     "debt_ratio": 43.36,
     "total_liab": 13826877149.0,
     "total_assets": 31888554310,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": 3723964354.63
    },
    {
     "fiscal_year": 2024,
@@ -100,7 +104,8 @@
     "debt_ratio": 46.31,
     "total_liab": 16835104903.0,
     "total_assets": 36353066083,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": 4366630948.36
    },
    {
     "fiscal_year": 2025,
@@ -119,22 +124,24 @@
     "debt_ratio": 35.15,
     "total_liab": 17365901101.0,
     "total_assets": 49405124043,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": 5090762717.98
    }
   ],
   "latest": {
-   "report_period": "2026-06-30",
-   "report_type": "2026年中报",
-   "revenue": 16899972561.0,
-   "revenue_yoy": 3.92,
-   "net_profit": 2044064626.0,
-   "net_profit_yoy": -3.12,
-   "net_profit_deducted": 2147318645.0,
-   "gross_margin": 28.06,
-   "net_margin": 12.32,
-   "eps": 0.49,
-   "roe": 6.25,
-   "debt_ratio": 36.22
+   "report_period": "2026-09-30",
+   "report_type": "2026年三季报",
+   "revenue": 25273510066.0,
+   "revenue_yoy": 5.18,
+   "net_profit": 3067294321.0,
+   "net_profit_yoy": -5.4,
+   "net_profit_deducted": 3165788315.0,
+   "gross_margin": 28.34,
+   "net_margin": 12.41,
+   "eps": 0.73,
+   "roe": 9.38,
+   "debt_ratio": 35.29,
+   "ocf": 3748978408.12
   },
   "derived": {
    "revenue_cagr_3y": 13.26,
@@ -153,78 +160,78 @@
     "name": "三花控股集团有限公司",
     "hold_num": 948487077.0,
     "hold_ratio": 22.54,
-    "hold_num_change": null
+    "hold_num_change": 0
    },
    {
     "rank": 2,
     "name": "浙江三花绿能实业集团有限公司",
     "hold_num": 664375189.0,
     "hold_ratio": 15.79,
-    "hold_num_change": null
+    "hold_num_change": 0
    },
    {
     "rank": 3,
     "name": "HKSCC NOMINEES LIMITED",
-    "hold_num": 476521788.0,
+    "hold_num": 476521888.0,
     "hold_ratio": 11.32,
-    "hold_num_change": -10000.0
+    "hold_num_change": 100.0
    },
    {
     "rank": 4,
     "name": "香港中央结算有限公司",
-    "hold_num": 89520884.0,
-    "hold_ratio": 2.13,
-    "hold_num_change": -7160549.0
+    "hold_num": 81040230.0,
+    "hold_ratio": 1.93,
+    "hold_num_change": -8480654.0
    },
    {
     "rank": 5,
     "name": "兴业银行股份有限公司-华夏中证机器人交易型开放式指数证券投资基金",
-    "hold_num": 39789604.0,
+    "hold_num": 40169704.0,
     "hold_ratio": 0.95,
-    "hold_num_change": 6464450.0
+    "hold_num_change": 380100.0
    },
    {
     "rank": 6,
     "name": "张亚波",
     "hold_num": 29268200.0,
     "hold_ratio": 0.7,
-    "hold_num_change": null
+    "hold_num_change": 0
    },
    {
     "rank": 7,
-    "name": "国泰海通证券股份有限公司-天弘中证机器人交易型开放式指数证券投资基金",
-    "hold_num": 13719223.0,
-    "hold_ratio": 0.33,
-    "hold_num_change": 1742600.0
-   },
-   {
-    "rank": 8,
-    "name": "中国建设银行股份有限公司-易方达国证机器人产业交易型开放式指数证券投资基金",
-    "hold_num": 13393018.0,
-    "hold_ratio": 0.32,
-    "hold_num_change": 3124995.0
-   },
-   {
-    "rank": 9,
-    "name": "中国建设银行股份有限公司-永赢先进制造智选混合型发起式证券投资基金",
-    "hold_num": 13368306.0,
-    "hold_ratio": 0.32,
+    "name": "全国社保基金一零四组合",
+    "hold_num": 21007530.0,
+    "hold_ratio": 0.5,
     "hold_num_change": null
    },
    {
-    "rank": 10,
-    "name": "中国工商银行股份有限公司-广发国证新能源车电池交易型开放式指数证券投资基金",
-    "hold_num": 13224816.0,
+    "rank": 8,
+    "name": "国泰海通证券股份有限公司-天弘中证机器人交易型开放式指数证券投资基金",
+    "hold_num": 13951030.0,
+    "hold_ratio": 0.33,
+    "hold_num_change": 231807.0
+   },
+   {
+    "rank": 9,
+    "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+    "hold_num": 12874572.0,
     "hold_ratio": 0.31,
-    "hold_num_change": -744400.0
+    "hold_num_change": 681400.0
+   },
+   {
+    "rank": 10,
+    "name": "中国建设银行股份有限公司-易方达国证机器人产业交易型开放式指数证券投资基金",
+    "hold_num": 12550890.0,
+    "hold_ratio": 0.3,
+    "hold_num_change": -842128.0
    }
   ],
-  "top10_date": "2026-07-27",
-  "holder_num": 627589.0,
-  "holder_num_change_pct": -6.99,
-  "holder_num_date": "2026-06-30",
+  "top10_date": "2026-09-30",
+  "holder_num": 585065.0,
+  "holder_num_change_pct": -6.78,
+  "holder_num_date": "2026-09-30",
   "inst_hold_ratio": null,
-  "northbound_ratio": 2.13,
+  "northbound_ratio": 1.93,
   "executives": [
    {
     "name": "张亚波",
@@ -296,18 +303,178 @@
  },
  "peers": {
   "peer_codes": [],
-  "segments": []
+  "segments": [
+   {
+    "name": "制冷空调电器零部件",
+    "revenue": 18584743718.09,
+    "ratio": 59.93,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "汽车零部件",
+    "revenue": 12427000792.18,
+    "ratio": 40.07,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "国内销售",
+    "revenue": 17688255578.87,
+    "ratio": 57.04,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "国外销售",
+    "revenue": 13323488931.4,
+    "ratio": 42.96,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
  },
  "announcements": {
-  "items": [],
-  "count_12m": null
+  "items": [
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-10-30",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225645107.PDF"
+   },
+   {
+    "title": "关于调整公司2026年度日常关联交易预计的公告",
+    "date": "2026-10-29",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225637001.PDF"
+   },
+   {
+    "title": "第八届董事会第二十四次会议决议公告",
+    "date": "2026-10-29",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225637000.PDF"
+   },
+   {
+    "title": "2026年三季度报告",
+    "date": "2026-10-29",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636998.PDF"
+   },
+   {
+    "title": "关于变更公司财务总监的公告",
+    "date": "2026-10-23",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-23/1225615987.PDF"
+   },
+   {
+    "title": "第八届董事会第二十三次临时会议决议公告",
+    "date": "2026-10-23",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-23/1225615986.PDF"
+   },
+   {
+    "title": "H股公告-董事会会议召开日期",
+    "date": "2026-10-16",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607250.PDF"
+   },
+   {
+    "title": "关于回购公司A股股份的进展公告",
+    "date": "2026-10-16",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607208.PDF"
+   },
+   {
+    "title": "H股公告-翌日披露报表",
+    "date": "2026-10-14",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225603806.PDF"
+   },
+   {
+    "title": "H股公告-截至2026年9月30日止之股份发行人的证券变动月报表",
+    "date": "2026-10-09",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597828.PDF"
+   },
+   {
+    "title": "关于回购公司A股股份的进展公告",
+    "date": "2026-10-09",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597549.PDF"
+   },
+   {
+    "title": "北京市中伦律师事务所关于浙江三花智能控制股份有限公司2024年股票增值权激励计划调整行权价格的法律意见书",
+    "date": "2026-09-22",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575624.PDF"
+   },
+   {
+    "title": "董事会薪酬与考核委员会关于公司股权激励相关事项的核查意见",
+    "date": "2026-09-22",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575623.PDF"
+   },
+   {
+    "title": "北京市中伦律师事务所关于浙江三花智能控制股份有限公司2024年限制性股票激励计划调整回购价格的法律意见书",
+    "date": "2026-09-22",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575622.PDF"
+   },
+   {
+    "title": "关于2024年限制性股票激励计划调整回购价格的公告",
+    "date": "2026-09-22",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575621.PDF"
+   },
+   {
+    "title": "关于2024年股票增值权激励计划调整行权价格的公告",
+    "date": "2026-09-22",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575620.PDF"
+   },
+   {
+    "title": "第八届董事会第二十二次临时会议决议公告",
+    "date": "2026-09-22",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575619.PDF"
+   },
+   {
+    "title": "关于调整回购A股股份价格上限的公告",
+    "date": "2026-09-22",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575490.PDF"
+   },
+   {
+    "title": "2026年中期A股权益分派实施公告",
+    "date": "2026-09-22",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575489.PDF"
+   },
+   {
+    "title": "公司章程（2026年9月）",
+    "date": "2026-09-16",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-16/1225566907.PDF"
+   }
+  ],
+  "count_12m": 188
  },
  "qa": {
   "items": []
  },
  "_meta": {
   "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
-  "fetched_at": "2026-10-27T16:28:11+08:00",
+  "fetched_at": "2026-10-30T00:20:40+08:00",
   "errors": {}
+ },
+ "_extras": {
+  "announcements": {
+   "fetched_at": "2026-10-30T00:01:03+08:00",
+   "error": null
+  },
+  "qa": {
+   "fetched_at": null,
+   "error": "Unsupported 互动易需要巨潮 orgId"
+  }
  }
 }

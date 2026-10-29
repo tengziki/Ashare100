@@ -3,6 +3,7 @@
 import struct
 import sys
 import unittest
+from unittest import mock
 from datetime import datetime
 from pathlib import Path
 
@@ -74,6 +75,59 @@ class ExtrasTests(unittest.TestCase):
         self.assertEqual(ex.image_size(ico), 256)  # 0 表示 256
         self.assertEqual(ex.image_size(b'<?xml?><svg viewBox="0 0 1 1"/>'), 1024)
         self.assertEqual(ex.image_size(b"not an image"), 0)
+
+    def test_logo_candidates_include_icon_services(self):
+        vias = [via for _, via in ex.quick_candidates("002050.SZ", "www.zjshc.com")]
+        self.assertEqual(vias, ["google-s2", "duckduckgo"])
+        self.assertEqual(ex.quick_candidates("600519.SH", None)[0][1], "sse-e-avatar")
+
+    def test_sse_requests_are_spaced_but_overlap(self):
+        import threading
+        import time as real_time
+        starts, live, peak = [], [0], [0]
+        lock = threading.Lock()
+
+        class Resp:
+            headers = {}
+            def __enter__(self): return self
+            def __exit__(self, *a): return False
+            def read(self): return b""
+            def geturl(self): return ""
+
+        def slow(req, timeout=20):
+            with lock:
+                starts.append(real_time.monotonic()); live[0] += 1; peak[0] = max(peak[0], live[0])
+            real_time.sleep(0.25)  # 模拟跨境往返，远大于发出间隔
+            with lock:
+                live[0] -= 1
+            return Resp()
+        with mock.patch.object(ex, "SSE_GAP", 0.05), mock.patch.object(ex.urllib.request, "urlopen", slow):
+            ex._sse_last[0] = 0.0
+            ts = [threading.Thread(target=ex.get_bytes, args=(ex.SSE_E + f"x{i}",)) for i in range(6)]
+            t0 = real_time.monotonic()
+            [t.start() for t in ts]; [t.join() for t in ts]
+            elapsed = real_time.monotonic() - t0
+        starts.sort()
+        self.assertTrue(all(b - a >= 0.045 for a, b in zip(starts, starts[1:])))  # 发出间隔不小于 SSE_GAP
+        self.assertEqual(peak[0], 2)  # 最多 2 个同时在途
+        self.assertLess(elapsed, 6 * 0.25)  # 比整条串行（6 × 0.25 秒）快
+
+    def test_irm_retries_after_timeout(self):
+        calls = []
+
+        def flaky(url, data, timeout=20):
+            calls.append(timeout)
+            if len(calls) < 3:
+                raise TimeoutError("The read operation timed out")
+            return {"rows": [], "total": 0}
+        with mock.patch.object(ex, "post", flaky), mock.patch.object(ex.time, "sleep", lambda s: None):
+            self.assertEqual(ex.fetch_irm("002475.SZ", "x")["items"], [])
+        self.assertEqual(calls, [30, 30, 30])
+
+    def test_wide_banner_is_rejected(self):
+        self.assertAlmostEqual(ex.aspect(png(370, 50)), 7.4)
+        self.assertEqual(ex.aspect(png(78, 78)), 1)
+        self.assertLessEqual(ex.aspect(png(128, 100)), ex.MAX_ASPECT)
 
     def test_fill_only_empty_items_and_records_errors_separately(self):
         profile = {"identity": {}, "announcements": {"items": [{"title": "已有"}]}, "qa": {"items": []}, "_meta": {"errors": {}}}

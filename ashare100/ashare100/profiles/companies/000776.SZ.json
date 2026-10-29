@@ -11,14 +11,15 @@
    "延边公路→*ST延路→延边公路→S延边路"
   ],
   "industry_sw1": "非银金融",
-  "industry_sw2": null,
+  "industry_sw2": "证券Ⅱ",
   "list_date": "1997-06-11",
+  "found_date": "1994-01-21",
   "province": "广东",
   "city": null,
   "website": "www.gf.com.cn",
   "chairman": "林传辉",
   "employees": 13713,
-  "business_summary": "证券业务;公募证券投资基金销售;证券公司为期货公司提供中间介绍业务;证券投资基金托管。",
+  "business_summary": "证券业务",
   "profile": "广发证券股份有限公司成立于1991年,是国内首批综合类证券公司,先后于2010年和2015年在深圳证券交易所及香港联合交易所主板上市(股票代码:000776.SZ,1776.HK)。35年来,公司坚持深耕大湾区、布局全国、拓展海外,全业务链布局完备,各项业务均衡发展,主要经营指标始终稳居行业前列,是中国资本市场最具影响力的证券公司之一。广发证券始终坚持“以客户为中心”导向,是专注于中国优质企业及众多有金融产品与服务需求的投资者,拥有行业领先创新能力的资本市场综合服务商。公司拥有投资银行、财富管理、交易及机构和投资管理四大业务板块,具有全业务牌照,能够满足企业、个人及机构投资者、金融机构及政府客户的多样化金融需求,为客户提供全生命周期、全业务链的综合金融服务,并在研究、资产管理、财富管理等多个核心业务领域形成了领先优势。截至2025年末,公司旗下拥有广发期货有限公司、广发控股(香港)有限公司、广发信德投资管理有限公司、广发乾和投资有限公司、广发证券资产管理(广东)有限公司、广发融资租赁(广东)有限公司6家全资子公司,控股广发基金管理有限公司,参股易方达基金管理有限公司(并列第一大股东);展望未来,在金融强国建设的伟大征程中,站在证券行业深度变革的历史关口,公司将一如既往服务强国战略,坚持把功能性放在首位,做好金融“五篇大文章”,以专业能力构建为核心、以全方位综合服务为导向,科学调整业务布局,积极拥抱科技浪潮,主动创新变革,持续提升发展质量和市场竞争力,为资本市场高质量发展贡献广发力量,奋力谱写建设国际一流投行的崭新篇章!",
   "st_status": null,
   "audit_opinion": null
@@ -43,7 +44,8 @@
     "debt_ratio": 79.32,
     "total_liab": 425053981415.0,
     "total_assets": 535872392102,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": -27323417188.58
    },
    {
     "fiscal_year": 2022,
@@ -62,7 +64,8 @@
     "debt_ratio": 79.78,
     "total_liab": 492463441551.0,
     "total_assets": 617276813175,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": 50021766929.68
    },
    {
     "fiscal_year": 2023,
@@ -81,7 +84,8 @@
     "debt_ratio": 79.38,
     "total_liab": 541505969212.0,
     "total_assets": 682169273384,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": -8918975156.38
    },
    {
     "fiscal_year": 2024,
@@ -100,7 +104,8 @@
     "debt_ratio": 79.82,
     "total_liab": 605659726625.0,
     "total_assets": 758781917596,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": 9970809011.81
    },
    {
     "fiscal_year": 2025,
@@ -119,22 +124,24 @@
     "debt_ratio": 83.35,
     "total_liab": 813026402467.0,
     "total_assets": 975436595641,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": -27780960722.97
    }
   ],
   "latest": {
-   "report_period": "2026-06-30",
-   "report_type": "2026年中报",
-   "revenue": 26882915366.0,
-   "revenue_yoy": 74.59,
-   "net_profit": 11651737396.0,
-   "net_profit_yoy": 80.1,
-   "net_profit_deducted": 11904557975.0,
+   "report_period": "2026-09-30",
+   "report_type": "2026年三季报",
+   "revenue": 37055611760.0,
+   "revenue_yoy": 41.63,
+   "net_profit": 16027455392.0,
+   "net_profit_yoy": 46.58,
+   "net_profit_deducted": 16100688512.0,
    "gross_margin": null,
-   "net_margin": 47.5,
-   "eps": 1.43,
-   "roe": 8.08,
-   "debt_ratio": 84.59
+   "net_margin": 46.28,
+   "eps": 1.95,
+   "roe": 10.95,
+   "debt_ratio": 83.58,
+   "ocf": -8137823726.59
   },
   "derived": {
    "revenue_cagr_3y": 12.19,
@@ -151,80 +158,80 @@
    {
     "rank": 1,
     "name": "香港中央结算(代理人)有限公司",
-    "hold_num": 1919509360.0,
-    "hold_ratio": 24.53,
-    "hold_num_change": 15000.0
+    "hold_num": 1882657160.0,
+    "hold_ratio": 24.06,
+    "hold_num_change": -36852200.0
    },
    {
     "rank": 2,
     "name": "吉林敖东药业集团股份有限公司",
     "hold_num": 1252768767.0,
     "hold_ratio": 16.01,
-    "hold_num_change": null
+    "hold_num_change": 0
    },
    {
     "rank": 3,
     "name": "辽宁成大股份有限公司",
-    "hold_num": 1045154088.0,
-    "hold_ratio": 13.36,
-    "hold_num_change": null
+    "hold_num": 970154088.0,
+    "hold_ratio": 12.4,
+    "hold_num_change": -75000000.0
    },
    {
     "rank": 4,
     "name": "中山公用事业集团股份有限公司",
     "hold_num": 686754216.0,
     "hold_ratio": 8.78,
-    "hold_num_change": null
+    "hold_num_change": 0
    },
    {
     "rank": 5,
     "name": "香港中央结算有限公司",
-    "hold_num": 241600475.0,
-    "hold_ratio": 3.09,
-    "hold_num_change": 17565451.0
+    "hold_num": 240096098.0,
+    "hold_ratio": 3.07,
+    "hold_num_change": -1504377.0
    },
    {
     "rank": 6,
     "name": "辽宁成大-中信建投证券-25成大E1担保及信托财产专户",
     "hold_num": 130000000.0,
     "hold_ratio": 1.66,
-    "hold_num_change": null
+    "hold_num_change": 0
    },
    {
     "rank": 7,
-    "name": "全国社保基金一一三组合",
-    "hold_num": 92586989.0,
-    "hold_ratio": 1.18,
-    "hold_num_change": 27154886.0
+    "name": "中国建设银行股份有限公司-国泰中证全指证券公司交易型开放式指数证券投资基金",
+    "hold_num": 98042217.0,
+    "hold_ratio": 1.25,
+    "hold_num_change": 7357476.0
    },
    {
     "rank": 8,
-    "name": "中国建设银行股份有限公司-国泰中证全指证券公司交易型开放式指数证券投资基金",
-    "hold_num": 90684741.0,
-    "hold_ratio": 1.16,
-    "hold_num_change": 4059088.0
+    "name": "全国社保基金一一三组合",
+    "hold_num": 80000089.0,
+    "hold_ratio": 1.02,
+    "hold_num_change": -12586900.0
+   },
+   {
+    "rank": 9,
+    "name": "辽宁成大-中信建投证券-26成大E1担保及信托财产专户",
+    "hold_num": 75000000.0,
+    "hold_ratio": 0.96,
+    "hold_num_change": null
    },
    {
     "rank": 9,
     "name": "辽宁成大-中信建投证券-25成大E2担保及信托财产专户",
     "hold_num": 75000000.0,
     "hold_ratio": 0.96,
-    "hold_num_change": null
-   },
-   {
-    "rank": 10,
-    "name": "基本养老保险基金八零二组合",
-    "hold_num": 64789245.0,
-    "hold_ratio": 0.83,
-    "hold_num_change": null
+    "hold_num_change": 0
    }
   ],
-  "top10_date": "2026-06-30",
-  "holder_num": 139685.0,
-  "holder_num_change_pct": -12.6,
-  "holder_num_date": "2026-06-30",
+  "top10_date": "2026-09-30",
+  "holder_num": 156693.0,
+  "holder_num_change_pct": 12.18,
+  "holder_num_date": "2026-09-30",
   "inst_hold_ratio": null,
-  "northbound_ratio": 3.09,
+  "northbound_ratio": 3.07,
   "executives": [
    {
     "name": "林传辉",
@@ -296,7 +303,99 @@
  },
  "peers": {
   "peer_codes": [],
-  "segments": []
+  "segments": [
+   {
+    "name": "财富管理业务",
+    "revenue": 14068546632.77,
+    "ratio": 39.64,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "交易及机构业务",
+    "revenue": 11169347179.91,
+    "ratio": 31.47,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "投资管理业务",
+    "revenue": 9243994334.09,
+    "ratio": 26.04,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "投资银行业务",
+    "revenue": 896381361.25,
+    "ratio": 2.53,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他",
+    "revenue": 114513537.18,
+    "ratio": 0.32,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "总部",
+    "revenue": 14296691525.24,
+    "ratio": 40.28,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "境内子公司",
+    "revenue": 10352002524.33,
+    "ratio": 29.17,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "广东",
+    "revenue": 4639948367.68,
+    "ratio": 13.07,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "境外子公司(含港澳)",
+    "revenue": 2698811929.32,
+    "ratio": 7.6,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "上海",
+    "revenue": 636929869.81,
+    "ratio": 1.79,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "河北",
+    "revenue": 460404844.45,
+    "ratio": 1.3,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "湖北",
+    "revenue": 453149964.48,
+    "ratio": 1.28,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其中:深圳",
+    "revenue": 353873072.01,
+    "ratio": 1.0,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
  },
  "announcements": {
   "items": [],
@@ -307,7 +406,7 @@
  },
  "_meta": {
   "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
-  "fetched_at": "2026-10-27T16:27:53+08:00",
+  "fetched_at": "2026-10-30T00:19:50+08:00",
   "errors": {}
  }
 }

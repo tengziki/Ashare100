@@ -1,0 +1,50 @@
+name: Deploy site on push
+
+# 推送网页或数据改动到 main 后立即发布，不必等下一次数据任务。
+# 只发布仓库里现有的 web 目录（含已提交的 live 数据），不抓行情、不改数据。
+# 数据任务用 GITHUB_TOKEN 提交，不会触发本工作流，不会重复发布。
+on:
+  push:
+    branches: [main]
+    paths:
+      - "ashare100/ashare100/web/**"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages-deploy-on-push
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate site bundle
+        run: python scripts/validate_pages_bundle.py
+
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: ashare100/ashare100/web
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4

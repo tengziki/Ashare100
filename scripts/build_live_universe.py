@@ -231,6 +231,9 @@ def board_of(code):
     return "主板"
 
 
+WATCH_QUOTE = ("price", "change_pct", "amount", "turnover_rate", "pe_ttm", "pb", "float_mv", "quote_at")
+
+
 def build_snapshot(codes, quotes, old_members, known_profiles, slot, now, bases=None):
     if len(codes) != len(set(codes)) or set(quotes) != set(codes):
         raise ValueError(f"行情不完整：{len(quotes)}/{len(codes)}")
@@ -254,7 +257,9 @@ def build_snapshot(codes, quotes, old_members, known_profiles, slot, now, bases=
             raise ValueError(f"收盘行情尚未到齐：最近 {latest.time()}，14:55 后 {fresh}/{len(timestamps)}")
     ranked_all = sorted(quotes.values(), key=lambda row: (-row["total_mv"], row["code"]))
     members = ranked_all[:100]
-    watchlist = [{"code": r["code"], "name": r["name"], "rank": i, "total_mv": r["total_mv"]}
+    # 前 10 名临界公司带当日行情（首页临界区与临界公司页直接用），其余只记名次与市值
+    watchlist = [{"code": r["code"], "name": r["name"], "rank": i, "total_mv": r["total_mv"],
+                  **({k: r.get(k) for k in WATCH_QUOTE} if i <= 110 else {})}
                  for i, r in enumerate(ranked_all[100:150], 101)]
     if bases is None:
         legacy = {"snapshot": None, "label": "上一版", "ranked": [{"code": c, "name": None, "rank": i} for i, c in enumerate(old_members, 1)]}
@@ -301,6 +306,34 @@ def atomic_json(path, doc):
     temp = path.with_name(path.name + ".tmp")
     temp.write_text(json.dumps(doc, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     os.replace(temp, path)
+
+
+SNAPSHOT_KEEP = 30
+
+
+def prune_snapshots(output_dir, keep=SNAPSHOT_KEEP):
+    """快照只保留：最近 keep 份、当前快照及其比较基准、最近 5 个交易日的收盘确认快照；
+    更早的删除（git 历史里仍可找回）。页面只读当前快照与其基准，不受影响。返回删除的文件名。"""
+    folder = output_dir / "snapshots"
+    files = sorted(folder.glob("*.json"))
+    manifest = json.loads((output_dir / "manifest.json").read_text(encoding="utf-8"))
+    current = json.loads((output_dir / manifest["snapshot"]).read_text(encoding="utf-8"))
+    protect = {Path(manifest["snapshot"]).name}
+    for vs in (current.get("changes") or {}).values():
+        if isinstance(vs, dict) and vs.get("base_snapshot"):
+            protect.add(Path(vs["base_snapshot"]).name)
+    # 最近 5 个交易日各自最后一份收盘确认快照（load_bases 找「上一交易日收盘」基准用，长假后也能找到）
+    last_close = {}
+    for path in files:
+        meta = json.loads(path.read_text(encoding="utf-8")).get("meta", {})
+        if meta.get("ranking_status") == "close_confirmed":
+            last_close[meta.get("quote_date")] = path.name
+    protect |= {name for _, name in sorted(last_close.items())[-5:]}
+    protect |= {f.name for f in files[-keep:]}
+    removed = [f.name for f in files if f.name not in protect]
+    for name in removed:
+        (folder / name).unlink()
+    return removed
 
 
 def publish(snapshot, output_dir, list_last_modified):
@@ -376,13 +409,28 @@ def main():
         ranked = sorted(quotes.values(), key=lambda r: (-r["total_mv"], r["code"]))
         now_ranks = {r["code"]: (i, r["total_mv"]) for i, r in enumerate(ranked, 1)}
         archived = archive_exited.archive(snapshot, base_doc, base["label"], args.output_dir, now_ranks=now_ranks)
+        removed = prune_snapshots(args.output_dir)
+        if removed:
+            print(f"清理旧快照 {len(removed)} 份")
         n, problems = enrich_company.prefetch_watchlist(snapshot, known, industry_map)
+        enrich_company.write_watch_docs(snapshot, quotes, args.output_dir, profiles_store.load_verified())
         enrich_profiles.save_map(industry_map)
         profile_problems += problems
         print(f"历史档 {len(archived)} 家；临界区预补档 {n} 家" + (f"，问题：{'；'.join(problems)}" if problems else ""))
     except Exception as exc:  # 榜单已发布：附属任务失败只记日志，退出码保持 0
         profile_problems.append(f"历史档/预补档跳过：{type(exc).__name__} {exc}")
         print(f"历史档/预补档跳过：{type(exc).__name__} {exc}", file=sys.stderr)
+    try:
+        # 自动复核：与巨潮年报摘要交叉核对，通过的转为已核实档案（页面标「自动复核」），不通过的原因进数据状态
+        import auto_review
+        pending = [r["code"] for r in snapshot["members"] if r["code"] in snapshot.get("pending_profiles", {})]
+        promoted, problems = auto_review.run(pending)
+        profile_problems += problems
+        if promoted:
+            print(f"自动复核转正：{'、'.join(promoted)}")
+    except Exception as exc:
+        profile_problems.append(f"自动复核跳过：{type(exc).__name__} {exc}")
+        print(f"自动复核跳过：{type(exc).__name__} {exc}", file=sys.stderr)
     try:
         import build_profile_bundle
         meta = build_profile_bundle.run(args.output_dir)["meta"]

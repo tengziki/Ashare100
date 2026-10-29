@@ -109,5 +109,31 @@ class DynamicUniverseTests(unittest.TestCase):
             live.build_snapshot(self.codes, self.quotes, self.old, set(), "close", self.now)
 
 
+class SnapshotRetentionTests(unittest.TestCase):
+    def test_keeps_recent_current_bases_and_last_closes(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            out = Path(tmp)
+            (out / "snapshots").mkdir()
+            names = []
+            for day in range(1, 11):  # 10 个交易日，每天盘中一份 + 收盘一份
+                for slot, status in (("a", "provisional"), ("b", "close_confirmed")):
+                    name = f"202610{day:02d}T0{slot}.json"
+                    meta = {"quote_date": f"2026-10-{day:02d}", "ranking_status": status}
+                    (out / "snapshots" / name).write_text(json.dumps({"meta": meta, "changes": {}}), encoding="utf-8")
+                    names.append(name)
+            current = names[-1]
+            doc = {"meta": {}, "changes": {"vs_prev_close": {"base_snapshot": "snapshots/" + names[0]}}}
+            (out / "snapshots" / current).write_text(json.dumps({**doc, "meta": {"quote_date": "2026-10-10", "ranking_status": "close_confirmed"}}), encoding="utf-8")
+            (out / "manifest.json").write_text(json.dumps({"snapshot": "snapshots/" + current}), encoding="utf-8")
+            removed = live.prune_snapshots(out, keep=4)
+            left = sorted(f.name for f in (out / "snapshots").iterdir())
+            self.assertIn(names[0], left)  # 当前快照引用的比较基准
+            self.assertTrue(set(names[-4:]) <= set(left))  # 最近 4 份
+            closes = [n for n in names if n.endswith("b.json")]
+            self.assertTrue(set(closes[-5:]) <= set(left))  # 最近 5 个交易日的收盘
+            self.assertEqual(len(left) + len(removed), 20)
+            self.assertNotIn(names[2], left)
+
+
 if __name__ == "__main__":
     unittest.main()

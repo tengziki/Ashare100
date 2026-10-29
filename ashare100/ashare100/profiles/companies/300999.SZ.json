@@ -9,7 +9,7 @@
   "name_en": "Yihai Kerry Arawana Holdings Co., Ltd",
   "former_names": [],
   "industry_sw1": "农林牧渔",
-  "industry_sw2": null,
+  "industry_sw2": "农产品加工",
   "list_date": "2020-10-15",
   "found_date": "2005-06-17",
   "province": "上海",
@@ -17,7 +17,7 @@
   "website": "www.yihaikerry.net.cn",
   "chairman": "Kuok Khoon Hong(郭孔丰)",
   "employees": 36565,
-  "business_summary": "(一)从事食用和工业用动植物油脂、油料、及其它们的副产品和深加工产品、饲料用油脂、饲料及添加剂、包装材料、日用化工合成洗涤剂和相关技术的进出口、批发、佣金代理(…",
+  "business_summary": "从事食用和工业用动植物油脂、油料、及其它们的副产品和深加工产品、饲料用油脂、饲料…",
   "profile": "益海嘉里金龙鱼食品集团股份有限公司是中国重要的农产品和食品加工企业,创始人为著名爱国华侨郭鹤年先生和他的侄子郭孔丰先生。公司主要涉足油籽压榨、油脂精炼、油脂灌装、专用油脂、油脂科技、水稻循环经济、玉米、小麦、大豆加工及其延伸产业链、食品原辅料、粮油科技研发、中央厨房、大健康产品等产业。益海嘉里金龙鱼旗下拥有“金龙鱼”“欧丽薇兰”“胡姬花”“香满园”“金龙鱼丰益堂”“海皇”“金味”“丰苑”“锐龙”“洁劲100”等知名品牌,建立了覆盖零售、餐饮、食品工业等全渠道的营销网络,产品涵盖食用油、大米、面粉及挂面、调味品、专用油脂、食品原辅料等家庭、餐饮及食品工业用厨房食品;豆粕、麸皮、米糠粕等饲料原料;以棕榈油等油脂为原料生产的油脂基础化学品、油脂衍生化学品、营养品、日化用品等油脂科技产品。与此同时集团在国内建立了网点广泛、点面结合、渠道畅通的营销网络,为广大消费者提供全方位服务。展望未来,益海嘉里将继续响应国家产业和经济政策,发挥自身的品牌、规模、研发、人才等优势,秉承营养、健康、安全的研发理念,把国内外食品、营养等学科的最新研究成果与中国人民的膳食特点相结合,持续不断地为国人提供更营养、更健康、更安全的优质粮油产品,以实业报国,为推动中国粮油食品行业发展做贡献。",
   "st_status": null,
   "audit_opinion": null
@@ -42,7 +42,8 @@
     "debt_ratio": 56.04,
     "total_liab": 116141509000.0,
     "total_assets": 207247517844,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": 725366000.0
    },
    {
     "fiscal_year": 2022,
@@ -61,7 +62,8 @@
     "debt_ratio": 59.08,
     "total_liab": 134659803000.0,
     "total_assets": 227927899458,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": 725185000.0
    },
    {
     "fiscal_year": 2023,
@@ -80,7 +82,8 @@
     "debt_ratio": 59.76,
     "total_liab": 142535143000.0,
     "total_assets": 238512622155,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": 14920935000.0
    },
    {
     "fiscal_year": 2024,
@@ -99,7 +102,8 @@
     "debt_ratio": 56.36,
     "total_liab": 126853839000.0,
     "total_assets": 225077783889,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": 6037848000.0
    },
    {
     "fiscal_year": 2025,
@@ -118,22 +122,24 @@
     "debt_ratio": 55.86,
     "total_liab": 127770444000.0,
     "total_assets": 228733340494,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": 15444977000.0
    }
   ],
   "latest": {
-   "report_period": "2026-06-30",
-   "report_type": "2026年中报",
-   "revenue": 122851600000.0,
-   "revenue_yoy": 6.2,
-   "net_profit": 2294374000.0,
-   "net_profit_yoy": 30.69,
-   "net_profit_deducted": 1480606000.0,
-   "gross_margin": 6.31,
-   "net_margin": 1.94,
-   "eps": 0.42,
-   "roe": 2.36,
-   "debt_ratio": 56.24
+   "report_period": "2026-09-30",
+   "report_type": "2026年三季报",
+   "revenue": 191809229000.0,
+   "revenue_yoy": 4.09,
+   "net_profit": 2826456000.0,
+   "net_profit_yoy": 2.83,
+   "net_profit_deducted": 1841406000.0,
+   "gross_margin": 6.05,
+   "net_margin": 1.55,
+   "eps": 0.52,
+   "roe": 2.9,
+   "debt_ratio": 56.6,
+   "ocf": 12622346000.0
   },
   "derived": {
    "revenue_cagr_3y": -1.63,
@@ -157,30 +163,30 @@
    {
     "rank": 2,
     "name": "香港中央结算有限公司",
-    "hold_num": 10027979.0,
-    "hold_ratio": 0.18,
-    "hold_num_change": 685337.0
+    "hold_num": 10206151.0,
+    "hold_ratio": 0.19,
+    "hold_num_change": 178172.0
    },
    {
     "rank": 3,
-    "name": "刘大鹏",
-    "hold_num": 9066900.0,
-    "hold_ratio": 0.17,
-    "hold_num_change": -155000.0
+    "name": "中国工商银行股份有限公司-中证主要消费交易型开放式指数证券投资基金",
+    "hold_num": 7991937.0,
+    "hold_ratio": 0.15,
+    "hold_num_change": -157298.0
    },
    {
     "rank": 4,
-    "name": "中国工商银行股份有限公司-中证主要消费交易型开放式指数证券投资基金",
-    "hold_num": 8149235.0,
+    "name": "刘大鹏",
+    "hold_num": 7870400.0,
     "hold_ratio": 0.15,
-    "hold_num_change": -649935.0
+    "hold_num_change": -1196500.0
    },
    {
     "rank": 5,
     "name": "中国工商银行股份有限公司-易方达创业板交易型开放式指数证券投资基金",
-    "hold_num": 3442124.0,
-    "hold_ratio": 0.06,
-    "hold_num_change": -1999952.0
+    "hold_num": 6639191.0,
+    "hold_ratio": 0.12,
+    "hold_num_change": 3197067.0
    },
    {
     "rank": 6,
@@ -201,29 +207,29 @@
     "name": "祁玉峰",
     "hold_num": 2736700.0,
     "hold_ratio": 0.05,
-    "hold_num_change": 25500.0
+    "hold_num_change": 0
    },
    {
     "rank": 9,
-    "name": "中信证券股份有限公司-天弘中证食品饮料交易型开放式指数证券投资基金",
-    "hold_num": 2334600.0,
-    "hold_ratio": 0.04,
+    "name": "中国工商银行股份有限公司-华泰柏瑞沪深300交易型开放式指数证券投资基金",
+    "hold_num": 2491000.0,
+    "hold_ratio": 0.05,
     "hold_num_change": null
    },
    {
     "rank": 10,
-    "name": "张华国",
-    "hold_num": 2300000.0,
+    "name": "中信证券股份有限公司-天弘中证食品饮料交易型开放式指数证券投资基金",
+    "hold_num": 2401200.0,
     "hold_ratio": 0.04,
-    "hold_num_change": null
+    "hold_num_change": 66600.0
    }
   ],
-  "top10_date": "2026-06-30",
+  "top10_date": "2026-09-30",
   "holder_num": 106679.0,
   "holder_num_change_pct": -2.13,
   "holder_num_date": "2026-10-20",
   "inst_hold_ratio": null,
-  "northbound_ratio": 0.18,
+  "northbound_ratio": 0.19,
   "executives": [
    {
     "name": "Kuok Khoon Hong(郭孔丰)",
@@ -295,7 +301,50 @@
  },
  "peers": {
   "peer_codes": [],
-  "segments": []
+  "segments": [
+   {
+    "name": "厨房食品",
+    "revenue": 150977965000.0,
+    "ratio": 61.59,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "饲料原料及油脂科技",
+    "revenue": 92397572000.0,
+    "ratio": 37.69,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他",
+    "revenue": 1750038000.0,
+    "ratio": 0.71,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "未分配",
+    "revenue": null,
+    "ratio": null,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "境内",
+    "revenue": 238332021000.0,
+    "ratio": 97.23,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "境外",
+    "revenue": 6793554000.0,
+    "ratio": 2.77,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
  },
  "announcements": {
   "items": [],
@@ -306,7 +355,7 @@
  },
  "_meta": {
   "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
-  "fetched_at": "2026-10-28T18:22:27+08:00",
+  "fetched_at": "2026-10-30T00:20:59+08:00",
   "errors": {}
  }
 }

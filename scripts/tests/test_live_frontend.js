@@ -43,18 +43,22 @@ async function run(fetchImpl, protocol = 'http:') {
   assert.equal(current.companies['600016.SH'].shareholders.inst_hold_ratio, null);
   assert.equal(current.companies['600016.SH'].financials.annual.length, 5);
   assert.equal(current.companies['600519.SH'].financials, original.companies['600519.SH'].financials);
-  assert.ok(!current.companies['300033.SZ']);
+  assert.equal(Boolean(current.companies['300033.SZ']), snapshot.members.some((r) => r.code === '300033.SZ')); // 成员随实际榜单变化
   // 已有档案的价格类指标按今日价换算，不能被清空
   const oldMt = original.companies['600519.SH'].market, newMt = current.companies['600519.SH'].market;
   assert.ok(Number.isFinite(newMt.ytd_return) && Number.isFinite(newMt.dividend_yield));
   assert.ok(Math.abs((1 + newMt.ytd_return / 100) / newMt.price - (1 + oldMt.ytd_return / 100) / oldMt.price) < 1e-4);
   assert.ok(newMt.high_52w >= newMt.price && newMt.low_52w <= newMt.price);
   assert.equal(newMt.return_1y, oldMt.return_1y);
-  // 旧快照无 vs_prev_close 时，按静态收盘百强计算进出榜，退出公司带名称
+  // 快照带 vs_prev_close 时直接采用；旧快照没有时，按静态收盘百强计算进出榜，退出公司带名称
   const chg = current.meta.live_changes;
   assert.match(chg.base_label, /收盘/);
-  assert.ok(chg.entered.some((r) => r.code === '600016.SH'));
-  assert.ok(chg.exited.some((r) => r.code === '300033.SZ' && r.name));
+  if (snapshot.changes?.vs_prev_close) {
+    assert.deepEqual(chg, snapshot.changes.vs_prev_close);
+  } else {
+    assert.ok(chg.entered.some((r) => r.code === '600016.SH'));
+    assert.ok(chg.exited.some((r) => r.code === '300033.SZ' && r.name));
+  }
   const filled =Object.values(current.companies).filter((c) => c.profile_status !== 'pending');
   assert.ok(filled.filter((c) => Number.isFinite(c.market.ytd_return)).length >= filled.filter((c) => Number.isFinite(original.companies[c.identity.code + "." + c.identity.exchange]?.market.ytd_return)).length);
   context.fetch = async (url) => ({ ok: true, json: async () =>
@@ -95,8 +99,13 @@ async function run(fetchImpl, protocol = 'http:') {
     const migrated = (await run(withBundle(bundle))).context.__DATA__;
     // 包里有意修订的已核实档案除外，其余公司与不读包时逐字段一致
     const revised = new Set(Object.entries(bundle.profiles).filter(([, p]) => p.status === 'verified_snapshot').map(([k]) => k));
+    // 自动挑选的同行会随包内转正公司的行业变化，比较时去掉涉及转正公司的同行名单
+    const plain = (c, other) => {
+      const touched = [...c.peers.peer_codes, ...other.peers.peer_codes].some((x) => revised.has(x));
+      return JSON.stringify(touched ? { ...c, peers: { ...c.peers, peer_codes: null } } : c);
+    };
     for (const k of Object.keys(current.companies)) {
-      if (!revised.has(k)) assert.equal(JSON.stringify(migrated.companies[k]), JSON.stringify(current.companies[k]), k);
+      if (!revised.has(k)) assert.equal(plain(migrated.companies[k], current.companies[k]), plain(current.companies[k], migrated.companies[k]), k);
     }
     for (const k of revised) {
       assert.equal(migrated.companies[k].profile_status, 'verified_snapshot');
@@ -123,6 +132,14 @@ async function run(fetchImpl, protocol = 'http:') {
       assert.equal(pc.market.price, snapshot.members.find((r) => r.code === '600016.SH').price);
     }
   }
+  // 机构持股：有统一口径文件时覆盖所有公司（含已核实档案），文件里没有的公司记 null 而不沿用旧口径
+  const inst = { meta: { report_date: '2026-06-30', definition: '口径' }, companies: { '600519.SH': { ratio: 4.06, excluded: [] } } };
+  const withInst = (await run(async (url) => ({ ok: true, json: async () =>
+    url.endsWith('live/manifest.json') ? manifest : url.endsWith('inst_hold.json') ? inst : snapshot }))).context.__DATA__;
+  assert.equal(withInst.companies['600519.SH'].shareholders.inst_hold_ratio, 4.06);
+  assert.equal(withInst.companies['600519.SH'].shareholders.inst_hold_date, '2026-06-30');
+  assert.equal(withInst.companies['601398.SH'].shareholders.inst_hold_ratio, null);
+  assert.equal(JSON.stringify(withInst.companies['600519.SH'].financials), JSON.stringify(original.companies['600519.SH'].financials));
   const offline = await run(badFetch, 'file:');
   assert.equal(offline.context.__LIVE_STATE__.mode, 'offline');
   assert.equal(offline.context.__DATA__, offline.original);

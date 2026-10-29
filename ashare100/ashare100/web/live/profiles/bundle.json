@@ -1,10 +1,10 @@
 {
  "meta": {
   "snapshot": "snapshots/20261029T141236Z.json",
-  "generated_at": "2026-10-29T22:12:36+08:00",
+  "generated_at": "2026-10-30T00:31:52+08:00",
   "baseline": "data.js",
-  "verified_changed": 3,
-  "auto": 2,
+  "verified_changed": 5,
+  "auto": 0,
   "missing": []
  },
  "profiles": {
@@ -1448,7 +1448,7 @@
    }
   },
   "300124.SZ": {
-   "status": "auto_profile",
+   "status": "verified_snapshot",
    "profile": {
     "identity": {
      "code": "300124",
@@ -1460,17 +1460,18 @@
      "name_en": "Shenzhen Inovance Technology Co., Ltd",
      "former_names": [],
      "industry_sw1": "机械设备",
-     "industry_sw2": null,
+     "industry_sw2": "自动化设备",
      "list_date": "2010-09-28",
+     "found_date": "2003-04-10",
      "province": "广东",
      "city": null,
      "website": "www.inovance.com",
      "chairman": "朱兴明",
      "employees": 27292,
-     "business_summary": "一般项目:工业自动控制系统装置制造;工业自动控制系统装置销售;工业控制计算机及系统制造;工业控制计算机及系统销售;智能机器人研发;智能机器人销售;工业机器人制造…",
+     "business_summary": "工业自动控制系统装置制造",
      "profile": "深圳市汇川技术股份有限公司(股票代码:SZ.300124)(以下简称“汇川技术”)成立于2003年,是一家全球领先、创新驱动的工业科技集团。汇川技术依托在自动化、数字化、智能化领域的深厚技术积淀,构建起工业自动化与数字化、新能源汽车动力系统、智能机器人、数字能源四大技术同源、协同发展的业务生态,致力于为全球客户提供智能、高效、绿色、安全的综合产品和解决方案。公司总部位于深圳,生产基地位于苏州、岳阳、南京、上海、济南、嘉兴、长春、匈牙利等地,并在全球30多个国家和地区设有常驻机构和服务中心。汇川技术聚焦工业领域的自动化、数字化、智能化,在\"数字层、边缘层、控制层、驱动层、执行层、传感层\"形成贯通式布局,持续为工业客户提供\"用得起、用得好、易部署、易升级\"的数自融合解决方案。",
      "st_status": null,
-     "audit_opinion": null
+     "audit_opinion": "标准无保留意见"
     },
     "financials": {
      "unit": "CNY",
@@ -1492,7 +1493,8 @@
        "debt_ratio": 40.19,
        "total_liab": 10973608555.0,
        "total_assets": 27304325840,
-       "ocf_to_np": null
+       "ocf_to_np": null,
+       "ocf": 1766024032.95
       },
       {
        "fiscal_year": 2022,
@@ -1511,7 +1513,8 @@
        "debt_ratio": 48.71,
        "total_liab": 19100064464.0,
        "total_assets": 39211793192,
-       "ocf_to_np": null
+       "ocf_to_np": null,
+       "ocf": 3200830470.94
       },
       {
        "fiscal_year": 2023,
@@ -1530,7 +1533,8 @@
        "debt_ratio": 48.93,
        "total_liab": 23956572496.0,
        "total_assets": 48960908432,
-       "ocf_to_np": null
+       "ocf_to_np": null,
+       "ocf": 3369915897.12
       },
       {
        "fiscal_year": 2024,
@@ -1549,7 +1553,8 @@
        "debt_ratio": 50.28,
        "total_liab": 28749693436.0,
        "total_assets": 57179183445,
-       "ocf_to_np": null
+       "ocf_to_np": null,
+       "ocf": 7200440164.32
       },
       {
        "fiscal_year": 2025,
@@ -1568,7 +1573,8 @@
        "debt_ratio": 47.93,
        "total_liab": 34179582787.0,
        "total_assets": 71311460019,
-       "ocf_to_np": null
+       "ocf_to_np": null,
+       "ocf": 6681025417.16
       }
      ],
      "latest": {
@@ -1583,7 +1589,8 @@
       "net_margin": 11.59,
       "eps": 1.63,
       "roe": 11.89,
-      "debt_ratio": 47.6
+      "debt_ratio": 47.6,
+      "ocf": 895481500.32
      },
      "derived": {
       "revenue_cagr_3y": 25.15,
@@ -1602,7 +1609,7 @@
        "name": "深圳市汇川投资有限公司",
        "hold_num": 466043804.0,
        "hold_ratio": 17.2,
-       "hold_num_change": null
+       "hold_num_change": 0
       },
       {
        "rank": 2,
@@ -1623,7 +1630,7 @@
        "name": "李俊田",
        "hold_num": 75919995.0,
        "hold_ratio": 2.8,
-       "hold_num_change": null
+       "hold_num_change": 0
       },
       {
        "rank": 5,
@@ -1644,28 +1651,28 @@
        "name": "刘迎新",
        "hold_num": 52627869.0,
        "hold_ratio": 1.94,
-       "hold_num_change": null
+       "hold_num_change": 0
       },
       {
        "rank": 8,
        "name": "李芬",
        "hold_num": 41385074.0,
        "hold_ratio": 1.53,
-       "hold_num_change": null
+       "hold_num_change": 0
       },
       {
        "rank": 9,
        "name": "杨春禄",
        "hold_num": 41322386.0,
        "hold_ratio": 1.52,
-       "hold_num_change": null
+       "hold_num_change": 0
       },
       {
        "rank": 10,
        "name": "刘宇川",
        "hold_num": 38579234.0,
        "hold_ratio": 1.42,
-       "hold_num_change": null
+       "hold_num_change": 0
       }
      ],
      "top10_date": "2026-09-30",
@@ -1745,7 +1752,50 @@
     },
     "peers": {
      "peer_codes": [],
-     "segments": []
+     "segments": [
+      {
+       "name": "工业自动化与数字化",
+       "revenue": 22245401986.97,
+       "ratio": 49.32,
+       "type": "product",
+       "period": "2025年报"
+      },
+      {
+       "name": "新能源汽车动力系统",
+       "revenue": 20322581832.31,
+       "ratio": 45.06,
+       "type": "product",
+       "period": "2025年报"
+      },
+      {
+       "name": "新兴产业",
+       "revenue": 1795019255.76,
+       "ratio": 3.98,
+       "type": "product",
+       "period": "2025年报"
+      },
+      {
+       "name": "其他",
+       "revenue": 741841125.09,
+       "ratio": 1.64,
+       "type": "product",
+       "period": "2025年报"
+      },
+      {
+       "name": "中国内地",
+       "revenue": 42455952295.1,
+       "ratio": 94.13,
+       "type": "region",
+       "period": "2025年报"
+      },
+      {
+       "name": "境外",
+       "revenue": 2648891905.03,
+       "ratio": 5.87,
+       "type": "region",
+       "period": "2025年报"
+      }
+     ]
     },
     "announcements": {
      "items": [
@@ -1875,11 +1925,6 @@
     "qa": {
      "items": []
     },
-    "_meta": {
-     "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
-     "fetched_at": "2026-10-27T16:27:37+08:00",
-     "errors": {}
-    },
     "_extras": {
      "announcements": {
       "fetched_at": "2026-10-29T11:36:03+08:00",
@@ -1889,11 +1934,27 @@
       "fetched_at": null,
       "error": "Unsupported 互动易需要巨潮 orgId"
      }
+    },
+    "review": {
+     "reviewer": "自动复核（scripts/auto_review.py）",
+     "note": "与巨潮年报摘要交叉核对营收、归母净利润与审计意见",
+     "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
+     "fetched_at": "2026-10-30T00:27:05+08:00",
+     "reviewed_at": "2026-10-30T00:31:12+08:00",
+     "method": "auto",
+     "checks": {
+      "revenue": "2025 年营业收入与《2025年年度报告摘要》一致（差 0.00%）",
+      "net_profit": "2025 年归母净利润与《2025年年度报告摘要》一致（差 0.00%）",
+      "audit_opinion": "2025 年报审计意见：标准无保留意见"
+     },
+     "sources": [
+      "https://static.cninfo.com.cn/finalpage/2026-04-28/1225208487.PDF"
+     ]
     }
    }
   },
   "601009.SH": {
-   "status": "auto_profile",
+   "status": "verified_snapshot",
    "profile": {
     "identity": {
      "code": "601009",
@@ -1905,17 +1966,18 @@
      "name_en": "Bank Of Nanjing Co.,Ltd.",
      "former_names": [],
      "industry_sw1": "银行",
-     "industry_sw2": null,
+     "industry_sw2": "城商行Ⅱ",
      "list_date": "2007-07-19",
+     "found_date": "1996-02-06",
      "province": "江苏",
      "city": null,
      "website": "www.njcb.com.cn",
      "chairman": "谢宁",
      "employees": 17684,
-     "business_summary": "(一)吸收公众存款;(二)发放短期、中期和长期贷款;(三)办理国内外结算;(四)办理票据承兑与贴现;(五)发行金融债券;(六)代理发行、代理兑付、承销政府债券;…",
+     "business_summary": "吸收公众存款",
      "profile": "南京银行股份有限公司成立于1996年2月8日,是全国20家系统重要性银行之一,是一家具有独立法人资格的股份制商业银行和上市银行,实行一级法人经营管理体制。\r\n    南京银行坚持发展为要。历经两次更名,先后于2001年、2005年引入国际金融公司和法国巴黎银行入股,在全国城商行中率先启动上市辅导程序并于2007年在主板成功上市。位列英国《银行家》杂志公布的全球1000家大银行第86位。\r\n    南京银行强化战略执行。成立29年来,始终坚守做强做精做出特色,致力于打造国内一流的区域综合金融服务商的战略愿景。按照自身发展规划,推动业务平稳较快增长,风险管控不断加强,资产质量稳定优异,经营效益稳步提升,综合实力显著增强。注重深化公司治理,优化战略股东结构,加强资本规划管理,保持股东良好回报。同时加大信息科技投入,推动数字化转型,强化数字赋能和场景应用。\r\n    南京银行深化机构建设。自2007年设立第一家分行以来,跨区域经营不断推进,先后设立了泰州、上海、无锡、北京、南通、杭州、扬州、苏州、常州、盐城、南京、镇江、宿迁、连云港、江北新区、徐州、淮安17家分行,2016年实现京沪杭及江苏省内设区市全覆盖,2023年实现江苏省县域网点全覆盖。\r\n    南京银行丰富经营布局。在全国率先尝试城商行异地参股其他城商行的发展模式,参股日照银行并成为其第一大股东。入股江苏金融租赁有限公司,芜湖津盛农村商业银行,发起设立宜兴阳羡、昆山鹿城两家村镇银行。2013年投资组建鑫元基金管理有限公司,2020年全资设立南银理财有限责任公司,2022年控股南银法巴消费金融有限公司,在探索综合化经营的道路上不断向前迈进。2013年主发起成立紫金山.鑫合,下设8大专委会,成员行超130家。\r\n    南京银行勇担社会责任。践行“责任金融和谐共赢”的文化理念,让金融的增益更多普惠社会。连续十余年开展“圆梦行动”,累计捐资助学1870万元,帮助2900多名学子圆梦大学。",
      "st_status": null,
-     "audit_opinion": null
+     "audit_opinion": "标准无保留意见"
     },
     "financials": {
      "unit": "CNY",
@@ -1937,7 +1999,8 @@
        "debt_ratio": 92.99,
        "total_liab": 1626381955000.0,
        "total_assets": 1748985864071,
-       "ocf_to_np": null
+       "ocf_to_np": null,
+       "ocf": 120648546000.0
       },
       {
        "fiscal_year": 2022,
@@ -1956,7 +2019,8 @@
        "debt_ratio": 92.34,
        "total_liab": 1901784904000.0,
        "total_assets": 2059546138185,
-       "ocf_to_np": null
+       "ocf_to_np": null,
+       "ocf": 97820568000.0
       },
       {
        "fiscal_year": 2023,
@@ -1975,7 +2039,8 @@
        "debt_ratio": 92.46,
        "total_liab": 2115681851000.0,
        "total_assets": 2288213120268,
-       "ocf_to_np": null
+       "ocf_to_np": null,
+       "ocf": 37058939000.0
       },
       {
        "fiscal_year": 2024,
@@ -1994,7 +2059,8 @@
        "debt_ratio": 92.59,
        "total_liab": 2399443325000.0,
        "total_assets": 2591471352198,
-       "ocf_to_np": null
+       "ocf_to_np": null,
+       "ocf": -65795334000.0
       },
       {
        "fiscal_year": 2025,
@@ -2013,22 +2079,24 @@
        "debt_ratio": 93.04,
        "total_liab": 2811515075000.0,
        "total_assets": 3021834775365,
-       "ocf_to_np": null
+       "ocf_to_np": null,
+       "ocf": 210207864000.0
       }
      ],
      "latest": {
-      "report_period": "2026-06-30",
-      "report_type": "2026年中报",
-      "revenue": 31595756000.0,
-      "revenue_yoy": 10.94,
-      "net_profit": 13650199000.0,
-      "net_profit_yoy": 8.17,
-      "net_profit_deducted": 13646168000.0,
+      "report_period": "2026-09-30",
+      "report_type": "2026年三季报",
+      "revenue": 47190007000.0,
+      "revenue_yoy": 12.49,
+      "net_profit": 19450694000.0,
+      "net_profit_yoy": 8.03,
+      "net_profit_deducted": 19485707000.0,
       "gross_margin": null,
-      "net_margin": 43.5,
-      "eps": 1.1,
-      "roe": 7.25,
-      "debt_ratio": 93.14
+      "net_margin": 41.46,
+      "eps": 1.56,
+      "roe": 10.14,
+      "debt_ratio": 93.25,
+      "ocf": 105133089000.0
      },
      "derived": {
       "revenue_cagr_3y": 7.58,
@@ -2045,38 +2113,80 @@
       {
        "rank": 1,
        "name": "法国巴黎银行(含QFII)",
-       "hold_num": 2243336558.0,
-       "hold_ratio": 18.14,
-       "hold_num_change": null
+       "hold_num": 2275312179.0,
+       "hold_ratio": 18.4,
+       "hold_num_change": 31975621.0
       },
       {
        "rank": 2,
        "name": "江苏交通控股有限公司",
        "hold_num": 1854535105.0,
        "hold_ratio": 15.0,
-       "hold_num_change": 9991795.0
+       "hold_num_change": 0
       },
       {
        "rank": 3,
        "name": "南京紫金投资集团有限责任公司",
        "hold_num": 1407552588.0,
        "hold_ratio": 11.38,
-       "hold_num_change": null
+       "hold_num_change": 0
       },
       {
        "rank": 4,
        "name": "南京高科股份有限公司",
        "hold_num": 1236356694.0,
-       "hold_ratio": 10.0,
-       "hold_num_change": null
+       "hold_ratio": 9.99,
+       "hold_num_change": 0
+      },
+      {
+       "rank": 5,
+       "name": "中国烟草总公司江苏省公司(江苏省烟草公司)",
+       "hold_num": 471583361.0,
+       "hold_ratio": 3.81,
+       "hold_num_change": 0
+      },
+      {
+       "rank": 6,
+       "name": "幸福人寿保险股份有限公司-自有",
+       "hold_num": 406792306.0,
+       "hold_ratio": 3.29,
+       "hold_num_change": 0
+      },
+      {
+       "rank": 7,
+       "name": "紫金信托有限责任公司",
+       "hold_num": 339543782.0,
+       "hold_ratio": 2.75,
+       "hold_num_change": 0
+      },
+      {
+       "rank": 8,
+       "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+       "hold_num": 333804433.0,
+       "hold_ratio": 2.7,
+       "hold_num_change": -13141054.0
+      },
+      {
+       "rank": 9,
+       "name": "香港中央结算有限公司",
+       "hold_num": 309369400.0,
+       "hold_ratio": 2.5,
+       "hold_num_change": 87666058.0
+      },
+      {
+       "rank": 10,
+       "name": "东部机场集团投资有限公司",
+       "hold_num": 288489506.0,
+       "hold_ratio": 2.33,
+       "hold_num_change": 0
       }
      ],
-     "top10_date": "2026-07-17",
-     "holder_num": 75439.0,
-     "holder_num_change_pct": 6.75,
-     "holder_num_date": "2026-06-30",
+     "top10_date": "2026-09-30",
+     "holder_num": 67743.0,
+     "holder_num_change_pct": -10.2,
+     "holder_num_date": "2026-09-30",
      "inst_hold_ratio": null,
-     "northbound_ratio": null,
+     "northbound_ratio": 2.5,
      "executives": [
       {
        "name": "谢宁",
@@ -2148,7 +2258,50 @@
     },
     "peers": {
      "peer_codes": [],
-     "segments": []
+     "segments": [
+      {
+       "name": "公司银行业务",
+       "revenue": 24538964000.0,
+       "ratio": 44.18,
+       "type": "product",
+       "period": "2025年报"
+      },
+      {
+       "name": "个人银行业务",
+       "revenue": 16713838000.0,
+       "ratio": 30.09,
+       "type": "product",
+       "period": "2025年报"
+      },
+      {
+       "name": "资金业务",
+       "revenue": 14068234000.0,
+       "ratio": 25.33,
+       "type": "product",
+       "period": "2025年报"
+      },
+      {
+       "name": "其他业务",
+       "revenue": 220880000.0,
+       "ratio": 0.4,
+       "type": "product",
+       "period": "2025年报"
+      },
+      {
+       "name": "江苏地区",
+       "revenue": 51504809000.0,
+       "ratio": 92.73,
+       "type": "region",
+       "period": "2025年报"
+      },
+      {
+       "name": "其他地区",
+       "revenue": 4037107000.0,
+       "ratio": 7.27,
+       "type": "region",
+       "period": "2025年报"
+      }
+     ]
     },
     "announcements": {
      "items": [
@@ -2276,13 +2429,7 @@
      "count_12m": 99
     },
     "qa": {
-     "items": [],
-     "count_12m": null
-    },
-    "_meta": {
-     "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
-     "fetched_at": "2026-10-27T16:25:45+08:00",
-     "errors": {}
+     "items": []
     },
     "_extras": {
      "announcements": {
@@ -2290,9 +2437,25 @@
       "error": null
      },
      "qa": {
-      "fetched_at": "2026-10-29T11:36:12+08:00",
+      "fetched_at": "2026-10-30T00:00:42+08:00",
       "error": null
      }
+    },
+    "review": {
+     "reviewer": "自动复核（scripts/auto_review.py）",
+     "note": "与巨潮年报摘要交叉核对营收、归母净利润与审计意见",
+     "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
+     "fetched_at": "2026-10-30T00:21:13+08:00",
+     "reviewed_at": "2026-10-30T00:31:09+08:00",
+     "method": "auto",
+     "checks": {
+      "revenue": "2025 年营业收入与《南京银行股份有限公司2025年年度报告摘要》一致（差 0.00%）",
+      "net_profit": "2025 年归母净利润与《南京银行股份有限公司2025年年度报告摘要》一致（差 0.00%）",
+      "audit_opinion": "2025 年报审计意见：标准无保留意见"
+     },
+     "sources": [
+      "https://static.cninfo.com.cn/finalpage/2026-04-23/1225157431.PDF"
+     ]
     }
    }
   }

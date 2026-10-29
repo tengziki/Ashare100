@@ -411,7 +411,7 @@
     amount: { group: 'market', name: '成交额', get: (c) => c.market.amount, fmt: money, better: 'high', fin: true, note: MARKET_ASOF },
     turnover: { group: 'market', name: '换手率', get: (c) => c.market.turnover_rate, fmt: pct, better: 'high', fin: true, note: MARKET_ASOF },
     ctrl: { group: 'gov', name: '控股股东持股', get: (c) => c.shareholders.controlling_ratio, fmt: pct, better: null, fin: true },
-    inst: { group: 'gov', name: '机构持股', get: (c) => c.shareholders.inst_hold_ratio, fmt: pct, better: null, fin: true, note: '基金/保险/券商/QFII/社保' },
+    inst: { group: 'gov', name: '机构持股', get: (c) => c.shareholders.inst_hold_ratio, fmt: pct, better: null, fin: true, note: '基金/QFII/社保/券商/保险/信托，剔除单家 ≥5% 的机构' },
     north: { group: 'gov', name: '陆股通持股', get: (c) => c.shareholders.northbound_ratio, fmt: pct, better: null, fin: true, note: '占总股本' },
     pledge: { group: 'gov', name: '质押比例', get: (c) => c.shareholders.pledge_ratio_total, fmt: pct, better: 'low', fin: true, note: '全公司质押 ÷ 总股本' },
     holderchg: { group: 'gov', name: '股东户数变化', get: (c) => c.shareholders.holder_num_change_pct, fmt: spct, better: null, fin: true, note: '较上一期' }
@@ -586,7 +586,6 @@
           <div class="blegend">${boards.map((x, i) => `<span><i style="background:${COLORS[i]}"></i>${x.b} ${x.n} 家 · ${pct((x.mv / tmv) * 100, 1)}</span>`).join('')}</div>
         </div>
       </section>
-      ${watchBlock()}
 
       <div class="hgroup"><h2>行业构成</h2></div>
       <div class="dash">
@@ -611,6 +610,7 @@
           <header><div class="tabs" id="toptabs" role="tablist">${Object.entries(TOP_MODES).map(([k, [n]], i) => `<button role="tab" data-t="${k}" aria-selected="${i === 0}">${n}</button>`).join('')}</div>
             <a class="morelink" href="#/list">全部 100 家 · 排序与筛选 →</a></header>
           <div class="tblwrap"><table class="tbl rank-tbl compact"><thead><tr><th>排名</th><th>公司</th><th>行业</th><th class="num">总市值</th><th class="num">涨跌幅</th><th class="num">成交额</th><th class="num">市盈率</th><th class="num">股息率</th><th>营收趋势</th></tr></thead><tbody id="preview">${topTable('mv')}</tbody></table></div>
+          ${watchBlock()}
         </section>
       </div>
 
@@ -1197,6 +1197,7 @@
         <div class="segctl" id="lboard" role="group" aria-label="板块">${['', '主板', '科创板', '创业板', '北交所'].map((b) => `<button data-v="${b}" aria-pressed="${st.board === b}">${b || '全部板块'}</button>`).join('')}</div>
         <select id="lidx" aria-label="指数"><option value="">全部指数</option>${INDEX_NAMES.map((k) => `<option${st.idx === k ? ' selected' : ''}>${k}</option>`).join('')}</select>
         <select id="lex" aria-label="上市地"><option value="">全部上市地</option>${[['SH', '上交所'], ['SZ', '深交所'], ['BJ', '北交所'], ['AH', 'A+H 两地上市']].map(([k, n]) => `<option value="${k}"${st.ex === k ? ' selected' : ''}>${n}</option>`).join('')}</select>
+        <div class="segctl" id="ldir" role="group" aria-label="排序方向"><button data-dir="desc" aria-pressed="${st.dir !== 'asc'}">从高到低</button><button data-dir="asc" aria-pressed="${st.dir === 'asc'}">从低到高</button></div>
         <button class="reset" id="lreset">重置</button>
         <details class="colpick"><summary>列设置</summary><div>${LIST_COLS.slice(2).map((c) => `<label><input type="checkbox" value="${c.k}"${st.hide.split(`,`).includes(c.k) ? '' : ' checked'}> ${c.t}</label>`).join('')}</div></details>
         <span class="lcount" id="lcount"></span>
@@ -1264,6 +1265,7 @@
       document.getElementById('lind').value = '';
       document.getElementById('lidx').value = '';
       document.querySelectorAll('#lboard button').forEach((b) => b.setAttribute('aria-pressed', b.dataset.v === ''));
+      syncDir();
       render();
     };
     document.getElementById('lq').addEventListener('input', (e) => { st.q = e.target.value.trim(); render(); });
@@ -1282,6 +1284,15 @@
       const col = LIST_COLS.find((c) => c.k === b.dataset.k);
       if (st.sort === col.k) st.dir = st.dir === 'asc' ? 'desc' : 'asc';
       else { st.sort = col.k; st.dir = col.dir || 'desc'; }
+      syncDir();
+      render();
+    });
+    // 倒序查看：按当前排序列（默认总市值）切换方向
+    const syncDir = () => document.querySelectorAll('#ldir button').forEach((x) => x.setAttribute('aria-pressed', x.dataset.dir === st.dir));
+    document.getElementById('ldir').addEventListener('click', (e) => {
+      const b = e.target.closest('button[data-dir]'); if (!b) return;
+      st.dir = b.dataset.dir;
+      syncDir();
       render();
     });
     body.addEventListener('click', (e) => {
@@ -2081,13 +2092,59 @@
 
   /* ---------- 详情页 ---------- */
   /* ---------- 临界区：第 101–110 名，离进榜最近的公司 ---------- */
+  // 百强分界线：第 100 名之上是百强，线下是第 101–110 名；每家的柱子从分界线往下「沉」，长度 = 与第 100 名的市值差
   function watchBlock() {
     const rows = (DATA.meta.live_watchlist || []).slice(0, 10);
     if (!rows.length) return '';
     const last = BY_MV[BY_MV.length - 1], lastMv = COMPANIES[last.code].market.total_mv;
-    return `<div class="hgroup"><h2>临界区</h2><span>第 101–110 名 · 与第 100 名 ${esc(last.id.name_abbr)}（${money(lastMv)}）的市值差距 · 已预先补档</span></div>
-      <section class="watchlist">${rows.map((r) => `<div class="wl-row"><b>#${r.rank}</b><span class="n">${esc(r.name)}</span><small>${esc(r.code)}</small>
-        <span class="v">${money(r.total_mv)}</span><span class="gap">差 ${money(lastMv - r.total_mv)}（${pct((lastMv - r.total_mv) / lastMv * 100, 1)}）</span></div>`).join('')}</section>`;
+    const maxGap = Math.max(...rows.map((r) => lastMv - r.total_mv), 1);
+    return `<div class="cutzone">
+      <div class="cutline"><span class="cut-tag">百强分界线</span><a class="cut-last" href="#/${esc(last.code)}"><b>#100</b> ${esc(last.id.name_abbr)} · ${money(lastMv)}</a><span class="cut-note">线下为第 101–110 名，柱长 = 与第 100 名的市值差</span></div>
+      <div class="sink">${rows.map((r, i) => {
+        const gap = lastMv - r.total_mv;
+        return `<a class="sink-col" href="#/${esc(r.code)}" data-tip="${esc(`${r.name} · 第 ${r.rank} 名 · ${money(r.total_mv)}，再涨 ${pct(gap / r.total_mv * 100, 1)} 可进百强`)}">
+          <i class="sink-bar" style="height:${Math.max(6, (gap / maxGap) * 72)}px;--d:${i * 40}ms"></i>
+          <span class="sink-gap">−${money(gap)}</span>
+          <span class="sink-n">${esc(r.name)}</span><small>#${r.rank}</small></a>`;
+      }).join('')}</div></div>`;
+  }
+
+  /* ---------- 临界区公司页：数据随每次榜单更新（每天两次） ---------- */
+  function watchCompanyView(code, doc) {
+    const live = (DATA.meta.live_watchlist || []).find((r) => r.code === code) || {};
+    const p = doc.profile || {}, id = p.identity || {};
+    const m = { ...(doc.market || {}), ...Object.fromEntries(Object.entries(live).filter(([, v]) => v != null)) };
+    const a25 = (p.financials?.annual || []).find((x) => x.fiscal_year === 2025) || {};
+    const d25 = (p.dividends?.annual || []).find((x) => x.fiscal_year === 2025) || {};
+    const stat = (k, v, s = '') => `<div class="ex2-stat"><div class="k">${k}</div><div class="v">${v}</div>${s ? `<div class="s">${s}</div>` : ''}</div>`;
+    const site = id.website ? `<a class="ex2-link" href="https://${esc(id.website.replace(/^https?:\/\//, ''))}" target="_blank" rel="noopener">公司主页 ↗</a>` : '';
+    const r100 = doc.rank100 || {};
+    return `${siteHeader('list')}
+      <div class="wrap ex2">
+        <section class="ex2-hero">
+          ${logo(code, 72, 'ex2-logo')}
+          <div>
+            <div class="ex2-tags"><span class="badge warn">临界区</span>${id.board ? `<span class="tag">${esc(id.board)}</span>` : ''}${id.industry_sw1 ? `<a class="tag brand" href="#/industry?ind=${encodeURIComponent(id.industry_sw1)}">${esc(id.industry_sw1)}${id.industry_sw2 ? ' · ' + esc(id.industry_sw2) : ''}</a>` : ''}</div>
+            <h1>${esc(doc.name || id.name_abbr || code)} <small>${esc(code)}</small></h1>
+            ${id.business_summary ? `<p class="ex2-lede">${esc(id.business_summary)}</p>` : ''}
+          </div>
+        </section>
+        <section class="ex2-rank">
+          <div><div class="k">当前全市场</div><div class="r now">#${live.rank || doc.rank}</div><div class="s">${esc(DATA.meta.as_of_date || doc.as_of)} · ${money(m.total_mv)}</div></div>
+          <div class="arrow" aria-hidden="true">→</div>
+          <div><div class="k">第 100 名</div><div class="r">${esc(r100.name || '')}</div><div class="s">${money(r100.total_mv)}</div></div>
+          <p class="ex2-note">市值再增加 ${money(doc.gap_to_100)}（${pct(doc.gap_to_100 / (r100.total_mv || 1) * 100, 1)}）即可进入百强；进榜后这里会自动变为完整公司页。</p>
+        </section>
+        <section class="ex2-stats">
+          ${stat('股价', isNum(m.price) ? num(m.price) + ' 元' : '—', isNum(m.change_pct) ? `<span class="${cls(m.change_pct)}">${spct(m.change_pct)}</span>` : '')}
+          ${stat('估值', `PE ${num(m.pe_ttm)}`, `PB ${num(m.pb)}`)}
+          ${stat('2025 年营收', money(a25.revenue), `归母净利 ${money(a25.net_profit)}`)}
+          ${stat('ROE 2025', pct(a25.roe))}
+          ${stat('每股分红 2025', isNum(d25.dps_pretax) ? fmt(d25.dps_pretax, 3) + ' 元' : '—', `连续分红 ${p.dividends?.consecutive_years ?? '—'} 年`)}
+        </section>
+        <section class="ex2-links">${site}<a class="ex2-link" href="${f10Url(code)}" target="_blank" rel="noopener">东方财富 F10 ↗</a><a class="ex2-link" href="#/">返回首页 →</a></section>
+        <p class="ex2-foot">档案${doc.profile_status === 'verified' ? '已核实' : doc.profile_status === 'auto_profile' ? '为自动补档' : '暂缺'}；行情与排名截至 ${esc(doc.as_of)}，随榜单每天更新两次。</p>
+      </div>`;
   }
 
   /* ---------- 出榜公司历史档：数据冻结在退出时点，当前名次每次榜单更新刷新 ---------- */
@@ -2225,9 +2282,9 @@
         <div class="kpi"><div class="k">营业总收入</div><div class="v">${money(lat.revenue)}</div>${yoy(lat.revenue_yoy)}</div>
         <div class="kpi"><div class="k">归母净利润</div><div class="v ${isNum(lat.net_profit) && lat.net_profit < 0 ? 'down' : ''}">${money(lat.net_profit)}</div>${yoy(lat.net_profit_yoy)}</div>
         <div class="kpi"><div class="k">扣非归母净利</div><div class="v">${money(lat.net_profit_deducted)}</div><div class="s faint">EPS ${num(lat.eps)} 元</div></div>
-        <div class="kpi"><div class="k">毛利率</div><div class="v">${pct(lat.gross_margin)}</div><div class="s faint">净利率 ${pct(lat.net_margin)}</div></div>
+        <div class="kpi"><div class="k">毛利率</div><div class="v">${!isNum(lat.gross_margin) && isFin(code) ? '<span class="faint" title="银行、保险、证券没有毛利率口径">不适用</span>' : pct(lat.gross_margin)}</div><div class="s faint">净利率 ${pct(lat.net_margin)}</div></div>
         <div class="kpi"><div class="k">资产负债率</div><div class="v">${pct(lat.debt_ratio)}</div><div class="s faint">ROE ${pct(lat.roe)}</div></div>
-        <div class="kpi"><div class="k">经营现金流</div><div class="v">${money(lat.ocf)}</div><div class="s faint">半年度累计</div></div>
+        <div class="kpi"><div class="k">经营现金流</div><div class="v">${money(lat.ocf)}</div><div class="s faint">${{ 一季报: '一季度', 中报: '半年度累计', 三季报: '前三季度累计', 年报: '全年' }[(lat.report_type || '').replace(/^\d{4}年/, '')] || '本期累计'}</div></div>
       </div>
       <div class="sub">年度经营表现 · 2021–2025<span class="note">金额单位：亿元 · 鼠标悬停查看明细 · 点击图例显示/隐藏</span></div>
       <div class="tabs" role="tablist" id="fintabs">
@@ -2264,7 +2321,13 @@
         <div class="c">${chgCell(h)}</div>
       </div>`).join('');
     const ctrlName = s.controlling_shareholder || '—';
-    const execs = (s.executives || []).map((e) => `<tr><td>${esc(e.name)}</td><td class="muted">${esc(e.title)}</td><td>${isNum(e.pay) ? (e.pay === 0 ? '0 元' : money(e.pay)) : '<span class="faint" title="年报/招股书金额尚未逐人核实">薪酬未核实</span>'}</td></tr>`).join('');
+    const payCell = (e) => {
+      if (isNum(e.pay)) return e.pay === 0 ? '0 元' : money(e.pay);
+      if (e.pay_note === '新任') return `<span class="faint" data-tip="${esc(`${e.since || ''} 起任职，年报未披露其全年报酬`)}">新任</span>`;
+      if (e.pay_note) return `<span class="faint" data-tip="年报中该年度报酬为空或为 0，通常在股东单位领薪">${esc(e.pay_note)}</span>`;
+      return '<span class="faint" title="年报/招股书金额尚未逐人核实">薪酬未核实</span>';
+    };
+    const execs = (s.executives || []).map((e) => `<tr><td>${esc(e.name)}</td><td class="muted">${esc(e.title)}</td><td>${payCell(e)}</td></tr>`).join('');
     const hnc = s.holder_num_change_pct;
     // 次新股上市后户数可能暴增数万倍（如长鑫科技），大数去掉小数位并说明
     const hncText = spct(hnc);
@@ -2283,14 +2346,14 @@
       <div class="hstats">
         <div class="kpi"><div class="k">股东户数</div><div class="v">${isNum(s.holder_num) ? int(s.holder_num) + ' 户' : '—'}</div>
           <div class="s ${cls(hnc)}"${isNum(hnc) && Math.abs(hnc) >= 1000 ? ' title="上期为上市前，股东户数基数极小"' : ''}>较上期 ${hncText}</div></div>
-        <div class="kpi"><div class="k">机构持股（财务投资者）</div><div class="v">${pct(s.inst_hold_ratio)}</div><div class="s">${isNum(s.inst_hold_ratio) ? '基金/保险/券商/QFII/社保' : '该期暂无可比数据'}</div></div>
+        <div class="kpi"><div class="k">机构持股（财务投资者）</div><div class="v">${pct(s.inst_hold_ratio)}</div><div class="s" data-tip="${esc(s.inst_hold_definition ? `${s.inst_hold_definition}${(s.inst_hold_excluded || []).length ? `；本公司剔除：${s.inst_hold_excluded.map((x) => `${x.name} ${num(x.ratio)}%`).join('、')}` : ''}；东方财富数据中心` : '基金/保险/券商/QFII/社保')}">${s.inst_hold_date ? `${isNum(s.inst_hold_ratio) ? '' : '暂无机构持仓 · '}${esc(s.inst_hold_date)} ${s.inst_hold_date.endsWith('06-30') ? '中报' : '年报'}` : (isNum(s.inst_hold_ratio) ? '基金/保险/券商/QFII/社保' : '该期暂无可比数据')}</div></div>
         <div class="kpi"><div class="k">陆股通持股</div><div class="v">${pct(s.northbound_ratio)}</div><div class="s">${isNum(s.northbound_ratio) ? '占总股本' : '未查得持股数据'}</div></div>
         <div class="kpi"><div class="k">质押比例</div><div class="v">${pct(s.pledge_ratio_total)}</div><div class="s">${s.pledge_ratio_total === 0 ? '无质押' : '全公司质押 ÷ 总股本'}</div></div>
       </div>
       <div class="sub">前十大股东<span class="note">持股变化为较上期增减；悬停联动股权结构条</span></div>
       <div class="holders" id="holders">${holderRows || '<div class="empty">暂无数据</div>'}</div>
       <div class="two">
-        <div><div class="sub">核心高管</div><table class="mini-tbl"><thead><tr><th>姓名</th><th>职务</th><th>2025 年税前报酬</th></tr></thead><tbody>${execs}</tbody></table></div>
+        <div><div class="sub">核心高管</div><table class="mini-tbl"><thead><tr><th>姓名</th><th>职务</th><th>${s.exec_pay_year || 2025} 年税前报酬</th></tr></thead><tbody>${execs}</tbody></table></div>
         <div><div class="sub">未来 12 个月解禁</div>${unlock ? `<table class="mini-tbl"><thead><tr><th>日期</th><th>数量</th><th>占总股本</th></tr></thead><tbody>${unlock}</tbody></table>` : '<div class="empty">未来 12 个月无解禁</div>'}</div>
       </div>`;
 
@@ -2348,6 +2411,17 @@
     /* 问答（bug 1：按提问日降序显示） */
     const QA_THIRD_PARTY = ['601658.SH', '601766.SH', '688012.SH', '688235.SH', '688802.SH', '688808.SH', '688820.SH'];
     const qaItems = [...(c.qa.items || [])].sort((a, b) => (b.ask_date || '').localeCompare(a.ask_date || ''));
+    // 问答为空：区分「来源确实没有」与「抓取失败」，不笼统写暂无数据
+    const qaErr = c.qa.error || c._extras?.qa?.error;
+    const qaSrc = code.endsWith('.SH') ? '上证 e 互动' : '深交所互动易';
+    const qaEmpty = qaErr ? '问答获取失败，下次更新时重试'
+      : (c.qa.fetched_at || c._extras?.qa?.fetched_at) ? `${qaSrc}近期没有该公司的问答${c.qa.url ? `，<a href="${esc(c.qa.url)}" target="_blank" rel="noopener">去来源查看</a>` : ''}`
+      : '暂无数据';
+    const autoGaps = c.profile_status !== 'auto_profile' ? [] : [
+      [!c.identity.audit_opinion, '审计意见'], [!s.controlling_shareholder && !s.controller, '控股股东'],
+      [!isNum(s.inst_hold_ratio), '机构持股'], [!(p.segments || []).length, '主营构成'],
+      [!(c.announcements.items || []).length, '公告'], [qaErr, '问答'],
+    ].filter(([gap]) => gap).map(([, name]) => name);
     // 回复率与平均回复天数（只计有回复日期的）；第三方来源无回答时与「公司未回复」区分
     const third = QA_THIRD_PARTY.includes(code);
     const answered = qaItems.filter((x) => x.answer);
@@ -2366,7 +2440,7 @@
           : third ? '<span class="qa-none" title="第三方整理的记录不含回答">来源未提供回答</span>' : '<span class="qa-none" title="公司尚未回复">暂无回复信息</span>'}
       </article>`).join('')}<div class="empty" id="qaempty" hidden>没有符合条件的问答</div></div>
       ${QA_THIRD_PARTY.includes(code) ? '<p class="qa-note">以上问答来源：理杏仁、准上市（上证e互动历史记录的第三方整理）；提问年份为推定。</p>' : ''}`
-      : '<div class="empty">暂无数据</div>';
+      : `<div class="empty">${qaEmpty}</div>`;
 
     /* 公告：按月分组，全文/摘要/英文版折叠 */
     const ann = announcementBlock(code, c.announcements);
@@ -2402,7 +2476,7 @@
             </div>
           </div>
           <p class="sum">${esc(id.business_summary || '')}</p>
-          ${c.profile_status === 'auto_profile' ? `<p class="notice auto-notice"><span class="badge warn" data-tip="${esc(`${c.profile_meta?.source || ''}；抓取于 ${(c.profile_meta?.fetched_at || '').slice(0, 16).replace('T', ' ')}`)}">自动补档 · 待复核</span> 新进百强公司，档案由脚本从公开数据自动生成；机构持股、同行、公告、问答暂缺。</p>` : ''}
+          ${c.profile_status === 'auto_profile' ? `<p class="notice auto-notice"><span class="badge warn" data-tip="${esc(`${c.profile_meta?.source || ''}；抓取于 ${(c.profile_meta?.fetched_at || '').slice(0, 16).replace('T', ' ')}`)}">自动补档 · 待复核</span> 新进百强公司，档案由脚本从公开数据自动生成${autoGaps.length ? `；${autoGaps.join('、')}暂缺` : ''}。</p>` : ''}
           <div class="stampline"><span>行情 ${esc(LIVE ? quoteTime(m.quote_at) + (LIVE.ranking_status === 'close_confirmed' ? ' 收盘确认' : ' 盘中暂定') : (m.as_of_date || DATA.meta.as_of_date) + ' 收盘')}</span><span>财务 ${esc(lat.report_type || '—')}</span><span>股东 截至 ${esc(s.holder_num_date || '—')}</span></div>
           <div class="metrics">${metrics}</div>
           <div class="band"><div class="range">${range}</div><div>${rets}</div></div>
@@ -3043,10 +3117,20 @@
     } else if (code && !COMPANIES[code] && /^\d{6}\.(SH|SZ|BJ)$/.test(code) && LIVE) {
       app.innerHTML = `${siteHeader('list')}<div class="wrap report"><div class="empty">正在读取历史档…</div></div>`;
       window.scrollTo(0, 0);
-      fetch(`live/history/${code}.json`, { cache: 'no-store' })
-        .then((r) => (r.ok ? r.json() : null)).catch(() => null)
+      const getJson = (u) => fetch(u, { cache: 'no-store' }).then((r) => (r.ok ? r.json() : null)).catch(() => null);
+      const here = () => location.hash.replace(/^#\/?/, '').split('/')[0] === code; // 未切到别的页面
+      // 临界区公司优先显示临界页；否则显示出榜历史档
+      getJson(`live/watch/${code}.json`).then(async (watch) => {
+        if (!watch) return getJson(`live/history/${code}.json`);
+        if (here()) {
+          app.innerHTML = watchCompanyView(code, watch);
+          document.title = `${watch.name} · 临界区 · Ashare100`;
+          bindJump();
+        }
+        return 'shown';
+      })
         .then((doc) => {
-          if (location.hash.replace(/^#\/?/, '').split('/')[0] !== code) return; // 已切到别的页面
+          if (doc === 'shown' || !here()) return;
           app.innerHTML = exitedCompanyView(code, doc);
           document.title = `${doc?.name || code} · ${doc ? '已出榜' : '不在百强'} · Ashare100`;
           bindJump();

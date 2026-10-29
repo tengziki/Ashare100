@@ -112,7 +112,7 @@
     });
   }
 
-  function combine(snapshot, metricsDoc = null, bundle = null, disclosures = null) {
+  function combine(snapshot, metricsDoc = null, bundle = null, disclosures = null, instHold = null, execs = null) {
     const companies = {};
     // 档案增量包：与当前快照对应时，已核实改动覆盖 data.js 基线，自动补档优先于快照内嵌档案
     const extra = bundle?.meta?.snapshot === snapshot.meta.snapshot_path ? bundle.profiles || {} : {};
@@ -139,18 +139,33 @@
       const c = companies[code];
       if (!c) continue;
       if (d.announcements?.items) c.announcements = d.announcements;
-      if (d.qa?.items) c.qa = d.qa;
+      if (d.qa?.items) c.qa = { ...d.qa, fetched_at: d.qa_at || null, error: d.qa_error || null };
+    }
+    // 机构持股：全站统一用 build_inst_hold.py 的同一报告期、同一口径（替换档案里口径不一的旧数）
+    if (instHold?.meta?.report_date) {
+      for (const [code, c] of Object.entries(companies)) {
+        const v = instHold.companies?.[code];
+        c.shareholders = { ...c.shareholders, inst_hold_ratio: v ? v.ratio : null, inst_hold_excluded: v?.excluded || [],
+          inst_hold_date: instHold.meta.report_date, inst_hold_definition: instHold.meta.definition };
+      }
+    }
+    // 核心高管：每天更新的最新姓名与年报报酬（build_executives.py）；没有该公司时沿用档案
+    for (const [code, e] of Object.entries(execs?.companies || {})) {
+      const c = companies[code];
+      if (c && e.executives?.length) c.shareholders = { ...c.shareholders, executives: e.executives, exec_pay_year: execs.meta.pay_year };
     }
     for (const row of snapshot.members) {
       if (metrics[row.code]) applyMetrics(companies[row.code], { ...metrics[row.code], date: snapshot.meta.quote_date }, row.price);
     }
-    // 没有同行名单的公司（自动补档、复核转正）：当前百强中同一申万一级、市值最接近的 5 家
+    // 没有同行名单的公司（自动补档、复核转正）：当前百强中同一申万一级、市值最接近的 5 家，同一申万二级优先
     for (const [code, c] of Object.entries(companies)) {
       if (c.peers?.peer_codes?.length) continue;
       const mv = c.market.total_mv;
+      const sw2 = c.identity.industry_sw2;
+      const other = (o) => (sw2 && o.identity.industry_sw2 === sw2 ? 0 : 1);
       c.peers = { ...c.peers, peer_codes: Object.entries(companies)
         .filter(([k, o]) => k !== code && o.identity.industry_sw1 === c.identity.industry_sw1)
-        .sort(([, a], [, b]) => Math.abs(a.market.total_mv - mv) - Math.abs(b.market.total_mv - mv))
+        .sort(([, a], [, b]) => other(a) - other(b) || Math.abs(a.market.total_mv - mv) - Math.abs(b.market.total_mv - mv))
         .slice(0, 5).map(([k]) => k) };
     }
     return {
@@ -180,7 +195,9 @@
         .catch(() => null);
       const bundle = await fetchJson(BASE + 'profiles/bundle.json').catch(() => null);
       const disclosures = await fetchJson(BASE + 'disclosures/latest.json').catch(() => null);
-      window.__DATA__ = combine({ ...snapshot, meta: { ...snapshot.meta, snapshot_path: manifest.snapshot } }, metricsDoc, bundle, disclosures);
+      const instHold = await fetchJson(BASE + 'inst_hold.json').catch(() => null);
+      const execs = await fetchJson(BASE + 'executives.json').catch(() => null);
+      window.__DATA__ = combine({ ...snapshot, meta: { ...snapshot.meta, snapshot_path: manifest.snapshot } }, metricsDoc, bundle, disclosures, instHold, execs);
       // 数据任务状态（status.json）可缺省：只用于页脚面板
       window.__DATA__.meta.task_status = await fetchJson(BASE + 'status.json').catch(() => null);
       window.__LIVE_STATE__ = { mode: 'live', snapshot: manifest.snapshot };

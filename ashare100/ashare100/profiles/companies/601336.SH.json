@@ -9,14 +9,15 @@
   "name_en": "New China Life Insurance Company Ltd.",
   "former_names": [],
   "industry_sw1": "非银金融",
-  "industry_sw2": null,
+  "industry_sw2": "保险Ⅱ",
   "list_date": "2011-12-16",
+  "found_date": "1996-09-28",
   "province": "北京",
   "city": null,
   "website": "www.newchinalife.com",
   "chairman": "杨玉成",
   "employees": 27007,
-  "business_summary": "人民币、外币的人身保险(包括各类人寿保险、健康保险、意外伤害保险);为境内外的保险机构代理保险、检验、理赔等业务;保险咨询;依照有关法规从事资金运用业务;经保险…",
+  "business_summary": "人民币、外币的人身保险",
   "profile": "新华人寿保险股份有限公司(以下简称“新华保险”或“公司”)成立于1996年9月,总部位于北京市,是一家全国性的大型寿险企业。公司锚定“中国一流的以保险业务为核心的金融服务集团”发展愿景,为客户提供覆盖全生命周期的风险保障和财富规划的产品及服务,着力推动养老产业、健康产业发展,助力寿险主业发展。2011年,新华保险在上交所和联交所同步上市。新华保险坚定不移走内涵式、高质量发展道路,深入践行“以客户为中心”的经营管理理念,持续推进各领域专业化、市场化、体系化改革转型,紧抓行业新机遇新变化,与时俱进树立大保险观,围绕客户全生命周期需求打造多层次产品体系,构建涵盖医康养等十大领域的服务生态,打造一流的投资管理能力,全面提升公司核心竞争力,推动公司实现高质量、高水平和高能级发展。",
   "st_status": null,
   "audit_opinion": null
@@ -41,7 +42,8 @@
     "debt_ratio": 90.38,
     "total_liab": 1019207000000.0,
     "total_assets": 1127690860810,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": 73853000000.0
    },
    {
     "fiscal_year": 2022,
@@ -60,7 +62,8 @@
     "debt_ratio": 91.93,
     "total_liab": 1116940000000.0,
     "total_assets": 1214989666050,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": 88516000000.0
    },
    {
     "fiscal_year": 2023,
@@ -79,7 +82,8 @@
     "debt_ratio": 92.51,
     "total_liab": 1298165000000.0,
     "total_assets": 1403269916766,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": 91548000000.0
    },
    {
     "fiscal_year": 2024,
@@ -98,7 +102,8 @@
     "debt_ratio": 94.31,
     "total_liab": 1596028000000.0,
     "total_assets": 1692321068816,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": 96290000000.0
    },
    {
     "fiscal_year": 2025,
@@ -117,7 +122,8 @@
     "debt_ratio": 94.13,
     "total_liab": 1787906000000.0,
     "total_assets": 1899400828641,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": 110916000000.0
    }
   ],
   "latest": {
@@ -132,7 +138,8 @@
    "net_margin": 27.38,
    "eps": 7.31,
    "roe": 18.87,
-   "debt_ratio": 93.69
+   "debt_ratio": 93.69,
+   "ocf": 56190000000.0
   },
   "derived": {
    "revenue_cagr_3y": 13.44,
@@ -151,7 +158,7 @@
     "name": "中央汇金投资有限责任公司",
     "hold_num": 977530534.0,
     "hold_ratio": 31.34,
-    "hold_num_change": null
+    "hold_num_change": 0
    },
    {
     "rank": 2,
@@ -165,14 +172,14 @@
     "name": "中国宝武钢铁集团有限公司",
     "hold_num": 377162581.0,
     "hold_ratio": 12.09,
-    "hold_num_change": null
+    "hold_num_change": 0
    },
    {
     "rank": 4,
     "name": "华宝投资有限公司",
     "hold_num": 60503300.0,
     "hold_ratio": 1.94,
-    "hold_num_change": null
+    "hold_num_change": 0
    },
    {
     "rank": 5,
@@ -186,7 +193,7 @@
     "name": "中央汇金资产管理有限责任公司",
     "hold_num": 28249200.0,
     "hold_ratio": 0.91,
-    "hold_num_change": null
+    "hold_num_change": 0
    },
    {
     "rank": 7,
@@ -214,7 +221,7 @@
     "name": "邹刚",
     "hold_num": 7500072.0,
     "hold_ratio": 0.24,
-    "hold_num_change": null
+    "hold_num_change": 0
    }
   ],
   "top10_date": "2026-06-30",
@@ -294,7 +301,36 @@
  },
  "peers": {
   "peer_codes": [],
-  "segments": []
+  "segments": [
+   {
+    "name": "传统型保险",
+    "revenue": 89285000000.0,
+    "ratio": 56.6,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "分红型保险",
+    "revenue": 61642000000.0,
+    "ratio": 39.08,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他业务",
+    "revenue": 7882000000.0,
+    "ratio": 5.0,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "抵销",
+    "revenue": -1064000000.0,
+    "ratio": -0.67,
+    "type": "product",
+    "period": "2025年报"
+   }
+  ]
  },
  "announcements": {
   "items": [
@@ -422,12 +458,11 @@
   "count_12m": 93
  },
  "qa": {
-  "items": [],
-  "count_12m": null
+  "items": []
  },
  "_meta": {
   "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
-  "fetched_at": "2026-10-27T16:17:51+08:00",
+  "fetched_at": "2026-10-30T00:21:17+08:00",
   "errors": {}
  },
  "_extras": {

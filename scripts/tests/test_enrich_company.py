@@ -59,6 +59,28 @@ class CompanyEnrichTests(unittest.TestCase):
         self.assertEqual(p["dividends"]["consecutive_years"], 2)  # 2026 中期 + 2025
         self.assertIsNone(p["dividends"]["cum_dividend_5y"])
 
+    def test_summary_segments_and_cashflow(self):
+        self.assertEqual(ec.summary_of("茅台酒及系列酒的生产与销售;饮料、食品的生产"), "茅台酒及系列酒的生产与销售")
+        self.assertEqual(ec.summary_of("(一)吸收公众存款;(二)发放短期贷款"), "吸收公众存款")
+        self.assertEqual(ec.summary_of("一般项目:工业自动控制系统装置制造;销售"), "工业自动控制系统装置制造")
+        self.assertEqual(ec.summary_of("许可项目：发电业务；一般项目：储能"), "发电业务")
+        self.assertIsNone(ec.summary_of(""))
+        self.assertEqual(ec.summary_of("许可项目:医护人员防护用品生产(依法须经批准的项目)一般项目:光电子器件制造;玻璃制造"), "光电子器件制造")
+        self.assertEqual(ec.summary_of("生产机械;销售", "公司主要从事工程机械的研发、制造、销售和服务。"), "工程机械的研发、制造、销售和服务")
+        raw = dict(RAW, business={"zygcfx": [
+            {"REPORT_DATE": "2026-06-30 00:00:00", "MAINOP_TYPE": "2", "ITEM_NAME": "中报产品", "MAIN_BUSINESS_INCOME": 1, "MBI_RATIO": 1},
+            {"REPORT_DATE": "2025-12-31 00:00:00", "MAINOP_TYPE": "1", "ITEM_NAME": "按行业", "MAIN_BUSINESS_INCOME": 9, "MBI_RATIO": 1},
+            {"REPORT_DATE": "2025-12-31 00:00:00", "MAINOP_TYPE": "2", "ITEM_NAME": "存贷款", "MAIN_BUSINESS_INCOME": 800, "MBI_RATIO": 0.8},
+            {"REPORT_DATE": "2025-12-31 00:00:00", "MAINOP_TYPE": "3", "ITEM_NAME": "江苏", "MAIN_BUSINESS_INCOME": 1000, "MBI_RATIO": 1.0}]},
+            cashflow=[{"REPORT_DATE": "2025-12-31 00:00:00", "NETCASH_OPERATE": 123.4},
+                      {"REPORT_DATE": "2026-06-30 00:00:00", "NETCASH_OPERATE": 56.0}])
+        p = ec.build_profile("600016.SH", BASE, lambda code: (raw, {}))
+        self.assertEqual([(x["name"], x["type"], x["ratio"], x["period"]) for x in p["peers"]["segments"]],
+                         [("存贷款", "product", 80.0, "2025年报"), ("江苏", "region", 100.0, "2025年报")])
+        self.assertEqual(p["financials"]["annual"][4]["ocf"], 123.4)
+        self.assertIsNone(p["financials"]["annual"][3]["ocf"])  # 来源没有该期：留空，不填 0
+        self.assertEqual(p["financials"]["latest"]["ocf"], 56.0)
+
     def test_failed_group_stays_empty_not_zero(self):
         raw = {k: v for k, v in RAW.items() if k != "bonus"}
         p = ec.build_profile("600016.SH", BASE, lambda code: (raw, {"bonus": "timeout"}))
@@ -106,6 +128,28 @@ class CompanyEnrichTests(unittest.TestCase):
             rebuilt = json.loads((cache / "600016.SH.json").read_text(encoding="utf-8"))
             self.assertEqual(rebuilt["qa"]["items"][0]["question"], "q")
             self.assertTrue(json.loads((cache / "600016.SH.json").read_text(encoding="utf-8"))["identity"])
+
+
+class WatchDocTests(unittest.TestCase):
+    def test_watch_docs_use_verified_then_auto_and_drop_stale(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            live, cache = Path(tmp) / "live", Path(tmp) / "cache"
+            cache.mkdir()
+            (cache / "002050.SZ.json").write_text(json.dumps({"identity": {"name_abbr": "三花智控"}, "_meta": {}}), encoding="utf-8")
+            (live / "watch").mkdir(parents=True)
+            (live / "watch" / "000000.SZ.json").write_text("{}", encoding="utf-8")
+            snap = {"meta": {"quote_date": "2026-10-29"}, "members": [{"code": "300033.SZ", "name": "同花顺", "total_mv": 151.0}],
+                    "watchlist": [{"code": "688808.SH", "name": "联讯仪器", "rank": 101, "total_mv": 146.0},
+                                  {"code": "002050.SZ", "name": "三花智控", "rank": 103, "total_mv": 145.0}]}
+            written = ec.write_watch_docs(snap, {"sz002050": {"price": 30.1, "code": "002050.SZ"}}, live,
+                                          {"688808.SH": {"identity": {"name_abbr": "联讯仪器"}}}, cache_dir=cache)
+            self.assertEqual(written, ["688808.SH", "002050.SZ"])
+            self.assertEqual(sorted(f.name for f in (live / "watch").iterdir()), ["002050.SZ.json", "688808.SH.json"])
+            doc = json.loads((live / "watch" / "002050.SZ.json").read_text(encoding="utf-8"))
+            self.assertEqual((doc["profile_status"], doc["gap_to_100"], doc["market"]["price"]), ("auto_profile", 6.0, 30.1))
+            self.assertNotIn("_meta", doc["profile"])
+            first = json.loads((live / "watch" / "688808.SH.json").read_text(encoding="utf-8"))
+            self.assertEqual(first["profile_status"], "verified")
 
 
 if __name__ == "__main__":

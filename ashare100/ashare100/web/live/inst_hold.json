@@ -1,0 +1,467 @@
+{
+ "meta": {
+  "report_date": "2026-06-30",
+  "definition": "基金、QFII、社保、券商、保险、信托合计，剔除单家持股 ≥5% 的机构",
+  "source": "东方财富数据中心 · 主力持仓",
+  "generated_at": "2026-10-30T01:03:07+08:00",
+  "count": 97
+ },
+ "companies": {
+  "000001.SZ": {
+   "ratio": 6.48,
+   "excluded": [
+    {
+     "name": "中国平安保险(集团)股份有限公司-集团本级-自有资金",
+     "type": "保险",
+     "ratio": 49.56
+    },
+    {
+     "name": "中国平安人寿保险股份有限公司-自有资金",
+     "type": "保险",
+     "ratio": 6.11
+    }
+   ]
+  },
+  "000333.SZ": {
+   "ratio": 10.93,
+   "excluded": []
+  },
+  "000338.SZ": {
+   "ratio": 8.75,
+   "excluded": []
+  },
+  "000651.SZ": {
+   "ratio": 10.31,
+   "excluded": []
+  },
+  "000725.SZ": {
+   "ratio": 6.05,
+   "excluded": []
+  },
+  "000858.SZ": {
+   "ratio": 6.49,
+   "excluded": []
+  },
+  "002142.SZ": {
+   "ratio": 6.06,
+   "excluded": [
+    {
+     "name": "新加坡华侨银行股份有限公司",
+     "type": "QFII",
+     "ratio": 20.02
+    }
+   ]
+  },
+  "002352.SZ": {
+   "ratio": 3.65,
+   "excluded": []
+  },
+  "002371.SZ": {
+   "ratio": 15.27,
+   "excluded": []
+  },
+  "002379.SZ": {
+   "ratio": 1.15,
+   "excluded": []
+  },
+  "002384.SZ": {
+   "ratio": 20.16,
+   "excluded": []
+  },
+  "002415.SZ": {
+   "ratio": 6.49,
+   "excluded": []
+  },
+  "002463.SZ": {
+   "ratio": 17.81,
+   "excluded": []
+  },
+  "002475.SZ": {
+   "ratio": 13.08,
+   "excluded": []
+  },
+  "002594.SZ": {
+   "ratio": 2.25,
+   "excluded": []
+  },
+  "002714.SZ": {
+   "ratio": 5.35,
+   "excluded": []
+  },
+  "002916.SZ": {
+   "ratio": 14.24,
+   "excluded": []
+  },
+  "003816.SZ": {
+   "ratio": 4.36,
+   "excluded": []
+  },
+  "300033.SZ": {
+   "ratio": 5.74,
+   "excluded": []
+  },
+  "300059.SZ": {
+   "ratio": 11.31,
+   "excluded": []
+  },
+  "300124.SZ": {
+   "ratio": 9.08,
+   "excluded": []
+  },
+  "300308.SZ": {
+   "ratio": 19.8,
+   "excluded": []
+  },
+  "300394.SZ": {
+   "ratio": 14.84,
+   "excluded": []
+  },
+  "300408.SZ": {
+   "ratio": 20.3,
+   "excluded": []
+  },
+  "300476.SZ": {
+   "ratio": 6.99,
+   "excluded": []
+  },
+  "300502.SZ": {
+   "ratio": 26.85,
+   "excluded": []
+  },
+  "300750.SZ": {
+   "ratio": 7.34,
+   "excluded": []
+  },
+  "300760.SZ": {
+   "ratio": 8.08,
+   "excluded": []
+  },
+  "302132.SZ": {
+   "ratio": 1.53,
+   "excluded": []
+  },
+  "600000.SH": {
+   "ratio": 7.66,
+   "excluded": [
+    {
+     "name": "富德生命人寿保险股份有限公司-传统",
+     "type": "保险",
+     "ratio": 8.35
+    },
+    {
+     "name": "富德生命人寿保险股份有限公司-资本金",
+     "type": "保险",
+     "ratio": 5.29
+    }
+   ]
+  },
+  "600016.SH": {
+   "ratio": 3.51,
+   "excluded": [
+    {
+     "name": "大家人寿保险股份有限公司-万能产品",
+     "type": "保险",
+     "ratio": 10.3
+    },
+    {
+     "name": "大家人寿保险股份有限公司-传统产品",
+     "type": "保险",
+     "ratio": 6.49
+    }
+   ]
+  },
+  "600025.SH": {
+   "ratio": 0.65,
+   "excluded": []
+  },
+  "600028.SH": {
+   "ratio": 1.25,
+   "excluded": []
+  },
+  "600030.SH": {
+   "ratio": 9.57,
+   "excluded": []
+  },
+  "600031.SH": {
+   "ratio": 11.15,
+   "excluded": []
+  },
+  "600036.SH": {
+   "ratio": 7.2,
+   "excluded": []
+  },
+  "600150.SH": {
+   "ratio": 5.63,
+   "excluded": []
+  },
+  "600183.SH": {
+   "ratio": 13.23,
+   "excluded": [
+    {
+     "name": "伟华电子有限公司",
+     "type": "QFII",
+     "ratio": 12.14
+    }
+   ]
+  },
+  "600188.SH": {
+   "ratio": 4.52,
+   "excluded": []
+  },
+  "600276.SH": {
+   "ratio": 10.29,
+   "excluded": []
+  },
+  "600309.SH": {
+   "ratio": 10.6,
+   "excluded": []
+  },
+  "600406.SH": {
+   "ratio": 3.98,
+   "excluded": []
+  },
+  "600519.SH": {
+   "ratio": 4.06,
+   "excluded": []
+  },
+  "600690.SH": {
+   "ratio": 5.1,
+   "excluded": []
+  },
+  "600887.SH": {
+   "ratio": 13.83,
+   "excluded": []
+  },
+  "600900.SH": {
+   "ratio": 8.42,
+   "excluded": []
+  },
+  "600919.SH": {
+   "ratio": 8.04,
+   "excluded": [
+    {
+     "name": "江苏省国际信托有限责任公司",
+     "type": "信托",
+     "ratio": 6.98
+    },
+    {
+     "name": "华泰证券股份有限公司",
+     "type": "券商",
+     "ratio": 5.03
+    }
+   ]
+  },
+  "600930.SH": {
+   "ratio": 0.6,
+   "excluded": []
+  },
+  "600938.SH": {
+   "ratio": 0.93,
+   "excluded": []
+  },
+  "600941.SH": {
+   "ratio": 0.68,
+   "excluded": []
+  },
+  "600989.SH": {
+   "ratio": 3.53,
+   "excluded": []
+  },
+  "601009.SH": {
+   "ratio": 15.08,
+   "excluded": [
+    {
+     "name": "法国巴黎银行(含QFII)",
+     "type": "QFII",
+     "ratio": 18.14
+    }
+   ]
+  },
+  "601066.SH": {
+   "ratio": 6.91,
+   "excluded": []
+  },
+  "601088.SH": {
+   "ratio": 2.12,
+   "excluded": []
+  },
+  "601138.SH": {
+   "ratio": 3.17,
+   "excluded": []
+  },
+  "601166.SH": {
+   "ratio": 18.19,
+   "excluded": []
+  },
+  "601211.SH": {
+   "ratio": 9.73,
+   "excluded": []
+  },
+  "601225.SH": {
+   "ratio": 7.16,
+   "excluded": []
+  },
+  "601288.SH": {
+   "ratio": 2.12,
+   "excluded": []
+  },
+  "601318.SH": {
+   "ratio": 8.43,
+   "excluded": []
+  },
+  "601319.SH": {
+   "ratio": 0.92,
+   "excluded": []
+  },
+  "601328.SH": {
+   "ratio": 2.45,
+   "excluded": []
+  },
+  "601336.SH": {
+   "ratio": 4.44,
+   "excluded": []
+  },
+  "601398.SH": {
+   "ratio": 1.05,
+   "excluded": []
+  },
+  "601601.SH": {
+   "ratio": 3.41,
+   "excluded": []
+  },
+  "601628.SH": {
+   "ratio": 0.62,
+   "excluded": [
+    {
+     "name": "中国人寿保险(集团)公司",
+     "type": "保险",
+     "ratio": 68.37
+    }
+   ]
+  },
+  "601658.SH": {
+   "ratio": 3.12,
+   "excluded": []
+  },
+  "601668.SH": {
+   "ratio": 5.44,
+   "excluded": []
+  },
+  "601688.SH": {
+   "ratio": 11.4,
+   "excluded": []
+  },
+  "601728.SH": {
+   "ratio": 2.04,
+   "excluded": []
+  },
+  "601766.SH": {
+   "ratio": 4.12,
+   "excluded": []
+  },
+  "601816.SH": {
+   "ratio": 8.6,
+   "excluded": []
+  },
+  "601818.SH": {
+   "ratio": 2.33,
+   "excluded": []
+  },
+  "601857.SH": {
+   "ratio": 0.82,
+   "excluded": []
+  },
+  "601869.SH": {
+   "ratio": 2.67,
+   "excluded": []
+  },
+  "601898.SH": {
+   "ratio": 2.95,
+   "excluded": []
+  },
+  "601899.SH": {
+   "ratio": 9.34,
+   "excluded": []
+  },
+  "601919.SH": {
+   "ratio": 3.38,
+   "excluded": []
+  },
+  "601939.SH": {
+   "ratio": 0.46,
+   "excluded": []
+  },
+  "601985.SH": {
+   "ratio": 8.65,
+   "excluded": []
+  },
+  "601988.SH": {
+   "ratio": 0.86,
+   "excluded": []
+  },
+  "601995.SH": {
+   "ratio": 3.2,
+   "excluded": []
+  },
+  "601998.SH": {
+   "ratio": 3.46,
+   "excluded": []
+  },
+  "603259.SH": {
+   "ratio": 15.93,
+   "excluded": []
+  },
+  "603268.SH": {
+   "ratio": 6.26,
+   "excluded": []
+  },
+  "603288.SH": {
+   "ratio": 2.4,
+   "excluded": []
+  },
+  "603986.SH": {
+   "ratio": 15.85,
+   "excluded": []
+  },
+  "603993.SH": {
+   "ratio": 5.21,
+   "excluded": []
+  },
+  "688008.SH": {
+   "ratio": 18.65,
+   "excluded": []
+  },
+  "688012.SH": {
+   "ratio": 23.73,
+   "excluded": []
+  },
+  "688041.SH": {
+   "ratio": 11.63,
+   "excluded": []
+  },
+  "688235.SH": {
+   "ratio": 2.42,
+   "excluded": []
+  },
+  "688256.SH": {
+   "ratio": 14.55,
+   "excluded": []
+  },
+  "688347.SH": {
+   "ratio": 6.66,
+   "excluded": []
+  },
+  "688795.SH": {
+   "ratio": 1.17,
+   "excluded": []
+  },
+  "688802.SH": {
+   "ratio": 1.15,
+   "excluded": []
+  },
+  "688981.SH": {
+   "ratio": 5.22,
+   "excluded": []
+  }
+ }
+}

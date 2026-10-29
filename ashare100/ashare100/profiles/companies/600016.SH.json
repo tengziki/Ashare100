@@ -11,14 +11,15 @@
    "民生银行→G民生"
   ],
   "industry_sw1": "银行",
-  "industry_sw2": null,
+  "industry_sw2": "股份制银行Ⅱ",
   "list_date": "2000-12-19",
+  "found_date": "1996-02-07",
   "province": "北京",
   "city": null,
   "website": "www.cmbc.com.cn",
   "chairman": "高迎欣",
   "employees": 60394,
-  "business_summary": "吸收公众存款;发放短期、中期和长期贷款;办理国内外结算;办理票据承兑与贴现、发行金融债券;代理发行、代理兑付、承销政府债券;买卖政府债券、金融债券;从事同业拆借…",
+  "business_summary": "吸收公众存款",
   "profile": "中国民生银行股份有限公司于1996年在北京正式成立,是中国第一家主要由民营企业发起设立的全国性股份制商业银行。本行经有关监管机构批准后,经营下列各项商业银行业务:吸收公众存款;发放短期、中期和长期贷款;办理国内外结算;办理票据承兑与贴现、发行金融债券;代理发行、代理兑付、承销政府债券;买卖政府债券、金融债券;从事同业拆借;买卖、代理买卖外汇:从事结汇、售汇业务;从事银行卡业务;提供信用证服务及担保;代理收付款项;提供保管箱服务;经国务院银行业监督管理机构批准的其它业务;保险兼业代理业务;证券投资基金销售、证券投资基金托管。(市场主体依法自主选择经营项目,开展经营活动;保险兼业代理业务、证券投资基金销售、证券投资基金托管以及依法须经批准的项目,经相关部门批准后依批准的内容开展经营活动;不得从事国家和本市产业政策禁止和限制类项目的经营活动)。",
   "st_status": null,
   "audit_opinion": null
@@ -43,7 +44,8 @@
     "debt_ratio": 91.56,
     "total_liab": 6366247000000.0,
     "total_assets": 6953087592835,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": 155417000000.0
    },
    {
     "fiscal_year": 2022,
@@ -62,7 +64,8 @@
     "debt_ratio": 91.55,
     "total_liab": 6642859000000.0,
     "total_assets": 7255990169306,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": 166273000000.0
    },
    {
     "fiscal_year": 2023,
@@ -81,7 +84,8 @@
     "debt_ratio": 91.69,
     "total_liab": 7037164000000.0,
     "total_assets": 7674952557531,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": 73676000000.0
    },
    {
     "fiscal_year": 2024,
@@ -100,7 +104,8 @@
     "debt_ratio": 91.6,
     "total_liab": 7158401000000.0,
     "total_assets": 7814848253275,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": -231638000000.0
    },
    {
     "fiscal_year": 2025,
@@ -119,7 +124,8 @@
     "debt_ratio": 91.02,
     "total_liab": 7129370000000.0,
     "total_assets": 7832751043727,
-    "ocf_to_np": null
+    "ocf_to_np": null,
+    "ocf": -157476000000.0
    }
   ],
   "latest": {
@@ -134,7 +140,8 @@
    "net_margin": 25.61,
    "eps": 0.4,
    "roe": 3.02,
-   "debt_ratio": 90.79
+   "debt_ratio": 90.79,
+   "ocf": 184168000000.0
   },
   "derived": {
    "revenue_cagr_3y": 0.09,
@@ -296,7 +303,85 @@
  },
  "peers": {
   "peer_codes": [],
-  "segments": []
+  "segments": [
+   {
+    "name": "对公业务",
+    "revenue": 68634000000.0,
+    "ratio": 48.04,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "零售业务",
+    "revenue": 56623000000.0,
+    "ratio": 39.63,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他业务",
+    "revenue": 17608000000.0,
+    "ratio": 12.32,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "总部",
+    "revenue": 53904000000.0,
+    "ratio": 37.73,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "长江三角洲",
+    "revenue": 24515000000.0,
+    "ratio": 17.16,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "珠江三角洲",
+    "revenue": 15046000000.0,
+    "ratio": 10.53,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "境外及附属机构",
+    "revenue": 12920000000.0,
+    "ratio": 9.04,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "环渤海地区",
+    "revenue": 12282000000.0,
+    "ratio": 8.6,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "西部地区",
+    "revenue": 11087000000.0,
+    "ratio": 7.76,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "中部地区",
+    "revenue": 10536000000.0,
+    "ratio": 7.37,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "东北地区",
+    "revenue": 2575000000.0,
+    "ratio": 1.8,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
  },
  "announcements": {
   "items": [],
@@ -307,7 +392,7 @@
  },
  "_meta": {
   "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
-  "fetched_at": "2026-10-27T17:05:44+08:00",
+  "fetched_at": "2026-10-30T00:21:04+08:00",
   "errors": {}
  }
 }

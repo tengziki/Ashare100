@@ -1,0 +1,503 @@
+{
+ "identity": {
+  "code": "601009",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "南京银行股份有限公司",
+  "name_abbr": "南京银行",
+  "aliases": [],
+  "name_en": "Bank Of Nanjing Co.,Ltd.",
+  "former_names": [],
+  "industry_sw1": "银行",
+  "industry_sw2": "城商行Ⅱ",
+  "list_date": "2007-07-19",
+  "found_date": "1996-02-06",
+  "province": "江苏",
+  "city": null,
+  "website": "www.njcb.com.cn",
+  "chairman": "谢宁",
+  "employees": 17684,
+  "business_summary": "吸收公众存款",
+  "profile": "南京银行股份有限公司成立于1996年2月8日,是全国20家系统重要性银行之一,是一家具有独立法人资格的股份制商业银行和上市银行,实行一级法人经营管理体制。\r\n    南京银行坚持发展为要。历经两次更名,先后于2001年、2005年引入国际金融公司和法国巴黎银行入股,在全国城商行中率先启动上市辅导程序并于2007年在主板成功上市。位列英国《银行家》杂志公布的全球1000家大银行第86位。\r\n    南京银行强化战略执行。成立29年来,始终坚守做强做精做出特色,致力于打造国内一流的区域综合金融服务商的战略愿景。按照自身发展规划,推动业务平稳较快增长,风险管控不断加强,资产质量稳定优异,经营效益稳步提升,综合实力显著增强。注重深化公司治理,优化战略股东结构,加强资本规划管理,保持股东良好回报。同时加大信息科技投入,推动数字化转型,强化数字赋能和场景应用。\r\n    南京银行深化机构建设。自2007年设立第一家分行以来,跨区域经营不断推进,先后设立了泰州、上海、无锡、北京、南通、杭州、扬州、苏州、常州、盐城、南京、镇江、宿迁、连云港、江北新区、徐州、淮安17家分行,2016年实现京沪杭及江苏省内设区市全覆盖,2023年实现江苏省县域网点全覆盖。\r\n    南京银行丰富经营布局。在全国率先尝试城商行异地参股其他城商行的发展模式,参股日照银行并成为其第一大股东。入股江苏金融租赁有限公司,芜湖津盛农村商业银行,发起设立宜兴阳羡、昆山鹿城两家村镇银行。2013年投资组建鑫元基金管理有限公司,2020年全资设立南银理财有限责任公司,2022年控股南银法巴消费金融有限公司,在探索综合化经营的道路上不断向前迈进。2013年主发起成立紫金山.鑫合,下设8大专委会,成员行超130家。\r\n    南京银行勇担社会责任。践行“责任金融和谐共赢”的文化理念,让金融的增益更多普惠社会。连续十余年开展“圆梦行动”,累计捐资助学1870万元,帮助2900多名学子圆梦大学。",
+  "st_status": null,
+  "audit_opinion": "标准无保留意见"
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 40925185000.0,
+    "revenue_yoy": 18.74,
+    "net_profit": 15856757000.0,
+    "net_profit_yoy": 21.04,
+    "net_profit_deducted": 15724158000.0,
+    "gross_margin": null,
+    "net_margin": 39.01,
+    "eps": 1.54,
+    "bvps": 12.13,
+    "roe": 14.85,
+    "roa": 0.98,
+    "debt_ratio": 92.99,
+    "total_liab": 1626381955000.0,
+    "total_assets": 1748985864071,
+    "ocf_to_np": null,
+    "ocf": 120648546000.0
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 44606440000.0,
+    "revenue_yoy": 9.0,
+    "net_profit": 18408039000.0,
+    "net_profit_yoy": 16.09,
+    "net_profit_deducted": 18088015000.0,
+    "gross_margin": null,
+    "net_margin": 41.57,
+    "eps": 1.76,
+    "bvps": 12.22,
+    "roe": 15.12,
+    "roa": 0.97,
+    "debt_ratio": 92.34,
+    "total_liab": 1901784904000.0,
+    "total_assets": 2059546138185,
+    "ocf_to_np": null,
+    "ocf": 97820568000.0
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 45159511000.0,
+    "revenue_yoy": 1.24,
+    "net_profit": 18502084000.0,
+    "net_profit_yoy": 0.51,
+    "net_profit_deducted": 17925437000.0,
+    "gross_margin": null,
+    "net_margin": 41.25,
+    "eps": 1.68,
+    "bvps": 13.5,
+    "roe": 13.12,
+    "roa": 0.86,
+    "debt_ratio": 92.46,
+    "total_liab": 2115681851000.0,
+    "total_assets": 2288213120268,
+    "ocf_to_np": null,
+    "ocf": 37058939000.0
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 50273070000.0,
+    "revenue_yoy": 11.32,
+    "net_profit": 20176728000.0,
+    "net_profit_yoy": 9.05,
+    "net_profit_deducted": 19936761000.0,
+    "gross_margin": null,
+    "net_margin": 40.51,
+    "eps": 1.83,
+    "bvps": 14.33,
+    "roe": 12.97,
+    "roa": 0.83,
+    "debt_ratio": 92.59,
+    "total_liab": 2399443325000.0,
+    "total_assets": 2591471352198,
+    "ocf_to_np": null,
+    "ocf": -65795334000.0
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 55541916000.0,
+    "revenue_yoy": 10.48,
+    "net_profit": 21807089000.0,
+    "net_profit_yoy": 8.08,
+    "net_profit_deducted": 21677029000.0,
+    "gross_margin": null,
+    "net_margin": 39.71,
+    "eps": 1.76,
+    "bvps": 14.66,
+    "roe": 12.05,
+    "roa": 0.79,
+    "debt_ratio": 93.04,
+    "total_liab": 2811515075000.0,
+    "total_assets": 3021834775365,
+    "ocf_to_np": null,
+    "ocf": 210207864000.0
+   }
+  ],
+  "latest": {
+   "report_period": "2026-09-30",
+   "report_type": "2026年三季报",
+   "revenue": 47190007000.0,
+   "revenue_yoy": 12.49,
+   "net_profit": 19450694000.0,
+   "net_profit_yoy": 8.03,
+   "net_profit_deducted": 19485707000.0,
+   "gross_margin": null,
+   "net_margin": 41.46,
+   "eps": 1.56,
+   "roe": 10.14,
+   "debt_ratio": 93.25,
+   "ocf": 105133089000.0
+  },
+  "derived": {
+   "revenue_cagr_3y": 7.58,
+   "net_profit_cagr_3y": 5.81,
+   "receivables_to_revenue": null,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": null,
+  "controlling_shareholder": null,
+  "controlling_ratio": null,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "法国巴黎银行(含QFII)",
+    "hold_num": 2275312179.0,
+    "hold_ratio": 18.4,
+    "hold_num_change": 31975621.0
+   },
+   {
+    "rank": 2,
+    "name": "江苏交通控股有限公司",
+    "hold_num": 1854535105.0,
+    "hold_ratio": 15.0,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "南京紫金投资集团有限责任公司",
+    "hold_num": 1407552588.0,
+    "hold_ratio": 11.38,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "南京高科股份有限公司",
+    "hold_num": 1236356694.0,
+    "hold_ratio": 9.99,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "中国烟草总公司江苏省公司(江苏省烟草公司)",
+    "hold_num": 471583361.0,
+    "hold_ratio": 3.81,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "幸福人寿保险股份有限公司-自有",
+    "hold_num": 406792306.0,
+    "hold_ratio": 3.29,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "紫金信托有限责任公司",
+    "hold_num": 339543782.0,
+    "hold_ratio": 2.75,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+    "hold_num": 333804433.0,
+    "hold_ratio": 2.7,
+    "hold_num_change": -13141054.0
+   },
+   {
+    "rank": 9,
+    "name": "香港中央结算有限公司",
+    "hold_num": 309369400.0,
+    "hold_ratio": 2.5,
+    "hold_num_change": 87666058.0
+   },
+   {
+    "rank": 10,
+    "name": "东部机场集团投资有限公司",
+    "hold_num": 288489506.0,
+    "hold_ratio": 2.33,
+    "hold_num_change": 0
+   }
+  ],
+  "top10_date": "2026-09-30",
+  "holder_num": 67743.0,
+  "holder_num_change_pct": -10.2,
+  "holder_num_date": "2026-09-30",
+  "inst_hold_ratio": null,
+  "northbound_ratio": 2.5,
+  "executives": [
+   {
+    "name": "谢宁",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "朱钢",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "江志纯",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": null,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.4616,
+    "total_amount": 4757328671.56,
+    "payout_ratio": 30.0,
+    "dividend_yield": null,
+    "ex_date": "2022-06-17"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.5339,
+    "total_amount": 5522519010.26,
+    "payout_ratio": 30.0,
+    "dividend_yield": null,
+    "ex_date": "2023-06-21"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.5367,
+    "total_amount": 5551488997.19,
+    "payout_ratio": 30.0,
+    "dividend_yield": null,
+    "ex_date": "2024-06-14"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.5456,
+    "total_amount": 6054473922.06,
+    "payout_ratio": 30.01,
+    "dividend_yield": null,
+    "ex_date": "2025-06-23"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.5292,
+    "total_amount": 6542181607.69,
+    "payout_ratio": 30.0,
+    "dividend_yield": null,
+    "ex_date": "2026-06-15"
+   }
+  ],
+  "consecutive_years": 5,
+  "cum_dividend_5y": 28427992208.760002,
+  "cum_netprofit_5y": 94750697000.0,
+  "payout_5y": 30.0,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [],
+  "segments": [
+   {
+    "name": "公司银行业务",
+    "revenue": 24538964000.0,
+    "ratio": 44.18,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "个人银行业务",
+    "revenue": 16713838000.0,
+    "ratio": 30.09,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "资金业务",
+    "revenue": 14068234000.0,
+    "ratio": 25.33,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他业务",
+    "revenue": 220880000.0,
+    "ratio": 0.4,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "江苏地区",
+    "revenue": 51504809000.0,
+    "ratio": 92.73,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他地区",
+    "revenue": 4037107000.0,
+    "ratio": 7.27,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "独立董事提名人声明与承诺（刘晓星）",
+    "date": "2026-10-29",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636653.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司关于召开2026年第三季度业绩说明会的公告",
+    "date": "2026-10-29",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636651.PDF"
+   },
+   {
+    "title": "独立董事候选人声明与承诺（刘晓星）",
+    "date": "2026-10-29",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636647.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司信息披露暂缓与豁免管理办法",
+    "date": "2026-10-29",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636641.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司第十届董事会第二十三次会议决议公告",
+    "date": "2026-10-29",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636637.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司关于召开2026年第一次临时股东会的通知",
+    "date": "2026-10-29",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636623.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司2026年第三季度报告",
+    "date": "2026-10-29",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636622.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司2026年中期利润分配方案公告",
+    "date": "2026-10-29",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636619.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司关于董事辞任的公告",
+    "date": "2026-09-22",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225574573.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司关于独立董事辞任的公告",
+    "date": "2026-09-16",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-16/1225565153.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司关于优先股全部赎回及摘牌完成的公告",
+    "date": "2026-09-09",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-09/1225553728.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司第十届董事会第二十二次会议决议公告",
+    "date": "2026-09-09",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-09/1225553725.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司关于优先股停牌的提示性公告",
+    "date": "2026-09-02",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-02/1225542358.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司关于优先股全部赎回及摘牌的公告",
+    "date": "2026-09-02",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-02/1225542357.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司关于高级管理人员辞任的公告",
+    "date": "2026-09-02",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-02/1225542348.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司优先股股息发放实施公告",
+    "date": "2026-08-28",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225521181.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司关于赎回优先股的第三次提示性公告",
+    "date": "2026-08-28",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225521177.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司关于赎回优先股的第二次提示性公告",
+    "date": "2026-08-22",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225489156.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司2026年半年度报告摘要",
+    "date": "2026-08-19",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225480717.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司信息披露事务管理制度",
+    "date": "2026-08-19",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225480714.PDF"
+   }
+  ],
+  "count_12m": 99
+ },
+ "qa": {
+  "items": []
+ },
+ "_extras": {
+  "announcements": {
+   "fetched_at": "2026-10-29T11:36:05+08:00",
+   "error": null
+  },
+  "qa": {
+   "fetched_at": "2026-10-30T00:00:42+08:00",
+   "error": null
+  }
+ },
+ "review": {
+  "reviewer": "自动复核（scripts/auto_review.py）",
+  "note": "与巨潮年报摘要交叉核对营收、归母净利润与审计意见",
+  "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
+  "fetched_at": "2026-10-30T00:21:13+08:00",
+  "reviewed_at": "2026-10-30T00:31:09+08:00",
+  "method": "auto",
+  "checks": {
+   "revenue": "2025 年营业收入与《南京银行股份有限公司2025年年度报告摘要》一致（差 0.00%）",
+   "net_profit": "2025 年归母净利润与《南京银行股份有限公司2025年年度报告摘要》一致（差 0.00%）",
+   "audit_opinion": "2025 年报审计意见：标准无保留意见"
+  },
+  "sources": [
+   "https://static.cninfo.com.cn/finalpage/2026-04-23/1225157431.PDF"
+  ]
+ }
+}

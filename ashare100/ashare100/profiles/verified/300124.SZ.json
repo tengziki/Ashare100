@@ -1,0 +1,503 @@
+{
+ "identity": {
+  "code": "300124",
+  "exchange": "SZ",
+  "board": "创业板",
+  "name_full": "深圳市汇川技术股份有限公司",
+  "name_abbr": "汇川技术",
+  "aliases": [],
+  "name_en": "Shenzhen Inovance Technology Co., Ltd",
+  "former_names": [],
+  "industry_sw1": "机械设备",
+  "industry_sw2": "自动化设备",
+  "list_date": "2010-09-28",
+  "found_date": "2003-04-10",
+  "province": "广东",
+  "city": null,
+  "website": "www.inovance.com",
+  "chairman": "朱兴明",
+  "employees": 27292,
+  "business_summary": "工业自动控制系统装置制造",
+  "profile": "深圳市汇川技术股份有限公司(股票代码:SZ.300124)(以下简称“汇川技术”)成立于2003年,是一家全球领先、创新驱动的工业科技集团。汇川技术依托在自动化、数字化、智能化领域的深厚技术积淀,构建起工业自动化与数字化、新能源汽车动力系统、智能机器人、数字能源四大技术同源、协同发展的业务生态,致力于为全球客户提供智能、高效、绿色、安全的综合产品和解决方案。公司总部位于深圳,生产基地位于苏州、岳阳、南京、上海、济南、嘉兴、长春、匈牙利等地,并在全球30多个国家和地区设有常驻机构和服务中心。汇川技术聚焦工业领域的自动化、数字化、智能化,在\"数字层、边缘层、控制层、驱动层、执行层、传感层\"形成贯通式布局,持续为工业客户提供\"用得起、用得好、易部署、易升级\"的数自融合解决方案。",
+  "st_status": null,
+  "audit_opinion": "标准无保留意见"
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 17943256595.0,
+    "revenue_yoy": 55.87,
+    "net_profit": 3573404586.0,
+    "net_profit_yoy": 70.15,
+    "net_profit_deducted": 2918331534.0,
+    "gross_margin": 35.82,
+    "net_margin": 20.51,
+    "eps": 1.37,
+    "bvps": 6.03,
+    "roe": 27.35,
+    "roa": 16.02,
+    "debt_ratio": 40.19,
+    "total_liab": 10973608555.0,
+    "total_assets": 27304325840,
+    "ocf_to_np": null,
+    "ocf": 1766024032.95
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 23008312443.0,
+    "revenue_yoy": 28.23,
+    "net_profit": 4319762362.0,
+    "net_profit_yoy": 20.89,
+    "net_profit_deducted": 3389133196.0,
+    "gross_margin": 35.01,
+    "net_margin": 18.8,
+    "eps": 1.64,
+    "bvps": 7.45,
+    "roe": 24.31,
+    "roa": 13.0,
+    "debt_ratio": 48.71,
+    "total_liab": 19100064464.0,
+    "total_assets": 39211793192,
+    "ocf_to_np": null,
+    "ocf": 3200830470.94
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 30419925398.0,
+    "revenue_yoy": 32.21,
+    "net_profit": 4741863347.0,
+    "net_profit_yoy": 9.77,
+    "net_profit_deducted": 4071177195.0,
+    "gross_margin": 32.34,
+    "net_margin": 15.7,
+    "eps": 1.78,
+    "bvps": 9.15,
+    "roe": 21.66,
+    "roa": 10.83,
+    "debt_ratio": 48.93,
+    "total_liab": 23956572496.0,
+    "total_assets": 48960908432,
+    "ocf_to_np": null,
+    "ocf": 3369915897.12
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 37040952139.0,
+    "revenue_yoy": 21.77,
+    "net_profit": 4285493341.0,
+    "net_profit_yoy": -9.62,
+    "net_profit_deducted": 4035832166.0,
+    "gross_margin": 28.7,
+    "net_margin": 11.73,
+    "eps": 1.6,
+    "bvps": 10.4,
+    "roe": 16.52,
+    "roa": 8.19,
+    "debt_ratio": 50.28,
+    "total_liab": 28749693436.0,
+    "total_assets": 57179183445,
+    "ocf_to_np": null,
+    "ocf": 7200440164.32
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 45104844200.0,
+    "revenue_yoy": 21.77,
+    "net_profit": 5050002090.0,
+    "net_profit_yoy": 17.84,
+    "net_profit_deducted": 4950505397.0,
+    "gross_margin": 28.95,
+    "net_margin": 11.47,
+    "eps": 1.87,
+    "bvps": 13.06,
+    "roe": 16.34,
+    "roa": 8.05,
+    "debt_ratio": 47.93,
+    "total_liab": 34179582787.0,
+    "total_assets": 71311460019,
+    "ocf_to_np": null,
+    "ocf": 6681025417.16
+   }
+  ],
+  "latest": {
+   "report_period": "2026-09-30",
+   "report_type": "2026年三季报",
+   "revenue": 37956228271.0,
+   "revenue_yoy": 19.88,
+   "net_profit": 4398491948.0,
+   "net_profit_yoy": 3.38,
+   "net_profit_deducted": 3907423188.0,
+   "gross_margin": 28.24,
+   "net_margin": 11.59,
+   "eps": 1.63,
+   "roe": 11.89,
+   "debt_ratio": 47.6,
+   "ocf": 895481500.32
+  },
+  "derived": {
+   "revenue_cagr_3y": 25.15,
+   "net_profit_cagr_3y": 5.34,
+   "receivables_to_revenue": null,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "朱兴明",
+  "controlling_shareholder": null,
+  "controlling_ratio": null,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "深圳市汇川投资有限公司",
+    "hold_num": 466043804.0,
+    "hold_ratio": 17.2,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "香港中央结算有限公司",
+    "hold_num": 399873984.0,
+    "hold_ratio": 14.76,
+    "hold_num_change": -130209935.0
+   },
+   {
+    "rank": 3,
+    "name": "刘国伟",
+    "hold_num": 77725170.0,
+    "hold_ratio": 2.87,
+    "hold_num_change": 600.0
+   },
+   {
+    "rank": 4,
+    "name": "李俊田",
+    "hold_num": 75919995.0,
+    "hold_ratio": 2.8,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 5,
+    "name": "赵锦荣",
+    "hold_num": 64864948.0,
+    "hold_ratio": 2.39,
+    "hold_num_change": 5683915.0
+   },
+   {
+    "rank": 6,
+    "name": "唐柱学",
+    "hold_num": 59591990.0,
+    "hold_ratio": 2.2,
+    "hold_num_change": -15000.0
+   },
+   {
+    "rank": 7,
+    "name": "刘迎新",
+    "hold_num": 52627869.0,
+    "hold_ratio": 1.94,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "李芬",
+    "hold_num": 41385074.0,
+    "hold_ratio": 1.53,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "杨春禄",
+    "hold_num": 41322386.0,
+    "hold_ratio": 1.52,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 10,
+    "name": "刘宇川",
+    "hold_num": 38579234.0,
+    "hold_ratio": 1.42,
+    "hold_num_change": 0
+   }
+  ],
+  "top10_date": "2026-09-30",
+  "holder_num": 192018.0,
+  "holder_num_change_pct": 1.12,
+  "holder_num_date": "2026-10-20",
+  "inst_hold_ratio": null,
+  "northbound_ratio": 14.76,
+  "executives": [
+   {
+    "name": "朱兴明",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "朱兴明",
+    "title": "总经理",
+    "pay": null
+   },
+   {
+    "name": "宋君恩",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": null,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.3,
+    "total_amount": 790886092.8,
+    "payout_ratio": 22.13,
+    "dividend_yield": null,
+    "ex_date": "2022-06-29"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.36,
+    "total_amount": 958012803.36,
+    "payout_ratio": 22.18,
+    "dividend_yield": null,
+    "ex_date": "2023-06-12"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.45,
+    "total_amount": 1205163936.45,
+    "payout_ratio": 25.42,
+    "dividend_yield": null,
+    "ex_date": "2024-05-30"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.41,
+    "total_amount": 1105071754.83,
+    "payout_ratio": 25.79,
+    "dividend_yield": null,
+    "ex_date": "2025-06-06"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.5,
+    "total_amount": 1353801972.0,
+    "payout_ratio": 26.81,
+    "dividend_yield": null,
+    "ex_date": "2026-06-04"
+   }
+  ],
+  "consecutive_years": 5,
+  "cum_dividend_5y": 5412936559.44,
+  "cum_netprofit_5y": 21970525726.0,
+  "payout_5y": 24.64,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [],
+  "segments": [
+   {
+    "name": "工业自动化与数字化",
+    "revenue": 22245401986.97,
+    "ratio": 49.32,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "新能源汽车动力系统",
+    "revenue": 20322581832.31,
+    "ratio": 45.06,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "新兴产业",
+    "revenue": 1795019255.76,
+    "ratio": 3.98,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他",
+    "revenue": 741841125.09,
+    "ratio": 1.64,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "中国内地",
+    "revenue": 42455952295.1,
+    "ratio": 94.13,
+    "type": "region",
+    "period": "2025年报"
+   },
+   {
+    "name": "境外",
+    "revenue": 2648891905.03,
+    "ratio": 5.87,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [
+   {
+    "title": "第六届董事会第二十次会议决议公告",
+    "date": "2026-10-27",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-27/1225623211.PDF"
+   },
+   {
+    "title": "2026年三季度报告",
+    "date": "2026-10-27",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-27/1225623209.PDF"
+   },
+   {
+    "title": "关于2026年中期利润分配方案的公告",
+    "date": "2026-10-27",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-27/1225623208.PDF"
+   },
+   {
+    "title": "关于2026年前三季度计提资产减值准备的公告",
+    "date": "2026-10-26",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-26/1225627010.PDF"
+   },
+   {
+    "title": "关于召开2026年第三季度业绩说明会的公告",
+    "date": "2026-10-19",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-19/1225610212.PDF"
+   },
+   {
+    "title": "第六届董事会第十九次会议决议公告",
+    "date": "2026-10-14",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225604454.PDF"
+   },
+   {
+    "title": "关于深圳市汇川技术股份有限公司第八期股权激励计划调整及首次授予相关事项的法律意见书",
+    "date": "2026-10-14",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225604457.PDF"
+   },
+   {
+    "title": "第六届董事会薪酬与考核委员会关于第六届董事会第十九次会议相关事项的核查意见",
+    "date": "2026-10-14",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225604456.PDF"
+   },
+   {
+    "title": "关于调整第八期股权激励计划相关事项并向激励对象首次授予第二类限制性股票与股票期权的公告",
+    "date": "2026-10-14",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225604455.PDF"
+   },
+   {
+    "title": "关于第七期股权激励计划首次授予股票期权第二个行权期采用自主行权模式开始行权的提示性公告",
+    "date": "2026-10-14",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225603353.PDF"
+   },
+   {
+    "title": "关于注销部分回购股份减少注册资本暨通知债权人的公告",
+    "date": "2026-10-13",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225603811.PDF"
+   },
+   {
+    "title": "公司章程（2026年10月）",
+    "date": "2026-10-13",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225603810.PDF"
+   },
+   {
+    "title": "关于第八期股权激励计划内幕信息知情人及激励对象买卖公司股票的自查报告",
+    "date": "2026-10-13",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225603807.PDF"
+   },
+   {
+    "title": "上海锦天城（广州）律师事务所关于深圳市汇川技术股份有限公司2026年第二次临时股东会之法律意见书",
+    "date": "2026-10-13",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225603809.PDF"
+   },
+   {
+    "title": "2026年第二次临时股东会决议公告",
+    "date": "2026-10-13",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225603808.PDF"
+   },
+   {
+    "title": "关于为全资子公司提供担保的进展公告",
+    "date": "2026-10-12",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-12/1225600860.PDF"
+   },
+   {
+    "title": "第六届董事会薪酬与考核委员会关于第八期股权激励计划首次授予激励对象名单的审核及公示情况说明",
+    "date": "2026-10-08",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225596796.PDF"
+   },
+   {
+    "title": "关于回购公司股份的进展公告",
+    "date": "2026-10-08",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225596797.PDF"
+   },
+   {
+    "title": "关于第七期股权激励计划首次授予部分股票期权注销完成的公告",
+    "date": "2026-09-30",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225589728.PDF"
+   },
+   {
+    "title": "关于公司第一大股东增持公司股份计划的公告",
+    "date": "2026-09-24",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225581105.PDF"
+   }
+  ],
+  "count_12m": 155
+ },
+ "qa": {
+  "items": []
+ },
+ "_extras": {
+  "announcements": {
+   "fetched_at": "2026-10-29T11:36:03+08:00",
+   "error": null
+  },
+  "qa": {
+   "fetched_at": null,
+   "error": "Unsupported 互动易需要巨潮 orgId"
+  }
+ },
+ "review": {
+  "reviewer": "自动复核（scripts/auto_review.py）",
+  "note": "与巨潮年报摘要交叉核对营收、归母净利润与审计意见",
+  "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
+  "fetched_at": "2026-10-30T00:27:05+08:00",
+  "reviewed_at": "2026-10-30T00:31:12+08:00",
+  "method": "auto",
+  "checks": {
+   "revenue": "2025 年营业收入与《2025年年度报告摘要》一致（差 0.00%）",
+   "net_profit": "2025 年归母净利润与《2025年年度报告摘要》一致（差 0.00%）",
+   "audit_opinion": "2025 年报审计意见：标准无保留意见"
+  },
+  "sources": [
+   "https://static.cninfo.com.cn/finalpage/2026-04-28/1225208487.PDF"
+  ]
+ }
+}

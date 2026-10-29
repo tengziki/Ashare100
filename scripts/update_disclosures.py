@@ -55,13 +55,16 @@ def one(code, previous, ids, now):
         if code.endswith(".SH") and num not in ids.get("sse_uid", {}):
             ids.setdefault("sse_uid", {})[num] = ex.sse_uid(code)
         fresh = ex.fetch_qa(code, now, ids.get("sse_uid", {}).get(num), ids.get("cninfo", {}).get(code))
-        entry["qa"] = {"items": merge_qa((entry.get("qa") or {}).get("items"), fresh["items"]), "count_12m": None}
+        entry["qa"] = {"items": merge_qa((entry.get("qa") or {}).get("items"), fresh["items"]), "count_12m": None,
+                       "url": fresh.get("url")}  # 页面在 0 条时链到来源，说明不是抓取失败
         entry["qa_at"] = now.isoformat(timespec="seconds")
         entry.pop("qa_unsupported", None)
+        entry.pop("qa_error", None)
     except ex.Unsupported:
         entry["qa_unsupported"] = True  # 已知缺口，不告警；页面沿用档案原有问答
     except Exception as exc:
         problems.append(f"{code} 问答：{type(exc).__name__} {exc}"[:200])
+        entry["qa_error"] = f"{type(exc).__name__}"[:60]
     return entry, problems
 
 

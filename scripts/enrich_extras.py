@@ -3,8 +3,8 @@
 - 公告：巨潮资讯公告查询，近 12 个月，存最新 20 条与 12 个月总数（与已核实档案同结构）。
 - 问答：沪市取上证 e 互动（已回复 + 待回复，合并取最新 8 条）；深市/北交所取互动易（需巨潮 orgId，
   本机网络不可达，只在 GitHub Actions 上可抓）。
-- logo：先试上证 e 互动的公司头像（沪市，公司自己上传，78px）与 Google 图标服务（128px），
-  已有 ≥64px 的就不再访问官网；否则再取官网图标。取边长 ≥32px 的最大一张；都不合格就不放文件，
+- logo：先试上证 e 互动的公司头像（沪市，公司自己上传，78px）、Google 图标服务（128px）与 DuckDuckGo 图标服务（常为 64px），
+  已有 ≥64px 的就不再访问官网；否则再取官网图标。取边长 ≥32px、长宽比 ≤1.5 的最大一张；都不合格就不放文件，
   页面显示首字图标，并在 logos.json 记 missing 等人工补。
 
 附加资料失败不影响档案转正：问题记在 _meta.extras_errors，而不是 _meta.errors。
@@ -75,9 +75,21 @@ def prefer_ipv6(host):
         socket.getaddrinfo = original
 
 
-SSE_LOCK = threading.Lock()
-SSE_GAP = 0.6  # 2026-10-28：6 线程并发时每次约 20 家沪市问答被拒，e 互动请求改为串行并留间隔
+# e 互动限速：2026-10-28 六线程并发时约 20 家被拒，曾改为整条请求串行（锁里包含网络往返），
+# 结果 160 次请求排队、该步骤 344 秒。现在只限制「发出间隔」与「同时在途数」：
+# 每 SSE_GAP 秒最多发出一个新请求，最多 SSE_PARALLEL 个同时在途，发出频率与串行时相同。
+SSE_LOCK = threading.Lock()  # 只保护发出时间的计算，不包住网络请求
+SSE_GAP = 0.6
+SSE_PARALLEL = threading.BoundedSemaphore(2)
 _sse_last = [0.0]
+
+
+def sse_slot():
+    """排到下一个可发出的时刻并等待；返回时即可发请求。"""
+    with SSE_LOCK:
+        start = max(time.monotonic(), _sse_last[0] + SSE_GAP)
+        _sse_last[0] = start
+    time.sleep(max(0.0, start - time.monotonic()))
 
 
 def get_bytes(url, timeout=20, referer=None, attempts=2):
@@ -93,12 +105,9 @@ def get_bytes(url, timeout=20, referer=None, attempts=2):
     def throttled():
         if not sse:
             return once()
-        with SSE_LOCK:
-            time.sleep(max(0.0, _sse_last[0] + SSE_GAP - time.monotonic()))
-            try:
-                return once()
-            finally:
-                _sse_last[0] = time.monotonic()
+        with SSE_PARALLEL:
+            sse_slot()
+            return once()
 
     for attempt in range(attempts):
         try:
@@ -200,9 +209,17 @@ def fetch_irm(code, org_id):
     """深市/北交所互动易：company/question 按提问时间倒序，含已回复与待回复。
     本机网络不可达，只在 GitHub Actions 上跑；orgId 与巨潮公告共用。"""
     num = code.split(".")[0]
-    doc = post(f"{IRM}newircs/company/question?_t={int(time.time())}",
-               {"stockcode": num, "orgId": org_id, "pageSize": QA_N, "pageNum": 1, "keyWord": "",
-                "startDay": "", "endDay": ""})
+    # 互动易偶尔单次超时（2026-10-29 立讯精密 read timed out）：放宽到 30 秒，失败隔几秒再试，共 3 次
+    for attempt in range(3):
+        try:
+            doc = post(f"{IRM}newircs/company/question?_t={int(time.time())}",
+                       {"stockcode": num, "orgId": org_id, "pageSize": QA_N, "pageNum": 1, "keyWord": "",
+                        "startDay": "", "endDay": ""}, timeout=30)
+            break
+        except OSError:
+            if attempt == 2:
+                raise
+            time.sleep(3 * (attempt + 1))
     rows = doc.get("rows")
     if not isinstance(rows, list):
         raise ValueError(f"互动易返回格式异常：{str(doc)[:80]}")
@@ -216,7 +233,8 @@ def fetch_irm(code, org_id):
                       "answer_date": irm_day(r.get("attachedPubDate") or r.get("updateDate")) if answer else None,
                       "source": "irm", "url": f"{IRM}views/interactiveAnswer?stockcode={num}&orgId={org_id}"})
     items.sort(key=lambda q: q["ask_date"] or "", reverse=True)
-    return {"items": items[:QA_N], "count_12m": doc.get("total")}
+    return {"items": items[:QA_N], "count_12m": doc.get("total"),
+            "url": f"{IRM}views/interactiveAnswer?stockcode={num}&orgId={org_id}"}
 
 
 def fetch_qa(code, now=None, uid=None, org_id=None):
@@ -234,7 +252,8 @@ def fetch_qa(code, now=None, uid=None, org_id=None):
         for item in parse_sse_feed(raw.decode("utf-8", "replace"), uid, now):
             rows.setdefault(item["id"], item)
     items = sorted(rows.values(), key=lambda r: (r["ask_date"] or "", r["id"]), reverse=True)[:QA_N]
-    return {"items": [{k: v for k, v in r.items() if k != "id"} for r in items], "count_12m": None}
+    return {"items": [{k: v for k, v in r.items() if k != "id"} for r in items], "count_12m": None,
+            "url": f"{SSE_E}company.do?uid={uid}"}
 
 
 # ---------- logo ----------
@@ -265,6 +284,20 @@ def image_size(data):
     return 0
 
 
+def aspect(data):
+    """宽高比（长边 / 短边）；只识别 PNG 与 GIF，其他格式（ICO 为方形）返回 1。"""
+    if data[:8] == b"\x89PNG\r\n\x1a\n":
+        w, h = struct.unpack(">II", data[16:24])
+    elif data[:6] in (b"GIF87a", b"GIF89a"):
+        w, h = struct.unpack("<HH", data[6:10])
+    else:
+        return 1
+    return max(w, h) / max(min(w, h), 1)
+
+
+MAX_ASPECT = 1.5  # 横幅（如「图标 + 公司名 + 股票代码」）放进方形图标位会被压扁，不用
+
+
 EXT = {b"\x89PNG": "png", b"\x00\x00\x01\x00": "ico", b"GIF8": "gif", b"\xff\xd8\xff": "jpg"}
 
 
@@ -275,6 +308,8 @@ def quick_candidates(code, website):
     if website:
         host = urllib.parse.urlparse(website if website.startswith("http") else "https://" + website).netloc
         found.append((f"https://www.google.com/s2/favicons?domain={host}&sz=128", "google-s2"))
+        # DuckDuckGo 图标服务常有 64px 版本（Google 只给横幅或 16px 时，如三花智控 2026-10-30）；没有时返回 404
+        found.append((f"https://icons.duckduckgo.com/ip3/{host}.ico", "duckduckgo"))
     return found
 
 
@@ -309,6 +344,9 @@ def fetch_logo(code, website, logo_dir=LOGO_DIR):
                 tried.append(f"{via} 失败：{type(exc).__name__}")
                 continue
             px = image_size(data)
+            if aspect(data) > MAX_ASPECT:
+                tried.append(f"{via} 横幅 {aspect(data):.1f}:1")
+                continue
             tried.append(f"{via} {px}px")
             if px >= MIN_LOGO_PX and (best is None or px > best[0]):
                 best = (px, data, url, via)
@@ -341,7 +379,8 @@ def write_logo_index(code, entry, logo_dir=LOGO_DIR, web_dir=WEB_DIR):
 
 def fill(code, profile, refresh=False, fetchers=None, logo=True, refresh_logo=None):
     """把公告、问答（及 logo）补进 profile；只填空的部分。返回 (是否改动, 问题列表)。"""
-    fetchers = fetchers or {"announcements": fetch_announcements, "qa": fetch_qa}
+    # fetchers={} 表示只补 logo（临界区公司、--logo-only），None 才用默认的公告与问答
+    fetchers = {"announcements": fetch_announcements, "qa": fetch_qa} if fetchers is None else fetchers
     meta = profile.setdefault("_extras", {})
     problems, changed = [], False
     for key, fetch in fetchers.items():
