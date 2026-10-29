@@ -1,9 +1,9 @@
 {
  "meta": {
-  "generated_at": "2026-10-29T22:12:36+08:00",
+  "generated_at": "2026-10-30T01:48:03+08:00",
   "member_count": 100,
-  "announcements_fresh": 100,
-  "problems": 1,
+  "announcements_fresh": 98,
+  "problems": 2,
   "qa_unsupported": 0,
   "snapshot": "snapshots/20261029T141236Z.json"
  },
@@ -134,7 +134,7 @@
     ],
     "count_12m": 89
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -162,9 +162,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=1939"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=1939"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "601398.SH": {
    "announcements": {
@@ -292,7 +293,7 @@
     ],
     "count_12m": 143
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -360,9 +361,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=1398"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=1398"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "688825.SH": {
    "announcements": {
@@ -490,7 +492,7 @@
     ],
     "count_12m": 58
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -518,9 +520,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=343138"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=343138"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "601288.SH": {
    "announcements": {
@@ -646,14 +649,15 @@
       "url": "https://static.cninfo.com.cn/finalpage/2026-09-25/1225582526.PDF"
      }
     ],
-    "count_12m": 116
+    "count_12m": 115
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=1288"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "601857.SH": {
    "announcements": {
@@ -781,12 +785,13 @@
     ],
     "count_12m": 98
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=1857"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "601988.SH": {
    "announcements": {
@@ -912,9 +917,9 @@
       "url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225499637.PDF"
      }
     ],
-    "count_12m": 120
+    "count_12m": 113
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -942,9 +947,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=1988"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=1988"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "600941.SH": {
    "announcements": {
@@ -1072,7 +1078,7 @@
     ],
     "count_12m": 68
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -1092,9 +1098,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=236809"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=236809"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "600519.SH": {
    "announcements": {
@@ -1222,7 +1229,7 @@
     ],
     "count_12m": 92
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -1266,9 +1273,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=519"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=519"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "600938.SH": {
    "announcements": {
@@ -1396,7 +1404,7 @@
     ],
     "count_12m": 69
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -1416,9 +1424,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=247563"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=247563"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "601088.SH": {
    "announcements": {
@@ -1546,7 +1555,7 @@
     ],
     "count_12m": 235
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -1558,9 +1567,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=1088"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=1088"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "600036.SH": {
    "announcements": {
@@ -1686,9 +1696,9 @@
       "url": "https://static.cninfo.com.cn/finalpage/2026-07-11/1225418968.PDF"
      }
     ],
-    "count_12m": 99
+    "count_12m": 97
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -1708,9 +1718,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=36"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=36"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "300750.SZ": {
    "announcements": {
@@ -1838,7 +1849,7 @@
     ],
     "count_12m": 248
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -1906,9 +1917,10 @@
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300750&orgId=GD165627"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300750&orgId=GD165627"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "601628.SH": {
    "announcements": {
@@ -2036,7 +2048,7 @@
     ],
     "count_12m": 102
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -2048,9 +2060,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=1628"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=1628"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "601318.SH": {
    "announcements": {
@@ -2176,9 +2189,9 @@
       "url": "https://static.cninfo.com.cn/finalpage/2026-08-21/1225487478.PDF"
      }
     ],
-    "count_12m": 105
+    "count_12m": 101
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -2246,13 +2259,26 @@
       "url": "https://sns.sseinfo.com/company.do?uid=1318"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=1318"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "601138.SH": {
    "announcements": {
     "items": [
+     {
+      "title": "富士康工业互联网股份有限公司2026年第三季度报告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225639532.PDF"
+     },
+     {
+      "title": "富士康工业互联网股份有限公司第四届董事会第四次会议决议公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225639525.PDF"
+     },
      {
       "title": "富士康工业互联网股份有限公司关于美国国际贸易委员会对公司及控股子公司开展337调查的公告",
       "date": "2026-10-12",
@@ -2360,23 +2386,11 @@
       "date": "2026-07-08",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-07-08/1225414040.PDF"
-     },
-     {
-      "title": "富士康工业互联网股份有限公司2026年第一次临时股东会决议公告",
-      "date": "2026-07-08",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-07-08/1225414037.PDF"
-     },
-     {
-      "title": "富士康工业互联网股份有限公司2026年第一次临时股东会会议资料",
-      "date": "2026-07-01",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-07-01/1225398422.PDF"
      }
     ],
-    "count_12m": 104
+    "count_12m": 106
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -2444,9 +2458,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=119303"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=119303"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "688981.SH": {
    "announcements": {
@@ -2574,7 +2589,7 @@
     ],
     "count_12m": 186
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -2586,9 +2601,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=173884"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=173884"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "601328.SH": {
    "announcements": {
@@ -2716,16 +2732,29 @@
     ],
     "count_12m": 111
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=1328"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "002594.SZ": {
    "announcements": {
     "items": [
+     {
+      "title": "关于2026年1-9月计提信用及资产减值损失的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225641444.PDF"
+     },
+     {
+      "title": "2026年三季度报告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225641442.PDF"
+     },
      {
       "title": "H股公告（董事会会议通告）",
       "date": "2026-10-15",
@@ -2833,23 +2862,11 @@
       "date": "2026-09-02",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-09-02/1225541695.PDF"
-     },
-     {
-      "title": "2026年8月产销快报",
-      "date": "2026-09-02",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-02/1225541694.PDF"
-     },
-     {
-      "title": "H股公告（建议修订《公司章程》建议重选董事、选举新董事及厘定董事薪酬）",
-      "date": "2026-08-29",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531850.PDF"
      }
     ],
-    "count_12m": 143
+    "count_12m": 145
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -2917,13 +2934,20 @@
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002594&orgId=gshk0001211"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002594&orgId=gshk0001211"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "601899.SH": {
    "announcements": {
     "items": [
+     {
+      "title": "紫金矿业集团股份有限公司关于2026年员工持股计划非交易过户完成的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225643381.PDF"
+     },
      {
       "title": "紫金矿业集团股份有限公司第九届董事会第五次会议决议公告",
       "date": "2026-10-24",
@@ -3037,17 +3061,11 @@
       "date": "2026-08-22",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225493341.PDF"
-     },
-     {
-      "title": "紫金矿业集团股份有限公司2026年半年度报告摘要",
-      "date": "2026-08-22",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225493321.PDF"
      }
     ],
-    "count_12m": 154
+    "count_12m": 155
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -3115,9 +3133,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=1899"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=1899"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "600900.SH": {
    "announcements": {
@@ -3245,7 +3264,7 @@
     ],
     "count_12m": 90
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -3281,9 +3300,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=900"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=900"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "601658.SH": {
    "announcements": {
@@ -3411,16 +3431,65 @@
     ],
     "count_12m": 95
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=152148"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "300308.SZ": {
    "announcements": {
     "items": [
+     {
+      "title": "证券投资管理制度",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225643961.PDF"
+     },
+     {
+      "title": "公司章程（2026年10月）",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225643960.PDF"
+     },
+     {
+      "title": "关于聘任2026年H股审计机构的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225643959.PDF"
+     },
+     {
+      "title": "关于变更回购A股股份用途并注销的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225643958.PDF"
+     },
+     {
+      "title": "2026年第三季度报告披露的提示性公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225643957.PDF"
+     },
+     {
+      "title": "关于召开2026年第三次临时股东会的通知",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225643956.PDF"
+     },
+     {
+      "title": "第六届董事会第五次会议决议公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225643955.PDF"
+     },
+     {
+      "title": "2026年三季度报告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225643953.PDF"
+     },
      {
       "title": "关于公司近期生产经营情况的公告",
       "date": "2026-10-23",
@@ -3492,59 +3561,11 @@
       "date": "2026-09-15",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-09-15/1225566292.PDF"
-     },
-     {
-      "title": "H股公告(翌日披露报表)",
-      "date": "2026-09-14",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-14/1225563817.PDF"
-     },
-     {
-      "title": "H股公告 （中期报告）",
-      "date": "2026-09-11",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-11/1225561551.PDF"
-     },
-     {
-      "title": "H股公告(翌日披露报表)",
-      "date": "2026-09-11",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-11/1225561550.PDF"
-     },
-     {
-      "title": "H股公告(翌日披露报表)",
-      "date": "2026-09-10",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-10/1225558517.PDF"
-     },
-     {
-      "title": "H股公告(翌日披露报表)",
-      "date": "2026-09-09",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-09/1225556312.PDF"
-     },
-     {
-      "title": "H股公告(翌日披露报表)",
-      "date": "2026-09-08",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-08/1225554427.PDF"
-     },
-     {
-      "title": "关于控股股东部分股票解除质押的公告",
-      "date": "2026-09-08",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-08/1225553768.PDF"
-     },
-     {
-      "title": "关于特定股东部分股票进行质押交易及解除质押的公告",
-      "date": "2026-09-08",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-08/1225553767.PDF"
      }
     ],
-    "count_12m": 216
+    "count_12m": 224
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -3612,13 +3633,26 @@
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300308&orgId=9900022016"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300308&orgId=9900022016"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "600028.SH": {
    "announcements": {
     "items": [
+     {
+      "title": "关于归还临时补充流动资金的募集资金的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225641981.PDF"
+     },
+     {
+      "title": "中国石化2026年第三季度报告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225641973.PDF"
+     },
      {
       "title": "2026年第一次临时股东会法律意见书",
       "date": "2026-10-24",
@@ -3726,23 +3760,11 @@
       "date": "2026-09-10",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-09-10/1225555532.PDF"
-     },
-     {
-      "title": "中国石化H股公告-翌日披露表格",
-      "date": "2026-09-09",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-09/1225553857.PDF"
-     },
-     {
-      "title": "中国石化H股公告-翌日披露表格",
-      "date": "2026-09-08",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-08/1225551326.PDF"
      }
     ],
-    "count_12m": 222
+    "count_12m": 224
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -3762,13 +3784,44 @@
       "url": "https://sns.sseinfo.com/company.do?uid=28"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=28"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "000333.SZ": {
    "announcements": {
     "items": [
+     {
+      "title": "关于对下属控股子公司担保额度调整的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225645137.PDF"
+     },
+     {
+      "title": "关于向控股子公司提供永续债融资暨财务资助的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225645136.PDF"
+     },
+     {
+      "title": "关于召开2026年第二次临时股东会的通知",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225645135.PDF"
+     },
+     {
+      "title": "第五届董事会第二十次会议决议公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225645134.PDF"
+     },
+     {
+      "title": "2026年三季度报告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225645132.PDF"
+     },
      {
       "title": "关于以集中竞价交易方式回购A股股份进展情况的公告",
       "date": "2026-10-23",
@@ -3858,41 +3911,11 @@
       "date": "2026-08-29",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531407.PDF"
-     },
-     {
-      "title": "关于2026年中期利润分配方案的公告",
-      "date": "2026-08-29",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531406.PDF"
-     },
-     {
-      "title": "2026年半年度非经营性资金占用及其他关联资金往来情况汇总表",
-      "date": "2026-08-29",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531405.PDF"
-     },
-     {
-      "title": "2026年半年度报告",
-      "date": "2026-08-29",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531404.PDF"
-     },
-     {
-      "title": "2026年半年度报告摘要",
-      "date": "2026-08-29",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531403.PDF"
-     },
-     {
-      "title": "关于以集中竞价交易方式回购A股股份进展情况的公告",
-      "date": "2026-08-06",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-06/1225460252.PDF"
      }
     ],
-    "count_12m": 134
+    "count_12m": 139
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -3960,9 +3983,10 @@
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000333&orgId=9900005965"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000333&orgId=9900005965"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "601728.SH": {
    "announcements": {
@@ -4090,7 +4114,7 @@
     ],
     "count_12m": 88
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -4102,9 +4126,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=219949"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=219949"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "688256.SH": {
    "announcements": {
@@ -4232,7 +4257,7 @@
     ],
     "count_12m": 143
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -4300,13 +4325,38 @@
       "url": "https://sns.sseinfo.com/company.do?uid=173882"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=173882"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "601998.SH": {
    "announcements": {
     "items": [
+     {
+      "title": "中信银行股份有限公司2026年第三季度报告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225645558.PDF"
+     },
+     {
+      "title": "中信银行股份有限公司董事会会议决议公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225645266.PDF"
+     },
+     {
+      "title": "北京市金杜律师事务所关于中信银行股份有限公司2026年第三次临时股东会之法律意见书",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225645238.PDF"
+     },
+     {
+      "title": "中信银行股份有限公司2026年第三次临时股东会决议公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225645236.PDF"
+     },
      {
       "title": "中信银行股份有限公司关于优先股全部赎回及摘牌完成的公告",
       "date": "2026-10-28",
@@ -4402,35 +4452,11 @@
       "date": "2026-09-22",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225574977.PDF"
-     },
-     {
-      "title": "中信银行股份有限公司关于赎回优先股的第一次提示性公告",
-      "date": "2026-09-22",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225574957.PDF"
-     },
-     {
-      "title": "H股公告—二零二六年八月三十一日止月份之股份发行人的证券变动月报表",
-      "date": "2026-09-02",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-02/1225540946.PDF"
-     },
-     {
-      "title": "中信银行股份有限公司关于参加中信股份2026年中期业绩联合发布会的公告",
-      "date": "2026-08-28",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225519546.PDF"
-     },
-     {
-      "title": "中信银行股份有限公司董事会会议决议公告",
-      "date": "2026-08-27",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225515416.PDF"
      }
     ],
-    "count_12m": 130
+    "count_12m": 134
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -4450,9 +4476,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=1998"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=1998"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "603259.SH": {
    "announcements": {
@@ -4580,7 +4607,7 @@
     ],
     "count_12m": 142
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -4632,9 +4659,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=121066"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=121066"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "688041.SH": {
    "announcements": {
@@ -4762,7 +4790,7 @@
     ],
     "count_12m": 115
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -4830,13 +4858,38 @@
       "url": "https://sns.sseinfo.com/company.do?uid=257283"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=257283"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "601166.SH": {
    "announcements": {
     "items": [
+     {
+      "title": "兴业银行2026年第三季度报告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225643700.PDF"
+     },
+     {
+      "title": "兴业银行关于变更会计师事务所的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225640940.PDF"
+     },
+     {
+      "title": "兴业银行第十一届董事会第十七次会议（临时会议）决议公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225640933.PDF"
+     },
+     {
+      "title": "兴业银行股份有限公司内部审计章程",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225640718.PDF"
+     },
      {
       "title": "兴业银行关于2021年第一期二级资本债券赎回完成的公告",
       "date": "2026-10-27",
@@ -4932,35 +4985,11 @@
       "date": "2026-07-01",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-07-01/1225400420.PDF"
-     },
-     {
-      "title": "兴业银行股份有限公司股权管理暂行办法",
-      "date": "2026-07-01",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-07-01/1225400417.PDF"
-     },
-     {
-      "title": "兴业银行股份有限公司信息披露管理办法",
-      "date": "2026-07-01",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-07-01/1225400415.PDF"
-     },
-     {
-      "title": "兴业银行股份有限公司公开发行A股可转换公司债券受托管理事务报告（2025年度）",
-      "date": "2026-06-18",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-06-18/1225375059.PDF"
-     },
-     {
-      "title": "兴业银行关于根据2025年度利润分配方案调整A股可转换公司债券转股价格的公告",
-      "date": "2026-06-08",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-06-08/1225356354.PDF"
      }
     ],
-    "count_12m": 82
+    "count_12m": 86
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -5028,9 +5057,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=1166"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=1166"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "688235.SH": {
    "announcements": {
@@ -5158,12 +5188,13 @@
     ],
     "count_12m": 117
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=235008"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "600030.SH": {
    "announcements": {
@@ -5291,7 +5322,7 @@
     ],
     "count_12m": 181
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -5343,13 +5374,74 @@
       "url": "https://sns.sseinfo.com/company.do?uid=30"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=30"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "002475.SZ": {
    "announcements": {
     "items": [
+     {
+      "title": "关于公司2026年度增加日常关联交易预计的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225645374.PDF"
+     },
+     {
+      "title": "第六届董事会第二十九次会议决议公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225645373.PDF"
+     },
+     {
+      "title": "关于2026年第三季度利润分配方案的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225645372.PDF"
+     },
+     {
+      "title": "立讯精密工业股份有限公司2026年年度业绩预告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225645371.PDF"
+     },
+     {
+      "title": "2026年三季度报告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225645369.PDF"
+     },
+     {
+      "title": "北京市汉坤（深圳）律师事务所关于立讯精密工业股份有限公司2025年股票期权激励计划调整行权价格的法律意见书",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225645368.PDF"
+     },
+     {
+      "title": "北京市汉坤（深圳）律师事务所关于立讯精密工业股份有限公司2021年股票期权激励计划调整行权价格的法律意见书",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225645367.PDF"
+     },
+     {
+      "title": "北京市汉坤（深圳）律师事务所关于立讯精密工业股份有限公司2022年股票期权激励计划调整行权价格的法律意见书",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225645366.PDF"
+     },
+     {
+      "title": "董事会薪酬与考核委员会关于调整2021年、2022年、2025年股票期权激励计划行权价格的核查意见",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225645365.PDF"
+     },
+     {
+      "title": "关于调整2021年、2022年、2025年股票期权激励计划行权价格的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225645364.PDF"
+     },
      {
       "title": "关于“立讯转债”到期兑付暨摘牌的公告",
       "date": "2026-10-27",
@@ -5409,71 +5501,11 @@
       "date": "2026-10-10",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-10-10/1225599009.PDF"
-     },
-     {
-      "title": "关于股份回购进展情况的公告",
-      "date": "2026-10-09",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597926.PDF"
-     },
-     {
-      "title": "关于实施权益分派期间“立讯转债”暂停转股的公告",
-      "date": "2026-10-09",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597925.PDF"
-     },
-     {
-      "title": "H股公告-截至2026年9月30日止月份之股份发行人的证券变动月报表",
-      "date": "2026-10-08",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225595408.PDF"
-     },
-     {
-      "title": "关于“立讯转债”即将到期及停止交易的第三次提示性公告",
-      "date": "2026-09-23",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-23/1225576263.PDF"
-     },
-     {
-      "title": "关于“立讯转债”即将到期及停止交易的第二次提示性公告",
-      "date": "2026-09-22",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575502.PDF"
-     },
-     {
-      "title": "关于“立讯转债”即将到期及停止交易的第一次提示性公告",
-      "date": "2026-09-21",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-21/1225571215.PDF"
-     },
-     {
-      "title": "关于“立讯转债”停止交易的公告",
-      "date": "2026-09-18",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-18/1225570837.PDF"
-     },
-     {
-      "title": "北京市汉坤（深圳）律师事务所关于立讯精密工业股份有限公司2026年第一次临时股东会的法律意见书",
-      "date": "2026-09-17",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-17/1225568991.PDF"
-     },
-     {
-      "title": "2026年第一次临时股东会决议公告",
-      "date": "2026-09-17",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-17/1225568990.PDF"
-     },
-     {
-      "title": "关于召开2026年第一次临时股东会的提示性公告",
-      "date": "2026-09-10",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-10/1225555193.PDF"
      }
     ],
-    "count_12m": 212
+    "count_12m": 222
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -5541,13 +5573,50 @@
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002475&orgId=9900014448"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002475&orgId=9900014448"
    },
-   "qa_at": "2026-10-29T18:22:53+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "002371.SZ": {
    "announcements": {
     "items": [
+     {
+      "title": "关于拟变更会计师事务所的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225641395.PDF"
+     },
+     {
+      "title": "中信建投证券股份有限公司关于北方华创科技集团股份有限公司全资子公司使用部分闲置募集资金暂时补充流动资金的核查意见",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225641394.PDF"
+     },
+     {
+      "title": "关于全资子公司使用部分闲置募集资金暂时补充流动资金的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225641393.PDF"
+     },
+     {
+      "title": "关于收购北京诺合键维设备有限公司100%股权暨关联交易完成工商变更登记的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225641392.PDF"
+     },
+     {
+      "title": "第九届董事会第八次会议决议公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225641391.PDF"
+     },
+     {
+      "title": "2026年三季度报告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225641389.PDF"
+     },
      {
       "title": "关于2026年员工持股计划实施进展的公告",
       "date": "2026-10-24",
@@ -5631,47 +5700,11 @@
       "date": "2026-08-26",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225501905.PDF"
-     },
-     {
-      "title": "2026年半年度非经营性资金占用及其他关联资金往来情况汇总表",
-      "date": "2026-08-26",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225501904.PDF"
-     },
-     {
-      "title": "2026年半年度报告",
-      "date": "2026-08-26",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225501903.PDF"
-     },
-     {
-      "title": "2026年半年度报告摘要",
-      "date": "2026-08-26",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225501902.PDF"
-     },
-     {
-      "title": "关于2026年员工持股计划实施进展的公告",
-      "date": "2026-08-22",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225488144.PDF"
-     },
-     {
-      "title": "2026年第一次临时股东会法律意见书",
-      "date": "2026-08-18",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-18/1225477024.PDF"
-     },
-     {
-      "title": "2026年第一次临时股东会决议公告",
-      "date": "2026-08-18",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-18/1225477023.PDF"
      }
     ],
-    "count_12m": 175
+    "count_12m": 181
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -5739,13 +5772,20 @@
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002371&orgId=9900006137"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002371&orgId=9900006137"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "601319.SH": {
    "announcements": {
     "items": [
+     {
+      "title": "中国人保2026年半年度权益分派实施公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225644704.PDF"
+     },
      {
       "title": "中国人保关于召开2026年第三季度业绩说明会的公告",
       "date": "2026-10-28",
@@ -5859,17 +5899,11 @@
       "date": "2026-09-30",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225588368.PDF"
-     },
-     {
-      "title": "中国人保2026年第二次临时股东会法律意见书",
-      "date": "2026-09-30",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225588362.PDF"
      }
     ],
-    "count_12m": 118
+    "count_12m": 119
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -5889,9 +5923,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=129048"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=129048"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "600000.SH": {
    "announcements": {
@@ -6017,9 +6052,9 @@
       "url": "https://static.cninfo.com.cn/finalpage/2026-06-30/1225396283.PDF"
      }
     ],
-    "count_12m": 80
+    "count_12m": 79
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -6039,13 +6074,20 @@
       "url": "https://sns.sseinfo.com/company.do?uid=65"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=65"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "600276.SH": {
    "announcements": {
     "items": [
+     {
+      "title": "恒瑞医药关于药品上市许可申请获受理并纳入优先审评程序的提示性公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225641318.PDF"
+     },
      {
       "title": "恒瑞医药关于获得药物临床试验批准通知书的公告",
       "date": "2026-10-29",
@@ -6159,17 +6201,11 @@
       "date": "2026-10-08",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225595595.PDF"
-     },
-     {
-      "title": "恒瑞医药关于与Novo Nordisk A/S签署HRS-1596项目授权许可协议的公告",
-      "date": "2026-09-29",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225586487.PDF"
      }
     ],
     "count_12m": 318
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -6237,9 +6273,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=276"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=276"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "002415.SZ": {
    "announcements": {
@@ -6367,7 +6404,7 @@
     ],
     "count_12m": 80
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -6435,13 +6472,38 @@
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002415&orgId=9900012688"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002415&orgId=9900012688"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "300502.SZ": {
    "announcements": {
     "items": [
+     {
+      "title": "关于回购股份事项前十名股东和前十名无限售条件股东持股情况的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225643324.PDF"
+     },
+     {
+      "title": "关于2026年第三季度报告披露的提示性公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225642950.PDF"
+     },
+     {
+      "title": "第五届董事会第十九次会议决议公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225642949.PDF"
+     },
+     {
+      "title": "2026年三季度报告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225642947.PDF"
+     },
      {
       "title": "第五届董事会第十八次会议决议公告",
       "date": "2026-10-23",
@@ -6537,35 +6599,11 @@
       "date": "2026-09-01",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-09-01/1225537231.PDF"
-     },
-     {
-      "title": "关于调整2024年限制性股票激励计划首次及预留授予限制性股票授予价格及权益数量的公告",
-      "date": "2026-08-25",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225499413.PDF"
-     },
-     {
-      "title": "关于2026年半年度报告披露的提示性公告",
-      "date": "2026-08-25",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225499412.PDF"
-     },
-     {
-      "title": "新易盛2024年限制性股票激励计划授予价格及权益数量调整、预留授予第二期归属条件成就相关事项的法律意见书",
-      "date": "2026-08-25",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225499411.PDF"
-     },
-     {
-      "title": "董事会薪酬与考核委员会关于2024年限制性股票激励计划预留授予第二期可归属激励对象名单的核查意见",
-      "date": "2026-08-25",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225499410.PDF"
      }
     ],
-    "count_12m": 116
+    "count_12m": 120
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -6633,9 +6671,10 @@
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300502&orgId=9900026455"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300502&orgId=9900026455"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "603993.SH": {
    "announcements": {
@@ -6763,7 +6802,7 @@
     ],
     "count_12m": 131
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -6831,9 +6870,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=3993"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=3993"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "601601.SH": {
    "announcements": {
@@ -6961,7 +7001,7 @@
     ],
     "count_12m": 116
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -6989,9 +7029,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=1601"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=1601"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "300059.SZ": {
    "announcements": {
@@ -7119,7 +7160,7 @@
     ],
     "count_12m": 152
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -7187,13 +7228,20 @@
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300059&orgId=9900010488"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300059&orgId=9900010488"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "000858.SZ": {
    "announcements": {
     "items": [
+     {
+      "title": "关于控股股东及其一致行动人增持股份触及1%整数倍的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225645644.PDF"
+     },
      {
       "title": "关于回购公司股份进展情况的自愿性信息披露公告",
       "date": "2026-10-29",
@@ -7307,17 +7355,11 @@
       "date": "2026-07-15",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-07-15/1225423626.PDF"
-     },
-     {
-      "title": "2025年度分红派息实施公告",
-      "date": "2026-07-10",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-07-10/1225417855.PDF"
      }
     ],
-    "count_12m": 92
+    "count_12m": 93
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -7385,9 +7427,10 @@
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000858&orgId=gssz0000858"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000858&orgId=gssz0000858"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "601211.SH": {
    "announcements": {
@@ -7515,7 +7558,7 @@
     ],
     "count_12m": 125
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -7551,13 +7594,20 @@
       "url": "https://sns.sseinfo.com/company.do?uid=44072"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=44072"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "688347.SH": {
    "announcements": {
     "items": [
+     {
+      "title": "关于董事会主席兼总裁提议回购公司股份的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225639924.PDF"
+     },
      {
       "title": "2026年第三次临时股东会决议公告",
       "date": "2026-10-23",
@@ -7671,17 +7721,11 @@
       "date": "2026-09-12",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225559980.PDF"
-     },
-     {
-      "title": "国泰海通证券股份有限公司关于华虹宏力半导体有限公司发行股份购买资产暨关联交易实施情况之独立财务顾问核查意见",
-      "date": "2026-09-12",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225559979.PDF"
      }
     ],
-    "count_12m": 218
+    "count_12m": 219
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -7701,9 +7745,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=275778"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=275778"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "688836.SH": {
    "announcements": {
@@ -7831,7 +7876,7 @@
     ],
     "count_12m": 26
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -7899,9 +7944,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=343142"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=343142"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "601225.SH": {
    "announcements": {
@@ -8029,7 +8075,7 @@
     ],
     "count_12m": 69
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -8057,9 +8103,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=15299"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=15299"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "600150.SH": {
    "announcements": {
@@ -8185,9 +8232,9 @@
       "url": "https://static.cninfo.com.cn/finalpage/2026-08-07/1225461221.PDF"
      }
     ],
-    "count_12m": 107
+    "count_12m": 100
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -8223,9 +8270,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=150"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=150"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "601816.SH": {
    "announcements": {
@@ -8353,7 +8401,7 @@
     ],
     "count_12m": 76
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -8389,13 +8437,32 @@
       "url": "https://sns.sseinfo.com/company.do?uid=155463"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=155463"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "601919.SH": {
    "announcements": {
     "items": [
+     {
+      "title": "中远海控关于召开2026年第三季度业绩说明会的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225642474.PDF"
+     },
+     {
+      "title": "中远海控第八届董事会第五次会议决议公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225642438.PDF"
+     },
+     {
+      "title": "中远海控2026年第三季度报告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225642417.PDF"
+     },
      {
       "title": "中远海控2026年中期权益分派实施公告",
       "date": "2026-10-16",
@@ -8497,29 +8564,11 @@
       "date": "2026-08-29",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531121.PDF"
-     },
-     {
-      "title": "中远海控2026年半年度报告",
-      "date": "2026-08-29",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531118.PDF"
-     },
-     {
-      "title": "中远海控H股公告：翌日披露报表",
-      "date": "2026-08-15",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225474383.PDF"
-     },
-     {
-      "title": "中远海控H股公告：翌日披露报表",
-      "date": "2026-08-14",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-14/1225471940.PDF"
      }
     ],
-    "count_12m": 189
+    "count_12m": 192
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -8531,13 +8580,20 @@
       "url": "https://sns.sseinfo.com/company.do?uid=1919"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=1919"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "003816.SZ": {
    "announcements": {
     "items": [
+     {
+      "title": "关于公司2026年度第一期及第二期超短期融资券到期兑付的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225642621.PDF"
+     },
      {
       "title": "第四届董事会第二十四次会议决议公告",
       "date": "2026-10-29",
@@ -8651,17 +8707,11 @@
       "date": "2026-08-26",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225503733.PDF"
-     },
-     {
-      "title": "中国广核电力股份有限公司2026年半年度非经营性资金占用及其他关联资金往来情况汇总表",
-      "date": "2026-08-26",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225503732.PDF"
      }
     ],
-    "count_12m": 159
+    "count_12m": 151
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -8729,13 +8779,26 @@
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=003816&orgId=9900027002"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=003816&orgId=9900027002"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "002714.SZ": {
    "announcements": {
     "items": [
+     {
+      "title": "第五届董事会第二十次会议决议公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225639872.PDF"
+     },
+     {
+      "title": "2026年三季度报告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225639870.PDF"
+     },
      {
       "title": "关于第二期员工持股计划存续期届满前六个月的提示性公告",
       "date": "2026-10-23",
@@ -8843,23 +8906,11 @@
       "date": "2026-09-08",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-09-08/1225551030.PDF"
-     },
-     {
-      "title": "H股公告（翌日披露报表）",
-      "date": "2026-09-05",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-05/1225549591.PDF"
-     },
-     {
-      "title": "H股公告（翌日披露报表）",
-      "date": "2026-09-04",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-04/1225546931.PDF"
      }
     ],
-    "count_12m": 222
+    "count_12m": 224
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -8927,13 +8978,32 @@
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002714&orgId=9900022995"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002714&orgId=9900022995"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "600919.SH": {
    "announcements": {
     "items": [
+     {
+      "title": "江苏银行内部审计章程（2026年修订）",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225642732.PDF"
+     },
+     {
+      "title": "江苏银行董事会决议公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225642724.PDF"
+     },
+     {
+      "title": "江苏银行2026年第三季度报告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225642695.PDF"
+     },
      {
       "title": "江苏银行关于召开2026年三季度业绩说明会的公告",
       "date": "2026-10-28",
@@ -9035,29 +9105,11 @@
       "date": "2026-06-27",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-06-27/1225391245.PDF"
-     },
-     {
-      "title": "江苏银行2025年年度股东会会议资料",
-      "date": "2026-06-18",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-06-18/1225375616.PDF"
-     },
-     {
-      "title": "江苏银行董事会决议公告",
-      "date": "2026-06-06",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-06-06/1225353546.PDF"
-     },
-     {
-      "title": "江苏银行关于召开2025年年度股东会的通知",
-      "date": "2026-06-06",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-06-06/1225353541.PDF"
      }
     ],
-    "count_12m": 63
+    "count_12m": 66
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -9085,13 +9137,38 @@
       "url": "https://sns.sseinfo.com/company.do?uid=74475"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=74475"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "002142.SZ": {
    "announcements": {
     "items": [
+     {
+      "title": "宁波银行股份有限公司2026年半年度权益分派实施公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225640436.PDF"
+     },
+     {
+      "title": "宁波银行股份有限公司2026年第三季度第三支柱报告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225639599.PDF"
+     },
+     {
+      "title": "宁波银行股份有限公司第九届董事会第六次会议决议公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225639598.PDF"
+     },
+     {
+      "title": "2026年三季度报告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225639596.PDF"
+     },
      {
       "title": "中信建投证券股份有限公司关于宁波银行股份有限公司首次公开发行前已发行股份上市流通的核查意见",
       "date": "2026-10-20",
@@ -9187,35 +9264,11 @@
       "date": "2026-08-01",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-08-01/1225451275.PDF"
-     },
-     {
-      "title": "宁波银行股份有限公司关于董事任职资格获核准的公告",
-      "date": "2026-07-15",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-07-15/1225423903.PDF"
-     },
-     {
-      "title": "宁波银行股份有限公司关于赎回二级资本债券的公告",
-      "date": "2026-07-14",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-07-14/1225422067.PDF"
-     },
-     {
-      "title": "宁波银行股份有限公司2025年年度权益分派实施公告",
-      "date": "2026-07-09",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-07-09/1225415753.PDF"
-     },
-     {
-      "title": "宁波银行股份有限公司关于董事任职资格获核准的公告",
-      "date": "2026-06-27",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-06-27/1225390705.PDF"
      }
     ],
-    "count_12m": 100
+    "count_12m": 104
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -9251,13 +9304,68 @@
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002142&orgId=9900003281"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002142&orgId=9900003281"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "600183.SH": {
    "announcements": {
     "items": [
+     {
+      "title": "生益科技第十一届董事会第二十二次会议决议公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225644524.PDF"
+     },
+     {
+      "title": "湖南绿晟环保股份有限公司境内期货套期保值管理制度（2026年10月修订）",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225644518.PDF"
+     },
+     {
+      "title": "生益科技关于股份回购进展公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225644517.PDF"
+     },
+     {
+      "title": "生益科技关于召开2026年第二次临时股东会的通知",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225644513.PDF"
+     },
+     {
+      "title": "生益科技2026年前三季度利润分配方案公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225644508.PDF"
+     },
+     {
+      "title": "生益科技2026年第二次临时股东会会议资料",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225644506.PDF"
+     },
+     {
+      "title": "生益科技2026年第三季度报告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225644504.PDF"
+     },
+     {
+      "title": "生益科技关于增加2026年度日常关联交易预计额度的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225644491.PDF"
+     },
+     {
+      "title": "生益科技关于召开2026年第三季度业绩说明会的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225644487.PDF"
+     },
      {
       "title": "生益科技关于回购股份事项前十大股东和前十大无限售条件股东持股情况的公告",
       "date": "2026-10-27",
@@ -9323,65 +9431,11 @@
       "date": "2026-08-15",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225475827.PDF"
-     },
-     {
-      "title": "生益科技关于召开2026年半年度业绩说明会的公告",
-      "date": "2026-08-15",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225475803.PDF"
-     },
-     {
-      "title": "生益科技关于2026年半年度日常关联交易情况及增加2026年度日常关联交易预计额度的公告",
-      "date": "2026-08-15",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225475789.PDF"
-     },
-     {
-      "title": "生益科技2026年半年度报告",
-      "date": "2026-08-15",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225475783.PDF"
-     },
-     {
-      "title": "生益科技第十一届董事会第二十次会议决议公告",
-      "date": "2026-08-15",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225475714.PDF"
-     },
-     {
-      "title": "生益科技股票交易风险提示公告",
-      "date": "2026-08-08",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-08/1225463839.PDF"
-     },
-     {
-      "title": "生益科技股票交易异常波动公告",
-      "date": "2026-08-07",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-07/1225462224.PDF"
-     },
-     {
-      "title": "生益科技关于湖南绿晟环保股份有限公司及其下属公司互相提供担保的进展公告",
-      "date": "2026-08-07",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-07/1225462223.PDF"
-     },
-     {
-      "title": "北京市康达（广州）律师事务所关于生益科技2026年第一次临时股东会的法律意见书",
-      "date": "2026-07-25",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-07-25/1225441495.PDF"
-     },
-     {
-      "title": "生益科技2026年第一次临时股东会决议公告",
-      "date": "2026-07-25",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-07-25/1225441493.PDF"
      }
     ],
-    "count_12m": 142
+    "count_12m": 109
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -9433,9 +9487,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=183"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=183"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "601869.SH": {
    "announcements": {
@@ -9563,7 +9618,7 @@
     ],
     "count_12m": 113
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -9575,9 +9630,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=125388"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=125388"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "000001.SZ": {
    "announcements": {
@@ -9773,9 +9829,10 @@
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000001&orgId=gssz0000001"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000001&orgId=gssz0000001"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "600309.SH": {
    "announcements": {
@@ -9901,9 +9958,9 @@
       "url": "https://static.cninfo.com.cn/finalpage/2026-07-15/1225423057.PDF"
      }
     ],
-    "count_12m": 108
+    "count_12m": 105
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -9939,9 +9996,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=309"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=309"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "688012.SH": {
    "announcements": {
@@ -10081,13 +10139,32 @@
       "url": "https://sns.sseinfo.com/company.do?uid=145565"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=145565"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "300760.SZ": {
    "announcements": {
     "items": [
+     {
+      "title": "第九届董事会第三次会议决议公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225641897.PDF"
+     },
+     {
+      "title": "2026年三季度报告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225641895.PDF"
+     },
+     {
+      "title": "关于2026年第三次中期利润分配方案公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225641894.PDF"
+     },
      {
       "title": "关于控股股东部分股份质押的公告",
       "date": "2026-10-12",
@@ -10189,29 +10266,11 @@
       "date": "2026-05-20",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-05-20/1225320390.PDF"
-     },
-     {
-      "title": "关于注销库存股通知债权人的公告",
-      "date": "2026-05-19",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-05-19/1225318288.PDF"
-     },
-     {
-      "title": "关于选举产生第九届董事会职工代表董事的公告",
-      "date": "2026-05-19",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-05-19/1225318287.PDF"
-     },
-     {
-      "title": "关于公司董事会完成换届选举及聘任高级管理人员的公告",
-      "date": "2026-05-19",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-05-19/1225318286.PDF"
      }
     ],
-    "count_12m": 86
+    "count_12m": 89
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -10279,9 +10338,10 @@
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300760&orgId=9900035304"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300760&orgId=9900035304"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "601995.SH": {
    "announcements": {
@@ -10409,7 +10469,7 @@
     ],
     "count_12m": 223
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -10477,9 +10537,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=183297"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=183297"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "000651.SZ": {
    "announcements": {
@@ -10607,7 +10668,7 @@
     ],
     "count_12m": 126
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -10675,9 +10736,10 @@
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000651&orgId=gssz0000651"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000651&orgId=gssz0000651"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "601985.SH": {
    "announcements": {
@@ -10805,7 +10867,7 @@
     ],
     "count_12m": 122
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -10873,13 +10935,68 @@
       "url": "https://sns.sseinfo.com/company.do?uid=42817"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=42817"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "688008.SH": {
    "announcements": {
     "items": [
+     {
+      "title": "澜起科技第三届董事会第二十次会议决议公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225643374.PDF"
+     },
+     {
+      "title": "澜起科技关于变更部分回购A股股份用途并注销的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225643371.PDF"
+     },
+     {
+      "title": "澜起科技董事会薪酬与考核委员会关于2023年限制性股票激励计划预留授予部分第三个归属期归属名单及2024年限制性股票激励计划首次授予部分第二个归属期归属名单的核查意见",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225643367.PDF"
+     },
+     {
+      "title": "上海兰迪律师事务所关于澜起科技股份有限公司2023年限制性股票激励计划预留授予部分第三个归属期及2024年限制性股票激励计划首次授予部分第二归属期归属条件成就的法律意见书",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225643310.PDF"
+     },
+     {
+      "title": "澜起科技关于2026年第二次以集中竞价交易方式回购A股股份的回购报告书",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225643303.PDF"
+     },
+     {
+      "title": "澜起科技关于2023年限制性股票激励计划预留授予第三个归属期、2024年限制性股票激励计划首次授予第二个归属期符合归属条件的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225643300.PDF"
+     },
+     {
+      "title": "上海兰迪律师事务所关于澜起科技股份有限公司2023年限制性股票激励计划、2024年限制性股票激励计划及第三届董事会核心高管激励计划调整授予价格的法律意见书",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225643294.PDF"
+     },
+     {
+      "title": "澜起科技关于调整2023年、2024年限制性股票激励计划及第三届董事会核心高管激励计划授予价格的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225643278.PDF"
+     },
+     {
+      "title": "澜起科技2026年第三季度报告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225643270.PDF"
+     },
      {
       "title": "澜起科技关于A股股份回购实施结果的公告",
       "date": "2026-10-24",
@@ -10945,65 +11062,11 @@
       "date": "2026-09-16",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-09-16/1225565617.PDF"
-     },
-     {
-      "title": "H股公告-翌日披露报表",
-      "date": "2026-09-15",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-15/1225563854.PDF"
-     },
-     {
-      "title": "H股公告-翌日披露报表",
-      "date": "2026-09-12",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225561362.PDF"
-     },
-     {
-      "title": "H股公告-翌日披露报表",
-      "date": "2026-09-11",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-11/1225558211.PDF"
-     },
-     {
-      "title": "H股公告-翌日披露报表",
-      "date": "2026-09-10",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-10/1225556190.PDF"
-     },
-     {
-      "title": "H股公告-翌日披露报表",
-      "date": "2026-09-09",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-09/1225554325.PDF"
-     },
-     {
-      "title": "H股公告-翌日披露报表",
-      "date": "2026-09-08",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-08/1225551896.PDF"
-     },
-     {
-      "title": "H股公告-翌日披露报表",
-      "date": "2026-09-05",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-05/1225549593.PDF"
-     },
-     {
-      "title": "H股公告-翌日披露报表",
-      "date": "2026-09-04",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-04/1225546776.PDF"
-     },
-     {
-      "title": "H股公告-翌日披露报表",
-      "date": "2026-09-03",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225544671.PDF"
      }
     ],
-    "count_12m": 149
+    "count_12m": 156
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -11071,13 +11134,26 @@
       "url": "https://sns.sseinfo.com/company.do?uid=145146"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=145146"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "603288.SH": {
    "announcements": {
     "items": [
+     {
+      "title": "海天味业2026年第三季度主要经营数据公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225642758.PDF"
+     },
+     {
+      "title": "海天味业2026年第三季度报告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225642742.PDF"
+     },
      {
       "title": "H股公告-董事会会议召开日期",
       "date": "2026-10-17",
@@ -11185,23 +11261,11 @@
       "date": "2026-09-11",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-09-11/1225556889.PDF"
-     },
-     {
-      "title": "H股公告-翌日披露报表",
-      "date": "2026-09-10",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-10/1225556193.PDF"
-     },
-     {
-      "title": "H股公告-翌日披露报表",
-      "date": "2026-09-09",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-09/1225554310.PDF"
      }
     ],
-    "count_12m": 137
+    "count_12m": 134
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -11261,9 +11325,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=15546"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=15546"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "600025.SH": {
    "announcements": {
@@ -11391,7 +11456,7 @@
     ],
     "count_12m": 103
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -11411,13 +11476,32 @@
       "url": "https://sns.sseinfo.com/company.do?uid=109578"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=109578"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "603986.SH": {
    "announcements": {
     "items": [
+     {
+      "title": "兆易创新关于召开2026年第三季度业绩说明会的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225641976.PDF"
+     },
+     {
+      "title": "兆易创新2026年第三季度报告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225641959.PDF"
+     },
+     {
+      "title": "H股公告-翌日披露报表",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225641672.PDF"
+     },
      {
       "title": "兆易创新关于以集中竞价交易方式回购A股股份的进展公告",
       "date": "2026-10-28",
@@ -11519,29 +11603,11 @@
       "date": "2026-09-29",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225584783.PDF"
-     },
-     {
-      "title": "兆易创新关于增加2026年度日常关联交易预计额度及预计2027年1-4月日常关联交易额度的公告",
-      "date": "2026-09-29",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225584778.PDF"
-     },
-     {
-      "title": "兆易创新关于购买董事及高级管理人员责任险的公告",
-      "date": "2026-09-29",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225584777.PDF"
-     },
-     {
-      "title": "兆易创新2026年第四次临时股东会会议资料",
-      "date": "2026-09-29",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225584774.PDF"
      }
     ],
-    "count_12m": 190
+    "count_12m": 184
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -11609,9 +11675,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=76578"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=76578"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "601668.SH": {
    "announcements": {
@@ -11739,7 +11806,7 @@
     ],
     "count_12m": 133
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -11807,9 +11874,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=1668"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=1668"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "600188.SH": {
    "announcements": {
@@ -11935,9 +12003,9 @@
       "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225532272.PDF"
      }
     ],
-    "count_12m": 196
+    "count_12m": 195
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -11965,9 +12033,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=188"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=188"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "601898.SH": {
    "announcements": {
@@ -12095,7 +12164,7 @@
     ],
     "count_12m": 81
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -12163,9 +12232,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=1898"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=1898"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "600406.SH": {
    "announcements": {
@@ -12293,7 +12363,7 @@
     ],
     "count_12m": 145
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -12361,13 +12431,50 @@
       "url": "https://sns.sseinfo.com/company.do?uid=406"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=406"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "600887.SH": {
    "announcements": {
     "items": [
+     {
+      "title": "内蒙古伊利实业集团股份有限公司关于2026年中期利润分配预案的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225644527.PDF"
+     },
+     {
+      "title": "内蒙古伊利实业集团股份有限公司第十二届董事会第二次会议决议公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225644520.PDF"
+     },
+     {
+      "title": "内蒙古伊利实业集团股份有限公司2026年第三季度报告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225644500.PDF"
+     },
+     {
+      "title": "内蒙古伊利实业集团股份有限公司关于2026年度第五期科技创新债券发行结果的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225644498.PDF"
+     },
+     {
+      "title": "内蒙古伊利实业集团股份有限公司关于召开2026年第二次临时股东会的通知",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225644489.PDF"
+     },
+     {
+      "title": "内蒙古伊利实业集团股份有限公司关于2026年第三季度经营数据的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225644485.PDF"
+     },
      {
       "title": "内蒙古伊利实业集团股份有限公司关于以集中竞价交易方式首次回购公司股份的公告",
       "date": "2026-10-24",
@@ -12451,47 +12558,11 @@
       "date": "2026-09-17",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-09-17/1225568022.PDF"
-     },
-     {
-      "title": "内蒙古伊利实业集团股份有限公司关于回购股份减少注册资本通知债权人的公告",
-      "date": "2026-09-17",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-17/1225568017.PDF"
-     },
-     {
-      "title": "内蒙古伊利实业集团股份有限公司关于为控股子公司提供担保的进展公告",
-      "date": "2026-09-12",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225559652.PDF"
-     },
-     {
-      "title": "内蒙古伊利实业集团股份有限公司关于回购股份事项前十名股东持股情况的公告",
-      "date": "2026-09-12",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225559649.PDF"
-     },
-     {
-      "title": "内蒙古伊利实业集团股份有限公司2026年第一次临时股东会会议资料",
-      "date": "2026-09-09",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-09/1225552949.PDF"
-     },
-     {
-      "title": "内蒙古伊利实业集团股份有限公司2023年持股计划（第三期）第二次持有人会议决议公告",
-      "date": "2026-09-05",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-05/1225547701.PDF"
-     },
-     {
-      "title": "内蒙古伊利实业集团股份有限公司第六期长期服务计划第二次持有人会议决议公告",
-      "date": "2026-09-05",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-05/1225547678.PDF"
      }
     ],
-    "count_12m": 143
+    "count_12m": 149
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -12559,9 +12630,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=887"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=887"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "601766.SH": {
    "announcements": {
@@ -12689,12 +12761,13 @@
     ],
     "count_12m": 108
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=1766"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "002379.SZ": {
    "announcements": {
@@ -12822,7 +12895,7 @@
     ],
     "count_12m": 192
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -12890,9 +12963,10 @@
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002379&orgId=9900011448"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002379&orgId=9900011448"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "002384.SZ": {
    "announcements": {
@@ -13020,7 +13094,7 @@
     ],
     "count_12m": 133
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -13088,9 +13162,10 @@
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002384&orgId=9900011647"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002384&orgId=9900011647"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "688802.SH": {
    "announcements": {
@@ -13218,7 +13293,7 @@
     ],
     "count_12m": 125
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -13230,9 +13305,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=323111"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=323111"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "601818.SH": {
    "announcements": {
@@ -13360,7 +13436,7 @@
     ],
     "count_12m": 106
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -13372,13 +13448,44 @@
       "url": "https://sns.sseinfo.com/company.do?uid=1818"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=1818"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "600690.SH": {
    "announcements": {
     "items": [
+     {
+      "title": "海尔智家股份有限公司关于核心员工持股计划持有人会议决议的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225641326.PDF"
+     },
+     {
+      "title": "海尔智家股份有限公司董事会秘书履职保障制度",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225641310.PDF"
+     },
+     {
+      "title": "海尔智家股份有限公司董事会秘书工作制度（2026年修订）",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225641302.PDF"
+     },
+     {
+      "title": "海尔智家股份有限公司第十二届董事会第八次会议决议公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225641285.PDF"
+     },
+     {
+      "title": "海尔智家股份有限公司2026年第三季度报告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225641263.PDF"
+     },
      {
       "title": "海尔智家股份有限公司关于境外上市外资股（H股）股份变动情况的公告",
       "date": "2026-10-17",
@@ -13468,41 +13575,11 @@
       "date": "2026-08-28",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225522685.PDF"
-     },
-     {
-      "title": "海尔智家股份有限公司第十二届董事会第七次会议决议公告",
-      "date": "2026-08-28",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225522681.PDF"
-     },
-     {
-      "title": "海尔智家股份有限公司高级管理人员离任公告",
-      "date": "2026-08-28",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225522672.PDF"
-     },
-     {
-      "title": "海尔智家股份有限公司2025年年度A股权益分派实施公告",
-      "date": "2026-08-15",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225474603.PDF"
-     },
-     {
-      "title": "北京市中伦律师事务所关于海尔智家股份有限公司差异化分红事项之专项法律意见",
-      "date": "2026-08-15",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225474602.PDF"
-     },
-     {
-      "title": "海尔智家股份有限公司关于2025年年度利润分配方案调整每股分配比例的公告",
-      "date": "2026-08-08",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-08/1225463660.PDF"
      }
     ],
-    "count_12m": 114
+    "count_12m": 119
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -13570,13 +13647,20 @@
       "url": "https://sns.sseinfo.com/company.do?uid=690"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=690"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "002463.SZ": {
    "announcements": {
     "items": [
+     {
+      "title": "关于为子公司提供担保的进展公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225639273.PDF"
+     },
      {
       "title": "2026年三季度报告",
       "date": "2026-10-28",
@@ -13690,17 +13774,11 @@
       "date": "2026-08-26",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225502262.PDF"
-     },
-     {
-      "title": "关于注销2024年度股票期权激励计划部分股票期权的公告",
-      "date": "2026-08-26",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225502261.PDF"
      }
     ],
-    "count_12m": 159
+    "count_12m": 157
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -13768,13 +13846,26 @@
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002463&orgId=9900013929"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002463&orgId=9900013929"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "000338.SZ": {
    "announcements": {
     "items": [
+     {
+      "title": "潍柴动力股份有限公司七届九次董事会会议决议公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225643485.PDF"
+     },
+     {
+      "title": "2026年三季度报告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225643483.PDF"
+     },
      {
       "title": "潍柴动力股份有限公司关于控股股东增持公司A股股份计划实施期限过半的进展公告",
       "date": "2026-10-22",
@@ -13882,23 +13973,11 @@
       "date": "2026-08-28",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225520943.PDF"
-     },
-     {
-      "title": "潍柴动力股份有限公司2026年半年度非经营性资金占用及其他关联资金往来情况汇总表",
-      "date": "2026-08-28",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225520942.PDF"
-     },
-     {
-      "title": "2026年半年度报告",
-      "date": "2026-08-28",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225520941.PDF"
      }
     ],
-    "count_12m": 121
+    "count_12m": 123
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -13966,9 +14045,10 @@
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000338&orgId=9900002961"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000338&orgId=9900002961"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "300394.SZ": {
    "announcements": {
@@ -14096,7 +14176,7 @@
     ],
     "count_12m": 185
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -14164,13 +14244,26 @@
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300394&orgId=9900023911"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300394&orgId=9900023911"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "302132.SZ": {
    "announcements": {
     "items": [
+     {
+      "title": "第八届董事会第十三次会议决议公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225644255.PDF"
+     },
+     {
+      "title": "2026年三季度报告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225644253.PDF"
+     },
      {
       "title": "关于公司董事离任的公告",
       "date": "2026-09-24",
@@ -14278,23 +14371,11 @@
       "date": "2026-05-26",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-05-26/1225329592.PDF"
-     },
-     {
-      "title": "第八届董事会第十一次会议决议公告",
-      "date": "2026-05-26",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-05-26/1225329591.PDF"
-     },
-     {
-      "title": "北京市嘉源律师事务所关于中航成飞股份有限公司2025年度股东会的法律意见书",
-      "date": "2026-05-22",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-05-22/1225327867.PDF"
      }
     ],
-    "count_12m": 81
+    "count_12m": 80
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -14362,9 +14443,10 @@
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=302132&orgId=9900013408"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=302132&orgId=9900013408"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "002916.SZ": {
    "announcements": {
@@ -14492,7 +14574,7 @@
     ],
     "count_12m": 146
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -14520,9 +14602,10 @@
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002916&orgId=9900022488"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002916&orgId=9900022488"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "000725.SZ": {
    "announcements": {
@@ -14650,7 +14733,7 @@
     ],
     "count_12m": 167
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -14718,9 +14801,10 @@
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000725&orgId=gssz0000725"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000725&orgId=gssz0000725"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "601066.SH": {
    "announcements": {
@@ -14848,7 +14932,7 @@
     ],
     "count_12m": 117
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -14868,9 +14952,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=123807"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=123807"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "300408.SZ": {
    "announcements": {
@@ -14998,7 +15083,7 @@
     ],
     "count_12m": 170
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -15066,13 +15151,20 @@
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300408&orgId=9900023108"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300408&orgId=9900023108"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "600031.SH": {
    "announcements": {
     "items": [
+     {
+      "title": "三一重工股份有限公司2026年第三季度报告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225639954.PDF"
+     },
      {
       "title": "三一重工股份有限公司第九届董事会第十三次会议决议公告",
       "date": "2026-10-20",
@@ -15186,17 +15278,11 @@
       "date": "2026-08-31",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225535116.PDF"
-     },
-     {
-      "title": "三一重工股份有限公司2026年半年度报告",
-      "date": "2026-08-31",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225535109.PDF"
      }
     ],
     "count_12m": 153
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -15248,13 +15334,80 @@
       "url": "https://sns.sseinfo.com/company.do?uid=31"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=31"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "002352.SZ": {
    "announcements": {
     "items": [
+     {
+      "title": "公司章程（2026年10月)",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225645740.PDF"
+     },
+     {
+      "title": "关于变更注册资本并修订《公司章程》的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225645739.PDF"
+     },
+     {
+      "title": "关于调整公司2022年A股股票期权激励计划行权价格的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225645738.PDF"
+     },
+     {
+      "title": "关于注销2022年A股股票期权激励计划部分股票期权的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225645737.PDF"
+     },
+     {
+      "title": "上海澄明则正律师事务所关于顺丰控股股份有限公司2022年A股股票期权激励计划调整行权价格、注销部分股票期权及预留授予股票期权第四个行权期行权条件成就的法律意见书",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225645736.PDF"
+     },
+     {
+      "title": "董事会薪酬与考核委员会关于2022年A股股票期权激励计划相关事项的核查意见",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225645735.PDF"
+     },
+     {
+      "title": "关于2022年A股股票期权激励计划预留授予股票期权第四个行权期行权条件成就的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225645734.PDF"
+     },
+     {
+      "title": "第七届董事会第八次会议决议公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225645733.PDF"
+     },
+     {
+      "title": "2026年三季度报告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225645731.PDF"
+     },
+     {
+      "title": "关于董事会秘书、联席公司秘书辞任暨授权代表变更的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225645730.PDF"
+     },
+     {
+      "title": "关于收购资产暨关联交易的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225645729.PDF"
+     },
      {
       "title": "关于投资者热线电话恢复正常使用的公告",
       "date": "2026-10-22",
@@ -15308,77 +15461,11 @@
       "date": "2026-09-22",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575777.PDF"
-     },
-     {
-      "title": "关于全资子公司参与投资股权投资基金的公告",
-      "date": "2026-09-22",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575776.PDF"
-     },
-     {
-      "title": "关于回购A股股份注销完成暨股份变动的公告",
-      "date": "2026-09-22",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575775.PDF"
-     },
-     {
-      "title": "2026年8月快递物流业务经营简报",
-      "date": "2026-09-19",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-19/1225573017.PDF"
-     },
-     {
-      "title": "关于董事、高级管理人员无偿捐赠公司股份的公告",
-      "date": "2026-09-19",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-19/1225573016.PDF"
-     },
-     {
-      "title": "关于境外全资子公司在境外发行债券的进展公告",
-      "date": "2026-09-16",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-16/1225567105.PDF"
-     },
-     {
-      "title": "H股公告-翌日披露报表",
-      "date": "2026-09-12",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225560531.PDF"
-     },
-     {
-      "title": "H股公告-翌日披露报表",
-      "date": "2026-09-11",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-11/1225558312.PDF"
-     },
-     {
-      "title": "H股公告-翌日披露报表",
-      "date": "2026-09-10",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-10/1225555848.PDF"
-     },
-     {
-      "title": "2026年中期A股权益分派实施公告",
-      "date": "2026-09-09",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-09/1225554263.PDF"
-     },
-     {
-      "title": "H股公告-翌日披露报表",
-      "date": "2026-09-09",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-09/1225553779.PDF"
-     },
-     {
-      "title": "H股公告-翌日披露报表",
-      "date": "2026-09-08",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-08/1225551455.PDF"
      }
     ],
-    "count_12m": 264
+    "count_12m": 275
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -15446,9 +15533,10 @@
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002352&orgId=9900010448"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002352&orgId=9900010448"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "600930.SH": {
    "announcements": {
@@ -15574,9 +15662,9 @@
       "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225480095.PDF"
      }
     ],
-    "count_12m": 115
+    "count_12m": 113
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -15612,9 +15700,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=313093"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=313093"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "600989.SH": {
    "announcements": {
@@ -15742,7 +15831,7 @@
     ],
     "count_12m": 91
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -15810,9 +15899,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=139997"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=139997"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "603268.SH": {
    "announcements": {
@@ -15938,9 +16028,9 @@
       "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225528519.PDF"
      }
     ],
-    "count_12m": 213
+    "count_12m": 212
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -15968,9 +16058,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=33154"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=33154"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "688801.SH": {
    "announcements": {
@@ -16080,12 +16171,13 @@
     ],
     "count_12m": 17
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=353147"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "601336.SH": {
    "announcements": {
@@ -16213,7 +16305,7 @@
     ],
     "count_12m": 93
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -16225,13 +16317,38 @@
       "url": "https://sns.sseinfo.com/company.do?uid=1336"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=1336"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "300476.SZ": {
    "announcements": {
     "items": [
+     {
+      "title": "证券投资管理制度（2026年10月）",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225644768.PDF"
+     },
+     {
+      "title": "第五届董事会第十九次会议决议公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225644767.PDF"
+     },
+     {
+      "title": "2026年三季度报告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225644765.PDF"
+     },
+     {
+      "title": "关于向孙公司增资的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225644764.PDF"
+     },
      {
       "title": "关于实际控制人、董事长提议回购公司股份的提示性公告",
       "date": "2026-10-16",
@@ -16327,35 +16444,11 @@
       "date": "2026-08-28",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225523523.PDF"
-     },
-     {
-      "title": "第五届董事会第十八次会议决议公告",
-      "date": "2026-08-28",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225522518.PDF"
-     },
-     {
-      "title": "2026年半年度募集资金存放、管理与使用情况的专项报告",
-      "date": "2026-08-28",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225522517.PDF"
-     },
-     {
-      "title": "2026年半年度非经营性资金占用及其他关联资金往来情况汇总表",
-      "date": "2026-08-28",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225522516.PDF"
-     },
-     {
-      "title": "2026年半年度报告",
-      "date": "2026-08-28",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225522515.PDF"
      }
     ],
-    "count_12m": 157
+    "count_12m": 160
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -16423,9 +16516,10 @@
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300476&orgId=9900024582"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300476&orgId=9900024582"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "688795.SH": {
    "announcements": {
@@ -16553,7 +16647,7 @@
     ],
     "count_12m": 132
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -16597,9 +16691,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=323108"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=323108"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "600016.SH": {
    "announcements": {
@@ -16727,7 +16822,7 @@
     ],
     "count_12m": 68
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -16755,9 +16850,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=16"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=16"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "601688.SH": {
    "announcements": {
@@ -16883,9 +16979,9 @@
       "url": "https://static.cninfo.com.cn/finalpage/2026-08-07/1225462327.PDF"
      }
     ],
-    "count_12m": 134
+    "count_12m": 129
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -16905,9 +17001,10 @@
       "url": "https://sns.sseinfo.com/company.do?uid=1688"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=1688"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "300124.SZ": {
    "announcements": {
@@ -17035,7 +17132,7 @@
     ],
     "count_12m": 155
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -17103,9 +17200,10 @@
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300124&orgId=9900012527"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300124&orgId=9900012527"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "601009.SH": {
    "announcements": {
@@ -17233,12 +17331,13 @@
     ],
     "count_12m": 99
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://sns.sseinfo.com/company.do?uid=1009"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   },
   "300033.SZ": {
    "announcements": {
@@ -17366,7 +17465,7 @@
     ],
     "count_12m": 53
    },
-   "announcements_at": "2026-10-29T22:12:36+08:00",
+   "announcements_at": "2026-10-30T01:48:03+08:00",
    "qa": {
     "items": [
      {
@@ -17434,9 +17533,10 @@
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300033&orgId=9900008416"
      }
     ],
-    "count_12m": null
+    "count_12m": null,
+    "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300033&orgId=9900008416"
    },
-   "qa_at": "2026-10-29T22:12:36+08:00"
+   "qa_at": "2026-10-30T01:48:03+08:00"
   }
  }
 }
