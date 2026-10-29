@@ -255,15 +255,147 @@
   "segments": []
  },
  "announcements": {
-  "items": [],
-  "count_12m": null
+  "items": [
+   {
+    "title": "独立董事提名人声明与承诺（刘晓星）",
+    "date": "2026-10-29",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636653.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司关于召开2026年第三季度业绩说明会的公告",
+    "date": "2026-10-29",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636651.PDF"
+   },
+   {
+    "title": "独立董事候选人声明与承诺（刘晓星）",
+    "date": "2026-10-29",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636647.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司信息披露暂缓与豁免管理办法",
+    "date": "2026-10-29",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636641.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司第十届董事会第二十三次会议决议公告",
+    "date": "2026-10-29",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636637.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司关于召开2026年第一次临时股东会的通知",
+    "date": "2026-10-29",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636623.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司2026年第三季度报告",
+    "date": "2026-10-29",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636622.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司2026年中期利润分配方案公告",
+    "date": "2026-10-29",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636619.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司关于董事辞任的公告",
+    "date": "2026-09-22",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225574573.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司关于独立董事辞任的公告",
+    "date": "2026-09-16",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-16/1225565153.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司关于优先股全部赎回及摘牌完成的公告",
+    "date": "2026-09-09",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-09/1225553728.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司第十届董事会第二十二次会议决议公告",
+    "date": "2026-09-09",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-09/1225553725.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司关于优先股停牌的提示性公告",
+    "date": "2026-09-02",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-02/1225542358.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司关于优先股全部赎回及摘牌的公告",
+    "date": "2026-09-02",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-02/1225542357.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司关于高级管理人员辞任的公告",
+    "date": "2026-09-02",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-02/1225542348.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司优先股股息发放实施公告",
+    "date": "2026-08-28",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225521181.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司关于赎回优先股的第三次提示性公告",
+    "date": "2026-08-28",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225521177.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司关于赎回优先股的第二次提示性公告",
+    "date": "2026-08-22",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225489156.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司2026年半年度报告摘要",
+    "date": "2026-08-19",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225480717.PDF"
+   },
+   {
+    "title": "南京银行股份有限公司信息披露事务管理制度",
+    "date": "2026-08-19",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225480714.PDF"
+   }
+  ],
+  "count_12m": 99
  },
  "qa": {
-  "items": []
+  "items": [],
+  "count_12m": null
  },
  "_meta": {
   "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
   "fetched_at": "2026-10-27T16:25:45+08:00",
   "errors": {}
+ },
+ "_extras": {
+  "announcements": {
+   "fetched_at": "2026-10-29T11:36:05+08:00",
+   "error": null
+  },
+  "qa": {
+   "fetched_at": "2026-10-29T11:36:12+08:00",
+   "error": null
+  }
  }
 }

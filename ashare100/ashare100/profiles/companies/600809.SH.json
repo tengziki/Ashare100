@@ -1,0 +1,309 @@
+{
+ "identity": {
+  "code": "600809",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "山西杏花村汾酒厂股份有限公司",
+  "name_abbr": "山西汾酒",
+  "aliases": [],
+  "name_en": "Shanxi Xinghuacun Fen Wine Factory Co.,Ltd.",
+  "former_names": [
+   "山西汾酒→G汾酒"
+  ],
+  "industry_sw1": "食品饮料",
+  "industry_sw2": null,
+  "list_date": "1994-01-06",
+  "found_date": "1985-12-25",
+  "province": "山西",
+  "city": null,
+  "website": "www.fenjiu.com.cn",
+  "chairman": "袁清茂",
+  "employees": 14026,
+  "business_summary": "汾酒、竹叶青酒、杏花村酒及其系列酒的生产、销售。副产品酒糟、生产用原辅材料和包装材料等的销售;酒类高新技术及产品研究、开发、生产、应用;投资办企业及相关咨询服务…",
+  "profile": "山西杏花村汾酒厂股份有限公司是以生产销售汾酒、竹叶青酒和杏花村酒为主,集白酒、大健康产业、产业链、文化旅游、产业基金于一体的省管重要骨干企业,是国家工信部认定的“全国工业品牌培育示范企业”、国务院国资委“国企改革双百行动”入选企业。公司拥有“杏花村”“竹叶青”“汾”三件中国驰名商标。杏花村汾酒老作坊遗址是全国重点文物保护单位,入选世界文化遗产预备名单;杏花村汾酒酿制技艺是首批国家级非物质文化遗产,竹叶青酒泡制技艺是省级非物质文化遗产;汾酒技术中心是国家级企业技术中心、博士后科研工作站。公司同时还是全国企业文化示范基地、全国十大工业旅游示范基地、国家级酒文化学术活动基地等。汾酒既是中国名白酒的杰出代表,也是清香型白酒国家标准的制定者。汾酒文化源远流长,悠久的酿造历史,精湛的酿造技艺,卓越的清香品质,被誉为“中国白酒产业的奠基者、传承中国白酒文化的火炬手、中国白酒酿造技艺的教科书、见证中国白酒发展历史的活化石”,是“国酒之源,清香之祖,文化之根”,是当之无愧的“中国酒魂”。杏花村已有6000多年的酿酒历史。早在1500年前的南北朝时期,汾酒就作为宫廷御酒受到北齐武成帝的推崇,载入廿四史。晚唐大诗人杜牧的“借问酒家何处有,牧童遥指杏花村”使汾酒家喻户晓。1915年,汾酒在巴拿马万国博览会上荣获甲等大奖章,成为获此殊荣的唯一中国白酒品牌。1949年,山西杏花村汾酒厂成立,汾酒、竹叶青酒成为新中国第一届全国政治协商会议和开国大典国宴用酒。近年来,公司相继获得国家质量管理奖、国家科技进步奖、国家技术发明奖、全国国企管理创新成果一等奖、中国商标金奖、山西省政府质量奖等多项荣誉。全体汾酒人将在习近平新时代中国特色社会主义思想指引下,在省委、省政府的坚强领导下,在省国资委、省国资运营公司的正确指导下,在社会各界的大力支持下,贯彻党的二十大精神,践行汾酒复兴纲领,公正立道、科学经营、重点突破、提势增能,以更高的政治站位和责任担当,进一步解放思想、守正创新,求真务实、团结奋斗,推动汾酒高质量发展!",
+  "st_status": null,
+  "audit_opinion": null
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 19970986259.0,
+    "revenue_yoy": 42.75,
+    "net_profit": 5313612016.0,
+    "net_profit_yoy": 72.56,
+    "net_profit_deducted": 5259396088.0,
+    "gross_margin": 74.91,
+    "net_margin": 26.99,
+    "eps": 4.375,
+    "bvps": 12.48,
+    "roe": 42.04,
+    "roa": 21.67,
+    "debt_ratio": 47.97,
+    "total_liab": 14367804020.0,
+    "total_assets": 29951644820,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 26213860718.0,
+    "revenue_yoy": 31.26,
+    "net_profit": 8095872133.0,
+    "net_profit_yoy": 52.36,
+    "net_profit_deducted": 8087317895.0,
+    "gross_margin": 75.36,
+    "net_margin": 31.12,
+    "eps": 6.649,
+    "bvps": 17.48,
+    "roe": 44.74,
+    "roa": 24.48,
+    "debt_ratio": 40.73,
+    "total_liab": 14944976112.0,
+    "total_assets": 36692796740,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 31928483054.0,
+    "revenue_yoy": 21.8,
+    "net_profit": 10438114410.0,
+    "net_profit_yoy": 28.93,
+    "net_profit_deducted": 10444776853.0,
+    "gross_margin": 75.31,
+    "net_margin": 32.76,
+    "eps": 8.563,
+    "bvps": 22.82,
+    "roe": 43.06,
+    "roa": 25.89,
+    "debt_ratio": 35.88,
+    "total_liab": 15820768150.0,
+    "total_assets": 44093556717,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 36010992321.0,
+    "revenue_yoy": 12.79,
+    "net_profit": 12242884324.0,
+    "net_profit_yoy": 17.29,
+    "net_profit_deducted": 12245617493.0,
+    "gross_margin": 76.2,
+    "net_margin": 34.03,
+    "eps": 10.035,
+    "bvps": 28.49,
+    "roe": 39.68,
+    "roa": 25.11,
+    "debt_ratio": 34.19,
+    "total_liab": 18290715229.0,
+    "total_assets": 53497265952,
+    "ocf_to_np": null
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 38718257658.0,
+    "revenue_yoy": 7.52,
+    "net_profit": 12246329337.0,
+    "net_profit_yoy": 0.03,
+    "net_profit_deducted": 12253039163.0,
+    "gross_margin": 74.85,
+    "net_margin": 31.76,
+    "eps": 10.038,
+    "bvps": 32.49,
+    "roe": 33.48,
+    "roa": 22.39,
+    "debt_ratio": 28.74,
+    "total_liab": 16189005334.0,
+    "total_assets": 56329176527,
+    "ocf_to_np": null
+   }
+  ],
+  "latest": {
+   "report_period": "2026-09-30",
+   "report_type": "2026年三季报",
+   "revenue": 28381899020.0,
+   "revenue_yoy": -13.8,
+   "net_profit": 8337890045.0,
+   "net_profit_yoy": -26.89,
+   "net_profit_deducted": 8337084204.0,
+   "gross_margin": 74.01,
+   "net_margin": 29.51,
+   "eps": 6.83,
+   "roe": 20.26,
+   "debt_ratio": 30.96
+  },
+  "derived": {
+   "revenue_cagr_3y": 13.88,
+   "net_profit_cagr_3y": 14.79,
+   "receivables_to_revenue": null,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "山西省人民政府国有资产监督管理委员会",
+  "controlling_shareholder": null,
+  "controlling_ratio": null,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "山西杏花村汾酒集团有限责任公司",
+    "hold_num": 691089466.0,
+    "hold_ratio": 56.65,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "华创鑫睿(香港)有限公司",
+    "hold_num": 111913697.0,
+    "hold_ratio": 9.17,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "中国银行股份有限公司-招商中证白酒指数分级证券投资基金",
+    "hold_num": 51856468.0,
+    "hold_ratio": 4.25,
+    "hold_num_change": 8373297.0
+   },
+   {
+    "rank": 4,
+    "name": "香港中央结算有限公司",
+    "hold_num": 18537343.0,
+    "hold_ratio": 1.52,
+    "hold_num_change": -3608039.0
+   },
+   {
+    "rank": 5,
+    "name": "中国建设银行股份有限公司-鹏华中证酒交易型开放式指数证券投资基金",
+    "hold_num": 14007245.0,
+    "hold_ratio": 1.15,
+    "hold_num_change": -649194.0
+   },
+   {
+    "rank": 6,
+    "name": "山西杏花村国际贸易有限责任公司",
+    "hold_num": 8251558.0,
+    "hold_ratio": 0.68,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "中国农业银行股份有限公司-易方达消费行业股票型证券投资基金",
+    "hold_num": 7539090.0,
+    "hold_ratio": 0.62,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 8,
+    "name": "中国工商银行股份有限公司-中证主要消费交易型开放式指数证券投资基金",
+    "hold_num": 6539053.0,
+    "hold_ratio": 0.54,
+    "hold_num_change": -127200.0
+   },
+   {
+    "rank": 9,
+    "name": "瑞众人寿保险有限责任公司-自有资金",
+    "hold_num": 5572077.0,
+    "hold_ratio": 0.46,
+    "hold_num_change": 827434.0
+   },
+   {
+    "rank": 10,
+    "name": "阿布达比投资局-自有资金",
+    "hold_num": 4816497.0,
+    "hold_ratio": 0.39,
+    "hold_num_change": null
+   }
+  ],
+  "top10_date": "2026-09-30",
+  "holder_num": 113888.0,
+  "holder_num_change_pct": -3.41,
+  "holder_num_date": "2026-09-30",
+  "inst_hold_ratio": null,
+  "northbound_ratio": 1.52,
+  "executives": [
+   {
+    "name": "袁清茂",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "陈曦",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": null,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 1.8,
+    "total_amount": 2196132159.6,
+    "payout_ratio": 41.33,
+    "dividend_yield": null,
+    "ex_date": "2022-06-28"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 3.32,
+    "total_amount": 4050281217.04,
+    "payout_ratio": 50.03,
+    "dividend_yield": null,
+    "ex_date": "2023-06-26"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 4.37,
+    "total_amount": 5331243650.14,
+    "payout_ratio": 51.07,
+    "dividend_yield": null,
+    "ex_date": "2024-07-05"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 6.06,
+    "total_amount": 7392983185.32,
+    "payout_ratio": 60.39,
+    "dividend_yield": null,
+    "ex_date": "2025-07-07"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 6.56,
+    "total_amount": 8002965296.32,
+    "payout_ratio": 65.35,
+    "dividend_yield": null,
+    "ex_date": "2026-07-31"
+   }
+  ],
+  "consecutive_years": 5,
+  "cum_dividend_5y": 26973605508.42,
+  "cum_netprofit_5y": 48336812220.0,
+  "payout_5y": 55.8,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [],
+  "segments": []
+ },
+ "announcements": {
+  "items": [],
+  "count_12m": null
+ },
+ "qa": {
+  "items": []
+ },
+ "_meta": {
+  "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
+  "fetched_at": "2026-10-29T11:36:15+08:00",
+  "errors": {}
+ }
+}

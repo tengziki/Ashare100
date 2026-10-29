@@ -297,8 +297,129 @@
   "segments": []
  },
  "announcements": {
-  "items": [],
-  "count_12m": null
+  "items": [
+   {
+    "title": "第六届董事会第二十次会议决议公告",
+    "date": "2026-10-27",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-27/1225623211.PDF"
+   },
+   {
+    "title": "2026年三季度报告",
+    "date": "2026-10-27",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-27/1225623209.PDF"
+   },
+   {
+    "title": "关于2026年中期利润分配方案的公告",
+    "date": "2026-10-27",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-27/1225623208.PDF"
+   },
+   {
+    "title": "关于2026年前三季度计提资产减值准备的公告",
+    "date": "2026-10-26",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-26/1225627010.PDF"
+   },
+   {
+    "title": "关于召开2026年第三季度业绩说明会的公告",
+    "date": "2026-10-19",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-19/1225610212.PDF"
+   },
+   {
+    "title": "第六届董事会第十九次会议决议公告",
+    "date": "2026-10-14",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225604454.PDF"
+   },
+   {
+    "title": "关于深圳市汇川技术股份有限公司第八期股权激励计划调整及首次授予相关事项的法律意见书",
+    "date": "2026-10-14",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225604457.PDF"
+   },
+   {
+    "title": "第六届董事会薪酬与考核委员会关于第六届董事会第十九次会议相关事项的核查意见",
+    "date": "2026-10-14",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225604456.PDF"
+   },
+   {
+    "title": "关于调整第八期股权激励计划相关事项并向激励对象首次授予第二类限制性股票与股票期权的公告",
+    "date": "2026-10-14",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225604455.PDF"
+   },
+   {
+    "title": "关于第七期股权激励计划首次授予股票期权第二个行权期采用自主行权模式开始行权的提示性公告",
+    "date": "2026-10-14",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225603353.PDF"
+   },
+   {
+    "title": "关于注销部分回购股份减少注册资本暨通知债权人的公告",
+    "date": "2026-10-13",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225603811.PDF"
+   },
+   {
+    "title": "公司章程（2026年10月）",
+    "date": "2026-10-13",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225603810.PDF"
+   },
+   {
+    "title": "关于第八期股权激励计划内幕信息知情人及激励对象买卖公司股票的自查报告",
+    "date": "2026-10-13",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225603807.PDF"
+   },
+   {
+    "title": "上海锦天城（广州）律师事务所关于深圳市汇川技术股份有限公司2026年第二次临时股东会之法律意见书",
+    "date": "2026-10-13",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225603809.PDF"
+   },
+   {
+    "title": "2026年第二次临时股东会决议公告",
+    "date": "2026-10-13",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225603808.PDF"
+   },
+   {
+    "title": "关于为全资子公司提供担保的进展公告",
+    "date": "2026-10-12",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-12/1225600860.PDF"
+   },
+   {
+    "title": "第六届董事会薪酬与考核委员会关于第八期股权激励计划首次授予激励对象名单的审核及公示情况说明",
+    "date": "2026-10-08",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225596796.PDF"
+   },
+   {
+    "title": "关于回购公司股份的进展公告",
+    "date": "2026-10-08",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225596797.PDF"
+   },
+   {
+    "title": "关于第七期股权激励计划首次授予部分股票期权注销完成的公告",
+    "date": "2026-09-30",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225589728.PDF"
+   },
+   {
+    "title": "关于公司第一大股东增持公司股份计划的公告",
+    "date": "2026-09-24",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225581105.PDF"
+   }
+  ],
+  "count_12m": 155
  },
  "qa": {
   "items": []
@@ -307,5 +428,15 @@
   "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
   "fetched_at": "2026-10-27T16:27:37+08:00",
   "errors": {}
+ },
+ "_extras": {
+  "announcements": {
+   "fetched_at": "2026-10-29T11:36:03+08:00",
+   "error": null
+  },
+  "qa": {
+   "fetched_at": null,
+   "error": "Unsupported 互动易需要巨潮 orgId"
+  }
  }
 }
