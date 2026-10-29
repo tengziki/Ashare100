@@ -5,9 +5,9 @@
    "schedule": "交易日 11:35 / 15:10",
    "warn_hours": 28,
    "stale_hours": 52,
-   "last_success": "2026-10-29T11:36:24+08:00",
+   "last_success": "2026-10-29T15:11:07+08:00",
    "data_date": "2026-10-29",
-   "detail": "盘中暂定 · 较2026-10-28 收盘新进 3、退出 3",
+   "detail": "收盘确认 · 较2026-10-28 收盘新进 3、退出 3",
    "problems": []
   },
   "daily_metrics": {
@@ -25,24 +25,21 @@
    "schedule": "随榜单更新",
    "warn_hours": null,
    "stale_hours": null,
-   "last_success": "2026-10-29T11:36:24+08:00",
+   "last_success": "2026-10-29T15:11:07+08:00",
    "data_date": "2026-10-29",
    "detail": "待补档 2 家",
-   "problems": [
-    "300124.SZ qa：Unsupported 互动易需要巨潮 orgId",
-    "300124.SZ logo：无合格图片（google-s2 16px；official 16px），页面用首字图标"
-   ]
+   "problems": []
   },
   "disclosures": {
    "label": "公告与投资者问答",
    "schedule": "交易日 11:35 / 15:10",
    "warn_hours": 28,
    "stale_hours": 52,
-   "last_success": "2026-10-29T11:41:22+08:00",
+   "last_success": "2026-10-29T15:16:27+08:00",
    "data_date": "2026-10-29",
    "detail": "公告 100/100 家",
    "problems": []
   }
  },
- "updated": "2026-10-29T11:42:34+08:00"
+ "updated": "2026-10-29T15:16:27+08:00"
 }

@@ -90,5 +90,13 @@
       "688808.SH",
       "002938.SZ"
     ]
+  },
+  {
+    "snapshot": "snapshots/20261029T071100Z.json",
+    "quote_date": "2026-10-29",
+    "slot": "close",
+    "base_label": "2026-10-29 11:35",
+    "entered": [],
+    "exited": []
   }
 ]
