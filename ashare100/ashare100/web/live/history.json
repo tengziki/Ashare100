@@ -106,5 +106,13 @@
     "base_label": "2026-10-29 收盘",
     "entered": [],
     "exited": []
+  },
+  {
+    "snapshot": "snapshots/20261029T141236Z.json",
+    "quote_date": "2026-10-29",
+    "slot": "close",
+    "base_label": "2026-10-29 收盘",
+    "entered": [],
+    "exited": []
   }
 ]
