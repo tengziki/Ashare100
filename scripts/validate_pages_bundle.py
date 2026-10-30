@@ -57,11 +57,12 @@ def validate():
         if any(p.get("status") not in ("verified_snapshot", "auto_profile") or not p.get("profile", {}).get("identity")
                for p in bundle["profiles"].values()):
             raise ValueError("档案包条目缺少状态或身份信息")
-    # 公告与问答可缺省；存在时只能含当前百强，条目结构完整
+    # 公告与问答可缺省；存在时条目结构完整。对应当前快照时只能含当前百强；
+    # 对应旧快照说明榜单刚换手、公告尚未按新榜重抓（同一任务的 extras 步骤），出榜代码允许存在，页面会跳过
     disc_path = WEB / "live" / "disclosures" / "latest.json"
     if disc_path.exists():
         disc = json.loads(disc_path.read_text(encoding="utf-8"))
-        if not set(disc["companies"]) <= set(codes):
+        if disc["meta"].get("snapshot") == relative and not set(disc["companies"]) <= set(codes):
             raise ValueError("公告问答含非百强代码")
         for code, d in disc["companies"].items():
             for item in (d.get("announcements") or {}).get("items") or []:
