@@ -1,14 +1,14 @@
 {
  "meta": {
   "quote_date": "2026-10-30",
-  "generated_at": "2026-10-30T18:30:16+08:00",
-  "snapshot_generated_at": "2026-10-30T18:25:35+08:00",
+  "generated_at": "2026-10-30T22:09:32+08:00",
+  "snapshot_generated_at": "2026-10-30T22:04:36+08:00",
   "sources": {
    "kline": "腾讯前复权日 K",
    "dividends": "东方财富数据中心分红明细"
   },
   "member_count": 100,
-  "covered": 99
+  "covered": 100
  },
  "metrics": {
   "601939.SH": {
@@ -16,7 +16,7 @@
    "ytd_return": 31.98,
    "return_1y": 35.35,
    "return_3y": 137.79,
-   "high_52w": 12.08,
+   "high_52w": 12.13,
    "low_52w": 8.317,
    "dividend_yield": 3.24,
    "dps_fiscal_year": 2025,
@@ -60,7 +60,7 @@
    "ytd_return": 39.8,
    "return_1y": 61.12,
    "return_3y": 142.81,
-   "high_52w": 13.84,
+   "high_52w": 13.88,
    "low_52w": 8.33,
    "dividend_yield": 3.4,
    "dps_fiscal_year": 2025,
@@ -171,7 +171,7 @@
    "return_1y": -41.55,
    "return_3y": 262.9,
    "high_52w": 84.3,
-   "low_52w": 45.0,
+   "low_52w": 42.99,
    "dividend_yield": 2.18,
    "dps_fiscal_year": 2025,
    "dps_pretax": 0.98
@@ -720,7 +720,7 @@
    "ytd_return": 20.45,
    "return_1y": 7.28,
    "return_3y": 53.04,
-   "high_52w": 10.77,
+   "high_52w": 10.79,
    "low_52w": 8.645,
    "dividend_yield": 1.92,
    "dps_fiscal_year": 2025,
@@ -775,7 +775,7 @@
    "ytd_return": 8.84,
    "return_1y": 16.05,
    "return_3y": 31.83,
-   "high_52w": 30.15,
+   "high_52w": 30.16,
    "low_52w": 23.76,
    "dividend_yield": 4.58,
    "dps_fiscal_year": 2025,
@@ -1034,6 +1034,17 @@
    "dps_fiscal_year": 2025,
    "dps_pretax": 0.189
   },
+  "600809.SH": {
+   "price": 126.27,
+   "ytd_return": -23.54,
+   "return_1y": -30.41,
+   "return_3y": -44.81,
+   "high_52w": 197.02,
+   "low_52w": 97.08,
+   "dividend_yield": 5.2,
+   "dps_fiscal_year": 2025,
+   "dps_pretax": 6.56
+  },
   "601688.SH": {
    "price": 16.99,
    "ytd_return": -26.16,
@@ -1101,7 +1112,5 @@
    "dps_pretax": null
   }
  },
- "errors": {
-  "600809.SH": "TimeoutError The read operation timed out"
- }
+ "errors": {}
 }
