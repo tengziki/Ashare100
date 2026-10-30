@@ -1,37 +1,23 @@
 {
  "code": "300033.SZ",
  "name": "同花顺",
- "exited_on": "2026-10-27",
- "exited_vs": "2026-10-26 收盘（东方财富日估值）",
- "last_rank": 99,
- "now_rank": 100,
- "now_total_mv": 149873000000.0,
+ "exited_on": "2026-10-30",
+ "exited_vs": "2026-10-29 收盘",
+ "last_rank": 100,
+ "now_rank": 102,
+ "now_total_mv": 146855000000.0,
  "profile_status": "verified_snapshot",
  "market": {
-  "as_of_date": "2026-10-22",
-  "price": 190.27,
-  "change_pct": -2.85,
-  "total_mv": 143204812800.0,
-  "float_mv": 83416259093.53,
-  "total_shares": 752640000,
-  "float_shares": 438409939,
-  "pe_ttm": 39.17,
-  "pe_static": 44.68,
-  "pb": 16.66,
-  "ps_ttm": 20.77,
-  "turnover_rate": 1.86,
-  "amount": 1584012137.0,
-  "high_52w": 306.87,
-  "low_52w": 185.01,
-  "ytd_return": -15.92,
-  "return_1y": -22.93,
-  "return_3y": 96.92,
-  "dividend_yield": 2.73,
-  "index_members": [
-   "沪深300",
-   "中证A500",
-   "创业板指"
-  ]
+  "price": 200.69,
+  "change_pct": 0.85,
+  "amount": 2419560000.0,
+  "turnover_rate": 2.74,
+  "pe_ttm": 37.43,
+  "pb": 17.57,
+  "total_mv": 151047000000.0,
+  "float_mv": 87984000000.0,
+  "quote_at": "20261029161445",
+  "as_of_date": "2026-10-29"
  },
  "profile": {
   "identity": {
@@ -647,5 +633,5 @@
    "count_12m": null
   }
  },
- "now_at": "2026-10-29"
+ "now_at": "2026-10-30"
 }

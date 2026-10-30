@@ -689,7 +689,9 @@
   "missing": true,
   "tried": [
    "google-s2 16px",
-   "duckduckgo 16px"
+   "duckduckgo 16px",
+   "official 16px",
+   "official 失败：HTTPError"
   ],
   "website": "www.hnlens.com"
  },
@@ -705,10 +707,29 @@
   "missing": true,
   "tried": [
    "google-s2 16px",
-   "duckduckgo 失败：HTTPError",
-   "official 16px",
-   "official 失败：URLError"
+   "duckduckgo 失败：HTTPError"
   ],
   "website": "www.cr-newenergy.com"
+ },
+ "301666.SZ": {
+  "file": "301666.SZ.png",
+  "source": "https://www.google.com/s2/favicons?domain=www.dapustor.com&sz=128",
+  "bytes": 1051,
+  "via": "google-s2",
+  "px": 32
+ },
+ "000776.SZ": {
+  "file": "000776.SZ.ico",
+  "source": "https://icons.duckduckgo.com/ip3/www.gf.com.cn.ico",
+  "bytes": 3382,
+  "via": "duckduckgo",
+  "px": 32
+ },
+ "601872.SH": {
+  "file": "601872.SH.png",
+  "source": "https://www.google.com/s2/favicons?domain=www.cmenergyshipping.com&sz=128",
+  "bytes": 2074,
+  "via": "google-s2",
+  "px": 52
  }
 }

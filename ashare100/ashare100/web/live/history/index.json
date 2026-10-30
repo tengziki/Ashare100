@@ -11,12 +11,6 @@
   "last_rank": 97,
   "profile_status": "verified_snapshot"
  },
- "601600.SH": {
-  "name": "中国铝业",
-  "exited_on": "2026-10-28",
-  "last_rank": 100,
-  "profile_status": "verified_snapshot"
- },
  "688820.SH": {
   "name": "盛合晶微",
   "exited_on": "2026-10-29",
@@ -33,6 +27,18 @@
   "name": "鹏鼎控股",
   "exited_on": "2026-10-29",
   "last_rank": 98,
+  "profile_status": "verified_snapshot"
+ },
+ "300476.SZ": {
+  "name": "胜宏科技",
+  "exited_on": "2026-10-30",
+  "last_rank": 94,
+  "profile_status": "verified_snapshot"
+ },
+ "300033.SZ": {
+  "name": "同花顺",
+  "exited_on": "2026-10-30",
+  "last_rank": 100,
   "profile_status": "verified_snapshot"
  }
 }

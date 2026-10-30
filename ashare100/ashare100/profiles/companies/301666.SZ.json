@@ -8,8 +8,8 @@
   "aliases": [],
   "name_en": "DapuStor Corporation",
   "former_names": [],
-  "industry_sw1": null,
-  "industry_sw2": null,
+  "industry_sw1": "计算机",
+  "industry_sw2": "计算机设备",
   "list_date": "2026-04-16",
   "found_date": "2016-04-15",
   "province": "广东",
@@ -338,7 +338,7 @@
  },
  "_meta": {
   "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
-  "fetched_at": "2026-10-30T00:21:01+08:00",
+  "fetched_at": "2026-10-30T12:02:18+08:00",
   "errors": {}
  }
 }
