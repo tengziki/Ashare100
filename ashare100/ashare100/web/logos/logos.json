@@ -733,13 +733,10 @@
   "px": 52
  },
  "600050.SH": {
-  "file": null,
-  "missing": true,
-  "tried": [
-   "sse-e-avatar 失败：HTTPError",
-   "google-s2 失败：HTTPError",
-   "duckduckgo 失败：HTTPError"
-  ],
-  "website": "www.chinaunicom-a.com"
+  "file": "600050.SH.png",
+  "source": "https://sns.sseinfo.com/resources/images/avatar/company/600050.png",
+  "bytes": 6966,
+  "via": "sse-e-avatar",
+  "px": 78
  }
 }
