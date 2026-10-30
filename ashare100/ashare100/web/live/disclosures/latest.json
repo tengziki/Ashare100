@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generated_at": "2026-10-30T15:12:24+08:00",
+  "generated_at": "2026-10-30T18:26:36+08:00",
   "member_count": 100,
   "announcements_fresh": 100,
   "problems": 0,
   "qa_unsupported": 0,
-  "snapshot": "snapshots/20261030T071102Z.json"
+  "snapshot": "snapshots/20261030T102535Z.json"
  },
  "companies": {
   "601939.SH": {
@@ -134,7 +134,7 @@
     ],
     "count_12m": 89
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -173,7 +173,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1939"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "601398.SH": {
    "announcements": {
@@ -301,7 +301,7 @@
     ],
     "count_12m": 143
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -372,7 +372,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1398"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "688825.SH": {
    "announcements": {
@@ -500,7 +500,7 @@
     ],
     "count_12m": 58
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -531,7 +531,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=343138"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "601288.SH": {
    "announcements": {
@@ -659,13 +659,13 @@
     ],
     "count_12m": 115
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [],
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1288"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "601857.SH": {
    "announcements": {
@@ -793,13 +793,13 @@
     ],
     "count_12m": 98
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [],
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1857"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "601988.SH": {
    "announcements": {
@@ -927,7 +927,7 @@
     ],
     "count_12m": 113
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -958,7 +958,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1988"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "600941.SH": {
    "announcements": {
@@ -1086,7 +1086,7 @@
     ],
     "count_12m": 68
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -1109,7 +1109,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=236809"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "600519.SH": {
    "announcements": {
@@ -1237,7 +1237,7 @@
     ],
     "count_12m": 92
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -1284,7 +1284,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=519"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "600938.SH": {
    "announcements": {
@@ -1412,7 +1412,7 @@
     ],
     "count_12m": 69
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -1435,7 +1435,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=247563"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "601088.SH": {
    "announcements": {
@@ -1563,7 +1563,7 @@
     ],
     "count_12m": 235
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -1578,7 +1578,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1088"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "600036.SH": {
    "announcements": {
@@ -1706,7 +1706,7 @@
     ],
     "count_12m": 97
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -1729,7 +1729,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=36"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "300750.SZ": {
    "announcements": {
@@ -1857,11 +1857,19 @@
     ],
     "count_12m": 248
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
       "question": "尊敬的董秘，传闻公司与公司产业链设备厂的固态电池研发进展迅速，中试线设备已经完成定型，请问公司有信心在固态电池领域继续保持统治地位吗？",
+      "answer": null,
+      "ask_date": "2026-10-30",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300750&orgId=GD165627"
+     },
+     {
+      "question": "希望公司在当前加大回购注销力度。同时加强市值管理工作，和机构投资者保持良好沟通！",
       "answer": null,
       "ask_date": "2026-10-30",
       "answer_date": null,
@@ -1915,20 +1923,12 @@
       "answer_date": null,
       "source": "irm",
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300750&orgId=GD165627"
-     },
-     {
-      "question": "董秘您好，请咨询一下贵司电动汽车换电项目中有通过采用货车架构建立“移动式箱式换电站”的思路吗？ 即通过以“充电保养总站”与“货车移动换电分站”的形式进行换电站的灵活化部署，根据车流情况灵活进行“移动换电站”的精准部署，依托地图导航软件做好相关的导航指引，进一步降低换电体系的总体构建及电池的集中维护成本，提升电池及电池充电站的使用效率，解决传统定点资产使用率偏低问题，为换电站的规模化建设建立空间",
-      "answer": null,
-      "ask_date": "2026-10-28",
-      "answer_date": null,
-      "source": "irm",
-      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300750&orgId=GD165627"
      }
     ],
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300750&orgId=GD165627"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "601628.SH": {
    "announcements": {
@@ -2056,14 +2056,14 @@
     ],
     "count_12m": 102
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
       "question": "董秘您好，在中国内地上市的五家保险公司中，公司的股利支付率是最低的，同时按照当前的股价计算，公司的股息率可能都没有公司的分红险产品收益率高，请问公司是否有提高分红比例，加强投资者回报，提升投资者获得感的计划？",
-      "answer": null,
+      "answer": "感谢您对公司的关注。公司一直注重对股东的回报，积极回馈广大投资者，致力于让股东充分分享公司长期稳健发展的红利。公司2023、2024、2025年分红金额分别为121.54亿元、183.72亿元、241.95亿元，2026年中期公司分红金额101.19亿元，自上市以来，公司累计分红超过2,550亿元。具体信息请参阅公司2026年半年度报告。",
       "ask_date": "2026-10-19",
-      "answer_date": null,
+      "answer_date": "2026-10-30",
       "source": "sse_e",
       "url": "https://sns.sseinfo.com/company.do?uid=1628"
      }
@@ -2071,7 +2071,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1628"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "601318.SH": {
    "announcements": {
@@ -2199,7 +2199,7 @@
     ],
     "count_12m": 101
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -2270,7 +2270,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1318"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "601138.SH": {
    "announcements": {
@@ -2398,7 +2398,7 @@
     ],
     "count_12m": 106
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -2469,7 +2469,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=119303"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "688981.SH": {
    "announcements": {
@@ -2597,7 +2597,7 @@
     ],
     "count_12m": 186
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -2612,7 +2612,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=173884"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "601328.SH": {
    "announcements": {
@@ -2740,7 +2740,7 @@
     ],
     "count_12m": 111
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -2755,7 +2755,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1328"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "002594.SZ": {
    "announcements": {
@@ -2883,9 +2883,17 @@
     ],
     "count_12m": 145
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
+     {
+      "question": "就目前情况来看，26 年整体目标还能完成吗？前三季度才 220 多亿，第四季度做到 150 全年才 370，还存在可能吗？董事会是否调整预期？",
+      "answer": null,
+      "ask_date": "2026-10-30",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002594&orgId=gshk0001211"
+     },
      {
       "question": "请详细介绍一下目前集团在海外工厂的布局以及未来的海外战略，美洲市场开拓进展",
       "answer": null,
@@ -2941,20 +2949,12 @@
       "answer_date": "2026-10-27",
       "source": "irm",
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002594&orgId=gshk0001211"
-     },
-     {
-      "question": "希望公司出新车的时候，可以考虑露营需求。出一款像小米鹏程N90探索版一样的新车。",
-      "answer": "感谢您的建议！",
-      "ask_date": "2026-10-27",
-      "answer_date": "2026-10-27",
-      "source": "irm",
-      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002594&orgId=gshk0001211"
      }
     ],
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002594&orgId=gshk0001211"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "601899.SH": {
    "announcements": {
@@ -3082,7 +3082,7 @@
     ],
     "count_12m": 155
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -3153,7 +3153,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1899"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "600900.SH": {
    "announcements": {
@@ -3281,7 +3281,7 @@
     ],
     "count_12m": 90
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -3320,7 +3320,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=900"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "600028.SH": {
    "announcements": {
@@ -3448,7 +3448,7 @@
     ],
     "count_12m": 224
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -3471,7 +3471,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=28"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "601658.SH": {
    "announcements": {
@@ -3599,13 +3599,13 @@
     ],
     "count_12m": 95
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [],
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=152148"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "000333.SZ": {
    "announcements": {
@@ -3733,7 +3733,7 @@
     ],
     "count_12m": 139
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -3804,7 +3804,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000333&orgId=9900005965"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "300308.SZ": {
    "announcements": {
@@ -3932,7 +3932,7 @@
     ],
     "count_12m": 224
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -4003,7 +4003,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300308&orgId=9900022016"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "601728.SH": {
    "announcements": {
@@ -4131,7 +4131,7 @@
     ],
     "count_12m": 88
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -4146,7 +4146,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=219949"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "688256.SH": {
    "announcements": {
@@ -4274,7 +4274,7 @@
     ],
     "count_12m": 143
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -4345,7 +4345,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=173882"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "601998.SH": {
    "announcements": {
@@ -4473,7 +4473,7 @@
     ],
     "count_12m": 134
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -4496,7 +4496,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1998"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "603259.SH": {
    "announcements": {
@@ -4624,9 +4624,17 @@
     ],
     "count_12m": 142
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
+     {
+      "question": "董秘您好，想咨询一下董事长兼总经理李革的毕业院校，公司是否曾向其母校捐赠、与其共建实验室等公益安排或校企合作？",
+      "answer": null,
+      "ask_date": "2026-10-30",
+      "answer_date": null,
+      "source": "sse_e",
+      "url": "https://sns.sseinfo.com/company.do?uid=121066"
+     },
      {
       "question": "管理层你好，我们认可公司的全球竞争力，但A/H长期倒挂，A股持续弱势，作为A股的股东，有几点建议：第一，公司现金流充沛，希望研究提高分红比例，强化现金回报。第二，今年股权激励回购a股10亿，h股25亿，激励资源倾斜h股，a股股本更大，希望平衡两地激励额度，同时增加a股回购注销安排。第三，实控人相关主体在A股的减持容易压制估值，希望做好减持节奏的自我约束和预期管理，强化回购注销、分红等举措。",
       "answer": null,
@@ -4679,7 +4687,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=121066"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "601166.SH": {
    "announcements": {
@@ -4807,7 +4815,7 @@
     ],
     "count_12m": 86
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -4878,7 +4886,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1166"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "688041.SH": {
    "announcements": {
@@ -5006,7 +5014,7 @@
     ],
     "count_12m": 115
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -5077,7 +5085,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=257283"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "688235.SH": {
    "announcements": {
@@ -5205,13 +5213,13 @@
     ],
     "count_12m": 117
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [],
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=235008"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "600030.SH": {
    "announcements": {
@@ -5339,7 +5347,7 @@
     ],
     "count_12m": 181
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -5394,7 +5402,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=30"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "002475.SZ": {
    "announcements": {
@@ -5522,7 +5530,7 @@
     ],
     "count_12m": 222
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -5593,7 +5601,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002475&orgId=9900014448"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "002371.SZ": {
    "announcements": {
@@ -5721,7 +5729,7 @@
     ],
     "count_12m": 181
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -5792,7 +5800,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002371&orgId=9900006137"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "600000.SH": {
    "announcements": {
@@ -5920,7 +5928,7 @@
     ],
     "count_12m": 79
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -5943,7 +5951,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=65"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "601319.SH": {
    "announcements": {
@@ -6071,7 +6079,7 @@
     ],
     "count_12m": 119
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -6094,7 +6102,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=129048"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "600276.SH": {
    "announcements": {
@@ -6222,7 +6230,7 @@
     ],
     "count_12m": 318
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -6293,7 +6301,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=276"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "002415.SZ": {
    "announcements": {
@@ -6421,7 +6429,7 @@
     ],
     "count_12m": 80
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -6492,7 +6500,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002415&orgId=9900012688"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "601601.SH": {
    "announcements": {
@@ -6620,7 +6628,7 @@
     ],
     "count_12m": 116
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -6651,7 +6659,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1601"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "603993.SH": {
    "announcements": {
@@ -6779,7 +6787,7 @@
     ],
     "count_12m": 131
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -6850,7 +6858,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=3993"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "000858.SZ": {
    "announcements": {
@@ -6978,7 +6986,7 @@
     ],
     "count_12m": 93
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -7049,7 +7057,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000858&orgId=gssz0000858"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "601211.SH": {
    "announcements": {
@@ -7177,7 +7185,7 @@
     ],
     "count_12m": 125
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -7216,7 +7224,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=44072"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "300059.SZ": {
    "announcements": {
@@ -7344,14 +7352,14 @@
     ],
     "count_12m": 152
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
       "question": "请问公司有没有考虑增持自己的股份？",
-      "answer": null,
+      "answer": "尊敬的投资者，您好，公司管理层对经营发展有坚定信心，将继续扎实推进各项经营管理工作，持续夯实发展根基，努力提升公司长期投资价值。如有需要披露的信息，公司将严格遵照监管规定，及时履行信息披露义务。感谢您对公司的关注。",
       "ask_date": "2026-10-24",
-      "answer_date": null,
+      "answer_date": "2026-10-30",
       "source": "irm",
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300059&orgId=9900010488"
      },
@@ -7415,11 +7423,17 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300059&orgId=9900010488"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "300502.SZ": {
    "announcements": {
     "items": [
+     {
+      "title": "关于首次回购公司股份的公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225647387.PDF"
+     },
      {
       "title": "关于回购股份事项前十名股东和前十名无限售条件股东持股情况的公告",
       "date": "2026-10-30",
@@ -7533,17 +7547,11 @@
       "date": "2026-09-07",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-09-07/1225552008.PDF"
-     },
-     {
-      "title": "董事会薪酬与考核委员会关于2026年限制性股票激励计划首次授予激励对象名单的核查意见及公示情况说明",
-      "date": "2026-09-01",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-01/1225537231.PDF"
      }
     ],
-    "count_12m": 120
+    "count_12m": 121
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -7556,6 +7564,14 @@
      },
      {
       "question": "董秘您好，请问公司10月的销售数据如何？能否披露一下10月的销售数据？",
+      "answer": null,
+      "ask_date": "2026-10-30",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300502&orgId=9900026455"
+     },
+     {
+      "question": "公司股价持续大跌，请问公司有什么措施来稳定股价",
       "answer": null,
       "ask_date": "2026-10-30",
       "answer_date": null,
@@ -7601,20 +7617,12 @@
       "answer_date": null,
       "source": "irm",
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300502&orgId=9900026455"
-     },
-     {
-      "question": "目前公司大部分营收来自海外厂商，国内光模块营收占比相对较小，国内光模块需求主要受制于算力卡供应紧张的影响，如果国内后期能解决算力卡供应的问题，大规模开始部署算力柜机，公司针对国内客户需求有相应的措施布局吗？公司对于国内光模块需求规模与海外规模大小判断是怎么样的？谢谢。",
-      "answer": null,
-      "ask_date": "2026-10-28",
-      "answer_date": null,
-      "source": "irm",
-      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300502&orgId=9900026455"
      }
     ],
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300502&orgId=9900026455"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "601225.SH": {
    "announcements": {
@@ -7742,7 +7750,7 @@
     ],
     "count_12m": 69
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -7773,7 +7781,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=15299"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "601919.SH": {
    "announcements": {
@@ -7901,7 +7909,7 @@
     ],
     "count_12m": 192
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -7916,7 +7924,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1919"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "688836.SH": {
    "announcements": {
@@ -8044,9 +8052,17 @@
     ],
     "count_12m": 26
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
+     {
+      "question": "请问董秘，最近贵公司在机器人人工智能技术上有没有新的进展和突破？公司股票自8月在A股上市以来，经历了大幅调整，最近才稍有反弹，目前仍有大量投资者被套牢，请问公司有无稳定股价的举措，还是任由其通过市场确定估值？谢谢！",
+      "answer": null,
+      "ask_date": "2026-10-30",
+      "answer_date": null,
+      "source": "sse_e",
+      "url": "https://sns.sseinfo.com/company.do?uid=343142"
+     },
      {
       "question": "能否简要介绍下公司物理AI记忆方面的水平？谢谢。",
       "answer": null,
@@ -8102,20 +8118,12 @@
       "answer_date": "2026-10-19",
       "source": "sse_e",
       "url": "https://sns.sseinfo.com/company.do?uid=343142"
-     },
-     {
-      "question": "董秘您好：公司什么时候能推出 物理ai机器人自进化V1.0模型？谢谢。",
-      "answer": "您好，感谢您的关注。相关产品及模型的研发与发布计划，公司将根据实际进展通过正式渠道披露。",
-      "ask_date": "2026-08-27",
-      "answer_date": "2026-10-19",
-      "source": "sse_e",
-      "url": "https://sns.sseinfo.com/company.do?uid=343142"
      }
     ],
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=343142"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "688347.SH": {
    "announcements": {
@@ -8243,7 +8251,7 @@
     ],
     "count_12m": 219
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -8274,7 +8282,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=275778"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "601816.SH": {
    "announcements": {
@@ -8402,7 +8410,7 @@
     ],
     "count_12m": 76
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -8441,7 +8449,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=155463"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "600150.SH": {
    "announcements": {
@@ -8569,7 +8577,7 @@
     ],
     "count_12m": 100
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -8608,7 +8616,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=150"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "003816.SZ": {
    "announcements": {
@@ -8736,7 +8744,7 @@
     ],
     "count_12m": 151
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -8807,7 +8815,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=003816&orgId=9900027002"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "600919.SH": {
    "announcements": {
@@ -8935,7 +8943,7 @@
     ],
     "count_12m": 66
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -8966,7 +8974,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=74475"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "002714.SZ": {
    "announcements": {
@@ -9094,7 +9102,7 @@
     ],
     "count_12m": 224
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -9165,7 +9173,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002714&orgId=9900022995"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "002142.SZ": {
    "announcements": {
@@ -9293,7 +9301,7 @@
     ],
     "count_12m": 104
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -9340,7 +9348,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002142&orgId=9900003281"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "000001.SZ": {
    "announcements": {
@@ -9468,7 +9476,7 @@
     ],
     "count_12m": 79
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -9539,11 +9547,17 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000001&orgId=gssz0000001"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "300760.SZ": {
    "announcements": {
     "items": [
+     {
+      "title": "2026年第三次中期权益分派实施公告",
+      "date": "2026-10-30",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225648564.PDF"
+     },
      {
       "title": "第九届董事会第三次会议决议公告",
       "date": "2026-10-30",
@@ -9657,17 +9671,11 @@
       "date": "2026-05-22",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-05-22/1225325171.PDF"
-     },
-     {
-      "title": "2025年度及2026年第一次中期权益分派实施公告",
-      "date": "2026-05-20",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-05-20/1225320390.PDF"
      }
     ],
-    "count_12m": 89
+    "count_12m": 90
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -9738,7 +9746,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300760&orgId=9900035304"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "600309.SH": {
    "announcements": {
@@ -9866,7 +9874,7 @@
     ],
     "count_12m": 105
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -9905,7 +9913,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=309"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "000651.SZ": {
    "announcements": {
@@ -10033,7 +10041,7 @@
     ],
     "count_12m": 126
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -10104,7 +10112,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000651&orgId=gssz0000651"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "601995.SH": {
    "announcements": {
@@ -10232,7 +10240,7 @@
     ],
     "count_12m": 223
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -10303,7 +10311,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=183297"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "600183.SH": {
    "announcements": {
@@ -10431,11 +10439,19 @@
     ],
     "count_12m": 109
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
       "question": "尊敬的董事，尊敬的领导。请问一下股市天天下跌，您怎么看？有什么应对之策？",
+      "answer": null,
+      "ask_date": "2026-10-30",
+      "answer_date": null,
+      "source": "sse_e",
+      "url": "https://sns.sseinfo.com/company.do?uid=183"
+     },
+     {
+      "question": "什么样的股价配得上贵公司的价值？ 25块吗？",
       "answer": null,
       "ask_date": "2026-10-30",
       "answer_date": null,
@@ -10494,7 +10510,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=183"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "601869.SH": {
    "announcements": {
@@ -10622,7 +10638,7 @@
     ],
     "count_12m": 113
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -10637,7 +10653,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=125388"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "688012.SH": {
    "announcements": {
@@ -10765,7 +10781,7 @@
     ],
     "count_12m": 219
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -10788,7 +10804,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=145565"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "603288.SH": {
    "announcements": {
@@ -10916,7 +10932,7 @@
     ],
     "count_12m": 134
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -10987,7 +11003,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=15546"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "601985.SH": {
    "announcements": {
@@ -11115,7 +11131,7 @@
     ],
     "count_12m": 122
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -11186,7 +11202,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=42817"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "600025.SH": {
    "announcements": {
@@ -11314,7 +11330,7 @@
     ],
     "count_12m": 103
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -11337,7 +11353,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=109578"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "600188.SH": {
    "announcements": {
@@ -11465,7 +11481,7 @@
     ],
     "count_12m": 195
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -11496,7 +11512,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=188"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "688008.SH": {
    "announcements": {
@@ -11624,7 +11640,7 @@
     ],
     "count_12m": 156
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -11695,7 +11711,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=145146"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "600690.SH": {
    "announcements": {
@@ -11823,7 +11839,7 @@
     ],
     "count_12m": 119
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -11894,7 +11910,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=690"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "601668.SH": {
    "announcements": {
@@ -12022,7 +12038,7 @@
     ],
     "count_12m": 133
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -12093,7 +12109,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1668"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "600887.SH": {
    "announcements": {
@@ -12221,7 +12237,7 @@
     ],
     "count_12m": 149
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -12292,7 +12308,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=887"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "601766.SH": {
    "announcements": {
@@ -12420,13 +12436,13 @@
     ],
     "count_12m": 108
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [],
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1766"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "002379.SZ": {
    "announcements": {
@@ -12554,7 +12570,7 @@
     ],
     "count_12m": 192
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -12625,7 +12641,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002379&orgId=9900011448"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "600406.SH": {
    "announcements": {
@@ -12753,7 +12769,7 @@
     ],
     "count_12m": 145
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -12824,7 +12840,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=406"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "601898.SH": {
    "announcements": {
@@ -12952,7 +12968,7 @@
     ],
     "count_12m": 81
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -12964,18 +12980,18 @@
       "url": "https://sns.sseinfo.com/company.do?uid=1898"
      },
      {
-      "question": "请问公司截止2026年10月20日的股东户数是多少？谢谢",
-      "answer": "感谢您对中煤能源的关注。截至2026年10月20日，中煤能源A股股东75468户。",
+      "question": "中煤能源、上海能源管理层，《国有企业改革深化提升行动方案2026 ～2029) 》再次提出力争2027年底基本消除央企控股上市公司长期破净，自24年1月要求市值管理、解决长期破净问题以来上海能源一直严重破净，请问中煤能源和上海能源有没有解决方案？国资委提供的解决长期破净的回购、加大分红、重组等工具对中煤集团是否适用？",
+      "answer": "感谢您对中煤能源的关注。公司高度重视市值管理工作，已督促相关公司按照已披露的估值提升计划有序开展工作并定期评估实施效果，后续将继续督促有关公司严格落实中国证监会市值管理指引和国务院国资委市值管理要求，聚焦提质增效、转型发展、信息披露、投资者关系、股东回报等工作，持续提升经营效率和盈利能力，用好用足市值管理“工具箱”，推动上市公司内在价值与市场价值相匹配。",
       "ask_date": "2026-10-26",
-      "answer_date": "2026-10-26",
+      "answer_date": "2026-10-30",
       "source": "sse_e",
       "url": "https://sns.sseinfo.com/company.do?uid=1898"
      },
      {
-      "question": "中煤能源、上海能源管理层，《国有企业改革深化提升行动方案2026 ～2029) 》再次提出力争2027年底基本消除央企控股上市公司长期破净，自24年1月要求市值管理、解决长期破净问题以来上海能源一直严重破净，请问中煤能源和上海能源有没有解决方案？国资委提供的解决长期破净的回购、加大分红、重组等工具对中煤集团是否适用？",
-      "answer": null,
+      "question": "请问公司截止2026年10月20日的股东户数是多少？谢谢",
+      "answer": "感谢您对中煤能源的关注。截至2026年10月20日，中煤能源A股股东75468户。",
       "ask_date": "2026-10-26",
-      "answer_date": null,
+      "answer_date": "2026-10-26",
       "source": "sse_e",
       "url": "https://sns.sseinfo.com/company.do?uid=1898"
      },
@@ -13023,7 +13039,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1898"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "601818.SH": {
    "announcements": {
@@ -13151,7 +13167,7 @@
     ],
     "count_12m": 106
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -13166,7 +13182,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1818"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "603986.SH": {
    "announcements": {
@@ -13294,7 +13310,7 @@
     ],
     "count_12m": 184
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -13365,7 +13381,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=76578"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "688802.SH": {
    "announcements": {
@@ -13493,7 +13509,7 @@
     ],
     "count_12m": 125
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -13508,7 +13524,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=323111"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "000338.SZ": {
    "announcements": {
@@ -13636,7 +13652,7 @@
     ],
     "count_12m": 123
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -13707,7 +13723,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000338&orgId=9900002961"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "002463.SZ": {
    "announcements": {
@@ -13835,7 +13851,7 @@
     ],
     "count_12m": 157
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -13906,7 +13922,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002463&orgId=9900013929"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "302132.SZ": {
    "announcements": {
@@ -14034,7 +14050,7 @@
     ],
     "count_12m": 80
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -14105,7 +14121,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=302132&orgId=9900013408"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "002352.SZ": {
    "announcements": {
@@ -14233,7 +14249,7 @@
     ],
     "count_12m": 275
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -14304,7 +14320,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002352&orgId=9900010448"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "002384.SZ": {
    "announcements": {
@@ -14432,7 +14448,7 @@
     ],
     "count_12m": 133
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -14440,6 +14456,14 @@
       "answer": "您好！公司欧洲基地目前以汽车精密零部件业务为主，依托法国GMD 集团的产能服务全球整车客户，公司将持续推进欧洲本地化运营，深化客户合作。相关信息请查阅公司公开披露文件。感谢您对公司的关注与支持！",
       "ask_date": "2026-10-29",
       "answer_date": "2026-10-30",
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002384&orgId=9900011647"
+     },
+     {
+      "question": "公司靠收购MFLX切入苹果FPC、收购Multek补齐高端PCB、再控股索尔思光电切入光芯片 光模块，成长路径明显是“外延并购驱动”。近期又控股江苏华存，布局PCIe存储控制芯片与企业级SSD。 请问董秘：本次布局是否延续“买买买”式扩张逻辑，把边界从PCB、光互联进一步扩到AI算力存储？华存如何与现有高速PCB、光模块业务形成客户与技术协同？并表节奏、研发投入及整合风险如何考量？",
+      "answer": null,
+      "ask_date": "2026-10-29",
+      "answer_date": null,
       "source": "irm",
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002384&orgId=9900011647"
      },
@@ -14490,20 +14514,12 @@
       "answer_date": "2026-10-19",
       "source": "irm",
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002384&orgId=9900011647"
-     },
-     {
-      "question": "中际旭创今晚发公告拟注销回购股份，天孚通信也发公告拟回购股份并注销，请问贵公司是否也能回购的股份予以注销而不是用来股权激励，给广大股东和投资者信心",
-      "answer": "感谢您对公司的关注与支持。公司回购股份将按照已披露的回购方案确定的用途实施，具体情况详见公司相关公告。谢谢。",
-      "ask_date": "2026-10-15",
-      "answer_date": "2026-10-19",
-      "source": "irm",
-      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002384&orgId=9900011647"
      }
     ],
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002384&orgId=9900011647"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "601066.SH": {
    "announcements": {
@@ -14631,7 +14647,7 @@
     ],
     "count_12m": 117
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -14654,7 +14670,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=123807"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "000725.SZ": {
    "announcements": {
@@ -14782,7 +14798,7 @@
     ],
     "count_12m": 167
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -14853,7 +14869,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000725&orgId=gssz0000725"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "600989.SH": {
    "announcements": {
@@ -14981,7 +14997,7 @@
     ],
     "count_12m": 91
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -15052,7 +15068,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=139997"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "600031.SH": {
    "announcements": {
@@ -15180,7 +15196,7 @@
     ],
     "count_12m": 153
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -15235,7 +15251,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=31"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "300394.SZ": {
    "announcements": {
@@ -15363,7 +15379,7 @@
     ],
     "count_12m": 185
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -15434,7 +15450,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300394&orgId=9900023911"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "600930.SH": {
    "announcements": {
@@ -15562,7 +15578,7 @@
     ],
     "count_12m": 113
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -15601,7 +15617,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=313093"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "002916.SZ": {
    "announcements": {
@@ -15729,9 +15745,17 @@
     ],
     "count_12m": 146
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
+     {
+      "question": "您好，作为深南电路的中小投资者，近期股价持续大幅下跌，持仓损失巨大，内心十分困惑。 在算力PCB赛道已经出现扩产内卷、需求预期转弱的背景下，公司推进43.67亿大额定增扩产。想请问管理层： 第一，扩产的产能消化依据是什么，有没有锁定长期稳定订单？如何应对行业价格战、毛利率下滑的风险？ 第二，公司长期选择股权融资扩产，持续稀释现有股东权益，在周期下行阶段，二级市场股东独自承担估值下跌的全部风险。请问",
+      "answer": null,
+      "ask_date": "2026-10-30",
+      "answer_date": null,
+      "source": "irm",
+      "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002916&orgId=9900022488"
+     },
      {
       "question": "您好请问：公司FC-BGA产品目前的线宽/线距规格是多少？最大封装基板尺寸是多少？ FCBGA产品良率是否已达到商业化量产基准？高层的良率是多少？ 公司是否考虑在定期报告中单独披露FC-BGA业务收入？",
       "answer": "尊敬的投资者，您好。公司FC-BGA封装基板目前已具备22层及以下产品的批量生产能力，线宽线距最小达9/12μm。公司始终将产品质量和技术创新作为核心竞争力，并通过持续优化工艺、强化生产管控，不断提升产品良率水平。封装基板业务收入包含FC-BGA封装基板相关收入，公司将严格依据监管披露要求编制定期报告。谢谢您的关注。",
@@ -15760,7 +15784,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002916&orgId=9900022488"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "300408.SZ": {
    "announcements": {
@@ -15888,7 +15912,7 @@
     ],
     "count_12m": 170
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -15959,7 +15983,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300408&orgId=9900023108"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "601336.SH": {
    "announcements": {
@@ -16087,7 +16111,7 @@
     ],
     "count_12m": 93
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -16102,7 +16126,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1336"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "603268.SH": {
    "announcements": {
@@ -16230,7 +16254,7 @@
     ],
     "count_12m": 212
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -16261,7 +16285,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=33154"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "600016.SH": {
    "announcements": {
@@ -16389,7 +16413,7 @@
     ],
     "count_12m": 68
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -16420,7 +16444,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=16"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "600809.SH": {
    "announcements": {
@@ -16548,13 +16572,13 @@
     ],
     "count_12m": 67
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [],
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=809"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "601688.SH": {
    "announcements": {
@@ -16682,7 +16706,7 @@
     ],
     "count_12m": 129
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -16705,7 +16729,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1688"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "601009.SH": {
    "announcements": {
@@ -16833,13 +16857,13 @@
     ],
     "count_12m": 99
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [],
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1009"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "688795.SH": {
    "announcements": {
@@ -16967,7 +16991,7 @@
     ],
     "count_12m": 132
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -17014,7 +17038,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=323108"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "300124.SZ": {
    "announcements": {
@@ -17142,7 +17166,7 @@
     ],
     "count_12m": 155
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -17213,7 +17237,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300124&orgId=9900012527"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "601600.SH": {
    "announcements": {
@@ -17341,7 +17365,7 @@
     ],
     "count_12m": 144
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [
      {
@@ -17356,7 +17380,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1600"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   },
   "688801.SH": {
    "announcements": {
@@ -17466,13 +17490,13 @@
     ],
     "count_12m": 17
    },
-   "announcements_at": "2026-10-30T15:12:24+08:00",
+   "announcements_at": "2026-10-30T18:26:36+08:00",
    "qa": {
     "items": [],
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=353147"
    },
-   "qa_at": "2026-10-30T15:12:24+08:00"
+   "qa_at": "2026-10-30T18:26:36+08:00"
   }
  }
 }
