@@ -1,14 +1,14 @@
 {
  "meta": {
   "quote_date": "2026-10-30",
-  "generated_at": "2026-10-30T15:15:29+08:00",
-  "snapshot_generated_at": "2026-10-30T15:11:02+08:00",
+  "generated_at": "2026-10-30T18:30:16+08:00",
+  "snapshot_generated_at": "2026-10-30T18:25:35+08:00",
   "sources": {
    "kline": "腾讯前复权日 K",
    "dividends": "东方财富数据中心分红明细"
   },
   "member_count": 100,
-  "covered": 100
+  "covered": 99
  },
  "metrics": {
   "601939.SH": {
@@ -27,7 +27,7 @@
    "ytd_return": 14.98,
    "return_1y": 18.58,
    "return_3y": 142.11,
-   "high_52w": 8.78,
+   "high_52w": 8.83,
    "low_52w": 6.53,
    "dividend_yield": 3.55,
    "dps_fiscal_year": 2025,
@@ -225,7 +225,7 @@
    "ytd_return": 13.55,
    "return_1y": 8.26,
    "return_3y": 51.06,
-   "high_52w": 29.99,
+   "high_52w": 30.0,
    "low_52w": 24.38,
    "dividend_yield": 3.36,
    "dps_fiscal_year": 2025,
@@ -302,7 +302,7 @@
    "ytd_return": 26.02,
    "return_1y": 26.83,
    "return_3y": 121.65,
-   "high_52w": 9.46,
+   "high_52w": 9.49,
    "low_52w": 6.85,
    "dividend_yield": 4.03,
    "dps_fiscal_year": 2025,
@@ -336,7 +336,7 @@
    "return_1y": -28.48,
    "return_3y": 173.28,
    "high_52w": 395.17,
-   "low_52w": 170.2,
+   "low_52w": 170.02,
    "dividend_yield": 0.14,
    "dps_fiscal_year": 2025,
    "dps_pretax": 0.24
@@ -490,7 +490,7 @@
    "return_1y": -26.43,
    "return_3y": 1162.24,
    "high_52w": 618.87,
-   "low_52w": 196.0,
+   "low_52w": 194.0,
    "dividend_yield": 0.51,
    "dps_fiscal_year": 2025,
    "dps_pretax": 1.0
@@ -511,7 +511,7 @@
    "ytd_return": 24.67,
    "return_1y": 27.34,
    "return_3y": 197.33,
-   "high_52w": 17.84,
+   "high_52w": 18.0,
    "low_52w": 12.65,
    "dividend_yield": 5.61,
    "dps_fiscal_year": 2025,
@@ -577,7 +577,7 @@
    "ytd_return": 31.76,
    "return_1y": 29.78,
    "return_3y": 141.57,
-   "high_52w": 12.96,
+   "high_52w": 12.97,
    "low_52w": 9.417,
    "dividend_yield": 4.35,
    "dps_fiscal_year": 2025,
@@ -623,9 +623,9 @@
    "return_3y": -31.17,
    "high_52w": 212.65,
    "low_52w": 129.33,
-   "dividend_yield": 2.41,
+   "dividend_yield": 1.69,
    "dps_fiscal_year": 2025,
-   "dps_pretax": 4.38
+   "dps_pretax": 3.07
   },
   "600309.SH": {
    "price": 70.2,
@@ -655,7 +655,7 @@
    "return_1y": -28.01,
    "return_3y": -27.03,
    "high_52w": 38.57,
-   "low_52w": 26.75,
+   "low_52w": 26.42,
    "dividend_yield": 1.2,
    "dps_fiscal_year": 2025,
    "dps_pretax": 0.32
@@ -1034,17 +1034,6 @@
    "dps_fiscal_year": 2025,
    "dps_pretax": 0.189
   },
-  "600809.SH": {
-   "price": 126.27,
-   "ytd_return": -23.54,
-   "return_1y": -30.41,
-   "return_3y": -44.81,
-   "high_52w": 197.02,
-   "low_52w": 97.08,
-   "dividend_yield": 5.2,
-   "dps_fiscal_year": 2025,
-   "dps_pretax": 6.56
-  },
   "601688.SH": {
    "price": 16.99,
    "ytd_return": -26.16,
@@ -1112,5 +1101,7 @@
    "dps_pretax": null
   }
  },
- "errors": {}
+ "errors": {
+  "600809.SH": "TimeoutError The read operation timed out"
+ }
 }
