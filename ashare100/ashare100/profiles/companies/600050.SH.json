@@ -1,0 +1,379 @@
+{
+ "identity": {
+  "code": "600050",
+  "exchange": "SH",
+  "board": "主板",
+  "name_full": "中国联合网络通信股份有限公司",
+  "name_abbr": "中国联通",
+  "aliases": [],
+  "name_en": "China United Network Communications Limited",
+  "former_names": [
+   "中国联通→G联通"
+  ],
+  "industry_sw1": "通信",
+  "industry_sw2": "通信服务",
+  "list_date": "2002-10-09",
+  "found_date": "2001-12-31",
+  "province": "北京",
+  "city": null,
+  "website": "www.chinaunicom-a.com",
+  "chairman": "董昕",
+  "employees": 237251,
+  "business_summary": "电信业的投资",
+  "profile": "中国联合网络通信股份有限公司通过控股的联通BVI公司间接持有联通红筹公司43.9%的股份,保持对联通红筹公司及其全资拥有的联通运营公司的实际控制权。\n本公司连续多年入选“世界500强企业”,在2025年《财富》世界500强中位列第269位,并获中国上市公司协会授予的“董事会办公室最佳实践案例”“投资者关系最佳实践案例”“业绩说明会最佳实践案例”等权威荣誉。\n公司在国内31个省(自治区、直辖市)和境外多个国家和地区设有分支机构,拥有覆盖全国、通达世界的现代通信网络和全球客户服务体系。作为支撑党政军系统、各行各业、广大人民群众的基础通信企业,中国联通在国民经济中具有基础性、支柱性、战略性、先导性的基本功能与地位作用,具有技术密集、全程全网、规模经济、服务经济社会与民生的特征与属性。\n中国联通切实履行政治责任、经济责任、社会责任,坚持党的领导、坚持守正创新、坚持主责主业,以“守正创新、行稳致远”为公司“十五五”时期发展主基调,以“连接”“算力”“服务”“安全”为履行央企责任的核心赛道,从“基础管道提供商”向“数字化综合服务商”转变,担当“信息通信事业国家队、主力军”,充分发挥科技创新、产业控制、安全支撑作用。",
+  "st_status": null,
+  "audit_opinion": null
+ },
+ "financials": {
+  "unit": "CNY",
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "report_date": "2021-12-31",
+    "revenue": 327854494119.0,
+    "revenue_yoy": 7.9,
+    "net_profit": 6305465753.0,
+    "net_profit_yoy": 14.2,
+    "net_profit_deducted": 6451519911.0,
+    "gross_margin": 24.55,
+    "net_margin": 4.4,
+    "eps": 0.206,
+    "bvps": 4.81,
+    "roe": 4.17,
+    "roa": 2.45,
+    "debt_ratio": 43.33,
+    "total_liab": 257074127954.0,
+    "total_assets": 593293625557,
+    "ocf_to_np": null,
+    "ocf": 111971577348.0
+   },
+   {
+    "fiscal_year": 2022,
+    "report_date": "2022-12-31",
+    "revenue": 354943879228.0,
+    "revenue_yoy": 8.26,
+    "net_profit": 7299489574.0,
+    "net_profit_yoy": 15.76,
+    "net_profit_deducted": 6678674090.0,
+    "gross_margin": 24.25,
+    "net_margin": 4.69,
+    "eps": 0.234,
+    "bvps": 4.85,
+    "roe": 4.67,
+    "roa": 2.69,
+    "debt_ratio": 46.13,
+    "total_liab": 297412554267.0,
+    "total_assets": 644726976516,
+    "ocf_to_np": null,
+    "ocf": 101708329006.0
+   },
+   {
+    "fiscal_year": 2023,
+    "report_date": "2023-12-31",
+    "revenue": 372596794135.0,
+    "revenue_yoy": 4.97,
+    "net_profit": 8172679256.0,
+    "net_profit_yoy": 11.96,
+    "net_profit_deducted": 7492855925.0,
+    "gross_margin": 24.52,
+    "net_margin": 5.02,
+    "eps": 0.261,
+    "bvps": 5.01,
+    "roe": 5.08,
+    "roa": 2.86,
+    "debt_ratio": 46.0,
+    "total_liab": 304909723903.0,
+    "total_assets": 662847225876,
+    "ocf_to_np": null,
+    "ocf": 104341628980.0
+   },
+   {
+    "fiscal_year": 2024,
+    "report_date": "2024-12-31",
+    "revenue": 389589219642.0,
+    "revenue_yoy": 4.56,
+    "net_profit": 9029899018.0,
+    "net_profit_yoy": 10.49,
+    "net_profit_deducted": 6698958565.0,
+    "gross_margin": 23.42,
+    "net_margin": 5.29,
+    "eps": 0.292,
+    "bvps": 5.18,
+    "roe": 5.49,
+    "roa": 3.08,
+    "debt_ratio": 45.19,
+    "total_liab": 304048390353.0,
+    "total_assets": 672822284472,
+    "ocf_to_np": null,
+    "ocf": 91255016708.0
+   },
+   {
+    "fiscal_year": 2025,
+    "report_date": "2025-12-31",
+    "revenue": 392222880560.0,
+    "revenue_yoy": 0.68,
+    "net_profit": 9126662570.0,
+    "net_profit_yoy": 1.07,
+    "net_profit_deducted": 7685836118.0,
+    "gross_margin": 23.54,
+    "net_margin": 5.3,
+    "eps": 0.292,
+    "bvps": 5.39,
+    "roe": 5.39,
+    "roa": 3.09,
+    "debt_ratio": 43.89,
+    "total_liab": 294555241530.0,
+    "total_assets": 671121534586,
+    "ocf_to_np": null,
+    "ocf": 91410552538.0
+   }
+  ],
+  "latest": {
+   "report_period": "2026-09-30",
+   "report_type": "2026年三季报",
+   "revenue": 294646542956.0,
+   "revenue_yoy": 0.57,
+   "net_profit": 5802891509.0,
+   "net_profit_yoy": -33.85,
+   "net_profit_deducted": 4866304821.0,
+   "gross_margin": 24.01,
+   "net_margin": 4.49,
+   "eps": 0.186,
+   "roe": 3.37,
+   "debt_ratio": 43.48,
+   "ocf": 59686090074.0
+  },
+  "derived": {
+   "revenue_cagr_3y": 3.39,
+   "net_profit_cagr_3y": 7.73,
+   "receivables_to_revenue": null,
+   "goodwill_to_equity": null
+  }
+ },
+ "shareholders": {
+  "controller": "国务院国有资产监督管理委员会",
+  "controlling_shareholder": null,
+  "controlling_ratio": null,
+  "top10": [
+   {
+    "rank": 1,
+    "name": "中国联合网络通信集团有限公司",
+    "hold_num": 11399724220.0,
+    "hold_ratio": 36.46,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 2,
+    "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+    "hold_num": 3190419687.0,
+    "hold_ratio": 10.2,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 3,
+    "name": "深圳市腾讯信达有限合伙企业(有限合伙)",
+    "hold_num": 1610541728.0,
+    "hold_ratio": 5.15,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 4,
+    "name": "中国国有企业结构调整基金股份有限公司",
+    "hold_num": 1553221267.0,
+    "hold_ratio": 4.97,
+    "hold_num_change": -10000000.0
+   },
+   {
+    "rank": 5,
+    "name": "国新产业资本管理有限公司",
+    "hold_num": 1250576991.0,
+    "hold_ratio": 4.0,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 6,
+    "name": "杭州阿里创业投资有限公司",
+    "hold_num": 633254734.0,
+    "hold_ratio": 2.03,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 7,
+    "name": "香港中央结算有限公司",
+    "hold_num": 592751586.0,
+    "hold_ratio": 1.9,
+    "hold_num_change": 184020816.0
+   },
+   {
+    "rank": 8,
+    "name": "嘉兴小度投资管理有限公司-宁波梅山保税港区百度鹏寰投资合伙企业(有限合伙)",
+    "hold_num": 439238653.0,
+    "hold_ratio": 1.4,
+    "hold_num_change": 0
+   },
+   {
+    "rank": 9,
+    "name": "国新宏盛投资(北京)有限公司",
+    "hold_num": 156321600.0,
+    "hold_ratio": 0.5,
+    "hold_num_change": null
+   },
+   {
+    "rank": 10,
+    "name": "中泰证券股份有限公司-华夏国证自由现金流交易型开放式指数证券投资基金",
+    "hold_num": 126436607.0,
+    "hold_ratio": 0.4,
+    "hold_num_change": 10055800.0
+   }
+  ],
+  "top10_date": "2026-09-30",
+  "holder_num": 533269.0,
+  "holder_num_change_pct": -4.65,
+  "holder_num_date": "2026-09-30",
+  "inst_hold_ratio": null,
+  "northbound_ratio": 1.9,
+  "executives": [
+   {
+    "name": "董昕",
+    "title": "董事长",
+    "pay": null
+   },
+   {
+    "name": "王凌升",
+    "title": "董事会秘书",
+    "pay": null
+   }
+  ],
+  "pledge_ratio_total": null,
+  "unlock_12m": []
+ },
+ "dividends": {
+  "annual": [
+   {
+    "fiscal_year": 2021,
+    "dps_pretax": 0.0879,
+    "total_amount": 2724015934.77,
+    "payout_ratio": 43.2,
+    "dividend_yield": null,
+    "ex_date": "2022-06-29"
+   },
+   {
+    "fiscal_year": 2022,
+    "dps_pretax": 0.109,
+    "total_amount": 3411101607.83,
+    "payout_ratio": 46.73,
+    "dividend_yield": null,
+    "ex_date": "2023-07-07"
+   },
+   {
+    "fiscal_year": 2023,
+    "dps_pretax": 0.132,
+    "total_amount": 4197948248.78,
+    "payout_ratio": 51.37,
+    "dividend_yield": null,
+    "ex_date": "2024-07-19"
+   },
+   {
+    "fiscal_year": 2024,
+    "dps_pretax": 0.158,
+    "total_amount": 4991196560.63,
+    "payout_ratio": 55.27,
+    "dividend_yield": null,
+    "ex_date": "2025-06-27"
+   },
+   {
+    "fiscal_year": 2025,
+    "dps_pretax": 0.1635,
+    "total_amount": 5111733540.96,
+    "payout_ratio": 56.01,
+    "dividend_yield": null,
+    "ex_date": "2026-06-26"
+   }
+  ],
+  "consecutive_years": 5,
+  "cum_dividend_5y": 20435995892.97,
+  "cum_netprofit_5y": 39934196171.0,
+  "payout_5y": 51.17,
+  "buyback_3y": null
+ },
+ "peers": {
+  "peer_codes": [],
+  "segments": [
+   {
+    "name": "宽带及移动数据服务",
+    "revenue": 153220686538.0,
+    "ratio": 39.06,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "数据及其他互联网应用收入",
+    "revenue": 103559443541.0,
+    "ratio": 26.4,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其他(补充)",
+    "revenue": 44484448888.0,
+    "ratio": 11.34,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "其中:销售通信产品",
+    "revenue": 44484448888.0,
+    "ratio": 11.34,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "增值服务",
+    "revenue": 30627402235.0,
+    "ratio": 7.81,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "电路及网元服务",
+    "revenue": 24190621947.0,
+    "ratio": 6.17,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "语音通话及月租费",
+    "revenue": 19556853971.0,
+    "ratio": 4.99,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "网间结算收入",
+    "revenue": 12299859725.0,
+    "ratio": 3.14,
+    "type": "product",
+    "period": "2025年报"
+   },
+   {
+    "name": "全国范围",
+    "revenue": 392223000000.0,
+    "ratio": 100.0,
+    "type": "region",
+    "period": "2025年报"
+   }
+  ]
+ },
+ "announcements": {
+  "items": [],
+  "count_12m": null
+ },
+ "qa": {
+  "items": []
+ },
+ "_meta": {
+  "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
+  "fetched_at": "2026-10-30T15:11:21+08:00",
+  "errors": {}
+ }
+}

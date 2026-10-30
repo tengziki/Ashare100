@@ -731,5 +731,15 @@
   "bytes": 2074,
   "via": "google-s2",
   "px": 52
+ },
+ "600050.SH": {
+  "file": null,
+  "missing": true,
+  "tried": [
+   "sse-e-avatar 失败：HTTPError",
+   "google-s2 失败：HTTPError",
+   "duckduckgo 失败：HTTPError"
+  ],
+  "website": "www.chinaunicom-a.com"
  }
 }
