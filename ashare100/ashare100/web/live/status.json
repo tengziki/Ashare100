@@ -39,14 +39,13 @@
    "schedule": "交易日 11:35 / 15:10",
    "warn_hours": 28,
    "stale_hours": 52,
-   "last_success": "2026-10-30T01:49:37+08:00",
-   "data_date": "2026-10-29",
-   "detail": "公告 98/100 家",
+   "last_success": "2026-10-30T12:05:55+08:00",
+   "data_date": "2026-10-30",
+   "detail": "公告 100/100 家",
    "problems": [
-    "000001.SZ 公告：HTTPError HTTP Error 502: Bad Gateway",
-    "688012.SH 公告：HTTPError HTTP Error 502: Bad Gateway"
+    "002379.SZ 公告：HTTPError HTTP Error 504: Gateway Time-out"
    ]
   }
  },
- "updated": "2026-10-30T12:04:00+08:00"
+ "updated": "2026-10-30T12:05:55+08:00"
 }
