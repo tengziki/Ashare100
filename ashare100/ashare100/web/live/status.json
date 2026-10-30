@@ -39,13 +39,11 @@
    "schedule": "交易日 11:35 / 15:10",
    "warn_hours": 28,
    "stale_hours": 52,
-   "last_success": "2026-10-30T12:05:55+08:00",
+   "last_success": "2026-10-30T15:14:12+08:00",
    "data_date": "2026-10-30",
    "detail": "公告 100/100 家",
-   "problems": [
-    "002379.SZ 公告：HTTPError HTTP Error 504: Gateway Time-out"
-   ]
+   "problems": []
   }
  },
- "updated": "2026-10-30T15:12:07+08:00"
+ "updated": "2026-10-30T15:14:12+08:00"
 }
