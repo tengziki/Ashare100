@@ -738,5 +738,19 @@
   "bytes": 6966,
   "via": "sse-e-avatar",
   "px": 78
+ },
+ "600999.SH": {
+  "file": "600999.SH.png",
+  "source": "https://sns.sseinfo.com/resources/images/avatar/company/600999.png",
+  "bytes": 11825,
+  "via": "sse-e-avatar",
+  "px": 78
+ },
+ "300999.SZ": {
+  "file": "300999.SZ.jpg",
+  "source": "https://www.google.com/s2/favicons?domain=www.yihaikerry.net.cn&sz=128",
+  "bytes": 2268,
+  "via": "google-s2",
+  "px": 135
  }
 }

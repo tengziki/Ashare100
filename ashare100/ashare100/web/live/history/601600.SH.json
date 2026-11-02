@@ -1,23 +1,23 @@
 {
  "code": "601600.SH",
  "name": "中国铝业",
- "exited_on": "2026-10-28",
- "exited_vs": "2026-10-27 收盘",
- "last_rank": 100,
- "now_rank": 100,
- "now_total_mv": 147359000000.0,
+ "exited_on": "2026-11-02",
+ "exited_vs": "2026-10-30 收盘",
+ "last_rank": 99,
+ "now_rank": 102,
+ "now_total_mv": 147874000000.0,
  "profile_status": "verified_snapshot",
  "market": {
-  "price": 8.76,
-  "change_pct": 1.62,
-  "amount": 1424150000.0,
-  "turnover_rate": 1.23,
-  "pe_ttm": 8.6,
-  "pb": 1.88,
-  "total_mv": 150276000000.0,
-  "float_mv": 115660999999.99998,
-  "quote_at": "20261027161457",
-  "as_of_date": "2026-10-27"
+  "price": 8.55,
+  "change_pct": 1.42,
+  "amount": 1336570000.0,
+  "turnover_rate": 1.18,
+  "pe_ttm": 7.44,
+  "pb": 1.71,
+  "total_mv": 146673000000.0,
+  "float_mv": 112889000000.00002,
+  "quote_at": "20261030161447",
+  "as_of_date": "2026-10-30"
  },
  "profile": {
   "identity": {
@@ -474,5 +474,5 @@
    "reviewed_at": "2026-10-27T17:47:02+08:00"
   }
  },
- "now_at": "2026-10-30"
+ "now_at": "2026-11-02"
 }
