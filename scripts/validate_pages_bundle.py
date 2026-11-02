@@ -34,8 +34,8 @@ def validate():
     if any(row.get("rank") != index or not isinstance(row.get("total_mv"), (int, float)) or
            row["total_mv"] <= 0 for index, row in enumerate(members, 1)):
         raise ValueError("百强名次或市值无效")
-    # 日更指标可缺省；存在时必须指向同目录下有效文件。与快照同日时只能含当前百强代码；
-    # 早于快照说明榜单已换手而指标尚未重算（15:40 任务），旧代码允许存在
+    # 日更指标可缺省；存在时必须指向同目录下有效文件。对应当前快照时只能含当前百强代码；
+    # 午间与收盘可能同日换榜，旧快照的指标允许暂存，页面按当前成员取值，后续任务再重算
     pointer = WEB / "live" / "metrics" / "latest.json"
     if pointer.exists():
         latest = json.loads(pointer.read_text(encoding="utf-8"))
@@ -46,7 +46,7 @@ def validate():
             raise ValueError("日更指标与指针不一致")
         if metrics["meta"]["quote_date"] > meta["quote_date"]:
             raise ValueError("日更指标日期晚于快照")
-        if metrics["meta"]["quote_date"] == meta["quote_date"] and not set(metrics["metrics"]) <= set(codes):
+        if latest.get("snapshot") == relative and not set(metrics["metrics"]) <= set(codes):
             raise ValueError("日更指标含非百强代码")
     # 档案增量包可缺省；存在且对应当前快照时，只能含当前百强
     bundle_path = WEB / "live" / "profiles" / "bundle.json"
