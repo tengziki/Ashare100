@@ -35,16 +35,16 @@
   "last_rank": 94,
   "profile_status": "verified_snapshot"
  },
- "600016.SH": {
-  "name": "民生银行",
-  "exited_on": "2026-11-02",
-  "last_rank": 93,
-  "profile_status": "verified_snapshot"
- },
  "601600.SH": {
   "name": "中国铝业",
   "exited_on": "2026-11-02",
   "last_rank": 99,
+  "profile_status": "verified_snapshot"
+ },
+ "300124.SZ": {
+  "name": "汇川技术",
+  "exited_on": "2026-11-02",
+  "last_rank": 98,
   "profile_status": "verified_snapshot"
  }
 }

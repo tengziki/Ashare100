@@ -225,9 +225,9 @@
    }
   ],
   "top10_date": "2026-09-30",
-  "holder_num": 117663.0,
-  "holder_num_change_pct": -2.82,
-  "holder_num_date": "2026-10-10",
+  "holder_num": 129389.0,
+  "holder_num_change_pct": 9.97,
+  "holder_num_date": "2026-10-20",
   "inst_hold_ratio": null,
   "northbound_ratio": 2.1,
   "executives": [
@@ -362,7 +362,7 @@
  },
  "_meta": {
   "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
-  "fetched_at": "2026-11-02T11:36:18+08:00",
+  "fetched_at": "2026-11-02T22:33:53+08:00",
   "errors": {}
  }
 }
