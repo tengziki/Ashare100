@@ -752,5 +752,12 @@
   "bytes": 2268,
   "via": "google-s2",
   "px": 135
+ },
+ "600760.SH": {
+  "file": "600760.SH.png",
+  "source": "https://sns.sseinfo.com/resources/images/avatar/company/600760.png",
+  "bytes": 10988,
+  "via": "sse-e-avatar",
+  "px": 78
  }
 }

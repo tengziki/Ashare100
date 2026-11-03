@@ -196,5 +196,17 @@
       "300408.SZ",
       "688801.SH"
     ]
+  },
+  {
+    "snapshot": "snapshots/20261103T071115Z.json",
+    "quote_date": "2026-11-03",
+    "slot": "close",
+    "base_label": "2026-11-03 11:35",
+    "entered": [
+      "600999.SH"
+    ],
+    "exited": [
+      "002916.SZ"
+    ]
   }
 ]

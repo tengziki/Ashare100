@@ -354,15 +354,165 @@
   ]
  },
  "announcements": {
-  "items": [],
-  "count_12m": null
+  "items": [
+   {
+    "title": "H股公告（董事名单与其角色和职能）",
+    "date": "2026-10-30",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225644878.PDF"
+   },
+   {
+    "title": "招商证券股份有限公司2026年第三季度报告",
+    "date": "2026-10-30",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225644734.PDF"
+   },
+   {
+    "title": "第八届董事会第四十一次会议决议公告",
+    "date": "2026-10-30",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225644729.PDF"
+   },
+   {
+    "title": "关于全资子公司发起设立私募基金暨关联交易的公告",
+    "date": "2026-10-30",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225644728.PDF"
+   },
+   {
+    "title": "关于招商证券股份有限公司2026年第一次临时股东会之法律意见书",
+    "date": "2026-10-30",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225644725.PDF"
+   },
+   {
+    "title": "2026年第一次临时股东会决议公告",
+    "date": "2026-10-30",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225644723.PDF"
+   },
+   {
+    "title": "招商证券股份有限公司关于间接全资子公司为全资子公司提供担保的公告",
+    "date": "2026-10-23",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-23/1225616064.PDF"
+   },
+   {
+    "title": "关于召开2026年三季度业绩说明会的公告",
+    "date": "2026-10-23",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-23/1225616050.PDF"
+   },
+   {
+    "title": "第八届董事会第三十九次会议决议公告",
+    "date": "2026-10-21",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612572.PDF"
+   },
+   {
+    "title": "H股公告（董事会会议召开日期）",
+    "date": "2026-10-16",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225606331.PDF"
+   },
+   {
+    "title": "关于向专业投资者公开发行短期公司债券获得中国证券监督管理委员会注册批复的公告",
+    "date": "2026-10-15",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-15/1225604463.PDF"
+   },
+   {
+    "title": "2026年第一次临时股东会会议资料",
+    "date": "2026-10-09",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597080.PDF"
+   },
+   {
+    "title": "关于召开2026年第一次临时股东会的通知",
+    "date": "2026-10-09",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225596939.PDF"
+   },
+   {
+    "title": "H股公告（截至2026年9月30日止之股份发行人的证券变动月报表）",
+    "date": "2026-10-08",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225595529.PDF"
+   },
+   {
+    "title": "H股公告（董事名单与其角色和职能）",
+    "date": "2026-10-01",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225591598.PDF"
+   },
+   {
+    "title": "关于聘任公司总裁的公告",
+    "date": "2026-10-01",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225591578.PDF"
+   },
+   {
+    "title": "第八届董事会第三十八次会议决议公告",
+    "date": "2026-10-01",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225591576.PDF"
+   },
+   {
+    "title": "H股公告（董事名单与其角色和职能）",
+    "date": "2026-09-24",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225578616.PDF"
+   },
+   {
+    "title": "关于选举第八届董事会职工代表董事的公告",
+    "date": "2026-09-24",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225578614.PDF"
+   },
+   {
+    "title": "2026年半年度权益分派实施公告",
+    "date": "2026-09-08",
+    "type": null,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-08/1225551687.PDF"
+   }
+  ],
+  "count_12m": 149
  },
  "qa": {
-  "items": []
+  "items": [
+   {
+    "question": "公司三季报业绩全靠持有长鑫科技浮盈撑起，是不是公司第四季度业季还是深度鑫科技股价表现？",
+    "answer": null,
+    "ask_date": "2026-11-03",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=999"
+   },
+   {
+    "question": "您好！请问贵司是有什么消息披露吗？",
+    "answer": null,
+    "ask_date": "2026-10-22",
+    "answer_date": null,
+    "source": "sse_e",
+    "url": "https://sns.sseinfo.com/company.do?uid=999"
+   }
+  ],
+  "count_12m": null,
+  "url": "https://sns.sseinfo.com/company.do?uid=999"
  },
  "_meta": {
   "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
   "fetched_at": "2026-11-03T11:36:01+08:00",
   "errors": {}
+ },
+ "_extras": {
+  "announcements": {
+   "fetched_at": "2026-11-03T15:11:10+08:00",
+   "error": null
+  },
+  "qa": {
+   "fetched_at": "2026-11-03T15:11:15+08:00",
+   "error": null
+  }
  }
 }
