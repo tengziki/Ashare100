@@ -5,12 +5,6 @@
   "last_rank": 95,
   "profile_status": "verified_snapshot"
  },
- "300274.SZ": {
-  "name": "阳光电源",
-  "exited_on": "2026-10-26",
-  "last_rank": 97,
-  "profile_status": "verified_snapshot"
- },
  "688820.SH": {
   "name": "盛合晶微",
   "exited_on": "2026-10-29",
@@ -35,16 +29,28 @@
   "last_rank": 94,
   "profile_status": "verified_snapshot"
  },
- "601600.SH": {
-  "name": "中国铝业",
-  "exited_on": "2026-11-02",
-  "last_rank": 99,
+ "300394.SZ": {
+  "name": "天孚通信",
+  "exited_on": "2026-11-03",
+  "last_rank": 94,
   "profile_status": "verified_snapshot"
  },
- "300124.SZ": {
-  "name": "汇川技术",
-  "exited_on": "2026-11-02",
-  "last_rank": 98,
+ "688795.SH": {
+  "name": "摩尔线程-U",
+  "exited_on": "2026-11-03",
+  "last_rank": 95,
+  "profile_status": "verified_snapshot"
+ },
+ "300408.SZ": {
+  "name": "三环集团",
+  "exited_on": "2026-11-03",
+  "last_rank": 97,
+  "profile_status": "verified_snapshot"
+ },
+ "688801.SH": {
+  "name": "燧原科技-U",
+  "exited_on": "2026-11-03",
+  "last_rank": 99,
   "profile_status": "verified_snapshot"
  }
 }

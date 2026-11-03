@@ -1,10 +1,10 @@
 {
  "meta": {
-  "snapshot": "snapshots/20261102T143353Z.json",
-  "generated_at": "2026-11-02T22:35:18+08:00",
+  "snapshot": "snapshots/20261103T033600Z.json",
+  "generated_at": "2026-11-03T11:37:12+08:00",
   "baseline": "data.js",
-  "verified_changed": 4,
-  "auto": 2,
+  "verified_changed": 6,
+  "auto": 3,
   "missing": []
  },
  "profiles": {
@@ -522,6 +522,455 @@
     }
    }
   },
+  "601336.SH": {
+   "status": "verified_snapshot",
+   "profile": {
+    "identity": {
+     "code": "601336",
+     "exchange": "SH",
+     "board": "主板",
+     "name_full": "新华人寿保险股份有限公司",
+     "name_abbr": "新华保险",
+     "aliases": [],
+     "name_en": "New China Life Insurance Company Ltd.",
+     "former_names": [],
+     "industry_sw1": "非银金融",
+     "industry_sw2": "保险Ⅱ",
+     "list_date": "2011-12-16",
+     "province": "北京",
+     "city": null,
+     "website": "www.newchinalife.com",
+     "chairman": "杨玉成",
+     "employees": 27007,
+     "business_summary": "1996 年成立、总部位于北京的全国性大型寿险公司，2011 年 A+H 股同步上市，提供覆盖全生命周期的人身保险与财富规划产品，并布局养老与健康产业。",
+     "profile": "新华人寿保险股份有限公司(以下简称“新华保险”或“公司”)成立于1996年9月,总部位于北京市,是一家全国性的大型寿险企业。公司锚定“中国一流的以保险业务为核心的金融服务集团”发展愿景,为客户提供覆盖全生命周期的风险保障和财富规划的产品及服务,着力推动养老产业、健康产业发展,助力寿险主业发展。2011年,新华保险在上交所和联交所同步上市。新华保险坚定不移走内涵式、高质量发展道路,深入践行“以客户为中心”的经营管理理念,持续推进各领域专业化、市场化、体系化改革转型,紧抓行业新机遇新变化,与时俱进树立大保险观,围绕客户全生命周期需求打造多层次产品体系,构建涵盖医康养等十大领域的服务生态,打造一流的投资管理能力,全面提升公司核心竞争力,推动公司实现高质量、高水平和高能级发展。",
+     "st_status": null,
+     "audit_opinion": null,
+     "found_date": "1996-09-28"
+    },
+    "financials": {
+     "unit": "CNY",
+     "annual": [
+      {
+       "fiscal_year": 2021,
+       "report_date": "2021-12-31",
+       "revenue": 222380000000.0,
+       "revenue_yoy": 7.67,
+       "net_profit": 14947000000.0,
+       "net_profit_yoy": 4.57,
+       "net_profit_deducted": 14877000000.0,
+       "gross_margin": null,
+       "net_margin": 6.72,
+       "eps": 4.79,
+       "bvps": 34.77,
+       "roe": 14.22,
+       "roa": 1.4,
+       "debt_ratio": 90.38,
+       "total_liab": 1019207000000.0,
+       "total_assets": 1127690860810,
+       "ocf_to_np": null
+      },
+      {
+       "fiscal_year": 2022,
+       "report_date": "2022-12-31",
+       "revenue": 108048000000.0,
+       "revenue_yoy": -51.41,
+       "net_profit": 21500000000.0,
+       "net_profit_yoy": 43.84,
+       "net_profit_deducted": 9803000000.0,
+       "gross_margin": null,
+       "net_margin": 19.9,
+       "eps": 6.89,
+       "bvps": 32.98,
+       "roe": 9.29,
+       "roa": 1.84,
+       "debt_ratio": 91.93,
+       "total_liab": 1116940000000.0,
+       "total_assets": 1214989666050,
+       "ocf_to_np": null
+      },
+      {
+       "fiscal_year": 2023,
+       "report_date": "2023-12-31",
+       "revenue": 71547000000.0,
+       "revenue_yoy": -33.78,
+       "net_profit": 8712000000.0,
+       "net_profit_yoy": -59.48,
+       "net_profit_deducted": 8746000000.0,
+       "gross_margin": null,
+       "net_margin": 12.18,
+       "eps": 2.79,
+       "bvps": 33.68,
+       "roe": 7.94,
+       "roa": 0.67,
+       "debt_ratio": 92.51,
+       "total_liab": 1298165000000.0,
+       "total_assets": 1403269916766,
+       "ocf_to_np": null
+      },
+      {
+       "fiscal_year": 2024,
+       "report_date": "2024-12-31",
+       "revenue": 132555000000.0,
+       "revenue_yoy": 85.27,
+       "net_profit": 26229000000.0,
+       "net_profit_yoy": 201.07,
+       "net_profit_deducted": 26301000000.0,
+       "gross_margin": null,
+       "net_margin": 19.79,
+       "eps": 8.41,
+       "bvps": 30.85,
+       "roe": 25.88,
+       "roa": 1.69,
+       "debt_ratio": 94.31,
+       "total_liab": 1596028000000.0,
+       "total_assets": 1692321068816,
+       "ocf_to_np": null
+      },
+      {
+       "fiscal_year": 2025,
+       "report_date": "2025-12-31",
+       "revenue": 157745000000.0,
+       "revenue_yoy": 19.0,
+       "net_profit": 36284000000.0,
+       "net_profit_yoy": 38.34,
+       "net_profit_deducted": 33973000000.0,
+       "gross_margin": null,
+       "net_margin": 23.0,
+       "eps": 11.63,
+       "bvps": 35.75,
+       "roe": 34.69,
+       "roa": 2.02,
+       "debt_ratio": 94.13,
+       "total_liab": 1787906000000.0,
+       "total_assets": 1899400828641,
+       "ocf_to_np": null
+      }
+     ],
+     "latest": {
+      "report_period": "2026-06-30",
+      "report_type": "2026年中报",
+      "revenue": 83258000000.0,
+      "revenue_yoy": 18.87,
+      "net_profit": 22793000000.0,
+      "net_profit_yoy": 54.02,
+      "net_profit_deducted": 22829000000.0,
+      "gross_margin": null,
+      "net_margin": 27.38,
+      "eps": 7.31,
+      "roe": 18.87,
+      "debt_ratio": 93.69
+     },
+     "derived": {
+      "revenue_cagr_3y": 13.44,
+      "net_profit_cagr_3y": 19.06,
+      "receivables_to_revenue": null,
+      "goodwill_to_equity": null
+     }
+    },
+    "shareholders": {
+     "controller": null,
+     "controlling_shareholder": null,
+     "controlling_ratio": null,
+     "top10": [
+      {
+       "rank": 1,
+       "name": "中央汇金投资有限责任公司",
+       "hold_num": 977530534.0,
+       "hold_ratio": 31.34,
+       "hold_num_change": null
+      },
+      {
+       "rank": 2,
+       "name": "HKSCC Nominees Limited(香港中央结算(代理人)有限公司)",
+       "hold_num": 972913461.0,
+       "hold_ratio": 31.19,
+       "hold_num_change": 44100.0
+      },
+      {
+       "rank": 3,
+       "name": "中国宝武钢铁集团有限公司",
+       "hold_num": 377162581.0,
+       "hold_ratio": 12.09,
+       "hold_num_change": null
+      },
+      {
+       "rank": 4,
+       "name": "华宝投资有限公司",
+       "hold_num": 60503300.0,
+       "hold_ratio": 1.94,
+       "hold_num_change": null
+      },
+      {
+       "rank": 5,
+       "name": "香港中央结算有限公司",
+       "hold_num": 34106205.0,
+       "hold_ratio": 1.09,
+       "hold_num_change": 3005845.0
+      },
+      {
+       "rank": 6,
+       "name": "中央汇金资产管理有限责任公司",
+       "hold_num": 28249200.0,
+       "hold_ratio": 0.91,
+       "hold_num_change": null
+      },
+      {
+       "rank": 7,
+       "name": "嘉实基金-农业银行-嘉实中证金融资产管理计划",
+       "hold_num": 27986639.0,
+       "hold_ratio": 0.9,
+       "hold_num_change": -18991775.0
+      },
+      {
+       "rank": 8,
+       "name": "工银瑞信基金-农业银行-工银瑞信中证金融资产管理计划",
+       "hold_num": 19211037.0,
+       "hold_ratio": 0.62,
+       "hold_num_change": -24825464.0
+      },
+      {
+       "rank": 9,
+       "name": "全国社保基金一一四组合",
+       "hold_num": 13397496.0,
+       "hold_ratio": 0.43,
+       "hold_num_change": 3397496.0
+      },
+      {
+       "rank": 10,
+       "name": "邹刚",
+       "hold_num": 7500072.0,
+       "hold_ratio": 0.24,
+       "hold_num_change": null
+      }
+     ],
+     "top10_date": "2026-06-30",
+     "holder_num": 105540.0,
+     "holder_num_change_pct": 22.06,
+     "holder_num_date": "2026-06-30",
+     "inst_hold_ratio": null,
+     "northbound_ratio": 1.09,
+     "executives": [
+      {
+       "name": "杨玉成",
+       "title": "董事长",
+       "pay": null
+      },
+      {
+       "name": "龚兴峰",
+       "title": "总经理",
+       "pay": null
+      },
+      {
+       "name": "刘智勇",
+       "title": "董事会秘书",
+       "pay": null
+      }
+     ],
+     "pledge_ratio_total": null,
+     "unlock_12m": []
+    },
+    "dividends": {
+     "annual": [
+      {
+       "fiscal_year": 2021,
+       "dps_pretax": 1.44,
+       "total_amount": 4492147104.0,
+       "payout_ratio": 30.05,
+       "dividend_yield": null,
+       "ex_date": "2022-08-10"
+      },
+      {
+       "fiscal_year": 2022,
+       "dps_pretax": 1.08,
+       "total_amount": 3369110328.0,
+       "payout_ratio": 15.67,
+       "dividend_yield": null,
+       "ex_date": "2023-08-10"
+      },
+      {
+       "fiscal_year": 2023,
+       "dps_pretax": 0.85,
+       "total_amount": 2651614610.0,
+       "payout_ratio": 30.44,
+       "dividend_yield": null,
+       "ex_date": "2024-08-09"
+      },
+      {
+       "fiscal_year": 2024,
+       "dps_pretax": 2.53,
+       "total_amount": 7892452898.0,
+       "payout_ratio": 30.09,
+       "dividend_yield": null,
+       "ex_date": "2025-08-08"
+      },
+      {
+       "fiscal_year": 2025,
+       "dps_pretax": 2.73,
+       "total_amount": 8516362218.0,
+       "payout_ratio": 23.47,
+       "dividend_yield": null,
+       "ex_date": "2026-08-07"
+      }
+     ],
+     "consecutive_years": 5,
+     "cum_dividend_5y": 26921687158.0,
+     "cum_netprofit_5y": 107672000000.0,
+     "payout_5y": 25.0,
+     "buyback_3y": null
+    },
+    "peers": {
+     "peer_codes": [],
+     "segments": []
+    },
+    "announcements": {
+     "items": [
+      {
+       "title": "新华保险关于召开2026年第三季度业绩说明会的公告",
+       "date": "2026-10-23",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-23/1225617277.PDF"
+      },
+      {
+       "title": "新华保险：2026年第一次临时股东会的法律意见书",
+       "date": "2026-10-23",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-23/1225617276.PDF"
+      },
+      {
+       "title": "新华保险2026年第一次临时股东会决议公告",
+       "date": "2026-10-23",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-23/1225617269.PDF"
+      },
+      {
+       "title": "新华保险H股公告",
+       "date": "2026-10-21",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225611887.PDF"
+      },
+      {
+       "title": "新华保险H股公告",
+       "date": "2026-10-17",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225609322.PDF"
+      },
+      {
+       "title": "新华保险关于董事任职资格获核准的公告",
+       "date": "2026-10-17",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225608055.PDF"
+      },
+      {
+       "title": "新华保险第九届董事会第十三次会议决议公告",
+       "date": "2026-10-10",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-10/1225598615.PDF"
+      },
+      {
+       "title": "新华保险H股公告",
+       "date": "2026-10-01",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225589969.PDF"
+      },
+      {
+       "title": "新华保险2026年第一次临时股东会会议材料",
+       "date": "2026-09-29",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225584659.PDF"
+      },
+      {
+       "title": "新华保险关于召开2026年第一次临时股东会的通知",
+       "date": "2026-09-29",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225584109.PDF"
+      },
+      {
+       "title": "新华保险第九届董事会第十二次会议决议公告",
+       "date": "2026-09-19",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-09-19/1225571751.PDF"
+      },
+      {
+       "title": "新华保险H股公告",
+       "date": "2026-09-05",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-09-05/1225549968.PDF"
+      },
+      {
+       "title": "新华保险H股公告",
+       "date": "2026-09-03",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225543605.PDF"
+      },
+      {
+       "title": "新华保险关于独立董事任职资格获核准的公告",
+       "date": "2026-08-29",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225524777.PDF"
+      },
+      {
+       "title": "新华保险2026年半年度报告摘要",
+       "date": "2026-08-27",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225511838.PDF"
+      },
+      {
+       "title": "新华保险2026年度中期利润分配方案公告",
+       "date": "2026-08-27",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225511747.PDF"
+      },
+      {
+       "title": "新华保险第九届董事会第十一次会议决议公告",
+       "date": "2026-08-27",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225511740.PDF"
+      },
+      {
+       "title": "新华保险2026年半年度报告",
+       "date": "2026-08-27",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225511713.PDF"
+      },
+      {
+       "title": "新华保险关于召开2026年中期业绩发布会的公告",
+       "date": "2026-08-19",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225479091.PDF"
+      },
+      {
+       "title": "新华保险H股公告",
+       "date": "2026-08-15",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225473924.PDF"
+      }
+     ],
+     "count_12m": 93
+    },
+    "qa": {
+     "items": [],
+     "count_12m": null
+    },
+    "_extras": {
+     "announcements": {
+      "fetched_at": "2026-10-27T17:29:30+08:00",
+      "error": null
+     },
+     "qa": {
+      "fetched_at": "2026-10-27T17:30:01+08:00",
+      "error": null
+     }
+    },
+    "review": {
+     "reviewer": "Claude（代 tengziki 复核）",
+     "note": "对照巨潮 2025 年报摘要与 2026 半年报摘要：营收、归母净利、加权 ROE、EPS、每股净资产、总资产、2025 财年每股派息（中期 0.67+末期 2.06 元）、股东户数、前十大股东持股一致；机构持股留空；申万二级按东财三级分类映射（与已核实同行一致）；business_summary 依公司概况改写",
+     "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
+     "fetched_at": "2026-10-27T16:17:51+08:00",
+     "reviewed_at": "2026-10-27T17:36:08+08:00"
+    }
+   }
+  },
   "600809.SH": {
    "status": "auto_profile",
    "profile": {
@@ -1014,478 +1463,29 @@
     }
    }
   },
-  "601336.SH": {
+  "300124.SZ": {
    "status": "verified_snapshot",
    "profile": {
     "identity": {
-     "code": "601336",
-     "exchange": "SH",
-     "board": "主板",
-     "name_full": "新华人寿保险股份有限公司",
-     "name_abbr": "新华保险",
+     "code": "300124",
+     "exchange": "SZ",
+     "board": "创业板",
+     "name_full": "深圳市汇川技术股份有限公司",
+     "name_abbr": "汇川技术",
      "aliases": [],
-     "name_en": "New China Life Insurance Company Ltd.",
+     "name_en": "Shenzhen Inovance Technology Co., Ltd",
      "former_names": [],
-     "industry_sw1": "非银金融",
-     "industry_sw2": "保险Ⅱ",
-     "list_date": "2011-12-16",
-     "province": "北京",
+     "industry_sw1": "机械设备",
+     "industry_sw2": "自动化设备",
+     "list_date": "2010-09-28",
+     "found_date": "2003-04-10",
+     "province": "广东",
      "city": null,
-     "website": "www.newchinalife.com",
-     "chairman": "杨玉成",
-     "employees": 27007,
-     "business_summary": "1996 年成立、总部位于北京的全国性大型寿险公司，2011 年 A+H 股同步上市，提供覆盖全生命周期的人身保险与财富规划产品，并布局养老与健康产业。",
-     "profile": "新华人寿保险股份有限公司(以下简称“新华保险”或“公司”)成立于1996年9月,总部位于北京市,是一家全国性的大型寿险企业。公司锚定“中国一流的以保险业务为核心的金融服务集团”发展愿景,为客户提供覆盖全生命周期的风险保障和财富规划的产品及服务,着力推动养老产业、健康产业发展,助力寿险主业发展。2011年,新华保险在上交所和联交所同步上市。新华保险坚定不移走内涵式、高质量发展道路,深入践行“以客户为中心”的经营管理理念,持续推进各领域专业化、市场化、体系化改革转型,紧抓行业新机遇新变化,与时俱进树立大保险观,围绕客户全生命周期需求打造多层次产品体系,构建涵盖医康养等十大领域的服务生态,打造一流的投资管理能力,全面提升公司核心竞争力,推动公司实现高质量、高水平和高能级发展。",
-     "st_status": null,
-     "audit_opinion": null,
-     "found_date": "1996-09-28"
-    },
-    "financials": {
-     "unit": "CNY",
-     "annual": [
-      {
-       "fiscal_year": 2021,
-       "report_date": "2021-12-31",
-       "revenue": 222380000000.0,
-       "revenue_yoy": 7.67,
-       "net_profit": 14947000000.0,
-       "net_profit_yoy": 4.57,
-       "net_profit_deducted": 14877000000.0,
-       "gross_margin": null,
-       "net_margin": 6.72,
-       "eps": 4.79,
-       "bvps": 34.77,
-       "roe": 14.22,
-       "roa": 1.4,
-       "debt_ratio": 90.38,
-       "total_liab": 1019207000000.0,
-       "total_assets": 1127690860810,
-       "ocf_to_np": null
-      },
-      {
-       "fiscal_year": 2022,
-       "report_date": "2022-12-31",
-       "revenue": 108048000000.0,
-       "revenue_yoy": -51.41,
-       "net_profit": 21500000000.0,
-       "net_profit_yoy": 43.84,
-       "net_profit_deducted": 9803000000.0,
-       "gross_margin": null,
-       "net_margin": 19.9,
-       "eps": 6.89,
-       "bvps": 32.98,
-       "roe": 9.29,
-       "roa": 1.84,
-       "debt_ratio": 91.93,
-       "total_liab": 1116940000000.0,
-       "total_assets": 1214989666050,
-       "ocf_to_np": null
-      },
-      {
-       "fiscal_year": 2023,
-       "report_date": "2023-12-31",
-       "revenue": 71547000000.0,
-       "revenue_yoy": -33.78,
-       "net_profit": 8712000000.0,
-       "net_profit_yoy": -59.48,
-       "net_profit_deducted": 8746000000.0,
-       "gross_margin": null,
-       "net_margin": 12.18,
-       "eps": 2.79,
-       "bvps": 33.68,
-       "roe": 7.94,
-       "roa": 0.67,
-       "debt_ratio": 92.51,
-       "total_liab": 1298165000000.0,
-       "total_assets": 1403269916766,
-       "ocf_to_np": null
-      },
-      {
-       "fiscal_year": 2024,
-       "report_date": "2024-12-31",
-       "revenue": 132555000000.0,
-       "revenue_yoy": 85.27,
-       "net_profit": 26229000000.0,
-       "net_profit_yoy": 201.07,
-       "net_profit_deducted": 26301000000.0,
-       "gross_margin": null,
-       "net_margin": 19.79,
-       "eps": 8.41,
-       "bvps": 30.85,
-       "roe": 25.88,
-       "roa": 1.69,
-       "debt_ratio": 94.31,
-       "total_liab": 1596028000000.0,
-       "total_assets": 1692321068816,
-       "ocf_to_np": null
-      },
-      {
-       "fiscal_year": 2025,
-       "report_date": "2025-12-31",
-       "revenue": 157745000000.0,
-       "revenue_yoy": 19.0,
-       "net_profit": 36284000000.0,
-       "net_profit_yoy": 38.34,
-       "net_profit_deducted": 33973000000.0,
-       "gross_margin": null,
-       "net_margin": 23.0,
-       "eps": 11.63,
-       "bvps": 35.75,
-       "roe": 34.69,
-       "roa": 2.02,
-       "debt_ratio": 94.13,
-       "total_liab": 1787906000000.0,
-       "total_assets": 1899400828641,
-       "ocf_to_np": null
-      }
-     ],
-     "latest": {
-      "report_period": "2026-06-30",
-      "report_type": "2026年中报",
-      "revenue": 83258000000.0,
-      "revenue_yoy": 18.87,
-      "net_profit": 22793000000.0,
-      "net_profit_yoy": 54.02,
-      "net_profit_deducted": 22829000000.0,
-      "gross_margin": null,
-      "net_margin": 27.38,
-      "eps": 7.31,
-      "roe": 18.87,
-      "debt_ratio": 93.69
-     },
-     "derived": {
-      "revenue_cagr_3y": 13.44,
-      "net_profit_cagr_3y": 19.06,
-      "receivables_to_revenue": null,
-      "goodwill_to_equity": null
-     }
-    },
-    "shareholders": {
-     "controller": null,
-     "controlling_shareholder": null,
-     "controlling_ratio": null,
-     "top10": [
-      {
-       "rank": 1,
-       "name": "中央汇金投资有限责任公司",
-       "hold_num": 977530534.0,
-       "hold_ratio": 31.34,
-       "hold_num_change": null
-      },
-      {
-       "rank": 2,
-       "name": "HKSCC Nominees Limited(香港中央结算(代理人)有限公司)",
-       "hold_num": 972913461.0,
-       "hold_ratio": 31.19,
-       "hold_num_change": 44100.0
-      },
-      {
-       "rank": 3,
-       "name": "中国宝武钢铁集团有限公司",
-       "hold_num": 377162581.0,
-       "hold_ratio": 12.09,
-       "hold_num_change": null
-      },
-      {
-       "rank": 4,
-       "name": "华宝投资有限公司",
-       "hold_num": 60503300.0,
-       "hold_ratio": 1.94,
-       "hold_num_change": null
-      },
-      {
-       "rank": 5,
-       "name": "香港中央结算有限公司",
-       "hold_num": 34106205.0,
-       "hold_ratio": 1.09,
-       "hold_num_change": 3005845.0
-      },
-      {
-       "rank": 6,
-       "name": "中央汇金资产管理有限责任公司",
-       "hold_num": 28249200.0,
-       "hold_ratio": 0.91,
-       "hold_num_change": null
-      },
-      {
-       "rank": 7,
-       "name": "嘉实基金-农业银行-嘉实中证金融资产管理计划",
-       "hold_num": 27986639.0,
-       "hold_ratio": 0.9,
-       "hold_num_change": -18991775.0
-      },
-      {
-       "rank": 8,
-       "name": "工银瑞信基金-农业银行-工银瑞信中证金融资产管理计划",
-       "hold_num": 19211037.0,
-       "hold_ratio": 0.62,
-       "hold_num_change": -24825464.0
-      },
-      {
-       "rank": 9,
-       "name": "全国社保基金一一四组合",
-       "hold_num": 13397496.0,
-       "hold_ratio": 0.43,
-       "hold_num_change": 3397496.0
-      },
-      {
-       "rank": 10,
-       "name": "邹刚",
-       "hold_num": 7500072.0,
-       "hold_ratio": 0.24,
-       "hold_num_change": null
-      }
-     ],
-     "top10_date": "2026-06-30",
-     "holder_num": 105540.0,
-     "holder_num_change_pct": 22.06,
-     "holder_num_date": "2026-06-30",
-     "inst_hold_ratio": null,
-     "northbound_ratio": 1.09,
-     "executives": [
-      {
-       "name": "杨玉成",
-       "title": "董事长",
-       "pay": null
-      },
-      {
-       "name": "龚兴峰",
-       "title": "总经理",
-       "pay": null
-      },
-      {
-       "name": "刘智勇",
-       "title": "董事会秘书",
-       "pay": null
-      }
-     ],
-     "pledge_ratio_total": null,
-     "unlock_12m": []
-    },
-    "dividends": {
-     "annual": [
-      {
-       "fiscal_year": 2021,
-       "dps_pretax": 1.44,
-       "total_amount": 4492147104.0,
-       "payout_ratio": 30.05,
-       "dividend_yield": null,
-       "ex_date": "2022-08-10"
-      },
-      {
-       "fiscal_year": 2022,
-       "dps_pretax": 1.08,
-       "total_amount": 3369110328.0,
-       "payout_ratio": 15.67,
-       "dividend_yield": null,
-       "ex_date": "2023-08-10"
-      },
-      {
-       "fiscal_year": 2023,
-       "dps_pretax": 0.85,
-       "total_amount": 2651614610.0,
-       "payout_ratio": 30.44,
-       "dividend_yield": null,
-       "ex_date": "2024-08-09"
-      },
-      {
-       "fiscal_year": 2024,
-       "dps_pretax": 2.53,
-       "total_amount": 7892452898.0,
-       "payout_ratio": 30.09,
-       "dividend_yield": null,
-       "ex_date": "2025-08-08"
-      },
-      {
-       "fiscal_year": 2025,
-       "dps_pretax": 2.73,
-       "total_amount": 8516362218.0,
-       "payout_ratio": 23.47,
-       "dividend_yield": null,
-       "ex_date": "2026-08-07"
-      }
-     ],
-     "consecutive_years": 5,
-     "cum_dividend_5y": 26921687158.0,
-     "cum_netprofit_5y": 107672000000.0,
-     "payout_5y": 25.0,
-     "buyback_3y": null
-    },
-    "peers": {
-     "peer_codes": [],
-     "segments": []
-    },
-    "announcements": {
-     "items": [
-      {
-       "title": "新华保险关于召开2026年第三季度业绩说明会的公告",
-       "date": "2026-10-23",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-10-23/1225617277.PDF"
-      },
-      {
-       "title": "新华保险：2026年第一次临时股东会的法律意见书",
-       "date": "2026-10-23",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-10-23/1225617276.PDF"
-      },
-      {
-       "title": "新华保险2026年第一次临时股东会决议公告",
-       "date": "2026-10-23",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-10-23/1225617269.PDF"
-      },
-      {
-       "title": "新华保险H股公告",
-       "date": "2026-10-21",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225611887.PDF"
-      },
-      {
-       "title": "新华保险H股公告",
-       "date": "2026-10-17",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225609322.PDF"
-      },
-      {
-       "title": "新华保险关于董事任职资格获核准的公告",
-       "date": "2026-10-17",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225608055.PDF"
-      },
-      {
-       "title": "新华保险第九届董事会第十三次会议决议公告",
-       "date": "2026-10-10",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-10-10/1225598615.PDF"
-      },
-      {
-       "title": "新华保险H股公告",
-       "date": "2026-10-01",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225589969.PDF"
-      },
-      {
-       "title": "新华保险2026年第一次临时股东会会议材料",
-       "date": "2026-09-29",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225584659.PDF"
-      },
-      {
-       "title": "新华保险关于召开2026年第一次临时股东会的通知",
-       "date": "2026-09-29",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225584109.PDF"
-      },
-      {
-       "title": "新华保险第九届董事会第十二次会议决议公告",
-       "date": "2026-09-19",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-09-19/1225571751.PDF"
-      },
-      {
-       "title": "新华保险H股公告",
-       "date": "2026-09-05",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-09-05/1225549968.PDF"
-      },
-      {
-       "title": "新华保险H股公告",
-       "date": "2026-09-03",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225543605.PDF"
-      },
-      {
-       "title": "新华保险关于独立董事任职资格获核准的公告",
-       "date": "2026-08-29",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225524777.PDF"
-      },
-      {
-       "title": "新华保险2026年半年度报告摘要",
-       "date": "2026-08-27",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225511838.PDF"
-      },
-      {
-       "title": "新华保险2026年度中期利润分配方案公告",
-       "date": "2026-08-27",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225511747.PDF"
-      },
-      {
-       "title": "新华保险第九届董事会第十一次会议决议公告",
-       "date": "2026-08-27",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225511740.PDF"
-      },
-      {
-       "title": "新华保险2026年半年度报告",
-       "date": "2026-08-27",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225511713.PDF"
-      },
-      {
-       "title": "新华保险关于召开2026年中期业绩发布会的公告",
-       "date": "2026-08-19",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225479091.PDF"
-      },
-      {
-       "title": "新华保险H股公告",
-       "date": "2026-08-15",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-08-15/1225473924.PDF"
-      }
-     ],
-     "count_12m": 93
-    },
-    "qa": {
-     "items": [],
-     "count_12m": null
-    },
-    "_extras": {
-     "announcements": {
-      "fetched_at": "2026-10-27T17:29:30+08:00",
-      "error": null
-     },
-     "qa": {
-      "fetched_at": "2026-10-27T17:30:01+08:00",
-      "error": null
-     }
-    },
-    "review": {
-     "reviewer": "Claude（代 tengziki 复核）",
-     "note": "对照巨潮 2025 年报摘要与 2026 半年报摘要：营收、归母净利、加权 ROE、EPS、每股净资产、总资产、2025 财年每股派息（中期 0.67+末期 2.06 元）、股东户数、前十大股东持股一致；机构持股留空；申万二级按东财三级分类映射（与已核实同行一致）；business_summary 依公司概况改写",
-     "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
-     "fetched_at": "2026-10-27T16:17:51+08:00",
-     "reviewed_at": "2026-10-27T17:36:08+08:00"
-    }
-   }
-  },
-  "601009.SH": {
-   "status": "verified_snapshot",
-   "profile": {
-    "identity": {
-     "code": "601009",
-     "exchange": "SH",
-     "board": "主板",
-     "name_full": "南京银行股份有限公司",
-     "name_abbr": "南京银行",
-     "aliases": [],
-     "name_en": "Bank Of Nanjing Co.,Ltd.",
-     "former_names": [],
-     "industry_sw1": "银行",
-     "industry_sw2": "城商行Ⅱ",
-     "list_date": "2007-07-19",
-     "found_date": "1996-02-06",
-     "province": "江苏",
-     "city": null,
-     "website": "www.njcb.com.cn",
-     "chairman": "谢宁",
-     "employees": 17684,
-     "business_summary": "吸收公众存款",
-     "profile": "南京银行股份有限公司成立于1996年2月8日,是全国20家系统重要性银行之一,是一家具有独立法人资格的股份制商业银行和上市银行,实行一级法人经营管理体制。\r\n    南京银行坚持发展为要。历经两次更名,先后于2001年、2005年引入国际金融公司和法国巴黎银行入股,在全国城商行中率先启动上市辅导程序并于2007年在主板成功上市。位列英国《银行家》杂志公布的全球1000家大银行第86位。\r\n    南京银行强化战略执行。成立29年来,始终坚守做强做精做出特色,致力于打造国内一流的区域综合金融服务商的战略愿景。按照自身发展规划,推动业务平稳较快增长,风险管控不断加强,资产质量稳定优异,经营效益稳步提升,综合实力显著增强。注重深化公司治理,优化战略股东结构,加强资本规划管理,保持股东良好回报。同时加大信息科技投入,推动数字化转型,强化数字赋能和场景应用。\r\n    南京银行深化机构建设。自2007年设立第一家分行以来,跨区域经营不断推进,先后设立了泰州、上海、无锡、北京、南通、杭州、扬州、苏州、常州、盐城、南京、镇江、宿迁、连云港、江北新区、徐州、淮安17家分行,2016年实现京沪杭及江苏省内设区市全覆盖,2023年实现江苏省县域网点全覆盖。\r\n    南京银行丰富经营布局。在全国率先尝试城商行异地参股其他城商行的发展模式,参股日照银行并成为其第一大股东。入股江苏金融租赁有限公司,芜湖津盛农村商业银行,发起设立宜兴阳羡、昆山鹿城两家村镇银行。2013年投资组建鑫元基金管理有限公司,2020年全资设立南银理财有限责任公司,2022年控股南银法巴消费金融有限公司,在探索综合化经营的道路上不断向前迈进。2013年主发起成立紫金山.鑫合,下设8大专委会,成员行超130家。\r\n    南京银行勇担社会责任。践行“责任金融和谐共赢”的文化理念,让金融的增益更多普惠社会。连续十余年开展“圆梦行动”,累计捐资助学1870万元,帮助2900多名学子圆梦大学。",
+     "website": "www.inovance.com",
+     "chairman": "朱兴明",
+     "employees": 27292,
+     "business_summary": "工业自动控制系统装置制造",
+     "profile": "深圳市汇川技术股份有限公司(股票代码:SZ.300124)(以下简称“汇川技术”)成立于2003年,是一家全球领先、创新驱动的工业科技集团。汇川技术依托在自动化、数字化、智能化领域的深厚技术积淀,构建起工业自动化与数字化、新能源汽车动力系统、智能机器人、数字能源四大技术同源、协同发展的业务生态,致力于为全球客户提供智能、高效、绿色、安全的综合产品和解决方案。公司总部位于深圳,生产基地位于苏州、岳阳、南京、上海、济南、嘉兴、长春、匈牙利等地,并在全球30多个国家和地区设有常驻机构和服务中心。汇川技术聚焦工业领域的自动化、数字化、智能化,在\"数字层、边缘层、控制层、驱动层、执行层、传感层\"形成贯通式布局,持续为工业客户提供\"用得起、用得好、易部署、易升级\"的数自融合解决方案。",
      "st_status": null,
      "audit_opinion": "标准无保留意见"
     },
@@ -1495,221 +1495,221 @@
       {
        "fiscal_year": 2021,
        "report_date": "2021-12-31",
-       "revenue": 40925185000.0,
-       "revenue_yoy": 18.74,
-       "net_profit": 15856757000.0,
-       "net_profit_yoy": 21.04,
-       "net_profit_deducted": 15724158000.0,
-       "gross_margin": null,
-       "net_margin": 39.01,
-       "eps": 1.54,
-       "bvps": 12.13,
-       "roe": 14.85,
-       "roa": 0.98,
-       "debt_ratio": 92.99,
-       "total_liab": 1626381955000.0,
-       "total_assets": 1748985864071,
+       "revenue": 17943256595.0,
+       "revenue_yoy": 55.87,
+       "net_profit": 3573404586.0,
+       "net_profit_yoy": 70.15,
+       "net_profit_deducted": 2918331534.0,
+       "gross_margin": 35.82,
+       "net_margin": 20.51,
+       "eps": 1.37,
+       "bvps": 6.03,
+       "roe": 27.35,
+       "roa": 16.02,
+       "debt_ratio": 40.19,
+       "total_liab": 10973608555.0,
+       "total_assets": 27304325840,
        "ocf_to_np": null,
-       "ocf": 120648546000.0
+       "ocf": 1766024032.95
       },
       {
        "fiscal_year": 2022,
        "report_date": "2022-12-31",
-       "revenue": 44606440000.0,
-       "revenue_yoy": 9.0,
-       "net_profit": 18408039000.0,
-       "net_profit_yoy": 16.09,
-       "net_profit_deducted": 18088015000.0,
-       "gross_margin": null,
-       "net_margin": 41.57,
-       "eps": 1.76,
-       "bvps": 12.22,
-       "roe": 15.12,
-       "roa": 0.97,
-       "debt_ratio": 92.34,
-       "total_liab": 1901784904000.0,
-       "total_assets": 2059546138185,
+       "revenue": 23008312443.0,
+       "revenue_yoy": 28.23,
+       "net_profit": 4319762362.0,
+       "net_profit_yoy": 20.89,
+       "net_profit_deducted": 3389133196.0,
+       "gross_margin": 35.01,
+       "net_margin": 18.8,
+       "eps": 1.64,
+       "bvps": 7.45,
+       "roe": 24.31,
+       "roa": 13.0,
+       "debt_ratio": 48.71,
+       "total_liab": 19100064464.0,
+       "total_assets": 39211793192,
        "ocf_to_np": null,
-       "ocf": 97820568000.0
+       "ocf": 3200830470.94
       },
       {
        "fiscal_year": 2023,
        "report_date": "2023-12-31",
-       "revenue": 45159511000.0,
-       "revenue_yoy": 1.24,
-       "net_profit": 18502084000.0,
-       "net_profit_yoy": 0.51,
-       "net_profit_deducted": 17925437000.0,
-       "gross_margin": null,
-       "net_margin": 41.25,
-       "eps": 1.68,
-       "bvps": 13.5,
-       "roe": 13.12,
-       "roa": 0.86,
-       "debt_ratio": 92.46,
-       "total_liab": 2115681851000.0,
-       "total_assets": 2288213120268,
+       "revenue": 30419925398.0,
+       "revenue_yoy": 32.21,
+       "net_profit": 4741863347.0,
+       "net_profit_yoy": 9.77,
+       "net_profit_deducted": 4071177195.0,
+       "gross_margin": 32.34,
+       "net_margin": 15.7,
+       "eps": 1.78,
+       "bvps": 9.15,
+       "roe": 21.66,
+       "roa": 10.83,
+       "debt_ratio": 48.93,
+       "total_liab": 23956572496.0,
+       "total_assets": 48960908432,
        "ocf_to_np": null,
-       "ocf": 37058939000.0
+       "ocf": 3369915897.12
       },
       {
        "fiscal_year": 2024,
        "report_date": "2024-12-31",
-       "revenue": 50273070000.0,
-       "revenue_yoy": 11.32,
-       "net_profit": 20176728000.0,
-       "net_profit_yoy": 9.05,
-       "net_profit_deducted": 19936761000.0,
-       "gross_margin": null,
-       "net_margin": 40.51,
-       "eps": 1.83,
-       "bvps": 14.33,
-       "roe": 12.97,
-       "roa": 0.83,
-       "debt_ratio": 92.59,
-       "total_liab": 2399443325000.0,
-       "total_assets": 2591471352198,
+       "revenue": 37040952139.0,
+       "revenue_yoy": 21.77,
+       "net_profit": 4285493341.0,
+       "net_profit_yoy": -9.62,
+       "net_profit_deducted": 4035832166.0,
+       "gross_margin": 28.7,
+       "net_margin": 11.73,
+       "eps": 1.6,
+       "bvps": 10.4,
+       "roe": 16.52,
+       "roa": 8.19,
+       "debt_ratio": 50.28,
+       "total_liab": 28749693436.0,
+       "total_assets": 57179183445,
        "ocf_to_np": null,
-       "ocf": -65795334000.0
+       "ocf": 7200440164.32
       },
       {
        "fiscal_year": 2025,
        "report_date": "2025-12-31",
-       "revenue": 55541916000.0,
-       "revenue_yoy": 10.48,
-       "net_profit": 21807089000.0,
-       "net_profit_yoy": 8.08,
-       "net_profit_deducted": 21677029000.0,
-       "gross_margin": null,
-       "net_margin": 39.71,
-       "eps": 1.76,
-       "bvps": 14.66,
-       "roe": 12.05,
-       "roa": 0.79,
-       "debt_ratio": 93.04,
-       "total_liab": 2811515075000.0,
-       "total_assets": 3021834775365,
+       "revenue": 45104844200.0,
+       "revenue_yoy": 21.77,
+       "net_profit": 5050002090.0,
+       "net_profit_yoy": 17.84,
+       "net_profit_deducted": 4950505397.0,
+       "gross_margin": 28.95,
+       "net_margin": 11.47,
+       "eps": 1.87,
+       "bvps": 13.06,
+       "roe": 16.34,
+       "roa": 8.05,
+       "debt_ratio": 47.93,
+       "total_liab": 34179582787.0,
+       "total_assets": 71311460019,
        "ocf_to_np": null,
-       "ocf": 210207864000.0
+       "ocf": 6681025417.16
       }
      ],
      "latest": {
       "report_period": "2026-09-30",
       "report_type": "2026年三季报",
-      "revenue": 47190007000.0,
-      "revenue_yoy": 12.49,
-      "net_profit": 19450694000.0,
-      "net_profit_yoy": 8.03,
-      "net_profit_deducted": 19485707000.0,
-      "gross_margin": null,
-      "net_margin": 41.46,
-      "eps": 1.56,
-      "roe": 10.14,
-      "debt_ratio": 93.25,
-      "ocf": 105133089000.0
+      "revenue": 37956228271.0,
+      "revenue_yoy": 19.88,
+      "net_profit": 4398491948.0,
+      "net_profit_yoy": 3.38,
+      "net_profit_deducted": 3907423188.0,
+      "gross_margin": 28.24,
+      "net_margin": 11.59,
+      "eps": 1.63,
+      "roe": 11.89,
+      "debt_ratio": 47.6,
+      "ocf": 895481500.32
      },
      "derived": {
-      "revenue_cagr_3y": 7.58,
-      "net_profit_cagr_3y": 5.81,
+      "revenue_cagr_3y": 25.15,
+      "net_profit_cagr_3y": 5.34,
       "receivables_to_revenue": null,
       "goodwill_to_equity": null
      }
     },
     "shareholders": {
-     "controller": null,
+     "controller": "朱兴明",
      "controlling_shareholder": null,
      "controlling_ratio": null,
      "top10": [
       {
        "rank": 1,
-       "name": "法国巴黎银行(含QFII)",
-       "hold_num": 2275312179.0,
-       "hold_ratio": 18.4,
-       "hold_num_change": 31975621.0
+       "name": "深圳市汇川投资有限公司",
+       "hold_num": 466043804.0,
+       "hold_ratio": 17.2,
+       "hold_num_change": 0
       },
       {
        "rank": 2,
-       "name": "江苏交通控股有限公司",
-       "hold_num": 1854535105.0,
-       "hold_ratio": 15.0,
-       "hold_num_change": 0
+       "name": "香港中央结算有限公司",
+       "hold_num": 399873984.0,
+       "hold_ratio": 14.76,
+       "hold_num_change": -130209935.0
       },
       {
        "rank": 3,
-       "name": "南京紫金投资集团有限责任公司",
-       "hold_num": 1407552588.0,
-       "hold_ratio": 11.38,
-       "hold_num_change": 0
+       "name": "刘国伟",
+       "hold_num": 77725170.0,
+       "hold_ratio": 2.87,
+       "hold_num_change": 600.0
       },
       {
        "rank": 4,
-       "name": "南京高科股份有限公司",
-       "hold_num": 1236356694.0,
-       "hold_ratio": 9.99,
+       "name": "李俊田",
+       "hold_num": 75919995.0,
+       "hold_ratio": 2.8,
        "hold_num_change": 0
       },
       {
        "rank": 5,
-       "name": "中国烟草总公司江苏省公司(江苏省烟草公司)",
-       "hold_num": 471583361.0,
-       "hold_ratio": 3.81,
-       "hold_num_change": 0
+       "name": "赵锦荣",
+       "hold_num": 64864948.0,
+       "hold_ratio": 2.39,
+       "hold_num_change": 5683915.0
       },
       {
        "rank": 6,
-       "name": "幸福人寿保险股份有限公司-自有",
-       "hold_num": 406792306.0,
-       "hold_ratio": 3.29,
-       "hold_num_change": 0
+       "name": "唐柱学",
+       "hold_num": 59591990.0,
+       "hold_ratio": 2.2,
+       "hold_num_change": -15000.0
       },
       {
        "rank": 7,
-       "name": "紫金信托有限责任公司",
-       "hold_num": 339543782.0,
-       "hold_ratio": 2.75,
+       "name": "刘迎新",
+       "hold_num": 52627869.0,
+       "hold_ratio": 1.94,
        "hold_num_change": 0
       },
       {
        "rank": 8,
-       "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
-       "hold_num": 333804433.0,
-       "hold_ratio": 2.7,
-       "hold_num_change": -13141054.0
+       "name": "李芬",
+       "hold_num": 41385074.0,
+       "hold_ratio": 1.53,
+       "hold_num_change": 0
       },
       {
        "rank": 9,
-       "name": "香港中央结算有限公司",
-       "hold_num": 309369400.0,
-       "hold_ratio": 2.5,
-       "hold_num_change": 87666058.0
+       "name": "杨春禄",
+       "hold_num": 41322386.0,
+       "hold_ratio": 1.52,
+       "hold_num_change": 0
       },
       {
        "rank": 10,
-       "name": "东部机场集团投资有限公司",
-       "hold_num": 288489506.0,
-       "hold_ratio": 2.33,
+       "name": "刘宇川",
+       "hold_num": 38579234.0,
+       "hold_ratio": 1.42,
        "hold_num_change": 0
       }
      ],
      "top10_date": "2026-09-30",
-     "holder_num": 67743.0,
-     "holder_num_change_pct": -10.2,
-     "holder_num_date": "2026-09-30",
+     "holder_num": 192018.0,
+     "holder_num_change_pct": 1.12,
+     "holder_num_date": "2026-10-20",
      "inst_hold_ratio": null,
-     "northbound_ratio": 2.5,
+     "northbound_ratio": 14.76,
      "executives": [
       {
-       "name": "谢宁",
+       "name": "朱兴明",
        "title": "董事长",
        "pay": null
       },
       {
-       "name": "朱钢",
+       "name": "朱兴明",
        "title": "总经理",
        "pay": null
       },
       {
-       "name": "江志纯",
+       "name": "宋君恩",
        "title": "董事会秘书",
        "pay": null
       }
@@ -1721,93 +1721,93 @@
      "annual": [
       {
        "fiscal_year": 2021,
-       "dps_pretax": 0.4616,
-       "total_amount": 4757328671.56,
-       "payout_ratio": 30.0,
+       "dps_pretax": 0.3,
+       "total_amount": 790886092.8,
+       "payout_ratio": 22.13,
        "dividend_yield": null,
-       "ex_date": "2022-06-17"
+       "ex_date": "2022-06-29"
       },
       {
        "fiscal_year": 2022,
-       "dps_pretax": 0.5339,
-       "total_amount": 5522519010.26,
-       "payout_ratio": 30.0,
+       "dps_pretax": 0.36,
+       "total_amount": 958012803.36,
+       "payout_ratio": 22.18,
        "dividend_yield": null,
-       "ex_date": "2023-06-21"
+       "ex_date": "2023-06-12"
       },
       {
        "fiscal_year": 2023,
-       "dps_pretax": 0.5367,
-       "total_amount": 5551488997.19,
-       "payout_ratio": 30.0,
+       "dps_pretax": 0.45,
+       "total_amount": 1205163936.45,
+       "payout_ratio": 25.42,
        "dividend_yield": null,
-       "ex_date": "2024-06-14"
+       "ex_date": "2024-05-30"
       },
       {
        "fiscal_year": 2024,
-       "dps_pretax": 0.5456,
-       "total_amount": 6054473922.06,
-       "payout_ratio": 30.01,
+       "dps_pretax": 0.41,
+       "total_amount": 1105071754.83,
+       "payout_ratio": 25.79,
        "dividend_yield": null,
-       "ex_date": "2025-06-23"
+       "ex_date": "2025-06-06"
       },
       {
        "fiscal_year": 2025,
-       "dps_pretax": 0.5292,
-       "total_amount": 6542181607.69,
-       "payout_ratio": 30.0,
+       "dps_pretax": 0.5,
+       "total_amount": 1353801972.0,
+       "payout_ratio": 26.81,
        "dividend_yield": null,
-       "ex_date": "2026-06-15"
+       "ex_date": "2026-06-04"
       }
      ],
      "consecutive_years": 5,
-     "cum_dividend_5y": 28427992208.760002,
-     "cum_netprofit_5y": 94750697000.0,
-     "payout_5y": 30.0,
+     "cum_dividend_5y": 5412936559.44,
+     "cum_netprofit_5y": 21970525726.0,
+     "payout_5y": 24.64,
      "buyback_3y": null
     },
     "peers": {
      "peer_codes": [],
      "segments": [
       {
-       "name": "公司银行业务",
-       "revenue": 24538964000.0,
-       "ratio": 44.18,
+       "name": "工业自动化与数字化",
+       "revenue": 22245401986.97,
+       "ratio": 49.32,
        "type": "product",
        "period": "2025年报"
       },
       {
-       "name": "个人银行业务",
-       "revenue": 16713838000.0,
-       "ratio": 30.09,
+       "name": "新能源汽车动力系统",
+       "revenue": 20322581832.31,
+       "ratio": 45.06,
        "type": "product",
        "period": "2025年报"
       },
       {
-       "name": "资金业务",
-       "revenue": 14068234000.0,
-       "ratio": 25.33,
+       "name": "新兴产业",
+       "revenue": 1795019255.76,
+       "ratio": 3.98,
        "type": "product",
        "period": "2025年报"
       },
       {
-       "name": "其他业务",
-       "revenue": 220880000.0,
-       "ratio": 0.4,
+       "name": "其他",
+       "revenue": 741841125.09,
+       "ratio": 1.64,
        "type": "product",
        "period": "2025年报"
       },
       {
-       "name": "江苏地区",
-       "revenue": 51504809000.0,
-       "ratio": 92.73,
+       "name": "中国内地",
+       "revenue": 42455952295.1,
+       "ratio": 94.13,
        "type": "region",
        "period": "2025年报"
       },
       {
-       "name": "其他地区",
-       "revenue": 4037107000.0,
-       "ratio": 7.27,
+       "name": "境外",
+       "revenue": 2648891905.03,
+       "ratio": 5.87,
        "type": "region",
        "period": "2025年报"
       }
@@ -1816,155 +1816,155 @@
     "announcements": {
      "items": [
       {
-       "title": "独立董事提名人声明与承诺（刘晓星）",
-       "date": "2026-10-29",
+       "title": "第六届董事会第二十次会议决议公告",
+       "date": "2026-10-27",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636653.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-27/1225623211.PDF"
       },
       {
-       "title": "南京银行股份有限公司关于召开2026年第三季度业绩说明会的公告",
-       "date": "2026-10-29",
+       "title": "2026年三季度报告",
+       "date": "2026-10-27",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636651.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-27/1225623209.PDF"
       },
       {
-       "title": "独立董事候选人声明与承诺（刘晓星）",
-       "date": "2026-10-29",
+       "title": "关于2026年中期利润分配方案的公告",
+       "date": "2026-10-27",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636647.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-27/1225623208.PDF"
       },
       {
-       "title": "南京银行股份有限公司信息披露暂缓与豁免管理办法",
-       "date": "2026-10-29",
+       "title": "关于2026年前三季度计提资产减值准备的公告",
+       "date": "2026-10-26",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636641.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-26/1225627010.PDF"
       },
       {
-       "title": "南京银行股份有限公司第十届董事会第二十三次会议决议公告",
-       "date": "2026-10-29",
+       "title": "关于召开2026年第三季度业绩说明会的公告",
+       "date": "2026-10-19",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636637.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-19/1225610212.PDF"
       },
       {
-       "title": "南京银行股份有限公司关于召开2026年第一次临时股东会的通知",
-       "date": "2026-10-29",
+       "title": "第六届董事会第十九次会议决议公告",
+       "date": "2026-10-14",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636623.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225604454.PDF"
       },
       {
-       "title": "南京银行股份有限公司2026年第三季度报告",
-       "date": "2026-10-29",
+       "title": "关于深圳市汇川技术股份有限公司第八期股权激励计划调整及首次授予相关事项的法律意见书",
+       "date": "2026-10-14",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636622.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225604457.PDF"
       },
       {
-       "title": "南京银行股份有限公司2026年中期利润分配方案公告",
-       "date": "2026-10-29",
+       "title": "第六届董事会薪酬与考核委员会关于第六届董事会第十九次会议相关事项的核查意见",
+       "date": "2026-10-14",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636619.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225604456.PDF"
       },
       {
-       "title": "南京银行股份有限公司关于董事辞任的公告",
-       "date": "2026-09-22",
+       "title": "关于调整第八期股权激励计划相关事项并向激励对象首次授予第二类限制性股票与股票期权的公告",
+       "date": "2026-10-14",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225574573.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225604455.PDF"
       },
       {
-       "title": "南京银行股份有限公司关于独立董事辞任的公告",
-       "date": "2026-09-16",
+       "title": "关于第七期股权激励计划首次授予股票期权第二个行权期采用自主行权模式开始行权的提示性公告",
+       "date": "2026-10-14",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-09-16/1225565153.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225603353.PDF"
       },
       {
-       "title": "南京银行股份有限公司关于优先股全部赎回及摘牌完成的公告",
-       "date": "2026-09-09",
+       "title": "关于注销部分回购股份减少注册资本暨通知债权人的公告",
+       "date": "2026-10-13",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-09-09/1225553728.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225603811.PDF"
       },
       {
-       "title": "南京银行股份有限公司第十届董事会第二十二次会议决议公告",
-       "date": "2026-09-09",
+       "title": "公司章程（2026年10月）",
+       "date": "2026-10-13",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-09-09/1225553725.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225603810.PDF"
       },
       {
-       "title": "南京银行股份有限公司关于优先股停牌的提示性公告",
-       "date": "2026-09-02",
+       "title": "关于第八期股权激励计划内幕信息知情人及激励对象买卖公司股票的自查报告",
+       "date": "2026-10-13",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-09-02/1225542358.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225603807.PDF"
       },
       {
-       "title": "南京银行股份有限公司关于优先股全部赎回及摘牌的公告",
-       "date": "2026-09-02",
+       "title": "上海锦天城（广州）律师事务所关于深圳市汇川技术股份有限公司2026年第二次临时股东会之法律意见书",
+       "date": "2026-10-13",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-09-02/1225542357.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225603809.PDF"
       },
       {
-       "title": "南京银行股份有限公司关于高级管理人员辞任的公告",
-       "date": "2026-09-02",
+       "title": "2026年第二次临时股东会决议公告",
+       "date": "2026-10-13",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-09-02/1225542348.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225603808.PDF"
       },
       {
-       "title": "南京银行股份有限公司优先股股息发放实施公告",
-       "date": "2026-08-28",
+       "title": "关于为全资子公司提供担保的进展公告",
+       "date": "2026-10-12",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225521181.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-12/1225600860.PDF"
       },
       {
-       "title": "南京银行股份有限公司关于赎回优先股的第三次提示性公告",
-       "date": "2026-08-28",
+       "title": "第六届董事会薪酬与考核委员会关于第八期股权激励计划首次授予激励对象名单的审核及公示情况说明",
+       "date": "2026-10-08",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225521177.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225596796.PDF"
       },
       {
-       "title": "南京银行股份有限公司关于赎回优先股的第二次提示性公告",
-       "date": "2026-08-22",
+       "title": "关于回购公司股份的进展公告",
+       "date": "2026-10-08",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225489156.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225596797.PDF"
       },
       {
-       "title": "南京银行股份有限公司2026年半年度报告摘要",
-       "date": "2026-08-19",
+       "title": "关于第七期股权激励计划首次授予部分股票期权注销完成的公告",
+       "date": "2026-09-30",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225480717.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225589728.PDF"
       },
       {
-       "title": "南京银行股份有限公司信息披露事务管理制度",
-       "date": "2026-08-19",
+       "title": "关于公司第一大股东增持公司股份计划的公告",
+       "date": "2026-09-24",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225480714.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225581105.PDF"
       }
      ],
-     "count_12m": 99
+     "count_12m": 155
     },
     "qa": {
      "items": []
     },
     "_extras": {
      "announcements": {
-      "fetched_at": "2026-10-29T11:36:05+08:00",
+      "fetched_at": "2026-10-29T11:36:03+08:00",
       "error": null
      },
      "qa": {
-      "fetched_at": "2026-10-30T00:00:42+08:00",
-      "error": null
+      "fetched_at": null,
+      "error": "Unsupported 互动易需要巨潮 orgId"
      }
     },
     "review": {
      "reviewer": "自动复核（scripts/auto_review.py）",
      "note": "与巨潮年报摘要交叉核对营收、归母净利润与审计意见",
      "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
-     "fetched_at": "2026-10-30T00:21:13+08:00",
-     "reviewed_at": "2026-10-30T00:31:09+08:00",
+     "fetched_at": "2026-10-30T00:27:05+08:00",
+     "reviewed_at": "2026-10-30T00:31:12+08:00",
      "method": "auto",
      "checks": {
-      "revenue": "2025 年营业收入与《南京银行股份有限公司2025年年度报告摘要》一致（差 0.00%）",
-      "net_profit": "2025 年归母净利润与《南京银行股份有限公司2025年年度报告摘要》一致（差 0.00%）",
+      "revenue": "2025 年营业收入与《2025年年度报告摘要》一致（差 0.00%）",
+      "net_profit": "2025 年归母净利润与《2025年年度报告摘要》一致（差 0.00%）",
       "audit_opinion": "2025 年报审计意见：标准无保留意见"
      },
      "sources": [
-      "https://static.cninfo.com.cn/finalpage/2026-04-23/1225157431.PDF"
+      "https://static.cninfo.com.cn/finalpage/2026-04-28/1225208487.PDF"
      ]
     }
    }
@@ -2515,6 +2515,970 @@
     }
    }
   },
+  "601600.SH": {
+   "status": "verified_snapshot",
+   "profile": {
+    "identity": {
+     "code": "601600",
+     "exchange": "SH",
+     "board": "主板",
+     "name_full": "中国铝业股份有限公司",
+     "name_abbr": "中国铝业",
+     "aliases": [],
+     "name_en": "Aluminum Corporation of China Limited",
+     "former_names": [],
+     "industry_sw1": "有色金属",
+     "industry_sw2": "工业金属",
+     "list_date": "2007-04-30",
+     "province": "北京",
+     "city": null,
+     "website": "www.chalco.com.cn",
+     "chairman": "何文建",
+     "employees": 60814,
+     "business_summary": "2001 年成立的中铝集团核心控股子公司，A+H 股上市，全球最大的氧化铝、电解铝、精细氧化铝、高纯铝和金属镓生产供应商，拥有铝行业完整产业链。",
+     "profile": "中国铝业股份有限公司(简称中铝股份)注册成立于2001年9月10日,是中铝集团核心控股子公司,为全球最大的氧化铝、电解铝、精细氧化铝、高纯铝和金属镓生产供应商。业务涵盖了矿产资源开发,氧化铝、电解铝及铝合金、炭素、煤炭生产,高新技术推广应用,国际贸易、物资供应、物流运输,能源电力等多个领域,是全球铝行业唯一拥有完整产业链的国际化大型铝业公司。股票分别在香港(2001.12,HK02600)、上海(2007.4,601600)两地上市,其中A股被美国明晟纳入中国A股在岸指数,H股被香港恒生纳入中国企业指数。国际评级机构惠誉持续给予中铝股份“A-”全球有色金属行业最高评级,连续六年获得上海证券交易所信息披露A级评价,连续四年入选“央企ESG·先锋50指数”。另外下辖云铝股份(000807)、银星能源(000862)两个上市公司。近年来,中铝股份在中铝集团党组的坚强领导下,深入贯彻落实习近平新时代中国特色社会主义思想,坚定建设世界一流铝业公司战略目标,加快布局优化和结构调整,积极培育战略新兴产业,持续提升价值创造能力,聚力打造原创技术“策源地”和现代铝产业链“链长”,形成了新型稳流节能保温电解槽、高纯超细氮化铝、5N超细氧化铝等一批核心装备和技术,竞争力、创新力、控制力、影响力、抗风险能力显著增强,引领了行业高质量发展。近年来连续保持百亿级盈利水平,为中铝集团建设世界一流优秀有色金属企业提供了有力支撑。",
+     "st_status": null,
+     "audit_opinion": null,
+     "found_date": "2001-09-10"
+    },
+    "financials": {
+     "unit": "CNY",
+     "annual": [
+      {
+       "fiscal_year": 2021,
+       "report_date": "2021-12-31",
+       "revenue": 298885350000.0,
+       "revenue_yoy": 60.7,
+       "net_profit": 5759422000.0,
+       "net_profit_yoy": 653.55,
+       "net_profit_deducted": 7028314000.0,
+       "gross_margin": 12.27,
+       "net_margin": 3.79,
+       "eps": 0.326,
+       "bvps": 3.22,
+       "roe": 9.86,
+       "roa": 5.39,
+       "debt_ratio": 60.11,
+       "total_liab": 135165255000.0,
+       "total_assets": 224863175844,
+       "ocf_to_np": null
+      },
+      {
+       "fiscal_year": 2022,
+       "report_date": "2022-12-31",
+       "revenue": 290987942000.0,
+       "revenue_yoy": -2.64,
+       "net_profit": 4192068000.0,
+       "net_profit_yoy": -27.21,
+       "net_profit_deducted": 3130693000.0,
+       "gross_margin": 11.47,
+       "net_margin": 3.73,
+       "eps": 0.239,
+       "bvps": 3.05,
+       "roe": 6.9,
+       "roa": 4.96,
+       "debt_ratio": 58.67,
+       "total_liab": 124593412000.0,
+       "total_assets": 212363068007,
+       "ocf_to_np": null
+      },
+      {
+       "fiscal_year": 2023,
+       "report_date": "2023-12-31",
+       "revenue": 225319044000.0,
+       "revenue_yoy": -22.57,
+       "net_profit": 6689067000.0,
+       "net_profit_yoy": 59.56,
+       "net_profit_deducted": 6582050000.0,
+       "gross_margin": 12.87,
+       "net_margin": 5.57,
+       "eps": 0.389,
+       "bvps": 3.41,
+       "roe": 11.93,
+       "roa": 5.92,
+       "debt_ratio": 53.27,
+       "total_liab": 112866670000.0,
+       "total_assets": 211876609724,
+       "ocf_to_np": null
+      },
+      {
+       "fiscal_year": 2024,
+       "report_date": "2024-12-31",
+       "revenue": 237109210000.0,
+       "revenue_yoy": 5.23,
+       "net_profit": 12394500000.0,
+       "net_profit_yoy": 85.29,
+       "net_profit_deducted": 11973653000.0,
+       "gross_margin": 15.75,
+       "net_margin": 8.17,
+       "eps": 0.722,
+       "bvps": 3.97,
+       "roe": 19.25,
+       "roa": 9.06,
+       "debt_ratio": 48.11,
+       "total_liab": 103887142000.0,
+       "total_assets": 215936690917,
+       "ocf_to_np": null
+      },
+      {
+       "fiscal_year": 2025,
+       "report_date": "2025-12-31",
+       "revenue": 241125217000.0,
+       "revenue_yoy": 1.69,
+       "net_profit": 12673918000.0,
+       "net_profit_yoy": 2.25,
+       "net_profit_deducted": 12464049000.0,
+       "gross_margin": 18.03,
+       "net_margin": 8.93,
+       "eps": 0.74,
+       "bvps": 4.37,
+       "roe": 17.64,
+       "roa": 9.72,
+       "debt_ratio": 46.01,
+       "total_liab": 104450072000.0,
+       "total_assets": 227016022604,
+       "ocf_to_np": null
+      }
+     ],
+     "latest": {
+      "report_period": "2026-06-30",
+      "report_type": "2026年中报",
+      "revenue": 125413186000.0,
+      "revenue_yoy": 7.74,
+      "net_profit": 11871383000.0,
+      "net_profit_yoy": 67.91,
+      "net_profit_deducted": 11649530000.0,
+      "gross_margin": 26.94,
+      "net_margin": 17.14,
+      "eps": 0.693,
+      "roe": 14.67,
+      "debt_ratio": 42.76
+     },
+     "derived": {
+      "revenue_cagr_3y": -6.07,
+      "net_profit_cagr_3y": 44.6,
+      "receivables_to_revenue": null,
+      "goodwill_to_equity": null
+     }
+    },
+    "shareholders": {
+     "controller": "国务院国有资产监督管理委员会",
+     "controlling_shareholder": null,
+     "controlling_ratio": null,
+     "top10": [
+      {
+       "rank": 1,
+       "name": "中国铝业集团有限公司",
+       "hold_num": 5235235416.0,
+       "hold_ratio": 30.52,
+       "hold_num_change": null
+      },
+      {
+       "rank": 2,
+       "name": "香港中央结算(代理人)有限公司",
+       "hold_num": 3937187589.0,
+       "hold_ratio": 22.95,
+       "hold_num_change": 619900.0
+      },
+      {
+       "rank": 3,
+       "name": "香港中央结算有限公司",
+       "hold_num": 755938955.0,
+       "hold_ratio": 4.41,
+       "hold_num_change": 276202133.0
+      },
+      {
+       "rank": 4,
+       "name": "包头铝业(集团)有限责任公司",
+       "hold_num": 238377795.0,
+       "hold_ratio": 1.39,
+       "hold_num_change": null
+      },
+      {
+       "rank": 5,
+       "name": "中信证券-华融瑞通股权投资管理有限公司-中信证券-长风单一资产管理计划",
+       "hold_num": 224431370.0,
+       "hold_ratio": 1.31,
+       "hold_num_change": -27108446.0
+      },
+      {
+       "rank": 6,
+       "name": "中铝海外控股有限公司",
+       "hold_num": 178590000.0,
+       "hold_ratio": 1.04,
+       "hold_num_change": null
+      },
+      {
+       "rank": 7,
+       "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+       "hold_num": 164797867.0,
+       "hold_ratio": 0.96,
+       "hold_num_change": 29780078.0
+      },
+      {
+       "rank": 8,
+       "name": "中铝资产经营管理有限公司",
+       "hold_num": 104139337.0,
+       "hold_ratio": 0.61,
+       "hold_num_change": null
+      },
+      {
+       "rank": 9,
+       "name": "中国工商银行股份有限公司-南方中证申万有色金属交易型开放式指数证券投资基金",
+       "hold_num": 83194513.0,
+       "hold_ratio": 0.48,
+       "hold_num_change": -15959486.0
+      },
+      {
+       "rank": 10,
+       "name": "国新宏盛投资(北京)有限公司",
+       "hold_num": 72936775.0,
+       "hold_ratio": 0.43,
+       "hold_num_change": null
+      }
+     ],
+     "top10_date": "2026-06-30",
+     "holder_num": 604675.0,
+     "holder_num_change_pct": -8.26,
+     "holder_num_date": "2026-06-30",
+     "inst_hold_ratio": null,
+     "northbound_ratio": 4.41,
+     "executives": [
+      {
+       "name": "何文建",
+       "title": "董事长",
+       "pay": null
+      },
+      {
+       "name": "张瑞忠",
+       "title": "总经理",
+       "pay": null
+      },
+      {
+       "name": "朱丹",
+       "title": "董事会秘书",
+       "pay": null
+      }
+     ],
+     "pledge_ratio_total": null,
+     "unlock_12m": []
+    },
+    "dividends": {
+     "annual": [
+      {
+       "fiscal_year": 2021,
+       "dps_pretax": 0.0318,
+       "total_amount": 544891195.38,
+       "payout_ratio": 9.46,
+       "dividend_yield": null,
+       "ex_date": "2022-08-19"
+      },
+      {
+       "fiscal_year": 2022,
+       "dps_pretax": 0.036,
+       "total_amount": 617817295.84,
+       "payout_ratio": 14.74,
+       "dividend_yield": null,
+       "ex_date": "2023-08-18"
+      },
+      {
+       "fiscal_year": 2023,
+       "dps_pretax": 0.08,
+       "total_amount": 1372670498.24,
+       "payout_ratio": 20.52,
+       "dividend_yield": null,
+       "ex_date": "2024-07-26"
+      },
+      {
+       "fiscal_year": 2024,
+       "dps_pretax": 0.217,
+       "total_amount": 3722843241.07,
+       "payout_ratio": 30.04,
+       "dividend_yield": null,
+       "ex_date": "2025-08-08"
+      },
+      {
+       "fiscal_year": 2025,
+       "dps_pretax": 0.27,
+       "total_amount": 4631923530.66,
+       "payout_ratio": 36.55,
+       "dividend_yield": null,
+       "ex_date": "2026-08-14"
+      }
+     ],
+     "consecutive_years": 6,
+     "cum_dividend_5y": 10890145761.19,
+     "cum_netprofit_5y": 41708975000.0,
+     "payout_5y": 26.11,
+     "buyback_3y": null
+    },
+    "peers": {
+     "peer_codes": [],
+     "segments": []
+    },
+    "announcements": {
+     "items": [
+      {
+       "title": "H股公告：董事会召开日期",
+       "date": "2026-10-16",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225606771.PDF"
+      },
+      {
+       "title": "中国铝业2026年半年度权益分派实施公告",
+       "date": "2026-10-16",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225606290.PDF"
+      },
+      {
+       "title": "中国铝业截至二零二六年九月三十日止股份发行人的证券变动月报表",
+       "date": "2026-10-01",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225590306.PDF"
+      },
+      {
+       "title": "中国铝业关于召开2026年半年度业绩说明会的公告",
+       "date": "2026-10-01",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225589931.PDF"
+      },
+      {
+       "title": "中国铝业2026年第二次临时股东会决议公告",
+       "date": "2026-09-24",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225579208.PDF"
+      },
+      {
+       "title": "北京金诚同达律师事务所关于中国铝业2026年第二次临时股东会的法律意见书",
+       "date": "2026-09-24",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-09-24/1225579196.PDF"
+      },
+      {
+       "title": "H股公告：翌日披露报表",
+       "date": "2026-09-17",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-09-17/1225567842.PDF"
+      },
+      {
+       "title": "中国铝业关于调整2026年中期利润分配方案现金分红总额的公告",
+       "date": "2026-09-17",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-09-17/1225567768.PDF"
+      },
+      {
+       "title": "中国铝业关于控股股东及其一致行动人增持股份的进展公告",
+       "date": "2026-09-12",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-09-12/1225560259.PDF"
+      },
+      {
+       "title": "中国铝业关于股权激励部分限制性股票回购注销实施公告",
+       "date": "2026-09-11",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-09-11/1225558487.PDF"
+      },
+      {
+       "title": "北京金诚同达律师事务所关于中国铝业回购注销部分限制性股票及调整回购价格、首次授予部分第三个解除限售期解除限售条件成就法律意见书",
+       "date": "2026-09-11",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-09-11/1225558234.PDF"
+      },
+      {
+       "title": "中国铝业2026年第二次临时股东会会议资料",
+       "date": "2026-09-11",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-09-11/1225557561.PDF"
+      },
+      {
+       "title": "中国铝业截至二零二六年八月三十一日止股份发行人的证券变动月报表",
+       "date": "2026-09-04",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-09-04/1225546231.PDF"
+      },
+      {
+       "title": "中国铝业第九届董事会第十六次会议决议公告",
+       "date": "2026-08-28",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225520211.PDF"
+      },
+      {
+       "title": "中国铝业关于2026年中期利润分配方案的公告",
+       "date": "2026-08-28",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225520183.PDF"
+      },
+      {
+       "title": "中国铝业2026年半年度报告摘要",
+       "date": "2026-08-28",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225520170.PDF"
+      },
+      {
+       "title": "中国铝业关于对中铝财务有限责任公司风险评估报告（2026年半年度）的公告",
+       "date": "2026-08-28",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225520166.PDF"
+      },
+      {
+       "title": "中国铝业2026年半年度报告",
+       "date": "2026-08-28",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225520152.PDF"
+      },
+      {
+       "title": "董事会召开日期公告",
+       "date": "2026-08-18",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-08-18/1225477065.PDF"
+      },
+      {
+       "title": "中国铝业关于控股股东及其一致行动人增持股份的进展公告",
+       "date": "2026-08-12",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-08-12/1225468502.PDF"
+      }
+     ],
+     "count_12m": 148
+    },
+    "qa": {
+     "items": [
+      {
+       "question": "作为焦作万方的前任大股东，是否考虑通过收购等等方式重新入主焦作万方？谢谢",
+       "answer": null,
+       "ask_date": "2026-10-16",
+       "answer_date": null,
+       "source": "sse_e",
+       "url": "https://sns.sseinfo.com/company.do?uid=1600"
+      }
+     ],
+     "count_12m": null
+    },
+    "_extras": {
+     "announcements": {
+      "fetched_at": "2026-10-27T17:40:52+08:00",
+      "error": null
+     },
+     "qa": {
+      "fetched_at": "2026-10-27T17:41:25+08:00",
+      "error": null
+     }
+    },
+    "review": {
+     "reviewer": "Claude（代 tengziki 复核）",
+     "note": "对照巨潮 2025 年报摘要与 2026 半年报摘要：营收、归母净利、加权 ROE、EPS、总资产、2025 财年每股股息 0.270 元（含中期 0.123）、股东户数、前十大股东持股一致；logo 取自上证 e 互动公司头像（首次抓取时不可达，稍后补上）；机构持股留空；申万二级按东财三级分类映射（与已核实同行一致）；business_summary 依公司概况改写",
+     "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
+     "fetched_at": "2026-10-27T16:18:20+08:00",
+     "reviewed_at": "2026-10-27T17:47:02+08:00"
+    }
+   }
+  },
+  "601009.SH": {
+   "status": "verified_snapshot",
+   "profile": {
+    "identity": {
+     "code": "601009",
+     "exchange": "SH",
+     "board": "主板",
+     "name_full": "南京银行股份有限公司",
+     "name_abbr": "南京银行",
+     "aliases": [],
+     "name_en": "Bank Of Nanjing Co.,Ltd.",
+     "former_names": [],
+     "industry_sw1": "银行",
+     "industry_sw2": "城商行Ⅱ",
+     "list_date": "2007-07-19",
+     "found_date": "1996-02-06",
+     "province": "江苏",
+     "city": null,
+     "website": "www.njcb.com.cn",
+     "chairman": "谢宁",
+     "employees": 17684,
+     "business_summary": "吸收公众存款",
+     "profile": "南京银行股份有限公司成立于1996年2月8日,是全国20家系统重要性银行之一,是一家具有独立法人资格的股份制商业银行和上市银行,实行一级法人经营管理体制。\r\n    南京银行坚持发展为要。历经两次更名,先后于2001年、2005年引入国际金融公司和法国巴黎银行入股,在全国城商行中率先启动上市辅导程序并于2007年在主板成功上市。位列英国《银行家》杂志公布的全球1000家大银行第86位。\r\n    南京银行强化战略执行。成立29年来,始终坚守做强做精做出特色,致力于打造国内一流的区域综合金融服务商的战略愿景。按照自身发展规划,推动业务平稳较快增长,风险管控不断加强,资产质量稳定优异,经营效益稳步提升,综合实力显著增强。注重深化公司治理,优化战略股东结构,加强资本规划管理,保持股东良好回报。同时加大信息科技投入,推动数字化转型,强化数字赋能和场景应用。\r\n    南京银行深化机构建设。自2007年设立第一家分行以来,跨区域经营不断推进,先后设立了泰州、上海、无锡、北京、南通、杭州、扬州、苏州、常州、盐城、南京、镇江、宿迁、连云港、江北新区、徐州、淮安17家分行,2016年实现京沪杭及江苏省内设区市全覆盖,2023年实现江苏省县域网点全覆盖。\r\n    南京银行丰富经营布局。在全国率先尝试城商行异地参股其他城商行的发展模式,参股日照银行并成为其第一大股东。入股江苏金融租赁有限公司,芜湖津盛农村商业银行,发起设立宜兴阳羡、昆山鹿城两家村镇银行。2013年投资组建鑫元基金管理有限公司,2020年全资设立南银理财有限责任公司,2022年控股南银法巴消费金融有限公司,在探索综合化经营的道路上不断向前迈进。2013年主发起成立紫金山.鑫合,下设8大专委会,成员行超130家。\r\n    南京银行勇担社会责任。践行“责任金融和谐共赢”的文化理念,让金融的增益更多普惠社会。连续十余年开展“圆梦行动”,累计捐资助学1870万元,帮助2900多名学子圆梦大学。",
+     "st_status": null,
+     "audit_opinion": "标准无保留意见"
+    },
+    "financials": {
+     "unit": "CNY",
+     "annual": [
+      {
+       "fiscal_year": 2021,
+       "report_date": "2021-12-31",
+       "revenue": 40925185000.0,
+       "revenue_yoy": 18.74,
+       "net_profit": 15856757000.0,
+       "net_profit_yoy": 21.04,
+       "net_profit_deducted": 15724158000.0,
+       "gross_margin": null,
+       "net_margin": 39.01,
+       "eps": 1.54,
+       "bvps": 12.13,
+       "roe": 14.85,
+       "roa": 0.98,
+       "debt_ratio": 92.99,
+       "total_liab": 1626381955000.0,
+       "total_assets": 1748985864071,
+       "ocf_to_np": null,
+       "ocf": 120648546000.0
+      },
+      {
+       "fiscal_year": 2022,
+       "report_date": "2022-12-31",
+       "revenue": 44606440000.0,
+       "revenue_yoy": 9.0,
+       "net_profit": 18408039000.0,
+       "net_profit_yoy": 16.09,
+       "net_profit_deducted": 18088015000.0,
+       "gross_margin": null,
+       "net_margin": 41.57,
+       "eps": 1.76,
+       "bvps": 12.22,
+       "roe": 15.12,
+       "roa": 0.97,
+       "debt_ratio": 92.34,
+       "total_liab": 1901784904000.0,
+       "total_assets": 2059546138185,
+       "ocf_to_np": null,
+       "ocf": 97820568000.0
+      },
+      {
+       "fiscal_year": 2023,
+       "report_date": "2023-12-31",
+       "revenue": 45159511000.0,
+       "revenue_yoy": 1.24,
+       "net_profit": 18502084000.0,
+       "net_profit_yoy": 0.51,
+       "net_profit_deducted": 17925437000.0,
+       "gross_margin": null,
+       "net_margin": 41.25,
+       "eps": 1.68,
+       "bvps": 13.5,
+       "roe": 13.12,
+       "roa": 0.86,
+       "debt_ratio": 92.46,
+       "total_liab": 2115681851000.0,
+       "total_assets": 2288213120268,
+       "ocf_to_np": null,
+       "ocf": 37058939000.0
+      },
+      {
+       "fiscal_year": 2024,
+       "report_date": "2024-12-31",
+       "revenue": 50273070000.0,
+       "revenue_yoy": 11.32,
+       "net_profit": 20176728000.0,
+       "net_profit_yoy": 9.05,
+       "net_profit_deducted": 19936761000.0,
+       "gross_margin": null,
+       "net_margin": 40.51,
+       "eps": 1.83,
+       "bvps": 14.33,
+       "roe": 12.97,
+       "roa": 0.83,
+       "debt_ratio": 92.59,
+       "total_liab": 2399443325000.0,
+       "total_assets": 2591471352198,
+       "ocf_to_np": null,
+       "ocf": -65795334000.0
+      },
+      {
+       "fiscal_year": 2025,
+       "report_date": "2025-12-31",
+       "revenue": 55541916000.0,
+       "revenue_yoy": 10.48,
+       "net_profit": 21807089000.0,
+       "net_profit_yoy": 8.08,
+       "net_profit_deducted": 21677029000.0,
+       "gross_margin": null,
+       "net_margin": 39.71,
+       "eps": 1.76,
+       "bvps": 14.66,
+       "roe": 12.05,
+       "roa": 0.79,
+       "debt_ratio": 93.04,
+       "total_liab": 2811515075000.0,
+       "total_assets": 3021834775365,
+       "ocf_to_np": null,
+       "ocf": 210207864000.0
+      }
+     ],
+     "latest": {
+      "report_period": "2026-09-30",
+      "report_type": "2026年三季报",
+      "revenue": 47190007000.0,
+      "revenue_yoy": 12.49,
+      "net_profit": 19450694000.0,
+      "net_profit_yoy": 8.03,
+      "net_profit_deducted": 19485707000.0,
+      "gross_margin": null,
+      "net_margin": 41.46,
+      "eps": 1.56,
+      "roe": 10.14,
+      "debt_ratio": 93.25,
+      "ocf": 105133089000.0
+     },
+     "derived": {
+      "revenue_cagr_3y": 7.58,
+      "net_profit_cagr_3y": 5.81,
+      "receivables_to_revenue": null,
+      "goodwill_to_equity": null
+     }
+    },
+    "shareholders": {
+     "controller": null,
+     "controlling_shareholder": null,
+     "controlling_ratio": null,
+     "top10": [
+      {
+       "rank": 1,
+       "name": "法国巴黎银行(含QFII)",
+       "hold_num": 2275312179.0,
+       "hold_ratio": 18.4,
+       "hold_num_change": 31975621.0
+      },
+      {
+       "rank": 2,
+       "name": "江苏交通控股有限公司",
+       "hold_num": 1854535105.0,
+       "hold_ratio": 15.0,
+       "hold_num_change": 0
+      },
+      {
+       "rank": 3,
+       "name": "南京紫金投资集团有限责任公司",
+       "hold_num": 1407552588.0,
+       "hold_ratio": 11.38,
+       "hold_num_change": 0
+      },
+      {
+       "rank": 4,
+       "name": "南京高科股份有限公司",
+       "hold_num": 1236356694.0,
+       "hold_ratio": 9.99,
+       "hold_num_change": 0
+      },
+      {
+       "rank": 5,
+       "name": "中国烟草总公司江苏省公司(江苏省烟草公司)",
+       "hold_num": 471583361.0,
+       "hold_ratio": 3.81,
+       "hold_num_change": 0
+      },
+      {
+       "rank": 6,
+       "name": "幸福人寿保险股份有限公司-自有",
+       "hold_num": 406792306.0,
+       "hold_ratio": 3.29,
+       "hold_num_change": 0
+      },
+      {
+       "rank": 7,
+       "name": "紫金信托有限责任公司",
+       "hold_num": 339543782.0,
+       "hold_ratio": 2.75,
+       "hold_num_change": 0
+      },
+      {
+       "rank": 8,
+       "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+       "hold_num": 333804433.0,
+       "hold_ratio": 2.7,
+       "hold_num_change": -13141054.0
+      },
+      {
+       "rank": 9,
+       "name": "香港中央结算有限公司",
+       "hold_num": 309369400.0,
+       "hold_ratio": 2.5,
+       "hold_num_change": 87666058.0
+      },
+      {
+       "rank": 10,
+       "name": "东部机场集团投资有限公司",
+       "hold_num": 288489506.0,
+       "hold_ratio": 2.33,
+       "hold_num_change": 0
+      }
+     ],
+     "top10_date": "2026-09-30",
+     "holder_num": 67743.0,
+     "holder_num_change_pct": -10.2,
+     "holder_num_date": "2026-09-30",
+     "inst_hold_ratio": null,
+     "northbound_ratio": 2.5,
+     "executives": [
+      {
+       "name": "谢宁",
+       "title": "董事长",
+       "pay": null
+      },
+      {
+       "name": "朱钢",
+       "title": "总经理",
+       "pay": null
+      },
+      {
+       "name": "江志纯",
+       "title": "董事会秘书",
+       "pay": null
+      }
+     ],
+     "pledge_ratio_total": null,
+     "unlock_12m": []
+    },
+    "dividends": {
+     "annual": [
+      {
+       "fiscal_year": 2021,
+       "dps_pretax": 0.4616,
+       "total_amount": 4757328671.56,
+       "payout_ratio": 30.0,
+       "dividend_yield": null,
+       "ex_date": "2022-06-17"
+      },
+      {
+       "fiscal_year": 2022,
+       "dps_pretax": 0.5339,
+       "total_amount": 5522519010.26,
+       "payout_ratio": 30.0,
+       "dividend_yield": null,
+       "ex_date": "2023-06-21"
+      },
+      {
+       "fiscal_year": 2023,
+       "dps_pretax": 0.5367,
+       "total_amount": 5551488997.19,
+       "payout_ratio": 30.0,
+       "dividend_yield": null,
+       "ex_date": "2024-06-14"
+      },
+      {
+       "fiscal_year": 2024,
+       "dps_pretax": 0.5456,
+       "total_amount": 6054473922.06,
+       "payout_ratio": 30.01,
+       "dividend_yield": null,
+       "ex_date": "2025-06-23"
+      },
+      {
+       "fiscal_year": 2025,
+       "dps_pretax": 0.5292,
+       "total_amount": 6542181607.69,
+       "payout_ratio": 30.0,
+       "dividend_yield": null,
+       "ex_date": "2026-06-15"
+      }
+     ],
+     "consecutive_years": 5,
+     "cum_dividend_5y": 28427992208.760002,
+     "cum_netprofit_5y": 94750697000.0,
+     "payout_5y": 30.0,
+     "buyback_3y": null
+    },
+    "peers": {
+     "peer_codes": [],
+     "segments": [
+      {
+       "name": "公司银行业务",
+       "revenue": 24538964000.0,
+       "ratio": 44.18,
+       "type": "product",
+       "period": "2025年报"
+      },
+      {
+       "name": "个人银行业务",
+       "revenue": 16713838000.0,
+       "ratio": 30.09,
+       "type": "product",
+       "period": "2025年报"
+      },
+      {
+       "name": "资金业务",
+       "revenue": 14068234000.0,
+       "ratio": 25.33,
+       "type": "product",
+       "period": "2025年报"
+      },
+      {
+       "name": "其他业务",
+       "revenue": 220880000.0,
+       "ratio": 0.4,
+       "type": "product",
+       "period": "2025年报"
+      },
+      {
+       "name": "江苏地区",
+       "revenue": 51504809000.0,
+       "ratio": 92.73,
+       "type": "region",
+       "period": "2025年报"
+      },
+      {
+       "name": "其他地区",
+       "revenue": 4037107000.0,
+       "ratio": 7.27,
+       "type": "region",
+       "period": "2025年报"
+      }
+     ]
+    },
+    "announcements": {
+     "items": [
+      {
+       "title": "独立董事提名人声明与承诺（刘晓星）",
+       "date": "2026-10-29",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636653.PDF"
+      },
+      {
+       "title": "南京银行股份有限公司关于召开2026年第三季度业绩说明会的公告",
+       "date": "2026-10-29",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636651.PDF"
+      },
+      {
+       "title": "独立董事候选人声明与承诺（刘晓星）",
+       "date": "2026-10-29",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636647.PDF"
+      },
+      {
+       "title": "南京银行股份有限公司信息披露暂缓与豁免管理办法",
+       "date": "2026-10-29",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636641.PDF"
+      },
+      {
+       "title": "南京银行股份有限公司第十届董事会第二十三次会议决议公告",
+       "date": "2026-10-29",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636637.PDF"
+      },
+      {
+       "title": "南京银行股份有限公司关于召开2026年第一次临时股东会的通知",
+       "date": "2026-10-29",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636623.PDF"
+      },
+      {
+       "title": "南京银行股份有限公司2026年第三季度报告",
+       "date": "2026-10-29",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636622.PDF"
+      },
+      {
+       "title": "南京银行股份有限公司2026年中期利润分配方案公告",
+       "date": "2026-10-29",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636619.PDF"
+      },
+      {
+       "title": "南京银行股份有限公司关于董事辞任的公告",
+       "date": "2026-09-22",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225574573.PDF"
+      },
+      {
+       "title": "南京银行股份有限公司关于独立董事辞任的公告",
+       "date": "2026-09-16",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-09-16/1225565153.PDF"
+      },
+      {
+       "title": "南京银行股份有限公司关于优先股全部赎回及摘牌完成的公告",
+       "date": "2026-09-09",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-09-09/1225553728.PDF"
+      },
+      {
+       "title": "南京银行股份有限公司第十届董事会第二十二次会议决议公告",
+       "date": "2026-09-09",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-09-09/1225553725.PDF"
+      },
+      {
+       "title": "南京银行股份有限公司关于优先股停牌的提示性公告",
+       "date": "2026-09-02",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-09-02/1225542358.PDF"
+      },
+      {
+       "title": "南京银行股份有限公司关于优先股全部赎回及摘牌的公告",
+       "date": "2026-09-02",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-09-02/1225542357.PDF"
+      },
+      {
+       "title": "南京银行股份有限公司关于高级管理人员辞任的公告",
+       "date": "2026-09-02",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-09-02/1225542348.PDF"
+      },
+      {
+       "title": "南京银行股份有限公司优先股股息发放实施公告",
+       "date": "2026-08-28",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225521181.PDF"
+      },
+      {
+       "title": "南京银行股份有限公司关于赎回优先股的第三次提示性公告",
+       "date": "2026-08-28",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225521177.PDF"
+      },
+      {
+       "title": "南京银行股份有限公司关于赎回优先股的第二次提示性公告",
+       "date": "2026-08-22",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225489156.PDF"
+      },
+      {
+       "title": "南京银行股份有限公司2026年半年度报告摘要",
+       "date": "2026-08-19",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225480717.PDF"
+      },
+      {
+       "title": "南京银行股份有限公司信息披露事务管理制度",
+       "date": "2026-08-19",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225480714.PDF"
+      }
+     ],
+     "count_12m": 99
+    },
+    "qa": {
+     "items": []
+    },
+    "_extras": {
+     "announcements": {
+      "fetched_at": "2026-10-29T11:36:05+08:00",
+      "error": null
+     },
+     "qa": {
+      "fetched_at": "2026-10-30T00:00:42+08:00",
+      "error": null
+     }
+    },
+    "review": {
+     "reviewer": "自动复核（scripts/auto_review.py）",
+     "note": "与巨潮年报摘要交叉核对营收、归母净利润与审计意见",
+     "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
+     "fetched_at": "2026-10-30T00:21:13+08:00",
+     "reviewed_at": "2026-10-30T00:31:09+08:00",
+     "method": "auto",
+     "checks": {
+      "revenue": "2025 年营业收入与《南京银行股份有限公司2025年年度报告摘要》一致（差 0.00%）",
+      "net_profit": "2025 年归母净利润与《南京银行股份有限公司2025年年度报告摘要》一致（差 0.00%）",
+      "audit_opinion": "2025 年报审计意见：标准无保留意见"
+     },
+     "sources": [
+      "https://static.cninfo.com.cn/finalpage/2026-04-23/1225157431.PDF"
+     ]
+    }
+   }
+  },
   "600016.SH": {
    "status": "verified_snapshot",
    "profile": {
@@ -2986,6 +3950,535 @@
      },
      "qa": {
       "fetched_at": "2026-10-27T17:23:25+08:00",
+      "error": null
+     }
+    }
+   }
+  },
+  "600660.SH": {
+   "status": "auto_profile",
+   "profile": {
+    "identity": {
+     "code": "600660",
+     "exchange": "SH",
+     "board": "主板",
+     "name_full": "福耀玻璃工业集团股份有限公司",
+     "name_abbr": "福耀玻璃",
+     "aliases": [],
+     "name_en": "FUYAO GLASS INDUSTRY GROUP CO.,LTD.",
+     "former_names": [
+      "耀华玻璃→福耀玻璃→G福耀"
+     ],
+     "industry_sw1": "汽车",
+     "industry_sw2": "汽车零部件",
+     "list_date": "1993-06-10",
+     "found_date": "1992-06-21",
+     "province": "福建",
+     "city": null,
+     "website": "www.fuyaogroup.com",
+     "chairman": "曹晖",
+     "employees": 42222,
+     "business_summary": "生产汽车玻璃,装饰玻璃和其它工业技术玻璃及玻璃安装,售后服务",
+     "profile": "福耀玻璃工业集团股份有限公司1987年在福建福州成立,是一家致力于全球汽车玻璃和汽车饰件设计、开发、制造、供应及服务一体化解决方案的大型跨国工业集团,于1993年在上海证券交易所主板上市(A股代码:600660),于2015年在香港交易所上市(H股代码:3606),形成兼跨境内外两大资本平台的“A+H”模式。自创立以来,福耀集团矢志为中国人做一片属于自己的高质量玻璃,当好汽车工业的配角,秉承“勤劳、朴实、学习、创新”的核心价值观,坚持走独立自主、应用研发、开放包容的战略路线。经过三十余年的发展,福耀集团已在中国18个省区市以及美国、俄罗斯、德国、日本、韩国等12个国家建立现代化生产基地和商务机构,并在中、美、德、日设立10个设计中心和2个研发中心。福耀产品得到全球知名汽车制造企业及合作伙伴的认证和选用,包括奔驰、宝马、奥迪、大众、通用、丰田、福特、比亚迪、华为等,为其提供全球OEM配套服务和汽车玻璃全套解决方案,全球市场份额达34%并被各大汽车制造企业评为“全球优秀供应商”。福耀集团是智能制造的积极探索者和高质量发展的实践者。公司以智识引领发展,以创新为驱动,通过智能制造,为客户提供一片有“灵魂”的玻璃,其信息技术与生产自动化方面位居全球同行业前列。近年来,福耀集团先后荣获“中国质量奖”“智能制造示范企业”“国家创新示范企业”“国家级企业技术中心”等各类创新荣誉、资质。福耀集团多年蝉联《财富》中国500强、中国民营企业500强,多次获得“中国最佳企业公民”“中国十佳上市公司”“CCTV最佳雇主”等社会殊荣。创始人曹德旺先生从1983年至今个人捐款累计近260亿元,通过其创办的河仁慈善基金会集中100亿资金创建福耀科技大学,被誉为“真正的首善”;2018年,曹德旺入选“改革开放40年百名杰出民营企业家”;于2009年荣膺企业界的“奥斯卡”——安永企业家全球奖;于2016年荣获全球玻璃行业最高奖项——金凤凰奖,评委会称“曹德旺带领福耀集团改变了世界汽车玻璃行业的格局”。",
+     "st_status": null,
+     "audit_opinion": null
+    },
+    "financials": {
+     "unit": "CNY",
+     "annual": [
+      {
+       "fiscal_year": 2021,
+       "report_date": "2021-12-31",
+       "revenue": 23603063361.0,
+       "revenue_yoy": 18.57,
+       "net_profit": 3146167091.0,
+       "net_profit_yoy": 20.97,
+       "net_profit_deducted": 2815935759.0,
+       "gross_margin": 35.9,
+       "net_margin": 13.32,
+       "eps": 1.23,
+       "bvps": 10.08,
+       "roe": 12.96,
+       "roa": 7.55,
+       "debt_ratio": 41.29,
+       "total_liab": 18490789663.0,
+       "total_assets": 44782731080,
+       "ocf_to_np": null,
+       "ocf": 5677009641.0
+      },
+      {
+       "fiscal_year": 2022,
+       "report_date": "2022-12-31",
+       "revenue": 28098754166.0,
+       "revenue_yoy": 19.05,
+       "net_profit": 4755595541.0,
+       "net_profit_yoy": 51.16,
+       "net_profit_deducted": 4665705551.0,
+       "gross_margin": 34.03,
+       "net_margin": 16.91,
+       "eps": 1.82,
+       "bvps": 11.11,
+       "roe": 17.65,
+       "roa": 9.95,
+       "debt_ratio": 42.9,
+       "total_liab": 21779200663.0,
+       "total_assets": 50767367513,
+       "ocf_to_np": null,
+       "ocf": 5893041655.0
+      },
+      {
+       "fiscal_year": 2023,
+       "report_date": "2023-12-31",
+       "revenue": 33160996641.0,
+       "revenue_yoy": 18.02,
+       "net_profit": 5629256054.0,
+       "net_profit_yoy": 18.37,
+       "net_profit_deducted": 5527467830.0,
+       "gross_margin": 35.39,
+       "net_margin": 16.98,
+       "eps": 2.16,
+       "bvps": 12.04,
+       "roe": 18.97,
+       "roa": 10.48,
+       "debt_ratio": 44.53,
+       "total_liab": 25219085168.0,
+       "total_assets": 56633921329,
+       "ocf_to_np": null,
+       "ocf": 7624580890.0
+      },
+      {
+       "fiscal_year": 2024,
+       "report_date": "2024-12-31",
+       "revenue": 39251657267.0,
+       "revenue_yoy": 18.37,
+       "net_profit": 7497976123.0,
+       "net_profit_yoy": 33.2,
+       "net_profit_deducted": 7445999659.0,
+       "gross_margin": 36.23,
+       "net_margin": 19.12,
+       "eps": 2.87,
+       "bvps": 13.68,
+       "roe": 22.72,
+       "roa": 12.52,
+       "debt_ratio": 43.58,
+       "total_liab": 27568613358.0,
+       "total_assets": 63259782832,
+       "ocf_to_np": null,
+       "ocf": 8562187329.0
+      },
+      {
+       "fiscal_year": 2025,
+       "report_date": "2025-12-31",
+       "revenue": 45787435563.0,
+       "revenue_yoy": 16.65,
+       "net_profit": 9312304150.0,
+       "net_profit_yoy": 24.2,
+       "net_profit_deducted": 9164684348.0,
+       "gross_margin": 37.27,
+       "net_margin": 20.35,
+       "eps": 3.57,
+       "bvps": 14.39,
+       "roe": 25.56,
+       "roa": 13.98,
+       "debt_ratio": 46.4,
+       "total_liab": 32510194296.0,
+       "total_assets": 70065073914,
+       "ocf_to_np": null,
+       "ocf": 12055090552.0
+      }
+     ],
+     "latest": {
+      "report_period": "2026-09-30",
+      "report_type": "2026年三季报",
+      "revenue": 34122791889.0,
+      "revenue_yoy": 2.46,
+      "net_profit": 6006480440.0,
+      "net_profit_yoy": -14.97,
+      "net_profit_deducted": 5879139817.0,
+      "gross_margin": 38.56,
+      "net_margin": 17.61,
+      "eps": 2.3,
+      "roe": 15.66,
+      "debt_ratio": 49.98,
+      "ocf": 8259778584.0
+     },
+     "derived": {
+      "revenue_cagr_3y": 17.68,
+      "net_profit_cagr_3y": 25.11,
+      "receivables_to_revenue": null,
+      "goodwill_to_equity": null
+     }
+    },
+    "shareholders": {
+     "controller": "曹德旺",
+     "controlling_shareholder": null,
+     "controlling_ratio": null,
+     "top10": [
+      {
+       "rank": 1,
+       "name": "HKSCC NOMINEES LIMITED",
+       "hold_num": 595821494.0,
+       "hold_ratio": 22.83,
+       "hold_num_change": -4000.0
+      },
+      {
+       "rank": 2,
+       "name": "香港中央结算有限公司",
+       "hold_num": 401623420.0,
+       "hold_ratio": 15.39,
+       "hold_num_change": 12045331.0
+      },
+      {
+       "rank": 3,
+       "name": "三益发展有限公司",
+       "hold_num": 390578816.0,
+       "hold_ratio": 14.97,
+       "hold_num_change": 0
+      },
+      {
+       "rank": 4,
+       "name": "河仁慈善基金会",
+       "hold_num": 169512888.0,
+       "hold_ratio": 6.5,
+       "hold_num_change": 0
+      },
+      {
+       "rank": 5,
+       "name": "白永丽",
+       "hold_num": 39499815.0,
+       "hold_ratio": 1.51,
+       "hold_num_change": 0
+      },
+      {
+       "rank": 6,
+       "name": "李海清",
+       "hold_num": 25785862.0,
+       "hold_ratio": 0.99,
+       "hold_num_change": 0
+      },
+      {
+       "rank": 7,
+       "name": "李福清",
+       "hold_num": 24291709.0,
+       "hold_ratio": 0.93,
+       "hold_num_change": 0
+      },
+      {
+       "rank": 8,
+       "name": "福建省耀华工业村开发有限公司",
+       "hold_num": 24077800.0,
+       "hold_ratio": 0.92,
+       "hold_num_change": 0
+      },
+      {
+       "rank": 9,
+       "name": "中国农业银行股份有限公司-大成高鑫股票型证券投资基金",
+       "hold_num": 22043890.0,
+       "hold_ratio": 0.84,
+       "hold_num_change": -1863900.0
+      },
+      {
+       "rank": 10,
+       "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+       "hold_num": 21763202.0,
+       "hold_ratio": 0.83,
+       "hold_num_change": 820716.0
+      }
+     ],
+     "top10_date": "2026-09-30",
+     "holder_num": 119439.0,
+     "holder_num_change_pct": -14.48,
+     "holder_num_date": "2026-09-30",
+     "inst_hold_ratio": null,
+     "northbound_ratio": 15.39,
+     "executives": [
+      {
+       "name": "曹晖",
+       "title": "董事长",
+       "pay": null
+      },
+      {
+       "name": "叶舒",
+       "title": "总经理",
+       "pay": null
+      },
+      {
+       "name": "李小溪",
+       "title": "董事会秘书",
+       "pay": null
+      }
+     ],
+     "pledge_ratio_total": null,
+     "unlock_12m": []
+    },
+    "dividends": {
+     "annual": [
+      {
+       "fiscal_year": 2021,
+       "dps_pretax": 1.0,
+       "total_amount": 2609743532.0,
+       "payout_ratio": 82.95,
+       "dividend_yield": null,
+       "ex_date": "2022-05-19"
+      },
+      {
+       "fiscal_year": 2022,
+       "dps_pretax": 1.25,
+       "total_amount": 3262179415.0,
+       "payout_ratio": 68.6,
+       "dividend_yield": null,
+       "ex_date": "2023-05-18"
+      },
+      {
+       "fiscal_year": 2023,
+       "dps_pretax": 1.3,
+       "total_amount": 3392666591.6,
+       "payout_ratio": 60.27,
+       "dividend_yield": null,
+       "ex_date": "2024-05-17"
+      },
+      {
+       "fiscal_year": 2024,
+       "dps_pretax": 1.8,
+       "total_amount": 4697538357.6,
+       "payout_ratio": 62.65,
+       "dividend_yield": null,
+       "ex_date": "2025-05-09"
+      },
+      {
+       "fiscal_year": 2025,
+       "dps_pretax": 2.1,
+       "total_amount": 5480461417.2,
+       "payout_ratio": 58.85,
+       "dividend_yield": null,
+       "ex_date": "2026-05-13"
+      }
+     ],
+     "consecutive_years": 6,
+     "cum_dividend_5y": 19442589313.4,
+     "cum_netprofit_5y": 30341298959.0,
+     "payout_5y": 64.08,
+     "buyback_3y": null
+    },
+    "peers": {
+     "peer_codes": [],
+     "segments": [
+      {
+       "name": "汽车玻璃",
+       "revenue": 41889226037.0,
+       "ratio": 91.49,
+       "type": "product",
+       "period": "2025年报"
+      },
+      {
+       "name": "浮法玻璃",
+       "revenue": 6479743917.0,
+       "ratio": 14.15,
+       "type": "product",
+       "period": "2025年报"
+      },
+      {
+       "name": "其他",
+       "revenue": 4735633472.0,
+       "ratio": 10.34,
+       "type": "product",
+       "period": "2025年报"
+      },
+      {
+       "name": "其他(补充)",
+       "revenue": 690018469.0,
+       "ratio": 1.51,
+       "type": "product",
+       "period": "2025年报"
+      },
+      {
+       "name": "减:集团内部抵销",
+       "revenue": -8007186332.0,
+       "ratio": -17.49,
+       "type": "product",
+       "period": "2025年报"
+      },
+      {
+       "name": "国内",
+       "revenue": 24240607684.0,
+       "ratio": 52.94,
+       "type": "region",
+       "period": "2025年报"
+      },
+      {
+       "name": "国外",
+       "revenue": 20856809410.0,
+       "ratio": 45.55,
+       "type": "region",
+       "period": "2025年报"
+      },
+      {
+       "name": "其他(补充)",
+       "revenue": 690018469.0,
+       "ratio": 1.51,
+       "type": "region",
+       "period": "2025年报"
+      }
+     ]
+    },
+    "announcements": {
+     "items": [
+      {
+       "title": "福耀玻璃H股公告",
+       "date": "2026-10-23",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-23/1225616074.PDF"
+      },
+      {
+       "title": "福耀玻璃独立董事候选人声明与承诺（程雁）",
+       "date": "2026-10-21",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612064.PDF"
+      },
+      {
+       "title": "福耀玻璃独立董事提名人声明与承诺（达正浩）",
+       "date": "2026-10-21",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612063.PDF"
+      },
+      {
+       "title": "福耀玻璃2026年第三季度报告",
+       "date": "2026-10-21",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612062.PDF"
+      },
+      {
+       "title": "福耀玻璃独立董事提名人声明与承诺（程雁）",
+       "date": "2026-10-21",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612061.PDF"
+      },
+      {
+       "title": "福耀玻璃独立董事候选人声明与承诺（薛祖云）",
+       "date": "2026-10-21",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612055.PDF"
+      },
+      {
+       "title": "福耀玻璃独立董事提名人声明与承诺（薛祖云）",
+       "date": "2026-10-21",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612054.PDF"
+      },
+      {
+       "title": "福耀玻璃第十一届董事局第十四次会议决议公告",
+       "date": "2026-10-21",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612052.PDF"
+      },
+      {
+       "title": "福耀玻璃关于开展外汇衍生品交易业务的可行性分析报告",
+       "date": "2026-10-21",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612051.PDF"
+      },
+      {
+       "title": "福耀玻璃日常关联交易公告",
+       "date": "2026-10-21",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612046.PDF"
+      },
+      {
+       "title": "福耀玻璃独立董事候选人声明与承诺（达正浩）",
+       "date": "2026-10-21",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612042.PDF"
+      },
+      {
+       "title": "福耀玻璃独立董事候选人声明与承诺（刘小稚）",
+       "date": "2026-10-21",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612039.PDF"
+      },
+      {
+       "title": "福耀玻璃关于召开2026年第三季度业绩说明会的公告",
+       "date": "2026-10-21",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612037.PDF"
+      },
+      {
+       "title": "福耀玻璃独立董事提名人声明与承诺（刘小稚）",
+       "date": "2026-10-21",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612036.PDF"
+      },
+      {
+       "title": "福耀玻璃关于开展外汇衍生品交易业务公告",
+       "date": "2026-10-21",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612033.PDF"
+      },
+      {
+       "title": "H股市场公告",
+       "date": "2026-10-08",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225595360.PDF"
+      },
+      {
+       "title": "H股市场公告",
+       "date": "2026-10-08",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225595306.PDF"
+      },
+      {
+       "title": "福耀玻璃2026年度第四期超短期融资券发行情况公告",
+       "date": "2026-09-18",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-09-18/1225569316.PDF"
+      },
+      {
+       "title": "福耀玻璃2026年半年度A股权益分派实施公告",
+       "date": "2026-09-17",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-09-17/1225567737.PDF"
+      },
+      {
+       "title": "H股市场公告",
+       "date": "2026-09-10",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-09-10/1225555243.PDF"
+      }
+     ],
+     "count_12m": 112
+    },
+    "qa": {
+     "items": [
+      {
+       "question": "请问公司，1）何时可以看到行业的量恢复正增长？2）公司的高附加值产品占比的增速在放缓，全景天幕似乎到了天花板，调光/静音/HUD虽然还有增长，但看到同行也在往高端产品发力，智能化方向肯定是大趋势，我们和同行比的竞争优势是否在缩窄？3）行业缩短账期的号召，对我们影响几何？",
+       "answer": null,
+       "ask_date": "2026-10-28",
+       "answer_date": null,
+       "source": "sse_e",
+       "url": "https://sns.sseinfo.com/company.do?uid=660"
+      },
+      {
+       "question": "请问公司截止2026年10月20日的股东户数是多少？谢谢",
+       "answer": "您好，感谢您对公司的关注！根据信息披露的相关规定，公司将在定期报告中披露股东人数以保证所有投资者平等获悉公司信息。",
+       "ask_date": "2026-10-28",
+       "answer_date": "2026-10-28",
+       "source": "sse_e",
+       "url": "https://sns.sseinfo.com/company.do?uid=660"
+      }
+     ],
+     "count_12m": null
+    },
+    "_meta": {
+     "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
+     "fetched_at": "2026-11-02T22:34:55+08:00",
+     "errors": {}
+    },
+    "_extras": {
+     "announcements": {
+      "fetched_at": "2026-10-30T00:02:53+08:00",
+      "error": null
+     },
+     "qa": {
+      "fetched_at": "2026-10-30T00:03:27+08:00",
       "error": null
      }
     }

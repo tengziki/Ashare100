@@ -4,8 +4,8 @@
  "exited_on": "2026-10-26",
  "exited_vs": "2026-10-21 收盘（静态基准）",
  "last_rank": 97,
- "now_rank": 102,
- "now_total_mv": 148318000000.0,
+ "now_rank": 92,
+ "now_total_mv": 156673000000.0,
  "profile_status": "verified_snapshot",
  "market": {
   "as_of_date": "2026-10-22",
@@ -654,6 +654,6 @@
    "count_12m": null
   }
  },
- "now_at": "2026-11-02",
+ "now_at": "2026-11-03",
  "exited_range": "2026-10-22 至 2026-10-26 之间"
 }
