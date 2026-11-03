@@ -216,5 +216,13 @@
     "base_label": "2026-11-03 收盘",
     "entered": [],
     "exited": []
+  },
+  {
+    "snapshot": "snapshots/20261103T150322Z.json",
+    "quote_date": "2026-11-03",
+    "slot": "close",
+    "base_label": "2026-11-03 收盘",
+    "entered": [],
+    "exited": []
   }
 ]
