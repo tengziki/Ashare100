@@ -47,16 +47,16 @@
   "last_rank": 97,
   "profile_status": "verified_snapshot"
  },
- "688801.SH": {
-  "name": "燧原科技-U",
-  "exited_on": "2026-11-03",
-  "last_rank": 99,
-  "profile_status": "verified_snapshot"
- },
  "002916.SZ": {
   "name": "深南电路",
   "exited_on": "2026-11-03",
   "last_rank": 93,
   "profile_status": "verified_snapshot"
+ },
+ "600999.SH": {
+  "name": "招商证券",
+  "exited_on": "2026-11-04",
+  "last_rank": 100,
+  "profile_status": "auto_profile"
  }
 }
