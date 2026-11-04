@@ -254,5 +254,13 @@
       "601600.SH",
       "600660.SH"
     ]
+  },
+  {
+    "snapshot": "snapshots/20261104T112946Z.json",
+    "quote_date": "2026-11-04",
+    "slot": "close",
+    "base_label": "2026-11-04 收盘",
+    "entered": [],
+    "exited": []
   }
 ]
