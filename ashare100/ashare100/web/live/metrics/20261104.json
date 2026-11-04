@@ -1,8 +1,8 @@
 {
  "meta": {
   "quote_date": "2026-11-04",
-  "generated_at": "2026-11-04T19:35:00+08:00",
-  "snapshot_generated_at": "2026-11-04T19:29:46+08:00",
+  "generated_at": "2026-11-04T23:28:02+08:00",
+  "snapshot_generated_at": "2026-11-04T23:23:08+08:00",
   "sources": {
    "kline": "腾讯前复权日 K",
    "dividends": "东方财富数据中心分红明细"
@@ -182,7 +182,7 @@
    "return_1y": -37.59,
    "return_3y": 260.56,
    "high_52w": 84.3,
-   "low_52w": 41.83,
+   "low_52w": 41.51,
    "dividend_yield": 2.17,
    "dps_fiscal_year": 2025,
    "dps_pretax": 0.98
@@ -468,7 +468,7 @@
    "return_1y": -9.44,
    "return_3y": 200.67,
    "high_52w": 28.399,
-   "low_52w": 13.08,
+   "low_52w": 13.0,
    "dividend_yield": 2.06,
    "dps_fiscal_year": 2025,
    "dps_pretax": 0.286
@@ -924,17 +924,6 @@
    "dps_fiscal_year": 2025,
    "dps_pretax": 0.49
   },
-  "000725.SZ": {
-   "price": 4.63,
-   "ytd_return": 11.46,
-   "return_1y": 17.39,
-   "return_3y": 24.66,
-   "high_52w": 9.5,
-   "low_52w": 3.734,
-   "dividend_yield": 1.21,
-   "dps_fiscal_year": 2025,
-   "dps_pretax": 0.056
-  },
   "603268.SH": {
    "price": 167.68,
    "ytd_return": 101.1,
@@ -1110,6 +1099,17 @@
    "dividend_yield": 3.1,
    "dps_fiscal_year": 2025,
    "dps_pretax": 0.6
+  },
+  "000725.SZ": {
+   "price": 4.63,
+   "ytd_return": 11.46,
+   "return_1y": 17.39,
+   "return_3y": 24.66,
+   "high_52w": 9.5,
+   "low_52w": 3.734,
+   "dividend_yield": 1.21,
+   "dps_fiscal_year": 2025,
+   "dps_pretax": 0.056
   }
  },
  "errors": {}
