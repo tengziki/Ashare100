@@ -40,11 +40,32 @@
    "schedule": "交易日 11:35 / 15:10",
    "warn_hours": 28,
    "stale_hours": 52,
-   "last_success": "2026-11-05T19:32:02+08:00",
+   "last_success": "2026-11-05T23:32:09+08:00",
    "data_date": "2026-11-05",
    "detail": "公告 100/100 家",
-   "problems": []
+   "problems": [
+    "601939.SH 问答：URLError <urlopen error [Errno 101] Network is unreachable>",
+    "601398.SH 问答：URLError <urlopen error [Errno 101] Network is unreachable>",
+    "688825.SH 问答：URLError <urlopen error [Errno 101] Network is unreachable>",
+    "601288.SH 问答：URLError <urlopen error [Errno 101] Network is unreachable>",
+    "601857.SH 问答：URLError <urlopen error [Errno 101] Network is unreachable>",
+    "601988.SH 问答：URLError <urlopen error [Errno 101] Network is unreachable>",
+    "600941.SH 问答：URLError <urlopen error [Errno 101] Network is unreachable>",
+    "600519.SH 问答：URLError <urlopen error [Errno 101] Network is unreachable>",
+    "600938.SH 问答：URLError <urlopen error [Errno 101] Network is unreachable>",
+    "600036.SH 问答：URLError <urlopen error [Errno 101] Network is unreachable>",
+    "601088.SH 问答：URLError <urlopen error [Errno 101] Network is unreachable>",
+    "601628.SH 问答：URLError <urlopen error [Errno 101] Network is unreachable>",
+    "601318.SH 问答：URLError <urlopen error [Errno 101] Network is unreachable>",
+    "688981.SH 问答：URLError <urlopen error [Errno 101] Network is unreachable>",
+    "601138.SH 问答：URLError <urlopen error [Errno 101] Network is unreachable>",
+    "601899.SH 问答：URLError <urlopen error [Errno 101] Network is unreachable>",
+    "601328.SH 问答：URLError <urlopen error [Errno 101] Network is unreachable>",
+    "600900.SH 问答：URLError <urlopen error [Errno 101] Network is unreachable>",
+    "600028.SH 问答：URLError <urlopen error [Errno 101] Network is unreachable>",
+    "601658.SH 问答：URLError <urlopen error [Errno 101] Network is unreachable>"
+   ]
   }
  },
- "updated": "2026-11-05T23:26:47+08:00"
+ "updated": "2026-11-05T23:32:09+08:00"
 }
