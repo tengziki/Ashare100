@@ -1,23 +1,23 @@
 {
  "code": "002916.SZ",
  "name": "深南电路",
- "exited_on": "2026-11-03",
- "exited_vs": "2026-11-02 收盘",
- "last_rank": 93,
- "now_rank": 99,
- "now_total_mv": 153664000000.0,
+ "exited_on": "2026-11-05",
+ "exited_vs": "2026-11-04 收盘",
+ "last_rank": 99,
+ "now_rank": 102,
+ "now_total_mv": 149802000000.0,
  "profile_status": "verified_snapshot",
  "market": {
-  "price": 227.88,
-  "change_pct": -2.2,
-  "amount": 2580340000.0,
-  "turnover_rate": 1.69,
-  "pe_ttm": 30.56,
-  "pb": 7.74,
-  "total_mv": 155217000000.0,
-  "float_mv": 151504000000.0,
-  "quote_at": "20261102161445",
-  "as_of_date": "2026-11-02"
+  "price": 225.6,
+  "change_pct": 10.0,
+  "amount": 3246840000.0,
+  "turnover_rate": 2.3,
+  "pe_ttm": 30.25,
+  "pb": 7.67,
+  "total_mv": 153664000000.0,
+  "float_mv": 149988000000.0,
+  "quote_at": "20261104161415",
+  "as_of_date": "2026-11-04"
  },
  "profile": {
   "identity": {
@@ -615,5 +615,5 @@
    "count_12m": null
   }
  },
- "now_at": "2026-11-04"
+ "now_at": "2026-11-05"
 }

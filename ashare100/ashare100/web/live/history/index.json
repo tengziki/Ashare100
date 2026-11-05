@@ -47,16 +47,16 @@
   "last_rank": 97,
   "profile_status": "verified_snapshot"
  },
- "601600.SH": {
-  "name": "中国铝业",
-  "exited_on": "2026-11-04",
-  "last_rank": 98,
-  "profile_status": "verified_snapshot"
- },
  "600660.SH": {
   "name": "福耀玻璃",
   "exited_on": "2026-11-04",
   "last_rank": 99,
   "profile_status": "auto_profile"
+ },
+ "002916.SZ": {
+  "name": "深南电路",
+  "exited_on": "2026-11-05",
+  "last_rank": 99,
+  "profile_status": "verified_snapshot"
  }
 }
