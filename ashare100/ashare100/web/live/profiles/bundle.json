@@ -1,7 +1,7 @@
 {
  "meta": {
-  "snapshot": "snapshots/20261106T033609Z.json",
-  "generated_at": "2026-11-06T11:37:38+08:00",
+  "snapshot": "snapshots/20261106T071111Z.json",
+  "generated_at": "2026-11-06T15:11:43+08:00",
   "baseline": "data.js",
   "verified_changed": 6,
   "auto": 2,
