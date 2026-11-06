@@ -4,8 +4,8 @@
  "exited_on": "2026-11-04",
  "exited_vs": "2026-11-03 收盘",
  "last_rank": 99,
- "now_rank": 107,
- "now_total_mv": 145676000000.0,
+ "now_rank": 101,
+ "now_total_mv": 146981000000.0,
  "profile_status": "auto_profile",
  "market": {
   "price": 55.25,
@@ -540,5 +540,5 @@
    }
   }
  },
- "now_at": "2026-11-05"
+ "now_at": "2026-11-06"
 }

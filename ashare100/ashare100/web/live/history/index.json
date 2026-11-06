@@ -35,18 +35,6 @@
   "last_rank": 100,
   "profile_status": "auto_profile"
  },
- "600016.SH": {
-  "name": "民生银行",
-  "exited_on": "2026-11-04",
-  "last_rank": 95,
-  "profile_status": "verified_snapshot"
- },
- "601009.SH": {
-  "name": "南京银行",
-  "exited_on": "2026-11-04",
-  "last_rank": 97,
-  "profile_status": "verified_snapshot"
- },
  "600660.SH": {
   "name": "福耀玻璃",
   "exited_on": "2026-11-04",
@@ -57,6 +45,18 @@
   "name": "深南电路",
   "exited_on": "2026-11-05",
   "last_rank": 99,
+  "profile_status": "verified_snapshot"
+ },
+ "002463.SZ": {
+  "name": "沪电股份",
+  "exited_on": "2026-11-06",
+  "last_rank": 97,
+  "profile_status": "verified_snapshot"
+ },
+ "300408.SZ": {
+  "name": "三环集团",
+  "exited_on": "2026-11-06",
+  "last_rank": 98,
   "profile_status": "verified_snapshot"
  }
 }
