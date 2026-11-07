@@ -40,7 +40,8 @@ class AutoReviewTests(unittest.TestCase):
         self.assertEqual(ar.parse_dps(NOTICES["n2"]), 0.22295)
         self.assertIsNone(ar.parse_dps("无"))
         for title, year in (("南京银行2025年半年度权益分派实施公告", 2025), ("2025年年度权益分派实施公告", 2025),
-                            ("贵州茅台2025年中期权益分派实施公告", 2025), ("2024年度利润分配实施公告", 2024)):
+                            ("贵州茅台2025年中期权益分派实施公告", 2025), ("2024年度利润分配实施公告", 2024),
+                            ("2025年度A股利润分配实施公告", 2025), ("2025年度中期A股利润分配实施公告", 2025)):
             self.assertEqual(int(ar.NOTICE_RE.search(title)[1]), year)
 
     def test_dividend_mismatch_or_missing_notice_fails(self):
@@ -62,6 +63,27 @@ class AutoReviewTests(unittest.TestCase):
         self.assertEqual(got["audit_opinion"], "标准无保留意见")
         self.assertEqual(ar.parse_summary("审计意见为：标准的无保留意见。实现营业总收入451.05亿元")["audit_opinion"], "标准无保留意见")
         self.assertIsNone(ar.parse_summary("主要会计数据 营业收入 1,000")["revenue"])
+
+    def test_parse_narrative_with_wei_and_szse_opinion(self):
+        # 广发证券 2025 年报摘要：叙述句带「为」，审计意见只写「非标准审计意见提示 不适用」
+        got = ar.parse_summary("非标准审计意见提示\n  不适用\n报告期本集团营业总收入为354.93亿元，同比增加34.33%；"
+                               "归属于上市公司股东的净利润为137.02亿元，同比增加42.18%")
+        self.assertEqual(got, {"revenue": 354.93e8, "net_profit": 137.02e8, "audit_opinion": "标准无保留意见"})
+        self.assertIsNone(ar.parse_summary("非标准审计意见提示 √适用 □不适用")["audit_opinion"])
+
+    def test_parse_table_when_no_narrative(self):
+        # 山西汾酒 2025 年报摘要：只有主要会计数据表，「归属于上市公司股东的 / 净资产、净利润」跨行
+        text = """
+                                     单位：元 币种：人民币
+归属于上市公司股东的 39,633,139,714.36 34,753,830,416.04   14.04 27,836,907,912.57
+净资产
+营业收入        38,718,257,657.74 36,010,992,321.46  7.52 31,928,483,054.02
+归属于上市公司股东的 12,246,329,337.25 12,242,884,323.77   0.03 10,438,114,410.47
+净利润
+"""
+        got = ar.parse_summary(text)
+        self.assertEqual((got["revenue"], got["net_profit"]), (38718257658, 12246329337))
+        self.assertEqual(ar.parse_table(text.replace("单位：元", "单位：万元"))[0], 387182576577400)
 
     def run_one(self, prof, text=SUMMARY, notices=None):
         notices = NOTICES if notices is None else notices

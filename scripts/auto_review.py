@@ -32,8 +32,15 @@ LIVE_DIR = store.ROOT / "ashare100" / "ashare100" / "web" / "live"
 ID_CACHE = store.ROOT / "ashare100" / "ashare100" / "profiles" / "disclosure_ids.json"
 UNIT = {"亿元": 1e8, "万元": 1e4, "元": 1}
 NUM = r"(?:人民币)?([\d,]+(?:\.\d+)?)(亿元|万元|元)"
-REVENUE_RE = re.compile(r"实现营业(?:总)?收入" + NUM)
-PROFIT_RE = re.compile(r"(?:实现)?归属于(?:母公司|上市公司|本行|本公司)?(?:普通股)?(?:股东|所有者)的净利润" + NUM)
+# 叙述句：「实现营业收入 X 亿元」或「营业总收入为 X 亿元」（广发证券）
+REVENUE_RE = re.compile(r"(?:实现营业(?:总)?收入|营业(?:总)?收入(?:为|达到?))" + NUM)
+OWNER = r"归属于(?:母公司|上市公司|本行|本公司)?(?:普通股)?(?:股东|所有者)的"
+PROFIT_RE = re.compile(r"(?:实现)?" + OWNER + r"净利润(?:为|达到?)?" + NUM)
+# 摘要只有表格、没有叙述句时（山西汾酒）：「单位：元」之后的主要会计数据表，行首是项目名，第一个数为本年
+TABLE_UNIT_RE = re.compile(r"单位\s*[:：]\s*(亿元|万元|元)")
+TABLE_NUM = r"(?:（元）)?\s+([\d,]+\.\d+)"
+TABLE_REVENUE_RE = re.compile(r"营业(?:总)?收入" + TABLE_NUM)
+TABLE_PROFIT_RE = re.compile(OWNER + r"(净利润)?" + TABLE_NUM)
 OPINIONS = [("带强调事项段的无保留意见", "带强调事项段的无保留意见"), ("标准(?:的)?无保留意见", "标准无保留意见"),
             ("保留意见", "保留意见"), ("否定意见", "否定意见"), ("无法表示意见", "无法表示意见")]
 
@@ -42,17 +49,44 @@ def amount(match):
     return round(float(match[1].replace(",", "")) * UNIT[match[2]]) if match else None
 
 
+def parse_table(text):
+    """主要会计数据表 → (营业收入, 归母净利润)；只认行首的项目名，跨行的「归属于上市公司股东的 / 净利润」看下一行。"""
+    lines = [line.strip() for line in text.splitlines() if line.strip()]
+    start = next((i for i, line in enumerate(lines) if TABLE_UNIT_RE.search(line)), None)
+    if start is None:
+        return None, None
+    unit = UNIT[TABLE_UNIT_RE.search(lines[start])[1]]
+    revenue = profit = None
+    for i, line in enumerate(lines[start + 1:], start + 1):
+        if revenue is None and (m := TABLE_REVENUE_RE.match(line)):
+            revenue = round(float(m[1].replace(",", "")) * unit)
+        m = TABLE_PROFIT_RE.match(line)
+        if profit is None and m and (m[1] or (i + 1 < len(lines) and lines[i + 1] == "净利润")):
+            profit = round(float(m[2].replace(",", "")) * unit)
+        if revenue is not None and profit is not None:
+            break
+    return revenue, profit
+
+
 def parse_summary(text):
-    """年报摘要文本 → {revenue, net_profit, audit_opinion}；读不到的项为 None。"""
+    """年报摘要文本 → {revenue, net_profit, audit_opinion}；读不到的项为 None。叙述句优先，读不到再看表格。"""
     flat = re.sub(r"\s+", "", text)
     head = flat[:6000]  # 审计意见在开头的「重要提示」里
     opinion = next((name for pattern, name in OPINIONS if re.search(pattern + r"(?:的)?审计报告|审计意见为[:：]?" + pattern, head)), None)
-    return {"revenue": amount(REVENUE_RE.search(flat)), "net_profit": amount(PROFIT_RE.search(flat)), "audit_opinion": opinion}
+    # 深交所摘要模板只写「非标准审计意见提示：不适用」（广发证券），即标准无保留意见
+    if opinion is None and re.search(r"非标准审计意见提示[:：]?(?:□适用)?[√☑]?不适用", head):
+        opinion = "标准无保留意见"
+    revenue, profit = amount(REVENUE_RE.search(flat)), amount(PROFIT_RE.search(flat))
+    if revenue is None or profit is None:
+        table = parse_table(text)
+        revenue, profit = revenue if revenue is not None else table[0], profit if profit is not None else table[1]
+    return {"revenue": revenue, "net_profit": profit, "audit_opinion": opinion}
 
 
 DPS_RE = re.compile(r"每股派发现金红利(?:人民币)?([\d.]+)元")
 DPS10_RE = re.compile(r"每10股派(?:发)?(?:现金(?:红利|股利))?(?:人民币)?([\d.]+)元")
-NOTICE_RE = re.compile(r"(\d{4})年(?:年度|度|半年度|中期|前三季度|第三季度|第一季度|一季度)?(?:权益分派|利润分配)实施公告")
+# 「2025年度中期A股利润分配实施公告」（广发证券，A+H 股）：期别可与「年度」连写，可带「A股」
+NOTICE_RE = re.compile(r"(\d{4})年(?:年度|度)?(?:半年度|中期|前三季度|第三季度|第一季度|一季度)?(?:A股)?(?:权益分派|利润分配)实施公告")
 
 
 def parse_dps(text):
