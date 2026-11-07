@@ -26,9 +26,9 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
 
@@ -60,7 +60,7 @@ jobs:
 
       # GITHUB_TOKEN 提交不会再次触发 push 工作流；直接发布本次构建结果。
       - name: Upload site from this run
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v5
         with:
           path: ashare100/ashare100/web
 
@@ -77,7 +77,7 @@ jobs:
       - name: Deploy the validated site
         id: first
         continue-on-error: true
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
       # 上一次 Pages 发布尚未结束时会被拒（in progress deployment），等它结束再发一次
       - name: Wait for the previous deployment
         if: steps.first.outcome == 'failure'
@@ -85,7 +85,7 @@ jobs:
       - name: Retry deploy
         id: retry
         if: steps.first.outcome == 'failure'
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
 
   # 失败告警：任一步失败时开一个 data-alert issue；已有未关闭的同类 issue 则追加评论，避免刷屏
   alert:

@@ -21,9 +21,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
 
@@ -31,7 +31,7 @@ jobs:
         run: python scripts/validate_pages_bundle.py
 
       - name: Upload site
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v5
         with:
           path: ashare100/ashare100/web
 
@@ -48,7 +48,7 @@ jobs:
       - name: Deploy
         id: first
         continue-on-error: true
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
       # 上一次 Pages 发布尚未结束时会被拒（in progress deployment），等它结束再发一次
       - name: Wait for the previous deployment
         if: steps.first.outcome == 'failure'
@@ -56,4 +56,4 @@ jobs:
       - name: Retry deploy
         id: retry
         if: steps.first.outcome == 'failure'
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5

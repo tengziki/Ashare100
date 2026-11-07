@@ -32,9 +32,9 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
 
@@ -91,7 +91,7 @@ jobs:
 
       # GITHUB_TOKEN 提交不会再次触发 push 工作流；直接发布本次构建结果。
       - name: Upload site from this run
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v5
         with:
           path: ashare100/ashare100/web
 
@@ -103,11 +103,11 @@ jobs:
       contents: write
     steps:
       # 取 fetch 任务刚推送的最新提交，而不是触发时的旧提交
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           ref: ${{ github.ref_name }}
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
 
@@ -147,7 +147,7 @@ jobs:
           exit 1
 
       - name: Upload site with disclosures
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v5
         with:
           name: github-pages-extras
           path: ashare100/ashare100/web
@@ -165,7 +165,7 @@ jobs:
       - name: Deploy the validated site
         id: first
         continue-on-error: true
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
       # 上一次 Pages 发布尚未结束时会被拒（in progress deployment），等它结束再发一次
       - name: Wait for the previous deployment
         if: steps.first.outcome == 'failure'
@@ -173,7 +173,7 @@ jobs:
       - name: Retry deploy
         id: retry
         if: steps.first.outcome == 'failure'
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
 
   deploy-extras:
     needs: [extras, deploy]
@@ -188,7 +188,7 @@ jobs:
       - name: Deploy site with disclosures
         id: first
         continue-on-error: true
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
         with:
           artifact_name: github-pages-extras
       # 上一次 Pages 发布尚未结束时会被拒（in progress deployment），等它结束再发一次
@@ -198,7 +198,7 @@ jobs:
       - name: Retry deploy
         id: retry
         if: steps.first.outcome == 'failure'
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
         with:
           artifact_name: github-pages-extras
 
