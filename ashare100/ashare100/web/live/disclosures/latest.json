@@ -1,9 +1,9 @@
 {
  "meta": {
-  "generated_at": "2026-11-06T23:00:16+08:00",
+  "generated_at": "2026-11-07T12:55:28+08:00",
   "member_count": 100,
   "announcements_fresh": 100,
-  "problems": 1,
+  "problems": 0,
   "qa_unsupported": 0,
   "snapshot": "snapshots/20261106T145923Z.json"
  },
@@ -3744,7 +3744,7 @@
     ],
     "count_12m": 136
    },
-   "announcements_at": "2026-11-06T19:28:02+08:00",
+   "announcements_at": "2026-11-07T12:55:28+08:00",
    "qa": {
     "items": [
      {
@@ -3815,7 +3815,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000333&orgId=9900005965"
    },
-   "qa_at": "2026-11-06T23:00:16+08:00"
+   "qa_at": "2026-11-07T12:55:28+08:00"
   },
   "601658.SH": {
    "announcements": {

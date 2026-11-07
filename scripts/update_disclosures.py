@@ -98,8 +98,16 @@ def main():
     ids = json.loads(ID_CACHE.read_text(encoding="utf-8")) if ID_CACHE.exists() else {}
     doc, problems = build(codes, previous, ids)
     store.write_json(ID_CACHE, ids)
-    if args.only:  # 只更新部分公司：其余沿用上一版
+    import task_status
+    status_path = args.output_dir / "status.json"
+    old_status = (json.loads(status_path.read_text(encoding="utf-8"))["tasks"].get("disclosures")
+                  if args.only and status_path.exists() else None)
+    if args.only:  # 只更新部分公司：其余与统计沿用上一版，问题清单里补跑公司的旧问题换成这次的结果
         doc["companies"] = {**previous, **doc["companies"]}
+        all_problems = [p for p in (old_status or {}).get("problems", []) if p.split(" ", 1)[0] not in set(codes)] + problems
+        if path.exists():
+            doc["meta"] = {**json.loads(path.read_text(encoding="utf-8"))["meta"],
+                           "generated_at": doc["meta"]["generated_at"], "problems": len(all_problems)}
     for p in problems:
         print("问题：" + p, file=sys.stderr)
     meta = doc["meta"]
@@ -110,13 +118,15 @@ def main():
     doc["meta"]["snapshot"] = manifest["snapshot"]
     store.write_json(path, doc)
     if args.only:
-        return  # 部分补跑不代表整体状态，不写 status.json
-    import task_status
+        # 部分补跑不代表整体状态：上次成功时间与概要沿用，只更新问题清单
+        if old_status:
+            task_status.record("disclosures", old_status["data_date"], all_problems, detail=old_status["detail"],
+                               live_dir=args.output_dir, now=datetime.fromisoformat(old_status["last_success"]))
+        return
     task_status.record("disclosures", snapshot["meta"]["quote_date"], problems,
                        detail=f"公告 {meta['announcements_fresh']}/{meta['member_count']} 家"
                               + (f"；深市问答暂不支持 {meta['qa_unsupported']} 家" if meta["qa_unsupported"] else ""),
                        live_dir=args.output_dir)
-
 
 if __name__ == "__main__":
     main()

@@ -685,15 +685,12 @@
   "px": 78
  },
  "300433.SZ": {
-  "file": null,
-  "missing": true,
-  "tried": [
-   "google-s2 16px",
-   "duckduckgo 16px",
-   "official 16px",
-   "official 失败：HTTPError"
-  ],
-  "website": "www.hnlens.com"
+  "file": "300433.SZ.png",
+  "source": "https://www.hnlens.com/upload/image/2024/07/17/b7f115fa-82c6-4761-a780-bfb59926d168.png",
+  "bytes": 73002,
+  "via": "manual",
+  "px": 413,
+  "note": "官网首页的彩色 LENS 主标，原图使用；官网 favicon 只有 16px"
  },
  "600660.SH": {
   "file": "600660.SH.png",
@@ -703,13 +700,12 @@
   "px": 128
  },
  "001248.SZ": {
-  "file": null,
-  "missing": true,
-  "tried": [
-   "google-s2 16px",
-   "duckduckgo 失败：HTTPError"
-  ],
-  "website": "www.cr-newenergy.com"
+  "file": "001248.SZ.png",
+  "source": "https://www.cr-newenergy.com/siteInfo/2023-05-16/42131829-1ef1-49bf-abcf-0a9c4b621b52.png",
+  "bytes": 5662,
+  "via": "manual",
+  "px": 104,
+  "note": "官网页头组合标左侧的华润方形标识，裁去右侧中英文字；官网 favicon 只有 16px"
  },
  "301666.SZ": {
   "file": "301666.SZ.png",
@@ -747,11 +743,12 @@
   "px": 78
  },
  "300999.SZ": {
-  "file": "300999.SZ.jpg",
-  "source": "https://www.google.com/s2/favicons?domain=www.yihaikerry.net.cn&sz=128",
-  "bytes": 2268,
-  "via": "google-s2",
-  "px": 135
+  "file": "300999.SZ.png",
+  "source": "https://www.yihaikerry.net.cn/admin/upload/2023-06/168627293508593500.png",
+  "bytes": 16264,
+  "via": "manual",
+  "px": 140,
+  "note": "官网页头「益海嘉里 + 金龙鱼」组合标右侧的金龙鱼品牌标，裁去左侧益海嘉里字标；替换原先 Google 图标服务取到的益海嘉里横幅"
  },
  "600760.SH": {
   "file": "600760.SH.png",
