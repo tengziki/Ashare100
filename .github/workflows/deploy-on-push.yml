@@ -43,8 +43,17 @@ jobs:
       id-token: write
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.first.outputs.page_url || steps.retry.outputs.page_url }}
     steps:
       - name: Deploy
-        id: deployment
+        id: first
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+      # 上一次 Pages 发布尚未结束时会被拒（in progress deployment），等它结束再发一次
+      - name: Wait for the previous deployment
+        if: steps.first.outcome == 'failure'
+        run: sleep 120
+      - name: Retry deploy
+        id: retry
+        if: steps.first.outcome == 'failure'
         uses: actions/deploy-pages@v4

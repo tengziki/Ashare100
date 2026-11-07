@@ -72,10 +72,19 @@ jobs:
       id-token: write
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.first.outputs.page_url || steps.retry.outputs.page_url }}
     steps:
       - name: Deploy the validated site
-        id: deployment
+        id: first
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+      # 上一次 Pages 发布尚未结束时会被拒（in progress deployment），等它结束再发一次
+      - name: Wait for the previous deployment
+        if: steps.first.outcome == 'failure'
+        run: sleep 120
+      - name: Retry deploy
+        id: retry
+        if: steps.first.outcome == 'failure'
         uses: actions/deploy-pages@v4
 
   # 失败告警：任一步失败时开一个 data-alert issue；已有未关闭的同类 issue 则追加评论，避免刷屏
