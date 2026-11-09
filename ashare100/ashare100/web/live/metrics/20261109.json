@@ -1,7 +1,7 @@
 {
  "meta": {
   "quote_date": "2026-11-09",
-  "generated_at": "2026-11-09T20:07:50+08:00",
+  "generated_at": "2026-11-10T01:29:19+08:00",
   "snapshot_generated_at": "2026-11-09T20:01:34+08:00",
   "sources": {
    "kline": "腾讯前复权日 K",
@@ -396,6 +396,17 @@
    "dps_fiscal_year": 2025,
    "dps_pretax": 0.42
   },
+  "600276.SH": {
+   "price": 49.23,
+   "ytd_return": -17.08,
+   "return_1y": -19.79,
+   "return_3y": 3.03,
+   "high_52w": 65.63,
+   "low_52w": 41.89,
+   "dividend_yield": 0.41,
+   "dps_fiscal_year": 2025,
+   "dps_pretax": 0.2
+  },
   "601319.SH": {
    "price": 7.32,
    "ytd_return": -15.81,
@@ -561,6 +572,17 @@
    "dps_fiscal_year": 2025,
    "dps_pretax": 1.0
   },
+  "003816.SZ": {
+   "price": 4.77,
+   "ytd_return": 29.83,
+   "return_1y": 18.54,
+   "return_3y": 77.65,
+   "high_52w": 4.9,
+   "low_52w": 3.654,
+   "dividend_yield": 1.8,
+   "dps_fiscal_year": 2025,
+   "dps_pretax": 0.086
+  },
   "688012.SH": {
    "price": 248.0,
    "ytd_return": 35.67,
@@ -651,11 +673,11 @@
   },
   "601869.SH": {
    "price": 254.0,
-   "ytd_return": 118.84,
-   "return_1y": 211.91,
-   "return_3y": 778.8,
-   "high_52w": 599.705,
-   "low_52w": 71.985,
+   "ytd_return": 120.86,
+   "return_1y": 216.02,
+   "return_3y": 812.26,
+   "high_52w": 598.645,
+   "low_52w": 70.925,
    "dividend_yield": 0.12,
    "dps_fiscal_year": 2025,
    "dps_pretax": 0.295
@@ -1088,28 +1110,6 @@
    "dividend_yield": 0.6,
    "dps_fiscal_year": 2025,
    "dps_pretax": 0.45
-  },
-  "600276.SH": {
-   "price": 49.23,
-   "ytd_return": -17.08,
-   "return_1y": -19.79,
-   "return_3y": 3.03,
-   "high_52w": 65.63,
-   "low_52w": 41.89,
-   "dividend_yield": 0.41,
-   "dps_fiscal_year": 2025,
-   "dps_pretax": 0.2
-  },
-  "003816.SZ": {
-   "price": 4.77,
-   "ytd_return": 29.83,
-   "return_1y": 18.54,
-   "return_3y": 77.65,
-   "high_52w": 4.9,
-   "low_52w": 3.654,
-   "dividend_yield": 1.8,
-   "dps_fiscal_year": 2025,
-   "dps_pretax": 0.086
   }
  },
  "errors": {}
