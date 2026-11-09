@@ -15,7 +15,7 @@
    "schedule": "收盘榜单后接力",
    "warn_hours": 28,
    "stale_hours": 52,
-   "last_success": "2026-11-09T11:40:38+08:00",
+   "last_success": "2026-11-09T15:14:34+08:00",
    "data_date": "2026-11-09",
    "detail": "100/100 家",
    "problems": []
@@ -43,5 +43,5 @@
    "problems": []
   }
  },
- "updated": "2026-11-09T15:13:21+08:00"
+ "updated": "2026-11-09T15:14:34+08:00"
 }
