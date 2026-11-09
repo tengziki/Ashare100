@@ -47,16 +47,22 @@
   "last_rank": 99,
   "profile_status": "verified_snapshot"
  },
- "002463.SZ": {
-  "name": "沪电股份",
-  "exited_on": "2026-11-06",
-  "last_rank": 97,
+ "000776.SZ": {
+  "name": "广发证券",
+  "exited_on": "2026-11-09",
+  "last_rank": 98,
   "profile_status": "verified_snapshot"
  },
- "300408.SZ": {
-  "name": "三环集团",
-  "exited_on": "2026-11-06",
-  "last_rank": 98,
+ "600016.SH": {
+  "name": "民生银行",
+  "exited_on": "2026-11-09",
+  "last_rank": 99,
+  "profile_status": "verified_snapshot"
+ },
+ "601600.SH": {
+  "name": "中国铝业",
+  "exited_on": "2026-11-09",
+  "last_rank": 100,
   "profile_status": "verified_snapshot"
  }
 }

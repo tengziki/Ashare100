@@ -1,23 +1,23 @@
 {
  "code": "600016.SH",
  "name": "民生银行",
- "exited_on": "2026-11-04",
- "exited_vs": "2026-11-03 收盘",
- "last_rank": 95,
- "now_rank": 99,
- "now_total_mv": 148860000000.0,
+ "exited_on": "2026-11-09",
+ "exited_vs": "2026-11-06 收盘",
+ "last_rank": 99,
+ "now_rank": 101,
+ "now_total_mv": 150174000000.0,
  "profile_status": "verified_snapshot",
  "market": {
-  "price": 3.45,
-  "change_pct": 0.88,
-  "amount": 1413900000.0,
-  "turnover_rate": 1.17,
-  "pe_ttm": 5.73,
+  "price": 3.4,
+  "change_pct": -0.29,
+  "amount": 666980000.0,
+  "turnover_rate": 0.55,
+  "pe_ttm": 5.65,
   "pb": 0.26,
-  "total_mv": 151049000000.0,
-  "float_mv": 122344000000.0,
-  "quote_at": "20261103161455",
-  "as_of_date": "2026-11-03"
+  "total_mv": 148860000000.0,
+  "float_mv": 120571000000.0,
+  "quote_at": "20261106161452",
+  "as_of_date": "2026-11-06"
  },
  "profile": {
   "identity": {
@@ -492,5 +492,5 @@
    }
   }
  },
- "now_at": "2026-11-06"
+ "now_at": "2026-11-09"
 }
