@@ -400,5 +400,13 @@
     "base_label": "2026-11-10 11:36",
     "entered": [],
     "exited": []
+  },
+  {
+    "snapshot": "snapshots/20261110T114025Z.json",
+    "quote_date": "2026-11-10",
+    "slot": "close",
+    "base_label": "2026-11-10 收盘",
+    "entered": [],
+    "exited": []
   }
 ]
