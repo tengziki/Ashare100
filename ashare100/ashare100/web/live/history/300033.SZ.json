@@ -1,23 +1,23 @@
 {
  "code": "300033.SZ",
  "name": "同花顺",
- "exited_on": "2026-10-30",
- "exited_vs": "2026-10-29 收盘",
- "last_rank": 100,
- "now_rank": 94,
- "now_total_mv": 157159000000.0,
+ "exited_on": "2026-11-11",
+ "exited_vs": "2026-11-10 收盘",
+ "last_rank": 98,
+ "now_rank": 101,
+ "now_total_mv": 151725000000.0,
  "profile_status": "verified_snapshot",
  "market": {
-  "price": 200.69,
-  "change_pct": 0.85,
-  "amount": 2419560000.0,
-  "turnover_rate": 2.74,
-  "pe_ttm": 37.43,
-  "pb": 17.57,
-  "total_mv": 151047000000.0,
-  "float_mv": 87984000000.0,
-  "quote_at": "20261029161445",
-  "as_of_date": "2026-10-29"
+  "price": 201.99,
+  "change_pct": -0.75,
+  "amount": 1898300000.0,
+  "turnover_rate": 2.14,
+  "pe_ttm": 37.67,
+  "pb": 17.69,
+  "total_mv": 152026000000.0,
+  "float_mv": 88554000000.0,
+  "quote_at": "20261110161406",
+  "as_of_date": "2026-11-10"
  },
  "profile": {
   "identity": {
@@ -633,5 +633,5 @@
    "count_12m": null
   }
  },
- "now_at": "2026-11-02"
+ "now_at": "2026-11-11"
 }

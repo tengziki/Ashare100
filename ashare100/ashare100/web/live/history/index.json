@@ -23,12 +23,6 @@
   "last_rank": 94,
   "profile_status": "verified_snapshot"
  },
- "300394.SZ": {
-  "name": "天孚通信",
-  "exited_on": "2026-11-03",
-  "last_rank": 94,
-  "profile_status": "verified_snapshot"
- },
  "600999.SH": {
   "name": "招商证券",
   "exited_on": "2026-11-04",
@@ -40,12 +34,6 @@
   "exited_on": "2026-11-04",
   "last_rank": 99,
   "profile_status": "auto_profile"
- },
- "002916.SZ": {
-  "name": "深南电路",
-  "exited_on": "2026-11-05",
-  "last_rank": 99,
-  "profile_status": "verified_snapshot"
  },
  "000776.SZ": {
   "name": "广发证券",
@@ -69,6 +57,18 @@
   "name": "汇川技术",
   "exited_on": "2026-11-11",
   "last_rank": 100,
+  "profile_status": "verified_snapshot"
+ },
+ "600809.SH": {
+  "name": "山西汾酒",
+  "exited_on": "2026-11-11",
+  "last_rank": 91,
+  "profile_status": "verified_snapshot"
+ },
+ "300033.SZ": {
+  "name": "同花顺",
+  "exited_on": "2026-11-11",
+  "last_rank": 98,
   "profile_status": "verified_snapshot"
  }
 }
