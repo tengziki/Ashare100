@@ -1,8 +1,8 @@
 {
  "meta": {
   "quote_date": "2026-11-11",
-  "generated_at": "2026-11-11T19:29:10+08:00",
-  "snapshot_generated_at": "2026-11-11T19:24:57+08:00",
+  "generated_at": "2026-11-11T23:17:15+08:00",
+  "snapshot_generated_at": "2026-11-11T23:13:13+08:00",
   "sources": {
    "kline": "腾讯前复权日 K",
    "dividends": "东方财富数据中心分红明细"
