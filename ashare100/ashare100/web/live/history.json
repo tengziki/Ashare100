@@ -442,5 +442,13 @@
       "600809.SH",
       "300033.SZ"
     ]
+  },
+  {
+    "snapshot": "snapshots/20261111T112457Z.json",
+    "quote_date": "2026-11-11",
+    "slot": "close",
+    "base_label": "2026-11-11 收盘",
+    "entered": [],
+    "exited": []
   }
 ]
