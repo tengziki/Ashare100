@@ -1,8 +1,8 @@
 {
  "meta": {
   "quote_date": "2026-11-12",
-  "generated_at": "2026-11-12T15:14:44+08:00",
-  "snapshot_generated_at": "2026-11-12T15:11:09+08:00",
+  "generated_at": "2026-11-12T19:50:28+08:00",
+  "snapshot_generated_at": "2026-11-12T19:45:29+08:00",
   "sources": {
    "kline": "腾讯前复权日 K",
    "dividends": "东方财富数据中心分红明细"
@@ -869,17 +869,6 @@
    "dps_fiscal_year": 2025,
    "dps_pretax": 0.23
   },
-  "688795.SH": {
-   "price": 380.22,
-   "ytd_return": -35.33,
-   "return_1y": null,
-   "return_3y": null,
-   "high_52w": 941.08,
-   "low_52w": 292.31,
-   "dividend_yield": 0.0,
-   "dps_fiscal_year": 2025,
-   "dps_pretax": 0.0
-  },
   "002463.SZ": {
    "price": 91.33,
    "ytd_return": 25.85,
@@ -1110,6 +1099,17 @@
    "dividend_yield": 0.06,
    "dps_fiscal_year": 2025,
    "dps_pretax": 0.33
+  },
+  "688795.SH": {
+   "price": 380.22,
+   "ytd_return": -35.33,
+   "return_1y": null,
+   "return_3y": null,
+   "high_52w": 941.08,
+   "low_52w": 292.31,
+   "dividend_yield": 0.0,
+   "dps_fiscal_year": 2025,
+   "dps_pretax": 0.0
   }
  },
  "errors": {}
