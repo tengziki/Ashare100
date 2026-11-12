@@ -1,7 +1,7 @@
 {
-  "snapshot": "snapshots/20261111T151313Z.json",
-  "generated_at": "2026-11-11T23:13:13+08:00",
-  "quote_date": "2026-11-11",
-  "ranking_status": "close_confirmed",
+  "snapshot": "snapshots/20261112T033606Z.json",
+  "generated_at": "2026-11-12T11:36:06+08:00",
+  "quote_date": "2026-11-12",
+  "ranking_status": "intraday_provisional",
   "member_count": 100
 }

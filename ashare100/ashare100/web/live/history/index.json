@@ -1,10 +1,4 @@
 {
- "688072.SH": {
-  "name": "拓荆科技",
-  "exited_on": "2026-10-26",
-  "last_rank": 95,
-  "profile_status": "verified_snapshot"
- },
  "688808.SH": {
   "name": "联讯仪器",
   "exited_on": "2026-10-29",
@@ -59,16 +53,22 @@
   "last_rank": 100,
   "profile_status": "verified_snapshot"
  },
- "600809.SH": {
-  "name": "山西汾酒",
-  "exited_on": "2026-11-11",
-  "last_rank": 91,
-  "profile_status": "verified_snapshot"
- },
- "300033.SZ": {
-  "name": "同花顺",
-  "exited_on": "2026-11-11",
+ "600989.SH": {
+  "name": "宝丰能源",
+  "exited_on": "2026-11-12",
   "last_rank": 98,
   "profile_status": "verified_snapshot"
+ },
+ "300433.SZ": {
+  "name": "蓝思科技",
+  "exited_on": "2026-11-12",
+  "last_rank": 99,
+  "profile_status": "auto_profile"
+ },
+ "002050.SZ": {
+  "name": "三花智控",
+  "exited_on": "2026-11-12",
+  "last_rank": 100,
+  "profile_status": "auto_profile"
  }
 }

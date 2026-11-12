@@ -1,10 +1,10 @@
 {
  "meta": {
-  "snapshot": "snapshots/20261111T151313Z.json",
-  "generated_at": "2026-11-11T23:13:22+08:00",
+  "snapshot": "snapshots/20261112T033606Z.json",
+  "generated_at": "2026-11-12T11:36:58+08:00",
   "baseline": "data.js",
-  "verified_changed": 3,
-  "auto": 2,
+  "verified_changed": 4,
+  "auto": 0,
   "missing": []
  },
  "profiles": {
@@ -1477,33 +1477,33 @@
     }
    }
   },
-  "300433.SZ": {
-   "status": "auto_profile",
+  "600809.SH": {
+   "status": "verified_snapshot",
    "profile": {
     "identity": {
-     "code": "300433",
-     "exchange": "SZ",
-     "board": "创业板",
-     "name_full": "蓝思科技股份有限公司",
-     "name_abbr": "蓝思科技",
+     "code": "600809",
+     "exchange": "SH",
+     "board": "主板",
+     "name_full": "山西杏花村汾酒厂股份有限公司",
+     "name_abbr": "山西汾酒",
      "aliases": [],
-     "name_en": "Lens Technology Co., Ltd.",
+     "name_en": "Shanxi Xinghuacun Fen Wine Factory Co.,Ltd.",
      "former_names": [
-      "N蓝思"
+      "山西汾酒→G汾酒"
      ],
-     "industry_sw1": "电子",
-     "industry_sw2": "消费电子",
-     "list_date": "2015-03-18",
-     "found_date": "2006-12-21",
-     "province": "湖南",
+     "industry_sw1": "食品饮料",
+     "industry_sw2": "白酒Ⅱ",
+     "list_date": "1994-01-06",
+     "found_date": "1985-12-25",
+     "province": "山西",
      "city": null,
-     "website": "www.hnlens.com",
-     "chairman": "周群飞",
-     "employees": 145683,
-     "business_summary": "光学玻璃制造",
-     "profile": "蓝思科技股份有限公司是以科技创新为核心、智能智造为驱动,业内领先的智能终端全产业链一站式精密制造解决方案提供商。1993年成立于深圳(公司前身),2006年总部落户湖南长沙,2015年在深交所创业板上市。2025年在香港交易所上市,实现“A+H”双资本平台的战略布局。公司在新材料应用领域持续突破,率先将玻璃、蓝宝石、陶瓷等材料引入消费电子行业,凭借对玻璃、金属、陶瓷、塑胶、皮革、硅胶、玻纤、碳纤、化纤等十余种材料的深度技术积累,并依托强大的平台化能力,公司实现了从原材料生产、功能模块贴合到整机组装的垂直整合能力,并与全球头部消费电子及智能汽车品牌建立了长期战略合作。蓝思科技通过“新材料、新技术、新装备、新领域”战略,持续不断拓展新领域,业务覆盖消费电子、智能汽车、人形机器人、AI眼镜/XR头显、AI服务器、商业航天、智慧零售设备等新兴领域,形成多场景协同发展的业务布局。在湖南、广东、江苏、越南和泰国等地区和国家拥有12大研发生产基地。",
+     "website": "www.fenjiu.com.cn",
+     "chairman": "袁清茂",
+     "employees": 14026,
+     "business_summary": "汾酒、竹叶青酒、杏花村酒及其系列酒的生产、销售",
+     "profile": "山西杏花村汾酒厂股份有限公司是以生产销售汾酒、竹叶青酒和杏花村酒为主,集白酒、大健康产业、产业链、文化旅游、产业基金于一体的省管重要骨干企业,是国家工信部认定的“全国工业品牌培育示范企业”、国务院国资委“国企改革双百行动”入选企业。公司拥有“杏花村”“竹叶青”“汾”三件中国驰名商标。杏花村汾酒老作坊遗址是全国重点文物保护单位,入选世界文化遗产预备名单;杏花村汾酒酿制技艺是首批国家级非物质文化遗产,竹叶青酒泡制技艺是省级非物质文化遗产;汾酒技术中心是国家级企业技术中心、博士后科研工作站。公司同时还是全国企业文化示范基地、全国十大工业旅游示范基地、国家级酒文化学术活动基地等。汾酒既是中国名白酒的杰出代表,也是清香型白酒国家标准的制定者。汾酒文化源远流长,悠久的酿造历史,精湛的酿造技艺,卓越的清香品质,被誉为“中国白酒产业的奠基者、传承中国白酒文化的火炬手、中国白酒酿造技艺的教科书、见证中国白酒发展历史的活化石”,是“国酒之源,清香之祖,文化之根”,是当之无愧的“中国酒魂”。杏花村已有6000多年的酿酒历史。早在1500年前的南北朝时期,汾酒就作为宫廷御酒受到北齐武成帝的推崇,载入廿四史。晚唐大诗人杜牧的“借问酒家何处有,牧童遥指杏花村”使汾酒家喻户晓。1915年,汾酒在巴拿马万国博览会上荣获甲等大奖章,成为获此殊荣的唯一中国白酒品牌。1949年,山西杏花村汾酒厂成立,汾酒、竹叶青酒成为新中国第一届全国政治协商会议和开国大典国宴用酒。近年来,公司相继获得国家质量管理奖、国家科技进步奖、国家技术发明奖、全国国企管理创新成果一等奖、中国商标金奖、山西省政府质量奖等多项荣誉。全体汾酒人将在习近平新时代中国特色社会主义思想指引下,在省委、省政府的坚强领导下,在省国资委、省国资运营公司的正确指导下,在社会各界的大力支持下,贯彻党的二十大精神,践行汾酒复兴纲领,公正立道、科学经营、重点突破、提势增能,以更高的政治站位和责任担当,进一步解放思想、守正创新,求真务实、团结奋斗,推动汾酒高质量发展!",
      "st_status": null,
-     "audit_opinion": null
+     "audit_opinion": "标准无保留意见"
     },
     "financials": {
      "unit": "CNY",
@@ -1511,221 +1511,216 @@
       {
        "fiscal_year": 2021,
        "report_date": "2021-12-31",
-       "revenue": 45268146209.0,
-       "revenue_yoy": 22.55,
-       "net_profit": 2070242934.0,
-       "net_profit_yoy": -57.72,
-       "net_profit_deducted": 1235486691.0,
-       "gross_margin": 20.92,
-       "net_margin": 4.68,
-       "eps": 0.42,
-       "bvps": 8.57,
-       "roe": 4.87,
-       "roa": 2.71,
-       "debt_ratio": 44.13,
-       "total_liab": 33811752948.0,
-       "total_assets": 76618520163,
+       "revenue": 19970986259.0,
+       "revenue_yoy": 42.75,
+       "net_profit": 5313612016.0,
+       "net_profit_yoy": 72.56,
+       "net_profit_deducted": 5259396088.0,
+       "gross_margin": 74.91,
+       "net_margin": 26.99,
+       "eps": 4.375,
+       "bvps": 12.48,
+       "roe": 42.04,
+       "roa": 21.67,
+       "debt_ratio": 47.97,
+       "total_liab": 14367804020.0,
+       "total_assets": 29951644820,
        "ocf_to_np": null,
-       "ocf": 6039009621.65
+       "ocf": 7645105077.97
       },
       {
        "fiscal_year": 2022,
        "report_date": "2022-12-31",
-       "revenue": 46698545633.0,
-       "revenue_yoy": 3.16,
-       "net_profit": 2448037370.0,
-       "net_profit_yoy": 18.25,
-       "net_profit_deducted": 1961577512.0,
-       "gross_margin": 19.21,
-       "net_margin": 5.4,
-       "eps": 0.5,
-       "bvps": 8.88,
-       "roe": 5.66,
-       "roa": 3.25,
-       "debt_ratio": 43.35,
-       "total_liab": 33964527565.0,
-       "total_assets": 78349544556,
+       "revenue": 26213860718.0,
+       "revenue_yoy": 31.26,
+       "net_profit": 8095872133.0,
+       "net_profit_yoy": 52.36,
+       "net_profit_deducted": 8087317895.0,
+       "gross_margin": 75.36,
+       "net_margin": 31.12,
+       "eps": 6.649,
+       "bvps": 17.48,
+       "roe": 44.74,
+       "roa": 24.48,
+       "debt_ratio": 40.73,
+       "total_liab": 14944976112.0,
+       "total_assets": 36692796740,
        "ocf_to_np": null,
-       "ocf": 9180531955.14
+       "ocf": 10310203977.44
       },
       {
        "fiscal_year": 2023,
        "report_date": "2023-12-31",
-       "revenue": 54490733539.0,
-       "revenue_yoy": 16.69,
-       "net_profit": 3021340311.0,
-       "net_profit_yoy": 23.42,
-       "net_profit_deducted": 2245531016.0,
-       "gross_margin": 16.6,
-       "net_margin": 5.58,
-       "eps": 0.61,
-       "bvps": 9.3,
-       "roe": 6.69,
-       "roa": 3.9,
-       "debt_ratio": 39.95,
-       "total_liab": 30948112466.0,
-       "total_assets": 77467115059,
+       "revenue": 31928483054.0,
+       "revenue_yoy": 21.8,
+       "net_profit": 10438114410.0,
+       "net_profit_yoy": 28.93,
+       "net_profit_deducted": 10444776853.0,
+       "gross_margin": 75.31,
+       "net_margin": 32.76,
+       "eps": 8.563,
+       "bvps": 22.82,
+       "roe": 43.06,
+       "roa": 25.89,
+       "debt_ratio": 35.88,
+       "total_liab": 15820768150.0,
+       "total_assets": 44093556717,
        "ocf_to_np": null,
-       "ocf": 9300199131.87
+       "ocf": 7225083460.39
       },
       {
        "fiscal_year": 2024,
        "report_date": "2024-12-31",
-       "revenue": 69896776438.0,
-       "revenue_yoy": 28.27,
-       "net_profit": 3623900967.0,
-       "net_profit_yoy": 19.94,
-       "net_profit_deducted": 3285538156.0,
-       "gross_margin": 15.89,
-       "net_margin": 5.26,
-       "eps": 0.73,
-       "bvps": 9.76,
-       "roe": 7.64,
-       "roa": 4.64,
-       "debt_ratio": 39.71,
-       "total_liab": 32170136423.0,
-       "total_assets": 81012683009,
+       "revenue": 36010992321.0,
+       "revenue_yoy": 12.79,
+       "net_profit": 12242884324.0,
+       "net_profit_yoy": 17.29,
+       "net_profit_deducted": 12245617493.0,
+       "gross_margin": 76.2,
+       "net_margin": 34.03,
+       "eps": 10.035,
+       "bvps": 28.49,
+       "roe": 39.68,
+       "roa": 25.11,
+       "debt_ratio": 34.19,
+       "total_liab": 18290715229.0,
+       "total_assets": 53497265952,
        "ocf_to_np": null,
-       "ocf": 10888841042.18
+       "ocf": 12172323337.21
       },
       {
        "fiscal_year": 2025,
        "report_date": "2025-12-31",
-       "revenue": 74409731699.0,
-       "revenue_yoy": 6.46,
-       "net_profit": 4017827409.0,
-       "net_profit_yoy": 10.87,
-       "net_profit_deducted": 3834709701.0,
-       "gross_margin": 15.99,
-       "net_margin": 5.43,
-       "eps": 0.79,
-       "bvps": 10.41,
-       "roe": 7.82,
-       "roa": 4.89,
-       "debt_ratio": 34.68,
-       "total_liab": 29251557297.0,
-       "total_assets": 84347051029,
+       "revenue": 38718257658.0,
+       "revenue_yoy": 7.52,
+       "net_profit": 12246329337.0,
+       "net_profit_yoy": 0.03,
+       "net_profit_deducted": 12253039163.0,
+       "gross_margin": 74.85,
+       "net_margin": 31.76,
+       "eps": 10.038,
+       "bvps": 32.49,
+       "roe": 33.48,
+       "roa": 22.39,
+       "debt_ratio": 28.74,
+       "total_liab": 16189005334.0,
+       "total_assets": 56329176527,
        "ocf_to_np": null,
-       "ocf": 11464998294.64
+       "ocf": 9013519822.15
       }
      ],
      "latest": {
       "report_period": "2026-09-30",
       "report_type": "2026年三季报",
-      "revenue": 47901825646.0,
-      "revenue_yoy": -10.74,
-      "net_profit": 1419771875.0,
-      "net_profit_yoy": -50.06,
-      "net_profit_deducted": 998094762.0,
-      "gross_margin": 16.57,
-      "net_margin": 3.0,
-      "eps": 0.27,
-      "roe": 2.61,
-      "debt_ratio": 41.66,
-      "ocf": 4712973676.67
+      "revenue": 28381899020.0,
+      "revenue_yoy": -13.8,
+      "net_profit": 8337890045.0,
+      "net_profit_yoy": -26.89,
+      "net_profit_deducted": 8337084204.0,
+      "gross_margin": 74.01,
+      "net_margin": 29.51,
+      "eps": 6.83,
+      "roe": 20.26,
+      "debt_ratio": 30.96,
+      "ocf": 7934297538.9
      },
      "derived": {
-      "revenue_cagr_3y": 16.8,
-      "net_profit_cagr_3y": 17.96,
+      "revenue_cagr_3y": 13.88,
+      "net_profit_cagr_3y": 14.79,
       "receivables_to_revenue": null,
       "goodwill_to_equity": null
      }
     },
     "shareholders": {
-     "controller": "郑俊龙,周群飞",
+     "controller": "山西省人民政府国有资产监督管理委员会",
      "controlling_shareholder": null,
      "controlling_ratio": null,
      "top10": [
       {
        "rank": 1,
-       "name": "蓝思科技(香港)有限公司",
-       "hold_num": 2804509821.0,
-       "hold_ratio": 53.13,
+       "name": "山西杏花村汾酒集团有限责任公司",
+       "hold_num": 691089466.0,
+       "hold_ratio": 56.65,
        "hold_num_change": 0
       },
       {
        "rank": 2,
-       "name": "HKSCC NOMINEES LIMITED",
-       "hold_num": 301585590.0,
-       "hold_ratio": 5.71,
-       "hold_num_change": 200.0
-      },
-      {
-       "rank": 3,
-       "name": "长沙群欣投资咨询有限公司",
-       "hold_num": 287230873.0,
-       "hold_ratio": 5.44,
-       "hold_num_change": 3105461.0
-      },
-      {
-       "rank": 4,
-       "name": "长沙领新产业投资合伙企业(有限合伙)",
-       "hold_num": 196540880.0,
-       "hold_ratio": 3.72,
+       "name": "华创鑫睿(香港)有限公司",
+       "hold_num": 111913697.0,
+       "hold_ratio": 9.17,
        "hold_num_change": 0
       },
       {
-       "rank": 5,
+       "rank": 3,
+       "name": "中国银行股份有限公司-招商中证白酒指数分级证券投资基金",
+       "hold_num": 51856468.0,
+       "hold_ratio": 4.25,
+       "hold_num_change": 8373297.0
+      },
+      {
+       "rank": 4,
        "name": "香港中央结算有限公司",
-       "hold_num": 76883254.0,
-       "hold_ratio": 1.46,
-       "hold_num_change": -1357538.0
+       "hold_num": 18537343.0,
+       "hold_ratio": 1.52,
+       "hold_num_change": -3608039.0
+      },
+      {
+       "rank": 5,
+       "name": "中国建设银行股份有限公司-鹏华中证酒交易型开放式指数证券投资基金",
+       "hold_num": 14007245.0,
+       "hold_ratio": 1.15,
+       "hold_num_change": -649194.0
       },
       {
        "rank": 6,
-       "name": "中国光大银行股份有限公司-兴全商业模式优选混合型证券投资基金(LOF)",
-       "hold_num": 23573807.0,
-       "hold_ratio": 0.45,
-       "hold_num_change": null
+       "name": "山西杏花村国际贸易有限责任公司",
+       "hold_num": 8251558.0,
+       "hold_ratio": 0.68,
+       "hold_num_change": 0
       },
       {
        "rank": 7,
-       "name": "中国工商银行股份有限公司-易方达创业板交易型开放式指数证券投资基金",
-       "hold_num": 23013629.0,
-       "hold_ratio": 0.44,
-       "hold_num_change": 11017533.0
+       "name": "中国农业银行股份有限公司-易方达消费行业股票型证券投资基金",
+       "hold_num": 7539090.0,
+       "hold_ratio": 0.62,
+       "hold_num_change": 0
       },
       {
        "rank": 8,
-       "name": "招商银行股份有限公司-兴全合润混合型证券投资基金",
-       "hold_num": 21002990.0,
-       "hold_ratio": 0.4,
-       "hold_num_change": 5712800.0
+       "name": "中国工商银行股份有限公司-中证主要消费交易型开放式指数证券投资基金",
+       "hold_num": 6539053.0,
+       "hold_ratio": 0.54,
+       "hold_num_change": -127200.0
       },
       {
        "rank": 9,
-       "name": "深圳蓝宝石私募证券投资基金管理有限公司-蓝宝石鲲鹏1号私募证券投资基金",
-       "hold_num": 20635063.0,
-       "hold_ratio": 0.39,
-       "hold_num_change": null
+       "name": "瑞众人寿保险有限责任公司-自有资金",
+       "hold_num": 5572077.0,
+       "hold_ratio": 0.46,
+       "hold_num_change": 827434.0
       },
       {
        "rank": 10,
-       "name": "深圳蓝宝石私募证券投资基金管理有限公司-蓝宝石全球视野私募证券投资基金",
-       "hold_num": 11594476.0,
-       "hold_ratio": 0.22,
+       "name": "阿布达比投资局-自有资金",
+       "hold_num": 4816497.0,
+       "hold_ratio": 0.39,
        "hold_num_change": null
       }
      ],
      "top10_date": "2026-09-30",
-     "holder_num": 313545.0,
-     "holder_num_change_pct": -3.32,
+     "holder_num": 113888.0,
+     "holder_num_change_pct": -3.41,
      "holder_num_date": "2026-09-30",
      "inst_hold_ratio": null,
-     "northbound_ratio": 1.46,
+     "northbound_ratio": 1.52,
      "executives": [
       {
-       "name": "周群飞",
+       "name": "袁清茂",
        "title": "董事长",
        "pay": null
       },
       {
-       "name": "周群飞",
-       "title": "总经理",
-       "pay": null
-      },
-      {
-       "name": "江南",
+       "name": "陈曦",
        "title": "董事会秘书",
        "pay": null
       }
@@ -1737,583 +1732,93 @@
      "annual": [
       {
        "fiscal_year": 2021,
-       "dps_pretax": 0.1,
-       "total_amount": 497347999.8,
-       "payout_ratio": 24.02,
+       "dps_pretax": 1.8,
+       "total_amount": 2196132159.6,
+       "payout_ratio": 41.33,
        "dividend_yield": null,
-       "ex_date": "2022-06-01"
+       "ex_date": "2022-06-28"
       },
       {
        "fiscal_year": 2022,
-       "dps_pretax": 0.2,
-       "total_amount": 994695999.6,
-       "payout_ratio": 40.63,
+       "dps_pretax": 3.32,
+       "total_amount": 4050281217.04,
+       "payout_ratio": 50.03,
        "dividend_yield": null,
-       "ex_date": "2023-06-01"
+       "ex_date": "2023-06-26"
       },
       {
        "fiscal_year": 2023,
-       "dps_pretax": 0.3,
-       "total_amount": 1494920934.3,
-       "payout_ratio": 49.48,
+       "dps_pretax": 4.37,
+       "total_amount": 5331243650.14,
+       "payout_ratio": 51.07,
        "dividend_yield": null,
-       "ex_date": "2024-06-26"
+       "ex_date": "2024-07-05"
       },
       {
        "fiscal_year": 2024,
-       "dps_pretax": 0.4,
-       "total_amount": 1993108868.4,
-       "payout_ratio": 55.0,
+       "dps_pretax": 6.06,
+       "total_amount": 7392983185.32,
+       "payout_ratio": 60.39,
        "dividend_yield": null,
-       "ex_date": "2025-06-18"
+       "ex_date": "2025-07-07"
       },
       {
        "fiscal_year": 2025,
-       "dps_pretax": 0.55,
-       "total_amount": 2903866150.6,
-       "payout_ratio": 72.27,
+       "dps_pretax": 6.56,
+       "total_amount": 8002965296.32,
+       "payout_ratio": 65.35,
        "dividend_yield": null,
-       "ex_date": "2026-07-06"
+       "ex_date": "2026-07-31"
       }
      ],
-     "consecutive_years": 6,
-     "cum_dividend_5y": 7883939952.7,
-     "cum_netprofit_5y": 15181348991.0,
-     "payout_5y": 51.93,
+     "consecutive_years": 5,
+     "cum_dividend_5y": 26973605508.42,
+     "cum_netprofit_5y": 48336812220.0,
+     "payout_5y": 55.8,
      "buyback_3y": null
     },
     "peers": {
      "peer_codes": [],
      "segments": [
       {
-       "name": "智能手机与电脑类",
-       "revenue": 61184201306.8,
-       "ratio": 82.23,
+       "name": "汾酒",
+       "revenue": 37441361212.24,
+       "ratio": 96.7,
        "type": "product",
        "period": "2025年报"
       },
       {
-       "name": "智能汽车及座舱类",
-       "revenue": 6461658629.81,
-       "ratio": 8.68,
-       "type": "product",
-       "period": "2025年报"
-      },
-      {
-       "name": "智能头显与智能穿戴类",
-       "revenue": 3978169293.51,
-       "ratio": 5.35,
+       "name": "其他酒类",
+       "revenue": 1151373260.88,
+       "ratio": 2.97,
        "type": "product",
        "period": "2025年报"
       },
       {
        "name": "其他(补充)",
-       "revenue": 1734207399.08,
-       "ratio": 2.33,
+       "revenue": 125523184.62,
+       "ratio": 0.32,
        "type": "product",
        "period": "2025年报"
       },
       {
-       "name": "其他智能终端",
-       "revenue": 1051495070.01,
-       "ratio": 1.41,
-       "type": "product",
-       "period": "2025年报"
-      },
-      {
-       "name": "国外销售",
-       "revenue": 40955215361.54,
-       "ratio": 55.04,
+       "name": "省外",
+       "revenue": 25202184766.32,
+       "ratio": 65.09,
        "type": "region",
        "period": "2025年报"
       },
       {
-       "name": "国内销售",
-       "revenue": 33454516337.67,
-       "ratio": 44.96,
-       "type": "region",
-       "period": "2025年报"
-      }
-     ]
-    },
-    "announcements": {
-     "items": [
-      {
-       "title": "第五届董事会第十八次会议决议公告",
-       "date": "2026-10-26",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-10-26/1225620810.PDF"
-      },
-      {
-       "title": "2026年三季度报告",
-       "date": "2026-10-26",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-10-26/1225620808.PDF"
-      },
-      {
-       "title": "关于收购PMGInternationalCo.,LTD.（裴美高国际有限公司）100%股权事项的进展公告",
-       "date": "2026-10-16",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225608611.PDF"
-      },
-      {
-       "title": "关于参与投资的基金完成私募投资基金备案的公告",
-       "date": "2026-10-13",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225603412.PDF"
-      },
-      {
-       "title": "2026年中期A股利润分配实施公告",
-       "date": "2026-10-13",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225603411.PDF"
-      },
-      {
-       "title": "H股公告：联合公告每月更新资料内容有关中信里昂证券有限公司代表蓝思科技股份有限公司就收购巨腾国际控股有限公司全部已发行股份（蓝思科技股份有限公司及其一致行动人士已拥有或同意收购之股份除外）提出具有前置条件之自愿性有条件全面现金要约",
-       "date": "2026-10-08",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225595388.PDF"
-      },
-      {
-       "title": "H股公告：证券变动月报表（2026年9月）",
-       "date": "2026-09-30",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225591347.PDF"
-      },
-      {
-       "title": "广东信达律师事务所关于蓝思科技股份有限公司实际控制人增持公司A股股份的法律意见书",
-       "date": "2026-09-30",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225591346.PDF"
-      },
-      {
-       "title": "关于公司实际控制人增持本公司A股股份计划实施结果的公告",
-       "date": "2026-09-30",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-09-30/1225591345.PDF"
-      },
-      {
-       "title": "H股公告：联合公告进一步延迟寄发综合文件内容有关中信里昂证券有限公司代表蓝思科技股份有限公司就收购巨腾国际控股有限公司全部已发行股份（蓝思科技股份有限公司及其一致行动人士已拥有或同意收购之股份除外）提出具有前置条件之自愿性有条件全面现金要约",
-       "date": "2026-09-18",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-09-18/1225571738.PDF"
-      },
-      {
-       "title": "关于完成工商变更登记的公告",
-       "date": "2026-09-15",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-09-15/1225566701.PDF"
-      },
-      {
-       "title": "关于与专业投资机构共同投资的公告",
-       "date": "2026-09-15",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-09-15/1225566700.PDF"
-      },
-      {
-       "title": "关于2026年A股限制性股票激励计划第一类限制性股票授予完成的公告",
-       "date": "2026-09-11",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-09-11/1225560743.PDF"
-      },
-      {
-       "title": "关于提前归还部分临时补充流动资金的闲置募集资金的公告",
-       "date": "2026-09-09",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-09-09/1225554953.PDF"
-      },
-      {
-       "title": "H股公告：联合公告每月更新资料内容有关中信里昂证券有限公司代表蓝思科技股份有限公司就收购巨腾国际控股有限公司全部已发行股份（蓝思科技股份有限公司及其一致行动人士已拥有或同意收购之股份除外）提出具有前置条件之自愿性有条件全面现金要约",
-       "date": "2026-09-08",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-09-08/1225553060.PDF"
-      },
-      {
-       "title": "H股公告：证券变动月报表（2026年8月）",
-       "date": "2026-09-03",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225545780.PDF"
-      },
-      {
-       "title": "关于参加2026年湖南辖区上市公司投资者网上集体接待日暨半年度业绩说明会活动的公告",
-       "date": "2026-08-27",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225515786.PDF"
-      },
-      {
-       "title": "关于2026年前二季度计提减值准备及核销资产的公告",
-       "date": "2026-08-22",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225491669.PDF"
-      },
-      {
-       "title": "第五届董事会第十七次会议决议公告",
-       "date": "2026-08-22",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225491668.PDF"
-      },
-      {
-       "title": "2026年半年度募集资金存放、管理与使用情况专项报告",
-       "date": "2026-08-22",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-08-22/1225491667.PDF"
-      }
-     ],
-     "count_12m": 139
-    },
-    "qa": {
-     "items": []
-    },
-    "_meta": {
-     "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
-     "fetched_at": "2026-11-06T19:26:26+08:00",
-     "errors": {}
-    },
-    "_extras": {
-     "announcements": {
-      "fetched_at": "2026-10-30T00:02:04+08:00",
-      "error": null
-     },
-     "qa": {
-      "fetched_at": null,
-      "error": "Unsupported 互动易需要巨潮 orgId"
-     }
-    }
-   }
-  },
-  "002050.SZ": {
-   "status": "auto_profile",
-   "profile": {
-    "identity": {
-     "code": "002050",
-     "exchange": "SZ",
-     "board": "主板",
-     "name_full": "浙江三花智能控制股份有限公司",
-     "name_abbr": "三花智控",
-     "aliases": [],
-     "name_en": "Zhejiang Sanhua Intelligent Controls Co.,Ltd.",
-     "former_names": [
-      "三花股份→G三花→三花股份"
-     ],
-     "industry_sw1": "家用电器",
-     "industry_sw2": "家电零部件Ⅱ",
-     "list_date": "2005-06-07",
-     "found_date": "1994-09-10",
-     "province": "浙江",
-     "city": null,
-     "website": "www.zjshc.com",
-     "chairman": "张亚波",
-     "employees": 19090,
-     "business_summary": "家用电器研发",
-     "profile": "浙江三花智能控制股份有限公司坚持“专注领先、创新超越”的经营战略,以热泵技术和热管理系统产品的研究与应用为核心,专注于冷热转换、温度智能控制的环境热管理解决方案开发,致力于建筑暖通、电器设备和新能源汽车热管理领域的专业化经营。公司业务主要分为制冷空调电器零部件业务和汽车零部件业务。制冷空调电器零部件业务致力于建筑暖通、电器设备专业化经营,主要产品包括四通换向阀、电子膨胀阀、电磁阀、微通道换热器、Omega泵等,广泛应用于空调、冰箱、冷链物流、洗碗机等领域;汽车零部件业务专注于汽车热管理领域的深入研究,主要产品包括冷媒阀、换热器、泵类、水阀,以及新能源车热管理集成组件等,广泛应用于新能源汽车和传统燃油车。",
-     "st_status": null,
-     "audit_opinion": null
-    },
-    "financials": {
-     "unit": "CNY",
-     "annual": [
-      {
-       "fiscal_year": 2021,
-       "report_date": "2021-12-31",
-       "revenue": 16020809806.0,
-       "revenue_yoy": 32.3,
-       "net_profit": 1684044407.0,
-       "net_profit_yoy": 15.18,
-       "net_profit_deducted": 1487491274.0,
-       "gross_margin": 25.68,
-       "net_margin": 10.64,
-       "eps": 0.47,
-       "bvps": 2.99,
-       "roe": 15.98,
-       "roa": 8.39,
-       "debt_ratio": 52.36,
-       "total_liab": 12367376151.0,
-       "total_assets": 23619893337,
-       "ocf_to_np": null,
-       "ocf": 1555819103.29
-      },
-      {
-       "fiscal_year": 2022,
-       "report_date": "2022-12-31",
-       "revenue": 21347549741.0,
-       "revenue_yoy": 33.25,
-       "net_profit": 2573344180.0,
-       "net_profit_yoy": 52.81,
-       "net_profit_deducted": 2291450453.0,
-       "gross_margin": 26.08,
-       "net_margin": 12.22,
-       "eps": 0.72,
-       "bvps": 3.49,
-       "roe": 21.38,
-       "roa": 10.11,
-       "debt_ratio": 53.08,
-       "total_liab": 14841913965.0,
-       "total_assets": 27961405360,
-       "ocf_to_np": null,
-       "ocf": 2509666490.56
-      },
-      {
-       "fiscal_year": 2023,
-       "report_date": "2023-12-31",
-       "revenue": 24557802067.0,
-       "revenue_yoy": 15.04,
-       "net_profit": 2920992940.0,
-       "net_profit_yoy": 13.51,
-       "net_profit_deducted": 2917029188.0,
-       "gross_margin": 27.62,
-       "net_margin": 11.95,
-       "eps": 0.81,
-       "bvps": 4.79,
-       "roe": 19.18,
-       "roa": 9.8,
-       "debt_ratio": 43.36,
-       "total_liab": 13826877149.0,
-       "total_assets": 31888554310,
-       "ocf_to_np": null,
-       "ocf": 3723964354.63
-      },
-      {
-       "fiscal_year": 2024,
-       "report_date": "2024-12-31",
-       "revenue": 27947164516.0,
-       "revenue_yoy": 13.8,
-       "net_profit": 3099165128.0,
-       "net_profit_yoy": 6.1,
-       "net_profit_deducted": 3117935213.0,
-       "gross_margin": 27.47,
-       "net_margin": 11.13,
-       "eps": 0.84,
-       "bvps": 5.17,
-       "roe": 16.77,
-       "roa": 9.12,
-       "debt_ratio": 46.31,
-       "total_liab": 16835104903.0,
-       "total_assets": 36353066083,
-       "ocf_to_np": null,
-       "ocf": 4366630948.36
-      },
-      {
-       "fiscal_year": 2025,
-       "report_date": "2025-12-31",
-       "revenue": 31011744510.0,
-       "revenue_yoy": 10.97,
-       "net_profit": 4062891412.0,
-       "net_profit_yoy": 31.1,
-       "net_profit_deducted": 3958316943.0,
-       "gross_margin": 28.78,
-       "net_margin": 13.24,
-       "eps": 1.03,
-       "bvps": 7.54,
-       "roe": 15.8,
-       "roa": 9.58,
-       "debt_ratio": 35.15,
-       "total_liab": 17365901101.0,
-       "total_assets": 49405124043,
-       "ocf_to_np": null,
-       "ocf": 5090762717.98
-      }
-     ],
-     "latest": {
-      "report_period": "2026-09-30",
-      "report_type": "2026年三季报",
-      "revenue": 25273510066.0,
-      "revenue_yoy": 5.18,
-      "net_profit": 3067294321.0,
-      "net_profit_yoy": -5.4,
-      "net_profit_deducted": 3165788315.0,
-      "gross_margin": 28.34,
-      "net_margin": 12.41,
-      "eps": 0.73,
-      "roe": 9.38,
-      "debt_ratio": 35.29,
-      "ocf": 3748978408.12
-     },
-     "derived": {
-      "revenue_cagr_3y": 13.26,
-      "net_profit_cagr_3y": 16.44,
-      "receivables_to_revenue": null,
-      "goodwill_to_equity": null
-     }
-    },
-    "shareholders": {
-     "controller": "张亚波,张道才,张少波",
-     "controlling_shareholder": null,
-     "controlling_ratio": null,
-     "top10": [
-      {
-       "rank": 1,
-       "name": "三花控股集团有限公司",
-       "hold_num": 948487077.0,
-       "hold_ratio": 22.54,
-       "hold_num_change": 0
-      },
-      {
-       "rank": 2,
-       "name": "浙江三花绿能实业集团有限公司",
-       "hold_num": 664375189.0,
-       "hold_ratio": 15.79,
-       "hold_num_change": 0
-      },
-      {
-       "rank": 3,
-       "name": "HKSCC NOMINEES LIMITED",
-       "hold_num": 476521888.0,
-       "hold_ratio": 11.32,
-       "hold_num_change": 100.0
-      },
-      {
-       "rank": 4,
-       "name": "香港中央结算有限公司",
-       "hold_num": 81040230.0,
-       "hold_ratio": 1.93,
-       "hold_num_change": -8480654.0
-      },
-      {
-       "rank": 5,
-       "name": "兴业银行股份有限公司-华夏中证机器人交易型开放式指数证券投资基金",
-       "hold_num": 40169704.0,
-       "hold_ratio": 0.95,
-       "hold_num_change": 380100.0
-      },
-      {
-       "rank": 6,
-       "name": "张亚波",
-       "hold_num": 29268200.0,
-       "hold_ratio": 0.7,
-       "hold_num_change": 0
-      },
-      {
-       "rank": 7,
-       "name": "全国社保基金一零四组合",
-       "hold_num": 21007530.0,
-       "hold_ratio": 0.5,
-       "hold_num_change": null
-      },
-      {
-       "rank": 8,
-       "name": "国泰海通证券股份有限公司-天弘中证机器人交易型开放式指数证券投资基金",
-       "hold_num": 13951030.0,
-       "hold_ratio": 0.33,
-       "hold_num_change": 231807.0
-      },
-      {
-       "rank": 9,
-       "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
-       "hold_num": 12874572.0,
-       "hold_ratio": 0.31,
-       "hold_num_change": 681400.0
-      },
-      {
-       "rank": 10,
-       "name": "中国建设银行股份有限公司-易方达国证机器人产业交易型开放式指数证券投资基金",
-       "hold_num": 12550890.0,
-       "hold_ratio": 0.3,
-       "hold_num_change": -842128.0
-      }
-     ],
-     "top10_date": "2026-09-30",
-     "holder_num": 585065.0,
-     "holder_num_change_pct": -6.78,
-     "holder_num_date": "2026-09-30",
-     "inst_hold_ratio": null,
-     "northbound_ratio": 1.93,
-     "executives": [
-      {
-       "name": "张亚波",
-       "title": "董事长",
-       "pay": null
-      },
-      {
-       "name": "王大勇",
-       "title": "总经理",
-       "pay": null
-      },
-      {
-       "name": "李智密",
-       "title": "董事会秘书",
-       "pay": null
-      }
-     ],
-     "pledge_ratio_total": null,
-     "unlock_12m": []
-    },
-    "dividends": {
-     "annual": [
-      {
-       "fiscal_year": 2021,
-       "dps_pretax": 0.15,
-       "total_amount": 538664896.2,
-       "payout_ratio": 31.99,
-       "dividend_yield": null,
-       "ex_date": "2022-05-11"
-      },
-      {
-       "fiscal_year": 2022,
-       "dps_pretax": 0.3,
-       "total_amount": 1077259785.0,
-       "payout_ratio": 41.86,
-       "dividend_yield": null,
-       "ex_date": "2023-06-09"
-      },
-      {
-       "fiscal_year": 2023,
-       "dps_pretax": 0.3,
-       "total_amount": 1119784660.5,
-       "payout_ratio": 38.34,
-       "dividend_yield": null,
-       "ex_date": "2024-06-13"
-      },
-      {
-       "fiscal_year": 2024,
-       "dps_pretax": 0.35,
-       "total_amount": 1306336337.25,
-       "payout_ratio": 42.15,
-       "dividend_yield": null,
-       "ex_date": "2025-05-22"
-      },
-      {
-       "fiscal_year": 2025,
-       "dps_pretax": 0.4,
-       "total_amount": 1683205574.0,
-       "payout_ratio": 41.43,
-       "dividend_yield": null,
-       "ex_date": "2026-07-15"
-      }
-     ],
-     "consecutive_years": 6,
-     "cum_dividend_5y": 5725251252.95,
-     "cum_netprofit_5y": 14340438067.0,
-     "payout_5y": 39.92,
-     "buyback_3y": null
-    },
-    "peers": {
-     "peer_codes": [],
-     "segments": [
-      {
-       "name": "制冷空调电器零部件",
-       "revenue": 18584743718.09,
-       "ratio": 59.93,
-       "type": "product",
-       "period": "2025年报"
-      },
-      {
-       "name": "汽车零部件",
-       "revenue": 12427000792.18,
-       "ratio": 40.07,
-       "type": "product",
-       "period": "2025年报"
-      },
-      {
-       "name": "国内销售",
-       "revenue": 17688255578.87,
-       "ratio": 57.04,
+       "name": "省内",
+       "revenue": 13390549706.8,
+       "ratio": 34.58,
        "type": "region",
        "period": "2025年报"
       },
       {
-       "name": "国外销售",
-       "revenue": 13323488931.4,
-       "ratio": 42.96,
+       "name": "其他(补充)",
+       "revenue": 125523184.62,
+       "ratio": 0.32,
        "type": "region",
        "period": "2025年报"
       }
@@ -2322,145 +1827,157 @@
     "announcements": {
      "items": [
       {
-       "title": "H股公告-翌日披露报表",
-       "date": "2026-10-30",
-       "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225645107.PDF"
-      },
-      {
-       "title": "关于调整公司2026年度日常关联交易预计的公告",
+       "title": "2026年第三季度报告",
        "date": "2026-10-29",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225637001.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636805.PDF"
       },
       {
-       "title": "第八届董事会第二十四次会议决议公告",
+       "title": "2026年前三季度经营数据公告",
        "date": "2026-10-29",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225637000.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636798.PDF"
       },
       {
-       "title": "2026年三季度报告",
+       "title": "关于召开2026年第三季度业绩说明会的公告",
        "date": "2026-10-29",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636998.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636773.PDF"
       },
       {
-       "title": "关于变更公司财务总监的公告",
-       "date": "2026-10-23",
+       "title": "第九届董事会第十八次会议决议公告",
+       "date": "2026-08-31",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-10-23/1225615987.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225535295.PDF"
       },
       {
-       "title": "第八届董事会第二十三次临时会议决议公告",
-       "date": "2026-10-23",
+       "title": "2026年半年度报告",
+       "date": "2026-08-31",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-10-23/1225615986.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225535289.PDF"
       },
       {
-       "title": "H股公告-董事会会议召开日期",
-       "date": "2026-10-16",
+       "title": "董事会秘书工作制度(2026年8月)",
+       "date": "2026-08-31",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607250.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225535017.PDF"
       },
       {
-       "title": "关于回购公司A股股份的进展公告",
-       "date": "2026-10-16",
+       "title": "关于召开2026年半年度业绩说明会的公告",
+       "date": "2026-08-31",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607208.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534739.PDF"
       },
       {
-       "title": "H股公告-翌日披露报表",
-       "date": "2026-10-14",
+       "title": "董事会提名委员会议事规则(2026年8月)",
+       "date": "2026-08-31",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225603806.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534333.PDF"
       },
       {
-       "title": "H股公告-截至2026年9月30日止之股份发行人的证券变动月报表",
-       "date": "2026-10-09",
+       "title": "2026年半年度报告摘要",
+       "date": "2026-08-31",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597828.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534322.PDF"
       },
       {
-       "title": "关于回购公司A股股份的进展公告",
-       "date": "2026-10-09",
+       "title": "董事会薪酬与考核委员会议事规则(2026年8月)",
+       "date": "2026-08-31",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597549.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534236.PDF"
       },
       {
-       "title": "北京市中伦律师事务所关于浙江三花智能控制股份有限公司2024年股票增值权激励计划调整行权价格的法律意见书",
-       "date": "2026-09-22",
+       "title": "董事会审计委员会议事规则(2026年8月)",
+       "date": "2026-08-31",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575624.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534220.PDF"
       },
       {
-       "title": "董事会薪酬与考核委员会关于公司股权激励相关事项的核查意见",
-       "date": "2026-09-22",
+       "title": "2026年半年度经营数据公告",
+       "date": "2026-08-31",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575623.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534145.PDF"
       },
       {
-       "title": "北京市中伦律师事务所关于浙江三花智能控制股份有限公司2024年限制性股票激励计划调整回购价格的法律意见书",
-       "date": "2026-09-22",
+       "title": "董事会战略委员会议事规则(2026年8月)",
+       "date": "2026-08-31",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575622.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-08-31/1225534124.PDF"
       },
       {
-       "title": "关于2024年限制性股票激励计划调整回购价格的公告",
-       "date": "2026-09-22",
+       "title": "关于董事会秘书离任暨聘任董事会秘书的公告",
+       "date": "2026-07-29",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575621.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-07-29/1225444330.PDF"
       },
       {
-       "title": "关于2024年股票增值权激励计划调整行权价格的公告",
-       "date": "2026-09-22",
+       "title": "关于公司高级管理人员离任暨聘任总会计师的公告",
+       "date": "2026-07-29",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575620.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-07-29/1225444318.PDF"
       },
       {
-       "title": "第八届董事会第二十二次临时会议决议公告",
-       "date": "2026-09-22",
+       "title": "2025年年度权益分派实施公告",
+       "date": "2026-07-27",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575619.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-07-27/1225442097.PDF"
       },
       {
-       "title": "关于调整回购A股股份价格上限的公告",
-       "date": "2026-09-22",
+       "title": "2025年度股东会决议公告",
+       "date": "2026-06-17",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575490.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-06-17/1225374611.PDF"
       },
       {
-       "title": "2026年中期A股权益分派实施公告",
-       "date": "2026-09-22",
+       "title": "第九届董事会第十三次会议决议公告",
+       "date": "2026-06-17",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575489.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-06-17/1225374605.PDF"
       },
       {
-       "title": "公司章程（2026年9月）",
-       "date": "2026-09-16",
+       "title": "2025年度股东会法律意见书",
+       "date": "2026-06-17",
        "type": null,
-       "url": "https://static.cninfo.com.cn/finalpage/2026-09-16/1225566907.PDF"
+       "url": "https://static.cninfo.com.cn/finalpage/2026-06-17/1225374602.PDF"
+      },
+      {
+       "title": "2025年度股东会资料",
+       "date": "2026-06-09",
+       "type": null,
+       "url": "https://static.cninfo.com.cn/finalpage/2026-06-09/1225357542.PDF"
       }
      ],
-     "count_12m": 188
+     "count_12m": 67
     },
     "qa": {
      "items": []
     },
-    "_meta": {
-     "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
-     "fetched_at": "2026-11-10T19:40:25+08:00",
-     "errors": {}
-    },
     "_extras": {
      "announcements": {
-      "fetched_at": "2026-10-30T00:01:03+08:00",
+      "fetched_at": "2026-10-30T00:01:11+08:00",
       "error": null
      },
      "qa": {
-      "fetched_at": null,
-      "error": "Unsupported 互动易需要巨潮 orgId"
+      "fetched_at": "2026-10-30T00:01:44+08:00",
+      "error": null
      }
+    },
+    "review": {
+     "reviewer": "自动复核（scripts/auto_review.py）",
+     "note": "与巨潮年报摘要、权益分派实施公告交叉核对营收、归母净利润、审计意见与分红",
+     "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
+     "fetched_at": "2026-11-06T11:35:58+08:00",
+     "reviewed_at": "2026-11-07T13:15:05+08:00",
+     "method": "auto",
+     "checks": {
+      "revenue": "2025 年营业收入与《2025年年度报告摘要》一致（差 0.00%）",
+      "net_profit": "2025 年归母净利润与《2025年年度报告摘要》一致（差 0.00%）",
+      "audit_opinion": "2025 年报审计意见：标准无保留意见",
+      "dividend": "2025 年每股派息 6.56 元与 1 份权益分派实施公告合计 6.56 元一致"
+     },
+     "sources": [
+      "https://static.cninfo.com.cn/finalpage/2026-04-23/1225156765.PDF"
+     ]
     }
    }
   }
