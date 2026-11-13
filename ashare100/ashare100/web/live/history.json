@@ -532,5 +532,13 @@
       "300433.SZ",
       "688072.SH"
     ]
+  },
+  {
+    "snapshot": "snapshots/20261113T112837Z.json",
+    "quote_date": "2026-11-13",
+    "slot": "close",
+    "base_label": "2026-11-13 收盘",
+    "entered": [],
+    "exited": []
   }
 ]
