@@ -1,8 +1,8 @@
 {
  "meta": {
   "quote_date": "2026-11-13",
-  "generated_at": "2026-11-13T15:16:16+08:00",
-  "snapshot_generated_at": "2026-11-13T15:11:47+08:00",
+  "generated_at": "2026-11-13T19:33:30+08:00",
+  "snapshot_generated_at": "2026-11-13T19:28:37+08:00",
   "sources": {
    "kline": "腾讯前复权日 K",
    "dividends": "东方财富数据中心分红明细"
@@ -182,7 +182,7 @@
    "return_1y": -40.16,
    "return_3y": 188.28,
    "high_52w": 84.3,
-   "low_52w": 40.1,
+   "low_52w": 39.81,
    "dividend_yield": 2.44,
    "dps_fiscal_year": 2025,
    "dps_pretax": 0.98
@@ -621,7 +621,7 @@
    "ytd_return": 11.75,
    "return_1y": 8.83,
    "return_3y": 49.42,
-   "high_52w": 12.07,
+   "high_52w": 12.1,
    "low_52w": 9.741,
    "dividend_yield": 4.94,
    "dps_fiscal_year": 2025,
@@ -670,6 +670,17 @@
    "dividend_yield": 1.71,
    "dps_fiscal_year": 2025,
    "dps_pretax": 3.07
+  },
+  "601995.SH": {
+   "price": 27.24,
+   "ytd_return": -21.66,
+   "return_1y": -23.46,
+   "return_3y": -29.3,
+   "high_52w": 38.57,
+   "low_52w": 26.42,
+   "dividend_yield": 1.17,
+   "dps_fiscal_year": 2025,
+   "dps_pretax": 0.32
   },
   "600309.SH": {
    "price": 68.09,
@@ -802,17 +813,6 @@
    "dividend_yield": 0.39,
    "dps_fiscal_year": 2025,
    "dps_pretax": 0.59
-  },
-  "302132.SZ": {
-   "price": 68.0,
-   "ytd_return": -13.5,
-   "return_1y": -15.71,
-   "return_3y": 49.52,
-   "high_52w": 89.144,
-   "low_52w": 51.76,
-   "dividend_yield": 1.48,
-   "dps_fiscal_year": 2025,
-   "dps_pretax": 1.009
   },
   "002379.SZ": {
    "price": 13.56,
@@ -1017,7 +1017,7 @@
    "ytd_return": 14.3,
    "return_1y": 16.23,
    "return_3y": 111.07,
-   "high_52w": 12.81,
+   "high_52w": 12.91,
    "low_52w": 9.85,
    "dividend_yield": 4.13,
    "dps_fiscal_year": 2025,
@@ -1100,16 +1100,16 @@
    "dps_fiscal_year": 2025,
    "dps_pretax": 0.4
   },
-  "601995.SH": {
-   "price": 27.24,
-   "ytd_return": -21.66,
-   "return_1y": -23.46,
-   "return_3y": -29.3,
-   "high_52w": 38.57,
-   "low_52w": 26.42,
-   "dividend_yield": 1.17,
+  "302132.SZ": {
+   "price": 68.0,
+   "ytd_return": -13.5,
+   "return_1y": -15.71,
+   "return_3y": 49.52,
+   "high_52w": 89.144,
+   "low_52w": 51.76,
+   "dividend_yield": 1.48,
    "dps_fiscal_year": 2025,
-   "dps_pretax": 0.32
+   "dps_pretax": 1.009
   }
  },
  "errors": {}
