@@ -23,12 +23,6 @@
   "last_rank": 100,
   "profile_status": "auto_profile"
  },
- "600660.SH": {
-  "name": "福耀玻璃",
-  "exited_on": "2026-11-04",
-  "last_rank": 99,
-  "profile_status": "auto_profile"
- },
  "000776.SZ": {
   "name": "广发证券",
   "exited_on": "2026-11-09",
@@ -47,12 +41,6 @@
   "last_rank": 100,
   "profile_status": "verified_snapshot"
  },
- "002050.SZ": {
-  "name": "三花智控",
-  "exited_on": "2026-11-12",
-  "last_rank": 100,
-  "profile_status": "auto_profile"
- },
  "002916.SZ": {
   "name": "深南电路",
   "exited_on": "2026-11-13",
@@ -69,6 +57,12 @@
   "name": "天孚通信",
   "exited_on": "2026-11-13",
   "last_rank": 97,
+  "profile_status": "verified_snapshot"
+ },
+ "688072.SH": {
+  "name": "拓荆科技",
+  "exited_on": "2026-11-13",
+  "last_rank": 100,
   "profile_status": "verified_snapshot"
  }
 }

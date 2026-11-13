@@ -1,0 +1,3174 @@
+{
+  "meta": {
+    "schema_version": "2.0-universe",
+    "generated_at": "2026-11-13T15:11:47+08:00",
+    "quote_date": "2026-11-13",
+    "quote_min_at": "2026-11-13T15:10:30+08:00",
+    "quote_max_at": "2026-11-13T15:11:42+08:00",
+    "ranking_metric": "total_mv_CNY",
+    "ranking_status": "close_confirmed",
+    "slot": "close",
+    "listed_count": 5578,
+    "quoted_count": 5578,
+    "member_count": 100,
+    "sources": {
+      "codes": "https://assets.linkdiary.cn/shares/zh_a_list.json",
+      "quotes": "https://qt.gtimg.cn/q="
+    },
+    "list_last_modified": "Fri, 13 Nov 2026 01:30:39 GMT"
+  },
+  "members": [
+    {
+      "code": "601939.SH",
+      "name": "建设银行",
+      "price": 12.11,
+      "change_pct": 0.83,
+      "amount": 1542320000.0,
+      "turnover_rate": 1.33,
+      "pe_ttm": 8.9,
+      "pb": 0.86,
+      "total_mv": 3167981000000.0,
+      "float_mv": 116179000000.0,
+      "quote_at": "20261113151112",
+      "rank": 1,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "601398.SH",
+      "name": "工商银行",
+      "price": 8.85,
+      "change_pct": 1.84,
+      "amount": 3091960000.0,
+      "turnover_rate": 0.13,
+      "pe_ttm": 8.21,
+      "pb": 0.79,
+      "total_mv": 3154195000000.0,
+      "float_mv": 2386068000000.0,
+      "quote_at": "20261113151116",
+      "rank": 2,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "688825.SH",
+      "name": "长鑫科技",
+      "price": 39.98,
+      "change_pct": -2.42,
+      "amount": 9998370000.0,
+      "turnover_rate": 5.48,
+      "pe_ttm": 19.5,
+      "pb": 10.57,
+      "total_mv": 2714006000000.0,
+      "float_mv": 180031000000.0,
+      "quote_at": "20261113151120",
+      "rank": 3,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "601288.SH",
+      "name": "农业银行",
+      "price": 7.37,
+      "change_pct": 1.52,
+      "amount": 3469820000.0,
+      "turnover_rate": 0.15,
+      "pe_ttm": 8.41,
+      "pb": 0.89,
+      "total_mv": 2579375000000.0,
+      "float_mv": 2352830000000.0,
+      "quote_at": "20261113151109",
+      "rank": 4,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "601988.SH",
+      "name": "中国银行",
+      "price": 7.18,
+      "change_pct": 1.99,
+      "amount": 2127520000.0,
+      "turnover_rate": 0.14,
+      "pe_ttm": 9.15,
+      "pb": 0.83,
+      "total_mv": 2313485000000.0,
+      "float_mv": 1513296000000.0,
+      "quote_at": "20261113151116",
+      "rank": 5,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "601857.SH",
+      "name": "中国石油",
+      "price": 12.39,
+      "change_pct": 2.99,
+      "amount": 2350810000.0,
+      "turnover_rate": 0.12,
+      "pe_ttm": 12.24,
+      "pb": 1.39,
+      "total_mv": 2267630000000.0,
+      "float_mv": 2006215000000.0002,
+      "quote_at": "20261113151116",
+      "rank": 6,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "600941.SH",
+      "name": "中国移动",
+      "price": 101.46,
+      "change_pct": 2.8,
+      "amount": 1842400000.0,
+      "turnover_rate": 2.03,
+      "pe_ttm": 17.21,
+      "pb": 1.58,
+      "total_mv": 2201910000000.0,
+      "float_mv": 91595000000.0,
+      "quote_at": "20261113151111",
+      "rank": 7,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "600519.SH",
+      "name": "贵州茅台",
+      "price": 1435.26,
+      "change_pct": 1.77,
+      "amount": 5954830000.0,
+      "turnover_rate": 0.33,
+      "pe_ttm": 21.84,
+      "pb": 6.62,
+      "total_mv": 1794191999999.9998,
+      "float_mv": 1794191999999.9998,
+      "quote_at": "20261113151105",
+      "rank": 8,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "600938.SH",
+      "name": "中国海油",
+      "price": 30.85,
+      "change_pct": 2.05,
+      "amount": 1569070000.0,
+      "turnover_rate": 1.7,
+      "pe_ttm": 10.53,
+      "pb": 1.73,
+      "total_mv": 1466299000000.0,
+      "float_mv": 92241000000.0,
+      "quote_at": "20261113151111",
+      "rank": 9,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "300750.SZ",
+      "name": "宁德时代",
+      "price": 237.7,
+      "change_pct": -0.96,
+      "amount": 7244220000.0,
+      "turnover_rate": 0.71,
+      "pe_ttm": 12.54,
+      "pb": 2.84,
+      "total_mv": 1099897000000.0,
+      "float_mv": 1012749000000.0,
+      "quote_at": "20261113151115",
+      "rank": 10,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "601088.SH",
+      "name": "中国神华",
+      "price": 50.0,
+      "change_pct": 2.12,
+      "amount": 1753510000.0,
+      "turnover_rate": 0.21,
+      "pe_ttm": 19.91,
+      "pb": 2.44,
+      "total_mv": 1084471999999.9999,
+      "float_mv": 847435000000.0,
+      "quote_at": "20261113151112",
+      "rank": 11,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "600036.SH",
+      "name": "招商银行",
+      "price": 42.93,
+      "change_pct": 0.7,
+      "amount": 3284160000.0,
+      "turnover_rate": 0.37,
+      "pe_ttm": 7.08,
+      "pb": 0.92,
+      "total_mv": 1082687999999.9999,
+      "float_mv": 885601000000.0,
+      "quote_at": "20261113151102",
+      "rank": 12,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "601628.SH",
+      "name": "中国人寿",
+      "price": 34.95,
+      "change_pct": 1.9,
+      "amount": 688320000.0,
+      "turnover_rate": 0.1,
+      "pe_ttm": 13.05,
+      "pb": 1.52,
+      "total_mv": 987851000000.0,
+      "float_mv": 727782000000.0,
+      "quote_at": "20261113151059",
+      "rank": 13,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "601318.SH",
+      "name": "中国平安",
+      "price": 53.8,
+      "change_pct": 0.88,
+      "amount": 2509890000.0,
+      "turnover_rate": 0.44,
+      "pe_ttm": 9.88,
+      "pb": 0.93,
+      "total_mv": 974191000000.0,
+      "float_mv": 573512000000.0,
+      "quote_at": "20261113151103",
+      "rank": 14,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "688981.SH",
+      "name": "中芯国际",
+      "price": 110.5,
+      "change_pct": -1.09,
+      "amount": 6867350000.0,
+      "turnover_rate": 3.03,
+      "pe_ttm": 110.83,
+      "pb": 5.47,
+      "total_mv": 946150000000.0,
+      "float_mv": 221066000000.0,
+      "quote_at": "20261113151115",
+      "rank": 15,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "601138.SH",
+      "name": "工业富联",
+      "price": 40.1,
+      "change_pct": -7.5,
+      "amount": 8572670000.0,
+      "turnover_rate": 1.05,
+      "pe_ttm": 14.97,
+      "pb": 4.18,
+      "total_mv": 795748000000.0,
+      "float_mv": 795748000000.0,
+      "quote_at": "20261113151110",
+      "rank": 16,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "601328.SH",
+      "name": "交通银行",
+      "price": 8.58,
+      "change_pct": 1.54,
+      "amount": 1702850000.0,
+      "turnover_rate": 0.77,
+      "pe_ttm": 7.59,
+      "pb": 0.64,
+      "total_mv": 758161000000.0,
+      "float_mv": 223702000000.0,
+      "quote_at": "20261113151112",
+      "rank": 17,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "600900.SH",
+      "name": "长江电力",
+      "price": 29.91,
+      "change_pct": 1.01,
+      "amount": 2620470000.0,
+      "turnover_rate": 0.36,
+      "pe_ttm": 22.41,
+      "pb": 3.2,
+      "total_mv": 731844000000.0,
+      "float_mv": 731844000000.0,
+      "quote_at": "20261113151104",
+      "rank": 18,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "002594.SZ",
+      "name": "比亚迪",
+      "price": 79.99,
+      "change_pct": -0.41,
+      "amount": 2129460000.0,
+      "turnover_rate": 0.76,
+      "pe_ttm": 23.06,
+      "pb": 2.93,
+      "total_mv": 729285000000.0,
+      "float_mv": 278931000000.0,
+      "quote_at": "20261113151130",
+      "rank": 19,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "601899.SH",
+      "name": "紫金矿业",
+      "price": 26.38,
+      "change_pct": -1.49,
+      "amount": 4797490000.0,
+      "turnover_rate": 0.88,
+      "pe_ttm": 9.82,
+      "pb": 3.36,
+      "total_mv": 701465000000.0,
+      "float_mv": 543475000000.0,
+      "quote_at": "20261113151117",
+      "rank": 20,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "600028.SH",
+      "name": "中国石化",
+      "price": 5.73,
+      "change_pct": 2.14,
+      "amount": 1256450000.0,
+      "turnover_rate": 0.23,
+      "pe_ttm": 16.95,
+      "pb": 0.82,
+      "total_mv": 691694000000.0,
+      "float_mv": 542334000000.0,
+      "quote_at": "20261113151104",
+      "rank": 21,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "000333.SZ",
+      "name": "美的集团",
+      "price": 90.55,
+      "change_pct": 2.91,
+      "amount": 3136730000.0,
+      "turnover_rate": 0.51,
+      "pe_ttm": 14.56,
+      "pb": 3.11,
+      "total_mv": 690916000000.0,
+      "float_mv": 623601000000.0,
+      "quote_at": "20261113151118",
+      "rank": 22,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "601658.SH",
+      "name": "邮储银行",
+      "price": 5.69,
+      "change_pct": 1.25,
+      "amount": 881850000.0,
+      "turnover_rate": 0.21,
+      "pe_ttm": 7.52,
+      "pb": 0.64,
+      "total_mv": 683341000000.0,
+      "float_mv": 412683000000.0,
+      "quote_at": "20261113151116",
+      "rank": 23,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "688256.SH",
+      "name": "寒武纪",
+      "price": 978.88,
+      "change_pct": 0.6,
+      "amount": 16038320000.0,
+      "turnover_rate": 2.55,
+      "pe_ttm": 147.65,
+      "pb": 40.7,
+      "total_mv": 615573000000.0,
+      "float_mv": 615573000000.0,
+      "quote_at": "20261113151112",
+      "rank": 24,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "601728.SH",
+      "name": "中国电信",
+      "price": 6.67,
+      "change_pct": 0.91,
+      "amount": 691790000.0,
+      "turnover_rate": 0.13,
+      "pe_ttm": 21.33,
+      "pb": 1.32,
+      "total_mv": 610353000000.0,
+      "float_mv": 517789999999.99994,
+      "quote_at": "20261113151103",
+      "rank": 25,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "300308.SZ",
+      "name": "中际旭创",
+      "price": 466.2,
+      "change_pct": -8.39,
+      "amount": 25873660000.0,
+      "turnover_rate": 4.83,
+      "pe_ttm": 21.2,
+      "pb": 5.82,
+      "total_mv": 549141000000.0,
+      "float_mv": 517453000000.0,
+      "quote_at": "20261113151130",
+      "rank": 26,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "601998.SH",
+      "name": "中信银行",
+      "price": 9.31,
+      "change_pct": 1.64,
+      "amount": 455710000.0,
+      "turnover_rate": 0.12,
+      "pe_ttm": 7.14,
+      "pb": 0.68,
+      "total_mv": 518056000000.00006,
+      "float_mv": 379504000000.0,
+      "quote_at": "20261113151110",
+      "rank": 27,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "688041.SH",
+      "name": "海光信息",
+      "price": 203.3,
+      "change_pct": 0.46,
+      "amount": 5868960000.0,
+      "turnover_rate": 1.22,
+      "pe_ttm": 137.74,
+      "pb": 17.9,
+      "total_mv": 472432000000.0,
+      "float_mv": 472432000000.0,
+      "quote_at": "20261113151102",
+      "rank": 28,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "603259.SH",
+      "name": "药明康德",
+      "price": 146.3,
+      "change_pct": -2.69,
+      "amount": 4084200000.0,
+      "turnover_rate": 1.12,
+      "pe_ttm": 16.77,
+      "pb": 4.58,
+      "total_mv": 444006000000.00006,
+      "float_mv": 361841000000.0,
+      "quote_at": "20261113151117",
+      "rank": 29,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "688235.SH",
+      "name": "百济神州",
+      "price": 280.2,
+      "change_pct": -2.58,
+      "amount": 832080000.0,
+      "turnover_rate": 2.57,
+      "pe_ttm": 67.76,
+      "pb": 10.94,
+      "total_mv": 432147999999.99994,
+      "float_mv": 32238000000.0,
+      "quote_at": "20261113151112",
+      "rank": 30,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "601166.SH",
+      "name": "兴业银行",
+      "price": 19.83,
+      "change_pct": 1.28,
+      "amount": 2023320000.0,
+      "turnover_rate": 0.49,
+      "pe_ttm": 5.59,
+      "pb": 0.49,
+      "total_mv": 419660000000.00006,
+      "float_mv": 419660000000.00006,
+      "quote_at": "20261113151108",
+      "rank": 31,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "002371.SZ",
+      "name": "北方华创",
+      "price": 553.0,
+      "change_pct": -1.04,
+      "amount": 5920090000.0,
+      "turnover_rate": 1.44,
+      "pe_ttm": 69.6,
+      "pb": 9.41,
+      "total_mv": 402558000000.0,
+      "float_mv": 402225000000.0,
+      "quote_at": "20261113151130",
+      "rank": 32,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "600030.SH",
+      "name": "中信证券",
+      "price": 25.0,
+      "change_pct": -0.32,
+      "amount": 1600160000.0,
+      "turnover_rate": 0.53,
+      "pe_ttm": 10.36,
+      "pb": 1.23,
+      "total_mv": 390607000000.0,
+      "float_mv": 304414000000.0,
+      "quote_at": "20261113151104",
+      "rank": 33,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "002475.SZ",
+      "name": "立讯精密",
+      "price": 50.02,
+      "change_pct": -1.57,
+      "amount": 2987700000.0,
+      "turnover_rate": 0.81,
+      "pe_ttm": 21.35,
+      "pb": 3.23,
+      "total_mv": 387322000000.0,
+      "float_mv": 366674000000.0,
+      "quote_at": "20261113151130",
+      "rank": 34,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "600000.SH",
+      "name": "浦发银行",
+      "price": 10.4,
+      "change_pct": 1.86,
+      "amount": 786510000.0,
+      "turnover_rate": 0.23,
+      "pe_ttm": 6.69,
+      "pb": 0.46,
+      "total_mv": 346381000000.0,
+      "float_mv": 346381000000.0,
+      "quote_at": "20261113151109",
+      "rank": 35,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "688347.SH",
+      "name": "华虹宏力",
+      "price": 167.05,
+      "change_pct": -3.21,
+      "amount": 5139340000.0,
+      "turnover_rate": 7.18,
+      "pe_ttm": 246.51,
+      "pb": 6.94,
+      "total_mv": 322155000000.0,
+      "float_mv": 68115000000.0,
+      "quote_at": "20261113151114",
+      "rank": 36,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "600276.SH",
+      "name": "恒瑞医药",
+      "price": 48.07,
+      "change_pct": 0.29,
+      "amount": 1851900000.0,
+      "turnover_rate": 0.6,
+      "pe_ttm": 35.92,
+      "pb": 4.78,
+      "total_mv": 319050000000.0,
+      "float_mv": 306639000000.0,
+      "quote_at": "20261113151102",
+      "rank": 37,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "601319.SH",
+      "name": "中国人保",
+      "price": 7.14,
+      "change_pct": 0.56,
+      "amount": 310400000.0,
+      "turnover_rate": 0.12,
+      "pe_ttm": 9.98,
+      "pb": 0.95,
+      "total_mv": 315759000000.0,
+      "float_mv": 253454000000.0,
+      "quote_at": "20261113151112",
+      "rank": 38,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "002415.SZ",
+      "name": "海康威视",
+      "price": 34.45,
+      "change_pct": 1.68,
+      "amount": 1522190000.0,
+      "turnover_rate": 0.49,
+      "pe_ttm": 17.75,
+      "pb": 3.75,
+      "total_mv": 315730000000.0,
+      "float_mv": 311638000000.0,
+      "quote_at": "20261113151130",
+      "rank": 39,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "601601.SH",
+      "name": "中国太保",
+      "price": 31.54,
+      "change_pct": 1.87,
+      "amount": 1173180000.0,
+      "turnover_rate": 0.55,
+      "pe_ttm": 6.86,
+      "pb": 0.92,
+      "total_mv": 303426000000.0,
+      "float_mv": 215892999999.99997,
+      "quote_at": "20261113151112",
+      "rank": 40,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "300059.SZ",
+      "name": "东方财富",
+      "price": 18.29,
+      "change_pct": 0.33,
+      "amount": 2734550000.0,
+      "turnover_rate": 1.12,
+      "pe_ttm": 19.43,
+      "pb": 2.83,
+      "total_mv": 289388000000.0,
+      "float_mv": 244946000000.0,
+      "quote_at": "20261113151115",
+      "rank": 41,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "000858.SZ",
+      "name": "五 粮 液",
+      "price": 73.38,
+      "change_pct": 1.03,
+      "amount": 1788000000.0,
+      "turnover_rate": 0.63,
+      "pe_ttm": 23.37,
+      "pb": 2.4,
+      "total_mv": 284832000000.0,
+      "float_mv": 284825000000.0,
+      "quote_at": "20261113151112",
+      "rank": 42,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "601211.SH",
+      "name": "国泰海通",
+      "price": 16.08,
+      "change_pct": 0.5,
+      "amount": 984000000.0,
+      "turnover_rate": 0.46,
+      "pe_ttm": 9.23,
+      "pb": 0.86,
+      "total_mv": 282703000000.0,
+      "float_mv": 216262000000.0,
+      "quote_at": "20261113151111",
+      "rank": 43,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "688836.SH",
+      "name": "宇树科技-W",
+      "price": 696.0,
+      "change_pct": -0.7,
+      "amount": 2866640000.0,
+      "turnover_rate": 13.58,
+      "pe_ttm": 502.2,
+      "pb": 31.59,
+      "total_mv": 281507000000.0,
+      "float_mv": 20941000000.0,
+      "quote_at": "20261113151123",
+      "rank": 44,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "603993.SH",
+      "name": "洛阳钼业",
+      "price": 12.88,
+      "change_pct": -3.45,
+      "amount": 2455630000.0,
+      "turnover_rate": 1.08,
+      "pe_ttm": 9.16,
+      "pb": 2.92,
+      "total_mv": 275559000000.0,
+      "float_mv": 224896000000.0,
+      "quote_at": "20261113151119",
+      "rank": 45,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "002714.SZ",
+      "name": "牧原股份",
+      "price": 45.84,
+      "change_pct": 2.76,
+      "amount": 2696350000.0,
+      "turnover_rate": 1.8,
+      "pe_ttm": -30.73,
+      "pb": 3.46,
+      "total_mv": 264634000000.0,
+      "float_mv": 150380000000.0,
+      "quote_at": "20261113151130",
+      "rank": 46,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "300502.SZ",
+      "name": "新易盛",
+      "price": 187.58,
+      "change_pct": -8.76,
+      "amount": 19650650000.0,
+      "turnover_rate": 8.03,
+      "pe_ttm": 17.95,
+      "pb": 9.36,
+      "total_mv": 261625000000.0,
+      "float_mv": 235361000000.0,
+      "quote_at": "20261113151130",
+      "rank": 47,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "601225.SH",
+      "name": "陕西煤业",
+      "price": 26.97,
+      "change_pct": 2.55,
+      "amount": 1006270000.0,
+      "turnover_rate": 0.39,
+      "pe_ttm": 12.38,
+      "pb": 2.45,
+      "total_mv": 261473999999.99997,
+      "float_mv": 261473999999.99997,
+      "quote_at": "20261113151056",
+      "rank": 48,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "601919.SH",
+      "name": "中远海控",
+      "price": 17.03,
+      "change_pct": 0.89,
+      "amount": 1114300000.0,
+      "turnover_rate": 0.52,
+      "pe_ttm": 7.52,
+      "pb": 1.07,
+      "total_mv": 259167999999.99997,
+      "float_mv": 212990000000.0,
+      "quote_at": "20261113151109",
+      "rank": 49,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "601816.SH",
+      "name": "京沪高铁",
+      "price": 5.25,
+      "change_pct": 1.35,
+      "amount": 653340000.0,
+      "turnover_rate": 0.25,
+      "pe_ttm": 18.91,
+      "pb": 1.2,
+      "total_mv": 256860000000.0,
+      "float_mv": 256860000000.0,
+      "quote_at": "20261113151102",
+      "rank": 50,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "600150.SH",
+      "name": "中国船舶",
+      "price": 34.11,
+      "change_pct": -0.26,
+      "amount": 1488660000.0,
+      "turnover_rate": 0.58,
+      "pe_ttm": 16.63,
+      "pb": 1.67,
+      "total_mv": 256698999999.99997,
+      "float_mv": 256698999999.99997,
+      "quote_at": "20261113151109",
+      "rank": 51,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "688801.SH",
+      "name": "燧原科技-U",
+      "price": 570.7,
+      "change_pct": 2.11,
+      "amount": 2254970000.0,
+      "turnover_rate": 22.48,
+      "pe_ttm": -238.42,
+      "pb": 29.17,
+      "total_mv": 245602000000.0,
+      "float_mv": 10216000000.0,
+      "quote_at": "20261113151102",
+      "rank": 52,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "600919.SH",
+      "name": "江苏银行",
+      "price": 13.23,
+      "change_pct": 2.24,
+      "amount": 1965620000.0,
+      "turnover_rate": 0.81,
+      "pe_ttm": 6.56,
+      "pb": 0.86,
+      "total_mv": 242788000000.0,
+      "float_mv": 242788000000.0,
+      "quote_at": "20261113151107",
+      "rank": 53,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "003816.SZ",
+      "name": "中国广核",
+      "price": 4.67,
+      "change_pct": 0.65,
+      "amount": 654840000.0,
+      "turnover_rate": 0.36,
+      "pe_ttm": 21.75,
+      "pb": 1.85,
+      "total_mv": 235984000000.0,
+      "float_mv": 183849000000.0,
+      "quote_at": "20261113151115",
+      "rank": 54,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "688012.SH",
+      "name": "中微公司",
+      "price": 245.9,
+      "change_pct": -2.63,
+      "amount": 5107620000.0,
+      "turnover_rate": 2.15,
+      "pe_ttm": 46.79,
+      "pb": 7.5,
+      "total_mv": 235533000000.0,
+      "float_mv": 231686000000.0,
+      "quote_at": "20261113151111",
+      "rank": 55,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "000001.SZ",
+      "name": "平安银行",
+      "price": 12.07,
+      "change_pct": 2.37,
+      "amount": 2624480000.0,
+      "turnover_rate": 1.13,
+      "pe_ttm": 5.39,
+      "pb": 0.49,
+      "total_mv": 234229000000.0,
+      "float_mv": 234227000000.0,
+      "quote_at": "20261113151100",
+      "rank": 56,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "688802.SH",
+      "name": "沐曦股份-U",
+      "price": 570.88,
+      "change_pct": 0.33,
+      "amount": 2857030000.0,
+      "turnover_rate": 15.29,
+      "pe_ttm": 1171.13,
+      "pb": 16.4,
+      "total_mv": 228409000000.0,
+      "float_mv": 18551000000.0,
+      "quote_at": "20261113151106",
+      "rank": 57,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "002142.SZ",
+      "name": "宁波银行",
+      "price": 34.15,
+      "change_pct": 1.64,
+      "amount": 1538060000.0,
+      "turnover_rate": 0.69,
+      "pe_ttm": 7.04,
+      "pb": 0.92,
+      "total_mv": 225513000000.0,
+      "float_mv": 225500000000.0,
+      "quote_at": "20261113151115",
+      "rank": 58,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "000651.SZ",
+      "name": "格力电器",
+      "price": 39.96,
+      "change_pct": 2.75,
+      "amount": 3121160000.0,
+      "turnover_rate": 1.43,
+      "pe_ttm": 9.02,
+      "pb": 1.49,
+      "total_mv": 223832000000.00003,
+      "float_mv": 220294999999.99997,
+      "quote_at": "20261113151115",
+      "rank": 59,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "300760.SZ",
+      "name": "迈瑞医疗",
+      "price": 179.4,
+      "change_pct": 1.06,
+      "amount": 1436150000.0,
+      "turnover_rate": 0.66,
+      "pe_ttm": 28.05,
+      "pb": 5.49,
+      "total_mv": 217396999999.99997,
+      "float_mv": 217192999999.99997,
+      "quote_at": "20261113151115",
+      "rank": 60,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "601995.SH",
+      "name": "中金公司",
+      "price": 27.24,
+      "change_pct": -0.73,
+      "amount": 484250000.0,
+      "turnover_rate": 0.44,
+      "pe_ttm": 13.12,
+      "pb": 0.98,
+      "total_mv": 216051000000.00003,
+      "float_mv": 110591000000.00002,
+      "quote_at": "20261113151116",
+      "rank": 61,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "600309.SH",
+      "name": "万华化学",
+      "price": 68.09,
+      "change_pct": -1.2,
+      "amount": 1288730000.0,
+      "turnover_rate": 0.6,
+      "pe_ttm": 11.2,
+      "pb": 1.83,
+      "total_mv": 213154000000.0,
+      "float_mv": 213154000000.0,
+      "quote_at": "20261113151111",
+      "rank": 62,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "601869.SH",
+      "name": "长飞光纤",
+      "price": 250.51,
+      "change_pct": -6.74,
+      "amount": 3269800000.0,
+      "turnover_rate": 3.1,
+      "pe_ttm": 32.05,
+      "pb": 11.65,
+      "total_mv": 207398999999.99997,
+      "float_mv": 101792000000.0,
+      "quote_at": "20261113151117",
+      "rank": 63,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "603288.SH",
+      "name": "海天味业",
+      "price": 34.89,
+      "change_pct": 0.61,
+      "amount": 477980000.0,
+      "turnover_rate": 0.25,
+      "pe_ttm": 28.72,
+      "pb": 5.18,
+      "total_mv": 203896000000.0,
+      "float_mv": 193982000000.0,
+      "quote_at": "20261113151119",
+      "rank": 64,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "600025.SH",
+      "name": "华能水电",
+      "price": 10.94,
+      "change_pct": 1.02,
+      "amount": 245200000.0,
+      "turnover_rate": 0.12,
+      "pe_ttm": 23.93,
+      "pb": 2.79,
+      "total_mv": 203824000000.0,
+      "float_mv": 203824000000.0,
+      "quote_at": "20261113151101",
+      "rank": 65,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "600887.SH",
+      "name": "伊利股份",
+      "price": 31.74,
+      "change_pct": 2.39,
+      "amount": 2285720000.0,
+      "turnover_rate": 1.15,
+      "pe_ttm": 20.19,
+      "pb": 3.53,
+      "total_mv": 200767000000.0,
+      "float_mv": 199769000000.0,
+      "quote_at": "20261113151104",
+      "rank": 66,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "601985.SH",
+      "name": "中国核电",
+      "price": 9.72,
+      "change_pct": 0.62,
+      "amount": 867770000.0,
+      "turnover_rate": 0.47,
+      "pe_ttm": 27.13,
+      "pb": 1.66,
+      "total_mv": 199921000000.0,
+      "float_mv": 183546000000.0,
+      "quote_at": "20261113151116",
+      "rank": 67,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "600690.SH",
+      "name": "海尔智家",
+      "price": 21.23,
+      "change_pct": 2.17,
+      "amount": 1010870000.0,
+      "turnover_rate": 0.78,
+      "pe_ttm": 11.49,
+      "pb": 1.6,
+      "total_mv": 197408000000.0,
+      "float_mv": 131169000000.0,
+      "quote_at": "20261113151114",
+      "rank": 68,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "601668.SH",
+      "name": "中国建筑",
+      "price": 4.62,
+      "change_pct": 0.65,
+      "amount": 1005280000.0,
+      "turnover_rate": 0.53,
+      "pe_ttm": 6.45,
+      "pb": 0.38,
+      "total_mv": 190900000000.0,
+      "float_mv": 190900000000.0,
+      "quote_at": "20261113151109",
+      "rank": 69,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "601818.SH",
+      "name": "光大银行",
+      "price": 3.22,
+      "change_pct": 1.9,
+      "amount": 986690000.0,
+      "turnover_rate": 0.66,
+      "pe_ttm": 6.33,
+      "pb": 0.37,
+      "total_mv": 190255000000.0,
+      "float_mv": 149430000000.0,
+      "quote_at": "20261113151116",
+      "rank": 70,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "600406.SH",
+      "name": "国电南瑞",
+      "price": 23.26,
+      "change_pct": 0.35,
+      "amount": 637500000.0,
+      "turnover_rate": 0.34,
+      "pe_ttm": 22.41,
+      "pb": 3.55,
+      "total_mv": 186819000000.0,
+      "float_mv": 186270000000.0,
+      "quote_at": "20261113151108",
+      "rank": 71,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "601766.SH",
+      "name": "中国中车",
+      "price": 6.43,
+      "change_pct": 2.55,
+      "amount": 963200000.0,
+      "turnover_rate": 0.62,
+      "pe_ttm": 13.62,
+      "pb": 1.05,
+      "total_mv": 184534000000.0,
+      "float_mv": 156428000000.0,
+      "quote_at": "20261113151057",
+      "rank": 72,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "688008.SH",
+      "name": "澜起科技",
+      "price": 150.97,
+      "change_pct": -7.32,
+      "amount": 5286040000.0,
+      "turnover_rate": 2.97,
+      "pe_ttm": 47.98,
+      "pb": 8.32,
+      "total_mv": 184265000000.0,
+      "float_mv": 172825000000.0,
+      "quote_at": "20261113151117",
+      "rank": 73,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "302132.SZ",
+      "name": "中航成飞",
+      "price": 68.0,
+      "change_pct": -0.26,
+      "amount": 844780000.0,
+      "turnover_rate": 2.1,
+      "pe_ttm": 85.0,
+      "pb": 8.62,
+      "total_mv": 181702000000.0,
+      "float_mv": 39853000000.0,
+      "quote_at": "20261113151115",
+      "rank": 74,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "002379.SZ",
+      "name": "宏桥控股",
+      "price": 13.56,
+      "change_pct": -2.59,
+      "amount": 247310000.0,
+      "turnover_rate": 1.59,
+      "pe_ttm": 6.44,
+      "pb": 2.71,
+      "total_mv": 176702000000.0,
+      "float_mv": 15409000000.0,
+      "quote_at": "20261113151115",
+      "rank": 75,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "688795.SH",
+      "name": "摩尔线程-U",
+      "price": 372.0,
+      "change_pct": -2.16,
+      "amount": 2886100000.0,
+      "turnover_rate": 13.31,
+      "pe_ttm": -729.88,
+      "pb": 14.59,
+      "total_mv": 174850000000.0,
+      "float_mv": 20832000000.0,
+      "quote_at": "20261113151113",
+      "rank": 76,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "603268.SH",
+      "name": "松发股份",
+      "price": 171.54,
+      "change_pct": 4.09,
+      "amount": 1770560000.0,
+      "turnover_rate": 4.54,
+      "pe_ttm": 21.69,
+      "pb": 7.58,
+      "total_mv": 174751000000.0,
+      "float_mv": 40012000000.0,
+      "quote_at": "20261113151113",
+      "rank": 77,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "603986.SH",
+      "name": "兆易创新",
+      "price": 246.02,
+      "change_pct": -4.96,
+      "amount": 8344870000.0,
+      "turnover_rate": 4.93,
+      "pe_ttm": 14.89,
+      "pb": 2.25,
+      "total_mv": 173191000000.0,
+      "float_mv": 165010000000.0,
+      "quote_at": "20261113151116",
+      "rank": 78,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "601898.SH",
+      "name": "中煤能源",
+      "price": 13.03,
+      "change_pct": 0.23,
+      "amount": 323930000.0,
+      "turnover_rate": 0.27,
+      "pe_ttm": 9.52,
+      "pb": 1.03,
+      "total_mv": 172760000000.0,
+      "float_mv": 119251000000.0,
+      "quote_at": "20261113151108",
+      "rank": 79,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "600188.SH",
+      "name": "兖矿能源",
+      "price": 17.19,
+      "change_pct": 0.88,
+      "amount": 662650000.0,
+      "turnover_rate": 0.64,
+      "pe_ttm": 13.23,
+      "pb": 2.18,
+      "total_mv": 172533000000.0,
+      "float_mv": 102476000000.0,
+      "quote_at": "20261113151110",
+      "rank": 80,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "002352.SZ",
+      "name": "顺丰控股",
+      "price": 33.25,
+      "change_pct": 1.65,
+      "amount": 907530000.0,
+      "turnover_rate": 0.59,
+      "pe_ttm": 15.4,
+      "pb": 1.66,
+      "total_mv": 169746000000.0,
+      "float_mv": 154245000000.0,
+      "quote_at": "20261113151130",
+      "rank": 81,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "601066.SH",
+      "name": "中信建投",
+      "price": 21.86,
+      "change_pct": 0.64,
+      "amount": 251050000.0,
+      "turnover_rate": 0.18,
+      "pe_ttm": 13.45,
+      "pb": 1.89,
+      "total_mv": 169561000000.0,
+      "float_mv": 141995000000.0,
+      "quote_at": "20261113151115",
+      "rank": 82,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "600031.SH",
+      "name": "三一重工",
+      "price": 18.32,
+      "change_pct": 0.27,
+      "amount": 631100000.0,
+      "turnover_rate": 0.41,
+      "pe_ttm": 18.15,
+      "pb": 1.79,
+      "total_mv": 168452000000.0,
+      "float_mv": 155251000000.0,
+      "quote_at": "20261113151053",
+      "rank": 83,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "600930.SH",
+      "name": "华电新能",
+      "price": 3.99,
+      "change_pct": 1.27,
+      "amount": 1088490000.0,
+      "turnover_rate": 2.54,
+      "pe_ttm": 36.65,
+      "pb": 1.49,
+      "total_mv": 166440000000.0,
+      "float_mv": 42865000000.0,
+      "quote_at": "20261113151114",
+      "rank": 84,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "600183.SH",
+      "name": "生益科技",
+      "price": 68.15,
+      "change_pct": -9.99,
+      "amount": 8683730000.0,
+      "turnover_rate": 5.09,
+      "pe_ttm": 21.73,
+      "pb": 6.88,
+      "total_mv": 165537000000.0,
+      "float_mv": 164361000000.0,
+      "quote_at": "20261113151110",
+      "rank": 85,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "002384.SZ",
+      "name": "东山精密",
+      "price": 84.37,
+      "change_pct": -9.95,
+      "amount": 15333020000.0,
+      "turnover_rate": 12.51,
+      "pe_ttm": 30.11,
+      "pb": 6.23,
+      "total_mv": 164133000000.0,
+      "float_mv": 116964000000.00002,
+      "quote_at": "20261113151130",
+      "rank": 86,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "000338.SZ",
+      "name": "潍柴动力",
+      "price": 18.75,
+      "change_pct": -5.3,
+      "amount": 2149740000.0,
+      "turnover_rate": 2.27,
+      "pe_ttm": 12.74,
+      "pb": 1.72,
+      "total_mv": 162004000000.0,
+      "float_mv": 92932000000.0,
+      "quote_at": "20261113151115",
+      "rank": 87,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "601336.SH",
+      "name": "新华保险",
+      "price": 51.5,
+      "change_pct": 0.76,
+      "amount": 448920000.0,
+      "turnover_rate": 0.42,
+      "pe_ttm": 6.25,
+      "pb": 1.25,
+      "total_mv": 160657000000.0,
+      "float_mv": 107400000000.0,
+      "quote_at": "20261113151102",
+      "rank": 88,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "300274.SZ",
+      "name": "阳光电源",
+      "price": 77.49,
+      "change_pct": -0.98,
+      "amount": 3346550000.0,
+      "turnover_rate": 2.71,
+      "pe_ttm": 19.64,
+      "pb": 3.25,
+      "total_mv": 160653000000.0,
+      "float_mv": 123011999999.99998,
+      "quote_at": "20261113151130",
+      "rank": 89,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "688820.SH",
+      "name": "盛合晶微",
+      "price": 85.82,
+      "change_pct": -3.92,
+      "amount": 1651130000.0,
+      "turnover_rate": 9.84,
+      "pe_ttm": 205.9,
+      "pb": 8.29,
+      "total_mv": 159863000000.0,
+      "float_mv": 15969000000.0,
+      "quote_at": "20261113151114",
+      "rank": 90,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "002463.SZ",
+      "name": "沪电股份",
+      "price": 82.2,
+      "change_pct": -10.0,
+      "amount": 7588720000.0,
+      "turnover_rate": 4.61,
+      "pe_ttm": 23.64,
+      "pb": 7.74,
+      "total_mv": 159011000000.0,
+      "float_mv": 158859000000.0,
+      "quote_at": "20261113151130",
+      "rank": 91,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "000725.SZ",
+      "name": "京东方Ａ",
+      "price": 4.3,
+      "change_pct": -2.49,
+      "amount": 3079840000.0,
+      "turnover_rate": 2.01,
+      "pe_ttm": 28.78,
+      "pb": 1.21,
+      "total_mv": 158470000000.0,
+      "float_mv": 151258000000.0,
+      "quote_at": "20261113151115",
+      "rank": 92,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "601009.SH",
+      "name": "南京银行",
+      "price": 12.81,
+      "change_pct": 1.91,
+      "amount": 653060000.0,
+      "turnover_rate": 0.41,
+      "pe_ttm": 6.81,
+      "pb": 0.8,
+      "total_mv": 158377000000.0,
+      "float_mv": 158377000000.0,
+      "quote_at": "20261113151056",
+      "rank": 93,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "600809.SH",
+      "name": "山西汾酒",
+      "price": 129.25,
+      "change_pct": 3.4,
+      "amount": 1255340000.0,
+      "turnover_rate": 0.8,
+      "pe_ttm": 17.18,
+      "pb": 3.94,
+      "total_mv": 157680000000.0,
+      "float_mv": 157680000000.0,
+      "quote_at": "20261113151105",
+      "rank": 94,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "601688.SH",
+      "name": "华泰证券",
+      "price": 17.05,
+      "change_pct": -0.35,
+      "amount": 586180000.0,
+      "turnover_rate": 0.47,
+      "pe_ttm": 8.23,
+      "pb": 0.85,
+      "total_mv": 153908000000.0,
+      "float_mv": 124580000000.0,
+      "quote_at": "20261113151054",
+      "rank": 95,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "600989.SH",
+      "name": "宝丰能源",
+      "price": 20.44,
+      "change_pct": -0.1,
+      "amount": 710350000.0,
+      "turnover_rate": 0.47,
+      "pe_ttm": 8.97,
+      "pb": 2.64,
+      "total_mv": 149894000000.0,
+      "float_mv": 149894000000.0,
+      "quote_at": "20261113151101",
+      "rank": 96,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "600016.SH",
+      "name": "民生银行",
+      "price": 3.42,
+      "change_pct": 0.88,
+      "amount": 864140000.0,
+      "turnover_rate": 0.71,
+      "pe_ttm": 5.68,
+      "pb": 0.26,
+      "total_mv": 149736000000.0,
+      "float_mv": 121280000000.0,
+      "quote_at": "20261113151110",
+      "rank": 97,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "300033.SZ",
+      "name": "同花顺",
+      "price": 198.28,
+      "change_pct": -0.4,
+      "amount": 2020820000.0,
+      "turnover_rate": 2.3,
+      "pe_ttm": 36.98,
+      "pb": 17.36,
+      "total_mv": 149233000000.0,
+      "float_mv": 86928000000.0,
+      "quote_at": "20261113151130",
+      "rank": 98,
+      "profile_status": "snapshot"
+    },
+    {
+      "code": "600660.SH",
+      "name": "福耀玻璃",
+      "price": 56.86,
+      "change_pct": 1.81,
+      "amount": 757550000.0,
+      "turnover_rate": 0.67,
+      "pe_ttm": 17.98,
+      "pb": 3.96,
+      "total_mv": 148390000000.0,
+      "float_mv": 113890000000.00002,
+      "quote_at": "20261113151107",
+      "rank": 99,
+      "profile_status": "pending"
+    },
+    {
+      "code": "002050.SZ",
+      "name": "三花智控",
+      "price": 34.87,
+      "change_pct": 0.75,
+      "amount": 2183730000.0,
+      "turnover_rate": 1.68,
+      "pe_ttm": 37.74,
+      "pb": 4.48,
+      "total_mv": 146733000000.0,
+      "float_mv": 128707000000.0,
+      "quote_at": "20261113151115",
+      "rank": 100,
+      "profile_status": "pending"
+    }
+  ],
+  "changes": {
+    "entered": [
+      "002050.SZ",
+      "600660.SH"
+    ],
+    "exited": [
+      "300433.SZ",
+      "688072.SH"
+    ],
+    "rank_change": {
+      "600900.SH": 1,
+      "002594.SZ": -1,
+      "000333.SZ": 1,
+      "601658.SH": -1,
+      "600030.SH": 1,
+      "002475.SZ": -1,
+      "601211.SH": 1,
+      "688836.SH": -1,
+      "002714.SZ": 1,
+      "300502.SZ": -1,
+      "688801.SH": 4,
+      "600919.SH": -1,
+      "688012.SH": -2,
+      "000001.SZ": -1,
+      "688802.SH": 1,
+      "002142.SZ": -1,
+      "600309.SH": 1,
+      "601869.SH": -1,
+      "600887.SH": 1,
+      "601985.SH": -1,
+      "601818.SH": 1,
+      "600406.SH": 1,
+      "601766.SH": 1,
+      "688008.SH": -3,
+      "603268.SH": 9,
+      "603986.SH": -1,
+      "600188.SH": -2,
+      "601066.SH": 1,
+      "600031.SH": 1,
+      "600930.SH": 1,
+      "600183.SH": -5,
+      "002384.SZ": -4,
+      "601336.SH": 4,
+      "300274.SZ": 2,
+      "688820.SH": -2,
+      "002463.SZ": -2,
+      "000725.SZ": -2,
+      "600016.SH": 1,
+      "300033.SZ": -1
+    },
+    "vs_prev_close": {
+      "base_snapshot": "snapshots/20261112T155702Z.json",
+      "base_label": "2026-11-12 收盘",
+      "entered": [
+        {
+          "code": "600016.SH",
+          "name": "民生银行",
+          "rank": 97,
+          "prev_rank": 102
+        },
+        {
+          "code": "300033.SZ",
+          "name": "同花顺",
+          "rank": 98,
+          "prev_rank": 101
+        },
+        {
+          "code": "600660.SH",
+          "name": "福耀玻璃",
+          "rank": 99,
+          "prev_rank": 104
+        },
+        {
+          "code": "002050.SZ",
+          "name": "三花智控",
+          "rank": 100,
+          "prev_rank": 105
+        }
+      ],
+      "exited": [
+        {
+          "code": "002916.SZ",
+          "name": "深南电路",
+          "prev_rank": 93,
+          "now_rank": 106,
+          "total_mv": 141826000000.0
+        },
+        {
+          "code": "300408.SZ",
+          "name": "三环集团",
+          "prev_rank": 94,
+          "now_rank": 105,
+          "total_mv": 142286000000.0
+        },
+        {
+          "code": "300394.SZ",
+          "name": "天孚通信",
+          "prev_rank": 97,
+          "now_rank": 111,
+          "total_mv": 136342000000.0
+        },
+        {
+          "code": "688072.SH",
+          "name": "拓荆科技",
+          "prev_rank": 100,
+          "now_rank": 104,
+          "total_mv": 144190000000.0
+        }
+      ],
+      "rank_change": {
+        "600406.SH": 1,
+        "002379.SZ": 2,
+        "601225.SH": 2,
+        "300760.SZ": 3,
+        "601869.SH": -5,
+        "688795.SH": 3,
+        "302132.SZ": 2,
+        "300274.SZ": 2,
+        "603993.SH": -2,
+        "601066.SH": 2,
+        "601688.SH": 1,
+        "601816.SH": 1,
+        "601336.SH": 4,
+        "600900.SH": 1,
+        "600031.SH": 2,
+        "688820.SH": -2,
+        "000858.SZ": 3,
+        "000338.SZ": -5,
+        "002594.SZ": -1,
+        "600036.SH": -1,
+        "600150.SH": -3,
+        "601818.SH": 1,
+        "003816.SZ": 1,
+        "002463.SZ": -11,
+        "600989.SH": 3,
+        "002714.SZ": 1,
+        "600919.SH": 1,
+        "601088.SH": 1,
+        "688012.SH": -3,
+        "600690.SH": 1,
+        "600887.SH": 2,
+        "002352.SZ": 6,
+        "000725.SZ": -2,
+        "002475.SZ": -1,
+        "300502.SZ": -5,
+        "000333.SZ": 1,
+        "601668.SH": 1,
+        "601658.SH": -1,
+        "601211.SH": 3,
+        "601766.SH": 6,
+        "600183.SH": -12,
+        "600030.SH": 1,
+        "600188.SH": 3,
+        "603986.SH": -3,
+        "000651.SZ": 1,
+        "600809.SH": 4,
+        "688801.SH": 1,
+        "600930.SH": 5,
+        "002384.SZ": -12,
+        "601898.SH": 2,
+        "002142.SZ": 1,
+        "688008.SH": -7,
+        "603268.SH": 9,
+        "601009.SH": 2
+      }
+    },
+    "vs_prev_run": {
+      "base_snapshot": "snapshots/20261113T033640Z.json",
+      "base_label": "2026-11-13 11:36",
+      "entered": [
+        {
+          "code": "600660.SH",
+          "name": "福耀玻璃",
+          "rank": 99,
+          "prev_rank": 103
+        },
+        {
+          "code": "002050.SZ",
+          "name": "三花智控",
+          "rank": 100,
+          "prev_rank": 101
+        }
+      ],
+      "exited": [
+        {
+          "code": "300433.SZ",
+          "name": "蓝思科技",
+          "prev_rank": 99,
+          "now_rank": 101,
+          "total_mv": 145165000000.0
+        },
+        {
+          "code": "688072.SH",
+          "name": "拓荆科技",
+          "prev_rank": 100,
+          "now_rank": 104,
+          "total_mv": 144190000000.0
+        }
+      ],
+      "rank_change": {
+        "600406.SH": 1,
+        "601869.SH": -1,
+        "300274.SZ": 2,
+        "601066.SH": 1,
+        "601336.SH": 4,
+        "600900.SH": 1,
+        "600016.SH": 1,
+        "601985.SH": -1,
+        "600031.SH": 1,
+        "688820.SH": -2,
+        "002594.SZ": -1,
+        "601818.SH": 1,
+        "002463.SZ": -2,
+        "300033.SZ": -1,
+        "002714.SZ": 1,
+        "600919.SH": -1,
+        "688012.SH": -2,
+        "600887.SH": 1,
+        "000725.SZ": -2,
+        "688802.SH": 1,
+        "600309.SH": 1,
+        "002475.SZ": -1,
+        "300502.SZ": -1,
+        "000333.SZ": 1,
+        "601658.SH": -1,
+        "601211.SH": 1,
+        "601766.SH": 1,
+        "600183.SH": -5,
+        "688836.SH": -1,
+        "600030.SH": 1,
+        "600188.SH": -2,
+        "603986.SH": -1,
+        "000001.SZ": -1,
+        "688801.SH": 4,
+        "600930.SH": 1,
+        "002384.SZ": -4,
+        "002142.SZ": -1,
+        "688008.SH": -3,
+        "603268.SH": 9
+      }
+    }
+  },
+  "watchlist": [
+    {
+      "code": "300433.SZ",
+      "name": "蓝思科技",
+      "rank": 101,
+      "total_mv": 145165000000.0,
+      "price": 27.5,
+      "change_pct": -1.96,
+      "amount": 1261600000.0,
+      "turnover_rate": 0.91,
+      "pe_ttm": 55.95,
+      "pb": 2.73,
+      "float_mv": 136176000000.0,
+      "quote_at": "20261113151136"
+    },
+    {
+      "code": "300124.SZ",
+      "name": "汇川技术",
+      "rank": 102,
+      "total_mv": 144907000000.0,
+      "price": 53.45,
+      "change_pct": 0.64,
+      "amount": 1433200000.0,
+      "turnover_rate": 1.1,
+      "pe_ttm": 27.9,
+      "pb": 3.77,
+      "float_mv": 129014000000.00002,
+      "quote_at": "20261113151133"
+    },
+    {
+      "code": "000776.SZ",
+      "name": "广发证券",
+      "rank": 103,
+      "total_mv": 144290000000.0,
+      "price": 18.44,
+      "change_pct": -0.65,
+      "amount": 573510000.0,
+      "turnover_rate": 0.52,
+      "pe_ttm": 7.68,
+      "pb": 1.02,
+      "float_mv": 108871000000.0,
+      "quote_at": "20261113151115"
+    },
+    {
+      "code": "688072.SH",
+      "name": "拓荆科技",
+      "rank": 104,
+      "total_mv": 144190000000.0,
+      "price": 493.51,
+      "change_pct": -3.76,
+      "amount": 2781640000.0,
+      "turnover_rate": 1.92,
+      "pe_ttm": 51.48,
+      "pb": 10.43,
+      "float_mv": 140249000000.0,
+      "quote_at": "20261113151115"
+    },
+    {
+      "code": "300408.SZ",
+      "name": "三环集团",
+      "rank": 105,
+      "total_mv": 142286000000.0,
+      "price": 71.26,
+      "change_pct": -8.89,
+      "amount": 4559450000.0,
+      "turnover_rate": 3.33,
+      "pe_ttm": 31.44,
+      "pb": 4.82,
+      "float_mv": 133241000000.00002,
+      "quote_at": "20261113151130"
+    },
+    {
+      "code": "002916.SZ",
+      "name": "深南电路",
+      "rank": 106,
+      "total_mv": 141826000000.0,
+      "price": 208.22,
+      "change_pct": -9.99,
+      "amount": 3459920000.0,
+      "turnover_rate": 2.4,
+      "pe_ttm": 27.92,
+      "pb": 7.08,
+      "float_mv": 138433000000.0,
+      "quote_at": "20261113151109"
+    },
+    {
+      "code": "001248.SZ",
+      "name": "华润新能源",
+      "rank": 107,
+      "total_mv": 139344000000.0,
+      "price": 10.46,
+      "change_pct": -1.13,
+      "amount": 218730000.0,
+      "turnover_rate": 1.96,
+      "pe_ttm": 31.01,
+      "pb": 1.16,
+      "float_mv": 11113000000.0,
+      "quote_at": "20261113151042"
+    },
+    {
+      "code": "600999.SH",
+      "name": "招商证券",
+      "rank": 108,
+      "total_mv": 137405000000.0,
+      "price": 15.8,
+      "change_pct": -0.38,
+      "amount": 500580000.0,
+      "turnover_rate": 0.43,
+      "pe_ttm": 6.62,
+      "pb": 1.05,
+      "float_mv": 117268000000.0,
+      "quote_at": "20261113151055"
+    },
+    {
+      "code": "300999.SZ",
+      "name": "金龙鱼",
+      "rank": 109,
+      "total_mv": 137004000000.0,
+      "price": 25.27,
+      "change_pct": -0.71,
+      "amount": 137190000.0,
+      "turnover_rate": 1.0,
+      "pe_ttm": 42.41,
+      "pb": 1.4,
+      "float_mv": 13713000000.0,
+      "quote_at": "20261113151139"
+    },
+    {
+      "code": "601600.SH",
+      "name": "中国铝业",
+      "rank": 110,
+      "total_mv": 136552000000.0,
+      "price": 7.96,
+      "change_pct": -1.24,
+      "amount": 901690000.0,
+      "turnover_rate": 0.86,
+      "pe_ttm": 6.92,
+      "pb": 1.59,
+      "float_mv": 105099000000.0,
+      "quote_at": "20261113151111"
+    },
+    {
+      "code": "300394.SZ",
+      "name": "天孚通信",
+      "rank": 111,
+      "total_mv": 136342000000.0
+    },
+    {
+      "code": "600019.SH",
+      "name": "宝钢股份",
+      "rank": 112,
+      "total_mv": 134613000000.00002
+    },
+    {
+      "code": "600760.SH",
+      "name": "中航沈飞",
+      "rank": 113,
+      "total_mv": 134432000000.0
+    },
+    {
+      "code": "000063.SZ",
+      "name": "中兴通讯",
+      "rank": 114,
+      "total_mv": 134226000000.0
+    },
+    {
+      "code": "600050.SH",
+      "name": "中国联通",
+      "rank": 115,
+      "total_mv": 133499000000.0
+    },
+    {
+      "code": "600018.SH",
+      "name": "上港集团",
+      "rank": 116,
+      "total_mv": 133394000000.0
+    },
+    {
+      "code": "600111.SH",
+      "name": "北方稀土",
+      "rank": 117,
+      "total_mv": 131082000000.0
+    },
+    {
+      "code": "601169.SH",
+      "name": "北京银行",
+      "rank": 118,
+      "total_mv": 130241000000.00002
+    },
+    {
+      "code": "301666.SZ",
+      "name": "大普微-UW",
+      "rank": 119,
+      "total_mv": 128635999999.99998
+    },
+    {
+      "code": "601111.SH",
+      "name": "中国国航",
+      "rank": 120,
+      "total_mv": 127258999999.99998
+    },
+    {
+      "code": "600926.SH",
+      "name": "杭州银行",
+      "rank": 121,
+      "total_mv": 127003000000.0
+    },
+    {
+      "code": "601881.SH",
+      "name": "中国银河",
+      "rank": 122,
+      "total_mv": 126074000000.0
+    },
+    {
+      "code": "600886.SH",
+      "name": "国投电力",
+      "rank": 123,
+      "total_mv": 125270000000.0
+    },
+    {
+      "code": "601872.SH",
+      "name": "招商轮船",
+      "rank": 124,
+      "total_mv": 123944000000.0
+    },
+    {
+      "code": "300604.SZ",
+      "name": "长川科技",
+      "rank": 125,
+      "total_mv": 122973000000.0
+    },
+    {
+      "code": "600011.SH",
+      "name": "华能国际",
+      "rank": 126,
+      "total_mv": 122288000000.00002
+    },
+    {
+      "code": "300476.SZ",
+      "name": "胜宏科技",
+      "rank": 127,
+      "total_mv": 121118000000.0
+    },
+    {
+      "code": "601229.SH",
+      "name": "上海银行",
+      "rank": 128,
+      "total_mv": 119834999999.99998
+    },
+    {
+      "code": "601100.SH",
+      "name": "恒立液压",
+      "rank": 129,
+      "total_mv": 119749000000.0
+    },
+    {
+      "code": "603019.SH",
+      "name": "中科曙光",
+      "rank": 130,
+      "total_mv": 119073000000.0
+    },
+    {
+      "code": "001399.SZ",
+      "name": "惠科股份",
+      "rank": 131,
+      "total_mv": 118813000000.00002
+    },
+    {
+      "code": "001289.SZ",
+      "name": "龙源电力",
+      "rank": 132,
+      "total_mv": 118793000000.0
+    },
+    {
+      "code": "000568.SZ",
+      "name": "泸州老窖",
+      "rank": 133,
+      "total_mv": 117163000000.00002
+    },
+    {
+      "code": "001280.SZ",
+      "name": "中国铀业",
+      "rank": 134,
+      "total_mv": 115322000000.0
+    },
+    {
+      "code": "300498.SZ",
+      "name": "温氏股份",
+      "rank": 135,
+      "total_mv": 115246000000.0
+    },
+    {
+      "code": "000792.SZ",
+      "name": "盐湖股份",
+      "rank": 136,
+      "total_mv": 115198000000.0
+    },
+    {
+      "code": "600104.SH",
+      "name": "上汽集团",
+      "rank": 137,
+      "total_mv": 114953000000.0
+    },
+    {
+      "code": "600547.SH",
+      "name": "山东黄金",
+      "rank": 138,
+      "total_mv": 112528000000.0
+    },
+    {
+      "code": "600346.SH",
+      "name": "恒力石化",
+      "rank": 139,
+      "total_mv": 112414000000.00002
+    },
+    {
+      "code": "002493.SZ",
+      "name": "荣盛石化",
+      "rank": 140,
+      "total_mv": 112381000000.0
+    },
+    {
+      "code": "002938.SZ",
+      "name": "鹏鼎控股",
+      "rank": 141,
+      "total_mv": 111242000000.0
+    },
+    {
+      "code": "601633.SH",
+      "name": "长城汽车",
+      "rank": 142,
+      "total_mv": 110401000000.0
+    },
+    {
+      "code": "600176.SH",
+      "name": "中国巨石",
+      "rank": 143,
+      "total_mv": 109566000000.00002
+    },
+    {
+      "code": "603501.SH",
+      "name": "豪威集团",
+      "rank": 144,
+      "total_mv": 109324000000.0
+    },
+    {
+      "code": "688808.SH",
+      "name": "联讯仪器",
+      "rank": 145,
+      "total_mv": 109105000000.0
+    },
+    {
+      "code": "600362.SH",
+      "name": "江西铜业",
+      "rank": 146,
+      "total_mv": 108486999999.99998
+    },
+    {
+      "code": "601888.SH",
+      "name": "中国中免",
+      "rank": 147,
+      "total_mv": 107630000000.0
+    },
+    {
+      "code": "603296.SH",
+      "name": "华勤技术",
+      "rank": 148,
+      "total_mv": 106591000000.00002
+    },
+    {
+      "code": "000166.SZ",
+      "name": "申万宏源",
+      "rank": 149,
+      "total_mv": 106169000000.0
+    },
+    {
+      "code": "600015.SH",
+      "name": "华夏银行",
+      "rank": 150,
+      "total_mv": 105993000000.0
+    }
+  ],
+  "pending_profiles": {
+    "600660.SH": {
+      "code": "600660",
+      "exchange": "SH",
+      "name_abbr": "福耀玻璃",
+      "board": "主板",
+      "industry_sw1": "汽车",
+      "status": "待补完整公司档案",
+      "industry_sw2": "汽车零部件",
+      "industry_source": "sw_board",
+      "profile": {
+        "identity": {
+          "code": "600660",
+          "exchange": "SH",
+          "board": "主板",
+          "name_full": "福耀玻璃工业集团股份有限公司",
+          "name_abbr": "福耀玻璃",
+          "aliases": [],
+          "name_en": "FUYAO GLASS INDUSTRY GROUP CO.,LTD.",
+          "former_names": [
+            "耀华玻璃→福耀玻璃→G福耀"
+          ],
+          "industry_sw1": "汽车",
+          "industry_sw2": "汽车零部件",
+          "list_date": "1993-06-10",
+          "found_date": "1992-06-21",
+          "province": "福建",
+          "city": null,
+          "website": "www.fuyaogroup.com",
+          "chairman": "曹晖",
+          "employees": 42222,
+          "business_summary": "生产汽车玻璃,装饰玻璃和其它工业技术玻璃及玻璃安装,售后服务",
+          "profile": "福耀玻璃工业集团股份有限公司1987年在福建福州成立,是一家致力于全球汽车玻璃和汽车饰件设计、开发、制造、供应及服务一体化解决方案的大型跨国工业集团,于1993年在上海证券交易所主板上市(A股代码:600660),于2015年在香港交易所上市(H股代码:3606),形成兼跨境内外两大资本平台的“A+H”模式。自创立以来,福耀集团矢志为中国人做一片属于自己的高质量玻璃,当好汽车工业的配角,秉承“勤劳、朴实、学习、创新”的核心价值观,坚持走独立自主、应用研发、开放包容的战略路线。经过三十余年的发展,福耀集团已在中国18个省区市以及美国、俄罗斯、德国、日本、韩国等12个国家建立现代化生产基地和商务机构,并在中、美、德、日设立10个设计中心和2个研发中心。福耀产品得到全球知名汽车制造企业及合作伙伴的认证和选用,包括奔驰、宝马、奥迪、大众、通用、丰田、福特、比亚迪、华为等,为其提供全球OEM配套服务和汽车玻璃全套解决方案,全球市场份额达34%并被各大汽车制造企业评为“全球优秀供应商”。福耀集团是智能制造的积极探索者和高质量发展的实践者。公司以智识引领发展,以创新为驱动,通过智能制造,为客户提供一片有“灵魂”的玻璃,其信息技术与生产自动化方面位居全球同行业前列。近年来,福耀集团先后荣获“中国质量奖”“智能制造示范企业”“国家创新示范企业”“国家级企业技术中心”等各类创新荣誉、资质。福耀集团多年蝉联《财富》中国500强、中国民营企业500强,多次获得“中国最佳企业公民”“中国十佳上市公司”“CCTV最佳雇主”等社会殊荣。创始人曹德旺先生从1983年至今个人捐款累计近260亿元,通过其创办的河仁慈善基金会集中100亿资金创建福耀科技大学,被誉为“真正的首善”;2018年,曹德旺入选“改革开放40年百名杰出民营企业家”;于2009年荣膺企业界的“奥斯卡”——安永企业家全球奖;于2016年荣获全球玻璃行业最高奖项——金凤凰奖,评委会称“曹德旺带领福耀集团改变了世界汽车玻璃行业的格局”。",
+          "st_status": null,
+          "audit_opinion": null
+        },
+        "financials": {
+          "unit": "CNY",
+          "annual": [
+            {
+              "fiscal_year": 2021,
+              "report_date": "2021-12-31",
+              "revenue": 23603063361.0,
+              "revenue_yoy": 18.57,
+              "net_profit": 3146167091.0,
+              "net_profit_yoy": 20.97,
+              "net_profit_deducted": 2815935759.0,
+              "gross_margin": 35.9,
+              "net_margin": 13.32,
+              "eps": 1.23,
+              "bvps": 10.08,
+              "roe": 12.96,
+              "roa": 7.55,
+              "debt_ratio": 41.29,
+              "total_liab": 18490789663.0,
+              "total_assets": 44782731080,
+              "ocf_to_np": null,
+              "ocf": 5677009641.0
+            },
+            {
+              "fiscal_year": 2022,
+              "report_date": "2022-12-31",
+              "revenue": 28098754166.0,
+              "revenue_yoy": 19.05,
+              "net_profit": 4755595541.0,
+              "net_profit_yoy": 51.16,
+              "net_profit_deducted": 4665705551.0,
+              "gross_margin": 34.03,
+              "net_margin": 16.91,
+              "eps": 1.82,
+              "bvps": 11.11,
+              "roe": 17.65,
+              "roa": 9.95,
+              "debt_ratio": 42.9,
+              "total_liab": 21779200663.0,
+              "total_assets": 50767367513,
+              "ocf_to_np": null,
+              "ocf": 5893041655.0
+            },
+            {
+              "fiscal_year": 2023,
+              "report_date": "2023-12-31",
+              "revenue": 33160996641.0,
+              "revenue_yoy": 18.02,
+              "net_profit": 5629256054.0,
+              "net_profit_yoy": 18.37,
+              "net_profit_deducted": 5527467830.0,
+              "gross_margin": 35.39,
+              "net_margin": 16.98,
+              "eps": 2.16,
+              "bvps": 12.04,
+              "roe": 18.97,
+              "roa": 10.48,
+              "debt_ratio": 44.53,
+              "total_liab": 25219085168.0,
+              "total_assets": 56633921329,
+              "ocf_to_np": null,
+              "ocf": 7624580890.0
+            },
+            {
+              "fiscal_year": 2024,
+              "report_date": "2024-12-31",
+              "revenue": 39251657267.0,
+              "revenue_yoy": 18.37,
+              "net_profit": 7497976123.0,
+              "net_profit_yoy": 33.2,
+              "net_profit_deducted": 7445999659.0,
+              "gross_margin": 36.23,
+              "net_margin": 19.12,
+              "eps": 2.87,
+              "bvps": 13.68,
+              "roe": 22.72,
+              "roa": 12.52,
+              "debt_ratio": 43.58,
+              "total_liab": 27568613358.0,
+              "total_assets": 63259782832,
+              "ocf_to_np": null,
+              "ocf": 8562187329.0
+            },
+            {
+              "fiscal_year": 2025,
+              "report_date": "2025-12-31",
+              "revenue": 45787435563.0,
+              "revenue_yoy": 16.65,
+              "net_profit": 9312304150.0,
+              "net_profit_yoy": 24.2,
+              "net_profit_deducted": 9164684348.0,
+              "gross_margin": 37.27,
+              "net_margin": 20.35,
+              "eps": 3.57,
+              "bvps": 14.39,
+              "roe": 25.56,
+              "roa": 13.98,
+              "debt_ratio": 46.4,
+              "total_liab": 32510194296.0,
+              "total_assets": 70065073914,
+              "ocf_to_np": null,
+              "ocf": 12055090552.0
+            }
+          ],
+          "latest": {
+            "report_period": "2026-09-30",
+            "report_type": "2026年三季报",
+            "revenue": 34122791889.0,
+            "revenue_yoy": 2.46,
+            "net_profit": 6006480440.0,
+            "net_profit_yoy": -14.97,
+            "net_profit_deducted": 5879139817.0,
+            "gross_margin": 38.56,
+            "net_margin": 17.61,
+            "eps": 2.3,
+            "roe": 15.66,
+            "debt_ratio": 49.98,
+            "ocf": 8259778584.0
+          },
+          "derived": {
+            "revenue_cagr_3y": 17.68,
+            "net_profit_cagr_3y": 25.11,
+            "receivables_to_revenue": null,
+            "goodwill_to_equity": null
+          }
+        },
+        "shareholders": {
+          "controller": "曹德旺",
+          "controlling_shareholder": null,
+          "controlling_ratio": null,
+          "top10": [
+            {
+              "rank": 1,
+              "name": "HKSCC NOMINEES LIMITED",
+              "hold_num": 595821494.0,
+              "hold_ratio": 22.83,
+              "hold_num_change": -4000.0
+            },
+            {
+              "rank": 2,
+              "name": "香港中央结算有限公司",
+              "hold_num": 401623420.0,
+              "hold_ratio": 15.39,
+              "hold_num_change": 12045331.0
+            },
+            {
+              "rank": 3,
+              "name": "三益发展有限公司",
+              "hold_num": 390578816.0,
+              "hold_ratio": 14.97,
+              "hold_num_change": 0
+            },
+            {
+              "rank": 4,
+              "name": "河仁慈善基金会",
+              "hold_num": 169512888.0,
+              "hold_ratio": 6.5,
+              "hold_num_change": 0
+            },
+            {
+              "rank": 5,
+              "name": "白永丽",
+              "hold_num": 39499815.0,
+              "hold_ratio": 1.51,
+              "hold_num_change": 0
+            },
+            {
+              "rank": 6,
+              "name": "李海清",
+              "hold_num": 25785862.0,
+              "hold_ratio": 0.99,
+              "hold_num_change": 0
+            },
+            {
+              "rank": 7,
+              "name": "李福清",
+              "hold_num": 24291709.0,
+              "hold_ratio": 0.93,
+              "hold_num_change": 0
+            },
+            {
+              "rank": 8,
+              "name": "福建省耀华工业村开发有限公司",
+              "hold_num": 24077800.0,
+              "hold_ratio": 0.92,
+              "hold_num_change": 0
+            },
+            {
+              "rank": 9,
+              "name": "中国农业银行股份有限公司-大成高鑫股票型证券投资基金",
+              "hold_num": 22043890.0,
+              "hold_ratio": 0.84,
+              "hold_num_change": -1863900.0
+            },
+            {
+              "rank": 10,
+              "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+              "hold_num": 21763202.0,
+              "hold_ratio": 0.83,
+              "hold_num_change": 820716.0
+            }
+          ],
+          "top10_date": "2026-09-30",
+          "holder_num": 119439.0,
+          "holder_num_change_pct": -14.48,
+          "holder_num_date": "2026-09-30",
+          "inst_hold_ratio": null,
+          "northbound_ratio": 15.39,
+          "executives": [
+            {
+              "name": "曹晖",
+              "title": "董事长",
+              "pay": null
+            },
+            {
+              "name": "叶舒",
+              "title": "总经理",
+              "pay": null
+            },
+            {
+              "name": "李小溪",
+              "title": "董事会秘书",
+              "pay": null
+            }
+          ],
+          "pledge_ratio_total": null,
+          "unlock_12m": []
+        },
+        "dividends": {
+          "annual": [
+            {
+              "fiscal_year": 2021,
+              "dps_pretax": 1.0,
+              "total_amount": 2609743532.0,
+              "payout_ratio": 82.95,
+              "dividend_yield": null,
+              "ex_date": "2022-05-19"
+            },
+            {
+              "fiscal_year": 2022,
+              "dps_pretax": 1.25,
+              "total_amount": 3262179415.0,
+              "payout_ratio": 68.6,
+              "dividend_yield": null,
+              "ex_date": "2023-05-18"
+            },
+            {
+              "fiscal_year": 2023,
+              "dps_pretax": 1.3,
+              "total_amount": 3392666591.6,
+              "payout_ratio": 60.27,
+              "dividend_yield": null,
+              "ex_date": "2024-05-17"
+            },
+            {
+              "fiscal_year": 2024,
+              "dps_pretax": 1.8,
+              "total_amount": 4697538357.6,
+              "payout_ratio": 62.65,
+              "dividend_yield": null,
+              "ex_date": "2025-05-09"
+            },
+            {
+              "fiscal_year": 2025,
+              "dps_pretax": 2.1,
+              "total_amount": 5480461417.2,
+              "payout_ratio": 58.85,
+              "dividend_yield": null,
+              "ex_date": "2026-05-13"
+            }
+          ],
+          "consecutive_years": 6,
+          "cum_dividend_5y": 19442589313.4,
+          "cum_netprofit_5y": 30341298959.0,
+          "payout_5y": 64.08,
+          "buyback_3y": null
+        },
+        "peers": {
+          "peer_codes": [],
+          "segments": [
+            {
+              "name": "汽车玻璃",
+              "revenue": 41889226037.0,
+              "ratio": 91.49,
+              "type": "product",
+              "period": "2025年报"
+            },
+            {
+              "name": "浮法玻璃",
+              "revenue": 6479743917.0,
+              "ratio": 14.15,
+              "type": "product",
+              "period": "2025年报"
+            },
+            {
+              "name": "其他",
+              "revenue": 4735633472.0,
+              "ratio": 10.34,
+              "type": "product",
+              "period": "2025年报"
+            },
+            {
+              "name": "其他(补充)",
+              "revenue": 690018469.0,
+              "ratio": 1.51,
+              "type": "product",
+              "period": "2025年报"
+            },
+            {
+              "name": "减:集团内部抵销",
+              "revenue": -8007186332.0,
+              "ratio": -17.49,
+              "type": "product",
+              "period": "2025年报"
+            },
+            {
+              "name": "国内",
+              "revenue": 24240607684.0,
+              "ratio": 52.94,
+              "type": "region",
+              "period": "2025年报"
+            },
+            {
+              "name": "国外",
+              "revenue": 20856809410.0,
+              "ratio": 45.55,
+              "type": "region",
+              "period": "2025年报"
+            },
+            {
+              "name": "其他(补充)",
+              "revenue": 690018469.0,
+              "ratio": 1.51,
+              "type": "region",
+              "period": "2025年报"
+            }
+          ]
+        },
+        "announcements": {
+          "items": [
+            {
+              "title": "福耀玻璃H股公告",
+              "date": "2026-10-23",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-10-23/1225616074.PDF"
+            },
+            {
+              "title": "福耀玻璃独立董事候选人声明与承诺（程雁）",
+              "date": "2026-10-21",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612064.PDF"
+            },
+            {
+              "title": "福耀玻璃独立董事提名人声明与承诺（达正浩）",
+              "date": "2026-10-21",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612063.PDF"
+            },
+            {
+              "title": "福耀玻璃2026年第三季度报告",
+              "date": "2026-10-21",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612062.PDF"
+            },
+            {
+              "title": "福耀玻璃独立董事提名人声明与承诺（程雁）",
+              "date": "2026-10-21",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612061.PDF"
+            },
+            {
+              "title": "福耀玻璃独立董事候选人声明与承诺（薛祖云）",
+              "date": "2026-10-21",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612055.PDF"
+            },
+            {
+              "title": "福耀玻璃独立董事提名人声明与承诺（薛祖云）",
+              "date": "2026-10-21",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612054.PDF"
+            },
+            {
+              "title": "福耀玻璃第十一届董事局第十四次会议决议公告",
+              "date": "2026-10-21",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612052.PDF"
+            },
+            {
+              "title": "福耀玻璃关于开展外汇衍生品交易业务的可行性分析报告",
+              "date": "2026-10-21",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612051.PDF"
+            },
+            {
+              "title": "福耀玻璃日常关联交易公告",
+              "date": "2026-10-21",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612046.PDF"
+            },
+            {
+              "title": "福耀玻璃独立董事候选人声明与承诺（达正浩）",
+              "date": "2026-10-21",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612042.PDF"
+            },
+            {
+              "title": "福耀玻璃独立董事候选人声明与承诺（刘小稚）",
+              "date": "2026-10-21",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612039.PDF"
+            },
+            {
+              "title": "福耀玻璃关于召开2026年第三季度业绩说明会的公告",
+              "date": "2026-10-21",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612037.PDF"
+            },
+            {
+              "title": "福耀玻璃独立董事提名人声明与承诺（刘小稚）",
+              "date": "2026-10-21",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612036.PDF"
+            },
+            {
+              "title": "福耀玻璃关于开展外汇衍生品交易业务公告",
+              "date": "2026-10-21",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612033.PDF"
+            },
+            {
+              "title": "H股市场公告",
+              "date": "2026-10-08",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225595360.PDF"
+            },
+            {
+              "title": "H股市场公告",
+              "date": "2026-10-08",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225595306.PDF"
+            },
+            {
+              "title": "福耀玻璃2026年度第四期超短期融资券发行情况公告",
+              "date": "2026-09-18",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-09-18/1225569316.PDF"
+            },
+            {
+              "title": "福耀玻璃2026年半年度A股权益分派实施公告",
+              "date": "2026-09-17",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-09-17/1225567737.PDF"
+            },
+            {
+              "title": "H股市场公告",
+              "date": "2026-09-10",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-09-10/1225555243.PDF"
+            }
+          ],
+          "count_12m": 112
+        },
+        "qa": {
+          "items": [
+            {
+              "question": "请问公司，1）何时可以看到行业的量恢复正增长？2）公司的高附加值产品占比的增速在放缓，全景天幕似乎到了天花板，调光/静音/HUD虽然还有增长，但看到同行也在往高端产品发力，智能化方向肯定是大趋势，我们和同行比的竞争优势是否在缩窄？3）行业缩短账期的号召，对我们影响几何？",
+              "answer": null,
+              "ask_date": "2026-10-28",
+              "answer_date": null,
+              "source": "sse_e",
+              "url": "https://sns.sseinfo.com/company.do?uid=660"
+            },
+            {
+              "question": "请问公司截止2026年10月20日的股东户数是多少？谢谢",
+              "answer": "您好，感谢您对公司的关注！根据信息披露的相关规定，公司将在定期报告中披露股东人数以保证所有投资者平等获悉公司信息。",
+              "ask_date": "2026-10-28",
+              "answer_date": "2026-10-28",
+              "source": "sse_e",
+              "url": "https://sns.sseinfo.com/company.do?uid=660"
+            }
+          ],
+          "count_12m": null
+        },
+        "_meta": {
+          "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
+          "fetched_at": "2026-11-13T11:36:51+08:00",
+          "errors": {}
+        },
+        "_extras": {
+          "announcements": {
+            "fetched_at": "2026-10-30T00:02:53+08:00",
+            "error": null
+          },
+          "qa": {
+            "fetched_at": "2026-10-30T00:03:27+08:00",
+            "error": null
+          }
+        }
+      }
+    },
+    "002050.SZ": {
+      "code": "002050",
+      "exchange": "SZ",
+      "name_abbr": "三花智控",
+      "board": "主板",
+      "industry_sw1": "家用电器",
+      "status": "待补完整公司档案",
+      "industry_sw2": "家电零部件Ⅱ",
+      "industry_source": "sw_board",
+      "profile": {
+        "identity": {
+          "code": "002050",
+          "exchange": "SZ",
+          "board": "主板",
+          "name_full": "浙江三花智能控制股份有限公司",
+          "name_abbr": "三花智控",
+          "aliases": [],
+          "name_en": "Zhejiang Sanhua Intelligent Controls Co.,Ltd.",
+          "former_names": [
+            "三花股份→G三花→三花股份"
+          ],
+          "industry_sw1": "家用电器",
+          "industry_sw2": "家电零部件Ⅱ",
+          "list_date": "2005-06-07",
+          "found_date": "1994-09-10",
+          "province": "浙江",
+          "city": null,
+          "website": "www.zjshc.com",
+          "chairman": "张亚波",
+          "employees": 19090,
+          "business_summary": "家用电器研发",
+          "profile": "浙江三花智能控制股份有限公司坚持“专注领先、创新超越”的经营战略,以热泵技术和热管理系统产品的研究与应用为核心,专注于冷热转换、温度智能控制的环境热管理解决方案开发,致力于建筑暖通、电器设备和新能源汽车热管理领域的专业化经营。公司业务主要分为制冷空调电器零部件业务和汽车零部件业务。制冷空调电器零部件业务致力于建筑暖通、电器设备专业化经营,主要产品包括四通换向阀、电子膨胀阀、电磁阀、微通道换热器、Omega泵等,广泛应用于空调、冰箱、冷链物流、洗碗机等领域;汽车零部件业务专注于汽车热管理领域的深入研究,主要产品包括冷媒阀、换热器、泵类、水阀,以及新能源车热管理集成组件等,广泛应用于新能源汽车和传统燃油车。",
+          "st_status": null,
+          "audit_opinion": null
+        },
+        "financials": {
+          "unit": "CNY",
+          "annual": [
+            {
+              "fiscal_year": 2021,
+              "report_date": "2021-12-31",
+              "revenue": 16020809806.0,
+              "revenue_yoy": 32.3,
+              "net_profit": 1684044407.0,
+              "net_profit_yoy": 15.18,
+              "net_profit_deducted": 1487491274.0,
+              "gross_margin": 25.68,
+              "net_margin": 10.64,
+              "eps": 0.47,
+              "bvps": 2.99,
+              "roe": 15.98,
+              "roa": 8.39,
+              "debt_ratio": 52.36,
+              "total_liab": 12367376151.0,
+              "total_assets": 23619893337,
+              "ocf_to_np": null,
+              "ocf": 1555819103.29
+            },
+            {
+              "fiscal_year": 2022,
+              "report_date": "2022-12-31",
+              "revenue": 21347549741.0,
+              "revenue_yoy": 33.25,
+              "net_profit": 2573344180.0,
+              "net_profit_yoy": 52.81,
+              "net_profit_deducted": 2291450453.0,
+              "gross_margin": 26.08,
+              "net_margin": 12.22,
+              "eps": 0.72,
+              "bvps": 3.49,
+              "roe": 21.38,
+              "roa": 10.11,
+              "debt_ratio": 53.08,
+              "total_liab": 14841913965.0,
+              "total_assets": 27961405360,
+              "ocf_to_np": null,
+              "ocf": 2509666490.56
+            },
+            {
+              "fiscal_year": 2023,
+              "report_date": "2023-12-31",
+              "revenue": 24557802067.0,
+              "revenue_yoy": 15.04,
+              "net_profit": 2920992940.0,
+              "net_profit_yoy": 13.51,
+              "net_profit_deducted": 2917029188.0,
+              "gross_margin": 27.62,
+              "net_margin": 11.95,
+              "eps": 0.81,
+              "bvps": 4.79,
+              "roe": 19.18,
+              "roa": 9.8,
+              "debt_ratio": 43.36,
+              "total_liab": 13826877149.0,
+              "total_assets": 31888554310,
+              "ocf_to_np": null,
+              "ocf": 3723964354.63
+            },
+            {
+              "fiscal_year": 2024,
+              "report_date": "2024-12-31",
+              "revenue": 27947164516.0,
+              "revenue_yoy": 13.8,
+              "net_profit": 3099165128.0,
+              "net_profit_yoy": 6.1,
+              "net_profit_deducted": 3117935213.0,
+              "gross_margin": 27.47,
+              "net_margin": 11.13,
+              "eps": 0.84,
+              "bvps": 5.17,
+              "roe": 16.77,
+              "roa": 9.12,
+              "debt_ratio": 46.31,
+              "total_liab": 16835104903.0,
+              "total_assets": 36353066083,
+              "ocf_to_np": null,
+              "ocf": 4366630948.36
+            },
+            {
+              "fiscal_year": 2025,
+              "report_date": "2025-12-31",
+              "revenue": 31011744510.0,
+              "revenue_yoy": 10.97,
+              "net_profit": 4062891412.0,
+              "net_profit_yoy": 31.1,
+              "net_profit_deducted": 3958316943.0,
+              "gross_margin": 28.78,
+              "net_margin": 13.24,
+              "eps": 1.03,
+              "bvps": 7.54,
+              "roe": 15.8,
+              "roa": 9.58,
+              "debt_ratio": 35.15,
+              "total_liab": 17365901101.0,
+              "total_assets": 49405124043,
+              "ocf_to_np": null,
+              "ocf": 5090762717.98
+            }
+          ],
+          "latest": {
+            "report_period": "2026-09-30",
+            "report_type": "2026年三季报",
+            "revenue": 25273510066.0,
+            "revenue_yoy": 5.18,
+            "net_profit": 3067294321.0,
+            "net_profit_yoy": -5.4,
+            "net_profit_deducted": 3165788315.0,
+            "gross_margin": 28.34,
+            "net_margin": 12.41,
+            "eps": 0.73,
+            "roe": 9.38,
+            "debt_ratio": 35.29,
+            "ocf": 3748978408.12
+          },
+          "derived": {
+            "revenue_cagr_3y": 13.26,
+            "net_profit_cagr_3y": 16.44,
+            "receivables_to_revenue": null,
+            "goodwill_to_equity": null
+          }
+        },
+        "shareholders": {
+          "controller": "张亚波,张道才,张少波",
+          "controlling_shareholder": null,
+          "controlling_ratio": null,
+          "top10": [
+            {
+              "rank": 1,
+              "name": "三花控股集团有限公司",
+              "hold_num": 948487077.0,
+              "hold_ratio": 22.54,
+              "hold_num_change": 0
+            },
+            {
+              "rank": 2,
+              "name": "浙江三花绿能实业集团有限公司",
+              "hold_num": 664375189.0,
+              "hold_ratio": 15.79,
+              "hold_num_change": 0
+            },
+            {
+              "rank": 3,
+              "name": "HKSCC NOMINEES LIMITED",
+              "hold_num": 476521888.0,
+              "hold_ratio": 11.32,
+              "hold_num_change": 100.0
+            },
+            {
+              "rank": 4,
+              "name": "香港中央结算有限公司",
+              "hold_num": 81040230.0,
+              "hold_ratio": 1.93,
+              "hold_num_change": -8480654.0
+            },
+            {
+              "rank": 5,
+              "name": "兴业银行股份有限公司-华夏中证机器人交易型开放式指数证券投资基金",
+              "hold_num": 40169704.0,
+              "hold_ratio": 0.95,
+              "hold_num_change": 380100.0
+            },
+            {
+              "rank": 6,
+              "name": "张亚波",
+              "hold_num": 29268200.0,
+              "hold_ratio": 0.7,
+              "hold_num_change": 0
+            },
+            {
+              "rank": 7,
+              "name": "全国社保基金一零四组合",
+              "hold_num": 21007530.0,
+              "hold_ratio": 0.5,
+              "hold_num_change": null
+            },
+            {
+              "rank": 8,
+              "name": "国泰海通证券股份有限公司-天弘中证机器人交易型开放式指数证券投资基金",
+              "hold_num": 13951030.0,
+              "hold_ratio": 0.33,
+              "hold_num_change": 231807.0
+            },
+            {
+              "rank": 9,
+              "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+              "hold_num": 12874572.0,
+              "hold_ratio": 0.31,
+              "hold_num_change": 681400.0
+            },
+            {
+              "rank": 10,
+              "name": "中国建设银行股份有限公司-易方达国证机器人产业交易型开放式指数证券投资基金",
+              "hold_num": 12550890.0,
+              "hold_ratio": 0.3,
+              "hold_num_change": -842128.0
+            }
+          ],
+          "top10_date": "2026-09-30",
+          "holder_num": 585065.0,
+          "holder_num_change_pct": -6.78,
+          "holder_num_date": "2026-09-30",
+          "inst_hold_ratio": null,
+          "northbound_ratio": 1.93,
+          "executives": [
+            {
+              "name": "张亚波",
+              "title": "董事长",
+              "pay": null
+            },
+            {
+              "name": "王大勇",
+              "title": "总经理",
+              "pay": null
+            },
+            {
+              "name": "李智密",
+              "title": "董事会秘书",
+              "pay": null
+            }
+          ],
+          "pledge_ratio_total": null,
+          "unlock_12m": []
+        },
+        "dividends": {
+          "annual": [
+            {
+              "fiscal_year": 2021,
+              "dps_pretax": 0.15,
+              "total_amount": 538664896.2,
+              "payout_ratio": 31.99,
+              "dividend_yield": null,
+              "ex_date": "2022-05-11"
+            },
+            {
+              "fiscal_year": 2022,
+              "dps_pretax": 0.3,
+              "total_amount": 1077259785.0,
+              "payout_ratio": 41.86,
+              "dividend_yield": null,
+              "ex_date": "2023-06-09"
+            },
+            {
+              "fiscal_year": 2023,
+              "dps_pretax": 0.3,
+              "total_amount": 1119784660.5,
+              "payout_ratio": 38.34,
+              "dividend_yield": null,
+              "ex_date": "2024-06-13"
+            },
+            {
+              "fiscal_year": 2024,
+              "dps_pretax": 0.35,
+              "total_amount": 1306336337.25,
+              "payout_ratio": 42.15,
+              "dividend_yield": null,
+              "ex_date": "2025-05-22"
+            },
+            {
+              "fiscal_year": 2025,
+              "dps_pretax": 0.4,
+              "total_amount": 1683205574.0,
+              "payout_ratio": 41.43,
+              "dividend_yield": null,
+              "ex_date": "2026-07-15"
+            }
+          ],
+          "consecutive_years": 6,
+          "cum_dividend_5y": 5725251252.95,
+          "cum_netprofit_5y": 14340438067.0,
+          "payout_5y": 39.92,
+          "buyback_3y": null
+        },
+        "peers": {
+          "peer_codes": [],
+          "segments": [
+            {
+              "name": "制冷空调电器零部件",
+              "revenue": 18584743718.09,
+              "ratio": 59.93,
+              "type": "product",
+              "period": "2025年报"
+            },
+            {
+              "name": "汽车零部件",
+              "revenue": 12427000792.18,
+              "ratio": 40.07,
+              "type": "product",
+              "period": "2025年报"
+            },
+            {
+              "name": "国内销售",
+              "revenue": 17688255578.87,
+              "ratio": 57.04,
+              "type": "region",
+              "period": "2025年报"
+            },
+            {
+              "name": "国外销售",
+              "revenue": 13323488931.4,
+              "ratio": 42.96,
+              "type": "region",
+              "period": "2025年报"
+            }
+          ]
+        },
+        "announcements": {
+          "items": [
+            {
+              "title": "H股公告-翌日披露报表",
+              "date": "2026-10-30",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225645107.PDF"
+            },
+            {
+              "title": "关于调整公司2026年度日常关联交易预计的公告",
+              "date": "2026-10-29",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225637001.PDF"
+            },
+            {
+              "title": "第八届董事会第二十四次会议决议公告",
+              "date": "2026-10-29",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225637000.PDF"
+            },
+            {
+              "title": "2026年三季度报告",
+              "date": "2026-10-29",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225636998.PDF"
+            },
+            {
+              "title": "关于变更公司财务总监的公告",
+              "date": "2026-10-23",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-10-23/1225615987.PDF"
+            },
+            {
+              "title": "第八届董事会第二十三次临时会议决议公告",
+              "date": "2026-10-23",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-10-23/1225615986.PDF"
+            },
+            {
+              "title": "H股公告-董事会会议召开日期",
+              "date": "2026-10-16",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607250.PDF"
+            },
+            {
+              "title": "关于回购公司A股股份的进展公告",
+              "date": "2026-10-16",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607208.PDF"
+            },
+            {
+              "title": "H股公告-翌日披露报表",
+              "date": "2026-10-14",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-10-14/1225603806.PDF"
+            },
+            {
+              "title": "H股公告-截至2026年9月30日止之股份发行人的证券变动月报表",
+              "date": "2026-10-09",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597828.PDF"
+            },
+            {
+              "title": "关于回购公司A股股份的进展公告",
+              "date": "2026-10-09",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597549.PDF"
+            },
+            {
+              "title": "北京市中伦律师事务所关于浙江三花智能控制股份有限公司2024年股票增值权激励计划调整行权价格的法律意见书",
+              "date": "2026-09-22",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575624.PDF"
+            },
+            {
+              "title": "董事会薪酬与考核委员会关于公司股权激励相关事项的核查意见",
+              "date": "2026-09-22",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575623.PDF"
+            },
+            {
+              "title": "北京市中伦律师事务所关于浙江三花智能控制股份有限公司2024年限制性股票激励计划调整回购价格的法律意见书",
+              "date": "2026-09-22",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575622.PDF"
+            },
+            {
+              "title": "关于2024年限制性股票激励计划调整回购价格的公告",
+              "date": "2026-09-22",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575621.PDF"
+            },
+            {
+              "title": "关于2024年股票增值权激励计划调整行权价格的公告",
+              "date": "2026-09-22",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575620.PDF"
+            },
+            {
+              "title": "第八届董事会第二十二次临时会议决议公告",
+              "date": "2026-09-22",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575619.PDF"
+            },
+            {
+              "title": "关于调整回购A股股份价格上限的公告",
+              "date": "2026-09-22",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575490.PDF"
+            },
+            {
+              "title": "2026年中期A股权益分派实施公告",
+              "date": "2026-09-22",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225575489.PDF"
+            },
+            {
+              "title": "公司章程（2026年9月）",
+              "date": "2026-09-16",
+              "type": null,
+              "url": "https://static.cninfo.com.cn/finalpage/2026-09-16/1225566907.PDF"
+            }
+          ],
+          "count_12m": 188
+        },
+        "qa": {
+          "items": []
+        },
+        "_meta": {
+          "source": "东方财富 F10 / 数据中心（自动补档，待复核）",
+          "fetched_at": "2026-11-13T11:36:40+08:00",
+          "errors": {}
+        },
+        "_extras": {
+          "announcements": {
+            "fetched_at": "2026-10-30T00:01:03+08:00",
+            "error": null
+          },
+          "qa": {
+            "fetched_at": null,
+            "error": "Unsupported 互动易需要巨潮 orgId"
+          }
+        }
+      }
+    }
+  }
+}

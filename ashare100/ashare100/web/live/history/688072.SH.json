@@ -1,37 +1,23 @@
 {
  "code": "688072.SH",
  "name": "拓荆科技",
- "exited_on": "2026-10-26",
- "exited_vs": "2026-10-21 收盘（静态基准）",
- "last_rank": 95,
- "now_rank": 99,
- "now_total_mv": 152964000000.0,
+ "exited_on": "2026-11-13",
+ "exited_vs": "2026-11-12 收盘",
+ "last_rank": 100,
+ "now_rank": 104,
+ "now_total_mv": 144190000000.0,
  "profile_status": "verified_snapshot",
  "market": {
-  "as_of_date": "2026-10-22",
-  "price": 509.93,
-  "change_pct": -4.33,
-  "total_mv": 148987915571.1,
-  "float_mv": 144915628869.14,
-  "total_shares": 292173270,
-  "float_shares": 284187298,
-  "pe_ttm": 68.49,
-  "pe_static": 160.77,
-  "pb": 11.72,
-  "ps_ttm": 19.92,
-  "turnover_rate": 2.03,
-  "amount": 2995991525.0,
-  "high_52w": 944.65,
-  "low_52w": 242.67,
-  "ytd_return": 54.84,
-  "return_1y": 105.34,
-  "return_3y": 207.06,
-  "dividend_yield": 0.06,
-  "index_members": [
-   "沪深300",
-   "中证A500",
-   "科创50"
-  ]
+  "price": 512.81,
+  "change_pct": 0.95,
+  "amount": 4254840000.0,
+  "turnover_rate": 2.86,
+  "pe_ttm": 53.49,
+  "pb": 10.84,
+  "total_mv": 149829000000.0,
+  "float_mv": 145734000000.0,
+  "quote_at": "20261112161459",
+  "as_of_date": "2026-11-12"
  },
  "profile": {
   "identity": {
@@ -583,6 +569,5 @@
    "count_12m": null
   }
  },
- "now_at": "2026-11-12",
- "exited_range": "2026-10-22 至 2026-10-26 之间"
+ "now_at": "2026-11-13"
 }
