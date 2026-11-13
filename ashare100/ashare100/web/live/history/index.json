@@ -41,28 +41,34 @@
   "last_rank": 100,
   "profile_status": "verified_snapshot"
  },
- "600016.SH": {
-  "name": "民生银行",
-  "exited_on": "2026-11-10",
-  "last_rank": 98,
-  "profile_status": "verified_snapshot"
- },
  "300124.SZ": {
   "name": "汇川技术",
   "exited_on": "2026-11-11",
   "last_rank": 100,
   "profile_status": "verified_snapshot"
  },
- "300433.SZ": {
-  "name": "蓝思科技",
-  "exited_on": "2026-11-12",
-  "last_rank": 99,
-  "profile_status": "auto_profile"
- },
  "002050.SZ": {
   "name": "三花智控",
   "exited_on": "2026-11-12",
   "last_rank": 100,
   "profile_status": "auto_profile"
+ },
+ "002916.SZ": {
+  "name": "深南电路",
+  "exited_on": "2026-11-13",
+  "last_rank": 93,
+  "profile_status": "verified_snapshot"
+ },
+ "300408.SZ": {
+  "name": "三环集团",
+  "exited_on": "2026-11-13",
+  "last_rank": 94,
+  "profile_status": "verified_snapshot"
+ },
+ "300394.SZ": {
+  "name": "天孚通信",
+  "exited_on": "2026-11-13",
+  "last_rank": 97,
+  "profile_status": "verified_snapshot"
  }
 }

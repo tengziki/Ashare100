@@ -1,23 +1,23 @@
 {
  "code": "300408.SZ",
  "name": "三环集团",
- "exited_on": "2026-11-06",
- "exited_vs": "2026-11-05 收盘",
- "last_rank": 98,
- "now_rank": 98,
- "now_total_mv": 152130000000.0,
+ "exited_on": "2026-11-13",
+ "exited_vs": "2026-11-12 收盘",
+ "last_rank": 94,
+ "now_rank": 104,
+ "now_total_mv": 146220000000.0,
  "profile_status": "verified_snapshot",
  "market": {
-  "price": 76.66,
-  "change_pct": -3.08,
-  "amount": 5362840000.0,
-  "turnover_rate": 3.73,
-  "pe_ttm": 33.83,
-  "pb": 5.18,
-  "total_mv": 153068000000.0,
-  "float_mv": 143338000000.0,
-  "quote_at": "20261105161445",
-  "as_of_date": "2026-11-05"
+  "price": 78.21,
+  "change_pct": -2.49,
+  "amount": 4092150000.0,
+  "turnover_rate": 2.71,
+  "pe_ttm": 34.51,
+  "pb": 5.29,
+  "total_mv": 156163000000.0,
+  "float_mv": 146237000000.0,
+  "quote_at": "20261112161442",
+  "as_of_date": "2026-11-12"
  },
  "profile": {
   "identity": {
@@ -628,5 +628,5 @@
    "count_12m": null
   }
  },
- "now_at": "2026-11-09"
+ "now_at": "2026-11-13"
 }

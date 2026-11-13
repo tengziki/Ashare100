@@ -502,5 +502,21 @@
     "base_label": "2026-11-12 收盘",
     "entered": [],
     "exited": []
+  },
+  {
+    "snapshot": "snapshots/20261113T033640Z.json",
+    "quote_date": "2026-11-13",
+    "slot": "noon",
+    "base_label": "2026-11-12 收盘",
+    "entered": [
+      "300033.SZ",
+      "600016.SH",
+      "300433.SZ"
+    ],
+    "exited": [
+      "002916.SZ",
+      "300408.SZ",
+      "300394.SZ"
+    ]
   }
 ]
