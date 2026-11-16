@@ -29,12 +29,6 @@
   "last_rank": 100,
   "profile_status": "verified_snapshot"
  },
- "300124.SZ": {
-  "name": "汇川技术",
-  "exited_on": "2026-11-11",
-  "last_rank": 100,
-  "profile_status": "verified_snapshot"
- },
  "002916.SZ": {
   "name": "深南电路",
   "exited_on": "2026-11-13",
@@ -64,5 +58,11 @@
   "exited_on": "2026-11-16",
   "last_rank": 100,
   "profile_status": "auto_profile"
+ },
+ "002463.SZ": {
+  "name": "沪电股份",
+  "exited_on": "2026-11-16",
+  "last_rank": 91,
+  "profile_status": "verified_snapshot"
  }
 }

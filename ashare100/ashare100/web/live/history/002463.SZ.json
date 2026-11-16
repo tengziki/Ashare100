@@ -1,23 +1,23 @@
 {
  "code": "002463.SZ",
  "name": "沪电股份",
- "exited_on": "2026-11-06",
- "exited_vs": "2026-11-05 收盘",
- "last_rank": 97,
- "now_rank": 97,
- "now_total_mv": 152317000000.0,
+ "exited_on": "2026-11-16",
+ "exited_vs": "2026-11-13 收盘",
+ "last_rank": 91,
+ "now_rank": 101,
+ "now_total_mv": 143110000000.0,
  "profile_status": "verified_snapshot",
  "market": {
-  "price": 81.0,
-  "change_pct": -5.76,
-  "amount": 8511760000.0,
-  "turnover_rate": 5.42,
-  "pe_ttm": 23.22,
-  "pb": 7.61,
-  "total_mv": 156213000000.0,
-  "float_mv": 156091000000.0,
-  "quote_at": "20261105161439",
-  "as_of_date": "2026-11-05"
+  "price": 82.2,
+  "change_pct": -10.0,
+  "amount": 7588720000.0,
+  "turnover_rate": 4.61,
+  "pe_ttm": 23.64,
+  "pb": 7.74,
+  "total_mv": 159011000000.0,
+  "float_mv": 158859000000.0,
+  "quote_at": "20261113161403",
+  "as_of_date": "2026-11-13"
  },
  "profile": {
   "identity": {
@@ -640,5 +640,5 @@
    "count_12m": null
   }
  },
- "now_at": "2026-11-09"
+ "now_at": "2026-11-16"
 }
