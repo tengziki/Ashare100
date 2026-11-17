@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated_at": "2026-11-17T20:25:51+08:00",
+  "generated_at": "2026-11-18T00:51:48+08:00",
   "member_count": 100,
   "announcements_fresh": 100,
   "problems": 0,
@@ -134,7 +134,7 @@
     ],
     "count_12m": 142
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -205,11 +205,17 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1398"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "601939.SH": {
    "announcements": {
     "items": [
+     {
+      "title": "建设银行关于唐炜非执行董事任职的公告",
+      "date": "2026-11-18",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-11-18/1225675964.PDF"
+     },
      {
       "title": "建设银行关于境内2021年二级资本债券（第二期）（品种一）赎回完成的公告",
       "date": "2026-11-11",
@@ -323,17 +329,11 @@
       "date": "2026-08-28",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225520554.PDF"
-     },
-     {
-      "title": "建设银行关于境内2026年总损失吸收能力非资本债券（第二期）（债券通）发行完毕的公告",
-      "date": "2026-08-26",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505794.PDF"
      }
     ],
-    "count_12m": 86
+    "count_12m": 87
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -380,11 +380,17 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1939"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "601288.SH": {
    "announcements": {
     "items": [
+     {
+      "title": "农业银行关于赎回2021年无固定期限资本债券（第一期）的公告",
+      "date": "2026-11-18",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-11-18/1225675851.PDF"
+     },
      {
       "title": "农业银行关于2026年总损失吸收能力非资本债券（第四期）（债券通）发行完毕的公告",
       "date": "2026-11-17",
@@ -498,17 +504,11 @@
       "date": "2026-10-09",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597693.PDF"
-     },
-     {
-      "title": "中信证券股份有限公司、中国国际金融股份有限公司关于中国农业银行股份有限公司向特定对象发行A股股票之上市保荐书",
-      "date": "2026-10-09",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597692.PDF"
      }
     ],
-    "count_12m": 115
+    "count_12m": 116
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -531,7 +531,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1288"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "688825.SH": {
    "announcements": {
@@ -659,7 +659,7 @@
     ],
     "count_12m": 65
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -714,11 +714,17 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=343138"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "601988.SH": {
    "announcements": {
     "items": [
+     {
+      "title": "中国银行股份有限公司关于赎回二级资本债券的公告",
+      "date": "2026-11-18",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-11-18/1225675875.PDF"
+     },
      {
       "title": "H股公告-中国银行股份有限公司400亿美元中期票据计划下通过悉尼分行发行的票据在香港联合交易所上市之通告",
       "date": "2026-11-13",
@@ -832,17 +838,11 @@
       "date": "2026-08-29",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225527453.PDF"
-     },
-     {
-      "title": "H股公告-2026年中期报告",
-      "date": "2026-08-29",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225527232.PDF"
      }
     ],
-    "count_12m": 116
+    "count_12m": 117
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -873,7 +873,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1988"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "600941.SH": {
    "announcements": {
@@ -1001,7 +1001,7 @@
     ],
     "count_12m": 66
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -1032,7 +1032,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=236809"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "601857.SH": {
    "announcements": {
@@ -1160,7 +1160,7 @@
     ],
     "count_12m": 88
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -1183,7 +1183,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1857"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "600519.SH": {
    "announcements": {
@@ -1311,7 +1311,7 @@
     ],
     "count_12m": 82
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -1382,7 +1382,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=519"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "600938.SH": {
    "announcements": {
@@ -1510,7 +1510,7 @@
     ],
     "count_12m": 64
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -1557,7 +1557,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=247563"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "300750.SZ": {
    "announcements": {
@@ -1683,9 +1683,9 @@
       "url": "https://static.cninfo.com.cn/finalpage/2026-10-13/1225603557.PDF"
      }
     ],
-    "count_12m": 253
+    "count_12m": 252
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -1756,7 +1756,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300750&orgId=GD165627"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "601088.SH": {
    "announcements": {
@@ -1884,7 +1884,7 @@
     ],
     "count_12m": 235
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -1955,7 +1955,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1088"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "600036.SH": {
    "announcements": {
@@ -2083,7 +2083,7 @@
     ],
     "count_12m": 95
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -2138,7 +2138,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=36"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "601628.SH": {
    "announcements": {
@@ -2266,7 +2266,7 @@
     ],
     "count_12m": 95
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -2297,7 +2297,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1628"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "601318.SH": {
    "announcements": {
@@ -2425,7 +2425,7 @@
     ],
     "count_12m": 101
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -2496,7 +2496,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1318"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "688981.SH": {
    "announcements": {
@@ -2624,7 +2624,7 @@
     ],
     "count_12m": 181
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -2655,7 +2655,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=173884"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "601328.SH": {
    "announcements": {
@@ -2783,7 +2783,7 @@
     ],
     "count_12m": 108
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -2814,7 +2814,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1328"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "600900.SH": {
    "announcements": {
@@ -2942,7 +2942,7 @@
     ],
     "count_12m": 90
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -2997,7 +2997,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=900"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "002594.SZ": {
    "announcements": {
@@ -3125,7 +3125,7 @@
     ],
     "count_12m": 112
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -3196,7 +3196,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002594&orgId=gshk0001211"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "601138.SH": {
    "announcements": {
@@ -3324,7 +3324,7 @@
     ],
     "count_12m": 101
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -3395,11 +3395,23 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=119303"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "000333.SZ": {
    "announcements": {
     "items": [
+     {
+      "title": "北京市嘉源律师事务所关于美的集团2026年第二次临时股东会的法律意见书",
+      "date": "2026-11-18",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-11-18/1225676277.PDF"
+     },
+     {
+      "title": "2026年第二次临时股东会决议公告",
+      "date": "2026-11-18",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-11-18/1225676276.PDF"
+     },
      {
       "title": "关于对2022年和2023年限制性股票激励计划部分激励股份回购注销完成的公告",
       "date": "2026-11-11",
@@ -3507,23 +3519,11 @@
       "date": "2026-09-28",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-09-28/1225582141.PDF"
-     },
-     {
-      "title": "关于参加2026年广东辖区投资者集体接待日暨辖区上市公司半年度报告业绩说明会活动的公告",
-      "date": "2026-09-11",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-11/1225557650.PDF"
-     },
-     {
-      "title": "关于2026年A股持股计划非交易过户完成的公告",
-      "date": "2026-09-03",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225544482.PDF"
      }
     ],
-    "count_12m": 136
+    "count_12m": 138
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -3594,7 +3594,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000333&orgId=9900005965"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "600028.SH": {
    "announcements": {
@@ -3722,7 +3722,7 @@
     ],
     "count_12m": 204
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -3753,7 +3753,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=28"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "601658.SH": {
    "announcements": {
@@ -3881,13 +3881,13 @@
     ],
     "count_12m": 98
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [],
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=152148"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "601899.SH": {
    "announcements": {
@@ -4015,7 +4015,7 @@
     ],
     "count_12m": 163
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -4086,7 +4086,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1899"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "601728.SH": {
    "announcements": {
@@ -4214,7 +4214,7 @@
     ],
     "count_12m": 88
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -4229,7 +4229,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=219949"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "688256.SH": {
    "announcements": {
@@ -4357,7 +4357,7 @@
     ],
     "count_12m": 105
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -4428,7 +4428,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=173882"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "601998.SH": {
    "announcements": {
@@ -4556,7 +4556,7 @@
     ],
     "count_12m": 129
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -4579,7 +4579,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1998"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "300308.SZ": {
    "announcements": {
@@ -4707,7 +4707,7 @@
     ],
     "count_12m": 220
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -4778,7 +4778,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300308&orgId=9900022016"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "603259.SH": {
    "announcements": {
@@ -4906,7 +4906,7 @@
     ],
     "count_12m": 143
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -4977,7 +4977,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=121066"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "601166.SH": {
    "announcements": {
@@ -5105,7 +5105,7 @@
     ],
     "count_12m": 80
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -5176,11 +5176,17 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1166"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "688041.SH": {
    "announcements": {
     "items": [
+     {
+      "title": "海光信息技术股份有限公司关于新增回购专用证券账户的公告",
+      "date": "2026-11-18",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-11-18/1225675980.PDF"
+     },
      {
       "title": "海光信息技术股份有限公司关于取得金融机构股票回购专项贷款承诺函的公告",
       "date": "2026-11-13",
@@ -5294,17 +5300,11 @@
       "date": "2026-09-29",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-09-29/1225585698.PDF"
-     },
-     {
-      "title": "海光信息技术股份有限公司2026年第二次临时股东会会议资料",
-      "date": "2026-09-22",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225574241.PDF"
      }
     ],
-    "count_12m": 120
+    "count_12m": 121
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -5375,7 +5375,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=257283"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "688235.SH": {
    "announcements": {
@@ -5501,9 +5501,9 @@
       "url": "https://static.cninfo.com.cn/finalpage/2026-08-27/1225512421.PDF"
      }
     ],
-    "count_12m": 118
+    "count_12m": 117
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -5518,7 +5518,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=235008"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "002371.SZ": {
    "announcements": {
@@ -5646,7 +5646,7 @@
     ],
     "count_12m": 143
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -5717,7 +5717,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002371&orgId=9900006137"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "600030.SH": {
    "announcements": {
@@ -5845,7 +5845,7 @@
     ],
     "count_12m": 179
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -5908,7 +5908,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=30"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "002475.SZ": {
    "announcements": {
@@ -6036,7 +6036,7 @@
     ],
     "count_12m": 209
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -6107,7 +6107,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002475&orgId=9900014448"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "600000.SH": {
    "announcements": {
@@ -6235,7 +6235,7 @@
     ],
     "count_12m": 82
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -6266,7 +6266,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=65"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "688347.SH": {
    "announcements": {
@@ -6392,9 +6392,9 @@
       "url": "https://static.cninfo.com.cn/finalpage/2026-10-09/1225597044.PDF"
      }
     ],
-    "count_12m": 220
+    "count_12m": 219
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -6449,7 +6449,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=275778"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "002415.SZ": {
    "announcements": {
@@ -6577,7 +6577,7 @@
     ],
     "count_12m": 82
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -6648,7 +6648,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002415&orgId=9900012688"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "601319.SH": {
    "announcements": {
@@ -6776,7 +6776,7 @@
     ],
     "count_12m": 118
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -6815,7 +6815,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=129048"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "600276.SH": {
    "announcements": {
@@ -6943,7 +6943,7 @@
     ],
     "count_12m": 313
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -7014,7 +7014,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=276"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "601601.SH": {
    "announcements": {
@@ -7142,7 +7142,7 @@
     ],
     "count_12m": 107
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -7197,7 +7197,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1601"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "300059.SZ": {
    "announcements": {
@@ -7325,7 +7325,7 @@
     ],
     "count_12m": 150
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -7396,7 +7396,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300059&orgId=9900010488"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "601211.SH": {
    "announcements": {
@@ -7524,7 +7524,7 @@
     ],
     "count_12m": 126
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -7595,7 +7595,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=44072"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "000858.SZ": {
    "announcements": {
@@ -7723,7 +7723,7 @@
     ],
     "count_12m": 92
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -7794,7 +7794,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000858&orgId=gssz0000858"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "603993.SH": {
    "announcements": {
@@ -7922,7 +7922,7 @@
     ],
     "count_12m": 133
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -7993,7 +7993,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=3993"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "601225.SH": {
    "announcements": {
@@ -8121,7 +8121,7 @@
     ],
     "count_12m": 61
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -8168,11 +8168,17 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=15299"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "601919.SH": {
    "announcements": {
     "items": [
+     {
+      "title": "中远海控H股公告：翌日披露报表",
+      "date": "2026-11-18",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-11-18/1225675878.PDF"
+     },
      {
       "title": "中远海控H股公告：翌日披露报表",
       "date": "2026-11-17",
@@ -8286,17 +8292,11 @@
       "date": "2026-10-08",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225595328.PDF"
-     },
-     {
-      "title": "中远海控关于股票期权激励计划限制行权期间的提示性公告",
-      "date": "2026-09-22",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225574878.PDF"
      }
     ],
-    "count_12m": 184
+    "count_12m": 185
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -8327,11 +8327,17 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1919"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "002714.SZ": {
    "announcements": {
     "items": [
+     {
+      "title": "H股公告（翌日披露报表）",
+      "date": "2026-11-18",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-11-18/1225676030.PDF"
+     },
      {
       "title": "H股公告（翌日披露报表）",
       "date": "2026-11-17",
@@ -8445,17 +8451,11 @@
       "date": "2026-10-12",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-10-12/1225600460.PDF"
-     },
-     {
-      "title": "关于2026年第三季度可转换公司债券转股情况的公告",
-      "date": "2026-10-10",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-10-10/1225599471.PDF"
      }
     ],
-    "count_12m": 232
+    "count_12m": 233
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -8526,7 +8526,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002714&orgId=9900022995"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "601816.SH": {
    "announcements": {
@@ -8654,7 +8654,7 @@
     ],
     "count_12m": 78
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -8725,7 +8725,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=155463"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "600150.SH": {
    "announcements": {
@@ -8853,7 +8853,7 @@
     ],
     "count_12m": 102
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -8924,7 +8924,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=150"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "688836.SH": {
    "announcements": {
@@ -9052,7 +9052,7 @@
     ],
     "count_12m": 26
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -9123,7 +9123,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=343142"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "600919.SH": {
    "announcements": {
@@ -9251,7 +9251,7 @@
     ],
     "count_12m": 66
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -9314,11 +9314,17 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=74475"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "000001.SZ": {
    "announcements": {
     "items": [
+     {
+      "title": "关于2026年二级资本债券（债券通）发行完毕的公告",
+      "date": "2026-11-18",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-11-18/1225675080.PDF"
+     },
      {
       "title": "关联交易公告",
       "date": "2026-10-24",
@@ -9432,17 +9438,11 @@
       "date": "2026-07-03",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-07-03/1225406051.PDF"
-     },
-     {
-      "title": "关于副行长任职资格核准的公告",
-      "date": "2026-06-26",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-06-26/1225387929.PDF"
      }
     ],
-    "count_12m": 79
+    "count_12m": 80
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -9513,7 +9513,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000001&orgId=gssz0000001"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "003816.SZ": {
    "announcements": {
@@ -9641,7 +9641,7 @@
     ],
     "count_12m": 154
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -9712,7 +9712,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=003816&orgId=9900027002"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "002142.SZ": {
    "announcements": {
@@ -9840,7 +9840,7 @@
     ],
     "count_12m": 101
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -9903,7 +9903,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002142&orgId=9900003281"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "688012.SH": {
    "announcements": {
@@ -10031,7 +10031,7 @@
     ],
     "count_12m": 222
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -10062,7 +10062,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=145565"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "000651.SZ": {
    "announcements": {
@@ -10190,7 +10190,7 @@
     ],
     "count_12m": 91
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -10261,7 +10261,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000651&orgId=gssz0000651"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "300760.SZ": {
    "announcements": {
@@ -10389,22 +10389,22 @@
     ],
     "count_12m": 85
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
       "question": "董秘好，关于手术机器人请告知三点信息：1、当前的注册进展如何？2、预计什么时间可上市销售？3、手术机器人主要聚焦在哪个方向？只是胸腹腔微创么？还是会逐步有多个方向？",
-      "answer": null,
+      "answer": "您好，谢谢关注。当前，受手术机器人设备价格和使用成本过高的制约，国内手术机器人市场远未达到临床大范围普及应用的阶段。在微创外科领域，迈瑞并不是后来者，我们已经花了十年以上时间打磨胸腹腔镜系统、能量平台、手术器械等手术机器人必备的相关设备和耗材，这些产品的竞争力目前已经可以全面对标国际一流水平。微创外科业务收入2025年已接近10亿元，今年前三季度微创外科业务保持高速增长。我们的手术机器人产品今年将进入注册阶段，正在按照既定的计划顺利推进，预计产品上市发布还需要几年的时间。虽然迈瑞在手术机器人领域是后来者，但我们相信以迈瑞微创外科业务足够大的收入规模做支撑，加上构建的行业中具有竞争力的微创手术生态系统，未来有望成为手术机器人领域的引领者之一。以上内容不构成业绩承诺，市场有风险，投资需谨慎，谢谢。",
       "ask_date": "2026-11-17",
-      "answer_date": null,
+      "answer_date": "2026-11-17",
       "source": "irm",
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300760&orgId=9900035304"
      },
      {
       "question": "您好，请问公司手术机器人目前的技术水平和进展如何？公司如何看待该领域的发展？",
-      "answer": null,
+      "answer": "您好，谢谢关注。当前，受手术机器人设备价格和使用成本过高的制约，国内手术机器人市场远未达到临床大范围普及应用的阶段。在微创外科领域，迈瑞并不是后来者，我们已经花了十年以上时间打磨胸腹腔镜系统、能量平台、手术器械等手术机器人必备的相关设备和耗材，这些产品的竞争力目前已经可以全面对标国际一流水平。微创外科业务收入2025年已接近10亿元，今年前三季度微创外科业务保持高速增长。我们的手术机器人产品今年将进入注册阶段，正在按照既定的计划顺利推进，预计产品上市发布还需要几年的时间。虽然迈瑞在手术机器人领域是后来者，但我们相信以迈瑞微创外科业务足够大的收入规模做支撑，加上构建的行业中具有竞争力的微创手术生态系统，未来有望成为手术机器人领域的引领者之一。以上内容不构成业绩承诺，市场有风险，投资需谨慎，谢谢。",
       "ask_date": "2026-11-17",
-      "answer_date": null,
+      "answer_date": "2026-11-17",
       "source": "irm",
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300760&orgId=9900035304"
      },
@@ -10460,7 +10460,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300760&orgId=9900035304"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "300502.SZ": {
    "announcements": {
@@ -10588,7 +10588,7 @@
     ],
     "count_12m": 120
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -10659,7 +10659,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300502&orgId=9900026455"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "601995.SH": {
    "announcements": {
@@ -10787,7 +10787,7 @@
     ],
     "count_12m": 211
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -10858,7 +10858,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=183297"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "600309.SH": {
    "announcements": {
@@ -10986,7 +10986,7 @@
     ],
     "count_12m": 104
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -11049,11 +11049,17 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=309"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "603288.SH": {
    "announcements": {
     "items": [
+     {
+      "title": "H股公告-翌日披露报表",
+      "date": "2026-11-18",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-11-18/1225676096.PDF"
+     },
      {
       "title": "H股公告-翌日披露报表",
       "date": "2026-11-17",
@@ -11167,17 +11173,11 @@
       "date": "2026-10-08",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-10-08/1225595528.PDF"
-     },
-     {
-      "title": "H股公告-翌日披露报表",
-      "date": "2026-10-01",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-10-01/1225590890.PDF"
      }
     ],
-    "count_12m": 146
+    "count_12m": 147
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -11248,7 +11248,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=15546"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "688801.SH": {
    "announcements": {
@@ -11376,7 +11376,7 @@
     ],
     "count_12m": 29
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -11399,7 +11399,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=353147"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "600690.SH": {
    "announcements": {
@@ -11527,7 +11527,7 @@
     ],
     "count_12m": 116
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -11598,11 +11598,47 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=690"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "600025.SH": {
    "announcements": {
     "items": [
+     {
+      "title": "关于第四届董事会第二十次会议决议公告",
+      "date": "2026-11-18",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-11-18/1225675831.PDF"
+     },
+     {
+      "title": "关于董事会秘书变更的公告",
+      "date": "2026-11-18",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-11-18/1225675823.PDF"
+     },
+     {
+      "title": "2026年第一次临时股东会法律意见书",
+      "date": "2026-11-18",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-11-18/1225675806.PDF"
+     },
+     {
+      "title": "关于召开2026年第二次临时股东会的通知",
+      "date": "2026-11-18",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-11-18/1225675802.PDF"
+     },
+     {
+      "title": "2026年第一次临时股东会决议公告",
+      "date": "2026-11-18",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-11-18/1225675799.PDF"
+     },
+     {
+      "title": "2026年度第十三期超短期融资券发行公告",
+      "date": "2026-11-18",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-11-18/1225675787.PDF"
+     },
      {
       "title": "华能澜沧江水电股份有限公司2026年第一次临时股东会会议资料",
       "date": "2026-11-11",
@@ -11686,47 +11722,11 @@
       "date": "2026-08-26",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225506172.PDF"
-     },
-     {
-      "title": "关于公司对中国华能财务有限责任公司风险持续评估报告的公告",
-      "date": "2026-08-26",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225506126.PDF"
-     },
-     {
-      "title": "关于更换公司非独立董事的公告",
-      "date": "2026-08-26",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225506061.PDF"
-     },
-     {
-      "title": "关于公司2026年半年度募集资金存放、管理与实际使用情况的专项报告",
-      "date": "2026-08-26",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225506031.PDF"
-     },
-     {
-      "title": "中信证券股份有限公司关于华能澜沧江水电股份有限公司使用部分暂时闲置募集资金进行现金管理的核查意见",
-      "date": "2026-08-26",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505999.PDF"
-     },
-     {
-      "title": "关于第四届董事会第十八次会议决议公告",
-      "date": "2026-08-26",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505803.PDF"
-     },
-     {
-      "title": "关于召开2026年半年度业绩说明会的公告",
-      "date": "2026-08-26",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505738.PDF"
      }
     ],
-    "count_12m": 97
+    "count_12m": 103
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -11757,7 +11757,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=109578"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "600887.SH": {
    "announcements": {
@@ -11885,7 +11885,7 @@
     ],
     "count_12m": 136
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -11956,7 +11956,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=887"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "601985.SH": {
    "announcements": {
@@ -12084,7 +12084,7 @@
     ],
     "count_12m": 117
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -12155,7 +12155,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=42817"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "600406.SH": {
    "announcements": {
@@ -12283,7 +12283,7 @@
     ],
     "count_12m": 139
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -12354,7 +12354,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=406"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "601668.SH": {
    "announcements": {
@@ -12482,7 +12482,7 @@
     ],
     "count_12m": 132
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -12553,7 +12553,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1668"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "601818.SH": {
    "announcements": {
@@ -12681,7 +12681,7 @@
     ],
     "count_12m": 94
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -12704,7 +12704,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1818"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "601766.SH": {
    "announcements": {
@@ -12832,7 +12832,7 @@
     ],
     "count_12m": 109
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -12847,7 +12847,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1766"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "688802.SH": {
    "announcements": {
@@ -12975,7 +12975,7 @@
     ],
     "count_12m": 133
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -12990,7 +12990,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=323111"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "601869.SH": {
    "announcements": {
@@ -13118,7 +13118,7 @@
     ],
     "count_12m": 112
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -13149,7 +13149,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=125388"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "601898.SH": {
    "announcements": {
@@ -13277,7 +13277,7 @@
     ],
     "count_12m": 79
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -13348,11 +13348,17 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1898"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "600188.SH": {
    "announcements": {
     "items": [
+     {
+      "title": "兖矿能源集团股份有限公司关于关联交易完成工商变更登记的公告",
+      "date": "2026-11-18",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-11-18/1225676380.PDF"
+     },
      {
       "title": "月报表",
       "date": "2026-11-04",
@@ -13466,17 +13472,11 @@
       "date": "2026-09-22",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-09-22/1225574675.PDF"
-     },
-     {
-      "title": "月报表",
-      "date": "2026-09-03",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-09-03/1225543608.PDF"
      }
     ],
-    "count_12m": 195
+    "count_12m": 196
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -13531,7 +13531,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=188"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "002379.SZ": {
    "announcements": {
@@ -13659,7 +13659,7 @@
     ],
     "count_12m": 167
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -13730,7 +13730,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002379&orgId=9900011448"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "302132.SZ": {
    "announcements": {
@@ -13856,9 +13856,9 @@
       "url": "https://static.cninfo.com.cn/finalpage/2026-05-26/1225329592.PDF"
      }
     ],
-    "count_12m": 80
+    "count_12m": 79
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -13929,7 +13929,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=302132&orgId=9900013408"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "002352.SZ": {
    "announcements": {
@@ -14057,7 +14057,7 @@
     ],
     "count_12m": 257
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -14128,11 +14128,35 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=002352&orgId=9900010448"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "603268.SH": {
    "announcements": {
     "items": [
+     {
+      "title": "关于召开2026年第三季度业绩说明会的公告",
+      "date": "2026-11-18",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-11-18/1225676581.PDF"
+     },
+     {
+      "title": "北京市康达律师事务所关于广东松发陶瓷股份有限公司2026年第四次临时股东会的法律意见书",
+      "date": "2026-11-18",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-11-18/1225676579.PDF"
+     },
+     {
+      "title": "2026年员工持股计划第一次持有人会议决议公告",
+      "date": "2026-11-18",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-11-18/1225676577.PDF"
+     },
+     {
+      "title": "2026年第四次临时股东会决议公告",
+      "date": "2026-11-18",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-11-18/1225676575.PDF"
+     },
      {
       "title": "关于以集中竞价交易方式首次回购股份的公告",
       "date": "2026-11-14",
@@ -14228,35 +14252,11 @@
       "date": "2026-10-29",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225634552.PDF"
-     },
-     {
-      "title": "关于2026年度申请新增综合授信额度的公告",
-      "date": "2026-10-29",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-10-29/1225634542.PDF"
-     },
-     {
-      "title": "董事会薪酬与考核委员会关于2026年员工持股计划相关事项的核查意见",
-      "date": "2026-10-22",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-10-22/1225614649.PDF"
-     },
-     {
-      "title": "2026年员工持股计划（草案）摘要公告",
-      "date": "2026-10-22",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-10-22/1225614647.PDF"
-     },
-     {
-      "title": "广东松发陶瓷股份有限公司2026年员工持股计划管理办法",
-      "date": "2026-10-22",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-10-22/1225614645.PDF"
      }
     ],
-    "count_12m": 208
+    "count_12m": 212
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -14327,7 +14327,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=33154"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "600031.SH": {
    "announcements": {
@@ -14455,7 +14455,7 @@
     ],
     "count_12m": 148
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -14526,7 +14526,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=31"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "601066.SH": {
    "announcements": {
@@ -14654,7 +14654,7 @@
     ],
     "count_12m": 117
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -14685,7 +14685,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=123807"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "688820.SH": {
    "announcements": {
@@ -14813,7 +14813,7 @@
     ],
     "count_12m": 69
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -14828,7 +14828,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=333130"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "600930.SH": {
    "announcements": {
@@ -14956,7 +14956,7 @@
     ],
     "count_12m": 114
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -15019,11 +15019,17 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=313093"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "601009.SH": {
    "announcements": {
     "items": [
+     {
+      "title": "南京银行股份有限公司2026年半年度权益分派实施公告",
+      "date": "2026-11-18",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-11-18/1225676141.PDF"
+     },
      {
       "title": "南京银行股份有限公司2026年第一次临时股东会决议公告",
       "date": "2026-11-14",
@@ -15137,17 +15143,11 @@
       "date": "2026-08-28",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225521181.PDF"
-     },
-     {
-      "title": "南京银行股份有限公司关于赎回优先股的第三次提示性公告",
-      "date": "2026-08-28",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225521177.PDF"
      }
     ],
-    "count_12m": 99
+    "count_12m": 100
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -15162,7 +15162,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1009"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "601336.SH": {
    "announcements": {
@@ -15290,7 +15290,7 @@
     ],
     "count_12m": 92
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -15337,7 +15337,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1336"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "600809.SH": {
    "announcements": {
@@ -15465,13 +15465,13 @@
     ],
     "count_12m": 63
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [],
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=809"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "000338.SZ": {
    "announcements": {
@@ -15599,7 +15599,7 @@
     ],
     "count_12m": 115
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -15636,9 +15636,9 @@
      },
      {
       "question": "增持计划预计何时完成",
-      "answer": null,
+      "answer": "公司将持续关注潍柴集团本次增持公司股票的进展情况，并根据有关规定，及时履行信息披露义务。感谢您对公司的关注！",
       "ask_date": "2026-11-13",
-      "answer_date": null,
+      "answer_date": "2026-11-17",
       "source": "irm",
       "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000338&orgId=9900002961"
      },
@@ -15670,11 +15670,17 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000338&orgId=9900002961"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "688008.SH": {
    "announcements": {
     "items": [
+     {
+      "title": "H股公告-翌日披露报表",
+      "date": "2026-11-18",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-11-18/1225675743.PDF"
+     },
      {
       "title": "H股公告-翌日披露报表",
       "date": "2026-11-17",
@@ -15788,17 +15794,11 @@
       "date": "2026-10-24",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-10-24/1225620359.PDF"
-     },
-     {
-      "title": "澜起科技2026年第三季度业绩预增的自愿性披露公告",
-      "date": "2026-10-21",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-10-21/1225612915.PDF"
      }
     ],
-    "count_12m": 154
+    "count_12m": 155
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -15869,11 +15869,17 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=145146"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "000725.SZ": {
    "announcements": {
     "items": [
+     {
+      "title": "京东方科技集团股份有限公司公司债券临时受托管理事务报告",
+      "date": "2026-11-18",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-11-18/1225674996.PDF"
+     },
      {
       "title": "关于回购股份注销完成暨股份变动的公告",
       "date": "2026-11-13",
@@ -15987,17 +15993,11 @@
       "date": "2026-08-29",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225526276.PDF"
-     },
-     {
-      "title": "董事离职管理办法（2026年8月）",
-      "date": "2026-08-29",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225526275.PDF"
      }
     ],
-    "count_12m": 155
+    "count_12m": 156
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -16068,7 +16068,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000725&orgId=gssz0000725"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "601688.SH": {
    "announcements": {
@@ -16196,7 +16196,7 @@
     ],
     "count_12m": 129
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -16259,7 +16259,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=1688"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "600016.SH": {
    "announcements": {
@@ -16387,7 +16387,7 @@
     ],
     "count_12m": 66
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -16402,7 +16402,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=16"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "300274.SZ": {
    "announcements": {
@@ -16530,7 +16530,7 @@
     ],
     "count_12m": 134
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -16601,7 +16601,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300274&orgId=9900021300"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "603986.SH": {
    "announcements": {
@@ -16729,7 +16729,7 @@
     ],
     "count_12m": 186
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -16800,7 +16800,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=76578"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "600989.SH": {
    "announcements": {
@@ -16928,7 +16928,7 @@
     ],
     "count_12m": 90
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -16999,7 +16999,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=139997"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "600660.SH": {
    "announcements": {
@@ -17127,7 +17127,7 @@
     ],
     "count_12m": 110
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -17158,7 +17158,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=660"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "300033.SZ": {
    "announcements": {
@@ -17286,7 +17286,7 @@
     ],
     "count_12m": 53
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -17357,7 +17357,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300033&orgId=9900008416"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "688072.SH": {
    "announcements": {
@@ -17485,7 +17485,7 @@
     ],
     "count_12m": 267
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -17508,7 +17508,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=247110"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "688795.SH": {
    "announcements": {
@@ -17636,7 +17636,7 @@
     ],
     "count_12m": 128
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -17707,7 +17707,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=323108"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "000776.SZ": {
    "announcements": {
@@ -17833,9 +17833,9 @@
       "url": "https://static.cninfo.com.cn/finalpage/2026-10-19/1225611089.PDF"
      }
     ],
-    "count_12m": 314
+    "count_12m": 312
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -17866,7 +17866,7 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=000776&orgId=gssz0000776"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "300124.SZ": {
    "announcements": {
@@ -17994,7 +17994,7 @@
     ],
     "count_12m": 156
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -18065,11 +18065,29 @@
     "count_12m": null,
     "url": "https://irm.cninfo.com.cn/views/interactiveAnswer?stockcode=300124&orgId=9900012527"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   },
   "600183.SH": {
    "announcements": {
     "items": [
+     {
+      "title": "生益科技股票交易异常波动公告",
+      "date": "2026-11-18",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-11-18/1225676582.PDF"
+     },
+     {
+      "title": "生益科技2026年第二次临时股东会决议公告",
+      "date": "2026-11-18",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-11-18/1225676578.PDF"
+     },
+     {
+      "title": "北京市康达（广州）律师事务所关于生益科技2026年第二次临时股东会的法律意见书",
+      "date": "2026-11-18",
+      "type": null,
+      "url": "https://static.cninfo.com.cn/finalpage/2026-11-18/1225676576.PDF"
+     },
      {
       "title": "生益科技关于湖南绿晟环保股份有限公司及其下属公司互相提供担保的进展公告",
       "date": "2026-11-17",
@@ -18171,29 +18189,11 @@
       "date": "2026-10-22",
       "type": null,
       "url": "https://static.cninfo.com.cn/finalpage/2026-10-22/1225614171.PDF"
-     },
-     {
-      "title": "生益科技第十一届董事会第二十一次会议决议公告",
-      "date": "2026-10-22",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-10-22/1225614167.PDF"
-     },
-     {
-      "title": "生益科技关于董事长提议公司回购股份的提示性公告",
-      "date": "2026-10-19",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-10-19/1225610004.PDF"
-     },
-     {
-      "title": "生益科技2026年前三季度业绩预增的自愿性披露公告",
-      "date": "2026-10-17",
-      "type": null,
-      "url": "https://static.cninfo.com.cn/finalpage/2026-10-17/1225608514.PDF"
      }
     ],
-    "count_12m": 109
+    "count_12m": 112
    },
-   "announcements_at": "2026-11-17T20:25:51+08:00",
+   "announcements_at": "2026-11-18T00:51:48+08:00",
    "qa": {
     "items": [
      {
@@ -18264,7 +18264,7 @@
     "count_12m": null,
     "url": "https://sns.sseinfo.com/company.do?uid=183"
    },
-   "qa_at": "2026-11-17T20:25:51+08:00"
+   "qa_at": "2026-11-18T00:51:48+08:00"
   }
  }
 }
