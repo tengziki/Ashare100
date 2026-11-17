@@ -3,7 +3,7 @@
   "report_date": "2026-06-30",
   "definition": "基金、QFII、社保、券商、保险、信托合计，剔除单家持股 ≥5% 的机构",
   "source": "东方财富数据中心 · 主力持仓",
-  "generated_at": "2026-11-17T11:40:45+08:00",
+  "generated_at": "2026-11-17T15:13:50+08:00",
   "count": 97
  },
  "companies": {
@@ -38,6 +38,10 @@
    "ratio": 6.05,
    "excluded": []
   },
+  "000776.SZ": {
+   "ratio": 7.82,
+   "excluded": []
+  },
   "000858.SZ": {
    "ratio": 6.49,
    "excluded": []
@@ -64,16 +68,8 @@
    "ratio": 1.15,
    "excluded": []
   },
-  "002384.SZ": {
-   "ratio": 20.16,
-   "excluded": []
-  },
   "002415.SZ": {
    "ratio": 6.49,
-   "excluded": []
-  },
-  "002463.SZ": {
-   "ratio": 17.81,
    "excluded": []
   },
   "002475.SZ": {
@@ -98,6 +94,10 @@
   },
   "300059.SZ": {
    "ratio": 11.31,
+   "excluded": []
+  },
+  "300124.SZ": {
+   "ratio": 9.08,
    "excluded": []
   },
   "300274.SZ": {
