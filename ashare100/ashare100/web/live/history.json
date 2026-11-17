@@ -594,5 +594,19 @@
       "000776.SZ",
       "300124.SZ"
     ]
+  },
+  {
+    "snapshot": "snapshots/20261117T071112Z.json",
+    "quote_date": "2026-11-17",
+    "slot": "close",
+    "base_label": "2026-11-17 11:36",
+    "entered": [
+      "000776.SZ",
+      "300124.SZ"
+    ],
+    "exited": [
+      "002463.SZ",
+      "002384.SZ"
+    ]
   }
 ]
