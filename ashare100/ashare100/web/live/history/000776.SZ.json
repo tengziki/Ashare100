@@ -1,23 +1,23 @@
 {
  "code": "000776.SZ",
  "name": "广发证券",
- "exited_on": "2026-11-09",
- "exited_vs": "2026-11-06 收盘",
- "last_rank": 98,
- "now_rank": 100,
- "now_total_mv": 145386000000.0,
+ "exited_on": "2026-11-17",
+ "exited_vs": "2026-11-16 收盘",
+ "last_rank": 99,
+ "now_rank": 101,
+ "now_total_mv": 144681000000.0,
  "profile_status": "verified_snapshot",
  "market": {
-  "price": 19.1,
-  "change_pct": -1.44,
-  "amount": 639770000.0,
-  "turnover_rate": 0.57,
-  "pe_ttm": 7.95,
-  "pb": 1.06,
-  "total_mv": 149455000000.0,
-  "float_mv": 112767000000.0,
-  "quote_at": "20261106161500",
-  "as_of_date": "2026-11-06"
+  "price": 18.52,
+  "change_pct": 0.43,
+  "amount": 641790000.0,
+  "turnover_rate": 0.59,
+  "pe_ttm": 7.71,
+  "pb": 1.03,
+  "total_mv": 144916000000.0,
+  "float_mv": 109343000000.0,
+  "quote_at": "20261116161500",
+  "as_of_date": "2026-11-16"
  },
  "profile": {
   "identity": {
@@ -574,5 +574,5 @@
    ]
   }
  },
- "now_at": "2026-11-16"
+ "now_at": "2026-11-17"
 }

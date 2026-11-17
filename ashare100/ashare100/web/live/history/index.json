@@ -47,22 +47,22 @@
   "last_rank": 97,
   "profile_status": "verified_snapshot"
  },
- "688072.SH": {
-  "name": "拓荆科技",
-  "exited_on": "2026-11-13",
-  "last_rank": 100,
-  "profile_status": "verified_snapshot"
- },
  "002050.SZ": {
   "name": "三花智控",
   "exited_on": "2026-11-16",
   "last_rank": 100,
   "profile_status": "auto_profile"
  },
- "002463.SZ": {
-  "name": "沪电股份",
-  "exited_on": "2026-11-16",
-  "last_rank": 91,
+ "000776.SZ": {
+  "name": "广发证券",
+  "exited_on": "2026-11-17",
+  "last_rank": 99,
+  "profile_status": "verified_snapshot"
+ },
+ "300124.SZ": {
+  "name": "汇川技术",
+  "exited_on": "2026-11-17",
+  "last_rank": 100,
   "profile_status": "verified_snapshot"
  }
 }
