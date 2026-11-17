@@ -1,7 +1,7 @@
 {
  "meta": {
   "quote_date": "2026-11-17",
-  "generated_at": "2026-11-17T20:30:42+08:00",
+  "generated_at": "2026-11-18T00:55:32+08:00",
   "snapshot_generated_at": "2026-11-17T20:24:03+08:00",
   "sources": {
    "kline": "腾讯前复权日 K",
@@ -131,6 +131,17 @@
    "dividend_yield": 3.97,
    "dps_fiscal_year": 2025,
    "dps_pretax": 2.01
+  },
+  "600036.SH": {
+   "price": 43.45,
+   "ytd_return": 8.4,
+   "return_1y": 6.93,
+   "return_3y": 78.5,
+   "high_52w": 44.01,
+   "low_52w": 34.277,
+   "dividend_yield": 4.64,
+   "dps_fiscal_year": 2025,
+   "dps_pretax": 2.016
   },
   "601628.SH": {
    "price": 35.07,
@@ -385,6 +396,17 @@
    "dps_fiscal_year": 2025,
    "dps_pretax": 0.42
   },
+  "688347.SH": {
+   "price": 172.42,
+   "ytd_return": 59.84,
+   "return_1y": 52.45,
+   "return_3y": 290.36,
+   "high_52w": 413.13,
+   "low_52w": 97.04,
+   "dividend_yield": 0.0,
+   "dps_fiscal_year": 2025,
+   "dps_pretax": 0.0
+  },
   "002415.SZ": {
    "price": 35.28,
    "ytd_return": 23.62,
@@ -406,6 +428,17 @@
    "dividend_yield": 3.03,
    "dps_fiscal_year": 2025,
    "dps_pretax": 0.22
+  },
+  "600276.SH": {
+   "price": 47.66,
+   "ytd_return": -19.72,
+   "return_1y": -22.63,
+   "return_3y": 2.4,
+   "high_52w": 65.63,
+   "low_52w": 41.89,
+   "dividend_yield": 0.42,
+   "dps_fiscal_year": 2025,
+   "dps_pretax": 0.2
   },
   "601601.SH": {
    "price": 32.64,
@@ -495,6 +528,17 @@
    "dps_fiscal_year": 2025,
    "dps_pretax": 1.3545
   },
+  "601816.SH": {
+   "price": 5.4,
+   "ytd_return": 6.82,
+   "return_1y": 5.57,
+   "return_3y": 19.05,
+   "high_52w": 5.45,
+   "low_52w": 4.335,
+   "dividend_yield": 2.48,
+   "dps_fiscal_year": 2025,
+   "dps_pretax": 0.1339
+  },
   "600150.SH": {
    "price": 33.98,
    "ytd_return": 4.78,
@@ -571,6 +615,17 @@
    "dividend_yield": 0.15,
    "dps_fiscal_year": 2025,
    "dps_pretax": 0.35
+  },
+  "000651.SZ": {
+   "price": 40.66,
+   "ytd_return": 9.23,
+   "return_1y": 9.32,
+   "return_3y": 68.17,
+   "high_52w": 40.68,
+   "low_52w": 34.27,
+   "dividend_yield": 7.38,
+   "dps_fiscal_year": 2025,
+   "dps_pretax": 3.0
   },
   "300760.SZ": {
    "price": 185.38,
@@ -836,6 +891,17 @@
    "dps_fiscal_year": 2025,
    "dps_pretax": 0.34
   },
+  "688820.SH": {
+   "price": 89.39,
+   "ytd_return": null,
+   "return_1y": null,
+   "return_3y": null,
+   "high_52w": 235.32,
+   "low_52w": 71.76,
+   "dividend_yield": null,
+   "dps_fiscal_year": 2025,
+   "dps_pretax": null
+  },
   "600930.SH": {
    "price": 4.0,
    "ytd_return": -35.79,
@@ -890,6 +956,17 @@
    "dividend_yield": 3.95,
    "dps_fiscal_year": 2025,
    "dps_pretax": 0.732
+  },
+  "688008.SH": {
+   "price": 130.6,
+   "ytd_return": 11.42,
+   "return_1y": 8.28,
+   "return_3y": 123.47,
+   "high_52w": 332.314,
+   "low_52w": 111.414,
+   "dividend_yield": 0.45,
+   "dps_fiscal_year": 2025,
+   "dps_pretax": 0.59
   },
   "000725.SZ": {
    "price": 4.29,
@@ -968,6 +1045,17 @@
    "dps_fiscal_year": 2025,
    "dps_pretax": 2.1
   },
+  "300033.SZ": {
+   "price": 195.2,
+   "ytd_return": -13.74,
+   "return_1y": -15.77,
+   "return_3y": 95.34,
+   "high_52w": 306.872,
+   "low_52w": 185.01,
+   "dividend_yield": 2.66,
+   "dps_fiscal_year": 2025,
+   "dps_pretax": 5.2
+  },
   "688072.SH": {
    "price": 499.9,
    "ytd_return": 51.8,
@@ -1022,94 +1110,6 @@
    "dividend_yield": 2.05,
    "dps_fiscal_year": 2025,
    "dps_pretax": 1.2
-  },
-  "600036.SH": {
-   "price": 43.45,
-   "ytd_return": 8.4,
-   "return_1y": 6.93,
-   "return_3y": 78.5,
-   "high_52w": 44.01,
-   "low_52w": 34.277,
-   "dividend_yield": 4.64,
-   "dps_fiscal_year": 2025,
-   "dps_pretax": 2.016
-  },
-  "688347.SH": {
-   "price": 172.42,
-   "ytd_return": 59.84,
-   "return_1y": 52.45,
-   "return_3y": 290.36,
-   "high_52w": 413.13,
-   "low_52w": 97.04,
-   "dividend_yield": 0.0,
-   "dps_fiscal_year": 2025,
-   "dps_pretax": 0.0
-  },
-  "600276.SH": {
-   "price": 47.66,
-   "ytd_return": -19.72,
-   "return_1y": -22.63,
-   "return_3y": 2.4,
-   "high_52w": 65.63,
-   "low_52w": 41.89,
-   "dividend_yield": 0.42,
-   "dps_fiscal_year": 2025,
-   "dps_pretax": 0.2
-  },
-  "601816.SH": {
-   "price": 5.4,
-   "ytd_return": 6.82,
-   "return_1y": 5.57,
-   "return_3y": 19.05,
-   "high_52w": 5.45,
-   "low_52w": 4.335,
-   "dividend_yield": 2.48,
-   "dps_fiscal_year": 2025,
-   "dps_pretax": 0.1339
-  },
-  "000651.SZ": {
-   "price": 40.66,
-   "ytd_return": 9.23,
-   "return_1y": 9.32,
-   "return_3y": 68.17,
-   "high_52w": 40.68,
-   "low_52w": 34.27,
-   "dividend_yield": 7.38,
-   "dps_fiscal_year": 2025,
-   "dps_pretax": 3.0
-  },
-  "688820.SH": {
-   "price": 89.39,
-   "ytd_return": null,
-   "return_1y": null,
-   "return_3y": null,
-   "high_52w": 235.32,
-   "low_52w": 71.76,
-   "dividend_yield": null,
-   "dps_fiscal_year": 2025,
-   "dps_pretax": null
-  },
-  "688008.SH": {
-   "price": 130.6,
-   "ytd_return": 11.42,
-   "return_1y": 8.28,
-   "return_3y": 123.47,
-   "high_52w": 332.314,
-   "low_52w": 111.414,
-   "dividend_yield": 0.45,
-   "dps_fiscal_year": 2025,
-   "dps_pretax": 0.59
-  },
-  "300033.SZ": {
-   "price": 195.2,
-   "ytd_return": -13.74,
-   "return_1y": -15.77,
-   "return_3y": 95.34,
-   "high_52w": 306.872,
-   "low_52w": 185.01,
-   "dividend_yield": 2.66,
-   "dps_fiscal_year": 2025,
-   "dps_pretax": 5.2
   }
  },
  "errors": {}
