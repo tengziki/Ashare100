@@ -1,23 +1,23 @@
 {
  "code": "300124.SZ",
  "name": "汇川技术",
- "exited_on": "2026-11-17",
- "exited_vs": "2026-11-16 收盘",
- "last_rank": 100,
- "now_rank": 99,
- "now_total_mv": 143144000000.0,
+ "exited_on": "2026-11-18",
+ "exited_vs": "2026-11-17 收盘",
+ "last_rank": 99,
+ "now_rank": 101,
+ "now_total_mv": 141816000000.0,
  "profile_status": "verified_snapshot",
  "market": {
-  "price": 52.96,
-  "change_pct": -0.92,
-  "amount": 1256180000.0,
-  "turnover_rate": 0.98,
-  "pe_ttm": 27.64,
-  "pb": 3.73,
-  "total_mv": 143578000000.0,
-  "float_mv": 127831000000.0,
-  "quote_at": "20261116161427",
-  "as_of_date": "2026-11-16"
+  "price": 52.8,
+  "change_pct": -0.3,
+  "amount": 1258030000.0,
+  "turnover_rate": 0.99,
+  "pe_ttm": 27.56,
+  "pb": 3.72,
+  "total_mv": 143144000000.0,
+  "float_mv": 127445000000.0,
+  "quote_at": "20261117161421",
+  "as_of_date": "2026-11-17"
  },
  "profile": {
   "identity": {
@@ -522,5 +522,5 @@
    ]
   }
  },
- "now_at": "2026-11-17"
+ "now_at": "2026-11-18"
 }
