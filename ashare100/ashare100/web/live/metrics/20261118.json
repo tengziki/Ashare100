@@ -1,7 +1,7 @@
 {
  "meta": {
   "quote_date": "2026-11-18",
-  "generated_at": "2026-11-18T20:16:57+08:00",
+  "generated_at": "2026-11-19T00:28:52+08:00",
   "snapshot_generated_at": "2026-11-18T20:10:25+08:00",
   "sources": {
    "kline": "腾讯前复权日 K",
@@ -286,6 +286,17 @@
    "dps_fiscal_year": 2025,
    "dps_pretax": 1.5
   },
+  "601998.SH": {
+   "price": 9.57,
+   "ytd_return": 27.48,
+   "return_1y": 26.94,
+   "return_3y": 120.61,
+   "high_52w": 9.58,
+   "low_52w": 6.85,
+   "dividend_yield": 3.98,
+   "dps_fiscal_year": 2025,
+   "dps_pretax": 0.381
+  },
   "300308.SZ": {
    "price": 396.3,
    "ytd_return": -34.8,
@@ -407,6 +418,17 @@
    "dps_fiscal_year": 2025,
    "dps_pretax": 0.22
   },
+  "002415.SZ": {
+   "price": 35.29,
+   "ytd_return": 23.65,
+   "return_1y": 19.91,
+   "return_3y": 8.87,
+   "high_52w": 38.63,
+   "low_52w": 27.31,
+   "dividend_yield": 3.26,
+   "dps_fiscal_year": 2025,
+   "dps_pretax": 1.15
+  },
   "601601.SH": {
    "price": 32.54,
    "ytd_return": -19.34,
@@ -429,6 +451,17 @@
    "dps_fiscal_year": 2025,
    "dps_pretax": 0.2
   },
+  "300059.SZ": {
+   "price": 18.38,
+   "ytd_return": -20.36,
+   "return_1y": -24.64,
+   "return_3y": 21.72,
+   "high_52w": 25.61,
+   "low_52w": 17.18,
+   "dividend_yield": 0.54,
+   "dps_fiscal_year": 2025,
+   "dps_pretax": 0.1
+  },
   "601211.SH": {
    "price": 16.29,
    "ytd_return": -18.14,
@@ -439,6 +472,17 @@
    "dividend_yield": 3.07,
    "dps_fiscal_year": 2025,
    "dps_pretax": 0.5
+  },
+  "000858.SZ": {
+   "price": 73.36,
+   "ytd_return": -29.03,
+   "return_1y": -36.32,
+   "return_3y": -47.39,
+   "high_52w": 116.484,
+   "low_52w": 67.942,
+   "dividend_yield": 7.03,
+   "dps_fiscal_year": 2025,
+   "dps_pretax": 5.1577
   },
   "601225.SH": {
    "price": 27.79,
@@ -462,6 +506,17 @@
    "dps_fiscal_year": 2025,
    "dps_pretax": 1.0
   },
+  "002714.SZ": {
+   "price": 45.57,
+   "ytd_return": -9.15,
+   "return_1y": -5.41,
+   "return_3y": 33.15,
+   "high_52w": 51.428,
+   "low_52w": 31.81,
+   "dividend_yield": 2.97,
+   "dps_fiscal_year": 2025,
+   "dps_pretax": 1.3545
+  },
   "601816.SH": {
    "price": 5.36,
    "ytd_return": 6.03,
@@ -472,6 +527,17 @@
    "dividend_yield": 2.5,
    "dps_fiscal_year": 2025,
    "dps_pretax": 0.1339
+  },
+  "600150.SH": {
+   "price": 34.71,
+   "ytd_return": 7.03,
+   "return_1y": 4.58,
+   "return_3y": 42.08,
+   "high_52w": 42.59,
+   "low_52w": 29.17,
+   "dividend_yield": 1.05,
+   "dps_fiscal_year": 2025,
+   "dps_pretax": 0.365
   },
   "603993.SH": {
    "price": 12.13,
@@ -1044,72 +1110,6 @@
    "dividend_yield": 3.2,
    "dps_fiscal_year": 2025,
    "dps_pretax": 0.6
-  },
-  "601998.SH": {
-   "price": 9.57,
-   "ytd_return": 27.48,
-   "return_1y": 26.94,
-   "return_3y": 120.61,
-   "high_52w": 9.58,
-   "low_52w": 6.85,
-   "dividend_yield": 3.98,
-   "dps_fiscal_year": 2025,
-   "dps_pretax": 0.381
-  },
-  "002415.SZ": {
-   "price": 35.29,
-   "ytd_return": 23.65,
-   "return_1y": 19.91,
-   "return_3y": 8.87,
-   "high_52w": 38.63,
-   "low_52w": 27.31,
-   "dividend_yield": 3.26,
-   "dps_fiscal_year": 2025,
-   "dps_pretax": 1.15
-  },
-  "300059.SZ": {
-   "price": 18.38,
-   "ytd_return": -20.36,
-   "return_1y": -24.64,
-   "return_3y": 21.72,
-   "high_52w": 25.61,
-   "low_52w": 17.18,
-   "dividend_yield": 0.54,
-   "dps_fiscal_year": 2025,
-   "dps_pretax": 0.1
-  },
-  "000858.SZ": {
-   "price": 73.36,
-   "ytd_return": -29.03,
-   "return_1y": -36.32,
-   "return_3y": -47.39,
-   "high_52w": 116.484,
-   "low_52w": 67.942,
-   "dividend_yield": 7.03,
-   "dps_fiscal_year": 2025,
-   "dps_pretax": 5.1577
-  },
-  "002714.SZ": {
-   "price": 45.57,
-   "ytd_return": -9.15,
-   "return_1y": -5.41,
-   "return_3y": 33.15,
-   "high_52w": 51.428,
-   "low_52w": 31.81,
-   "dividend_yield": 2.97,
-   "dps_fiscal_year": 2025,
-   "dps_pretax": 1.3545
-  },
-  "600150.SH": {
-   "price": 34.71,
-   "ytd_return": 7.03,
-   "return_1y": 4.58,
-   "return_3y": 42.08,
-   "high_52w": 42.59,
-   "low_52w": 29.17,
-   "dividend_yield": 1.05,
-   "dps_fiscal_year": 2025,
-   "dps_pretax": 0.365
   }
  },
  "errors": {}
