@@ -1,7 +1,7 @@
 {
  "meta": {
   "quote_date": "2026-11-19",
-  "generated_at": "2026-11-19T20:12:44+08:00",
+  "generated_at": "2026-11-20T00:36:00+08:00",
   "snapshot_generated_at": "2026-11-19T20:07:16+08:00",
   "sources": {
    "kline": "腾讯前复权日 K",
@@ -303,7 +303,7 @@
    "return_1y": -16.04,
    "return_3y": 463.67,
    "high_52w": 1415.686,
-   "low_52w": 383.0,
+   "low_52w": 377.96,
    "dividend_yield": 0.34,
    "dps_fiscal_year": 2025,
    "dps_pretax": 1.4
@@ -648,17 +648,6 @@
    "dividend_yield": 1.66,
    "dps_fiscal_year": 2025,
    "dps_pretax": 3.07
-  },
-  "600309.SH": {
-   "price": 69.5,
-   "ytd_return": -6.86,
-   "return_1y": 9.36,
-   "return_3y": -10.17,
-   "high_52w": 94.94,
-   "low_52w": 60.2,
-   "dividend_yield": 1.8,
-   "dps_fiscal_year": 2025,
-   "dps_pretax": 1.25
   },
   "601995.SH": {
    "price": 27.29,
@@ -1110,6 +1099,17 @@
    "dividend_yield": 0.94,
    "dps_fiscal_year": 2025,
    "dps_pretax": 0.5
+  },
+  "600309.SH": {
+   "price": 69.5,
+   "ytd_return": -6.86,
+   "return_1y": 9.36,
+   "return_3y": -10.17,
+   "high_52w": 94.94,
+   "low_52w": 60.2,
+   "dividend_yield": 1.8,
+   "dps_fiscal_year": 2025,
+   "dps_pretax": 1.25
   }
  },
  "errors": {}
