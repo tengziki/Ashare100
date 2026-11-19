@@ -1,23 +1,23 @@
 {
  "code": "688795.SH",
  "name": "摩尔线程-U",
- "exited_on": "2026-11-03",
- "exited_vs": "2026-11-02 收盘",
- "last_rank": 95,
- "now_rank": 95,
- "now_total_mv": 157793000000.0,
+ "exited_on": "2026-11-19",
+ "exited_vs": "2026-11-18 收盘",
+ "last_rank": 89,
+ "now_rank": 102,
+ "now_total_mv": 142541000000.0,
  "profile_status": "verified_snapshot",
  "market": {
-  "price": 324.55,
-  "change_pct": 0.59,
-  "amount": 1557850000.0,
-  "turnover_rate": 8.67,
-  "pe_ttm": -636.78,
-  "pb": 12.73,
-  "total_mv": 152548000000.0,
-  "float_mv": 18175000000.0,
-  "quote_at": "20261102161443",
-  "as_of_date": "2026-11-02"
+  "price": 331.6,
+  "change_pct": 7.28,
+  "amount": 2330060000.0,
+  "turnover_rate": 12.55,
+  "pe_ttm": -650.61,
+  "pb": 13.0,
+  "total_mv": 155861000000.0,
+  "float_mv": 18570000000.0,
+  "quote_at": "20261118161456",
+  "as_of_date": "2026-11-18"
  },
  "profile": {
   "identity": {
@@ -601,5 +601,5 @@
    "count_12m": null
   }
  },
- "now_at": "2026-11-04"
+ "now_at": "2026-11-19"
 }
