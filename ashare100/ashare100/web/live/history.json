@@ -664,5 +664,13 @@
     "base_label": "2026-11-19 11:36",
     "entered": [],
     "exited": []
+  },
+  {
+    "snapshot": "snapshots/20261119T120716Z.json",
+    "quote_date": "2026-11-19",
+    "slot": "close",
+    "base_label": "2026-11-19 收盘",
+    "entered": [],
+    "exited": []
   }
 ]
