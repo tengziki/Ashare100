@@ -1,7 +1,7 @@
 {
  "meta": {
   "quote_date": "2026-11-20",
-  "generated_at": "2026-11-20T20:12:20+08:00",
+  "generated_at": "2026-11-21T00:09:44+08:00",
   "snapshot_generated_at": "2026-11-20T20:06:51+08:00",
   "sources": {
    "kline": "腾讯前复权日 K",
@@ -880,6 +880,17 @@
    "dps_fiscal_year": 2025,
    "dps_pretax": 0.5292
   },
+  "002379.SZ": {
+   "price": 12.65,
+   "ytd_return": -46.56,
+   "return_1y": -36.91,
+   "return_3y": 186.2,
+   "high_52w": 33.19,
+   "low_52w": 12.49,
+   "dividend_yield": 1.98,
+   "dps_fiscal_year": 2025,
+   "dps_pretax": 0.25
+  },
   "000725.SZ": {
    "price": 4.39,
    "ytd_return": 5.68,
@@ -1099,17 +1110,6 @@
    "dividend_yield": 0.95,
    "dps_fiscal_year": 2025,
    "dps_pretax": 0.5
-  },
-  "002379.SZ": {
-   "price": 12.65,
-   "ytd_return": -46.56,
-   "return_1y": -36.91,
-   "return_3y": 186.2,
-   "high_52w": 33.19,
-   "low_52w": 12.49,
-   "dividend_yield": 1.98,
-   "dps_fiscal_year": 2025,
-   "dps_pretax": 0.25
   }
  },
  "errors": {}
