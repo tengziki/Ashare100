@@ -770,5 +770,19 @@
   "bytes": 8169,
   "via": "sse-e-avatar",
   "px": 78
+ },
+ "600886.SH": {
+  "file": "600886.SH.png",
+  "source": "https://sns.sseinfo.com/resources/images/avatar/company/600886.png",
+  "bytes": 10400,
+  "via": "sse-e-avatar",
+  "px": 78
+ },
+ "601169.SH": {
+  "file": "601169.SH.png",
+  "source": "https://sns.sseinfo.com/resources/images/avatar/company/601169.png",
+  "bytes": 8919,
+  "via": "sse-e-avatar",
+  "px": 78
  }
 }

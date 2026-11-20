@@ -684,5 +684,17 @@
     "exited": [
       "300124.SZ"
     ]
+  },
+  {
+    "snapshot": "snapshots/20261120T071106Z.json",
+    "quote_date": "2026-11-20",
+    "slot": "close",
+    "base_label": "2026-11-20 11:35",
+    "entered": [
+      "300124.SZ"
+    ],
+    "exited": [
+      "600183.SH"
+    ]
   }
 ]
