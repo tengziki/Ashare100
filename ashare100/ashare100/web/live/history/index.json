@@ -29,12 +29,6 @@
   "last_rank": 100,
   "profile_status": "verified_snapshot"
  },
- "002916.SZ": {
-  "name": "深南电路",
-  "exited_on": "2026-11-13",
-  "last_rank": 93,
-  "profile_status": "verified_snapshot"
- },
  "300408.SZ": {
   "name": "三环集团",
   "exited_on": "2026-11-13",
@@ -63,6 +57,12 @@
   "name": "摩尔线程-U",
   "exited_on": "2026-11-19",
   "last_rank": 89,
+  "profile_status": "verified_snapshot"
+ },
+ "300124.SZ": {
+  "name": "汇川技术",
+  "exited_on": "2026-11-20",
+  "last_rank": 100,
   "profile_status": "verified_snapshot"
  }
 }
