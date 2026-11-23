@@ -716,5 +716,13 @@
     "exited": [
       "002916.SZ"
     ]
+  },
+  {
+    "snapshot": "snapshots/20261123T071110Z.json",
+    "quote_date": "2026-11-23",
+    "slot": "close",
+    "base_label": "2026-11-23 11:36",
+    "entered": [],
+    "exited": []
   }
 ]
