@@ -41,12 +41,6 @@
   "last_rank": 97,
   "profile_status": "verified_snapshot"
  },
- "002050.SZ": {
-  "name": "三花智控",
-  "exited_on": "2026-11-16",
-  "last_rank": 100,
-  "profile_status": "auto_profile"
- },
  "002384.SZ": {
   "name": "东山精密",
   "exited_on": "2026-11-17",
@@ -63,6 +57,12 @@
   "name": "深南电路",
   "exited_on": "2026-11-23",
   "last_rank": 99,
+  "profile_status": "verified_snapshot"
+ },
+ "600989.SH": {
+  "name": "宝丰能源",
+  "exited_on": "2026-11-24",
+  "last_rank": 98,
   "profile_status": "verified_snapshot"
  }
 }
