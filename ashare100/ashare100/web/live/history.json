@@ -744,5 +744,13 @@
     "exited": [
       "600989.SH"
     ]
+  },
+  {
+    "snapshot": "snapshots/20261124T071117Z.json",
+    "quote_date": "2026-11-24",
+    "slot": "close",
+    "base_label": "2026-11-24 11:36",
+    "entered": [],
+    "exited": []
   }
 ]
