@@ -1,7 +1,7 @@
 {
  "meta": {
   "quote_date": "2026-11-24",
-  "generated_at": "2026-11-24T22:18:23+08:00",
+  "generated_at": "2026-11-25T02:55:21+08:00",
   "snapshot_generated_at": "2026-11-24T22:12:31+08:00",
   "sources": {
    "kline": "腾讯前复权日 K",
@@ -849,11 +849,11 @@
   },
   "601009.SH": {
    "price": 13.5,
-   "ytd_return": 20.46,
-   "return_1y": 21.44,
-   "return_3y": 124.29,
+   "ytd_return": 24.13,
+   "return_1y": 25.16,
+   "return_3y": 137.38,
    "high_52w": 13.5,
-   "low_52w": 9.85,
+   "low_52w": 9.519,
    "dividend_yield": 3.92,
    "dps_fiscal_year": 2025,
    "dps_pretax": 0.5292
