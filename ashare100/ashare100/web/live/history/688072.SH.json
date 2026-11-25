@@ -1,23 +1,23 @@
 {
  "code": "688072.SH",
  "name": "拓荆科技",
- "exited_on": "2026-11-13",
- "exited_vs": "2026-11-12 收盘",
- "last_rank": 100,
- "now_rank": 95,
- "now_total_mv": 149885000000.0,
+ "exited_on": "2026-11-25",
+ "exited_vs": "2026-11-24 收盘",
+ "last_rank": 92,
+ "now_rank": 101,
+ "now_total_mv": 141704000000.0,
  "profile_status": "verified_snapshot",
  "market": {
-  "price": 512.81,
-  "change_pct": 0.95,
-  "amount": 4254840000.0,
-  "turnover_rate": 2.86,
-  "pe_ttm": 53.49,
-  "pb": 10.84,
-  "total_mv": 149829000000.0,
-  "float_mv": 145734000000.0,
-  "quote_at": "20261112161459",
-  "as_of_date": "2026-11-12"
+  "price": 517.34,
+  "change_pct": 1.78,
+  "amount": 2957130000.0,
+  "turnover_rate": 1.99,
+  "pe_ttm": 53.96,
+  "pb": 10.94,
+  "total_mv": 151153000000.0,
+  "float_mv": 147021000000.0,
+  "quote_at": "20261124161500",
+  "as_of_date": "2026-11-24"
  },
  "profile": {
   "identity": {
@@ -569,5 +569,5 @@
    "count_12m": null
   }
  },
- "now_at": "2026-11-17"
+ "now_at": "2026-11-25"
 }

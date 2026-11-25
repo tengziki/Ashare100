@@ -35,18 +35,6 @@
   "last_rank": 94,
   "profile_status": "verified_snapshot"
  },
- "300394.SZ": {
-  "name": "天孚通信",
-  "exited_on": "2026-11-13",
-  "last_rank": 97,
-  "profile_status": "verified_snapshot"
- },
- "002384.SZ": {
-  "name": "东山精密",
-  "exited_on": "2026-11-17",
-  "last_rank": 97,
-  "profile_status": "verified_snapshot"
- },
  "688795.SH": {
   "name": "摩尔线程-U",
   "exited_on": "2026-11-19",
@@ -59,10 +47,22 @@
   "last_rank": 99,
   "profile_status": "verified_snapshot"
  },
- "600989.SH": {
-  "name": "宝丰能源",
-  "exited_on": "2026-11-24",
-  "last_rank": 98,
+ "688072.SH": {
+  "name": "拓荆科技",
+  "exited_on": "2026-11-25",
+  "last_rank": 92,
   "profile_status": "verified_snapshot"
+ },
+ "688802.SH": {
+  "name": "沐曦股份-U",
+  "exited_on": "2026-11-25",
+  "last_rank": 96,
+  "profile_status": "verified_snapshot"
+ },
+ "002050.SZ": {
+  "name": "三花智控",
+  "exited_on": "2026-11-25",
+  "last_rank": 99,
+  "profile_status": "auto_profile"
  }
 }

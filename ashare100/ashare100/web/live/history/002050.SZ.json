@@ -1,23 +1,23 @@
 {
  "code": "002050.SZ",
  "name": "三花智控",
- "exited_on": "2026-11-16",
- "exited_vs": "2026-11-13 收盘",
- "last_rank": 100,
- "now_rank": 99,
- "now_total_mv": 145934000000.0,
+ "exited_on": "2026-11-25",
+ "exited_vs": "2026-11-24 收盘",
+ "last_rank": 99,
+ "now_rank": 104,
+ "now_total_mv": 137770000000.0,
  "profile_status": "auto_profile",
  "market": {
-  "price": 34.87,
-  "change_pct": 0.75,
-  "amount": 2183730000.0,
-  "turnover_rate": 1.68,
-  "pe_ttm": 37.74,
-  "pb": 4.48,
-  "total_mv": 146733000000.0,
-  "float_mv": 128707000000.0,
-  "quote_at": "20261113161500",
-  "as_of_date": "2026-11-13"
+  "price": 34.36,
+  "change_pct": 1.42,
+  "amount": 2828540000.0,
+  "turnover_rate": 2.21,
+  "pe_ttm": 37.19,
+  "pb": 4.41,
+  "total_mv": 144587000000.0,
+  "float_mv": 126824000000.0,
+  "quote_at": "20261124161500",
+  "as_of_date": "2026-11-24"
  },
  "profile": {
   "identity": {
@@ -494,5 +494,5 @@
    }
   }
  },
- "now_at": "2026-11-24"
+ "now_at": "2026-11-25"
 }
