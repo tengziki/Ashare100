@@ -776,5 +776,17 @@
       "688802.SH",
       "002050.SZ"
     ]
+  },
+  {
+    "snapshot": "snapshots/20261125T071125Z.json",
+    "quote_date": "2026-11-25",
+    "slot": "close",
+    "base_label": "2026-11-25 11:36",
+    "entered": [
+      "600050.SH"
+    ],
+    "exited": [
+      "002384.SZ"
+    ]
   }
 ]
