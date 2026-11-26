@@ -41,12 +41,6 @@
   "last_rank": 89,
   "profile_status": "verified_snapshot"
  },
- "002916.SZ": {
-  "name": "深南电路",
-  "exited_on": "2026-11-23",
-  "last_rank": 99,
-  "profile_status": "verified_snapshot"
- },
  "688072.SH": {
   "name": "拓荆科技",
   "exited_on": "2026-11-25",
@@ -64,5 +58,17 @@
   "exited_on": "2026-11-25",
   "last_rank": 99,
   "profile_status": "auto_profile"
+ },
+ "600050.SH": {
+  "name": "中国联通",
+  "exited_on": "2026-11-26",
+  "last_rank": 99,
+  "profile_status": "auto_profile"
+ },
+ "603986.SH": {
+  "name": "兆易创新",
+  "exited_on": "2026-11-26",
+  "last_rank": 100,
+  "profile_status": "verified_snapshot"
  }
 }
