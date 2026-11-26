@@ -822,5 +822,13 @@
     "exited": [
       "002916.SZ"
     ]
+  },
+  {
+    "snapshot": "snapshots/20261126T130426Z.json",
+    "quote_date": "2026-11-26",
+    "slot": "close",
+    "base_label": "2026-11-26 收盘",
+    "entered": [],
+    "exited": []
   }
 ]
