@@ -35,11 +35,13 @@
    "schedule": "交易日 11:35 / 15:10",
    "warn_hours": 28,
    "stale_hours": 52,
-   "last_success": "2026-11-26T01:58:20+08:00",
-   "data_date": "2026-11-25",
+   "last_success": "2026-11-26T11:40:25+08:00",
+   "data_date": "2026-11-26",
    "detail": "公告 100/100 家",
-   "problems": []
+   "problems": [
+    "000333.SZ 公告：IncompleteRead IncompleteRead(662 bytes read)"
+   ]
   }
  },
- "updated": "2026-11-26T11:38:15+08:00"
+ "updated": "2026-11-26T11:40:25+08:00"
 }
