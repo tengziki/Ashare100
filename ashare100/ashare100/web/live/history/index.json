@@ -41,12 +41,6 @@
   "last_rank": 89,
   "profile_status": "verified_snapshot"
  },
- "688072.SH": {
-  "name": "拓荆科技",
-  "exited_on": "2026-11-25",
-  "last_rank": 92,
-  "profile_status": "verified_snapshot"
- },
  "688802.SH": {
   "name": "沐曦股份-U",
   "exited_on": "2026-11-25",
@@ -59,10 +53,22 @@
   "last_rank": 99,
   "profile_status": "auto_profile"
  },
- "603986.SH": {
-  "name": "兆易创新",
-  "exited_on": "2026-11-26",
-  "last_rank": 100,
+ "600660.SH": {
+  "name": "福耀玻璃",
+  "exited_on": "2026-11-27",
+  "last_rank": 96,
   "profile_status": "verified_snapshot"
+ },
+ "000776.SZ": {
+  "name": "广发证券",
+  "exited_on": "2026-11-27",
+  "last_rank": 97,
+  "profile_status": "verified_snapshot"
+ },
+ "600050.SH": {
+  "name": "中国联通",
+  "exited_on": "2026-11-27",
+  "last_rank": 100,
+  "profile_status": "auto_profile"
  }
 }

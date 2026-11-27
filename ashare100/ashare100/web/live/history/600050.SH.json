@@ -1,23 +1,23 @@
 {
  "code": "600050.SH",
  "name": "中国联通",
- "exited_on": "2026-11-26",
- "exited_vs": "2026-11-25 收盘",
- "last_rank": 99,
- "now_rank": 100,
- "now_total_mv": 139752000000.0,
+ "exited_on": "2026-11-27",
+ "exited_vs": "2026-11-26 收盘",
+ "last_rank": 100,
+ "now_rank": 104,
+ "now_total_mv": 137251000000.0,
  "profile_status": "auto_profile",
  "market": {
-  "price": 4.49,
-  "change_pct": 0.22,
-  "amount": 749160000.0,
-  "turnover_rate": 0.54,
-  "pe_ttm": 22.8,
+  "price": 4.47,
+  "change_pct": -0.45,
+  "amount": 646490000.0,
+  "turnover_rate": 0.47,
+  "pe_ttm": 22.7,
   "pb": 0.81,
-  "total_mv": 140377000000.0,
-  "float_mv": 139147000000.0,
-  "quote_at": "20261125161431",
-  "as_of_date": "2026-11-25"
+  "total_mv": 139752000000.0,
+  "float_mv": 138527000000.0,
+  "quote_at": "20261126161452",
+  "as_of_date": "2026-11-26"
  },
  "profile": {
   "identity": {
@@ -591,5 +591,5 @@
    }
   }
  },
- "now_at": "2026-11-26"
+ "now_at": "2026-11-27"
 }
