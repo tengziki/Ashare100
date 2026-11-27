@@ -860,5 +860,13 @@
       "600989.SH",
       "300124.SZ"
     ]
+  },
+  {
+    "snapshot": "snapshots/20261127T130126Z.json",
+    "quote_date": "2026-11-27",
+    "slot": "close",
+    "base_label": "2026-11-27 收盘",
+    "entered": [],
+    "exited": []
   }
 ]
