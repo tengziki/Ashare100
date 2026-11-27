@@ -41,12 +41,6 @@
   "last_rank": 89,
   "profile_status": "verified_snapshot"
  },
- "688802.SH": {
-  "name": "沐曦股份-U",
-  "exited_on": "2026-11-25",
-  "last_rank": 96,
-  "profile_status": "verified_snapshot"
- },
  "002050.SZ": {
   "name": "三花智控",
   "exited_on": "2026-11-25",
@@ -59,16 +53,22 @@
   "last_rank": 96,
   "profile_status": "verified_snapshot"
  },
- "000776.SZ": {
-  "name": "广发证券",
-  "exited_on": "2026-11-27",
-  "last_rank": 97,
-  "profile_status": "verified_snapshot"
- },
  "600050.SH": {
   "name": "中国联通",
   "exited_on": "2026-11-27",
   "last_rank": 100,
   "profile_status": "auto_profile"
+ },
+ "600989.SH": {
+  "name": "宝丰能源",
+  "exited_on": "2026-11-27",
+  "last_rank": 94,
+  "profile_status": "verified_snapshot"
+ },
+ "300124.SZ": {
+  "name": "汇川技术",
+  "exited_on": "2026-11-27",
+  "last_rank": 99,
+  "profile_status": "verified_snapshot"
  }
 }

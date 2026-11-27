@@ -1,23 +1,23 @@
 {
  "code": "600989.SH",
  "name": "宝丰能源",
- "exited_on": "2026-11-24",
- "exited_vs": "2026-11-23 收盘",
- "last_rank": 98,
- "now_rank": 100,
- "now_total_mv": 141827000000.0,
+ "exited_on": "2026-11-27",
+ "exited_vs": "2026-11-26 收盘",
+ "last_rank": 94,
+ "now_rank": 103,
+ "now_total_mv": 147401000000.0,
  "profile_status": "verified_snapshot",
  "market": {
-  "price": 20.07,
-  "change_pct": -1.08,
-  "amount": 887450000.0,
-  "turnover_rate": 0.6,
-  "pe_ttm": 8.8,
-  "pb": 2.59,
-  "total_mv": 147181000000.0,
-  "float_mv": 147181000000.0,
-  "quote_at": "20261123161458",
-  "as_of_date": "2026-11-23"
+  "price": 19.8,
+  "change_pct": 2.75,
+  "amount": 769520000.0,
+  "turnover_rate": 0.53,
+  "pe_ttm": 8.69,
+  "pb": 2.56,
+  "total_mv": 145201000000.0,
+  "float_mv": 145201000000.0,
+  "quote_at": "20261126161443",
+  "as_of_date": "2026-11-26"
  },
  "profile": {
   "identity": {
@@ -630,5 +630,5 @@
    "count_12m": null
   }
  },
- "now_at": "2026-11-25"
+ "now_at": "2026-11-27"
 }
